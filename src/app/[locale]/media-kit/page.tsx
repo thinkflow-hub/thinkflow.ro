@@ -1,17 +1,22 @@
 import type { Metadata } from "next";
+import { getTranslations } from "next-intl/server";
 import PageHeader from "@/components/PageHeader";
 
-export const metadata: Metadata = {
-  title: "Media Kit",
-};
+export async function generateMetadata({ params }: { params: Promise<{ locale: string }> }): Promise<Metadata> {
+  const { locale } = await params;
+  const t = await getTranslations({ locale });
+  return { title: t("mediaKit.title") };
+}
 
-export default function MediaKitPage() {
+export default async function MediaKitPage({ params }: { params: Promise<{ locale: string }> }) {
+  const { locale } = await params;
+  const t = await getTranslations({ locale });
   return (
     <div>
       <PageHeader
-        title="Media Kit"
-        description="For brands, partners, and affiliate networks."
-        badge="Partner Resources"
+        title={t("mediaKit.title")}
+        description={t("mediaKit.description")}
+        badge={t("mediaKit.badge")}
       />
 
       <div className="mx-auto max-w-3xl px-4 py-16">

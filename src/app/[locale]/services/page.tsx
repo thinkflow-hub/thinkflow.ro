@@ -1,10 +1,13 @@
 import type { Metadata } from "next";
-import Link from "next/link";
+import { getTranslations } from "next-intl/server";
+import { Link } from "@/i18n/navigation";
 import PageHeader from "@/components/PageHeader";
 
-export const metadata: Metadata = {
-  title: "Services",
-};
+export async function generateMetadata({ params }: { params: Promise<{ locale: string }> }): Promise<Metadata> {
+  const { locale } = await params;
+  const t = await getTranslations({ locale });
+  return { title: t("services.title") };
+}
 
 const services = [
   {
@@ -52,13 +55,16 @@ const services = [
   },
 ];
 
-export default function ServicesPage() {
+export default async function ServicesPage({ params }: { params: Promise<{ locale: string }> }) {
+  const { locale } = await params;
+  const t = await getTranslations({ locale });
+
   return (
     <div>
       <PageHeader
-        title="Services"
-        description="Production-grade solutions for agencies, startups, and technical teams."
-        badge="What We Build"
+        title={t("services.title")}
+        description={t("services.description")}
+        badge={t("services.badge")}
       />
 
       <div className="mx-auto max-w-6xl px-4 py-16">
@@ -75,11 +81,11 @@ export default function ServicesPage() {
                   rel="noopener noreferrer sponsored nofollow"
                   className="text-sm text-[#3b82f6] underline font-montserrat-bold"
                 >
-                  View on Fiverr &rarr;
+                  {t("services.viewOnFiverr")}
                 </a>
               ) : (
                 <Link href={`/services/${s.slug}`} className="text-sm text-[#3b82f6] underline font-montserrat-bold">
-                  Learn more &rarr;
+                  {t("services.learnMore")}
                 </Link>
               )}
             </div>

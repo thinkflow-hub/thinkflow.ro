@@ -4,7 +4,14 @@ import matter from "gray-matter";
 import { remark } from "remark";
 import html from "remark-html";
 
-const BLOG_DIR = path.join(process.cwd(), "src", "content", "blog");
+function getBlogDir(locale?: string) {
+  const base = path.join(process.cwd(), "src", "content", "blog");
+  if (!locale) return base;
+  const dir = path.join(base, locale);
+  if (fs.existsSync(dir)) return dir;
+  const enDir = path.join(base, "en");
+  return fs.existsSync(enDir) ? enDir : base;
+}
 
 export interface PostMeta {
   slug: string;
@@ -24,12 +31,13 @@ export interface Post {
   wordCount: number;
 }
 
-export function getAllPosts(): PostMeta[] {
-  if (!fs.existsSync(BLOG_DIR)) return [];
-  const files = fs.readdirSync(BLOG_DIR).filter((f) => f.endsWith(".md"));
+export function getAllPosts(locale?: string): PostMeta[] {
+  const dir = getBlogDir(locale);
+  if (!fs.existsSync(dir)) return [];
+  const files = fs.readdirSync(dir).filter((f) => f.endsWith(".md"));
   return files
     .map((f) => {
-      const raw = fs.readFileSync(path.join(BLOG_DIR, f), "utf-8");
+      const raw = fs.readFileSync(path.join(dir, f), "utf-8");
       const { data, content } = matter(raw);
       const wordCount = content.split(/\s+/).filter(Boolean).length;
       return {
@@ -47,8 +55,8 @@ export function getAllPosts(): PostMeta[] {
     .sort((a, b) => new Date(b.date).getTime() - new Date(a.date).getTime());
 }
 
-export async function getPost(slug: string): Promise<Post | null> {
-  const filePath = path.join(BLOG_DIR, `${slug}.md`);
+export async function getPost(slug: string, locale?: string): Promise<Post | null> {
+  const filePath = path.join(getBlogDir(locale), `${slug}.md`);
   if (!fs.existsSync(filePath)) return null;
   const raw = fs.readFileSync(filePath, "utf-8");
   const { data, content } = matter(raw);
@@ -86,7 +94,7 @@ export async function getPost(slug: string): Promise<Post | null> {
   };
 }
 
-export function getCategories(): string[] {
-  const posts = getAllPosts();
+export function getCategories(locale?: string): string[] {
+  const posts = getAllPosts(locale);
   return [...new Set(posts.map((p) => p.category))].sort();
 }

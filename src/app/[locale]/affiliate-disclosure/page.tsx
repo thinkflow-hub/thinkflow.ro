@@ -1,17 +1,22 @@
 import type { Metadata } from "next";
+import { getTranslations } from "next-intl/server";
 import PageHeader from "@/components/PageHeader";
 
-export const metadata: Metadata = {
-  title: "Affiliate Disclosure",
-};
+export async function generateMetadata({ params }: { params: Promise<{ locale: string }> }): Promise<Metadata> {
+  const { locale } = await params;
+  const t = await getTranslations({ locale });
+  return { title: t("affiliate.title") };
+}
 
-export default function AffiliateDisclosurePage() {
+export default async function AffiliateDisclosurePage({ params }: { params: Promise<{ locale: string }> }) {
+  const { locale } = await params;
+  const t = await getTranslations({ locale });
   return (
     <div>
       <PageHeader
-        title="Affiliate Disclosure"
-        description="Transparency about our affiliate relationships. FTC and GDPR compliant."
-        badge="Legal"
+        title={t("affiliate.title")}
+        description={t("affiliate.description")}
+        badge={t("affiliate.badge")}
       />
 
       <div className="mx-auto max-w-3xl px-4 py-16">

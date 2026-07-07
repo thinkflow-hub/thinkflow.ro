@@ -1,18 +1,22 @@
 "use client";
 
-import Link from "next/link";
 import { useState, useEffect } from "react";
-import { usePathname } from "next/navigation";
+import { useTranslations, useLocale } from "next-intl";
+import { Link, usePathname, useRouter } from "@/i18n/navigation";
 
-const navLinks = [
-  { href: "/", label: "Home" },
-  { href: "/services", label: "Services" },
-  { href: "/blog", label: "Blog" },
-  { href: "/about", label: "About" },
-  { href: "/contact", label: "Contact" },
+const navLinks: { href: "/" | "/services" | "/blog" | "/about" | "/contact"; labelKey: string }[] = [
+  { href: "/", labelKey: "nav.home" },
+  { href: "/services", labelKey: "nav.services" },
+  { href: "/blog", labelKey: "nav.blog" },
+  { href: "/about", labelKey: "nav.about" },
+  { href: "/contact", labelKey: "nav.contact" },
 ];
 
 export default function Header() {
+  const t = useTranslations();
+  const locale = useLocale();
+  const pathname = usePathname();
+  const router = useRouter();
   const [menuOpen, setMenuOpen] = useState(false);
   const [scrolled, setScrolled] = useState(false);
 
@@ -21,6 +25,10 @@ export default function Header() {
     window.addEventListener("scroll", onScroll, { passive: true });
     return () => window.removeEventListener("scroll", onScroll);
   }, []);
+
+  function switchLocale(newLocale: string) {
+    router.replace(pathname, { locale: newLocale });
+  }
 
   return (
     <header
@@ -48,17 +56,31 @@ export default function Header() {
                     href={link.href}
                     className="text-xs font-montserrat-bold uppercase tracking-widest text-white/60 hover:text-white transition-all"
                   >
-                    {link.label}
+                    {t(link.labelKey)}
                   </Link>
                 ))}
               </div>
 
               <div className="flex items-center gap-2">
                 <div className="flex items-center gap-1 bg-white/[0.03] border border-white/15 p-1 rounded-2xl">
-                  <button className="px-3 py-1.5 rounded-xl text-[9px] sm:text-[10px] font-montserrat-bold tracking-tight transition-all bg-[#3b82f6] text-white shadow-lg shadow-[#3b82f6]/20">
+                  <button
+                    onClick={() => switchLocale("en")}
+                    className={`px-3 py-1.5 rounded-xl text-[9px] sm:text-[10px] font-montserrat-bold tracking-tight transition-all ${
+                      locale === "en"
+                        ? "bg-[#3b82f6] text-white shadow-lg shadow-[#3b82f6]/20"
+                        : "text-white/30 hover:text-white"
+                    }`}
+                  >
                     EN
                   </button>
-                  <button className="px-3 py-1.5 rounded-xl text-[9px] sm:text-[10px] font-montserrat-bold tracking-tight transition-all text-white/30 hover:text-white">
+                  <button
+                    onClick={() => switchLocale("ro")}
+                    className={`px-3 py-1.5 rounded-xl text-[9px] sm:text-[10px] font-montserrat-bold tracking-tight transition-all ${
+                      locale === "ro"
+                        ? "bg-[#3b82f6] text-white shadow-lg shadow-[#3b82f6]/20"
+                        : "text-white/30 hover:text-white"
+                    }`}
+                  >
                     RO
                   </button>
                 </div>
@@ -78,10 +100,10 @@ export default function Header() {
 
             <div className="hidden md:flex flex-col items-center justify-center mt-2">
               <div className="text-[10px] sm:text-[12px] font-montserrat-bold text-[#3b82f6] uppercase tracking-[0.4em] leading-none">
-                SOTA
+                {t("header.sota")}
               </div>
               <div className="text-[7px] sm:text-[9px] font-montserrat-bold text-white/40 uppercase tracking-[0.2em] sm:tracking-[0.3em] leading-none mt-[4px]">
-                PRIVATE AI INFRASTRUCTURE
+                {t("header.tagline")}
               </div>
             </div>
           </div>
@@ -97,7 +119,7 @@ export default function Header() {
               className="block rounded-xl px-4 py-3 text-sm font-montserrat-bold uppercase tracking-widest text-white/60 hover:text-white hover:bg-white/5 transition-all"
               onClick={() => setMenuOpen(false)}
             >
-              {link.label}
+              {t(link.labelKey)}
             </Link>
           ))}
         </div>

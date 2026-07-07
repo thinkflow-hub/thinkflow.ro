@@ -1,6 +1,7 @@
 "use client";
 
-import Link from "next/link";
+import { useTranslations } from "next-intl";
+import { Link } from "@/i18n/navigation";
 import { useScrollReveal } from "@/hooks/useScrollReveal";
 import { useCountUp } from "@/hooks/useCountUp";
 
@@ -59,13 +60,6 @@ const archNodes = [
   { label: "Reviewer", desc: "Safety protocol — real-time self-audit and validation" },
 ];
 
-const stats = [
-  { value: 1248, suffix: "+", label: "Operations Processed" },
-  { value: 4, prefix: "2-", suffix: " weeks", label: "Average Delivery" },
-  { value: 3.2, suffix: "x", label: "Scaling Speed", decimals: 1 },
-  { value: 100, suffix: "%", label: "Data Sovereignty" },
-];
-
 function ScrollSection({ children, className = "" }: { children: React.ReactNode; className?: string }) {
   const [ref, visible] = useScrollReveal(0.1);
   return (
@@ -116,10 +110,18 @@ function StatCard({ value, suffix, prefix, label, decimals, start }: {
 }
 
 export default function HomePage() {
+  const t = useTranslations();
   const [heroRef, heroVisible] = useScrollReveal(0.01);
   const [servicesRef, servicesVisible] = useScrollReveal(0.1);
   const [pipelineRef, pipelineVisible] = useScrollReveal(0.1);
   const [statsRef, statsVisible] = useScrollReveal(0.3);
+
+  const stats = [
+    { value: 1248, suffix: "+", label: t("home.statsOps") },
+    { value: 4, prefix: "2-", suffix: " weeks", label: t("home.statsDelivery") },
+    { value: 3.2, suffix: "x", label: t("home.statsSpeed"), decimals: 1 },
+    { value: 100, suffix: "%", label: t("home.statsSovereignty") },
+  ];
 
   return (
     <div className="bg-black selection:bg-[#3b82f6]/30 selection:text-[#60a5fa]">
@@ -134,36 +136,31 @@ export default function HomePage() {
         <div className="absolute w-[800px] h-[800px] top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 rounded-full opacity-15 bg-[radial-gradient(circle,#3b82f6,transparent_70%)] blur-[160px] animate-pulse pointer-events-none" />
         <div className="max-w-7xl w-full flex flex-col items-center">
           <div className={`text-4xl md:text-6xl lg:text-[85px] font-montserrat-bold tracking-tighter leading-[0.85] mb-12 uppercase flex flex-col items-center ${heroVisible ? "animate-fade-in-up" : "opacity-0"}`}>
-            <div className="flex flex-wrap justify-center gap-x-[0.3em] py-2">
-              <span className="inline-block whitespace-nowrap text-white">YOUR</span>
-              <span className="inline-block whitespace-nowrap text-white">TIME</span>
-            </div>
-            <div className="flex flex-wrap justify-center gap-x-[0.3em] py-2">
-              <span className="inline-block whitespace-nowrap text-white">IS</span>
-              <span className="inline-block whitespace-nowrap text-white">FINITE.</span>
-            </div>
-            <div className="flex flex-wrap justify-center gap-x-[0.3em] py-2">
-              <span className="inline-block whitespace-nowrap bg-gradient-to-r from-[#3b82f6] via-[#60a5fa] to-[#3b82f6] bg-clip-text text-transparent font-montserrat-extrabold pb-4">
-                YOUR INFRASTRUCTURE
-              </span>
-              <span className="inline-block whitespace-nowrap bg-gradient-to-r from-[#3b82f6] via-[#60a5fa] to-[#3b82f6] bg-clip-text text-transparent font-montserrat-extrabold pb-4">
-                IS
-              </span>
-              <span className="inline-block whitespace-nowrap bg-gradient-to-r from-[#3b82f6] via-[#60a5fa] to-[#3b82f6] bg-clip-text text-transparent font-montserrat-extrabold pb-4">
-                LIMITLESS.
-              </span>
-            </div>
+            {t("home.heroTitle").split("\n").map((line, li) => (
+              <div key={li} className="flex flex-wrap justify-center gap-x-[0.3em] py-2">
+                {line.split(" ").map((word, wi) => (
+                  <span
+                    key={wi}
+                    className={`inline-block whitespace-nowrap pb-4 ${
+                      li === 1
+                        ? "bg-gradient-to-r from-[#3b82f6] via-[#60a5fa] to-[#3b82f6] bg-clip-text text-transparent font-montserrat-extrabold"
+                        : "text-white"
+                    }`}
+                  >
+                    {word}
+                  </span>
+                ))}
+              </div>
+            ))}
           </div>
           <div className={`max-w-2xl mx-auto mb-[54px] ${heroVisible ? "animate-fade-in-up" : "opacity-0"}`} style={{ animationDelay: "0.2s" }}>
             <p className="text-base md:text-xl text-white/50 font-montserrat-bold uppercase tracking-widest leading-[1.6]">
-              Move from hourly billing to delivery through autonomous systems.
-              <br />
-              <span className="text-[#3b82f6]">We sell private code, not generic chatbots.</span>
+              {t("home.heroSubtitle")}
             </p>
           </div>
           <div className={`flex flex-col sm:flex-row gap-6 justify-center ${heroVisible ? "animate-fade-in-up" : "opacity-0"}`} style={{ animationDelay: "0.3s" }}>
-            <ShimmerButton href="/contact">Check Eligibility</ShimmerButton>
-            <OutlineButton href="#architecture">Explore Architecture</OutlineButton>
+            <ShimmerButton href="/contact">{t("home.cta")}</ShimmerButton>
+            <OutlineButton href="#architecture">{t("home.ctaAlt")}</OutlineButton>
           </div>
           <div className="mt-16 w-full max-w-5xl" />
         </div>
@@ -176,28 +173,25 @@ export default function HomePage() {
             <div className="grid grid-cols-1 lg:grid-cols-12 gap-12 items-center">
               <div className="lg:col-span-4">
                 <h2 className="text-4xl md:text-5xl font-montserrat-bold tracking-tighter mb-4 leading-none uppercase">
-                  THE CORE <span className="text-[#3b82f6]">MATERIAL.</span>
+                  {t("home.coreMaterial")}
                 </h2>
                 <p className="text-sm text-white/40 font-montserrat-bold uppercase tracking-widest leading-loose">
-                  Our standard for private AI infrastructure.
+                  {t("home.coreSubtitle")}
                 </p>
               </div>
               <div className="lg:col-span-8 grid grid-cols-1 md:grid-cols-3 gap-4 lg:gap-8">
                 {[
                   {
                     icon: "shield-check",
-                    title: "Sovereignty",
-                    desc: "Private instances on dedicated servers. Your data remains your intellectual property."
+                    key: "sovereignty"
                   },
                   {
                     icon: "cpu",
-                    title: "Intellect",
-                    desc: "Neural orchestration with agents that self-audit in real time."
+                    key: "intellect"
                   },
                   {
                     icon: "database",
-                    title: "Memory",
-                    desc: "Persistent vector storage. Your agency learns from every execution."
+                    key: "memory"
                   },
                 ].map((item, i) => (
                   <div key={i} className="glass-card p-6 group hover:border-[#3b82f6]/20 transition-all flex items-start gap-5 relative noise-overlay">
@@ -226,10 +220,10 @@ export default function HomePage() {
                     </div>
                     <div>
                       <h3 className="text-[13px] font-montserrat-bold mb-2 uppercase tracking-[0.05em]">
-                        {item.title}
+                        {t(`home.${item.key}`)}
                       </h3>
                       <p className="text-[13px] text-white/50 leading-snug font-montserrat-bold">
-                        {item.desc}
+                        {t(`home.${item.key}Desc`)}
                       </p>
                     </div>
                   </div>
@@ -248,11 +242,11 @@ export default function HomePage() {
               <div className="flex items-center justify-center gap-3 mb-6">
                 <span className="w-2 h-2 rounded-full bg-[#3b82f6] animate-pulse shadow-lg shadow-[#3b82f6]/50" />
                 <h2 className="text-2xl sm:text-3xl font-montserrat-bold tracking-tighter uppercase">
-                  NEURAL <span className="text-[#3b82f6]">INTELLIGENCE</span>
+                  {t("home.neuralIntelligence")}
                 </h2>
               </div>
               <p className="text-[10px] sm:text-xs font-montserrat-bold text-white/20 uppercase tracking-[0.4em] mb-10">
-                Autonomous Orchestration
+                {t("home.autonomousOrchestration")}
               </p>
 
               <div className="stagger-children relative flex flex-wrap justify-center gap-4 lg:gap-6">
@@ -292,17 +286,18 @@ export default function HomePage() {
           <div className="max-w-7xl mx-auto w-full">
             <div className="mb-8 flex items-center gap-4 lg:gap-8">
               <h2 className="text-3xl md:text-4xl lg:text-5xl font-montserrat-bold tracking-tighter uppercase">
-                DEPLOYMENT <span className="text-[#3b82f6] font-montserrat-extrabold">PIPELINE</span>
+                {t("home.pipeline")}
               </h2>
               <div className="h-[1px] flex-1 bg-white/5" />
             </div>
             <div className="grid grid-cols-1 md:grid-cols-3 gap-4 lg:gap-8">
-              {[
-                { num: "01", label: "INFRA-01", title: "Analysis & Logic", desc: "We translate your know-how into private execution algorithms." },
-                { num: "02", label: "INFRA-02", title: "Calibration", desc: "The system runs in shadow mode until 100% validated by the architect." },
-                { num: "03", label: "INFRA-03", title: "Human Validation", desc: "Systems that execute complex tasks under your architect's supervision." },
-              ].map((step, i) => (
-                <div key={i} className="glass-card p-8 lg:p-12 relative noise-overlay h-full">
+              {[1, 2, 3].map((i) => ({
+                num: `0${i}`,
+                label: t(`home.step${i}Label`),
+                title: t(`home.step${i}Title`),
+                desc: t(`home.step${i}Desc`),
+              })).map((step) => (
+                <div key={step.num} className="glass-card p-8 lg:p-12 relative noise-overlay h-full">
                   <span className="absolute bottom-8 right-8 text-[80px] lg:text-[100px] font-montserrat-bold text-white/[0.02] select-none tracking-tighter">
                     {step.num}
                   </span>
@@ -339,10 +334,10 @@ export default function HomePage() {
                   <path d="M20 13c0 5-3.5 7.5-7.66 8.95a1 1 0 0 1-.67-.01C7.5 20.5 4 18 4 13V6a1 1 0 0 1 1-1c2 0 4.5-1.2 6.24-2.72a1.17 1.17 0 0 1 1.52 0C14.51 3.81 17 5 19 5a1 1 0 0 1 1 1z" />
                   <path d="m9 12 2 2 4-4" />
                 </svg>
-                Elite Selection Protocol
+                {t("home.eliteProtocol")}
               </div>
               <h2 className="text-4xl md:text-6xl lg:text-7xl font-montserrat-bold tracking-tighter mb-4 leading-[0.9] uppercase">
-                WHO <span className="text-[#3b82f6] underline decoration-[#3b82f6]/20 font-montserrat-extrabold">ThinkFLOW</span> IS FOR.
+                {t("home.whoFor")}
               </h2>
               <div className="space-y-4">
                 {[
@@ -366,10 +361,10 @@ export default function HomePage() {
             </div>
             <div className="glass-card p-8 md:p-14 relative noise-overlay shadow-2xl">
               <h3 className="text-4xl font-black mb-4 uppercase leading-none">
-                Ready for <span className="text-[#3b82f6]">Evolution</span>?
+                {t("home.auditCta")}
               </h3>
               <p className="text-xs text-white/40 mb-6 uppercase tracking-[0.4em] font-black">
-                REQUEST A PRIVATE INFRASTRUCTURE AUDIT
+                {t("home.auditButton")}
               </p>
               <div className="space-y-4">
                 <input
@@ -377,7 +372,7 @@ export default function HomePage() {
                   placeholder="CONTACT@AGENCY.AI"
                   className="w-full px-8 py-5 bg-black/40 border border-white/5 rounded-2xl text-xs font-bold uppercase tracking-widest focus:outline-none focus:border-[#3b82f6]/40 focus:ring-1 focus:ring-[#3b82f6]/10 transition-all placeholder:text-white/10"
                 />
-                <ShimmerButton href="/contact">Check Eligibility Now</ShimmerButton>
+                <ShimmerButton href="/contact">{t("home.auditButtonAlt")}</ShimmerButton>
               </div>
               <p className="mt-8 text-[8px] font-montserrat-regular text-white/10 leading-relaxed uppercase tracking-[0.3em]">
                 &copy; 2026 ThinkFLOW Systems. Architecture based on Python / LangGraph / Docker. Elite Infrastructure.
@@ -393,14 +388,14 @@ export default function HomePage() {
           <div className="max-w-7xl mx-auto w-full">
             <div className="mb-4 text-center">
               <span className="inline-block glass-card px-4 py-1.5 text-xs font-montserrat-bold tracking-widest uppercase text-white/60">
-                What We Build
+                {t("services.badge")}
               </span>
             </div>
             <h2 className="mb-3 text-center text-3xl md:text-4xl lg:text-5xl font-montserrat-bold tracking-tighter uppercase">
-              Services
+              {t("services.title")}
             </h2>
             <p className="mx-auto mb-12 max-w-xl text-center text-white/50 font-montserrat-bold text-sm uppercase tracking-widest">
-              Production-grade solutions for agencies, startups, and technical teams.
+              {t("services.description")}
             </p>
 
             <div className="grid gap-4 md:grid-cols-2 lg:grid-cols-3">
@@ -416,11 +411,11 @@ export default function HomePage() {
                       rel="noopener noreferrer sponsored nofollow"
                       className="text-sm text-[#3b82f6] underline font-montserrat-bold"
                     >
-                      View on Fiverr &rarr;
+                      {t("services.viewOnFiverr")}
                     </a>
                   ) : (
                     <Link href={s.href} className="text-sm text-[#3b82f6] underline font-montserrat-bold">
-                      Learn more &rarr;
+                      {t("services.learnMore")}
                     </Link>
                   )}
                 </div>

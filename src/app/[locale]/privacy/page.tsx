@@ -1,18 +1,23 @@
 import type { Metadata } from "next";
-import Link from "next/link";
+import { getTranslations } from "next-intl/server";
+import { Link } from "@/i18n/navigation";
 import PageHeader from "@/components/PageHeader";
 
-export const metadata: Metadata = {
-  title: "Privacy Policy",
-};
+export async function generateMetadata({ params }: { params: Promise<{ locale: string }> }): Promise<Metadata> {
+  const { locale } = await params;
+  const t = await getTranslations({ locale });
+  return { title: t("privacy.title") };
+}
 
-export default function PrivacyPage() {
+export default async function PrivacyPage({ params }: { params: Promise<{ locale: string }> }) {
+  const { locale } = await params;
+  const t = await getTranslations({ locale });
   return (
     <div>
       <PageHeader
-        title="Privacy Policy"
-        description="Last updated: July 7, 2026"
-        badge="Legal"
+        title={t("privacy.title")}
+        description={t("privacy.description")}
+        badge={t("privacy.badge")}
       />
 
       <div className="mx-auto max-w-3xl px-4 py-16">

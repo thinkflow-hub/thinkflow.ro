@@ -1,9 +1,11 @@
 "use client";
 
 import { useState, FormEvent } from "react";
-import Link from "next/link";
+import { useTranslations } from "next-intl";
+import { Link } from "@/i18n/navigation";
 
 export default function ContactForm() {
+  const t = useTranslations();
   const [status, setStatus] = useState<"idle" | "sending" | "success" | "error">("idle");
 
   async function handleSubmit(e: FormEvent<HTMLFormElement>) {
@@ -38,9 +40,9 @@ export default function ContactForm() {
     return (
       <div className="text-center py-12">
         <div className="text-4xl mb-4">✓</div>
-        <p className="text-lg font-montserrat-bold text-white">Message sent!</p>
+        <p className="text-lg font-montserrat-bold text-white">{t("contact.success")}</p>
         <p className="mt-2 text-sm text-zinc-400 font-montserrat-regular">
-          We&apos;ll respond within 24 hours.
+          {t("contact.successHint")}
         </p>
       </div>
     );
@@ -49,50 +51,50 @@ export default function ContactForm() {
   return (
     <form onSubmit={handleSubmit} className="space-y-6">
       <div>
-        <label htmlFor="name" className="mb-1 block text-xs font-montserrat-bold uppercase tracking-[0.2em] text-zinc-400">Name</label>
+        <label htmlFor="name" className="mb-1 block text-xs font-montserrat-bold uppercase tracking-[0.2em] text-zinc-400">{t("contact.name")}</label>
         <input
           type="text"
           id="name"
           name="name"
           required
           className="w-full border border-white/10 bg-white/5 px-4 py-3 text-sm text-white placeholder-zinc-600 font-montserrat-regular outline-none transition-colors focus:border-[#3b82f6]"
-          placeholder="Your name"
+          placeholder={t("contact.namePlaceholder")}
         />
       </div>
 
       <div>
-        <label htmlFor="email" className="mb-1 block text-xs font-montserrat-bold uppercase tracking-[0.2em] text-zinc-400">Email</label>
+        <label htmlFor="email" className="mb-1 block text-xs font-montserrat-bold uppercase tracking-[0.2em] text-zinc-400">{t("contact.email")}</label>
         <input
           type="email"
           id="email"
           name="email"
           required
           className="w-full border border-white/10 bg-white/5 px-4 py-3 text-sm text-white placeholder-zinc-600 font-montserrat-regular outline-none transition-colors focus:border-[#3b82f6]"
-          placeholder="your@email.com"
+          placeholder={t("contact.emailPlaceholder")}
         />
       </div>
 
       <div>
-        <label htmlFor="subject" className="mb-1 block text-xs font-montserrat-bold uppercase tracking-[0.2em] text-zinc-400">Subject</label>
+        <label htmlFor="subject" className="mb-1 block text-xs font-montserrat-bold uppercase tracking-[0.2em] text-zinc-400">{t("contact.subject")}</label>
         <input
           type="text"
           id="subject"
           name="subject"
           required
           className="w-full border border-white/10 bg-white/5 px-4 py-3 text-sm text-white placeholder-zinc-600 font-montserrat-regular outline-none transition-colors focus:border-[#3b82f6]"
-          placeholder="Project type or question"
+          placeholder={t("contact.subjectPlaceholder")}
         />
       </div>
 
       <div>
-        <label htmlFor="message" className="mb-1 block text-xs font-montserrat-bold uppercase tracking-[0.2em] text-zinc-400">Message</label>
+        <label htmlFor="message" className="mb-1 block text-xs font-montserrat-bold uppercase tracking-[0.2em] text-zinc-400">{t("contact.message")}</label>
         <textarea
           id="message"
           name="message"
           required
           rows={6}
           className="w-full border border-white/10 bg-white/5 px-4 py-3 text-sm text-white placeholder-zinc-600 font-montserrat-regular outline-none transition-colors focus:border-[#3b82f6]"
-          placeholder="Tell us about your project"
+          placeholder={t("contact.messagePlaceholder")}
         />
       </div>
 
@@ -104,17 +106,17 @@ export default function ContactForm() {
           className="mt-1 h-4 w-4 shrink-0 accent-[#3b82f6]"
         />
         <span className="text-xs text-zinc-500 font-montserrat-regular leading-tight">
-          I agree to the{" "}
+          {t("contact.consentIntro")}{" "}
           <Link href="/privacy" className="underline text-[#3b82f6] hover:text-white transition-colors">
-            Privacy Policy
+            {t("contact.privacy")}
           </Link>{" "}
-          and consent to my data being processed for this inquiry.
+          {t("contact.consentOutro")}
         </span>
       </label>
 
       {status === "error" && (
         <p className="text-xs text-red-400 font-montserrat-regular">
-          Failed to send. Please try again or email us directly at thinkflowhub@gmail.com.
+          {t("contact.error")}
         </p>
       )}
 
@@ -123,7 +125,7 @@ export default function ContactForm() {
         disabled={status === "sending"}
         className="glass-button inline-flex w-full items-center justify-center gap-2 px-10 py-4 text-white font-montserrat-bold text-sm uppercase tracking-[0.25em] disabled:opacity-50"
       >
-        {status === "sending" ? "Sending..." : "Send Message"}
+        {status === "sending" ? t("contact.sending") : t("contact.send")}
       </button>
     </form>
   );

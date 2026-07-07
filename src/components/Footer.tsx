@@ -1,8 +1,12 @@
-import Link from "next/link";
+"use client";
+
+import { useTranslations } from "next-intl";
+import { Link } from "@/i18n/navigation";
 import BackToTop from "./BackToTop";
 import NewsletterForm from "./NewsletterForm";
 
 export default function Footer() {
+  const t = useTranslations();
   const year = new Date().getFullYear();
 
   return (
@@ -19,50 +23,51 @@ export default function Footer() {
                 </span>
               </div>
               <p className="text-xs text-white/40 font-montserrat-bold uppercase tracking-widest leading-relaxed">
-                Private AI infrastructure based on Python, LangGraph, Docker. Elite Infrastructure.
+                {t("footer.description")}
               </p>
             </div>
 
             <div>
-              <h3 className="mb-4 text-[10px] font-montserrat-bold text-white/40 uppercase tracking-[0.3em]">Pages</h3>
+              <h3 className="mb-4 text-[10px] font-montserrat-bold text-white/40 uppercase tracking-[0.3em]">{t("footer.pages")}</h3>
               <ul className="space-y-2">
-                <li><Link href="/services" className="text-sm text-white/50 font-montserrat-regular transition-colors hover:text-white">Services</Link></li>
-                <li><Link href="/blog" className="text-sm text-white/50 font-montserrat-regular transition-colors hover:text-white">Blog</Link></li>
-                <li><Link href="/about" className="text-sm text-white/50 font-montserrat-regular transition-colors hover:text-white">About</Link></li>
-                <li><Link href="/contact" className="text-sm text-white/50 font-montserrat-regular transition-colors hover:text-white">Contact</Link></li>
+                <li><Link href="/services" className="text-sm text-white/50 font-montserrat-regular transition-colors hover:text-white">{t("nav.services")}</Link></li>
+                <li><Link href="/blog" className="text-sm text-white/50 font-montserrat-regular transition-colors hover:text-white">{t("nav.blog")}</Link></li>
+                <li><Link href="/about" className="text-sm text-white/50 font-montserrat-regular transition-colors hover:text-white">{t("nav.about")}</Link></li>
+                <li><Link href="/contact" className="text-sm text-white/50 font-montserrat-regular transition-colors hover:text-white">{t("nav.contact")}</Link></li>
+                <li><a href="https://news.thinkflow.ro" target="_blank" rel="noopener noreferrer" className="text-sm text-white/50 font-montserrat-regular transition-colors hover:text-white">{t("nav.news")} ↗</a></li>
               </ul>
             </div>
 
             <div>
-              <h3 className="mb-4 text-[10px] font-montserrat-bold text-white/40 uppercase tracking-[0.3em]">Legal</h3>
+              <h3 className="mb-4 text-[10px] font-montserrat-bold text-white/40 uppercase tracking-[0.3em]">{t("footer.legal")}</h3>
               <ul className="space-y-2">
-                <li><Link href="/terms" className="text-sm text-white/50 font-montserrat-regular transition-colors hover:text-white">Terms of Service</Link></li>
-                <li><Link href="/privacy" className="text-sm text-white/50 font-montserrat-regular transition-colors hover:text-white">Privacy Policy</Link></li>
-                <li><Link href="/affiliate-disclosure" className="text-sm text-white/50 font-montserrat-regular transition-colors hover:text-white">Affiliate Disclosure</Link></li>
-                <li><Link href="/media-kit" className="text-sm text-white/50 font-montserrat-regular transition-colors hover:text-white">Media Kit</Link></li>
+                <li><Link href="/terms" className="text-sm text-white/50 font-montserrat-regular transition-colors hover:text-white">{t("footer.terms")}</Link></li>
+                <li><Link href="/privacy" className="text-sm text-white/50 font-montserrat-regular transition-colors hover:text-white">{t("footer.privacy")}</Link></li>
+                <li><Link href="/affiliate-disclosure" className="text-sm text-white/50 font-montserrat-regular transition-colors hover:text-white">{t("footer.affiliate")}</Link></li>
+                <li><Link href="/media-kit" className="text-sm text-white/50 font-montserrat-regular transition-colors hover:text-white">{t("footer.mediaKit")}</Link></li>
               </ul>
             </div>
 
             <div>
-              <h3 className="mb-4 text-[10px] font-montserrat-bold text-white/40 uppercase tracking-[0.3em]">Connect</h3>
+              <h3 className="mb-4 text-[10px] font-montserrat-bold text-white/40 uppercase tracking-[0.3em]">{t("footer.connect")}</h3>
               <ul className="space-y-2 mb-6">
-                <li><span className="text-sm text-white/50 font-montserrat-regular">thinkflowhub@gmail.com</span></li>
-                <li><span className="text-sm text-white/50 font-montserrat-regular">Bucharest, Romania</span></li>
+                <li><span className="text-sm text-white/50 font-montserrat-regular">{t("footer.email")}</span></li>
+                <li><span className="text-sm text-white/50 font-montserrat-regular">{t("footer.location")}</span></li>
               </ul>
-              <h3 className="mb-3 text-[10px] font-montserrat-bold text-white/40 uppercase tracking-[0.3em]">Stay Updated</h3>
+              <h3 className="mb-3 text-[10px] font-montserrat-bold text-white/40 uppercase tracking-[0.3em]">{t("footer.stayUpdated")}</h3>
               <NewsletterForm />
             </div>
           </div>
 
           <div className="mt-12 border-t border-white/5 pt-8 text-center">
             <p className="text-[10px] text-white/30 font-montserrat-regular uppercase tracking-[0.2em]">
-              Some links on this site are affiliate links. See our{" "}
+              {t("footer.affiliateNotice")}{" "}
               <Link href="/affiliate-disclosure" className="underline hover:text-white transition-colors">
-                Affiliate Disclosure
+                {t("footer.affiliate")}
               </Link>.
             </p>
             <p className="mt-3 text-[10px] text-white/30 font-montserrat-regular uppercase tracking-[0.2em]">
-              &copy; {year} ThinkFLOW Systems. All rights reserved.
+              {t("footer.copyright", { year })}
             </p>
           </div>
         </div>

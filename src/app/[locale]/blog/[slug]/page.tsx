@@ -1,8 +1,9 @@
 import type { Metadata } from "next";
-import Link from "next/link";
 import Image from "next/image";
-import { getAllPosts, getPost } from "@/lib/posts";
 import { notFound } from "next/navigation";
+import { getTranslations, getLocale } from "next-intl/server";
+import { Link } from "@/i18n/navigation";
+import { getAllPosts, getPost } from "@/lib/posts";
 import ShareButtons from "./ShareButtons";
 import ViewTracker from "@/components/ViewTracker";
 import { ArrowLeft } from "lucide-react";
@@ -12,9 +13,9 @@ export function generateStaticParams() {
   return posts.map((p) => ({ slug: p.slug }));
 }
 
-export async function generateMetadata({ params }: { params: Promise<{ slug: string }> }): Promise<Metadata> {
-  const { slug } = await params;
-  const post = await getPost(slug);
+export async function generateMetadata({ params }: { params: Promise<{ slug: string; locale: string }> }): Promise<Metadata> {
+  const { slug, locale } = await params;
+  const post = await getPost(slug, locale);
   if (!post) return { title: "Post Not Found" };
 
   const ogUrl = `/api/og?title=${encodeURIComponent(post.meta.title)}&category=${encodeURIComponent(post.meta.category)}&tags=${encodeURIComponent(post.meta.tags.join(","))}`;
@@ -51,9 +52,10 @@ function extractHeadings(html: string): { level: number; text: string; id: strin
   return headings;
 }
 
-export default async function BlogPostPage({ params }: { params: Promise<{ slug: string }> }) {
-  const { slug } = await params;
-  const post = await getPost(slug);
+export default async function BlogPostPage({ params }: { params: Promise<{ slug: string; locale: string }> }) {
+  const { slug, locale } = await params;
+  const t = await getTranslations({ locale });
+  const post = await getPost(slug, locale);
 
   if (!post) notFound();
 
@@ -80,15 +82,14 @@ export default async function BlogPostPage({ params }: { params: Promise<{ slug:
 
       <Link href="/blog" className="mb-8 inline-flex items-center gap-1 text-sm text-muted transition-colors hover:text-foreground">
         <ArrowLeft className="w-4 h-4" />
-        All Articles
+        {t("blog.backToAll")}
       </Link>
 
       <div className="flex gap-8">
-        {/* ─── Sidebar TOC ─── */}
         {headings.length > 0 && (
           <aside className="hidden w-56 shrink-0 lg:block">
             <div className="sticky top-24">
-              <h4 className="mb-3 text-xs font-semibold tracking-wider uppercase text-muted">On this page</h4>
+              <h4 className="mb-3 text-xs font-semibold tracking-wider uppercase text-muted">{t("blog.onThisPage")}</h4>
               <nav className="space-y-1.5">
                 {headings.map((h) => (
                   <a
@@ -104,7 +105,6 @@ export default async function BlogPostPage({ params }: { params: Promise<{ slug:
           </aside>
         )}
 
-        {/* ─── Article ─── */}
         <article className="min-w-0 flex-1 max-w-3xl">
           <header className="mb-8">
             <time className="text-sm text-muted">{post.meta.date}</time>
@@ -139,20 +139,16 @@ export default async function BlogPostPage({ params }: { params: Promise<{ slug:
             dangerouslySetInnerHTML={{ __html: post.content }}
           />
 
-          {/* ─── Affiliate Disclosure ─── */}
           <div className="mt-8 rounded-lg border border-border bg-card/60 p-4 text-sm text-muted backdrop-blur-sm">
-            <p className="font-semibold text-foreground">Affiliate Disclosure</p>
+            <p className="font-semibold text-foreground">{t("affiliate.title")}</p>
             <p className="mt-1">
-              Some links in this article are affiliate links. If you make a purchase through them, we may
-              earn a commission at no extra cost to you. See our{" "}
-              <Link href="/affiliate-disclosure" className="underline">full disclosure</Link>.
+              {t("blog.affiliateNotice")}{" "}
+              <Link href="/affiliate-disclosure" className="underline">{t("blog.affiliateLink")}</Link>.
             </p>
           </div>
 
-          {/* ─── Share ─── */}
           <ShareButtons slug={slug} title={post.meta.title} />
 
-          {/* ─── Author Bio ─── */}
           <div className="mt-8 flex items-start gap-4 rounded-lg border border-border bg-card/60 p-6 backdrop-blur-sm">
             <div className="flex h-12 w-12 shrink-0 items-center justify-center rounded-full bg-accent/10 text-accent text-sm font-bold">
               DB
@@ -161,7 +157,7 @@ export default async function BlogPostPage({ params }: { params: Promise<{ slug:
               <p className="font-semibold">Daniel Burcea</p>
               <p className="mt-1 text-sm text-muted">
                 AI Systems Architect. Building private AI infrastructure since 2025.
-                <Link href="/about" className="ml-1 text-accent underline">Read more &rarr;</Link>
+                <Link href="/about" className="ml-1 text-accent underline">{t("blog.readAboutAuthor")} &rarr;</Link>
               </p>
             </div>
           </div>

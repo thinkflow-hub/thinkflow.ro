@@ -1,18 +1,23 @@
 import type { Metadata } from "next";
-import Link from "next/link";
+import { getTranslations } from "next-intl/server";
+import { Link } from "@/i18n/navigation";
 import PageHeader from "@/components/PageHeader";
 
-export const metadata: Metadata = {
-  title: "Terms of Service",
-};
+export async function generateMetadata({ params }: { params: Promise<{ locale: string }> }): Promise<Metadata> {
+  const { locale } = await params;
+  const t = await getTranslations({ locale });
+  return { title: t("terms.title") };
+}
 
-export default function TermsPage() {
+export default async function TermsPage({ params }: { params: Promise<{ locale: string }> }) {
+  const { locale } = await params;
+  const t = await getTranslations({ locale });
   return (
     <div>
       <PageHeader
-        title="Terms of Service"
-        description="Last updated: July 7, 2026"
-        badge="Legal"
+        title={t("terms.title")}
+        description={t("terms.description")}
+        badge={t("terms.badge")}
       />
 
       <div className="mx-auto max-w-3xl px-4 py-16">

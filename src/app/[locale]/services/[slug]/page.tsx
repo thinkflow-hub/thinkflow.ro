@@ -1,5 +1,6 @@
 import type { Metadata } from "next";
-import Link from "next/link";
+import { getTranslations } from "next-intl/server";
+import { Link } from "@/i18n/navigation";
 
 const serviceData: Record<string, { title: string; price: string; desc: string; details: string[]; audiences: string[] }> = {
   "private-ai-infrastructure": {
@@ -103,15 +104,16 @@ export function generateStaticParams() {
   return Object.keys(serviceData).map((slug) => ({ slug }));
 }
 
-export async function generateMetadata({ params }: { params: Promise<{ slug: string }> }): Promise<Metadata> {
+export async function generateMetadata({ params }: { params: Promise<{ slug: string; locale: string }> }): Promise<Metadata> {
   const { slug } = await params;
   const service = serviceData[slug];
   if (!service) return { title: "Service Not Found" };
   return { title: service.title, description: service.desc };
 }
 
-export default async function ServicePage({ params }: { params: Promise<{ slug: string }> }) {
-  const { slug } = await params;
+export default async function ServicePage({ params }: { params: Promise<{ slug: string; locale: string }> }) {
+  const { slug, locale } = await params;
+  const t = await getTranslations({ locale });
   const service = serviceData[slug];
 
   if (!service) {
@@ -119,14 +121,14 @@ export default async function ServicePage({ params }: { params: Promise<{ slug: 
       <div className="mx-auto max-w-3xl px-4 py-16 text-center">
         <h1 className="mb-4 text-3xl font-montserrat-bold">Service Not Found</h1>
         <p className="mb-8 text-white/60 font-montserrat-regular">The service you are looking for does not exist.</p>
-        <Link href="/services" className="text-[#3b82f6] underline font-montserrat-bold">View all services &rarr;</Link>
+        <Link href="/services" className="text-[#3b82f6] underline font-montserrat-bold">{t("services.viewAll")}</Link>
       </div>
     );
   }
 
   return (
     <div className="mx-auto max-w-4xl px-4 py-16">
-      <Link href="/services" className="mb-8 block text-sm text-white/50 hover:text-white font-montserrat-bold tracking-wider uppercase">&larr; All Services</Link>
+      <Link href="/services" className="mb-8 block text-sm text-white/50 hover:text-white font-montserrat-bold tracking-wider uppercase">&larr; {t("services.backToServices")}</Link>
 
       <div className="glass-card p-8 md:p-12 relative noise-overlay mb-8">
         <div className="flex items-start justify-between mb-4">

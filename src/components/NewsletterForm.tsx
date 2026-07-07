@@ -1,9 +1,12 @@
 "use client";
 
 import { useState, FormEvent } from "react";
-import Link from "next/link";
+import { useLocale, useTranslations } from "next-intl";
+import { Link } from "@/i18n/navigation";
 
 export default function NewsletterForm() {
+  const t = useTranslations();
+  const locale = useLocale();
   const [status, setStatus] = useState<"idle" | "sending" | "success" | "error">("idle");
 
   async function handleSubmit(e: FormEvent<HTMLFormElement>) {
@@ -23,7 +26,7 @@ export default function NewsletterForm() {
       const res = await fetch("/api/supabase/newsletter/subscribe", {
         method: "POST",
         headers: { "Content-Type": "application/json" },
-        body: JSON.stringify({ email, locale: "en" }),
+        body: JSON.stringify({ email, locale }),
       });
 
       if (!res.ok) throw new Error();
@@ -35,7 +38,7 @@ export default function NewsletterForm() {
   }
 
   if (status === "success") {
-    return <p className="text-xs text-green-400 font-montserrat-regular">Subscribed!</p>;
+    return <p className="text-xs text-green-400 font-montserrat-regular">{t("newsletter.success")}</p>;
   }
 
   return (
@@ -44,7 +47,7 @@ export default function NewsletterForm() {
         <input
           type="email"
           name="newsletter_email"
-          placeholder="your@email.com"
+          placeholder={t("newsletter.placeholder")}
           required
           className="min-w-0 flex-1 border border-white/10 bg-white/5 px-3 py-2 text-xs text-white placeholder-white/20 font-montserrat-regular outline-none transition-colors focus:border-[#3b82f6]"
         />
@@ -53,7 +56,7 @@ export default function NewsletterForm() {
           disabled={status === "sending"}
           className="px-3 py-2 text-xs font-montserrat-bold uppercase tracking-wider text-white transition-colors bg-[#3b82f6] hover:bg-[#1d4ed8] disabled:opacity-50"
         >
-          {status === "sending" ? "..." : "Subscribe"}
+          {status === "sending" ? t("newsletter.sending") : t("newsletter.subscribe")}
         </button>
       </form>
       <label className="mt-1.5 flex items-start gap-1.5">
@@ -64,8 +67,8 @@ export default function NewsletterForm() {
           className="mt-0.5 h-3 w-3 shrink-0 accent-[#3b82f6]"
         />
         <span className="text-[9px] text-white/30 font-montserrat-regular leading-tight">
-          I agree to the{" "}
-          <Link href="/privacy" className="underline hover:text-white/50 transition-colors">Privacy Policy</Link>.
+          {t("newsletter.consentIntro")}{" "}
+          <Link href="/privacy" className="underline hover:text-white/50 transition-colors">{t("newsletter.privacy")}</Link>.
         </span>
       </label>
     </div>

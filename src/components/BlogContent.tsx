@@ -1,8 +1,9 @@
 "use client";
 
 import { useState, useMemo, useEffect } from "react";
-import Link from "next/link";
+import { useTranslations } from "next-intl";
 import Image from "next/image";
+import { Link } from "@/i18n/navigation";
 import { useScrollReveal } from "@/hooks/useScrollReveal";
 import type { PostMeta } from "@/lib/posts";
 import { ArrowRight, Search, LayoutGrid, List, ChevronRight, FileText, Code, Sparkles } from "lucide-react";
@@ -10,6 +11,7 @@ import { ArrowRight, Search, LayoutGrid, List, ChevronRight, FileText, Code, Spa
 const ALL_CATEGORY = "All";
 
 function BlogCard({ post, index }: { post: PostMeta; index: number }) {
+  const t = useTranslations();
   const [ref, visible] = useScrollReveal(0.05);
 
   return (
@@ -58,7 +60,7 @@ function BlogCard({ post, index }: { post: PostMeta; index: number }) {
             ))}
           </div>
           <div className="mt-4 flex items-center gap-1 text-xs font-montserrat-bold text-white/20 group-hover:text-[#3b82f6] transition-all duration-300">
-            <span>Read more</span>
+            <span>{t("blog.readMore")}</span>
             <ArrowRight className="w-3.5 h-3.5 transition-transform duration-300 group-hover:translate-x-1" />
           </div>
         </div>
@@ -68,6 +70,7 @@ function BlogCard({ post, index }: { post: PostMeta; index: number }) {
 }
 
 function FeaturedCard({ post }: { post: PostMeta }) {
+  const t = useTranslations();
   return (
     <Link
       href={`/blog/${post.slug}`}
@@ -75,9 +78,9 @@ function FeaturedCard({ post }: { post: PostMeta }) {
     >
       <div className="absolute -top-20 -right-20 w-60 h-60 rounded-full opacity-[0.04] bg-[radial-gradient(circle,#3b82f6,transparent_70%)] blur-[60px] pointer-events-none" />
       <div className="md:col-span-3 relative z-10">
-        <span className="mb-3 inline-block text-[10px] font-montserrat-bold tracking-[0.3em] uppercase text-[#3b82f6]">
-          Featured Article
-        </span>
+          <span className="mb-3 inline-block text-[10px] font-montserrat-bold tracking-[0.3em] uppercase text-[#3b82f6]">
+            {t("blog.featured")}
+          </span>
         <h2 className="mb-3 text-2xl md:text-3xl font-montserrat-bold group-hover:text-[#3b82f6] transition-colors duration-300 leading-tight">
           {post.title}
         </h2>
@@ -95,7 +98,7 @@ function FeaturedCard({ post }: { post: PostMeta }) {
           </span>
         </div>
         <div className="mt-4 flex items-center gap-1 text-xs font-montserrat-bold text-[#3b82f6]">
-          <span>Read full analysis</span>
+          <span>{t("blog.readFullAnalysis")}</span>
           <ArrowRight className="w-3.5 h-3.5 transition-transform duration-300 group-hover:translate-x-1" />
         </div>
       </div>
@@ -142,6 +145,7 @@ interface BlogContentProps {
 }
 
 export default function BlogContent({ posts, categories }: BlogContentProps) {
+  const t = useTranslations();
   const [searchTerm, setSearchTerm] = useState("");
   const [activeCategory, setActiveCategory] = useState(ALL_CATEGORY);
   const [activeTags, setActiveTags] = useState<Set<string>>(new Set());
@@ -205,16 +209,16 @@ export default function BlogContent({ posts, categories }: BlogContentProps) {
         <div className="absolute w-[600px] h-[600px] top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 rounded-full opacity-10 bg-[radial-gradient(circle,#3b82f6,transparent_70%)] blur-[120px] pointer-events-none" />
         <div className="relative z-10 mx-auto max-w-3xl text-center">
           <span className="mb-4 inline-block glass-card px-4 py-1.5 text-xs font-montserrat-bold tracking-widest uppercase text-white/60">
-            Articles
+            {t("blog.badge")}
           </span>
           <h1 className="text-4xl md:text-5xl lg:text-6xl font-montserrat-bold tracking-tighter uppercase leading-[0.9]">
             Blog
           </h1>
           <p className="mt-4 text-base md:text-lg text-white/50 font-montserrat-bold max-w-xl mx-auto">
-            Technical articles on AI infrastructure, web development, and cloud hosting. Every article includes original benchmarks and honest comparisons.
+            {t("blog.description")}
           </p>
           <div className="mt-6 text-sm text-white/30 font-montserrat-regular">
-            {posts.length} article{posts.length !== 1 ? "s" : ""} published
+            {t("blog.publishedCount", { count: posts.length })}
           </div>
         </div>
       </section>
@@ -230,7 +234,7 @@ export default function BlogContent({ posts, categories }: BlogContentProps) {
                 type="text"
                 value={searchTerm}
                 onChange={(e) => setSearchTerm(e.target.value)}
-                placeholder="Search articles..."
+                placeholder={t("blog.searchPlaceholder")}
                 className="w-full border border-white/10 bg-white/5 pl-9 pr-4 py-2.5 text-sm text-white placeholder-white/20 font-montserrat-regular outline-none transition-colors focus:border-[#3b82f6]"
               />
             </div>
@@ -238,14 +242,14 @@ export default function BlogContent({ posts, categories }: BlogContentProps) {
                 <button
                   onClick={() => setViewMode("grid")}
                   className={`p-1.5 rounded transition-colors ${viewMode === "grid" ? "bg-white/10 text-white" : "text-white/30 hover:text-white/60"}`}
-                  title="Grid view"
+                  title={t("blog.gridView")}
                 >
                   <LayoutGrid className="w-3.5 h-3.5" />
                 </button>
                 <button
                   onClick={() => setViewMode("list")}
                   className={`p-1.5 rounded transition-colors ${viewMode === "list" ? "bg-white/10 text-white" : "text-white/30 hover:text-white/60"}`}
-                  title="List view"
+                  title={t("blog.listView")}
                 >
                   <List className="w-3.5 h-3.5" />
                 </button>
@@ -295,13 +299,13 @@ export default function BlogContent({ posts, categories }: BlogContentProps) {
           {hasActiveFilters && (
             <div className="flex items-center gap-3 text-xs text-white/40 font-montserrat-regular">
               <span>
-                Showing {filteredPosts.length} of {posts.length} article{posts.length !== 1 ? "s" : ""}
+                {t("blog.showingCount", { filtered: filteredPosts.length, total: posts.length })}
               </span>
               <button
                 onClick={clearFilters}
                 className="text-[#3b82f6] underline hover:text-white transition-colors"
               >
-                Clear filters
+                {t("blog.clearFilters")}
               </button>
             </div>
           )}
@@ -310,9 +314,9 @@ export default function BlogContent({ posts, categories }: BlogContentProps) {
         {/* ── Posts ── */}
         {filteredPosts.length === 0 ? (
           <div className="glass-card p-12 text-center relative noise-overlay">
-            <p className="text-lg text-white/60 font-montserrat-bold">No articles match your filters.</p>
+            <p className="text-lg text-white/60 font-montserrat-bold">{t("blog.noResults")}</p>
             <p className="mt-2 text-sm text-white/40 font-montserrat-regular">
-              Try adjusting your search or filter criteria.
+              {t("blog.noResultsHint")}
             </p>
           </div>
         ) : (
@@ -320,7 +324,7 @@ export default function BlogContent({ posts, categories }: BlogContentProps) {
             {featured && hasActiveFilters && (
               <div className="mb-6">
                 <span className="text-xs text-white/30 font-montserrat-bold uppercase tracking-wider">
-                  Results
+                  {t("blog.results")}
                 </span>
               </div>
             )}

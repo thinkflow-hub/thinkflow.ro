@@ -11,7 +11,7 @@ Site multi-page (Next.js 16.2.10) cu blog, contact form (Nodemailer), servicii, 
 
 ## Domain
 - thinkflow.ro → Vercel DNS, SSL activ
-- news.thinkflow.ro → Vercel DNS (momentan 404 — P0)
+- news.thinkflow.ro → Vercel DNS, live (122 pagini)
 
 ## Architecture
 
@@ -74,23 +74,22 @@ news.thinkflow.ro (Next.js 16.2.10)
 - Deploy: GitHub → Vercel auto-deploy, live la thinkflow.ro
 
 ### In Progress
-- (none)
+- P1 — i18n: next-intl setup + rute + middleware auto-detect
 
 ### Blocked
-- news.thinkflow.ro 404 — needs Vercel Dashboard check
+- (none)
 
 ### Next Steps (Prioritized)
-1. P0 — Fix news.thinkflow.ro 404 (Vercel Dashboard)
-2. P1 — i18n: next-intl setup + rute + middleware auto-detect
-3. P3 — Blog components refactor (FeaturedBlogCard, BlogCard, BlogListCard)
-4. P4 — Typography contrast fix (WCAG AA)
-5. P5 — Related Posts + JSON-LD complete
-6. P6 — Inline CTAs (newsletter + consulting) in blog grid
-7. P7 — Blog hero copy upgrade
-8. P8 — Blog category pages (SSG)
-9. P9 — Cross-link thinkflow.ro ↔ news.thinkflow.ro
-10. P10 — Author avatar pe blog cards
-11. P11 — EN/RO toggle functional
+1. P1 — i18n: next-intl setup + rute + middleware auto-detect (IN PROGRESS)
+2. P3 — Blog components refactor (FeaturedBlogCard, BlogCard, BlogListCard)
+3. P4 — Typography contrast fix (WCAG AA)
+4. P5 — Related Posts + JSON-LD complete
+5. P6 — Inline CTAs (newsletter + consulting) in blog grid
+6. P7 — Blog hero copy upgrade
+7. P8 — Blog category pages (SSG)
+8. P9 — Cross-link thinkflow.ro ↔ news.thinkflow.ro
+9. P10 — Author avatar pe blog cards
+10. P11 — EN/RO toggle functional
 
 ## Plan Details
 
