@@ -201,6 +201,62 @@ Trimitere email → Brevo SMTP (smtp-relay.brevo.com:587) → destinație
 
 **To create a DNS-capable token:** Vercel Dashboard → Team (thinkflow-hubs-projects) → Settings → Tokens → Create PAT with DNS scope.
 
+## Affiliate Roadmap & Content Plan
+
+### Affiliate Programs Per Cluster
+
+| Categorie | Program | Aplicație | Șansă | Prioritate |
+|-----------|---------|-----------|-------|------------|
+| **Cloud/Hosting** | DigitalOcean | Aplicare directă | ~80% | Mare |
+| | Vultr | Aplicare directă | ~70% | Mare |
+| | Hetzner | De verificat | ~40% | Medie |
+| | Linode (Akamai) | Aplicare directă | ~50% | Medie |
+| | Cloudways | Aplicare directă | ~80% | Medie |
+| | Namecheap | Aplicare directă | ~90% | Medie |
+| **Dev Tools** | Datadog | Aplicare directă | ~60% | Medie |
+| | Sentry | Aplicare directă | ~70% | Medie |
+| **AI** | ElevenLabs | Aplicare directă | ~70% | Mare (avem articol) |
+| | Supabase | Partner form | ~60% | Mare (avem articol) |
+| | Pinecone | via PartnerStack | ~45% | După LinkedIn |
+| | Qdrant | via PartnerStack | ~45% | După LinkedIn |
+| **Rețele** | PartnerStack | Aplicație directă | ~45% | După LinkedIn |
+| | CJ Affiliate | Aplicație directă | ~25% | După 3 luni trafic |
+
+### Recommended Blog Articles
+
+**Tier 1 — Prioritate maximă (monetizare directă):**
+
+| # | Articol | Vizat | Keywords |
+|---|---------|-------|----------|
+| 1 | Hetzner vs DigitalOcean: Dedicated Servers for AI Workloads | Hetzner, DigitalOcean | hetzner vs digitalocean, dedicated server AI, cloud cost 2026 |
+| 2 | Ollama in Production: Running Local LLMs on Bare Metal | Hetzner, Vultr | ollama production, local llm deployment, llm on dedicated server |
+| 3 | CI/CD for Self-Hosted Next.js: GitHub Actions + Docker + Hetzner | GitHub, Hetzner | self-hosted next.js cicd, github actions hetzner, next.js deploy |
+| 4 | PostgreSQL in 2026: Supabase vs Self-Hosted vs Managed | Supabase, DigitalOcean, Hetzner | postgresql 2026, supabase vs self-hosted, managed postgres |
+
+**Tier 2 — Extindere reach:**
+
+| # | Articol | Vizat |
+|---|---------|-------|
+| 5 | Web Scraping at Scale: Python, Proxies, and Infrastructure | DigitalOcean, Vultr |
+| 6 | Server Monitoring for Self-Hosted Apps: Datadog, Sentry, Open Source | Datadog, Sentry |
+| 7 | Multi-Agent Systems with LangGraph: Production Blueprint | Qdrant, Vultr |
+| 8 | Docker Compose for AI Apps: Complete Production Reference | DigitalOcean, Vultr |
+
+**Tier 3 — GEO + brand awareness:**
+
+| # | Articol | Vizat |
+|---|---------|-------|
+| 9 | GEO Content Strategy in 2026: How AI Search Engines Read Your Site | — |
+| 10 | Cost of Building AI Infrastructure in Europe: Complete Guide 2026 | Hetzner, Vultr, DigitalOcean |
+| 11 | FastAPI for ML Inference: Production Patterns and Deployment | Vultr, DigitalOcean |
+
+### Aplicare Recomandată — Ordine
+1. **Supabase** (direct, formular partener) — acum
+2. **DigitalOcean + Vultr** (direct, programe deschise) — acum
+3. **ElevenLabs** (direct) — acum (avem deja articol)
+4. **PartnerStack** — după LinkedIn Company Page
+5. **CJ Affiliate** — după 3 luni de trafic constant
+
 ## Relevant Files
 - `src/app/api/og/route.tsx` — Dynamic OG image generator
 - `src/app/api/supabase/contact/route.ts` — Contact with Supabase

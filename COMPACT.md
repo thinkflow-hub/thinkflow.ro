@@ -42,7 +42,17 @@
 - **Commit + push:** Ambele repo-uri ✅
 
 ## Next
-1. LinkedIn Company Page (când ai conexiuni suficiente)
-2. Aplicații affiliate (PartnerStack, Supabase, Vercel, Cloudflare)
-3. Actualizare profile Fiverr + Freelancer
-4. Blog category pages
+1. Aplicații affiliate: DigitalOcean, Vultr, ElevenLabs (acum)
+2. LinkedIn Company Page (când ai ~50 conexiuni)
+3. Scrie articole Tier 1: Hetzner vs DigitalOcean, Ollama in Production
+4. PartnerStack + CJ după LinkedIn + trafic
+
+## Affiliate Targets
+| Program | Șansă | Când |
+|---------|-------|------|
+| DigitalOcean | ~80% | Acum |
+| Vultr | ~70% | Acum |
+| ElevenLabs | ~70% | Acum |
+| Supabase | ~60% | Acum |
+| PartnerStack | ~45% | După LinkedIn |
+| CJ Affiliate | ~25% | După 3 luni |

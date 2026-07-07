@@ -137,8 +137,14 @@ Adăugare 3 articole blog noi, compliance pages news.thinkflow.ro, build + deplo
 - **GitHub**: Profil completat (avatar, bio, website) ✅
 - **Email**: @thinkflow.ro funcțional (forward + SMTP + Gmail Send-as) ✅
 
+### 6. Plan afilieri + conținut (creat)
+- Listă completă de affiliate programs per cluster (14 programe identificate)
+- 11 articole recomandate de scris (3 tier-uri)
+- Documentat în `AGENTS.md` + `AFFILIATE-ROADMAP.md`
+
 ## Rămas de făcut
+- **Aplicații affiliate imediate**: DigitalOcean, Vultr, ElevenLabs, Supabase (programe deschise)
 - LinkedIn Company Page (blocat — necesită ~50 conexiuni)
-- Aplicații affiliate (după compliance + LinkedIn)
-- Actualizare profile Fiverr + Freelancer
+- Scrie articole Tier 1: Hetzner vs DigitalOcean, Ollama in Production, PostgreSQL in 2026
+- PartnerStack + CJ Affiliate — după LinkedIn + trafic
 - Blog category pages
