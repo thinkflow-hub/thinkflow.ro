@@ -55,11 +55,11 @@ news.thinkflow.ro (Next.js 16.2.10)
 ## Progress
 
 ### Done
-- 29 pagini statice, layout responsive, dark theme, Tailwind v4
-- Blog: 5 articole markdown cu gray-matter + remark + remark-html
+- 29+3 = 32 pagini statice (3 articole blog noi), layout responsive, dark theme, Tailwind v4
+- Blog: 8 articole markdown (5 existente + 3 noi: AI Agencies, AWS→Hetzner, RAG Pipeline)
 - Blog hero images: Python script (1200×630 WebP, frosted glass + logo)
 - Blog icons: lucide-react (FileText, Code, Sparkles, Link etc.)
-- Contact form: Nodemailer + Gmail App Password (thinkflowhub@gmail.com)
+- Contact form: Nodemailer + Brevo SMTP
 - SEO: Article schema JSON-LD (blog detail), Organization schema (layout), sitemap.xml, robots.txt
 - OG: Dynamic endpoint `/api/og` cu `@vercel/og` (satori + resvg)
 - OG: Blog detail page folosește `/api/og?title=...` pentru social share
@@ -71,25 +71,24 @@ news.thinkflow.ro (Next.js 16.2.10)
 - Supabase: blog analytics → blog_views table (ViewTracker component)
 - Supabase env vars set on Vercel (NEXT_PUBLIC_SUPABASE_URL + ANON_KEY)
 - news.thinkflow.ro: 404 fixat, live cu 122 pagini statice, daily pipeline
-- Deploy: GitHub → Vercel auto-deploy, live la thinkflow.ro
+- news.thinkflow.ro: pagini compliance (privacy, terms, affiliate-disclosure) + footer legal links
+- Deploy: GitHub → Vercel auto-deploy, live la thinkflow.ro și news.thinkflow.ro
+- i18n: next-intl v4.13.1, auto-detect locale, EN/RO, build 0 erori
+- Email @thinkflow.ro: MX records (ImprovMX) + Brevo SMTP + Gmail Send-as
+- DNS: MX (ImprovMX) + SPF + CAA records în Vercel DNS
+- Privacy policy: corectată contradicția cookie vs URL params
+- Vector DB post: affiliatePrograms aliniat cu linkurile reale
+- Logo inline SVG generat cu font paths (Black Signature + Montserrat încorporate)
 
 ### In Progress
-- P1 — i18n: next-intl setup + rute + middleware auto-detect
-
-### Blocked
 - (none)
 
-### Next Steps (Prioritized)
-1. P1 — i18n: next-intl setup + rute + middleware auto-detect (IN PROGRESS)
-2. P3 — Blog components refactor (FeaturedBlogCard, BlogCard, BlogListCard)
-3. P4 — Typography contrast fix (WCAG AA)
-4. P5 — Related Posts + JSON-LD complete
-5. P6 — Inline CTAs (newsletter + consulting) in blog grid
-6. P7 — Blog hero copy upgrade
-7. P8 — Blog category pages (SSG)
-8. P9 — Cross-link thinkflow.ro ↔ news.thinkflow.ro
-9. P10 — Author avatar pe blog cards
-10. P11 — EN/RO toggle functional
+### Next Steps
+1. LinkedIn Company Page (când ai ~50 conexiuni)
+2. Aplicații affiliate (PartnerStack, Supabase, Vercel, Cloudflare)
+3. Blog category pages (SSG)
+4. Cross-link thinkflow.ro ↔ news.thinkflow.ro
+5. Author avatar pe blog cards
 
 ## Plan Details
 

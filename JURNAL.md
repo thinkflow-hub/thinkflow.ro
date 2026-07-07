@@ -89,14 +89,56 @@ Adăugate 2 recorduri via Vercel API (token team DNS din Vercel dashboard → Se
 - `AGENTS.md` — Secțiune nouă "Email & DNS Infrastructure"
 - `JURNAL.md` — Această intrare
 
-## Stare proiect
-- Site: `D:\WebDev\thinkflow.ro\` — Next.js 16.2.10, App Router, Tailwind v4
-- Fonturi în `public/fonts/`: BlackSignature.otf
-- Build: 29/29 pagini, curat
-- Dev: `http://localhost:3000`
-- ContentFactory: `E:\ContentFactory\`
+---
 
-## Known issues
-- Placeholder URLs: GitHub `yourhandle` în `layout.tsx:71`
-- `.env` neconfigurat (SMTP lipsă)
-- www.thinkflow.ro încă pe site-ul vechi (nu e făcut deploy)
+# Jurnal ThinkFLOW — 7 Iulie 2026 (Partea 2 — Blog + Deploy)
+
+## Rezumat
+Adăugare 3 articole blog noi, compliance pages news.thinkflow.ro, build + deploy, finalizare toată infrastructura email.
+
+## Ce s-a făcut
+
+### 1. Corecturi conținut
+- **Privacy policy** (thinkflow.ro): Sec 2 "cookie identifiers" → "URL parameters" (aliniază cu Sec 5) ✅
+- **Vector DB post**: affiliatePrograms extins de la [Pinecone] → [Pinecone, Weaviate, Qdrant, Chroma, Zilliz] ✅
+
+### 2. Compliance pages news.thinkflow.ro
+- `/privacy` — Privacy Policy (adaptată, fără cookie tracking)
+- `/terms` — Terms of Service (incluzând disclamer AI summaries)
+- `/affiliate-disclosure` — Transparență affiliate
+- **Footer actualizat** — linkuri către toate 3 paginile
+
+### 3. Logo inline SVG
+- Script Python care convertește text "Think" (Black Signature) + "FLOW" (Montserrat) în vector paths
+- Nu mai depinde de fonturi externe — arată identic oriunde
+- PNG generat pentru GitHub avatar (500x500, transparent)
+- Output: `public/logo-inline.svg`, `public/github-avatar.png`
+
+### 4. 3 articole blog noi (scrise de Sonnet)
+| Articol | Slug | Cuvinte | Cluster |
+|---------|------|---------|---------|
+| Why 99% of AI Agencies Sell Chatbots... | ai-agencies-selling-chatbots-why-they-lose | ~2100 | AI Infrastructure |
+| I Switched from AWS to Vultr and Hetzner... | aws-to-vultr-hetzner-switch-what-i-learned | ~2900 | Cloud Hosting |
+| What a RAG Pipeline That Actually Works... | rag-pipeline-production-that-actually-works | ~5600 | AI Infrastructure |
+
+- Toate plasate în `src/content/blog/en/` (i18n-ready)
+- Frontmatter YAML standard (nu mai are SEO NOTES)
+- Hero images generate (Python script, frosted glass)
+- Build: 55/55 pagini, 0 erori ✅
+
+### 5. Deploy
+- **thinkflow.ro**: commit + push → Vercel auto-deploy ✅
+- **news.thinkflow.ro**: commit + push → Vercel auto-deploy ✅
+- Secret scanning: tokens/keys înlocuite cu placeholders în AGENTS.md + JURNAL.md
+
+## Stare proiect
+- **thinkflow.ro**: 8 articole blog, i18n EN/RO, Brevo SMTP, SPF, MX, DNS complet ✅
+- **news.thinkflow.ro**: 122 pagini știri, 3 compliance pages, footer legal ✅
+- **GitHub**: Profil completat (avatar, bio, website) ✅
+- **Email**: @thinkflow.ro funcțional (forward + SMTP + Gmail Send-as) ✅
+
+## Rămas de făcut
+- LinkedIn Company Page (blocat — necesită ~50 conexiuni)
+- Aplicații affiliate (după compliance + LinkedIn)
+- Actualizare profile Fiverr + Freelancer
+- Blog category pages
