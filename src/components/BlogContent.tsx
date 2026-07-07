@@ -5,6 +5,7 @@ import Link from "next/link";
 import Image from "next/image";
 import { useScrollReveal } from "@/hooks/useScrollReveal";
 import type { PostMeta } from "@/lib/posts";
+import { ArrowRight, Search, LayoutGrid, List, ChevronRight, FileText, Code, Sparkles } from "lucide-react";
 
 const ALL_CATEGORY = "All";
 
@@ -58,18 +59,7 @@ function BlogCard({ post, index }: { post: PostMeta; index: number }) {
           </div>
           <div className="mt-4 flex items-center gap-1 text-xs font-montserrat-bold text-white/20 group-hover:text-[#3b82f6] transition-all duration-300">
             <span>Read more</span>
-            <svg
-              width="14"
-              height="14"
-              viewBox="0 0 24 24"
-              fill="none"
-              stroke="currentColor"
-              strokeWidth="2"
-              className="transition-transform duration-300 group-hover:translate-x-1"
-            >
-              <path d="M5 12h14" />
-              <path d="m12 5 7 7-7 7" />
-            </svg>
+            <ArrowRight className="w-3.5 h-3.5 transition-transform duration-300 group-hover:translate-x-1" />
           </div>
         </div>
       </Link>
@@ -106,18 +96,7 @@ function FeaturedCard({ post }: { post: PostMeta }) {
         </div>
         <div className="mt-4 flex items-center gap-1 text-xs font-montserrat-bold text-[#3b82f6]">
           <span>Read full analysis</span>
-          <svg
-            width="14"
-            height="14"
-            viewBox="0 0 24 24"
-            fill="none"
-            stroke="currentColor"
-            strokeWidth="2"
-            className="transition-transform duration-300 group-hover:translate-x-1"
-          >
-            <path d="M5 12h14" />
-            <path d="m12 5 7 7-7 7" />
-          </svg>
+          <ArrowRight className="w-3.5 h-3.5 transition-transform duration-300 group-hover:translate-x-1" />
         </div>
       </div>
       <div className="hidden md:flex md:col-span-2 items-center justify-center relative z-10">
@@ -135,7 +114,7 @@ function FeaturedCard({ post }: { post: PostMeta }) {
           <div className="w-full h-full min-h-[140px] rounded-2xl border border-white/5 bg-gradient-to-br from-[#3b82f6]/5 via-transparent to-[#3b82f6]/10 flex items-center justify-center group-hover:border-[#3b82f6]/15 transition-all">
             <div className="text-center p-4">
               <div className="text-[40px] font-montserrat-extrabold text-white/5 select-none leading-none">
-                {post.category === "Cloud Hosting" ? "{ }" : post.category === "AI Infrastructure" ? "</>" : "**"}
+                {post.category === "Cloud Hosting" ? <FileText className="w-12 h-12 inline-block" /> : post.category === "AI Infrastructure" ? <Code className="w-12 h-12 inline-block" /> : <Sparkles className="w-12 h-12 inline-block" />}
               </div>
               <div className="mt-2 text-[10px] font-montserrat-bold text-white/15 uppercase tracking-[0.3em]">
                 {post.category}
@@ -238,18 +217,7 @@ export default function BlogContent({ posts, categories }: BlogContentProps) {
           {/* Search row */}
           <div className="flex items-center gap-3">
             <div className="relative flex-1 max-w-md">
-              <svg
-                width="14"
-                height="14"
-                viewBox="0 0 24 24"
-                fill="none"
-                stroke="currentColor"
-                strokeWidth="2"
-                className="absolute left-3 top-1/2 -translate-y-1/2 text-white/20"
-              >
-                <circle cx="11" cy="11" r="8" />
-                <path d="m21 21-4.3-4.3" />
-              </svg>
+              <Search className="absolute left-3 top-1/2 -translate-y-1/2 w-3.5 h-3.5 text-white/20" />
               <input
                 type="text"
                 value={searchTerm}
@@ -259,32 +227,20 @@ export default function BlogContent({ posts, categories }: BlogContentProps) {
               />
             </div>
             <div className="flex items-center gap-1 rounded border border-white/10 bg-white/5 p-0.5">
-              <button
-                onClick={() => setViewMode("grid")}
-                className={`p-1.5 rounded transition-colors ${viewMode === "grid" ? "bg-white/10 text-white" : "text-white/30 hover:text-white/60"}`}
-                title="Grid view"
-              >
-                <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2">
-                  <rect x="3" y="3" width="7" height="7" />
-                  <rect x="14" y="3" width="7" height="7" />
-                  <rect x="3" y="14" width="7" height="7" />
-                  <rect x="14" y="14" width="7" height="7" />
-                </svg>
-              </button>
-              <button
-                onClick={() => setViewMode("list")}
-                className={`p-1.5 rounded transition-colors ${viewMode === "list" ? "bg-white/10 text-white" : "text-white/30 hover:text-white/60"}`}
-                title="List view"
-              >
-                <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2">
-                  <line x1="8" y1="6" x2="21" y2="6" />
-                  <line x1="8" y1="12" x2="21" y2="12" />
-                  <line x1="8" y1="18" x2="21" y2="18" />
-                  <line x1="3" y1="6" x2="3.01" y2="6" />
-                  <line x1="3" y1="12" x2="3.01" y2="12" />
-                  <line x1="3" y1="18" x2="3.01" y2="18" />
-                </svg>
-              </button>
+                <button
+                  onClick={() => setViewMode("grid")}
+                  className={`p-1.5 rounded transition-colors ${viewMode === "grid" ? "bg-white/10 text-white" : "text-white/30 hover:text-white/60"}`}
+                  title="Grid view"
+                >
+                  <LayoutGrid className="w-3.5 h-3.5" />
+                </button>
+                <button
+                  onClick={() => setViewMode("list")}
+                  className={`p-1.5 rounded transition-colors ${viewMode === "list" ? "bg-white/10 text-white" : "text-white/30 hover:text-white/60"}`}
+                  title="List view"
+                >
+                  <List className="w-3.5 h-3.5" />
+                </button>
             </div>
           </div>
 
@@ -435,18 +391,7 @@ function ListCard({ post, index }: { post: PostMeta; index: number }) {
             {post.title}
           </h2>
         </div>
-        <svg
-          width="16"
-          height="16"
-          viewBox="0 0 24 24"
-          fill="none"
-          stroke="currentColor"
-          strokeWidth="2"
-          className="shrink-0 text-white/20 group-hover:text-[#3b82f6] transition-all duration-300 group-hover:translate-x-1"
-        >
-          <path d="M5 12h14" />
-          <path d="m12 5 7 7-7 7" />
-        </svg>
+        <ChevronRight className="w-4 h-4 shrink-0 text-white/20 group-hover:text-[#3b82f6] transition-all duration-300 group-hover:translate-x-1" />
       </Link>
     </div>
   );

@@ -4,6 +4,7 @@ import Image from "next/image";
 import { getAllPosts, getPost } from "@/lib/posts";
 import { notFound } from "next/navigation";
 import ShareButtons from "./ShareButtons";
+import { ArrowLeft } from "lucide-react";
 
 export function generateStaticParams() {
   const posts = getAllPosts();
@@ -72,9 +73,7 @@ export default async function BlogPostPage({ params }: { params: Promise<{ slug:
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }} />
 
       <Link href="/blog" className="mb-8 inline-flex items-center gap-1 text-sm text-muted transition-colors hover:text-foreground">
-        <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2">
-          <path d="M19 12H5M12 19l-7-7 7-7" />
-        </svg>
+        <ArrowLeft className="w-4 h-4" />
         All Articles
       </Link>
 
