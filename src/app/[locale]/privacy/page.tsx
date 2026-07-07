@@ -37,7 +37,7 @@ export default async function PrivacyPage({ params }: { params: Promise<{ locale
             <h2 className="mb-3 text-xl font-montserrat-bold">2. What We Collect</h2>
             <p className="leading-relaxed text-white/60 font-montserrat-regular text-sm">
               We collect: name and email address (via contact forms and newsletter signup), IP address and browser user agent
-              (via server logs), cookie identifiers for affiliate tracking, and usage data
+              (via server logs), affiliate tracking via URL parameters (no cookies), and usage data
               (pages visited, time on site).
             </p>
             <p className="mt-2 leading-relaxed text-white/60 font-montserrat-regular text-sm">

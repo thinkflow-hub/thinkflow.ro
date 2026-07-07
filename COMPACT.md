@@ -1,4 +1,4 @@
-# ThinkFLOW — Compact 6 Iul 2026
+# ThinkFLOW — Compact 7 Iul 2026
 
 ## Logo
 - **Think**: Black Signature (handwriting .otf) → #ededed
@@ -11,6 +11,23 @@
 - `Montserrat` weight 800 → Google Fonts
 - Clase CSS: `.font-signature`, `.font-montserrat-extrabold`
 
+## Email Infrastructure
+| Component | Service | Status |
+|-----------|---------|--------|
+| Primire (forward) | ImprovMX (gratis) | ✅ MX records live |
+| Trimitere (SMTP) | Brevo (gratis, 300/zi) | ✅ SMTP Key generat |
+| Gmail Send-as | daniel@thinkflow.ro | ⚠️ Așteaptă IP auth Brevo |
+
+## DNS
+- **Registrar:** Hostgate → **DNS:** Vercel (ns1/ns2.vercel-dns.com)
+- **MX records:** mx1.improvmx.com (10), mx2.improvmx.com (20) ✅
+
+## Token-uri Vercel
+| Scope | Status |
+|-------|--------|
+| Team DNS (PAT) | ✅ Salvat în AGENTS.md |
+| Deploy | ✅ Existent |
+
 ## Audit Conturi
 | Platformă | Handle | Status |
 |-----------|--------|--------|
@@ -22,9 +39,9 @@
 
 ## Site
 - 29 pagini statice, Next.js 16.2.10, build OK
-- Blog: 5 articole (1-6 Iul), RSS, JSON-LD, sitemap
-- Contact: API route cu nodemailer (needs SMTP env)
-- **Nu e deployat** — doar pe localhost
+- Blog: 5 articole, RSS, JSON-LD, sitemap
+- Contact: Nodemailer SMTP Brevo configurat ✅
+- **Live** la thinkflow.ro (EN/RO) + news.thinkflow.ro ✅
 
 ## ContentFactory (E:\)
 - 3 factories (SEO, Copy, Fiverr) — 7+ agenți fiecare
@@ -34,8 +51,6 @@
 - 12 Fiverr gigs + 12 images generate
 
 ## Next
-- Deploy Vercel + DNS
-- Fix placeholder URLs (GitHub, Fiverr)
-- Config .env (SMTP)
-- Reaplicare PartnerStack + Impact + CJ
-- Actualizare profile bios (Fiverr, Freelancer, GitHub)
+- Autorizare IP în Brevo → finalizare Gmail Send-as
+- Blog publishing (Faza 1 din plan)
+- Aplicații affiliate (după compliance pages)

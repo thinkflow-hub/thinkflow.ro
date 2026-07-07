@@ -47,6 +47,48 @@ Toate conturile verificate și diagnosticate:
 - **Faza 2** (mâine): deploy Vercel, push repo GitHub, actualizare profile bios
 - **Faza 3** (săptămâna asta): reaplicare PartnerStack + Impact + CJ
 
+---
+
+# Jurnal ThinkFLOW — 7 Iulie 2026
+
+## Rezumat
+Configurare completă SMTP + DNS pentru email @thinkflow.ro: MX records în Vercel DNS, ImprovMX forward, Brevo SMTP, Gmail "Send mail as".
+
+## Ce s-a făcut
+
+### 1. MX Records în Vercel DNS
+Adăugate 2 recorduri via Vercel API (token team DNS din Vercel dashboard → Settings → Tokens):
+
+| Host | Value | Priority | Status |
+|------|-------|----------|--------|
+| `@` | `mx1.improvmx.com` | 10 | ✅ |
+| `@` | `mx2.improvmx.com` | 20 | ✅ |
+
+### 2. ImprovMX (primire emailuri)
+- Configurat alias: `daniel@thinkflow.ro` → forward `thinkflowhub@gmail.com`
+- Funcțional după propagare MX (DNS checker confirmă)
+- ImprovMX rămâne pentru **primire** (gratis, fără SMTP)
+
+### 3. Brevo SMTP (trimitere emailuri)
+- Cont creat: thinkflowhub@gmail.com
+- SMTP Key generat: *(vezi .env.local sau Brevo dashboard)*
+- SMTP settings: `smtp-relay.brevo.com:587`, TLS, login: `b13476001@smtp-brevo.com`
+- **Problemă:** Gmail "Send mail as" blochează cu "Unauthorized IP" — trebuie adăugat IP-ul Gmail (sau `0.0.0.0/0`) în Brevo → Authorized IPs
+- Nodemailer (contact form) actualizat în `.env.local` să folosească Brevo SMTP în loc de Gmail
+
+### 4. Gmail "Send mail as" (daniel@thinkflow.ro)
+- **Status:** Parțial — așteaptă autorizare IP în Brevo
+- Odată rezolvat: Gmail trimite cod → daniel@thinkflow.ro → ImprovMX → inbox → verificare
+
+### 5. Token-uri Vercel actualizate
+- Token team DNS creat și păstrat în AGENTS.md
+
+## Fișiere actualizate
+- `.env.local` — SMTP schimbat de la Gmail la Brevo
+- `.env.example` — Adăugat Brevo ca opțiune principală, Gmail ca alternativă
+- `AGENTS.md` — Secțiune nouă "Email & DNS Infrastructure"
+- `JURNAL.md` — Această intrare
+
 ## Stare proiect
 - Site: `D:\WebDev\thinkflow.ro\` — Next.js 16.2.10, App Router, Tailwind v4
 - Fonturi în `public/fonts/`: BlackSignature.otf

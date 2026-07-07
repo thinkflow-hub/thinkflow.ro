@@ -143,6 +143,65 @@ Author block on each BlogCard + FeaturedBlogCard.
 ### P11 — EN/RO Toggle
 Functional locale switcher in Header.
 
+## Email & DNS Infrastructure
+
+### Domain & DNS
+- **Registrar:** Hostgate (nameservers → Vercel DNS)
+- **DNS provider:** Vercel (ns1.vercel-dns.com, ns2.vercel-dns.com)
+- **Cached DNS viewer:** https://dnschecker.org (propagare)
+
+### DNS Records (Vercel DNS — set 07.07.2026)
+| Host | Value | Priority | Type |
+|------|-------|----------|------|
+| `@` | `mx1.improvmx.com` | 10 | MX ✅ |
+| `@` | `mx2.improvmx.com` | 20 | MX ✅ |
+| `@` | `v=spf1 include:spf.improvmx.com ~all` | — | TXT ✅ |
+
+### Email Flow
+```
+@thinkflow.ro → ImprovMX (forward) → thinkflowhub@gmail.com (inbox)
+                ↑ MX records in Vercel DNS
+
+Trimitere email → Brevo SMTP (smtp-relay.brevo.com:587) → destinație
+                  ↑ SMTP Key din Brevo dashboard
+```
+
+### ImprovMX (primire emailuri)
+- **Service:** improvmx.com (gratis, fără SMTP)
+- **Config:** Alias `daniel@thinkflow.ro` → forward la `thinkflowhub@gmail.com`
+- **Dashboard:** https://app.improvmx.com (login cu thinkflowhub@gmail.com)
+- **Status:** Activ după propagare MX records ✅
+
+### Brevo SMTP (trimitere emailuri)
+- **Service:** brevo.com (gratis, 300 emailuri/zi, fost Sendinblue)
+- **SMTP Server:** `smtp-relay.brevo.com`
+- **Port:** `587` (TLS)
+- **Login:** `b13476001@smtp-brevo.com`
+- **SMTP Key generat:** *(vezi .env.local sau Brevo dashboard)*
+- **Dashboard:** https://app.brevo.com → Account → TP → SMTP & API
+- **Authorized IPs:** Trebuie adăugat IP-ul Gmail (sau `0.0.0.0/0`) pentru ca Gmail "Send mail as" să funcționeze
+- **Status:** SMTP Key generat ✅, așteaptă autorizare IP pentru Gmail
+
+### Gmail "Send mail as" (daniel@thinkflow.ro)
+- **Feature:** Gmail → Settings → Accounts → "Add another email address"
+- **Status:** Parțial configurat (blocat la autentificare SMTP — IP neautorizat în Brevo)
+- **Rezolvare:** Adaugă `0.0.0.0/0` (sau IP specific) în Brevo → TP → SMTP & API → Authorized IPs
+- **Verificare:** Gmail trimite cod pe daniel@thinkflow.ro → ImprovMX forward → thinkflowhub@gmail.com
+
+### Nodemailer (formular contact site)
+- **File:** `src/app/api/supabase/contact/route.ts`
+- **Config:** SMTP Brevo (smtp-relay.brevo.com:587, login b13476001@smtp-brevo.com)
+- **Env vars:** SMTP_HOST, SMTP_PORT, SMTP_USER, SMTP_PASS, CONTACT_EMAIL
+
+### Vercel Tokens
+| Token | Scope | Status | Used for |
+|-------|-------|--------|----------|
+| *(Team DNS PAT — vezi Vercel dashboard)* | Team DNS | ✅ | Adăugat MX records |
+| *(Vercel Deploy Token — vezi .vercel/project.json)* | Deploy | ✅ | Deploy Vercel |
+| *(Personal PAT — nefolosit)* | Personal (user) | ⚠️ | Inutil (team domain) |
+
+**To create a DNS-capable token:** Vercel Dashboard → Team (thinkflow-hubs-projects) → Settings → Tokens → Create PAT with DNS scope.
+
 ## Relevant Files
 - `src/app/api/og/route.tsx` — Dynamic OG image generator
 - `src/app/api/supabase/contact/route.ts` — Contact with Supabase

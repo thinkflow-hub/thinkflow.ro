@@ -4,7 +4,7 @@ description: "Definitive comparison of Pinecone, Weaviate, Qdrant, Chroma, and M
 date: "2026-07-01"
 category: "AI Infrastructure"
 tags: [vector-database, rag, pinecone, weaviate, qdrant, chroma, milvus, ai-infrastructure]
-affiliatePrograms: [Pinecone]
+affiliatePrograms: [Pinecone, Weaviate, Qdrant, Chroma, Zilliz]
 image: "/images/blog/best-vector-database-rag-2026.webp"
 ---
 
