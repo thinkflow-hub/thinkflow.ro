@@ -143,6 +143,7 @@ Adăugare 3 articole blog noi, compliance pages news.thinkflow.ro, build + deplo
 - Documentat în `AGENTS.md` + `AFFILIATE-ROADMAP.md`
 
 ## Rămas de făcut
+- **Plan detaliat creat**: `PLAN-URMATOR.md` cu 17 taskuri pe 6 faze + dependințe + resurse
 - **Aplicații affiliate imediate**: DigitalOcean, Vultr, ElevenLabs, Supabase (programe deschise)
 - LinkedIn Company Page (blocat — necesită ~50 conexiuni)
 - Scrie articole Tier 1: Hetzner vs DigitalOcean, Ollama in Production, PostgreSQL in 2026
