@@ -1,6 +1,6 @@
 "use client";
 
-import { useState, useMemo } from "react";
+import { useState, useMemo, useEffect } from "react";
 import Link from "next/link";
 import Image from "next/image";
 import { useScrollReveal } from "@/hooks/useScrollReveal";
@@ -146,6 +146,14 @@ export default function BlogContent({ posts, categories }: BlogContentProps) {
   const [activeCategory, setActiveCategory] = useState(ALL_CATEGORY);
   const [activeTags, setActiveTags] = useState<Set<string>>(new Set());
   const [viewMode, setViewMode] = useState<"grid" | "list">("grid");
+
+  useEffect(() => {
+    fetch("/api/supabase/analytics/view", {
+      method: "POST",
+      headers: { "Content-Type": "application/json" },
+      body: JSON.stringify({ slug: "blog" }),
+    }).catch(() => {});
+  }, []);
 
   const allTags = useMemo(() => {
     const tagSet = new Set<string>();

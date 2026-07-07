@@ -3,3 +3,157 @@
 
 This version has breaking changes — APIs, conventions, and file structure may all differ from your training data. Read the relevant guide in `node_modules/next/dist/docs/` before writing any code. Heed deprecation notices.
 <!-- END:nextjs-agent-rules -->
+
+# ThinkFLOW Ro — Project Status
+
+## Goal
+Site multi-page (Next.js 16.2.10) cu blog, contact form (Nodemailer), servicii, i18n (EN/RO), Supabase CRM, news aggregator. Deploy pe Vercel.
+
+## Domain
+- thinkflow.ro → Vercel DNS, SSL activ
+- news.thinkflow.ro → Vercel DNS (momentan 404 — P0)
+
+## Architecture
+
+```
+thinkflow.ro (Next.js 16.2.10)
+├── [locale]/         # i18n: en, ro (next-intl)
+├── blog/             # Markdown (gray-matter + remark)
+├── api/
+│   ├── og/           # Dynamic OG images (@vercel/og)
+│   ├── supabase/
+│   │   ├── contact/  # Contact form → Supabase + email
+│   │   ├── newsletter/ # Subscribe/unsubscribe
+│   │   └── analytics/  # Blog page views
+│   └── contact/      # Legacy (deprecated)
+├── lib/
+│   ├── supabase.ts   # Supabase server client
+│   └── posts.ts      # Blog data layer
+├── components/
+│   ├── blog/         # Modular blog components
+│   ├── Header.tsx
+│   └── Footer.tsx
+└── messages/
+    ├── en.json       # UI translations
+    └── ro.json       # UI translations
+
+news.thinkflow.ro (Next.js 16.2.10)
+├── public/data/news/*.json  # Pipeline data
+├── src/app/
+│   ├── trending/
+│   ├── community/
+│   ├── open_source/
+│   ├── releases/
+│   ├── ai_labs/
+│   ├── research/
+│   ├── newsletters/
+│   └── industry/
+└── lib/
+    └── data-loader.ts
+```
+
+## Progress
+
+### Done
+- 29 pagini statice, layout responsive, dark theme, Tailwind v4
+- Blog: 5 articole markdown cu gray-matter + remark + remark-html
+- Blog hero images: Python script (1200×630 WebP, frosted glass + logo)
+- Blog icons: lucide-react (FileText, Code, Sparkles, Link etc.)
+- Contact form: Nodemailer + Gmail App Password (thinkflowhub@gmail.com)
+- SEO: Article schema JSON-LD (blog detail), Organization schema (layout), sitemap.xml, robots.txt
+- OG: Dynamic endpoint `/api/og` cu `@vercel/og` (satori + resvg)
+- OG: Blog detail page folosește `/api/og?title=...` pentru social share
+- Schema Article: câmp `image` adăugat în JSON-LD
+- Image Sitemap: `/sitemap-images/route.ts` pentru Google Images
+- Supabase: `@supabase/supabase-js` instalat, client lib lazy, 4 API endpoints
+- Supabase: contact form → contacts table + email notification
+- Supabase: newsletter subscribe/unsubscribe → newsletter_subscribers table
+- Supabase: blog analytics → blog_views table (ViewTracker component)
+- Supabase env vars set on Vercel (NEXT_PUBLIC_SUPABASE_URL + ANON_KEY)
+- news.thinkflow.ro: 404 fixat, live cu 122 pagini statice, daily pipeline
+- Deploy: GitHub → Vercel auto-deploy, live la thinkflow.ro
+
+### In Progress
+- (none)
+
+### Blocked
+- news.thinkflow.ro 404 — needs Vercel Dashboard check
+
+### Next Steps (Prioritized)
+1. P0 — Fix news.thinkflow.ro 404 (Vercel Dashboard)
+2. P1 — i18n: next-intl setup + rute + middleware auto-detect
+3. P3 — Blog components refactor (FeaturedBlogCard, BlogCard, BlogListCard)
+4. P4 — Typography contrast fix (WCAG AA)
+5. P5 — Related Posts + JSON-LD complete
+6. P6 — Inline CTAs (newsletter + consulting) in blog grid
+7. P7 — Blog hero copy upgrade
+8. P8 — Blog category pages (SSG)
+9. P9 — Cross-link thinkflow.ro ↔ news.thinkflow.ro
+10. P10 — Author avatar pe blog cards
+11. P11 — EN/RO toggle functional
+
+## Plan Details
+
+### P0 — news.thinkflow.ro 404 fix
+**Action:** Check Vercel Dashboard → deployments + domains. Force re-deploy.
+**Structural:** Add `/api/health` endpoint + GitHub Actions pre-deploy check.
+
+### P1 — i18n (next-intl)
+**Package:** `next-intl` v4.13.1
+**Auto-detect:** Cookie `NEXT_LOCALE` → Browser `Accept-Language` → Fallback `en`
+**Routes:** `/en/*` (default), `/ro/*`
+**Content:**
+- Blog posts: `src/content/blog/{en,ro}/*.md`
+- UI strings: `messages/{en,ro}.json`
+- Translation phases: UI → Hero/Homepage → Services → Blog (1-2 posts) → Legal (external)
+
+### P2 — Supabase Integration
+**Package:** `@supabase/supabase-js`
+**Tables:** contacts, newsletter_subscribers, blog_views
+**RLS:** anon INSERT only
+**Endpoints:**
+- `POST /api/supabase/contact` — Save + email (replaces legacy)
+- `POST /api/supabase/newsletter/subscribe` — Save subscriber
+- `POST /api/supabase/newsletter/unsubscribe` — Soft delete
+- `POST /api/supabase/analytics/view` — Save page view
+
+### P3 — Blog Refactor
+Split `BlogContent.tsx` (398 lines) → featured, grid, list, hero, CTA components.
+
+### P4 — Typography Contrast
+`text-white/40` → `text-zinc-400`, `text-white/20` → `text-zinc-500`, etc.
+
+### P5 — Related Posts
+Section at bottom of `blog/[slug]/page.tsx` with 3 related posts.
+
+### P6 — Inline CTAs
+`BlogCTA.tsx` — newsletter after index 2, consulting after index 4.
+
+### P7 — Blog Hero
+"SOTA Analysis" / "Infrastructure Intelligence" copy + stats.
+
+### P8 — Category Pages
+`blog/category/[category]/page.tsx` — SSG, shared layout.
+
+### P9 — Cross-link
+Header + Footer: link to news.thinkflow.ro (and vice versa).
+
+### P10 — Author Avatar
+Author block on each BlogCard + FeaturedBlogCard.
+
+### P11 — EN/RO Toggle
+Functional locale switcher in Header.
+
+## Relevant Files
+- `src/app/api/og/route.tsx` — Dynamic OG image generator
+- `src/app/api/supabase/contact/route.ts` — Contact with Supabase
+- `src/app/api/supabase/newsletter/subscribe/route.ts` — Newsletter subscribe
+- `src/app/api/supabase/newsletter/unsubscribe/route.ts` — Newsletter unsubscribe
+- `src/app/api/supabase/analytics/view/route.ts` — Blog analytics
+- `src/lib/supabase.ts` — Supabase server client
+- `src/lib/posts.ts` — Post data layer
+- `src/app/blog/[slug]/page.tsx` — Blog detail + Article schema + OG metadata
+- `src/app/sitemap.ts` — Main sitemap
+- `src/app/sitemap-images/route.ts` — Image sitemap
+- `src/components/BlogContent.tsx` — Blog listing (to refactor)
+- `scripts/blog_image_generator.py` — Python hero image generator

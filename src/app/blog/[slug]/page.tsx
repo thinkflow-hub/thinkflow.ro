@@ -4,6 +4,7 @@ import Image from "next/image";
 import { getAllPosts, getPost } from "@/lib/posts";
 import { notFound } from "next/navigation";
 import ShareButtons from "./ShareButtons";
+import ViewTracker from "@/components/ViewTracker";
 import { ArrowLeft } from "lucide-react";
 
 export function generateStaticParams() {
@@ -15,6 +16,9 @@ export async function generateMetadata({ params }: { params: Promise<{ slug: str
   const { slug } = await params;
   const post = await getPost(slug);
   if (!post) return { title: "Post Not Found" };
+
+  const ogUrl = `/api/og?title=${encodeURIComponent(post.meta.title)}&category=${encodeURIComponent(post.meta.category)}&tags=${encodeURIComponent(post.meta.tags.join(","))}`;
+
   return {
     title: post.meta.title,
     description: post.meta.description,
@@ -24,13 +28,13 @@ export async function generateMetadata({ params }: { params: Promise<{ slug: str
       type: "article",
       publishedTime: post.meta.date,
       tags: post.meta.tags,
-      images: post.meta.image ? [{ url: post.meta.image, width: 1200, height: 630 }] : [],
+      images: [{ url: ogUrl, width: 1200, height: 630 }],
     },
     twitter: {
       card: "summary_large_image",
       title: post.meta.title,
       description: post.meta.description,
-      images: post.meta.image ? [post.meta.image] : [],
+      images: [ogUrl],
     },
   };
 }
@@ -66,10 +70,12 @@ export default async function BlogPostPage({ params }: { params: Promise<{ slug:
     mainEntityOfPage: { "@type": "WebPage", "@id": `https://thinkflow.ro/blog/${slug}` },
     wordCount: post.wordCount,
     keywords: post.meta.tags.join(", "),
+    ...(post.meta.image ? { image: `https://thinkflow.ro${post.meta.image}` } : {}),
   };
 
   return (
     <div className="mx-auto max-w-6xl px-4 py-16">
+      <ViewTracker slug={slug} />
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }} />
 
       <Link href="/blog" className="mb-8 inline-flex items-center gap-1 text-sm text-muted transition-colors hover:text-foreground">

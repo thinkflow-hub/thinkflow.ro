@@ -20,10 +20,10 @@ export default function NewsletterForm() {
     }
 
     try {
-      const res = await fetch("/api/contact", {
+      const res = await fetch("/api/supabase/newsletter/subscribe", {
         method: "POST",
         headers: { "Content-Type": "application/json" },
-        body: JSON.stringify({ name: "Newsletter Subscriber", email, subject: "Newsletter subscription", message: `Subscribe ${email} to newsletter.`, consent }),
+        body: JSON.stringify({ email, locale: "en" }),
       });
 
       if (!res.ok) throw new Error();
