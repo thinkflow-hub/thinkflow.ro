@@ -20,12 +20,12 @@ export default function PrivacyPage() {
           <section className="mb-8">
             <h2 className="mb-3 text-xl font-montserrat-bold">1. Data Controller</h2>
             <p className="leading-relaxed text-white/60 font-montserrat-regular text-sm">
-              ThinkFLOW Systems (contact@thinkflow.ro, Bucharest, Romania) is the data controller for personal data collected
+              ThinkFLOW Systems (thinkflowhub@gmail.com, Bucharest, Romania) is the data controller for personal data collected
               through thinkflow.ro and related subdomains.
             </p>
             <p className="mt-2 leading-relaxed text-white/60 font-montserrat-regular text-sm">
               You can contact our data protection representative at:{" "}
-              <Link href="/contact" className="text-[#3b82f6] underline font-montserrat-bold">contact@thinkflow.ro</Link>.
+              <Link href="/contact" className="text-[#3b82f6] underline font-montserrat-bold">thinkflowhub@gmail.com</Link>.
             </p>
           </section>
           <section className="mb-8">
@@ -103,7 +103,7 @@ export default function PrivacyPage() {
             </ul>
             <p className="mt-2 leading-relaxed text-white/60 font-montserrat-regular text-sm">
               To exercise these rights, contact us at{" "}
-              <Link href="/contact" className="text-[#3b82f6] underline font-montserrat-bold">contact@thinkflow.ro</Link>.
+              <Link href="/contact" className="text-[#3b82f6] underline font-montserrat-bold">thinkflowhub@gmail.com</Link>.
               We will respond within 30 days.
             </p>
           </section>
@@ -146,7 +146,7 @@ export default function PrivacyPage() {
             <h2 className="mb-3 text-xl font-montserrat-bold">13. Contact</h2>
             <p className="leading-relaxed text-white/60 font-montserrat-regular text-sm">
               For privacy-related inquiries:{" "}
-              <Link href="/contact" className="text-[#3b82f6] underline font-montserrat-bold">contact@thinkflow.ro</Link>
+              <Link href="/contact" className="text-[#3b82f6] underline font-montserrat-bold">thinkflowhub@gmail.com</Link>
               , Bucharest, Romania.
             </p>
           </section>

@@ -27,7 +27,7 @@ export async function POST(request: Request) {
 
     await transporter.sendMail({
       from: process.env.SMTP_FROM || `"ThinkFLOW Contact" <${process.env.SMTP_USER}>`,
-      to: process.env.CONTACT_EMAIL || "contact@thinkflow.ro",
+      to: process.env.CONTACT_EMAIL || "thinkflowhub@gmail.com",
       subject: `[ThinkFLOW Contact] ${subject || "New inquiry"} from ${name}`,
       text: message,
     });

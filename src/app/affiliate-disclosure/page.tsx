@@ -59,7 +59,7 @@ export default function AffiliateDisclosurePage() {
             <h2 className="mb-3 text-xl font-montserrat-bold">Questions?</h2>
             <p className="leading-relaxed text-white/60 font-montserrat-regular text-sm">
               If you have any questions about our affiliate relationships, please contact us at
-              contact@thinkflow.ro.
+              thinkflowhub@gmail.com.
             </p>
           </section>
         </div>

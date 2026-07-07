@@ -46,7 +46,7 @@ export default function Footer() {
             <div>
               <h3 className="mb-4 text-[10px] font-montserrat-bold text-white/40 uppercase tracking-[0.3em]">Connect</h3>
               <ul className="space-y-2 mb-6">
-                <li><span className="text-sm text-white/50 font-montserrat-regular">contact@thinkflow.ro</span></li>
+                <li><span className="text-sm text-white/50 font-montserrat-regular">thinkflowhub@gmail.com</span></li>
                 <li><span className="text-sm text-white/50 font-montserrat-regular">Bucharest, Romania</span></li>
               </ul>
               <h3 className="mb-3 text-[10px] font-montserrat-bold text-white/40 uppercase tracking-[0.3em]">Stay Updated</h3>
