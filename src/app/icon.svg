@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 52 52" fill="none">
+  <defs>
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@800&amp;display=swap');
+      @font-face {
+        font-family: 'Black Signature';
+        src: url('/fonts/BlackSignature.otf') format('opentype');
+        font-weight: normal;
+        font-style: normal;
+        font-display: swap;
+      }
+    </style>
+  </defs>
+  <text x="4" y="32" font-family="'Black Signature', cursive" font-size="22" fill="#ededed">T</text>
+  <text x="23" y="31" font-family="'Montserrat', sans-serif" font-size="18" font-weight="800" fill="#1e40af" letter-spacing="-0.5">F</text>
+</svg>

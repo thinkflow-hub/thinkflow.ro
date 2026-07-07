@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 60" fill="none">
+  <defs>
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@600&amp;display=swap');
+    </style>
+  </defs>
+  <!-- Apex 3 — double filled hex, white TF negative -->
+  <polygon points="26,10 39.9,18.0 39.9,34.0 26,42 12.1,34.0 12.1,18.0" fill="#1e40af"/><polygon points="26,15 35.5,20.5 35.5,31.5 26,37 16.5,31.5 16.5,20.5" fill="#475569"/><path d="M26,15 L26,37" stroke="#f1f5f9" stroke-width="2.5" stroke-linecap="square"/><path d="M17,15 L35,15" stroke="#f1f5f9" stroke-width="2.5" stroke-linecap="square"/><path d="M26,25 L35,25" stroke="#f1f5f9" stroke-width="2" stroke-linecap="square"/><path d="M26,32 L32,32" stroke="#f1f5f9" stroke-width="2" stroke-linecap="square"/>
+  <text x="58" y="36" font-family="'Dancing Script', cursive" font-size="29" font-weight="600" fill="#1e40af">Think</text>
+  <text x="148" y="36" font-family="system-ui, -apple-system, sans-serif" font-size="25" font-weight="600" fill="#f1f5f9" letter-spacing="0.5">FLOW</text>
+</svg>
