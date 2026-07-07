@@ -224,23 +224,22 @@ Trimitere email → Brevo SMTP (smtp-relay.brevo.com:587) → destinație
 
 ### Recommended Blog Articles
 
-**Tier 1 — Prioritate maximă (monetizare directă):**
+**Publicate (Iul 2026):**
+| # | Articol | Slug | Afilieri |
+|---|---------|------|----------|
+| 1 | The 2026 Cloud Exit Guide: AWS to Hetzner GPU | `2026-cloud-exit-guide-aws-hetzner` | Hetzner, DigitalOcean |
+| 2 | Serverless vs Dedicated GPU: Cost Tipping Point | `serverless-vs-dedicated-gpu` | Vercel, Hetzner |
+| 3 | MCP Server with Cloudflare Workers + FastAPI | `mcp-server-cloudflare-workers-fastapi` | Cloudflare |
+| 4 | Next.js 16 + FastAPI + Supabase Auth Template | `nextjs-16-fastapi-supabase-auth-template` | Vercel, Supabase |
 
-| # | Articol | Vizat | Keywords |
-|---|---------|-------|----------|
-| 1 | Hetzner vs DigitalOcean: Dedicated Servers for AI Workloads | Hetzner, DigitalOcean | hetzner vs digitalocean, dedicated server AI, cloud cost 2026 |
-| 2 | Ollama in Production: Running Local LLMs on Bare Metal | Hetzner, Vultr | ollama production, local llm deployment, llm on dedicated server |
-| 3 | CI/CD for Self-Hosted Next.js: GitHub Actions + Docker + Hetzner | GitHub, Hetzner | self-hosted next.js cicd, github actions hetzner, next.js deploy |
-| 4 | PostgreSQL in 2026: Supabase vs Self-Hosted vs Managed | Supabase, DigitalOcean, Hetzner | postgresql 2026, supabase vs self-hosted, managed postgres |
-
-**Tier 2 — Extindere reach:**
-
-| # | Articol | Vizat |
-|---|---------|-------|
-| 5 | Web Scraping at Scale: Python, Proxies, and Infrastructure | DigitalOcean, Vultr |
-| 6 | Server Monitoring for Self-Hosted Apps: Datadog, Sentry, Open Source | Datadog, Sentry |
-| 7 | Multi-Agent Systems with LangGraph: Production Blueprint | Qdrant, Vultr |
-| 8 | Docker Compose for AI Apps: Complete Production Reference | DigitalOcean, Vultr |
+**Urmează — Multi-Agent Systems with LangGraph:**
+| Câmp | Valoare |
+|------|---------|
+| Slug | `multi-agent-langgraph-production-blueprint` |
+| Afilieri | Qdrant, Vultr |
+| Keywords | production multi-agent, langgraph state management, agent orchestration 2026 |
+| Unghi | Building reliable multi-agent systems with LangGraph, Qdrant for agent memory/state, deployed on dedicated GPU (Vultr) |
+| Structură | Agent topologies (supervisor, swarm, pipeline), LangGraph state patterns, Qdrant for persistent agent memory, deployment with Docker+Vultr, circuit breaker + retry per agent |
 
 **Tier 3 — GEO + brand awareness:**
 

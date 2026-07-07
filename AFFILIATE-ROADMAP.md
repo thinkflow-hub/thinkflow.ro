@@ -94,11 +94,18 @@
 6. LinkedIn Company Page — ThinkFLOW
 7. PartnerStack — aplicație (acoperă Pinecone, Qdrant, Cloudflare, Vercel)
 
-### Luna asta (după articole Tier 1):
-8. Scrie + publică articol 1 (Hetzner vs DigitalOcean)
-9. Scrie + publică articol 2 (Ollama in Production)
-10. Aplică Datadog + Sentry
+### Publicat (9-10 Iul):
+8. **AWS to Hetzner GPU Migration** — ghid GPU (`2026-cloud-exit-guide-aws-hetzner`) ✅
+9. **Serverless vs Dedicated GPU** — cost tipping point (`serverless-vs-dedicated-gpu`) ✅
+10. **MCP Server + Cloudflare Workers** — joi 10 Iul (`mcp-server-cloudflare-workers-fastapi`) ✅ programat
+11. **Next.js 16 + FastAPI + Supabase Auth** — luni 14 Iul (`nextjs-16-fastapi-supabase-auth`) ✅ programat
+
+### Urmează (mijloc Iul):
+12. **Multi-Agent Systems with LangGraph** — production blueprint (Qdrant, Vultr)
+13. Aplică Datadog + Sentry
 
 ### Trimestrul ăsta:
-11. CJ Affiliate (după 3 luni trafic)
-12. Articole Tier 2 + Tier 3
+14. CJ Affiliate (după 3 luni trafic)
+15. Web Scraping at Scale (DigitalOcean, Vultr)
+16. Ollama in Production (Hetzner, Vultr)
+17. Server Monitoring (Datadog, Sentry)
