@@ -5,7 +5,7 @@ date: "2026-07-06"
 category: "Cloud Hosting"
 tags: [aws, vultr, hetzner, cloud, hosting, nextjs, devops]
 affiliatePrograms: [Vultr, Hetzner]
-image: "/images/blog/aws-to-vultr-hetzner-switch-what-i-learned.webp"
+image: "/api/og?title=I+Switched+from+AWS+to+Vultr+and+Hetzner&logos=vultr,hetzner&category=Cloud+Hosting&tags=aws,cloud,cost"
 ---
 
 # I Switched from AWS to Vultr and Hetzner — Here Is What I Learned

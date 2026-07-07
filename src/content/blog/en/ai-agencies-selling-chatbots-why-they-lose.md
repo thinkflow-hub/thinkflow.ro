@@ -24,7 +24,7 @@ And you — as CTO, as founder, as technical lead — are paying the price: opaq
 
 ---
 
-## What an AI Agency Is Actually Selling in 2025
+## What an AI Agency Is Actually Selling in 2026
 
 Let us be blunt.
 
@@ -74,7 +74,7 @@ A law firm cannot send client contracts to OpenAI. A private hospital cannot pro
 
 ### 2. You Need Answers Grounded in Your Internal Knowledge
 
-Generic LLMs know what the internet knew in 2024. They do not know:
+Generic LLMs know what the internet knew in 2025. They do not know:
 - Your internal onboarding procedures
 - Your product catalog with technical specifications
 - Your commercial policies and their exceptions

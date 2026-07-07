@@ -153,10 +153,10 @@ Every chunk needs a payload that lets you filter before or after retrieval:
 ```python
 chunk_payload = {
     "text": chunk_text,
-    "source_file": "contract_v3_2024.pdf",
+    "source_file": "contract_v3_2025.pdf",
     "section": "Article 12 — Termination",
     "doc_version": "3.0",
-    "effective_date": "2024-03-01",
+    "effective_date": "2025-03-01",
     "doc_type": "legal",
     "language": "en",
     "page_number": 14,
@@ -166,7 +166,7 @@ chunk_payload = {
 }
 ```
 
-This payload allows queries like: "Find relevant chunks from contracts effective after January 2024" — without that filter, you might retrieve a superseded version and hallucinate a policy that is no longer valid.
+This payload allows queries like: "Find relevant chunks from contracts effective after January 2025" — without that filter, you might retrieve a superseded version and hallucinate a policy that is no longer valid.
 
 ---
 
