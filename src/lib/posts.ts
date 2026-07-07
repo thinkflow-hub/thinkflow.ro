@@ -4,6 +4,15 @@ import matter from "gray-matter";
 import { remark } from "remark";
 import html from "remark-html";
 
+function buildOgImageUrl(meta: { title: string; category: string; tags: string[]; affiliatePrograms: string[] }): string {
+  const params = new URLSearchParams();
+  params.set("title", meta.title);
+  if (meta.category) params.set("category", meta.category);
+  if (meta.tags?.length) params.set("tags", meta.tags.slice(0, 3).join(","));
+  if (meta.affiliatePrograms?.length) params.set("logos", meta.affiliatePrograms.slice(0, 4).join(","));
+  return `/api/og?${params.toString()}`;
+}
+
 function getBlogDir(locale?: string) {
   const base = path.join(process.cwd(), "src", "content", "blog");
   if (!locale) return base;
@@ -40,16 +49,21 @@ export function getAllPosts(locale?: string): PostMeta[] {
       const raw = fs.readFileSync(path.join(dir, f), "utf-8");
       const { data, content } = matter(raw);
       const wordCount = content.split(/\s+/).filter(Boolean).length;
+      const slug = f.replace(".md", "");
+      const title = data.title || slug;
+      const category = data.category || "General";
+      const tags = data.tags || [];
+      const affiliatePrograms = data.affiliatePrograms || [];
       return {
-        slug: f.replace(".md", ""),
-        title: data.title || f.replace(".md", ""),
+        slug,
+        title,
         description: data.description || "",
         date: data.date || "",
-        category: data.category || "General",
-        tags: data.tags || [],
-        affiliatePrograms: data.affiliatePrograms || [],
+        category,
+        tags,
+        affiliatePrograms,
         readingTime: Math.max(1, Math.ceil(wordCount / 200)),
-        image: data.image || "",
+        image: buildOgImageUrl({ title, category, tags, affiliatePrograms }),
       };
     })
     .sort((a, b) => new Date(b.date).getTime() - new Date(a.date).getTime());
@@ -77,17 +91,22 @@ export async function getPost(slug: string, locale?: string): Promise<Post | nul
     }
   );
 
+  const title = data.title || slug;
+  const category = data.category || "General";
+  const tags = data.tags || [];
+  const affiliatePrograms = data.affiliatePrograms || [];
+
   return {
     meta: {
       slug,
-      title: data.title || slug,
+      title,
       description: data.description || "",
       date: data.date || "",
-      category: data.category || "General",
-      tags: data.tags || [],
-      affiliatePrograms: data.affiliatePrograms || [],
+      category,
+      tags,
+      affiliatePrograms,
       readingTime: Math.max(1, Math.ceil(wordCount / 200)),
-      image: data.image || "",
+      image: buildOgImageUrl({ title, category, tags, affiliatePrograms }),
     },
     content: htmlContent,
     wordCount,

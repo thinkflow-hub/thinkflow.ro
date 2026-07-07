@@ -3,15 +3,54 @@ import type { NextRequest } from "next/server";
 
 export const runtime = "edge";
 
+const LOGO_COLORS: Record<string, string> = {
+  vultr: "#0077FF", hetzner: "#D50C2D", digitalocean: "#0080FF",
+  cloudflare: "#F38020", vercel: "#000000", supabase: "#3ECF8E",
+  elevenlabs: "#FF6B6B", sentry: "#362D59", aws: "#FF9900",
+  pinecone: "#005B4F", weaviate: "#4C51BF", chroma: "#FF6B6B",
+  zilliz: "#00A1FF", datadog: "#632CA6", linode: "#00A95C",
+  namecheap: "#DE3C3C", cloudways: "#2D3748", openai: "#74AA9C",
+  milvus: "#00A1FF", qdrant: "#EB1C24",
+};
+
+async function fetchLogoAsWhiteDataUri(origin: string, name: string): Promise<string | null> {
+  try {
+    const res = await fetch(`${origin}/images/logos/${name}.svg`);
+    if (!res.ok) return null;
+    let svg = await res.text();
+
+    if (svg.includes("<rect") && !svg.includes("base64") && svg.length < 5000) {
+      svg = svg.replace(/\bfill="[^"]*"/gi, 'fill="#FFFFFF"');
+      svg = svg.replace(/\bstroke="[^"]*"/gi, 'stroke="#FFFFFF"');
+    }
+
+    const base64 = btoa(unescape(encodeURIComponent(svg)));
+    return `data:image/svg+xml;base64,${base64}`;
+  } catch {
+    return null;
+  }
+}
+
 export async function GET(req: NextRequest) {
   const { searchParams } = new URL(req.url);
   const title = searchParams.get("title") || "ThinkFLOW";
   const category = searchParams.get("category") || "";
   const tags = searchParams.get("tags") || "";
+  const logosParam = searchParams.get("logos") || "";
 
   const fontData = await fetch(
     `${req.nextUrl.origin}/fonts/Geist-Regular.ttf`
   ).then((res) => res.arrayBuffer());
+
+  const hasLogos = logosParam.length > 0;
+  const logoKeys = hasLogos ? logosParam.split(",").map((s) => s.trim().toLowerCase()).filter(Boolean).slice(0, 4) : [];
+
+  let logoDataUris: (string | null)[] = [];
+  if (logoKeys.length > 0) {
+    logoDataUris = await Promise.all(
+      logoKeys.map((key) => fetchLogoAsWhiteDataUri(req.nextUrl.origin, key))
+    );
+  }
 
   const fontSize = title.length > 60 ? 40 : title.length > 40 ? 48 : 56;
 
@@ -84,18 +123,64 @@ export async function GET(req: NextRequest) {
           </span>
         </div>
 
-        {/* Title */}
+        {/* Center content */}
         <div
           style={{
             display: "flex",
             flexDirection: "column",
             justifyContent: "center",
+            alignItems: hasLogos ? "center" : "flex-start",
             flex: 1,
             padding: "0 56px",
-            paddingTop: "20px",
+            paddingTop: hasLogos ? "0" : "20px",
           }}
         >
-          <span
+          {/* Logos row */}
+          {hasLogos && logoDataUris.length > 0 && (
+            <div
+              style={{
+                display: "flex",
+                alignItems: "center",
+                justifyContent: "center",
+                gap: "32px",
+                marginBottom: "24px",
+              }}
+            >
+              {logoDataUris.map((uri, i) =>
+                uri ? (
+                  <img
+                    key={logoKeys[i]}
+                    src={uri}
+                    alt={logoKeys[i]}
+                    style={{
+                      height: "48px",
+                      width: "auto",
+                      opacity: 0.6,
+                    }}
+                  />
+                ) : (
+                  <span
+                    key={logoKeys[i]}
+                    style={{
+                      fontSize: "14px",
+                      color: "rgba(255,255,255,0.3)",
+                      textTransform: "uppercase",
+                      letterSpacing: "2px",
+                      fontWeight: 500,
+                      padding: "4px 12px",
+                      border: "1px solid rgba(255,255,255,0.1)",
+                      borderRadius: "4px",
+                    }}
+                  >
+                    {logoKeys[i]}
+                  </span>
+                )
+              )}
+            </div>
+          )}
+
+          {/* Title */}
+          <h1
             style={{
               fontSize: `${fontSize}px`,
               fontWeight: 700,
@@ -103,12 +188,12 @@ export async function GET(req: NextRequest) {
               lineHeight: 1.2,
               letterSpacing: "-0.02em",
               maxWidth: "900px",
-              display: "-webkit-box",
-              overflow: "hidden",
+              textAlign: hasLogos ? "center" : "left",
+              margin: 0,
             }}
           >
             {title}
-          </span>
+          </h1>
         </div>
 
         {/* Bottom bar: category + tags */}
@@ -117,6 +202,7 @@ export async function GET(req: NextRequest) {
             display: "flex",
             alignItems: "center",
             gap: "12px",
+            justifyContent: hasLogos ? "center" : "flex-start",
             padding: "0 56px 40px",
           }}
         >

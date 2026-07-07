@@ -18,7 +18,7 @@ export async function generateMetadata({ params }: { params: Promise<{ slug: str
   const post = await getPost(slug, locale);
   if (!post) return { title: "Post Not Found" };
 
-  const ogUrl = `/api/og?title=${encodeURIComponent(post.meta.title)}&category=${encodeURIComponent(post.meta.category)}&tags=${encodeURIComponent(post.meta.tags.join(","))}`;
+  const ogUrl = post.meta.image;
 
   return {
     title: post.meta.title,
