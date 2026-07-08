@@ -249,12 +249,25 @@ Implementare Clipping Factory complet (21 module), arhitectură agenți (1 GPU +
 | **OpenClaw** | **82%** | **+17%** |
 | **Ecosistem total** | **~85%** | **+10%** |
 
+### 9. ComfyUI — TESTAT CU SUCCES
+- ComfyUI v0.21.1 LIVE pe http://127.0.0.1:8188 ✅
+- CUDA activ: RTX 3060 12GB ✅
+- 35+ custom nodes încărcate ✅
+- FLUX.2-klein-4B descărcat (2.6 GB) ✅
+- 55 workflow-uri gata de testat ✅
+
+### 10. Copy Factory v2.0 — IMPLEMENTAT
+- Router GPU/CPU (concierge + qwen3:4b + phi3.5) ✅
+- 6 template-uri: landing €499, email €349, ads €249, newsletter €799, video €199, questionnaire €99 ✅
+- Pipeline 7 pași ✅
+- MCP server cu 3 tools ✅
+- Toate importurile verificate ✅
+
 ## Rămas de făcut
-1. Test ComfyUI cu flux1-schnell
-2. Descărcare FLUX.2-klein-4B GGUF
-3. Fix SMTP_PASS în .env.local
-4. 55 workflow-uri ComfyUI (7 categorii)
-5. Clipping Factory — test cu 3 videouri + market ready
-6. SEO → thinkflow.ro pipeline
-7. Fiverr + Contra + KDP listing-uri
-8. LinkedIn — 50 conexiuni
+1. Fix SMTP_PASS în .env.local
+2. SEO Factory → thinkflow.ro pipeline
+3. Clipping Factory — test cu 3 videouri
+4. ComfyUI workflow-uri — test tattoo, pencil, watercolor
+5. Copy Factory — test cu brief real
+6. Fiverr + Contra + KDP listing-uri (tu)
+7. LinkedIn — 50 conexiuni (tu)
