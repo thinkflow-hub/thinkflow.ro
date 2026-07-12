@@ -283,6 +283,19 @@ export function readGeoLocations(days: number = 7): { source_id: string; title: 
   return locations;
 }
 
+export function readVerification(sourceId: string): { verification_status: string; sources_count: number; sources: string[] } | null {
+  const dates = getAllDates().slice(0, 3);
+  for (const date of dates) {
+    try {
+      const vf = path.join(process.cwd(), "public", "data", "news", `${date}_verification.json`);
+      if (!fs.existsSync(vf)) continue;
+      const data = JSON.parse(fs.readFileSync(vf, "utf-8"));
+      if (data.results?.[sourceId]) return data.results[sourceId];
+    } catch { continue; }
+  }
+  return null;
+}
+
 export function readGraph(): { nodes: any[]; edges: any[]; stats: any } | null {
   try {
     const graphPath = path.join(process.cwd(), "public", "data", "news_graph.json");

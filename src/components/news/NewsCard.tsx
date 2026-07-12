@@ -1,6 +1,9 @@
+import { useState, useEffect } from "react";
 import type { NewsItem, Category } from "@/lib/news-types";
 import { CATEGORY_COLORS, SENTIMENT_COLORS } from "@/lib/news-types";
 import { Link } from "@/i18n/navigation";
+import { VerificationBadge } from "./VerificationBadge";
+import { trackRead } from "@/lib/personalization";
 
 function extractDomain(url: string): string {
   try { return new URL(url).hostname.replace("www.", ""); }
@@ -10,6 +13,21 @@ function extractDomain(url: string): string {
 export function NewsCard({ item }: { item: NewsItem }) {
   const catColor = CATEGORY_COLORS[item.category as Category] || "#94a3b8";
   const sentColor = item.sentiment ? SENTIMENT_COLORS[item.sentiment] : null;
+  const [verification, setVerification] = useState<{ verification_status: string; sources_count: number } | null>(null);
+
+  useEffect(() => {
+    trackRead(item.source_id, item.category, item.keywords || [], item.source_name);
+    // Fetch verification status
+    (async () => {
+      try {
+        const res = await fetch(`/api/news/verify?source_id=${item.source_id}`);
+        if (res.ok) {
+          const data = await res.json();
+          setVerification(data);
+        }
+      } catch {}
+    })();
+  }, [item.source_id]);
 
   return (
     <div className="group flex flex-col rounded-xl border bg-card p-4 transition-all hover:shadow-md hover:border-primary/30">
@@ -28,6 +46,12 @@ export function NewsCard({ item }: { item: NewsItem }) {
             className="inline-block h-2 w-2 rounded-full"
             style={{ backgroundColor: sentColor }}
             title={item.sentiment || undefined}
+          />
+        )}
+        {verification && (
+          <VerificationBadge
+            status={verification.verification_status as any}
+            sourcesCount={verification.sources_count}
           />
         )}
         {item.score > 0 && (
