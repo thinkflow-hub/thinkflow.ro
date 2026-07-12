@@ -32,6 +32,11 @@ const nextConfig: NextConfig = {
         destination: "/:locale/news/topic/:slug",
         locale: false,
       },
+      {
+        source: "/news/article/:id",
+        destination: "/:locale/news/article/:id",
+        locale: false,
+      },
     ];
   },
 };

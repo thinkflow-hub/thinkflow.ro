@@ -3,7 +3,7 @@
 import { useMemo, useState, useEffect, useCallback, useRef } from "react";
 import { NewsCard } from "./NewsCard";
 import { NewsCluster } from "./NewsCluster";
-import { groupByCluster } from "@/lib/news";
+import { semanticCluster } from "@/lib/news";
 import type { NewsItem } from "@/lib/news-types";
 
 interface Props {
@@ -30,8 +30,22 @@ export function NewsFeed({ items, dates }: Props) {
   const [searchQuery, setSearchQuery] = useState("");
   const [searchResults, setSearchResults] = useState<NewsItem[] | null>(null);
   const [searching, setSearching] = useState(false);
-  const [visibleCount, setVisibleCount] = useState(12);
+  const [briefingMode, setBriefingMode] = useState(true);
+  const [visibleCount, setVisibleCount] = useState(briefingMode ? 10 : 12);
+  const [sessionStart] = useState(Date.now());
+  const [showNudge, setShowNudge] = useState(false);
   const debounceRef = useRef<ReturnType<typeof setTimeout>>();
+
+  useEffect(() => {
+    if (briefingMode) setVisibleCount(10);
+  }, [briefingMode]);
+
+  useEffect(() => {
+    const timer = setTimeout(() => {
+      if (!briefingMode) setShowNudge(true);
+    }, 5 * 60 * 1000);
+    return () => clearTimeout(timer);
+  }, [briefingMode]);
 
   useEffect(() => {
     if (debounceRef.current) clearTimeout(debounceRef.current);
@@ -90,7 +104,7 @@ export function NewsFeed({ items, dates }: Props) {
       .sort((a, b) => b[0].localeCompare(a[0]))
       .map(([date, items]) => ({
         date,
-        groups: Array.from(groupByCluster(items).entries()),
+        groups: Array.from(semanticCluster(items).entries()),
       }));
   }, [filtered]);
 
@@ -114,6 +128,25 @@ export function NewsFeed({ items, dates }: Props) {
 
   return (
     <div>
+      <div className="mb-4 flex items-center gap-2">
+        <button
+          onClick={() => setBriefingMode(true)}
+          className={`rounded-lg px-3 py-1 text-xs font-medium transition-colors ${
+            briefingMode ? "bg-primary text-primary-foreground" : "bg-muted text-muted hover:bg-muted/80"
+          }`}
+        >
+          📋 Briefing
+        </button>
+        <button
+          onClick={() => setBriefingMode(false)}
+          className={`rounded-lg px-3 py-1 text-xs font-medium transition-colors ${
+            !briefingMode ? "bg-primary text-primary-foreground" : "bg-muted text-muted hover:bg-muted/80"
+          }`}
+        >
+          📰 Full Feed
+        </button>
+      </div>
+
       <div className="mb-6 flex flex-wrap items-center gap-3">
         <div className="flex flex-wrap gap-1.5">
           {CATEGORIES.map((cat) => (
@@ -188,6 +221,19 @@ export function NewsFeed({ items, dates }: Props) {
         <p className="mt-12 text-center text-sm text-muted/60">
           🌿 That&apos;s all for now. Come back tomorrow.
         </p>
+      )}
+
+      {showNudge && !briefingMode && (
+        <div className="mt-8 rounded-xl border border-primary/20 bg-primary/5 p-4 text-center">
+          <p className="text-sm font-medium">Been reading for a while? 🧠</p>
+          <p className="mt-1 text-xs text-muted">
+            You&apos;ve been in Full Feed for over 5 minutes. Switch to{" "}
+            <button onClick={() => setBriefingMode(true)} className="text-primary hover:underline">
+              Briefing Mode
+            </button>{" "}
+            to see the day&apos;s top stories at a glance.
+          </p>
+        </div>
       )}
 
       <p className="mt-4 text-xs text-muted">

@@ -1,12 +1,10 @@
 import type { NewsItem, Category } from "@/lib/news-types";
 import { CATEGORY_COLORS, SENTIMENT_COLORS } from "@/lib/news-types";
+import { Link } from "@/i18n/navigation";
 
 function extractDomain(url: string): string {
-  try {
-    return new URL(url).hostname.replace("www.", "");
-  } catch {
-    return url;
-  }
+  try { return new URL(url).hostname.replace("www.", ""); }
+  catch { return url; }
 }
 
 export function NewsCard({ item }: { item: NewsItem }) {
@@ -14,12 +12,7 @@ export function NewsCard({ item }: { item: NewsItem }) {
   const sentColor = item.sentiment ? SENTIMENT_COLORS[item.sentiment] : null;
 
   return (
-    <a
-      href={item.url}
-      target="_blank"
-      rel="noopener noreferrer"
-      className="group flex flex-col rounded-xl border bg-card p-4 transition-all hover:shadow-md hover:border-primary/30"
-    >
+    <div className="group flex flex-col rounded-xl border bg-card p-4 transition-all hover:shadow-md hover:border-primary/30">
       <div className="mb-2 flex items-center gap-2">
         <span
           className="inline-block rounded-full px-2 py-0.5 text-[10px] font-semibold uppercase tracking-wider text-white"
@@ -44,9 +37,11 @@ export function NewsCard({ item }: { item: NewsItem }) {
         <img src={item.thumbnail} alt="" className="mb-2 h-32 w-full rounded-lg object-cover" loading="lazy" decoding="async" />
       )}
 
-      <h3 className="mb-1.5 text-sm font-semibold leading-snug group-hover:text-primary transition-colors line-clamp-2">
-        {item.title}
-      </h3>
+      <Link href={`/news/article/${item.source_id}`} className="mb-1.5">
+        <h3 className="text-sm font-semibold leading-snug group-hover:text-primary transition-colors line-clamp-2">
+          {item.title}
+        </h3>
+      </Link>
 
       {item.summary && (
         <p className="mb-2 text-xs text-muted line-clamp-2">{item.summary}</p>
@@ -57,10 +52,10 @@ export function NewsCard({ item }: { item: NewsItem }) {
           <img src={item.favicon} alt="" className="h-3.5 w-3.5 rounded-sm" loading="lazy" decoding="async" />
         )}
         <span className="truncate">{extractDomain(item.url)}</span>
-        {item.published && (
-          <span className="ml-auto whitespace-nowrap">{item.published.slice(0, 10)}</span>
-        )}
+        <a href={item.url} target="_blank" rel="noopener noreferrer" className="ml-auto shrink-0 text-primary hover:text-primary/80 transition-colors">
+          ↗
+        </a>
       </div>
-    </a>
+    </div>
   );
 }
