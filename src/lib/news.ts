@@ -93,3 +93,37 @@ export function getAllTopics(): string[] {
   }
   return Array.from(topics).sort();
 }
+
+export function groupByCluster(items: NewsItem[]): Map<string, NewsItem[]> {
+  const clusterMap = new Map<string, NewsItem[]>();
+  const standalone: NewsItem[] = [];
+
+  for (const item of items) {
+    if (item.cluster_id) {
+      const group = clusterMap.get(item.cluster_id);
+      if (group) group.push(item);
+      else clusterMap.set(item.cluster_id, [item]);
+    } else {
+      standalone.push(item);
+    }
+  }
+
+  // Filter out singleton clusters (no actual grouping needed)
+  for (const [id, group] of clusterMap) {
+    if (group.length < 2) {
+      standalone.push(...group);
+      clusterMap.delete(id);
+    }
+  }
+
+  // Assign a virtual id for non-clustered items so we can render them uniformly
+  const result = new Map<string, NewsItem[]>();
+  let virtualId = 0;
+  for (const item of standalone) {
+    result.set(`__single_${virtualId++}`, [item]);
+  }
+  for (const [id, group] of clusterMap) {
+    result.set(`cluster_${id}`, group);
+  }
+  return result;
+}

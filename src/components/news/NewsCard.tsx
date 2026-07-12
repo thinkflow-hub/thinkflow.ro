@@ -39,6 +39,11 @@ export function NewsCard({ item }: { item: NewsItem }) {
         )}
       </div>
 
+      {item.thumbnail && (
+        // eslint-disable-next-line @next/next/no-img-element
+        <img src={item.thumbnail} alt="" className="mb-2 h-32 w-full rounded-lg object-cover" loading="lazy" decoding="async" />
+      )}
+
       <h3 className="mb-1.5 text-sm font-semibold leading-snug group-hover:text-primary transition-colors line-clamp-2">
         {item.title}
       </h3>
@@ -49,7 +54,7 @@ export function NewsCard({ item }: { item: NewsItem }) {
 
       <div className="mt-auto flex items-center gap-2 text-[11px] text-muted">
         {item.favicon && (
-          <img src={item.favicon} alt="" className="h-3.5 w-3.5 rounded-sm" />
+          <img src={item.favicon} alt="" className="h-3.5 w-3.5 rounded-sm" loading="lazy" decoding="async" />
         )}
         <span className="truncate">{extractDomain(item.url)}</span>
         {item.published && (

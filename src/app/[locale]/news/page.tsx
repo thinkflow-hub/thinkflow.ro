@@ -2,6 +2,7 @@ import type { Metadata } from "next";
 import { getTranslations, getLocale } from "next-intl/server";
 import { NewsFeed } from "@/components/news/NewsFeed";
 import { DailyBriefingCard, BriefingSkeleton } from "@/components/news/DailyBriefing";
+import { NewsletterSignup } from "@/components/news/NewsletterSignup";
 import { getLatestDate, readNewsFile, getAllDates, readDailyBriefing } from "@/lib/news";
 
 export async function generateMetadata({ params }: { params: Promise<{ locale: string }> }): Promise<Metadata> {
@@ -32,6 +33,8 @@ export default async function NewsPage() {
       {briefing ? <DailyBriefingCard briefing={briefing} /> : <BriefingSkeleton />}
 
       <NewsFeed items={items} dates={dates} />
+
+      <NewsletterSignup />
     </div>
   );
 }
