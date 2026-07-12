@@ -4,10 +4,11 @@ import { useState, useEffect } from "react";
 import { useTranslations, useLocale } from "next-intl";
 import { Link, usePathname, useRouter } from "@/i18n/navigation";
 
-const navLinks: { href: "/" | "/services" | "/blog" | "/about" | "/contact"; labelKey: string }[] = [
+const navLinks: { href: "/" | "/services" | "/blog" | "/news" | "/about" | "/contact"; labelKey: string }[] = [
   { href: "/", labelKey: "nav.home" },
   { href: "/services", labelKey: "nav.services" },
   { href: "/blog", labelKey: "nav.blog" },
+  { href: "/news", labelKey: "nav.news" },
   { href: "/about", labelKey: "nav.about" },
   { href: "/contact", labelKey: "nav.contact" },
 ];

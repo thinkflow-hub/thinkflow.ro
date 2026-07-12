@@ -10,6 +10,30 @@ const nextConfig: NextConfig = {
   turbopack: {
     root: "D:\\WebDev\\thinkflow.ro",
   },
+  async rewrites() {
+    return [
+      {
+        source: "/news/archive/:date",
+        destination: "/:locale/news/archive/:date",
+        locale: false,
+      },
+      {
+        source: "/news/archive",
+        destination: "/:locale/news/archive",
+        locale: false,
+      },
+      {
+        source: "/news/category/:type",
+        destination: "/:locale/news/category/:type",
+        locale: false,
+      },
+      {
+        source: "/news/topic/:slug",
+        destination: "/:locale/news/topic/:slug",
+        locale: false,
+      },
+    ];
+  },
 };
 
 export default withNextIntl(nextConfig);

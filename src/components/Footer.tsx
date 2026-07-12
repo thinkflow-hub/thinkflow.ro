@@ -34,7 +34,7 @@ export default function Footer() {
                 <li><Link href="/blog" className="text-sm text-white/50 font-montserrat-regular transition-colors hover:text-white">{t("nav.blog")}</Link></li>
                 <li><Link href="/about" className="text-sm text-white/50 font-montserrat-regular transition-colors hover:text-white">{t("nav.about")}</Link></li>
                 <li><Link href="/contact" className="text-sm text-white/50 font-montserrat-regular transition-colors hover:text-white">{t("nav.contact")}</Link></li>
-                <li><a href="https://news.thinkflow.ro" target="_blank" rel="noopener noreferrer" className="text-sm text-white/50 font-montserrat-regular transition-colors hover:text-white">{t("nav.news")} ↗</a></li>
+                <li><Link href="/news" className="text-sm text-white/50 font-montserrat-regular transition-colors hover:text-white">{t("nav.news")}</Link></li>
               </ul>
             </div>
 
