@@ -188,6 +188,16 @@ export function semanticCluster(items: NewsItem[]): Map<string, NewsItem[]> {
   return clusters;
 }
 
+export function readGraph(): { nodes: any[]; edges: any[]; stats: any } | null {
+  try {
+    const graphPath = path.join(process.cwd(), "public", "data", "news_graph.json");
+    if (!fs.existsSync(graphPath)) return null;
+    return JSON.parse(fs.readFileSync(graphPath, "utf-8"));
+  } catch {
+    return null;
+  }
+}
+
 export function findNewsItem(sourceId: string): NewsItem | null {
   const dates = getAllDates();
   for (const date of dates.slice(0, 30)) {

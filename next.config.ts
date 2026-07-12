@@ -37,6 +37,26 @@ const nextConfig: NextConfig = {
         destination: "/:locale/news/article/:id",
         locale: false,
       },
+      {
+        source: "/news/graph",
+        destination: "/:locale/news/graph",
+        locale: false,
+      },
+      {
+        source: "/news/chat",
+        destination: "/:locale/news/chat",
+        locale: false,
+      },
+      {
+        source: "/news/channels",
+        destination: "/:locale/news/channels",
+        locale: false,
+      },
+      {
+        source: "/news/channels/:id",
+        destination: "/:locale/news/channels/:id",
+        locale: false,
+      },
     ];
   },
 };

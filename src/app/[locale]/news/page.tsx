@@ -1,9 +1,10 @@
 import type { Metadata } from "next";
 import { getTranslations, getLocale } from "next-intl/server";
+import Link from "next/link";
 import { NewsFeed } from "@/components/news/NewsFeed";
 import { DailyBriefingCard, BriefingSkeleton } from "@/components/news/DailyBriefing";
 import { NewsletterSignup } from "@/components/news/NewsletterSignup";
-import { getLatestDate, readNewsFile, getAllDates, readDailyBriefing } from "@/lib/news";
+import { getLatestDate, readNewsFile, getAllDates, readDailyBriefing, readGraph } from "@/lib/news";
 
 export async function generateMetadata({ params }: { params: Promise<{ locale: string }> }): Promise<Metadata> {
   const { locale } = await params;
@@ -28,6 +29,26 @@ export default async function NewsPage() {
           Curated AI, cloud, DevOps, and web development news.
           {latest && <span> Updated: {latest}</span>}
         </p>
+        <div className="mt-4 flex flex-wrap gap-2">
+          <Link
+            href={`/${locale}/news/channels`}
+            className="rounded-lg bg-muted px-3 py-1.5 text-xs font-medium hover:bg-muted/80 transition-colors"
+          >
+            📡 My Channels
+          </Link>
+          <Link
+            href={`/${locale}/news/graph`}
+            className="rounded-lg bg-muted px-3 py-1.5 text-xs font-medium hover:bg-muted/80 transition-colors"
+          >
+            🕸️ Knowledge Graph
+          </Link>
+          <Link
+            href={`/${locale}/news/chat`}
+            className="rounded-lg bg-muted px-3 py-1.5 text-xs font-medium hover:bg-muted/80 transition-colors"
+          >
+            💬 Ask AI
+          </Link>
+        </div>
       </section>
 
       {briefing ? <DailyBriefingCard briefing={briefing} /> : <BriefingSkeleton />}
