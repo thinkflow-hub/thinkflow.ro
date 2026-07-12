@@ -57,6 +57,11 @@ const nextConfig: NextConfig = {
         destination: "/:locale/news/channels/:id",
         locale: false,
       },
+      {
+        source: "/news/map",
+        destination: "/:locale/news/map",
+        locale: false,
+      },
     ];
   },
 };

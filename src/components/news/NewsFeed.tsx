@@ -3,6 +3,7 @@
 import { useMemo, useState, useEffect, useCallback, useRef } from "react";
 import { NewsCard } from "./NewsCard";
 import { NewsCluster } from "./NewsCluster";
+import { NewsGallery } from "./NewsGallery";
 import { semanticCluster } from "@/lib/news";
 import type { NewsItem } from "@/lib/news-types";
 
@@ -31,6 +32,7 @@ export function NewsFeed({ items, dates }: Props) {
   const [searchResults, setSearchResults] = useState<NewsItem[] | null>(null);
   const [searching, setSearching] = useState(false);
   const [briefingMode, setBriefingMode] = useState(true);
+  const [viewMode, setViewMode] = useState<"grid" | "gallery">("grid");
   const [visibleCount, setVisibleCount] = useState(briefingMode ? 10 : 12);
   const [sessionStart] = useState(Date.now());
   const [showNudge, setShowNudge] = useState(false);
@@ -145,6 +147,26 @@ export function NewsFeed({ items, dates }: Props) {
         >
           📰 Full Feed
         </button>
+        <div className="ml-auto flex gap-1">
+          <button
+            onClick={() => setViewMode("grid")}
+            className={`rounded px-2 py-1 text-xs font-medium transition-colors ${
+              viewMode === "grid" ? "bg-muted" : "text-muted hover:text-foreground"
+            }`}
+            title="Grid view"
+          >
+            ▦
+          </button>
+          <button
+            onClick={() => setViewMode("gallery")}
+            className={`rounded px-2 py-1 text-xs font-medium transition-colors ${
+              viewMode === "gallery" ? "bg-muted" : "text-muted hover:text-foreground"
+            }`}
+            title="Gallery view"
+          >
+            ⊞
+          </button>
+        </div>
       </div>
 
       <div className="mb-6 flex flex-wrap items-center gap-3">
@@ -192,15 +214,19 @@ export function NewsFeed({ items, dates }: Props) {
                 >
                   {formatDateLabel(date)}
                 </h2>
-                <div className="grid gap-4 sm:grid-cols-2 lg:grid-cols-3">
-                  {groups.map(([key, gItems]) =>
-                    key.startsWith("cluster_") ? (
-                      <NewsCluster key={key} clusterItems={gItems} />
-                    ) : (
-                      <NewsCard key={gItems[0].source_id} item={gItems[0]} />
-                    )
-                  )}
-                </div>
+                {viewMode === "gallery" ? (
+                  <NewsGallery items={groups.flatMap(([, g]) => g)} />
+                ) : (
+                  <div className="grid gap-4 sm:grid-cols-2 lg:grid-cols-3">
+                    {groups.map(([key, gItems]) =>
+                      key.startsWith("cluster_") ? (
+                        <NewsCluster key={key} clusterItems={gItems} />
+                      ) : (
+                        <NewsCard key={gItems[0].source_id} item={gItems[0]} />
+                      )
+                    )}
+                  </div>
+                )}
               </div>
             ))}
           </div>

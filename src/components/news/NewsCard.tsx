@@ -20,6 +20,9 @@ export function NewsCard({ item }: { item: NewsItem }) {
         >
           {item.category}
         </span>
+        {item.format === "video" && <span className="text-[10px]">🎬 Video</span>}
+        {item.format === "podcast" && <span className="text-[10px]">🎙 Podcast</span>}
+        {item.format === "event" && <span className="text-[10px]">📅 Event</span>}
         {sentColor && (
           <span
             className="inline-block h-2 w-2 rounded-full"

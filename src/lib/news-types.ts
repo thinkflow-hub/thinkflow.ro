@@ -8,6 +8,7 @@ export type Category =
   | "newsletters"
   | "industry";
 
+export type Format = "article" | "video" | "podcast" | "event";
 export type Sentiment = "positive" | "negative" | "neutral";
 
 export interface NewsItem {
@@ -20,6 +21,7 @@ export interface NewsItem {
   score: number;
   category: Category;
   weight: number;
+  format?: Format;
   tag?: string;
   stars?: number;
   language?: string;

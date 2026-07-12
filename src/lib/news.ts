@@ -188,6 +188,101 @@ export function semanticCluster(items: NewsItem[]): Map<string, NewsItem[]> {
   return clusters;
 }
 
+// Simple city → lat/lng lookup for geo visualization
+const CITY_COORDS: Record<string, [number, number]> = {
+  "san francisco": [37.7749, -122.4194],
+  "new york": [40.7128, -74.0060],
+  "london": [51.5074, -0.1278],
+  "berlin": [52.5200, 13.4050],
+  "tokyo": [35.6762, 139.6503],
+  "beijing": [39.9042, 116.4074],
+  "moscow": [55.7558, 37.6173],
+  "paris": [48.8566, 2.3522],
+  "bucharest": [44.4268, 26.1025],
+  "cluj": [46.7712, 23.6236],
+  "timisoara": [45.7489, 21.2087],
+  "iasi": [47.1585, 27.6014],
+  "brasov": [45.6427, 25.5887],
+  "constanta": [44.1598, 28.6348],
+  "craiova": [44.3302, 23.7949],
+  "seattle": [47.6062, -122.3321],
+  "austin": [30.2672, -97.7431],
+  "boston": [42.3601, -71.0589],
+  "chicago": [41.8781, -87.6298],
+  "los angeles": [34.0522, -118.2437],
+  "toronto": [43.6532, -79.3832],
+  "vancouver": [49.2827, -123.1207],
+  "sydney": [-33.8688, 151.2093],
+  "singapore": [1.3521, 103.8198],
+  "dubai": [25.2048, 55.2708],
+  "bangalore": [12.9716, 77.5946],
+  "amsterdam": [52.3676, 4.9041],
+  "zurich": [47.3769, 8.5417],
+  "stockholm": [59.3293, 18.0686],
+  "helsinki": [60.1699, 24.9384],
+  "oslo": [59.9139, 10.7522],
+  "copenhagen": [55.6761, 12.5683],
+  "dublin": [53.3498, -6.2603],
+  "brussels": [50.8503, 4.3517],
+  "madrid": [40.4168, -3.7038],
+  "barcelona": [41.3874, 2.1686],
+  "rome": [41.9028, 12.4964],
+  "milan": [45.4642, 9.1900],
+  "vienna": [48.2082, 16.3738],
+  "warsaw": [52.2297, 21.0122],
+  "prague": [50.0755, 14.4378],
+  "budapest": [47.4979, 19.0402],
+  "athens": [37.9838, 23.7275],
+  "istanbul": [41.0082, 28.9784],
+  "tel aviv": [32.0853, 34.7818],
+  "mumbai": [19.0760, 72.8777],
+  "shanghai": [31.2304, 121.4737],
+  "hong kong": [22.3193, 114.1694],
+  "seoul": [37.5665, 126.9780],
+  "taipei": [25.0330, 121.5654],
+  "melbourne": [-37.8136, 144.9631],
+  "auckland": [-36.8485, 174.7633],
+  "cape town": [-33.9249, 18.4241],
+  "dubai": [25.2048, 55.2708],
+  "doha": [25.2854, 51.5310],
+  "riyadh": [24.7136, 46.6753],
+  "mexico city": [19.4326, -99.1332],
+  "sao paulo": [-23.5505, -46.6333],
+  "buenos aires": [-34.6037, -58.3816],
+  "nairobi": [-1.2921, 36.8219],
+  "lagos": [6.5244, 3.3792],
+  "cairo": [30.0444, 31.2357],
+  "johannesburg": [-26.2041, 28.0473],
+};
+
+export function readGeoLocations(days: number = 7): { source_id: string; title: string; city: string; country: string; lat: number; lng: number; category: string; score: number }[] {
+  const dates = getAllDates().slice(0, days);
+  const locations: any[] = [];
+  for (const date of dates) {
+    const items = readNewsFile(date);
+    for (const item of items) {
+      const geoTitle = (item.geo_title || "").toLowerCase().trim();
+      if (!geoTitle) continue;
+      for (const [city, coords] of Object.entries(CITY_COORDS)) {
+        if (geoTitle.includes(city)) {
+          locations.push({
+            source_id: item.source_id,
+            title: item.title,
+            city,
+            country: "",
+            lat: coords[0],
+            lng: coords[1],
+            category: item.category,
+            score: item.score,
+          });
+          break;
+        }
+      }
+    }
+  }
+  return locations;
+}
+
 export function readGraph(): { nodes: any[]; edges: any[]; stats: any } | null {
   try {
     const graphPath = path.join(process.cwd(), "public", "data", "news_graph.json");
