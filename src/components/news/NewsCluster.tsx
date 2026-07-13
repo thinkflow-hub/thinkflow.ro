@@ -3,7 +3,7 @@
 import { useState, useMemo } from "react";
 import type { NewsItem, Category } from "@/lib/news-types";
 import { CATEGORY_COLORS } from "@/lib/news-types";
-import { generateComparison } from "@/lib/news";
+import { generateComparison } from "@/lib/news-client";
 
 function extractDomain(url: string): string {
   try { return new URL(url).hostname.replace("www.", ""); }

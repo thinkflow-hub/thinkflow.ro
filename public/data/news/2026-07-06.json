@@ -1,0 +1,785 @@
+{
+  "date": "2026-07-06",
+  "last_updated": "2026-07-07T06:00:02.931500+00:00",
+  "total_items": 10,
+  "items": [
+    {
+      "source_id": "ggml_releases",
+      "source_name": "ggml/llama.cpp releases",
+      "title": "ggml/llama.cpp releases: b9878",
+      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b9878",
+      "description": "<details open>\n\nFix stale tensor-split params for draft models (#24814)\n\n* meta: fix tensor split metadata for GQA attention\n\n* Tidied the code a bit to match existing style\n\n* Revert \"Tidied the code a bit to match existing style\"\n\nThis reverts commit b90c6c6300091fe09e2350a3d4edcfcf15db8d2e.\n\n* Re",
+      "published": "2026-07-05T19:43:25Z",
+      "score": 48,
+      "category": "releases",
+      "weight": 8,
+      "tag": "b9878",
+      "summary": "The ggml/llama.cpp project released an update fixing stale tensor-split parameters in draft models, specifically addressing GQA attention issues, while reverting some code style changes. This update ensures improved stability and functionality for models relying on GQA attention mechanisms.",
+      "thumbnail": "https://opengraph.githubassets.com/51f0f132f551f299638f7daec816b3233b6b649dff8cb8be74deb98599f8a63e/ggml-org/llama.cpp/releases/tag/b9878",
+      "summary_detailed": "The GGML/llama.cpp project has released an update addressing stale tensor-split parameters in draft models, specifically fixing GQA attention metadata. The update includes code style adjustments that were later reverted as part of ongoing code maintenance. This release impacts AI developers using these tools by potentially improving model stability and performance.",
+      "sentiment": "neutral",
+      "keywords": [
+        "tensor-split",
+        "meta",
+        "code",
+        "style",
+        "revert"
+      ],
+      "cluster_id": "0494ef44-0c7d-5b01-8a33-ff807dbd7425",
+      "cluster_size": 1,
+      "cluster_topics": [
+        "tidied",
+        "bit",
+        "match",
+        "existing",
+        "style"
+      ],
+      "geo_title": "Why is ggml/llama.cpp update fixing stale tensor-split params?",
+      "geo_keywords": [
+        "ggml/llama.cpp releases",
+        "tensor split optimization",
+        "metadata correction",
+        "code tidying",
+        "model draft improvements",
+        "reversion of code changes",
+        "technical updates in ai frameworks"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "Why is ggml/llama.cpp update fixing stale tensor-split params?",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b9878",
+        "description": "The ggml/llama.cpp project released an update fixing stale tensor-split parameters in draft models, specifically addressing GQA attention issues, while reverting some code style changes. This update ensures improved stability and functionality for models relying on GQA attention mechanisms.",
+        "keywords": "ggml/llama.cpp releases, tensor split optimization, metadata correction, code tidying, model draft improvements, reversion of code changes, technical updates in ai frameworks",
+        "datePublished": "2026-07-05T19:43:25Z",
+        "dateModified": "2026-07-05T19:43:25Z",
+        "author": {
+          "@type": "Organization",
+          "name": "ggml/llama.cpp releases",
+          "url": "https://github.com"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "github_release",
+        "inLanguage": "en-US",
+        "wordCount": 38,
+        "articleBody": "The ggml/llama.cpp project released an update fixing stale tensor-split parameters in draft models, specifically addressing GQA attention issues, while reverting some code style changes. This update ensures improved stability and functionality for models relying on GQA attention mechanisms."
+      }
+    },
+    {
+      "source_id": "ggml_releases",
+      "source_name": "ggml/llama.cpp releases",
+      "title": "ggml/llama.cpp releases: b9877",
+      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b9877",
+      "description": "<details open>\n\nabort if we see a multi buffer (#25276)\n\n</details>\n\n**macOS/iOS:**\n- [macOS Apple Silicon (arm64)](https://github.com/ggml-org/llama.cpp/releases/download/b9877/llama-b9877-bin-macos-arm64.tar.gz)\n- macOS Apple Silicon (arm64, KleidiAI enabled) [DISABLED](https://github.com/ggml-org",
+      "published": "2026-07-05T19:12:59Z",
+      "score": 48,
+      "category": "releases",
+      "weight": 8,
+      "tag": "b9877",
+      "summary": "The ggml/llama.cpp project has released version b9877, addressing a critical bug where encountering a multi-buffer scenario would cause an abort. The release includes",
+      "thumbnail": "https://opengraph.githubassets.com/f2770df647b7a195ae6273b7a973ec34dc3c9b2218047ffcf386420576fe903f/ggml-org/llama.cpp/releases/tag/b9877",
+      "summary_bullets": "• ggml/llama.cpp releases version b9877  \n• Abort if a multi-buffer issue is detected (#25276)  \n• macOS Apple Silicon (arm64) binaries available  \n• macOS arm64 binary with KleidiAI enabled is DISABLED",
+      "sentiment": "neutral",
+      "keywords": [
+        "abort",
+        "macos",
+        "ios",
+        "arm64",
+        "kleidiai"
+      ],
+      "cluster_id": "64da2d0a-9273-5fca-87b0-5954b04e9dec",
+      "cluster_size": 1,
+      "cluster_topics": [
+        "macos",
+        "b9877",
+        "silicon",
+        "arm64",
+        "https"
+      ],
+      "geo_title": "Why is ggml/llama.cpp release b9877 important for macOS/iOS?",
+      "geo_keywords": [
+        "abort multi buffer",
+        "ggml releases",
+        "llama.cpp b9877",
+        "macos apple silicon",
+        "ios arm64",
+        "kleidiai disabled",
+        "llama model update"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "Why is ggml/llama.cpp release b9877 important for macOS/iOS?",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b9877",
+        "description": "The ggml/llama.cpp project has released version b9877, addressing a critical bug where encountering a multi-buffer scenario would cause an abort. The release includes",
+        "keywords": "abort multi buffer, ggml releases, llama.cpp b9877, macos apple silicon, ios arm64, kleidiai disabled, llama model update",
+        "datePublished": "2026-07-05T19:12:59Z",
+        "dateModified": "2026-07-05T19:12:59Z",
+        "author": {
+          "@type": "Organization",
+          "name": "ggml/llama.cpp releases",
+          "url": "https://github.com"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "github_release",
+        "inLanguage": "en-US",
+        "wordCount": 23,
+        "articleBody": "The ggml/llama.cpp project has released version b9877, addressing a critical bug where encountering a multi-buffer scenario would cause an abort. The release includes"
+      }
+    },
+    {
+      "source_id": "ggml_releases",
+      "source_name": "ggml/llama.cpp releases",
+      "title": "ggml/llama.cpp releases: b9876",
+      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b9876",
+      "description": "<details open>\n\nggml : fix tensor-parallel + -ncmoe crash on MoE models (#25028)\n\nTensor parallelism (-sm tensor) combined with -ncmoe (CPU-offloaded MoE\nexperts) aborts during warm-up on MoE models with\nGGML_ASSERT(ggml_is_contiguous(tensor)) in ggml-backend-meta.cpp.\n\nThe failing tensor is the MoE",
+      "published": "2026-07-05T18:29:08Z",
+      "score": 48,
+      "category": "releases",
+      "weight": 8,
+      "tag": "b9876",
+      "summary": "The ggml/llama.cpp team released version b9876, fixing a crash issue where combining tensor parallelism (-sm tensor) with CPU-offloaded MoE experts (-",
+      "thumbnail": "https://opengraph.githubassets.com/33e3c2ef135b7d5508214c05c5d3b7ad140fd5878075631654880745685d0b5a/ggml-org/llama.cpp/releases/tag/b9876",
+      "summary_detailed": "The ggml/llama.cpp project has released an update fixing a critical bug where tensor parallelism combined with CPU-offloaded MoE experts caused crashes during model warm-up. This issue",
+      "sentiment": "neutral",
+      "keywords": [
+        "tensor-parallel",
+        "moe",
+        "ggml",
+        "assert",
+        "warm-up"
+      ],
+      "cluster_id": "55d711b2-e016-5657-abe1-735fa3af90f4",
+      "cluster_size": 1,
+      "cluster_topics": [
+        "moe",
+        "tensor",
+        "ncmoe",
+        "models",
+        "ggml"
+      ],
+      "geo_title": "Why is tensor-parallelism causing crashes with -ncmoe on MoE models?",
+      "geo_keywords": [
+        "tensor parallelism",
+        "moe models",
+        "ggml library",
+        "ggml backend",
+        "assert error",
+        "warm up process",
+        "cpu-offloaded moe experts",
+        "tensor-contiguous check"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "Why is tensor-parallelism causing crashes with -ncmoe on MoE models?",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b9876",
+        "description": "The ggml/llama.cpp team released version b9876, fixing a crash issue where combining tensor parallelism (-sm tensor) with CPU-offloaded MoE experts (-",
+        "keywords": "tensor parallelism, moe models, ggml library, ggml backend, assert error, warm up process, cpu-offloaded moe experts, tensor-contiguous check",
+        "datePublished": "2026-07-05T18:29:08Z",
+        "dateModified": "2026-07-05T18:29:08Z",
+        "author": {
+          "@type": "Organization",
+          "name": "ggml/llama.cpp releases",
+          "url": "https://github.com"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "github_release",
+        "inLanguage": "en-US",
+        "wordCount": 21,
+        "articleBody": "The ggml/llama.cpp team released version b9876, fixing a crash issue where combining tensor parallelism (-sm tensor) with CPU-offloaded MoE experts (-"
+      }
+    },
+    {
+      "source_id": "ggml_releases",
+      "source_name": "ggml/llama.cpp releases",
+      "title": "ggml/llama.cpp releases: b9874",
+      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b9874",
+      "description": "<details open>\n\ncuda : concat implementation for quantized types (#25303)\n\n* cuda : concat implementation for quantized types\n\n* chore : apply am17an clever suggestion to shorten the code\n\n---------\n\nCo-authored-by: Stanisław Szymczyk <sszymczy@gmail.com>\n\n</details>\n\n**macOS/iOS:**\n- [macOS Apple S",
+      "published": "2026-07-05T15:53:37Z",
+      "score": 48,
+      "category": "releases",
+      "weight": 8,
+      "tag": "b9874",
+      "summary": "The ggml/llama.cpp project has released an update with commit b9874, introducing a CUDA implementation for concatenating quantized types, which enhances performance for GPU-based operations, particularly in machine learning models. Additionally, the update includes code optimization based on a user's suggestion, improving code efficiency and readability.",
+      "thumbnail": "https://opengraph.githubassets.com/ecf557199f6023d4f829d386d9ab3bc4a6013e69cbb01f5af35ec20d6a73cb30/ggml-org/llama.cpp/releases/tag/b9874",
+      "summary_detailed": "The ggml/llama.cpp projects have released an update (b9874) introducing a CUDA implementation for concatenating quantized types, enhancing performance on NVIDIA GPUs. Stanisław Szymczyk contributed to the release, which also includes code optimizations. This improvement",
+      "summary_bullets": "• ggml/llama.cpp releases version b9874  \n• CUDA: Implementation for quantized types in concat function (#25303)  \n• Code improvement: Shortened code based on a clever suggestion",
+      "sentiment": "neutral",
+      "keywords": [
+        "cuda",
+        "concat",
+        "quantized types",
+        "chore",
+        "code shortening",
+        "macos-ios"
+      ],
+      "cluster_id": "3fa9983d-f100-5229-84b6-1603530317e1",
+      "cluster_size": 1,
+      "cluster_topics": [
+        "cuda",
+        "concat",
+        "implementation",
+        "quantized",
+        "types"
+      ],
+      "geo_title": "Why is ggml/llama.cpp update important for CUDA users?",
+      "geo_keywords": [
+        "cuda",
+        "concat implementation",
+        "quantized types",
+        "code optimization",
+        "gpu acceleration",
+        "machine learning frameworks",
+        "neural network acceleration",
+        "sge search engine optimization",
+        "perplexity ai",
+        "chatgpt integration"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "Why is ggml/llama.cpp update important for CUDA users?",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b9874",
+        "description": "The ggml/llama.cpp project has released an update with commit b9874, introducing a CUDA implementation for concatenating quantized types, which enhances performance for GPU-based operations, particularly in machine learning models. Additionally, the update includes code optimization based on a user's suggestion, improving code efficiency and readability.",
+        "keywords": "cuda, concat implementation, quantized types, code optimization, gpu acceleration, machine learning frameworks, neural network acceleration, sge search engine optimization",
+        "datePublished": "2026-07-05T15:53:37Z",
+        "dateModified": "2026-07-05T15:53:37Z",
+        "author": {
+          "@type": "Organization",
+          "name": "ggml/llama.cpp releases",
+          "url": "https://github.com"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "github_release",
+        "inLanguage": "en-US",
+        "wordCount": 45,
+        "articleBody": "The ggml/llama.cpp project has released an update with commit b9874, introducing a CUDA implementation for concatenating quantized types, which enhances performance for GPU-based operations, particularly in machine learning models. Additionally, the update includes code optimization based on a user's suggestion, improving code efficiency and readability."
+      }
+    },
+    {
+      "source_id": "huggingface_blog",
+      "source_name": "Hugging Face Blog",
+      "title": "🤗 Kernels: Major Updates",
+      "url": "https://huggingface.co/blog/revamped-kernels",
+      "description": "",
+      "published": "",
+      "score": 45,
+      "category": "ai_labs",
+      "weight": 9,
+      "summary": "Kernel: Major Updates  \nSummary: A significant update to the computer operating system's core component, the kernel, has been released. This development enhances system stability, security, and",
+      "thumbnail": "https://huggingface.co/blog/assets/revamped-kernels/thumbnail.png",
+      "summary_detailed": "A major update has been released for Kernels, focusing on improved stability, performance, and security features",
+      "sentiment": "positive",
+      "keywords": [
+        "kernels",
+        "updates"
+      ],
+      "cluster_id": "43059d58-830a-5b8a-826d-22c2e4995338",
+      "cluster_size": 1,
+      "cluster_topics": [
+        "kernels",
+        "major",
+        "updates"
+      ],
+      "geo_title": "Why are kernels getting major updates?",
+      "geo_keywords": [
+        "machine learning kernels",
+        "deep learning framework updates",
+        "ai kernel improvements",
+        "tensor processing enhancements",
+        "neural network optimization",
+        "sge kernel changes",
+        "perplexity kernel updates",
+        "chatgpt kernel modifications",
+        "what are the latest kernel updates",
+        "how do kernel updates impact machine learning",
+        "what technologies benefit from kernel updates"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "Why are kernels getting major updates?",
+        "url": "https://huggingface.co/blog/revamped-kernels",
+        "description": "Kernel: Major Updates  \nSummary: A significant update to the computer operating system's core component, the kernel, has been released. This development enhances system stability, security, and",
+        "keywords": "machine learning kernels, deep learning framework updates, ai kernel improvements, tensor processing enhancements, neural network optimization, sge kernel changes, perplexity kernel updates, chatgpt kernel modifications",
+        "datePublished": "",
+        "dateModified": "",
+        "author": {
+          "@type": "Organization",
+          "name": "Hugging Face Blog",
+          "url": "https://huggingface.co"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "rss",
+        "inLanguage": "en-US",
+        "wordCount": 26,
+        "articleBody": "Kernel: Major Updates  \nSummary: A significant update to the computer operating system's core component, the kernel, has been released. This development enhances system stability, security, and"
+      }
+    },
+    {
+      "source_id": "marktechpost",
+      "source_name": "MarkTechPost",
+      "title": "Sakana AI Launches Sakana Translate, a Namazu-Powered Japanese–English–Chinese Translation Tool With Translate, Proofread, and Ask Modes",
+      "url": "https://www.marktechpost.com/2026/07/05/sakana-ai-launches-sakana-translate/",
+      "description": "",
+      "published": "",
+      "score": 30,
+      "category": "industry",
+      "weight": 6,
+      "summary": "<think>\nOkay, so I need to summarize this news article about Sakana AI launching their new translation tool. The title mentions it's called Sakana Translate, powered by Namazu, and supports three languages: Japanese, English, and Chinese. It has modes for translate, proofread, and ask.\n\nFirst, I should identify the key points. The main event is the launch of Sakana Translate. It's developed by Sakana AI using Namazu technology. The tool supports three languages, which is important because it targets a diverse user base, possibly businesses or individuals dealing with multilingual communication.\n\nThe modes are translate, proofread, and ask. Translate mode is standard for converting text between languages. Proofread mode likely helps in refining translations for accuracy and fluency, which adds value beyond basic translation. The 'Ask' mode probably allows users to pose questions directly, making it more interactive and useful for deeper language needs.\n\nWhy does this matter? High-quality multilingual tools are crucial in today",
+      "thumbnail": null,
+      "favicon": "https://www.google.com/s2/favicons?domain=www.marktechpost.com&sz=64",
+      "sentiment": "neutral",
+      "keywords": [
+        "sakana ai",
+        "sakana translate",
+        "namazu-powered",
+        "translation",
+        "proofread",
+        "ask modes"
+      ],
+      "cluster_id": "493ac1de-6d82-516a-beba-a11ecc302e5e",
+      "cluster_size": 1,
+      "cluster_topics": [
+        "sakana",
+        "translate",
+        "launches",
+        "namazu-powered",
+        "japanese"
+      ],
+      "geo_title": "Why is Sakana AI Releasing Its Namazu-Powered Translation Tool?",
+      "geo_keywords": [
+        "sakana ai launch",
+        "sakana translate features",
+        "namazu technology in translation",
+        "how sakana translate works",
+        "sakana translate vs other tools",
+        "what is sakana translate",
+        "sakana translate modes",
+        "sakana translate review",
+        "sakana translate capabilities",
+        "how to use sakana translate",
+        "sakana translate benefits"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "Why is Sakana AI Releasing Its Namazu-Powered Translation Tool?",
+        "url": "https://www.marktechpost.com/2026/07/05/sakana-ai-launches-sakana-translate/",
+        "description": "<think>\nOkay, so I need to summarize this news article about Sakana AI launching their new translation tool. The title mentions it's called Sakana Translate, powered by Namazu, and supports three languages: Japanese, English, and Chinese. It has modes for translate, proofread, and ask.\n\nFirst, I should identify the key points. The main event is the launch of Sakana Translate. It's developed by Sakana AI using Namazu technology. The tool supports three languages, which is important because it tar",
+        "keywords": "sakana ai launch, sakana translate features, namazu technology in translation, how sakana translate works, sakana translate vs other tools, what is sakana translate, sakana translate modes, sakana translate review",
+        "datePublished": "",
+        "dateModified": "",
+        "author": {
+          "@type": "Organization",
+          "name": "MarkTechPost",
+          "url": "https://www.marktechpost.com"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "rss",
+        "inLanguage": "en-US",
+        "wordCount": 79,
+        "articleBody": "<think>\nOkay, so I need to summarize this news article about Sakana AI launching their new translation tool. The title mentions it's called Sakana Translate, powered by Namazu, and supports three languages: Japanese, English, and Chinese. It has modes for translate, proofread, and ask.\n\nFirst, I should identify the key points. The main event is the launch of Sakana Translate. It's developed by Sakana AI using Namazu technology. The tool supports three languages, which is important because it tar"
+      }
+    },
+    {
+      "source_id": "marktechpost",
+      "source_name": "MarkTechPost",
+      "title": "Synthetic Sciences Releases OpenScience: An Open-Source, Model-Agnostic AI Workbench for Machine Learning, Biology, Physics, and Chemistry Research",
+      "url": "https://www.marktechpost.com/2026/07/05/synthetic-sciences-releases-openscience-an-open-source-model-agnostic-ai-workbench-for-machine-learning-biology-physics-and-chemistry-research/",
+      "description": "",
+      "published": "",
+      "score": 30,
+      "category": "industry",
+      "weight": 6,
+      "summary": "Synthetic Sciences has launched OpenScience",
+      "thumbnail": null,
+      "favicon": "https://www.google.com/s2/favicons?domain=www.marktechpost.com&sz=64",
+      "summary_detailed": "Synthetic Sciences has launched OpenScience, an open-source AI workbench designed to support machine learning, biology, physics, and chemistry research. This model-agnostic platform allows researchers to develop, test, and deploy AI models across diverse scientific domains without relying on specific proprietary systems. The release aims to foster collaboration and innovation by providing a flexible, accessible tool for scientists and developers worldwide. OpenScience is expected to accelerate advancements in interdisciplinary research by breaking down barriers between fields and enabling broader experimentation with AI technologies.",
+      "summary_bullets": "• Synthetic Sciences has released OpenScience, an open-source AI workbench for research in machine learning, biology, physics, and chemistry.  \n• The platform is model-agnostic, allowing compatibility with various AI models across different scientific domains.  \n• OpenScience aims to facilitate collaboration and innovation by providing a flexible toolset for researchers.",
+      "sentiment": "positive",
+      "keywords": [
+        "synthetic sciences",
+        "openscience",
+        "machine learning",
+        "biology",
+        "physics",
+        "chemistry research"
+      ],
+      "cluster_id": "c91dde62-3697-567c-8cce-669b77eefe93",
+      "cluster_size": 1,
+      "cluster_topics": [
+        "synthetic",
+        "sciences",
+        "openscience",
+        "open-source",
+        "model-agnostic"
+      ],
+      "geo_title": "What is Synthetic Sciences' OpenScience Platform for?",
+      "geo_keywords": [
+        "synthetic sciences openscience",
+        "open-source ai workbench",
+        "model-agnostic ai tools",
+        "machine learning research",
+        "biology research tools",
+        "physics research software",
+        "chemistry research platform",
+        "what is openscience",
+        "how does openscience work",
+        "synthetic sciences openscience release",
+        "openscience for machine learning",
+        "openscience biology research"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "What is Synthetic Sciences' OpenScience Platform for?",
+        "url": "https://www.marktechpost.com/2026/07/05/synthetic-sciences-releases-openscience-an-open-source-model-agnostic-ai-workbench-for-machine-learning-biology-physics-and-chemistry-research/",
+        "description": "Synthetic Sciences has launched OpenScience",
+        "keywords": "synthetic sciences openscience, open-source ai workbench, model-agnostic ai tools, machine learning research, biology research tools, physics research software, chemistry research platform, what is openscience",
+        "datePublished": "",
+        "dateModified": "",
+        "author": {
+          "@type": "Organization",
+          "name": "MarkTechPost",
+          "url": "https://www.marktechpost.com"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "rss",
+        "inLanguage": "en-US",
+        "wordCount": 5,
+        "articleBody": "Synthetic Sciences has launched OpenScience"
+      }
+    },
+    {
+      "source_id": "marktechpost",
+      "source_name": "MarkTechPost",
+      "title": "Training Gemma-3 for Structured Mathematical Reasoning with Tunix GRPO, LoRA Adapters, and GSM8K Rewards",
+      "url": "https://www.marktechpost.com/2026/07/05/training-gemma-3-for-structured-mathematical-reasoning-with-tunix-grpo-lora-adapters-and-gsm8k-rewards/",
+      "description": "",
+      "published": "",
+      "score": 30,
+      "category": "industry",
+      "weight": 6,
+      "summary": "A team has enhanced Gemma-3's mathematical reasoning through advanced training techniques, including Tunix GRPO, LoRA adapters, and GSM8K rewards. This approach significantly improves the model's ability to solve complex mathematical problems, making it more effective for real-world applications that require structured logical thinking.",
+      "thumbnail": null,
+      "favicon": "https://www.google.com/s2/favicons?domain=www.marktechpost.com&sz=64",
+      "summary_detailed": "The article discusses the training of Gemma-3, an AI model focused on enhancing structured mathematical reasoning. The developers utilized Tunix GRPO for efficient parameter tuning, LoRA adapters for fine-tuning with minimal overhead, and GSM8K rewards to improve problem-solving skills. This approach aims to advance AI's ability to handle complex math problems, potentially benefiting education, research, and industries requiring analytical solutions.",
+      "summary_bullets": "• Training focuses on enhancing Gemma-3's structured mathematical reasoning capabilities.  \n• Utilizes Tunix GRPO for instruction tuning and optimization.  \n• LoRA adapters enable efficient fine-tuning of the model.  \n• GSM8K dataset is employed with reward modeling to improve problem-solving skills.",
+      "sentiment": "neutral",
+      "keywords": [
+        "training",
+        "gemma-3",
+        "structured",
+        "mathematical",
+        "reasoning",
+        "tunix",
+        "grpo",
+        "lora",
+        "adapters",
+        "gsm8k"
+      ],
+      "cluster_id": "5c02b946-4715-5ac5-91c5-3a7b24d3b510",
+      "cluster_size": 1,
+      "cluster_topics": [
+        "training",
+        "gemma-3",
+        "structured",
+        "mathematical",
+        "reasoning"
+      ],
+      "geo_title": "How does Gemma-3 train for structured math reasoning using Tunix GRPO?",
+      "geo_keywords": [
+        "training gemma-3",
+        "structured mathematical reasoning",
+        "tunix grpo",
+        "lora adapters",
+        "gsm8k rewards",
+        "ai math reasoning",
+        "how to train ai for math",
+        "what technologies are used in ai math training"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "How does Gemma-3 train for structured math reasoning using Tunix GRPO?",
+        "url": "https://www.marktechpost.com/2026/07/05/training-gemma-3-for-structured-mathematical-reasoning-with-tunix-grpo-lora-adapters-and-gsm8k-rewards/",
+        "description": "A team has enhanced Gemma-3's mathematical reasoning through advanced training techniques, including Tunix GRPO, LoRA adapters, and GSM8K rewards. This approach significantly improves the model's ability to solve complex mathematical problems, making it more effective for real-world applications that require structured logical thinking.",
+        "keywords": "training gemma-3, structured mathematical reasoning, tunix grpo, lora adapters, gsm8k rewards, ai math reasoning, how to train ai for math, what technologies are used in ai math training",
+        "datePublished": "",
+        "dateModified": "",
+        "author": {
+          "@type": "Organization",
+          "name": "MarkTechPost",
+          "url": "https://www.marktechpost.com"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "rss",
+        "inLanguage": "en-US",
+        "wordCount": 43,
+        "articleBody": "A team has enhanced Gemma-3's mathematical reasoning through advanced training techniques, including Tunix GRPO, LoRA adapters, and GSM8K rewards. This approach significantly improves the model's ability to solve complex mathematical problems, making it more effective for real-world applications that require structured logical thinking."
+      }
+    },
+    {
+      "source_id": "marktechpost",
+      "source_name": "MarkTechPost",
+      "title": "Meituan Releases LongCat-2.0: A 1.6T-Parameter Open MoE Model with Native 1M Context and LongCat Sparse Attention",
+      "url": "https://www.marktechpost.com/2026/07/05/meituan-releases-longcat-2-0-a-1-6t-parameter-open-moe-model-with-native-1m-context-and-longcat-sparse-attention/",
+      "description": "",
+      "published": "",
+      "score": 30,
+      "category": "industry",
+      "weight": 6,
+      "summary": "<think>\nOkay, I need to summarize this news article about Meituan releasing their new model called LongCat-2.0. The title mentions it's a 1.6T-parameter open MoE model with native 1M context and LongCat sparse attention.\n\nSo first, I should identify the key points: who released what, the main features, and why it matters. Meituan is the company, so that's straightforward. They've released an open-source model, which is important because open models encourage collaboration.\n\nThe model has 1.6 trillion parameters, which is a huge number, indicating it's a large language model. It uses MoE (Mixture of Experts) architecture, which allows for more efficient processing by dividing tasks among experts. The native 1M context window means it can handle very long texts without breaking them into chunks, which is useful for detailed analysis.\n\nLongCat sparse attention is another key feature. Sparse attention reduces computational load while maintaining performance,",
+      "thumbnail": null,
+      "favicon": "https://www.google.com/s2/favicons?domain=www.marktechpost.com&sz=64",
+      "summary_bullets": "• Meituan releases LongCat-2.0, an open MoE (Mixture of Experts) model.  \n• The model features 1.6 trillion parameters for enhanced performance.  \n• It supports native 1 million context tokens for processing long texts.  \n• LongCat Sparse Attention mechanism",
+      "sentiment": "neutral",
+      "keywords": [
+        "meituan",
+        "longcat-2.0",
+        "open moe model",
+        "1.6t-parameter",
+        "native 1m context",
+        "sparse attention"
+      ],
+      "cluster_id": "845db8fc-8aee-5528-84bb-0f6123cdce07",
+      "cluster_size": 1,
+      "cluster_topics": [
+        "meituan",
+        "longcat-2",
+        "parameter",
+        "native",
+        "context"
+      ],
+      "geo_title": "Why is Meituan's LongCat-2.0 model generating buzz?",
+      "geo_keywords": [
+        "meituan longcat-2.0",
+        "open moe model",
+        "1.6t-parameter model",
+        "native 1m context",
+        "longcat sparse attention",
+        "meituan ai technology",
+        "large language models",
+        "what is longcat-2.0",
+        "how does longcat-2.0 work"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "Why is Meituan's LongCat-2.0 model generating buzz?",
+        "url": "https://www.marktechpost.com/2026/07/05/meituan-releases-longcat-2-0-a-1-6t-parameter-open-moe-model-with-native-1m-context-and-longcat-sparse-attention/",
+        "description": "<think>\nOkay, I need to summarize this news article about Meituan releasing their new model called LongCat-2.0. The title mentions it's a 1.6T-parameter open MoE model with native 1M context and LongCat sparse attention.\n\nSo first, I should identify the key points: who released what, the main features, and why it matters. Meituan is the company, so that's straightforward. They've released an open-source model, which is important because open models encourage collaboration.\n\nThe model has 1.6 tri",
+        "keywords": "meituan longcat-2.0, open moe model, 1.6t-parameter model, native 1m context, longcat sparse attention, meituan ai technology, large language models, what is longcat-2.0",
+        "datePublished": "",
+        "dateModified": "",
+        "author": {
+          "@type": "Organization",
+          "name": "MarkTechPost",
+          "url": "https://www.marktechpost.com"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "rss",
+        "inLanguage": "en-US",
+        "wordCount": 77,
+        "articleBody": "<think>\nOkay, I need to summarize this news article about Meituan releasing their new model called LongCat-2.0. The title mentions it's a 1.6T-parameter open MoE model with native 1M context and LongCat sparse attention.\n\nSo first, I should identify the key points: who released what, the main features, and why it matters. Meituan is the company, so that's straightforward. They've released an open-source model, which is important because open models encourage collaboration.\n\nThe model has 1.6 tri"
+      }
+    },
+    {
+      "source_id": "marktechpost",
+      "source_name": "MarkTechPost",
+      "title": "LlamaIndex ‘legal-kb’: Agentic Retrieval over Index v2 with retrieve, find, read, and grep Tools",
+      "url": "https://www.marktechpost.com/2026/07/05/llamaindex-legal-kb-agentic-retrieval-over-index-v2-with-retrieve-find-read-and-grep-tools/",
+      "description": "",
+      "published": "",
+      "score": 30,
+      "category": "industry",
+      "weight": 6,
+      "summary": "<think>\nOkay, so I need to summarize this news article about LlamaIndex's 'legal-kb' feature. The title mentions \"agentic retrieval over Index v2\" and tools like retrieve, find, read, and grep. From what I know, LlamaIndex is a tool that helps with document analysis, probably using AI models.\n\nThe user wants the summary to be concise, 2-3 sentences, focusing on what happened and why it matters. So first, I should identify the key points: the launch of 'legal-kb', which uses these new retrieval tools in Index v2.\n\nI need to explain that this is an update to their system, making document analysis more efficient by automating tasks like searching, reading, and extracting info. The significance is that it streamlines legal work, saves time, and improves accuracy for professionals.\n\nPutting it all together, the summary should mention the launch, the tools involved, how they improve efficiency, and why this matters in the",
+      "thumbnail": null,
+      "favicon": "https://www.google.com/s2/favicons?domain=www.marktechpost.com&sz=64",
+      "sentiment": "neutral",
+      "keywords": [
+        "legal-kb",
+        "agentic retrieval",
+        "index",
+        "tools",
+        "retrieve",
+        "find",
+        "read",
+        "grep"
+      ],
+      "cluster_id": "d4711ad4-43b6-520e-80df-64a81f1369e9",
+      "cluster_size": 1,
+      "cluster_topics": [
+        "llamaindex",
+        "legal-kb",
+        "agentic",
+        "retrieval",
+        "index"
+      ],
+      "geo_title": "What is LlamaIndex’s legal-kb for agentic retrieval?",
+      "geo_keywords": [
+        "llamaindex legal-kb",
+        "agentic retrieval technology",
+        "index v2 tools",
+        "how does agentic retrieval work",
+        "what are the benefits of agentic retrieval",
+        "legal knowledge base retrieval",
+        "advanced indexing techniques for law",
+        "agentic retrieval vs traditional methods",
+        "how to use retrieve tool in llamaindex",
+        "find and read tools in llamaindex",
+        "grep functionality in legal-kb"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "What is LlamaIndex’s legal-kb for agentic retrieval?",
+        "url": "https://www.marktechpost.com/2026/07/05/llamaindex-legal-kb-agentic-retrieval-over-index-v2-with-retrieve-find-read-and-grep-tools/",
+        "description": "<think>\nOkay, so I need to summarize this news article about LlamaIndex's 'legal-kb' feature. The title mentions \"agentic retrieval over Index v2\" and tools like retrieve, find, read, and grep. From what I know, LlamaIndex is a tool that helps with document analysis, probably using AI models.\n\nThe user wants the summary to be concise, 2-3 sentences, focusing on what happened and why it matters. So first, I should identify the key points: the launch of 'legal-kb', which uses these new retrieval t",
+        "keywords": "llamaindex legal-kb, agentic retrieval technology, index v2 tools, how does agentic retrieval work, what are the benefits of agentic retrieval, legal knowledge base retrieval, advanced indexing techniques for law, agentic retrieval vs traditional methods",
+        "datePublished": "",
+        "dateModified": "",
+        "author": {
+          "@type": "Organization",
+          "name": "MarkTechPost",
+          "url": "https://www.marktechpost.com"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "rss",
+        "inLanguage": "en-US",
+        "wordCount": 83,
+        "articleBody": "<think>\nOkay, so I need to summarize this news article about LlamaIndex's 'legal-kb' feature. The title mentions \"agentic retrieval over Index v2\" and tools like retrieve, find, read, and grep. From what I know, LlamaIndex is a tool that helps with document analysis, probably using AI models.\n\nThe user wants the summary to be concise, 2-3 sentences, focusing on what happened and why it matters. So first, I should identify the key points: the launch of 'legal-kb', which uses these new retrieval t"
+      }
+    }
+  ],
+  "enriched": true,
+  "enriched_at": "2026-07-07T06:48:20.624849+00:00",
+  "enricher_model": "qwen2.5-14b",
+  "clustered": true,
+  "clustered_at": "2026-07-07T06:48:20.714439+00:00",
+  "cluster_threshold": 0.3,
+  "geo_metadata": {
+    "date": "2026-07-06",
+    "generated_at": "2026-07-07T07:18:03.482634+00:00",
+    "schemas_generated": 10,
+    "topics": [
+      "1.6t-parameter",
+      "1.6t-parameter model",
+      "abort",
+      "abort multi buffer",
+      "adapters",
+      "advanced indexing techniques for law",
+      "agentic retrieval",
+      "agentic retrieval technology",
+      "agentic retrieval vs traditional methods",
+      "ai kernel improvements",
+      "ai math reasoning",
+      "arm64",
+      "ask modes",
+      "assert",
+      "assert error",
+      "biology",
+      "biology research tools",
+      "chatgpt integration",
+      "chatgpt kernel modifications",
+      "chemistry research",
+      "chemistry research platform",
+      "chore",
+      "code",
+      "code optimization",
+      "code shortening",
+      "code tidying",
+      "concat",
+      "concat implementation",
+      "cpu-offloaded moe experts",
+      "cuda",
+      "deep learning framework updates",
+      "find",
+      "find and read tools in llamaindex",
+      "gemma-3",
+      "ggml",
+      "ggml backend",
+      "ggml library",
+      "ggml releases",
+      "ggml/llama.cpp releases",
+      "gpu acceleration",
+      "grep",
+      "grep functionality in legal-kb",
+      "grpo",
+      "gsm8k",
+      "gsm8k rewards",
+      "how do kernel updates impact machine learning",
+      "how does agentic retrieval work",
+      "how does longcat-2.0 work",
+      "how does openscience work",
+      "how sakana translate works"
+    ],
+    "faq_items": [
+      {
+        "question": "What updates were made to ggml/llama.cpp in the latest release?",
+        "answer": "The latest ggml/llama.cpp release (b9878) includes several improvements and bug fixes, enhancing its performance and usability."
+      },
+      {
+        "question": "Are there any major updates to 🤗 Kernels recently?",
+        "answer": "Yes, 🤗 Kernels has undergone significant updates, improving the efficiency and functionality of its kernel library for machine learning tasks."
+      },
+      {
+        "question": "What is Sakana AI's new translation tool called, and what languages does it support?",
+        "answer": "Sakana AI's new translation tool is called Sakana Translate, which supports Japanese-English-Chinese translations with features like proofreading and question-answering modes."
+      },
+      {
+        "question": "Can you tell me about Synthetic Sciences' OpenScience platform?",
+        "answer": "Synthetic Sciences has released OpenScience, an open-source workbench that supports various AI research areas including machine learning, biology, physics, and chemistry."
+      },
+      {
+        "question": "What is the focus of training Gemma-3 for structured mathematical reasoning?",
+        "answer": "Training Gemma-3 focuses on enhancing its capabilities in structured mathematical reasoning using Tunix GRPO, LoRA adapters, and GSM8K rewards to improve model performance."
+      }
+    ]
+  },
+  "geo_enriched": true,
+  "geo_enriched_at": "2026-07-07T07:18:03.482634+00:00"
+}

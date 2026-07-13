@@ -14,7 +14,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
   const staticEntries: MetadataRoute.Sitemap = staticRoutes.map((route) => ({
     url: `https://thinkflow.ro${route}`,
     lastModified: new Date(),
-    changeFrequency: route === "" ? 1.0 : route === "/news" ? "daily" : 0.8,
+    changeFrequency: route === "" ? "daily" : route === "/news" ? "daily" : "monthly",
     priority: route === "" ? 1.0 : 0.8,
   }));
 

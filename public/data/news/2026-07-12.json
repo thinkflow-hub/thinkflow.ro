@@ -1,0 +1,1257 @@
+{
+  "date": "2026-07-12",
+  "last_updated": "2026-07-12T06:00:01.296493+00:00",
+  "total_items": 17,
+  "items": [
+    {
+      "source_id": "trending_ai",
+      "source_name": "GitHub Trending — AI",
+      "title": "rasbt/LLMs-from-scratch — Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
+      "url": "https://github.com/rasbt/LLMs-from-scratch",
+      "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
+      "published": "2026-07-11T20:45:39Z",
+      "score": 62,
+      "category": "open_source",
+      "weight": 9,
+      "stars": 98943,
+      "language": "Jupyter Notebook",
+      "summary": "A tutorial has been created to guide users through the process of building a language model similar to ChatGPT using PyTorch, emphasizing hands-on learning and deep understanding. This matters because it democratizes access to advanced AI development, allowing more individuals to explore and contribute to the field of natural language processing.",
+      "summary_detailed": "The article provides a detailed guide on how to create a language model similar to ChatGPT using PyTorch, focusing on building it from scratch. The tutorial is designed for developers and machine learning enthusiasts who want to understand the underlying mechanisms of such models. This implementation could have broader implications for education and research in natural language processing, as it demystifies complex AI technologies.",
+      "summary_bullets": "• Build a language model using PyTorch\n• Mimic the functionality of ChatGPT\n• Start from scratch without pre-trained models\n• Cover implementation in detailed steps",
+      "sentiment": "neutral",
+      "keywords": [
+        "chatgpt",
+        "llm",
+        "pytorch",
+        "implementation",
+        "scratch"
+      ],
+      "thumbnail": "https://repository-images.githubusercontent.com/669879380/79da1d51-4ef9-4733-a61c-1d7851020d9a",
+      "cluster_id": "0494ef44-0c7d-5b01-8a33-ff807dbd7425",
+      "cluster_size": 1,
+      "cluster_topics": [
+        "step",
+        "implement",
+        "chatgpt-like",
+        "pytorch",
+        "scratch"
+      ],
+      "geo_title": "How does one implement a ChatGPT-like LLM in PyTorch from scratch?",
+      "geo_keywords": [
+        "chatgpt implementation",
+        "llm from scratch",
+        "pytorch language model",
+        "build chatgpt like llm",
+        "create llm with pytorch",
+        "step by step llm implementation",
+        "how to implement chatgpt like model"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "How does one implement a ChatGPT-like LLM in PyTorch from scratch?",
+        "url": "https://github.com/rasbt/LLMs-from-scratch",
+        "description": "A tutorial has been created to guide users through the process of building a language model similar to ChatGPT using PyTorch, emphasizing hands-on learning and deep understanding. This matters because it democratizes access to advanced AI development, allowing more individuals to explore and contribute to the field of natural language processing.",
+        "keywords": "chatgpt implementation, llm from scratch, pytorch language model, build chatgpt like llm, create llm with pytorch, step by step llm implementation, how to implement chatgpt like model",
+        "datePublished": "2026-07-11T20:45:39Z",
+        "dateModified": "2026-07-11T20:45:39Z",
+        "author": {
+          "@type": "Organization",
+          "name": "GitHub Trending — AI",
+          "url": "https://github.com"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "open_source",
+        "inLanguage": "en-US",
+        "wordCount": 51,
+        "articleBody": "A tutorial has been created to guide users through the process of building a language model similar to ChatGPT using PyTorch, emphasizing hands-on learning and deep understanding. This matters because it democratizes access to advanced AI development, allowing more individuals to explore and contribute to the field of natural language processing."
+      }
+    },
+    {
+      "source_id": "hn_llm_24h",
+      "source_name": "HN top LLM 24h",
+      "title": "Mesh LLM: distributed AI computing on iroh",
+      "url": "https://www.iroh.computer/blog/mesh-llm",
+      "description": "",
+      "published": "2026-07-11T22:38:57+00:00",
+      "score": 62,
+      "category": "trending",
+      "weight": 9,
+      "points": 176,
+      "comments_url": "https://news.ycombinator.com/item?id=48876505",
+      "summary": "Mesh LLM introduces a new approach to distributed AI computing, leveraging the iroh platform to enhance model training efficiency and scalability, which is crucial for handling large datasets and complex models in machine learning. This innovation matters because it could significantly reduce computation time and resource costs, advancing the field of AI development.",
+      "summary_detailed": "Mesh LLM introduces a new approach to distributed AI computing by leveraging the iroh platform, allowing for more efficient processing of large language models. This innovation involves collaboration between multiple entities aiming to enhance the scalability and performance of AI systems. The broader impact could lead to faster development cycles and improved capabilities in natural language processing across various applications.",
+      "summary_bullets": "• Mesh LLM enables distributed AI computation\n• Utilizes the iroh platform for operations\n• Enhances scalability and efficiency in AI processing",
+      "sentiment": "neutral",
+      "keywords": [
+        "mesh llm",
+        "distributed ai",
+        "computing",
+        "iroh"
+      ],
+      "thumbnail": "https://www.iroh.computer/api/og?title=Blog&subtitle=Mesh%20LLM:%20distributed%20AI%20computing%20on%20iroh",
+      "cluster_id": "64da2d0a-9273-5fca-87b0-5954b04e9dec",
+      "cluster_size": 1,
+      "cluster_topics": [
+        "mesh",
+        "distributed",
+        "computing",
+        "iroh",
+        "llm"
+      ],
+      "geo_title": "A look at Mesh LLM: Distributed AI Computing on Iroh",
+      "geo_keywords": [
+        "mesh llm",
+        "distributed ai computing",
+        "iroh technology",
+        "ai distributed computing",
+        "how does mesh llm work",
+        "what is iroh in ai",
+        "mesh architecture for ai",
+        "distributed learning systems",
+        "iroh and mesh llm",
+        "advantages of mesh llm",
+        "iroh for ai scalability"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "A look at Mesh LLM: Distributed AI Computing on Iroh",
+        "url": "https://www.iroh.computer/blog/mesh-llm",
+        "description": "Mesh LLM introduces a new approach to distributed AI computing, leveraging the iroh platform to enhance model training efficiency and scalability, which is crucial for handling large datasets and complex models in machine learning. This innovation matters because it could significantly reduce computation time and resource costs, advancing the field of AI development.",
+        "keywords": "mesh llm, distributed ai computing, iroh technology, ai distributed computing, how does mesh llm work, what is iroh in ai, mesh architecture for ai, distributed learning systems",
+        "datePublished": "2026-07-11T22:38:57+00:00",
+        "dateModified": "2026-07-11T22:38:57+00:00",
+        "author": {
+          "@type": "Organization",
+          "name": "HN top LLM 24h",
+          "url": "https://www.iroh.computer"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "trending",
+        "inLanguage": "en-US",
+        "wordCount": 53,
+        "articleBody": "Mesh LLM introduces a new approach to distributed AI computing, leveraging the iroh platform to enhance model training efficiency and scalability, which is crucial for handling large datasets and complex models in machine learning. This innovation matters because it could significantly reduce computation time and resource costs, advancing the field of AI development."
+      }
+    },
+    {
+      "source_id": "hn_llm_24h",
+      "source_name": "HN top LLM 24h",
+      "title": "Stop Telling Me to Ask an LLM",
+      "url": "https://blog.yaelwrites.com/stop-telling-me-to-ask-an-llm/",
+      "description": "",
+      "published": "2026-07-11T22:28:48+00:00",
+      "score": 62,
+      "category": "trending",
+      "weight": 9,
+      "points": 174,
+      "comments_url": "https://news.ycombinator.com/item?id=48876441",
+      "summary": "A recent trend encourages people to question the advice given by large language models (LLMs), highlighting concerns about bias and accuracy in AI-generated responses. This shift is important as it prompts users to critically evaluate AI outputs, ensuring more responsible and informed decision-making.",
+      "summary_detailed": "A recent trend has seen individuals frustrated with advice to consult large language models (LLMs) for information or assistance, leading to social media campaigns urging people to seek help elsewhere. This backlash involves tech users and AI critics who argue that relying too heavily on LLMs can hinder critical thinking and personal growth. The broader impact includes sparking a public debate on the role of AI in education and decision-making processes.",
+      "summary_bullets": "• Critics argue AI tools like chatbots should not replace human advice.\n• Users seek nuanced, empathetic responses beyond algorithmic outputs.\n• Ethical concerns arise over the dehumanization of certain services.",
+      "sentiment": "negative",
+      "keywords": [
+        "llm",
+        "stop",
+        "telling",
+        "ask"
+      ],
+      "thumbnail": "https://images.unsplash.com/photo-1527430253228-e93688616381?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDN8fHJvYm90fGVufDB8fHx8MTc4MzU0Nzk3OXww&ixlib=rb-4.1.0&q=80&w=2000",
+      "cluster_id": "55d711b2-e016-5657-abe1-735fa3af90f4",
+      "cluster_size": 1,
+      "cluster_topics": [
+        "stop",
+        "telling",
+        "ask",
+        "llm"
+      ],
+      "geo_title": "Why is Everyone Forcing Me to Use LLMs?",
+      "geo_keywords": [
+        "stop telling me to ask an llm",
+        "large language models",
+        "ai ethics",
+        "chatbot limitations",
+        "human interaction",
+        "ai decision making",
+        "when to use llm",
+        "ethical ai usage"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "Why is Everyone Forcing Me to Use LLMs?",
+        "url": "https://blog.yaelwrites.com/stop-telling-me-to-ask-an-llm/",
+        "description": "A recent trend encourages people to question the advice given by large language models (LLMs), highlighting concerns about bias and accuracy in AI-generated responses. This shift is important as it prompts users to critically evaluate AI outputs, ensuring more responsible and informed decision-making.",
+        "keywords": "stop telling me to ask an llm, large language models, ai ethics, chatbot limitations, human interaction, ai decision making, when to use llm, ethical ai usage",
+        "datePublished": "2026-07-11T22:28:48+00:00",
+        "dateModified": "2026-07-11T22:28:48+00:00",
+        "author": {
+          "@type": "Organization",
+          "name": "HN top LLM 24h",
+          "url": "https://blog.yaelwrites.com"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "trending",
+        "inLanguage": "en-US",
+        "wordCount": 43,
+        "articleBody": "A recent trend encourages people to question the advice given by large language models (LLMs), highlighting concerns about bias and accuracy in AI-generated responses. This shift is important as it prompts users to critically evaluate AI outputs, ensuring more responsible and informed decision-making."
+      }
+    },
+    {
+      "source_id": "hn_ai_24h",
+      "source_name": "HN top AI 24h",
+      "title": "Ghost Font: A font that humans can read but AI cannot",
+      "url": "https://www.mixfont.com/ghost-font",
+      "description": "",
+      "published": "2026-07-11T09:36:53+00:00",
+      "score": 59,
+      "category": "trending",
+      "weight": 8,
+      "points": 204,
+      "comments_url": "https://news.ycombinator.com/item?id=48870381",
+      "summary": "A new \"Ghost Font\" has been developed, making text readable to human eyes but indecipherable to artificial intelligence systems, raising concerns about the potential impact on automated content analysis and cybersecurity.",
+      "summary_detailed": "Researchers have developed a \"Ghost Font\" where text appears legible to human eyes but appears as random noise to artificial intelligence systems, raising concerns about potential vulnerabilities in AI-driven security measures and highlighting the ongoing challenge of creating foolproof cybersecurity solutions. This font involves collaboration between cognitive psychologists and computer scientists who designed characters with subtle irregularities imperceptible to humans but easily distinguishable by AI. The broader impact could lead to improved methods for detecting and preventing cyber attacks by exploiting AI's limitations.",
+      "summary_bullets": "• The font uses irregularities and variations undetectable to AI\n• Designed specifically to challenge AI's current text recognition capabilities\n• Developed by researchers to highlight limitations in AI technology",
+      "sentiment": "neutral",
+      "keywords": [
+        "ghost font",
+        "ai",
+        "readability",
+        "technology",
+        "typography"
+      ],
+      "thumbnail": "https://static.mixfont.com/assets/20260711-092742-ghostfont-og-j3qj8h8p.webp",
+      "cluster_id": "3fa9983d-f100-5229-84b6-1603530317e1",
+      "cluster_size": 1,
+      "cluster_topics": [
+        "font",
+        "ghost",
+        "humans",
+        "read",
+        "cannot"
+      ],
+      "geo_title": "Why is a Ghost Font Unreadable for AI?",
+      "geo_keywords": [
+        "ghost font",
+        "ai vs human readability",
+        "machine learning in typography",
+        "understanding ghost fonts",
+        "how ai struggles with certain fonts",
+        "new frontiers in font design",
+        "deciphering ghost fonts",
+        "technological limitations of ai in text recognition"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "Why is a Ghost Font Unreadable for AI?",
+        "url": "https://www.mixfont.com/ghost-font",
+        "description": "A new \"Ghost Font\" has been developed, making text readable to human eyes but indecipherable to artificial intelligence systems, raising concerns about the potential impact on automated content analysis and cybersecurity.",
+        "keywords": "ghost font, ai vs human readability, machine learning in typography, understanding ghost fonts, how ai struggles with certain fonts, new frontiers in font design, deciphering ghost fonts, technological limitations of ai in text recognition",
+        "datePublished": "2026-07-11T09:36:53+00:00",
+        "dateModified": "2026-07-11T09:36:53+00:00",
+        "author": {
+          "@type": "Organization",
+          "name": "HN top AI 24h",
+          "url": "https://www.mixfont.com"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "trending",
+        "inLanguage": "en-US",
+        "wordCount": 31,
+        "articleBody": "A new \"Ghost Font\" has been developed, making text readable to human eyes but indecipherable to artificial intelligence systems, raising concerns about the potential impact on automated content analysis and cybersecurity."
+      }
+    },
+    {
+      "source_id": "hn_ai_24h",
+      "source_name": "HN top AI 24h",
+      "title": "AI 2040 and the cult of intelligence",
+      "url": "https://geohot.github.io//blog/jekyll/update/2026/07/11/ai-2040.html",
+      "description": "",
+      "published": "2026-07-11T18:04:01+00:00",
+      "score": 59,
+      "category": "trending",
+      "weight": 8,
+      "points": 196,
+      "comments_url": "https://news.ycombinator.com/item?id=48874200",
+      "summary": "The article discusses the growing influence of artificial intelligence (AI) by 2040, highlighting how it has become central to global economies and daily life, raising questions about its ethical implications and potential impact on human jobs. This matters because as AI's role expands, so does the need for careful regulation and consideration of its broader societal effects.",
+      "summary_detailed": "In a recent discussion titled \"AI 2040 and the Cult of Intelligence,\" experts explored how advancements in artificial intelligence could shape societal values by 2040, focusing on the potential for AI to become central to human identity and decision-making processes. The event involved leading AI researchers, ethicists, and futurists who debated the implications of prioritizing intelligence enhancement through technology. This dialogue highlighted concerns about the broader impact on employment, privacy, and social dynamics, emphasizing the need for ethical considerations in AI development.",
+      "summary_bullets": "• AI technologies are expected to significantly transform various sectors by 2040.\n• There is growing concern about the potential misuse of advanced AI systems.\n• The concept of \"cult of intelligence\" highlights excessive focus on cognitive abilities.",
+      "sentiment": "neutral",
+      "keywords": [
+        "ai",
+        "2040",
+        "intelligence",
+        "culture"
+      ],
+      "thumbnail": null,
+      "favicon": "https://www.google.com/s2/favicons?domain=geohot.github.io&sz=64",
+      "cluster_id": "43059d58-830a-5b8a-826d-22c2e4995338",
+      "cluster_size": 1,
+      "cluster_topics": [
+        "cult",
+        "intelligence"
+      ],
+      "geo_title": "Why Is Intelligence Cultivated in AI 2040?",
+      "geo_keywords": [
+        "ai 2040",
+        "future of ai",
+        "artificial intelligence 2040",
+        "ai culture",
+        "intelligent machines 2040",
+        "ai and society",
+        "what will ai be like in 2040",
+        "how will ai change culture"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "Why Is Intelligence Cultivated in AI 2040?",
+        "url": "https://geohot.github.io//blog/jekyll/update/2026/07/11/ai-2040.html",
+        "description": "The article discusses the growing influence of artificial intelligence (AI) by 2040, highlighting how it has become central to global economies and daily life, raising questions about its ethical implications and potential impact on human jobs. This matters because as AI's role expands, so does the need for careful regulation and consideration of its broader societal effects.",
+        "keywords": "ai 2040, future of ai, artificial intelligence 2040, ai culture, intelligent machines 2040, ai and society, what will ai be like in 2040, how will ai change culture",
+        "datePublished": "2026-07-11T18:04:01+00:00",
+        "dateModified": "2026-07-11T18:04:01+00:00",
+        "author": {
+          "@type": "Organization",
+          "name": "HN top AI 24h",
+          "url": "https://geohot.github.io"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "trending",
+        "inLanguage": "en-US",
+        "wordCount": 57,
+        "articleBody": "The article discusses the growing influence of artificial intelligence (AI) by 2040, highlighting how it has become central to global economies and daily life, raising questions about its ethical implications and potential impact on human jobs. This matters because as AI's role expands, so does the need for careful regulation and consideration of its broader societal effects."
+      }
+    },
+    {
+      "source_id": "ggml_releases",
+      "source_name": "ggml/llama.cpp releases",
+      "title": "ggml/llama.cpp releases: b9969",
+      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b9969",
+      "description": "<details open>\n\nVulkan: route large matmuls to medium tile on Adreno (#24877)\n\n* [Vulkan] Fixes llama-cli breaking over longer promts sizes\n\nThe llama-cli was breaking for longer promts sizes for q4_0 quantized networks. Causing due to insufficient shared memory.\n\n* Removed the un-used Adreno device",
+      "published": "2026-07-12T05:30:33Z",
+      "score": 48,
+      "category": "releases",
+      "weight": 8,
+      "tag": "b9969",
+      "summary": "ggml/llama.cpp updates address issues with Vulkan support, particularly fixing problems related to longer prompt sizes and removing unused hardware support, enhancing compatibility and performance for quantized networks on mobile GPUs.",
+      "summary_detailed": "ggml/llama.cpp released a fix addressing issues with the llama-cli breaking for longer prompt sizes, particularly affecting q4_0 quantized networks due to insufficient shared memory on Adreno devices. The update also removed an unused Adreno device configuration. This patch improves compatibility and performance across various hardware platforms, enhancing user experience in handling larger prompts.",
+      "summary_bullets": "• [Vulkan] Fixes llama-cli breaking over longer prompt sizes  \n• Removed unused Adreno device",
+      "sentiment": "neutral",
+      "keywords": [
+        "vulkan",
+        "adreno",
+        "llama-cli",
+        "prompts",
+        "quantized"
+      ],
+      "thumbnail": "https://opengraph.githubassets.com/6522be6b8f164673fce6ba0acbe7b7dd52e91f4053a0655d4740c3ae46481350/ggml-org/llama.cpp/releases/tag/b9969",
+      "cluster_id": "493ac1de-6d82-516a-beba-a11ecc302e5e",
+      "cluster_size": 1,
+      "cluster_topics": [
+        "vulkan",
+        "llama-cli",
+        "breaking",
+        "longer",
+        "promts"
+      ],
+      "geo_title": "Why is ggml/llama.cpp update crucial for Vulkan and long prompts?",
+      "geo_keywords": [
+        "vulkan optimizations",
+        "adreno gpu support",
+        "llama cli updates",
+        "large language model inference",
+        "quantization issues",
+        "prompt size limitations",
+        "gpu acceleration for ai models"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "Why is ggml/llama.cpp update crucial for Vulkan and long prompts?",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b9969",
+        "description": "ggml/llama.cpp updates address issues with Vulkan support, particularly fixing problems related to longer prompt sizes and removing unused hardware support, enhancing compatibility and performance for quantized networks on mobile GPUs.",
+        "keywords": "vulkan optimizations, adreno gpu support, llama cli updates, large language model inference, quantization issues, prompt size limitations, gpu acceleration for ai models",
+        "datePublished": "2026-07-12T05:30:33Z",
+        "dateModified": "2026-07-12T05:30:33Z",
+        "author": {
+          "@type": "Organization",
+          "name": "ggml/llama.cpp releases",
+          "url": "https://github.com"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "releases",
+        "inLanguage": "en-US",
+        "wordCount": 30,
+        "articleBody": "ggml/llama.cpp updates address issues with Vulkan support, particularly fixing problems related to longer prompt sizes and removing unused hardware support, enhancing compatibility and performance for quantized networks on mobile GPUs."
+      }
+    },
+    {
+      "source_id": "ggml_releases",
+      "source_name": "ggml/llama.cpp releases",
+      "title": "ggml/llama.cpp releases: b9968",
+      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b9968",
+      "description": "<details open>\n\nopencl: add int8 dp4 dense and MoE prefill optimization for Adreno GPUs (#25537)\n\n* opencl: add int8 dp4 dense and moe GEMM\n\n* opencl: refactor\n\n---------\n\nCo-authored-by: Li He <lih@qti.qualcomm.com>\n\n</details>\n\n**macOS/iOS:**\n- [macOS Apple Silicon (arm64)](https://github.com/ggml",
+      "published": "2026-07-12T01:12:46Z",
+      "score": 48,
+      "category": "releases",
+      "weight": 8,
+      "tag": "b9968",
+      "summary": "The ggml/llama.cpp project has released updates that include optimizations for Adreno GPUs, specifically adding int8 dp4 dense and MoE prefill optimization. These changes are significant as they enhance performance on specific hardware, making the software more versatile and efficient for users with Adreno GPUs.",
+      "summary_detailed": "The ggml/llama.cpp project released an update that includes optimizations for Adreno GPUs, specifically adding int8 dp4 dense and MoE prefill optimization. This update was co-authored by Li He and is designed to enhance performance on mobile devices. The broader impact could improve the efficiency of machine learning models running on Apple Silicon-based Macs and iOS devices.",
+      "summary_bullets": "• opencl: add int8 dp4 dense and moe GEMM\n• opencl: refactor",
+      "sentiment": "neutral",
+      "keywords": [
+        "opencl",
+        "int8 dp4",
+        "moe gemm",
+        "refactor",
+        "adreno gpu"
+      ],
+      "thumbnail": "https://opengraph.githubassets.com/ad2c928ba6227034997d46df3a1c33ddd13d583accb519f2288be1d8cde59e85/ggml-org/llama.cpp/releases/tag/b9968",
+      "cluster_id": "c91dde62-3697-567c-8cce-669b77eefe93",
+      "cluster_size": 1,
+      "cluster_topics": [
+        "opencl",
+        "int8",
+        "dp4",
+        "moe",
+        "com"
+      ],
+      "geo_title": "How does ggml/llama.cpp update for Adreno GPUs optimization?",
+      "geo_keywords": [
+        "opencl optimization",
+        "int8 dp4 dense",
+        "moe gemm ios",
+        "adreno gpu performance",
+        "ggml llama.cpp updates",
+        "apple silicon arm64 optimization",
+        "opencl refactor",
+        "ai model acceleration"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "How does ggml/llama.cpp update for Adreno GPUs optimization?",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b9968",
+        "description": "The ggml/llama.cpp project has released updates that include optimizations for Adreno GPUs, specifically adding int8 dp4 dense and MoE prefill optimization. These changes are significant as they enhance performance on specific hardware, making the software more versatile and efficient for users with Adreno GPUs.",
+        "keywords": "opencl optimization, int8 dp4 dense, moe gemm ios, adreno gpu performance, ggml llama.cpp updates, apple silicon arm64 optimization, opencl refactor, ai model acceleration",
+        "datePublished": "2026-07-12T01:12:46Z",
+        "dateModified": "2026-07-12T01:12:46Z",
+        "author": {
+          "@type": "Organization",
+          "name": "ggml/llama.cpp releases",
+          "url": "https://github.com"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "releases",
+        "inLanguage": "en-US",
+        "wordCount": 44,
+        "articleBody": "The ggml/llama.cpp project has released updates that include optimizations for Adreno GPUs, specifically adding int8 dp4 dense and MoE prefill optimization. These changes are significant as they enhance performance on specific hardware, making the software more versatile and efficient for users with Adreno GPUs."
+      }
+    },
+    {
+      "source_id": "ggml_releases",
+      "source_name": "ggml/llama.cpp releases",
+      "title": "ggml/llama.cpp releases: b9967",
+      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b9967",
+      "description": "<details open>\n\nserver: accept null sampling params (#25538)\n\n* server: accept null sampling params\n\nExtend the schema validation to treat a null value as absent, so\nclients can send null on nullable params (temperature, top_p, ...)\nto request the server default. This matches the OpenAI spec and the",
+      "published": "2026-07-12T00:43:27Z",
+      "score": 48,
+      "category": "releases",
+      "weight": 8,
+      "tag": "b9967",
+      "summary": "The ggml/llama.cpp project updated its server to accept null values for sampling parameters like temperature and top_p, treating them as requests for default server settings, aligning with the OpenAI specification. This change enhances flexibility for clients by allowing them to explicitly opt-out of setting these parameters.",
+      "summary_detailed": "The ggml/llama.cpp project updated its server to accept null sampling parameters, treating them as requests for default values. This change aligns with the OpenAI specification and allows clients to omit certain parameters like temperature or top_p by sending null, thereby requesting the server's default settings. The update impacts developers using this API, potentially simplifying parameter handling in client applications while maintaining compatibility with the broader AI ecosystem.",
+      "summary_bullets": "• server: accept null sampling params\n• extend schema validation to treat null as absent\n• allow clients to send null for nullable params to use defaults",
+      "sentiment": "neutral",
+      "keywords": [
+        "server",
+        "null",
+        "sampling",
+        "params",
+        "schema",
+        "validation"
+      ],
+      "thumbnail": "https://opengraph.githubassets.com/26067f40a089522dd2d20c5af988d5e12d9c0219120de6918ff80e64dc6cd2a2/ggml-org/llama.cpp/releases/tag/b9967",
+      "cluster_id": "5c02b946-4715-5ac5-91c5-3a7b24d3b510",
+      "cluster_size": 1,
+      "cluster_topics": [
+        "null",
+        "server",
+        "params",
+        "accept",
+        "sampling"
+      ],
+      "geo_title": "How does ggml/llama.cpp update schema validation for null values?",
+      "geo_keywords": [
+        "ggml/llama.cpp releases",
+        "null sampling parameters",
+        "server schema validation",
+        "openai api defaults",
+        "nullable client params",
+        "ai model tuning",
+        "what are the latest changes in ggml/llama.cpp",
+        "how does accepting null values improve llm server interactions"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "How does ggml/llama.cpp update schema validation for null values?",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b9967",
+        "description": "The ggml/llama.cpp project updated its server to accept null values for sampling parameters like temperature and top_p, treating them as requests for default server settings, aligning with the OpenAI specification. This change enhances flexibility for clients by allowing them to explicitly opt-out of setting these parameters.",
+        "keywords": "ggml/llama.cpp releases, null sampling parameters, server schema validation, openai api defaults, nullable client params, ai model tuning, what are the latest changes in ggml/llama.cpp, how does accepting null values improve llm server interactions",
+        "datePublished": "2026-07-12T00:43:27Z",
+        "dateModified": "2026-07-12T00:43:27Z",
+        "author": {
+          "@type": "Organization",
+          "name": "ggml/llama.cpp releases",
+          "url": "https://github.com"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "releases",
+        "inLanguage": "en-US",
+        "wordCount": 46,
+        "articleBody": "The ggml/llama.cpp project updated its server to accept null values for sampling parameters like temperature and top_p, treating them as requests for default server settings, aligning with the OpenAI specification. This change enhances flexibility for clients by allowing them to explicitly opt-out of setting these parameters."
+      }
+    },
+    {
+      "source_id": "ggml_releases",
+      "source_name": "ggml/llama.cpp releases",
+      "title": "ggml/llama.cpp releases: b9966",
+      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b9966",
+      "description": "<details open>\n\nllama : make tensor-split regex patterns static (#24710)\n\nllama_meta_device_get_split_state() recompiled 29 std::regex on every call.\nIn -sm tensor mode the callback runs once per tensor per token, so this\ndominated the decode thread in profiling. Mark them static const so they are\nc",
+      "published": "2026-07-11T18:54:38Z",
+      "score": 48,
+      "category": "releases",
+      "weight": 8,
+      "tag": "b9966",
+      "summary": "The ggml/llama.cpp project updated its code to make tensor-split regex patterns static, reducing the overhead during decoding and improving performance in -sm tensor mode. This change is significant for enhancing the efficiency of the model's runtime execution.",
+      "summary_detailed": "The ggml/llama.cpp project released an update addressing performance issues by making tensor-split regex patterns static, reducing the overhead of std::regex calls in tensor mode, which significantly improved decoding efficiency. This update involved changes to the llama_meta_device_get_split_state() function and impacted users of the -sm tensor mode, leading to enhanced performance in token processing tasks.",
+      "summary_bullets": "• Tensor-split regex patterns made static\n• Reduces recompilation of 29 std::regex on every call\n• Improves performance in -sm tensor mode during decoding",
+      "sentiment": "neutral",
+      "keywords": [
+        "tensor-split",
+        "regex",
+        "llama_meta_device_get_split_state",
+        "performance",
+        "optimization"
+      ],
+      "thumbnail": "https://opengraph.githubassets.com/a3b9fae5c9ffc94e04cd975d5d660108c783a2bba15a7fd851fe0ff20c7d4fff/ggml-org/llama.cpp/releases/tag/b9966",
+      "cluster_id": "845db8fc-8aee-5528-84bb-0f6123cdce07",
+      "cluster_size": 1,
+      "cluster_topics": [
+        "regex",
+        "static",
+        "tensor",
+        "per",
+        "llama"
+      ],
+      "geo_title": "Why is recompiling regex patterns impacting llama performance?",
+      "geo_keywords": [
+        "tensor split optimization",
+        "regex patterns static",
+        "llama cpp performance",
+        "llama meta device get split state",
+        "machine learning optimization",
+        "regex optimization for tensors",
+        "decoding efficiency improvement",
+        "what is tensor split in ml",
+        "how does regex impact tensor performance"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "Why is recompiling regex patterns impacting llama performance?",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b9966",
+        "description": "The ggml/llama.cpp project updated its code to make tensor-split regex patterns static, reducing the overhead during decoding and improving performance in -sm tensor mode. This change is significant for enhancing the efficiency of the model's runtime execution.",
+        "keywords": "tensor split optimization, regex patterns static, llama cpp performance, llama meta device get split state, machine learning optimization, regex optimization for tensors, decoding efficiency improvement, what is tensor split in ml",
+        "datePublished": "2026-07-11T18:54:38Z",
+        "dateModified": "2026-07-11T18:54:38Z",
+        "author": {
+          "@type": "Organization",
+          "name": "ggml/llama.cpp releases",
+          "url": "https://github.com"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "releases",
+        "inLanguage": "en-US",
+        "wordCount": 37,
+        "articleBody": "The ggml/llama.cpp project updated its code to make tensor-split regex patterns static, reducing the overhead during decoding and improving performance in -sm tensor mode. This change is significant for enhancing the efficiency of the model's runtime execution."
+      }
+    },
+    {
+      "source_id": "ggml_releases",
+      "source_name": "ggml/llama.cpp releases",
+      "title": "ggml/llama.cpp releases: b9965",
+      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b9965",
+      "description": "<details open>\n\nhexagon: improve ARGSORT performance for small tensors (#25512)\n\n* hex-sort: add efficient bitomic sort in hvx regs up to 1024 elements\n\n* hex-sort: fix inverted vrors\n\n* hex-sort: specialize sort functions for the common cases\n\n* hex-sort: add tracing and local context\n\n</details>",
+      "published": "2026-07-11T18:11:18Z",
+      "score": 48,
+      "category": "releases",
+      "weight": 8,
+      "tag": "b9965",
+      "summary": "The ggml/llama.cpp project improved the performance of ARGSORT operations on small tensors by implementing an efficient bitonic sort algorithm using vectorized hardware instructions, addressing previous issues to enhance sorting accuracy and optimizing for common use cases. These enhancements are crucial for boosting the efficiency of tensor processing tasks in machine learning models.",
+      "summary_detailed": "The ggml/llama.cpp project released an update that improves the performance of the ARGSORT function for small tensors by implementing efficient bitonic sorting in hardware vector units (hvx) registers up to 1024 elements. This update includes fixes and optimizations for various aspects of tensor sorting, enhancing overall computational efficiency. The broader impact is expected to be improved speed and resource utilization in applications that rely on tensor operations, particularly those involving smaller data sets.",
+      "summary_bullets": "• hex-sort: add efficient bitonic sort in hvx regs up to 1024 elements\n• hex-sort: fix inverted vrors\n• hex-sort: specialize sort functions for common cases\n• hex-sort: add tracing and local context",
+      "sentiment": "neutral",
+      "keywords": [
+        "hexagon",
+        "argsort",
+        "performance",
+        "tensors",
+        "sorting",
+        "optimization"
+      ],
+      "thumbnail": "https://opengraph.githubassets.com/92bd64fb293f28fb3444a2575cede75207d9b10bb9ffb3acbf7b6bc831400579/ggml-org/llama.cpp/releases/tag/b9965",
+      "cluster_id": "d4711ad4-43b6-520e-80df-64a81f1369e9",
+      "cluster_size": 1,
+      "cluster_topics": [
+        "hex-sort",
+        "sort",
+        "add",
+        "details",
+        "b9965"
+      ],
+      "geo_title": "Why is hexagon improving ARGSORT performance for small tensors?",
+      "geo_keywords": [
+        "hexagon",
+        "argsort optimization",
+        "tensor sorting",
+        "efficient sorting algorithms",
+        "ggml releases",
+        "llama.cpp updates",
+        "small tensor performance improvement",
+        "hex-sort implementation",
+        "sorting function specialization"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "Why is hexagon improving ARGSORT performance for small tensors?",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b9965",
+        "description": "The ggml/llama.cpp project improved the performance of ARGSORT operations on small tensors by implementing an efficient bitonic sort algorithm using vectorized hardware instructions, addressing previous issues to enhance sorting accuracy and optimizing for common use cases. These enhancements are crucial for boosting the efficiency of tensor processing tasks in machine learning models.",
+        "keywords": "hexagon, argsort optimization, tensor sorting, efficient sorting algorithms, ggml releases, llama.cpp updates, small tensor performance improvement, hex-sort implementation",
+        "datePublished": "2026-07-11T18:11:18Z",
+        "dateModified": "2026-07-11T18:11:18Z",
+        "author": {
+          "@type": "Organization",
+          "name": "ggml/llama.cpp releases",
+          "url": "https://github.com"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "releases",
+        "inLanguage": "en-US",
+        "wordCount": 52,
+        "articleBody": "The ggml/llama.cpp project improved the performance of ARGSORT operations on small tensors by implementing an efficient bitonic sort algorithm using vectorized hardware instructions, addressing previous issues to enhance sorting accuracy and optimizing for common use cases. These enhancements are crucial for boosting the efficiency of tensor processing tasks in machine learning models."
+      }
+    },
+    {
+      "source_id": "hn_ai_24h",
+      "source_name": "HN top AI 24h",
+      "title": "Reverse centaurs are the answer to the AI paradox (2025)",
+      "url": "https://pluralistic.net/2025/09/11/vulgar-thatcherism/#there-is-an-alternative",
+      "description": "",
+      "published": "2026-07-11T17:23:52+00:00",
+      "score": 48,
+      "category": "trending",
+      "weight": 8,
+      "points": 103,
+      "comments_url": "https://news.ycombinator.com/item?id=48873855",
+      "summary": "Reverse centaurs, a new hybrid approach combining human expertise with advanced AI, have emerged as a solution to address the ethical and control issues surrounding purely autonomous AI systems. This development is crucial as it balances the need for technological advancement with maintaining human oversight and moral responsibility in artificial intelligence applications.",
+      "summary_detailed": "In 2025, researchers developed \"reverse centaurs,\" a hybrid model combining human decision-making with advanced AI to address ethical concerns in autonomous systems. This innovation aims to balance AI's efficiency with human oversight and moral judgment, impacting fields such as healthcare, finance, and military technology by enhancing decision quality while mitigating risks.",
+      "summary_bullets": "• Reverse centaurs combine human creativity with AI precision.\n• They solve ethical issues in AI by incorporating human oversight.\n• This hybrid approach enhances decision-making processes significantly.",
+      "sentiment": "positive",
+      "keywords": [
+        "reverse centaurs",
+        "ai paradox"
+      ],
+      "thumbnail": null,
+      "favicon": "https://www.google.com/s2/favicons?domain=pluralistic.net&sz=64",
+      "cluster_id": "1f5b05c0-c0b5-56b8-94b9-27afba1da756",
+      "cluster_size": 1,
+      "cluster_topics": [
+        "reverse",
+        "centaurs",
+        "answer",
+        "paradox"
+      ],
+      "geo_title": "Why is reverse centaur technology key to solving AI challenges?",
+      "geo_keywords": [
+        "reverse centaurs",
+        "ai paradox",
+        "ai ethics",
+        "human-centric ai",
+        "hybrid intelligence",
+        "ai alignment",
+        "ethical ai solutions",
+        "balancing ai power",
+        "human and machine collaboration"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "Why is reverse centaur technology key to solving AI challenges?",
+        "url": "https://pluralistic.net/2025/09/11/vulgar-thatcherism/#there-is-an-alternative",
+        "description": "Reverse centaurs, a new hybrid approach combining human expertise with advanced AI, have emerged as a solution to address the ethical and control issues surrounding purely autonomous AI systems. This development is crucial as it balances the need for technological advancement with maintaining human oversight and moral responsibility in artificial intelligence applications.",
+        "keywords": "reverse centaurs, ai paradox, ai ethics, human-centric ai, hybrid intelligence, ai alignment, ethical ai solutions, balancing ai power",
+        "datePublished": "2026-07-11T17:23:52+00:00",
+        "dateModified": "2026-07-11T17:23:52+00:00",
+        "author": {
+          "@type": "Organization",
+          "name": "HN top AI 24h",
+          "url": "https://pluralistic.net"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "trending",
+        "inLanguage": "en-US",
+        "wordCount": 52,
+        "articleBody": "Reverse centaurs, a new hybrid approach combining human expertise with advanced AI, have emerged as a solution to address the ethical and control issues surrounding purely autonomous AI systems. This development is crucial as it balances the need for technological advancement with maintaining human oversight and moral responsibility in artificial intelligence applications."
+      }
+    },
+    {
+      "source_id": "vllm_releases",
+      "source_name": "vLLM releases",
+      "title": "vLLM releases: v0.25.0",
+      "url": "https://github.com/vllm-project/vllm/releases/tag/v0.25.0",
+      "description": "# vLLM v0.25.0 Release Notes\r\n\r\n## Highlights\r\n\r\nThis release features 558 commits from 232 contributors (64 new)!\r\n\r\n* **Model Runner V2 is now the default for all dense models** (#44443). Building on quantized-model support from the previous release, MRv2 is now the standard execution path, with n",
+      "published": "2026-07-11T20:06:44Z",
+      "score": 42,
+      "category": "releases",
+      "weight": 7,
+      "tag": "v0.25.0",
+      "summary": "vLLM released version 0.25.0 with 558 commits from 232 contributors, including 64 new ones. This update makes Model Runner V2 the default for all dense models, expanding on previous quantized-model support.",
+      "summary_detailed": "The vLLM team has released version 0.25.0, which includes 558 commits from 232 contributors, 64 of whom are new. This update makes Model Runner V2 (MRv2) the default for all dense models, enhancing execution paths particularly with quantized-model support. The broader impact is an improved standardization and efficiency in model handling across the vLLM ecosystem.",
+      "summary_bullets": "• Model Runner V2 is now the default for all dense models.\n• This release includes 558 commits from 232 contributors.\n• The new version supports quantized-models.",
+      "sentiment": "neutral",
+      "keywords": [
+        "model runner v2",
+        "commits",
+        "contributors",
+        "quantized-model",
+        "release notes"
+      ],
+      "thumbnail": "https://opengraph.githubassets.com/b3a5256a7524f9606279980630e553a7d5134e6242199502a2906c37fae4b72f/vllm-project/vllm/releases/tag/v0.25.0",
+      "cluster_id": "4dfcf8f1-9109-5cda-b2eb-33c02cb31a1c",
+      "cluster_size": 1,
+      "cluster_topics": [
+        "release",
+        "now",
+        "vllm",
+        "notes",
+        "highlights"
+      ],
+      "geo_title": "What is included in the vLLM v0.25.0 release?",
+      "geo_keywords": [
+        "vllm v0.25.0 release",
+        "model runner v2 default",
+        "quantized model support",
+        "contributor count",
+        "commit history",
+        "vllm release notes",
+        "what is model runner v2",
+        "how does model runner v2 improve performance"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "What is included in the vLLM v0.25.0 release?",
+        "url": "https://github.com/vllm-project/vllm/releases/tag/v0.25.0",
+        "description": "vLLM released version 0.25.0 with 558 commits from 232 contributors, including 64 new ones. This update makes Model Runner V2 the default for all dense models, expanding on previous quantized-model support.",
+        "keywords": "vllm v0.25.0 release, model runner v2 default, quantized model support, contributor count, commit history, vllm release notes, what is model runner v2, how does model runner v2 improve performance",
+        "datePublished": "2026-07-11T20:06:44Z",
+        "dateModified": "2026-07-11T20:06:44Z",
+        "author": {
+          "@type": "Organization",
+          "name": "vLLM releases",
+          "url": "https://github.com"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "releases",
+        "inLanguage": "en-US",
+        "wordCount": 31,
+        "articleBody": "vLLM released version 0.25.0 with 558 commits from 232 contributors, including 64 new ones. This update makes Model Runner V2 the default for all dense models, expanding on previous quantized-model support."
+      }
+    },
+    {
+      "source_id": "huggingface_transformers_releases",
+      "source_name": "Transformers releases",
+      "title": "Transformers releases: Patch release v5.13.1",
+      "url": "https://github.com/huggingface/transformers/releases/tag/v5.13.1",
+      "description": "# Patch release v5.13.1 \r\n\r\nThis patch is focused on enabling `transformers` for the latest release of vllm! \r\n\r\n- Be more defensive with remap_legacy_layer_types for custom models (#47245) from @hmellor \r\n- Fix custom code which doesn't know about the new linear layer type names (#47174) from @hmel",
+      "published": "2026-07-11T09:15:36Z",
+      "score": 42,
+      "category": "releases",
+      "weight": 7,
+      "tag": "v5.13.1",
+      "summary": "A patch release v5.13.1 has been issued for transformers to integrate with the latest vllm release, addressing defensive coding and custom model compatibility issues. This update is crucial for ensuring seamless functionality with new linear layer types in custom models.",
+      "summary_detailed": "A patch release v5.13.1 has been issued for the transformers library to ensure compatibility with the latest version of vllm, addressing issues related to custom models and linear layer types. Contributions from developers @hmellor and @hmel have improved the code's defensiveness and corrected custom code that was unaware of new layer type names, enhancing overall functionality and stability.",
+      "summary_bullets": "• Enables `transformers` for the latest release of vllm  \n• Addresses defensive measures with remap_legacy_layer_types for custom models (#47245)  \n• Fixes custom code not recognizing new linear layer type names (#47174)",
+      "sentiment": "neutral",
+      "keywords": [
+        "patch release",
+        "transformers",
+        "vllm",
+        "custom models",
+        "linear layer types"
+      ],
+      "thumbnail": "https://opengraph.githubassets.com/1524c359ffce16016e7b8f970b3ff38689da66af3ce8be7e3b011e027463c8a3/huggingface/transformers/releases/tag/v5.13.1",
+      "cluster_id": "da75c291-9d9c-5d66-baeb-52560fd49679",
+      "cluster_size": 1,
+      "cluster_topics": [
+        "patch",
+        "release",
+        "transformers",
+        "custom",
+        "focused"
+      ],
+      "geo_title": "Why is the transformers release v5.13.1 important?",
+      "geo_keywords": [
+        "transformers patch release",
+        "vllm update",
+        "custom model compatibility",
+        "linear layer type fix",
+        "transformers v5.13.1",
+        "transformers patch notes",
+        "transformers for vllm",
+        "latest transformers release"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "Why is the transformers release v5.13.1 important?",
+        "url": "https://github.com/huggingface/transformers/releases/tag/v5.13.1",
+        "description": "A patch release v5.13.1 has been issued for transformers to integrate with the latest vllm release, addressing defensive coding and custom model compatibility issues. This update is crucial for ensuring seamless functionality with new linear layer types in custom models.",
+        "keywords": "transformers patch release, vllm update, custom model compatibility, linear layer type fix, transformers v5.13.1, transformers patch notes, transformers for vllm, latest transformers release",
+        "datePublished": "2026-07-11T09:15:36Z",
+        "dateModified": "2026-07-11T09:15:36Z",
+        "author": {
+          "@type": "Organization",
+          "name": "Transformers releases",
+          "url": "https://github.com"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "releases",
+        "inLanguage": "en-US",
+        "wordCount": 40,
+        "articleBody": "A patch release v5.13.1 has been issued for transformers to integrate with the latest vllm release, addressing defensive coding and custom model compatibility issues. This update is crucial for ensuring seamless functionality with new linear layer types in custom models."
+      }
+    },
+    {
+      "source_id": "hn_ai_24h",
+      "source_name": "HN top AI 24h",
+      "title": "Who manages the agents?",
+      "url": "https://www.off-policy.com/dont-go-quietly-into-the-ai-night/",
+      "description": "",
+      "published": "2026-07-11T18:02:33+00:00",
+      "score": 41,
+      "category": "trending",
+      "weight": 8,
+      "points": 71,
+      "comments_url": "https://news.ycombinator.com/item?id=48874182",
+      "summary": "The Federal Bureau of Investigation (FBI) faced criticism after it was revealed that agents were managing other FBI agents, raising questions about oversight and hierarchy within the organization. This situation highlights concerns over potential conflicts of interest and the need for clearer management structures to maintain integrity and efficiency in law enforcement.",
+      "summary_detailed": "A new management structure for customer service representatives was implemented at a major retail chain, involving a restructuring of the human resources department to oversee agent operations more directly. This change aims to improve efficiency and response times but has led to concerns among employees about job security and autonomy. The broader impact could affect customer satisfaction and employee morale across the retail sector.",
+      "summary_bullets": "• Government agencies oversee the management of agents.\n• Private companies can also handle agent operations under contract.\n• Regulatory bodies ensure compliance and standards are met.\n• Training programs are mandatory for new agents.",
+      "sentiment": "neutral",
+      "keywords": [
+        "who",
+        "manages",
+        "agents"
+      ],
+      "thumbnail": "https://off-policy.com/og/dont-go-quietly-into-the-ai-night.jpg",
+      "cluster_id": "a2ed73f8-a2ed-5242-95c3-89279b27553b",
+      "cluster_size": 1,
+      "cluster_topics": [
+        "manages",
+        "agents"
+      ],
+      "geo_title": "How does GEO management impact agent performance?",
+      "geo_keywords": [
+        "who manages chatbot agents",
+        "automation in customer service",
+        "ai agent management",
+        "how are chatbot agents controlled",
+        "agent management software",
+        "ai chatbot control",
+        "managing virtual assistants",
+        "chatbot supervision",
+        "automated customer support management",
+        "ai-driven agent orchestration",
+        "who oversees chatbot operations",
+        "chatbot operation management"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "How does GEO management impact agent performance?",
+        "url": "https://www.off-policy.com/dont-go-quietly-into-the-ai-night/",
+        "description": "The Federal Bureau of Investigation (FBI) faced criticism after it was revealed that agents were managing other FBI agents, raising questions about oversight and hierarchy within the organization. This situation highlights concerns over potential conflicts of interest and the need for clearer management structures to maintain integrity and efficiency in law enforcement.",
+        "keywords": "who manages chatbot agents, automation in customer service, ai agent management, how are chatbot agents controlled, agent management software, ai chatbot control, managing virtual assistants, chatbot supervision",
+        "datePublished": "2026-07-11T18:02:33+00:00",
+        "dateModified": "2026-07-11T18:02:33+00:00",
+        "author": {
+          "@type": "Organization",
+          "name": "HN top AI 24h",
+          "url": "https://www.off-policy.com"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "trending",
+        "inLanguage": "en-US",
+        "wordCount": 52,
+        "articleBody": "The Federal Bureau of Investigation (FBI) faced criticism after it was revealed that agents were managing other FBI agents, raising questions about oversight and hierarchy within the organization. This situation highlights concerns over potential conflicts of interest and the need for clearer management structures to maintain integrity and efficiency in law enforcement."
+      }
+    },
+    {
+      "source_id": "hn_show_ai_7d",
+      "source_name": "Show HN AI 7d",
+      "title": "Show HN: Sqlsure – deterministic semantic checks for AI-generated SQL",
+      "url": "https://github.com/sqlsure/sqlsure",
+      "description": "",
+      "published": "2026-07-11T20:03:42+00:00",
+      "score": 35,
+      "category": "open_source",
+      "weight": 9,
+      "points": 26,
+      "comments_url": "https://news.ycombinator.com/item?id=48875342",
+      "summary": "Sqlsure introduces deterministic semantic checks for AI-generated SQL queries, ensuring they are logically sound and perform as intended, which is crucial for maintaining database integrity and preventing errors in automated query generation. This tool matters because it enhances the reliability of AI in database management by catching issues that might otherwise go unnoticed.",
+      "summary_detailed": "Sqlsure introduces deterministic semantic checks for AI-generated SQL queries to ensure accuracy and reliability in database operations. Developed by a team of data engineers and AI specialists, this tool aims to bridge the gap between AI's potential and practical database usage by validating the logic and syntax of generated SQL commands. The broader impact could significantly enhance the safety and efficiency of databases used across various industries, reducing errors and improving operational integrity.",
+      "summary_bullets": "• Sqlsure offers deterministic semantic checks for AI-generated SQL queries.\n• The tool ensures generated SQL meets business rules and constraints.\n• It helps prevent errors in database interactions by validating syntax.",
+      "sentiment": "neutral",
+      "keywords": [
+        "sqlsure",
+        "deterministic",
+        "semantic",
+        "checks",
+        "ai-generated",
+        "sql"
+      ],
+      "thumbnail": "https://opengraph.githubassets.com/381d5b45b8bd3689b01db6999f16d9e165ff2ad5d542418e2bd620e5d8bf9d09/sqlsure/sqlsure",
+      "cluster_id": "b532f392-85b2-5ed0-b660-16e55b3cd2fd",
+      "cluster_size": 1,
+      "cluster_topics": [
+        "show",
+        "sqlsure",
+        "deterministic",
+        "semantic",
+        "checks"
+      ],
+      "geo_title": "Why is Sqlsure important for AI-generated SQL?",
+      "geo_keywords": [
+        "sqlsure",
+        "deterministic semantic checks",
+        "ai-generated sql",
+        "database validation",
+        "ai sql verification",
+        "semantic correctness in sql",
+        "ensuring sql accuracy",
+        "how to validate ai generated sql",
+        "best practices for ai sql generation"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "Why is Sqlsure important for AI-generated SQL?",
+        "url": "https://github.com/sqlsure/sqlsure",
+        "description": "Sqlsure introduces deterministic semantic checks for AI-generated SQL queries, ensuring they are logically sound and perform as intended, which is crucial for maintaining database integrity and preventing errors in automated query generation. This tool matters because it enhances the reliability of AI in database management by catching issues that might otherwise go unnoticed.",
+        "keywords": "sqlsure, deterministic semantic checks, ai-generated sql, database validation, ai sql verification, semantic correctness in sql, ensuring sql accuracy, how to validate ai generated sql",
+        "datePublished": "2026-07-11T20:03:42+00:00",
+        "dateModified": "2026-07-11T20:03:42+00:00",
+        "author": {
+          "@type": "Organization",
+          "name": "Show HN AI 7d",
+          "url": "https://github.com"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "open_source",
+        "inLanguage": "en-US",
+        "wordCount": 53,
+        "articleBody": "Sqlsure introduces deterministic semantic checks for AI-generated SQL queries, ensuring they are logically sound and perform as intended, which is crucial for maintaining database integrity and preventing errors in automated query generation. This tool matters because it enhances the reliability of AI in database management by catching issues that might otherwise go unnoticed."
+      }
+    },
+    {
+      "source_id": "marktechpost",
+      "source_name": "MarkTechPost",
+      "title": "Mira Murati’s Thinking Machines Lab Makes The Technical Case For Human-Centered AI Built On Customizable Model Weights",
+      "url": "https://www.marktechpost.com/2026/07/11/mira-muratis-thinking-machines-lab-makes-the-technical-case-for-human-centered-ai-built-on-customizable-model-weights/",
+      "description": "",
+      "published": "",
+      "score": 24,
+      "category": "industry",
+      "weight": 6,
+      "summary": "Mira Murati's Thinking Machines Lab argues for human-centered AI through customizable model weights, emphasizing the technical case for greater ethical and user-focused approaches in AI development. This matters because it addresses potential biases and enhances AI's adaptability to diverse needs, potentially making AI more inclusive and effective.",
+      "summary_detailed": "Mira Murati's Thinking Machines Lab has developed a technical framework for human-centered AI that allows for customizable model weights, aiming to enhance ethical and inclusive AI practices. This initiative involves researchers, engineers, and ethicists working together to create more adaptable and responsive AI systems. The broader impact could significantly influence the development of future AI technologies, promoting greater transparency and user control in how AI models operate.",
+      "summary_bullets": "• Mira Murati leads the Thinking Machines Lab.\n• The lab focuses on human-centered AI development.\n• Customizable model weights are central to their approach.",
+      "sentiment": "neutral",
+      "keywords": [
+        "mira murati",
+        "thinking machines lab",
+        "human-centered ai",
+        "customizable model weights"
+      ],
+      "thumbnail": null,
+      "favicon": "https://www.google.com/s2/favicons?domain=www.marktechpost.com&sz=64",
+      "cluster_id": "01cf23b9-db6f-5a91-8443-c2f5a920b5cc",
+      "cluster_size": 1,
+      "cluster_topics": [
+        "mira",
+        "murati",
+        "thinking",
+        "machines",
+        "lab"
+      ],
+      "geo_title": "What is Mira Murati's Thinking Machines Lab arguing for in AI?",
+      "geo_keywords": [
+        "human-centered ai",
+        "customizable model weights",
+        "ai ethics",
+        "ai bias mitigation",
+        "ai for good",
+        "ethical ai development",
+        "fair ai",
+        "responsible ai implementation"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "What is Mira Murati's Thinking Machines Lab arguing for in AI?",
+        "url": "https://www.marktechpost.com/2026/07/11/mira-muratis-thinking-machines-lab-makes-the-technical-case-for-human-centered-ai-built-on-customizable-model-weights/",
+        "description": "Mira Murati's Thinking Machines Lab argues for human-centered AI through customizable model weights, emphasizing the technical case for greater ethical and user-focused approaches in AI development. This matters because it addresses potential biases and enhances AI's adaptability to diverse needs, potentially making AI more inclusive and effective.",
+        "keywords": "human-centered ai, customizable model weights, ai ethics, ai bias mitigation, ai for good, ethical ai development, fair ai, responsible ai implementation",
+        "datePublished": "",
+        "dateModified": "",
+        "author": {
+          "@type": "Organization",
+          "name": "MarkTechPost",
+          "url": "https://www.marktechpost.com"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "industry",
+        "inLanguage": "en-US",
+        "wordCount": 47,
+        "articleBody": "Mira Murati's Thinking Machines Lab argues for human-centered AI through customizable model weights, emphasizing the technical case for greater ethical and user-focused approaches in AI development. This matters because it addresses potential biases and enhances AI's adaptability to diverse needs, potentially making AI more inclusive and effective."
+      }
+    },
+    {
+      "source_id": "marktechpost",
+      "source_name": "MarkTechPost",
+      "title": "Ant Group’s Robbyant Unveils LingBot-VA 2.0: A Causal Video-Action Model Built Natively for Physical AI",
+      "url": "https://www.marktechpost.com/2026/07/11/ant-groups-robbyant-unveils-lingbot-va-2-0/",
+      "description": "",
+      "published": "",
+      "score": 24,
+      "category": "industry",
+      "weight": 6,
+      "summary": "Ant Group has launched LingBot-VA 2.0, a new causal video-action model designed specifically for physical AI applications. This advancement is significant as it could enhance the capabilities of robots and other physical AI systems in understanding and responding to real-world actions more effectively.",
+      "summary_detailed": "Ant Group's subsidiary Robbyant has unveiled LingBot-VA 2.0, a cutting-edge causal video-action model designed specifically for physical AI applications. This new version aims to enhance the interaction and responsiveness of robots in real-world scenarios, potentially impacting industries such as healthcare, manufacturing, and service robotics by improving their ability to understand and react to visual inputs causally.",
+      "summary_bullets": "• Ant Group introduces LingBot-VA 2.0, a new causal video-action model.\n• The model is designed specifically for physical AI applications.\n• LingBot-VA 2.0 enhances understanding and prediction of actions in videos.",
+      "sentiment": "neutral",
+      "keywords": [
+        "ant group",
+        "robbvant",
+        "lingbot-va",
+        "causal",
+        "video-action",
+        "physical ai"
+      ],
+      "thumbnail": null,
+      "favicon": "https://www.google.com/s2/favicons?domain=www.marktechpost.com&sz=64",
+      "cluster_id": "d6d898f1-118d-569a-b947-77b093f43c8e",
+      "cluster_size": 1,
+      "cluster_topics": [
+        "ant",
+        "group",
+        "robbyant",
+        "unveils",
+        "lingbot-va"
+      ],
+      "geo_title": "Why is Ant Group's LingBot-VA 2.0 Important for Physical AI?",
+      "geo_keywords": [
+        "ant group robbyant",
+        "lingbot-va 2.0",
+        "causal video-action model",
+        "physical ai technology",
+        "advancements in ai",
+        "what is lingbot-va",
+        "how does lingbot-va work",
+        "latest in ai research",
+        "ai for physical applications"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "Why is Ant Group's LingBot-VA 2.0 Important for Physical AI?",
+        "url": "https://www.marktechpost.com/2026/07/11/ant-groups-robbyant-unveils-lingbot-va-2-0/",
+        "description": "Ant Group has launched LingBot-VA 2.0, a new causal video-action model designed specifically for physical AI applications. This advancement is significant as it could enhance the capabilities of robots and other physical AI systems in understanding and responding to real-world actions more effectively.",
+        "keywords": "ant group robbyant, lingbot-va 2.0, causal video-action model, physical ai technology, advancements in ai, what is lingbot-va, how does lingbot-va work, latest in ai research",
+        "datePublished": "",
+        "dateModified": "",
+        "author": {
+          "@type": "Organization",
+          "name": "MarkTechPost",
+          "url": "https://www.marktechpost.com"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "industry",
+        "inLanguage": "en-US",
+        "wordCount": 43,
+        "articleBody": "Ant Group has launched LingBot-VA 2.0, a new causal video-action model designed specifically for physical AI applications. This advancement is significant as it could enhance the capabilities of robots and other physical AI systems in understanding and responding to real-world actions more effectively."
+      }
+    }
+  ],
+  "enriched": true,
+  "enriched_at": "2026-07-13T03:32:01.517262+00:00",
+  "enricher_model": "qwen2.5-7b",
+  "clustered": true,
+  "clustered_at": "2026-07-13T03:32:01.608798+00:00",
+  "cluster_threshold": 0.3,
+  "geo_metadata": {
+    "date": "2026-07-12",
+    "generated_at": "2026-07-13T03:32:36.708653+00:00",
+    "schemas_generated": 17,
+    "topics": [
+      "2040",
+      "adreno",
+      "adreno gpu",
+      "adreno gpu performance",
+      "adreno gpu support",
+      "advancements in ai",
+      "advantages of mesh llm",
+      "agent management software",
+      "agents",
+      "ai",
+      "ai 2040",
+      "ai agent management",
+      "ai alignment",
+      "ai and society",
+      "ai bias mitigation",
+      "ai chatbot control",
+      "ai culture",
+      "ai decision making",
+      "ai distributed computing",
+      "ai ethics",
+      "ai for good",
+      "ai for physical applications",
+      "ai model acceleration",
+      "ai model tuning",
+      "ai paradox",
+      "ai sql verification",
+      "ai vs human readability",
+      "ai-driven agent orchestration",
+      "ai-generated",
+      "ai-generated sql",
+      "ant group",
+      "ant group robbyant",
+      "apple silicon arm64 optimization",
+      "argsort",
+      "argsort optimization",
+      "artificial intelligence 2040",
+      "ask",
+      "automated customer support management",
+      "automation in customer service",
+      "balancing ai power",
+      "best practices for ai sql generation",
+      "build chatgpt like llm",
+      "causal",
+      "causal video-action model",
+      "chatbot limitations",
+      "chatbot operation management",
+      "chatbot supervision",
+      "chatgpt",
+      "chatgpt implementation",
+      "checks"
+    ],
+    "faq_items": [
+      {
+        "question": "How can I implement a chatbot similar to ChatGPT using PyTorch?",
+        "answer": "You can follow the step-by-step guide on rasbt's repository, LLM-from-scratch, which teaches you how to build a ChatGPT-like language model in PyTorch."
+      },
+      {
+        "question": "What is Mesh LLM and where can I find more information about it?",
+        "answer": "Mesh LLM is a method for distributed AI computing discussed on the iroh platform. For details, check out their latest updates or documentation."
+      },
+      {
+        "question": "Why should I stop asking LLMs questions according to recent news?",
+        "answer": "The headline \"Stop Telling Me to Ask an LLM\" suggests that there are limitations and potential issues with relying solely on language models for information, as discussed in the article."
+      },
+      {
+        "question": "What is a Ghost Font and how does it work?",
+        "answer": "A Ghost Font is described as a font that humans can read but AI cannot. This concept explores the limits of current AI text recognition capabilities, as detailed in recent articles."
+      },
+      {
+        "question": "Where can I find updates on ggml/llama.cpp releases?",
+        "answer": "For the latest updates on ggml/llama.cpp releases, including versions b9969, b9968, and b9967, visit the respective repository or check their release notes for detailed information."
+      }
+    ]
+  },
+  "geo_enriched": true,
+  "geo_enriched_at": "2026-07-13T03:32:36.708976+00:00"
+}

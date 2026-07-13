@@ -1,6 +1,6 @@
 "use client";
 
-import { useState, useCallback, useRef } from "react";
+import { useState, useCallback, useRef, useEffect } from "react";
 import { useRouter } from "@/i18n/navigation";
 import { useNewsKeyboard, CommandPalette } from "./NewsKeyboard";
 import { KeyboardHelp } from "./KeyboardHelp";
@@ -43,7 +43,7 @@ export function NewsKeyboardWrapper({ children, cardIds = [] }: Props) {
   }, [cardIds, selectedIndex]);
 
   const handleSearch = useCallback(() => {
-    const input = document.querySelector<HTMLInputEvent>('input[type="text"][placeholder*="Search"]');
+    const input = document.querySelector<HTMLInputElement>('input[type="text"][placeholder*="Search"]');
     input?.focus();
     input?.select();
   }, []);

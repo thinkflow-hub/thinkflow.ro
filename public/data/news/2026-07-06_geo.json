@@ -1,0 +1,79 @@
+{
+  "date": "2026-07-06",
+  "generated_at": "2026-07-07T07:18:03.482634+00:00",
+  "schemas_generated": 10,
+  "topics": [
+    "1.6t-parameter",
+    "1.6t-parameter model",
+    "abort",
+    "abort multi buffer",
+    "adapters",
+    "advanced indexing techniques for law",
+    "agentic retrieval",
+    "agentic retrieval technology",
+    "agentic retrieval vs traditional methods",
+    "ai kernel improvements",
+    "ai math reasoning",
+    "arm64",
+    "ask modes",
+    "assert",
+    "assert error",
+    "biology",
+    "biology research tools",
+    "chatgpt integration",
+    "chatgpt kernel modifications",
+    "chemistry research",
+    "chemistry research platform",
+    "chore",
+    "code",
+    "code optimization",
+    "code shortening",
+    "code tidying",
+    "concat",
+    "concat implementation",
+    "cpu-offloaded moe experts",
+    "cuda",
+    "deep learning framework updates",
+    "find",
+    "find and read tools in llamaindex",
+    "gemma-3",
+    "ggml",
+    "ggml backend",
+    "ggml library",
+    "ggml releases",
+    "ggml/llama.cpp releases",
+    "gpu acceleration",
+    "grep",
+    "grep functionality in legal-kb",
+    "grpo",
+    "gsm8k",
+    "gsm8k rewards",
+    "how do kernel updates impact machine learning",
+    "how does agentic retrieval work",
+    "how does longcat-2.0 work",
+    "how does openscience work",
+    "how sakana translate works"
+  ],
+  "faq_items": [
+    {
+      "question": "What updates were made to ggml/llama.cpp in the latest release?",
+      "answer": "The latest ggml/llama.cpp release (b9878) includes several improvements and bug fixes, enhancing its performance and usability."
+    },
+    {
+      "question": "Are there any major updates to 🤗 Kernels recently?",
+      "answer": "Yes, 🤗 Kernels has undergone significant updates, improving the efficiency and functionality of its kernel library for machine learning tasks."
+    },
+    {
+      "question": "What is Sakana AI's new translation tool called, and what languages does it support?",
+      "answer": "Sakana AI's new translation tool is called Sakana Translate, which supports Japanese-English-Chinese translations with features like proofreading and question-answering modes."
+    },
+    {
+      "question": "Can you tell me about Synthetic Sciences' OpenScience platform?",
+      "answer": "Synthetic Sciences has released OpenScience, an open-source workbench that supports various AI research areas including machine learning, biology, physics, and chemistry."
+    },
+    {
+      "question": "What is the focus of training Gemma-3 for structured mathematical reasoning?",
+      "answer": "Training Gemma-3 focuses on enhancing its capabilities in structured mathematical reasoning using Tunix GRPO, LoRA adapters, and GSM8K rewards to improve model performance."
+    }
+  ]
+}

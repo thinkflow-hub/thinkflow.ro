@@ -1,7 +1,7 @@
 "use client";
 
 import { useState, FormEvent, useRef, useEffect } from "react";
-import Link from "@/i18n/navigation";
+import { Link } from "@/i18n/navigation";
 
 interface Message {
   role: "user" | "assistant";

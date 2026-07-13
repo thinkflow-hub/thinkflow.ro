@@ -4,7 +4,7 @@ import { useMemo, useState, useEffect, useCallback, useRef } from "react";
 import { NewsCard } from "./NewsCard";
 import { NewsCluster } from "./NewsCluster";
 import { NewsGallery } from "./NewsGallery";
-import { semanticCluster } from "@/lib/news";
+import { semanticCluster } from "@/lib/news-client";
 import type { NewsItem } from "@/lib/news-types";
 
 interface Props {
@@ -34,9 +34,8 @@ export function NewsFeed({ items, dates }: Props) {
   const [briefingMode, setBriefingMode] = useState(true);
   const [viewMode, setViewMode] = useState<"grid" | "gallery">("grid");
   const [visibleCount, setVisibleCount] = useState(briefingMode ? 10 : 12);
-  const [sessionStart] = useState(Date.now());
   const [showNudge, setShowNudge] = useState(false);
-  const debounceRef = useRef<ReturnType<typeof setTimeout>>();
+  const debounceRef = useRef<ReturnType<typeof setTimeout> | undefined>(undefined);
 
   useEffect(() => {
     if (briefingMode) setVisibleCount(10);

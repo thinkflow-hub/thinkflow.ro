@@ -1,0 +1,113 @@
+{
+  "date": "2026-06-28",
+  "last_updated": "2026-06-28T06:00:02.488501+00:00",
+  "total_items": 9,
+  "items": [
+    {
+      "source_id": "ggml_releases",
+      "source_name": "ggml/llama.cpp releases",
+      "title": "ggml/llama.cpp releases: b9828",
+      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b9828",
+      "description": "<details open>\n\nopencl: flash attention improvement (#25069)\n\n* opencl: rework FA kernel for f16 and f32\n\n* opencl: flash-attention prefill prepass kernels\n\n- flash_attn_kv_pad_f16    pads the tail KV tile to a BLOCK_N multiple\n- flash_attn_mask_pad_f16  pads the matching mask tile\n- flash_attn_blk_",
+      "published": "2026-06-27T23:15:52Z",
+      "score": 48,
+      "category": "github_release",
+      "weight": 8,
+      "tag": "b9828"
+    },
+    {
+      "source_id": "ggml_releases",
+      "source_name": "ggml/llama.cpp releases",
+      "title": "ggml/llama.cpp releases: b9827",
+      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b9827",
+      "description": "<details open>\n\n[CUDA] Added a cudaMemcpy2DAsync fast path to ggml_cuda_cpy (#25057)\n\n* [CUDA] Added a cudaMemcpy2DAsync fast path to ggml_cuda_cpy\n\nAdd a CUDA ggml_cpy fast path for same-type, same-shape strided copies that are just 2D pitched block copies.\nWhen tensors are not fully contiguous but",
+      "published": "2026-06-27T12:49:26Z",
+      "score": 48,
+      "category": "github_release",
+      "weight": 8,
+      "tag": "b9827"
+    },
+    {
+      "source_id": "ggml_releases",
+      "source_name": "ggml/llama.cpp releases",
+      "title": "ggml/llama.cpp releases: b9826",
+      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b9826",
+      "description": "<details open>\n\nsycl : fix failed ut cases of norm (#25044)\n\n</details>\n\n**macOS/iOS:**\n- [macOS Apple Silicon (arm64)](https://github.com/ggml-org/llama.cpp/releases/download/b9826/llama-b9826-bin-macos-arm64.tar.gz)\n- macOS Apple Silicon (arm64, KleidiAI enabled) [DISABLED](https://github.com/ggml",
+      "published": "2026-06-27T11:00:23Z",
+      "score": 48,
+      "category": "github_release",
+      "weight": 8,
+      "tag": "b9826"
+    },
+    {
+      "source_id": "ggml_releases",
+      "source_name": "ggml/llama.cpp releases",
+      "title": "ggml/llama.cpp releases: b9825",
+      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b9825",
+      "description": "<details open>\n\nvulkan: fix step operator for 0 input (#25036)\n\n</details>\n\n**macOS/iOS:**\n- [macOS Apple Silicon (arm64)](https://github.com/ggml-org/llama.cpp/releases/download/b9825/llama-b9825-bin-macos-arm64.tar.gz)\n- macOS Apple Silicon (arm64, KleidiAI enabled) [DISABLED](https://github.com/g",
+      "published": "2026-06-27T10:31:23Z",
+      "score": 48,
+      "category": "github_release",
+      "weight": 8,
+      "tag": "b9825"
+    },
+    {
+      "source_id": "ggml_releases",
+      "source_name": "ggml/llama.cpp releases",
+      "title": "ggml/llama.cpp releases: b9824",
+      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b9824",
+      "description": "<details open>\n\nbinaries : Improve rpc-server and export-graph-ops names. (#25045)\n\nTests are generally prefixed with -test, so rename export-graph-ops\naccordingly.\n\nrpc-server is probably too generic a name for /usr/bin. Because it\nshould work with any ggml application, it is renamed to ggml-rpc-se",
+      "published": "2026-06-27T10:03:33Z",
+      "score": 48,
+      "category": "github_release",
+      "weight": 8,
+      "tag": "b9824"
+    },
+    {
+      "source_id": "marktechpost",
+      "source_name": "MarkTechPost",
+      "title": "Liquid AI Ships LFM2.5-230M with llama.cpp, MLX, vLLM, SGLang, and ONNX Support for On-Device Inference",
+      "url": "https://www.marktechpost.com/2026/06/27/liquid-ai-ships-lfm2-5-230m-with-llama-cpp-mlx-vllm-sglang-and-onnx-support-for-on-device-inference/",
+      "description": "",
+      "published": "",
+      "score": 30,
+      "category": "rss",
+      "weight": 6
+    },
+    {
+      "source_id": "marktechpost",
+      "source_name": "MarkTechPost",
+      "title": "DeepSeek Releases DSpark, a Speculative Decoding Framework That Accelerates DeepSeek-V4 Per-User Generation 60–85% Over MTP-1",
+      "url": "https://www.marktechpost.com/2026/06/27/deepseek-releases-dspark-a-speculative-decoding-framework-that-accelerates-deepseek-v4-per-user-generation-60-85-over-mtp-1/",
+      "description": "",
+      "published": "",
+      "score": 30,
+      "category": "rss",
+      "weight": 6
+    },
+    {
+      "source_id": "marktechpost",
+      "source_name": "MarkTechPost",
+      "title": "Meta’s Astryx Brings a CLI and MCP Server to an Open-Source React Design System Agents Can Read",
+      "url": "https://www.marktechpost.com/2026/06/27/metas-astryx-brings-a-cli-and-mcp-server-to-an-open-source-react-design-system-agents-can-read/",
+      "description": "",
+      "published": "",
+      "score": 30,
+      "category": "rss",
+      "weight": 6
+    },
+    {
+      "source_id": "hn_show_ai_7d",
+      "source_name": "Show HN AI 7d",
+      "title": "Show HN: ParseHawk – 100% Local Document AI with API, CLI, and Web UI",
+      "url": "https://github.com/parsehawk/parsehawk",
+      "description": "",
+      "published": "2026-06-25T10:57:50+00:00",
+      "score": 28,
+      "category": "hackernews",
+      "weight": 9,
+      "points": 8,
+      "comments_url": "https://news.ycombinator.com/item?id=48671675"
+    }
+  ]
+}

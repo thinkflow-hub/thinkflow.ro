@@ -1,0 +1,202 @@
+{
+  "date": "2026-06-27",
+  "last_updated": "2026-06-27T06:00:02.869756+00:00",
+  "total_items": 17,
+  "items": [
+    {
+      "source_id": "ollama_releases",
+      "source_name": "Ollama releases",
+      "title": "Ollama releases: v0.30.11",
+      "url": "https://github.com/ollama/ollama/releases/tag/v0.30.11",
+      "description": "## What's Changed\r\n* launch: add thinking capability detection to opencode by @hoyyeva in https://github.com/ollama/ollama/pull/15434\r\n* launch: auto-install Claude Code by @hoyyeva in https://github.com/ollama/ollama/pull/16802\r\n* launch: auto-install opencode when missing by @hoyyeva in https://gi",
+      "published": "2026-06-25T01:52:05Z",
+      "score": 54,
+      "category": "github_release",
+      "weight": 9,
+      "tag": "v0.30.11"
+    },
+    {
+      "source_id": "openai_blog",
+      "source_name": "OpenAI Blog",
+      "title": "Previewing GPT-5.6 Sol: a next-generation model",
+      "url": "https://openai.com/index/previewing-gpt-5-6-sol",
+      "description": "",
+      "published": "",
+      "score": 50,
+      "category": "rss",
+      "weight": 10
+    },
+    {
+      "source_id": "ggml_releases",
+      "source_name": "ggml/llama.cpp releases",
+      "title": "ggml/llama.cpp releases: b9821",
+      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b9821",
+      "description": "<details open>\n\napp : allow --version, --licenses & --help (#25054)\n\nSigned-off-by: Adrien Gallouët <angt@huggingface.co>\n\n</details>\n\n**macOS/iOS:**\n- [macOS Apple Silicon (arm64)](https://github.com/ggml-org/llama.cpp/releases/download/b9821/llama-b9821-bin-macos-arm64.tar.gz)\n- macOS Apple Silico",
+      "published": "2026-06-26T21:55:22Z",
+      "score": 48,
+      "category": "github_release",
+      "weight": 8,
+      "tag": "b9821"
+    },
+    {
+      "source_id": "ggml_releases",
+      "source_name": "ggml/llama.cpp releases",
+      "title": "ggml/llama.cpp releases: b9820",
+      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b9820",
+      "description": "<details open>\n\nsched : reintroduce less synchronizations during split compute (#20793)\n\n* CUDA:  Improve performance via less synchronizations between token (#17795)\n\n* Adds CPU-to-CUDA copy capability to\nggml_backend_cuda_cpy_tensor_async()\n\n* Adds function to relax sync requirements between input",
+      "published": "2026-06-26T18:35:23Z",
+      "score": 48,
+      "category": "github_release",
+      "weight": 8,
+      "tag": "b9820"
+    },
+    {
+      "source_id": "ggml_releases",
+      "source_name": "ggml/llama.cpp releases",
+      "title": "ggml/llama.cpp releases: b9817",
+      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b9817",
+      "description": "<details open>\n\nopenvino: Update to OV 2026.2.1, self-contained release packages, operator improvements (#24974)\n\n* Update to OV 2026.2.1, Make OV release packages self-contained\n\n* Update to OV 2026.2.1, Make OV release packages self-contained\n\n* OpenVINO Backend: Remove compute_op_type hardcoded s",
+      "published": "2026-06-26T17:27:10Z",
+      "score": 48,
+      "category": "github_release",
+      "weight": 8,
+      "tag": "b9817"
+    },
+    {
+      "source_id": "ggml_releases",
+      "source_name": "ggml/llama.cpp releases",
+      "title": "ggml/llama.cpp releases: b9816",
+      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b9816",
+      "description": "<details open>\n\nsync : ggml\n\n</details>\n\n**macOS/iOS:**\n- [macOS Apple Silicon (arm64)](https://github.com/ggml-org/llama.cpp/releases/download/b9816/llama-b9816-bin-macos-arm64.tar.gz)\n- macOS Apple Silicon (arm64, KleidiAI enabled) [DISABLED](https://github.com/ggml-org/llama.cpp/pull/23780)\n- [ma",
+      "published": "2026-06-26T16:48:49Z",
+      "score": 48,
+      "category": "github_release",
+      "weight": 8,
+      "tag": "b9816"
+    },
+    {
+      "source_id": "ggml_releases",
+      "source_name": "ggml/llama.cpp releases",
+      "title": "ggml/llama.cpp releases: b9814",
+      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b9814",
+      "description": "<details open>\n\nvulkan: opt mul_mat_vecq for mi50 (#22933)\n\n</details>\n\n**macOS/iOS:**\n- [macOS Apple Silicon (arm64)](https://github.com/ggml-org/llama.cpp/releases/download/b9814/llama-b9814-bin-macos-arm64.tar.gz)\n- macOS Apple Silicon (arm64, KleidiAI enabled) [DISABLED](https://github.com/ggml-",
+      "published": "2026-06-26T16:14:54Z",
+      "score": 48,
+      "category": "github_release",
+      "weight": 8,
+      "tag": "b9814"
+    },
+    {
+      "source_id": "mit_technology_review_ai",
+      "source_name": "MIT Technology Review AI",
+      "title": "The Download: brain-melting heatwaves and unprecedented OpenAI restrictions",
+      "url": "https://www.technologyreview.com/2026/06/26/1139780/the-download-heatwaves-brain-health-openai-restrictions/",
+      "description": "",
+      "published": "",
+      "score": 40,
+      "category": "rss",
+      "weight": 8
+    },
+    {
+      "source_id": "mit_technology_review_ai",
+      "source_name": "MIT Technology Review AI",
+      "title": "Heat waves mess with your brain. Scientists are trying to figure out why.",
+      "url": "https://www.technologyreview.com/2026/06/26/1139760/heat-waves-mess-with-your-brain-scientists-are-trying-to-figure-out-why/",
+      "description": "",
+      "published": "",
+      "score": 40,
+      "category": "rss",
+      "weight": 8
+    },
+    {
+      "source_id": "latent_space",
+      "source_name": "Latent Space (Substack)",
+      "title": "[AINews] OpenAI GPT-5.6 Sol / Terra / Luna — restricted to trusted partners",
+      "url": "https://www.latent.space/p/ainews-openai-gpt-56-sol-terra-luna",
+      "description": "",
+      "published": "",
+      "score": 40,
+      "category": "rss",
+      "weight": 8
+    },
+    {
+      "source_id": "marktechpost",
+      "source_name": "MarkTechPost",
+      "title": "Building Supervised Fine-Tuning Data from NVIDIA Open-SWE-Traces: Trajectory Parsing, Patch Analysis, Token Budgets, and Tool-Use Metrics",
+      "url": "https://www.marktechpost.com/2026/06/26/building-supervised-fine-tuning-data-from-nvidia-open-swe-traces-trajectory-parsing-patch-analysis-token-budgets-and-tool-use-metrics/",
+      "description": "",
+      "published": "",
+      "score": 30,
+      "category": "rss",
+      "weight": 6
+    },
+    {
+      "source_id": "marktechpost",
+      "source_name": "MarkTechPost",
+      "title": "Cursor Study Finds Reward Hacking Inflates Coding-Agent Benchmark Scores on SWE-bench Pro",
+      "url": "https://www.marktechpost.com/2026/06/26/cursor-study-finds-reward-hacking-inflates-coding-agent-benchmark-scores-on-swe-bench-pro/",
+      "description": "",
+      "published": "",
+      "score": 30,
+      "category": "rss",
+      "weight": 6
+    },
+    {
+      "source_id": "marktechpost",
+      "source_name": "MarkTechPost",
+      "title": "Perplexity Launches Computer for Counsel: A Multi-Model Agentic Layer for Legal Workflows",
+      "url": "https://www.marktechpost.com/2026/06/26/perplexity-launches-computer-for-counsel-a-multi-model-agentic-layer-for-legal-workflows/",
+      "description": "",
+      "published": "",
+      "score": 30,
+      "category": "rss",
+      "weight": 6
+    },
+    {
+      "source_id": "marktechpost",
+      "source_name": "MarkTechPost",
+      "title": "OpenAI Previews GPT-5.6 With Sol, Terra, and Luna: Tiered Models, New Reasoning Modes, Limited Access",
+      "url": "https://www.marktechpost.com/2026/06/26/openai-previews-gpt-5-6-with-sol-terra-and-luna-tiered-models-new-reasoning-modes-limited-access/",
+      "description": "",
+      "published": "",
+      "score": 30,
+      "category": "rss",
+      "weight": 6
+    },
+    {
+      "source_id": "marktechpost",
+      "source_name": "MarkTechPost",
+      "title": "Meet container: Apple’s Open-Source Swift Tool for Running Linux Containers as Lightweight VMs on Apple Silicon",
+      "url": "https://www.marktechpost.com/2026/06/26/meet-container-apples-open-source-swift-tool-for-running-linux-containers-as-lightweight-vms-on-apple-silicon/",
+      "description": "",
+      "published": "",
+      "score": 30,
+      "category": "rss",
+      "weight": 6
+    },
+    {
+      "source_id": "marktechpost",
+      "source_name": "MarkTechPost",
+      "title": "Build a Nanobot-Style AI Agent in Google Colab with Tool Calling, Session Memory, Skills, and MCP Servers",
+      "url": "https://www.marktechpost.com/2026/06/26/build-a-nanobot-style-ai-agent-in-google-colab-with-tool-calling-session-memory-skills-and-mcp-servers/",
+      "description": "",
+      "published": "",
+      "score": 30,
+      "category": "rss",
+      "weight": 6
+    },
+    {
+      "source_id": "hn_show_ai_7d",
+      "source_name": "Show HN AI 7d",
+      "title": "Show HN: Polygraph – Let AI agents see cross repo and maintain session memory",
+      "url": "https://trypolygraph.com/",
+      "description": "",
+      "published": "2026-06-25T19:58:56+00:00",
+      "score": 29,
+      "category": "hackernews",
+      "weight": 9,
+      "points": 10,
+      "comments_url": "https://news.ycombinator.com/item?id=48678471"
+    }
+  ]
+}

@@ -1,0 +1,148 @@
+{
+  "date": "2026-06-22",
+  "last_updated": "2026-06-22T06:00:02.108007+00:00",
+  "total_items": 12,
+  "items": [
+    {
+      "source_id": "openai_blog",
+      "source_name": "OpenAI Blog",
+      "title": "Samsung Electronics brings ChatGPT and Codex to employees",
+      "url": "https://openai.com/index/samsung-electronics-chatgpt-codex-deployment",
+      "description": "",
+      "published": "",
+      "score": 50,
+      "category": "rss",
+      "weight": 10
+    },
+    {
+      "source_id": "ggml_releases",
+      "source_name": "ggml/llama.cpp releases",
+      "title": "ggml/llama.cpp releases: b9754",
+      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b9754",
+      "description": "<details open>\n\ncommon/peg : implement ac parser for stricter grammar generation (#24869)\n\n* common/peg : implement ac parser\n\n* cont : extract functions\n\n* cont : tidy up\n\n* cont : remove a test\n\n* cont : move ac() def\n\n</details>\n\n**macOS/iOS:**\n- [macOS Apple Silicon (arm64)](https://github.com/g",
+      "published": "2026-06-21T21:55:39Z",
+      "score": 48,
+      "category": "github_release",
+      "weight": 8,
+      "tag": "b9754"
+    },
+    {
+      "source_id": "ggml_releases",
+      "source_name": "ggml/llama.cpp releases",
+      "title": "ggml/llama.cpp releases: b9753",
+      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b9753",
+      "description": "<details open>\n\nserver: fix report progress for loading spec models, add \"stages\" list (#24870)\n\n* server: fix report progress for loading spec models, add \"stages\" list\n\n* improve\n\n* nits\n\n* nits 2\n\n</details>\n\n**macOS/iOS:**\n- [macOS Apple Silicon (arm64)](https://github.com/ggml-org/llama.cpp/rel",
+      "published": "2026-06-21T19:25:44Z",
+      "score": 48,
+      "category": "github_release",
+      "weight": 8,
+      "tag": "b9753"
+    },
+    {
+      "source_id": "ggml_releases",
+      "source_name": "ggml/llama.cpp releases",
+      "title": "ggml/llama.cpp releases: b9752",
+      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b9752",
+      "description": "<details open>\n\nserver: refactor batch construction (#24843)\n\n* server: refactor batch construction\n\n* wip\n\n* wip 2\n\n* wip 3\n\n* wip 4\n\n* add abort_all_slots\n\n* handle batch full more carefully\n\n* fix assert\n\n* rm debug log\n\n* small nits\n\n* (debug) add timings\n\n* debug: force llama_synchronize for ac",
+      "published": "2026-06-21T18:59:57Z",
+      "score": 48,
+      "category": "github_release",
+      "weight": 8,
+      "tag": "b9752"
+    },
+    {
+      "source_id": "ggml_releases",
+      "source_name": "ggml/llama.cpp releases",
+      "title": "ggml/llama.cpp releases: b9751",
+      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b9751",
+      "description": "<details open>\n\nmtmd: fix mtmd_get_memory_usage (#24867)\n\n</details>\n\n**macOS/iOS:**\n- [macOS Apple Silicon (arm64)](https://github.com/ggml-org/llama.cpp/releases/download/b9751/llama-b9751-bin-macos-arm64.tar.gz)\n- macOS Apple Silicon (arm64, KleidiAI enabled) [DISABLED](https://github.com/ggml-or",
+      "published": "2026-06-21T18:34:51Z",
+      "score": 48,
+      "category": "github_release",
+      "weight": 8,
+      "tag": "b9751"
+    },
+    {
+      "source_id": "ggml_releases",
+      "source_name": "ggml/llama.cpp releases",
+      "title": "ggml/llama.cpp releases: b9750",
+      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b9750",
+      "description": "<details open>\n\njinja : implement call statement (#24847)\n\n* implement call statement\n\n* undo unintended change\n\n* de-lambda\n\n* simplify\n\n* move caller context inside function handler\n\n</details>\n\n**macOS/iOS:**\n- [macOS Apple Silicon (arm64)](https://github.com/ggml-org/llama.cpp/releases/download/",
+      "published": "2026-06-21T17:57:47Z",
+      "score": 48,
+      "category": "github_release",
+      "weight": 8,
+      "tag": "b9750"
+    },
+    {
+      "source_id": "latent_space",
+      "source_name": "Latent Space (Substack)",
+      "title": "[Exclusive] $250 off AI Engineer tix til Monday",
+      "url": "https://www.latent.space/p/exclusive-250-off-ai-engineer-tix",
+      "description": "",
+      "published": "",
+      "score": 40,
+      "category": "rss",
+      "weight": 8
+    },
+    {
+      "source_id": "marktechpost",
+      "source_name": "MarkTechPost",
+      "title": "How to Design Python-First Interactive Dashboards with Prefab Reactive UI Components and Static HTML Export",
+      "url": "https://www.marktechpost.com/2026/06/21/how-to-design-python-first-interactive-dashboards-with-prefab-reactive-ui-components-and-static-html-export/",
+      "description": "",
+      "published": "",
+      "score": 30,
+      "category": "rss",
+      "weight": 6
+    },
+    {
+      "source_id": "marktechpost",
+      "source_name": "MarkTechPost",
+      "title": "The 7 Types of Agent Memory: A Technical Guide for AI Engineers",
+      "url": "https://www.marktechpost.com/2026/06/21/the-7-types-of-agent-memory-a-technical-guide-for-ai-engineers/",
+      "description": "",
+      "published": "",
+      "score": 30,
+      "category": "rss",
+      "weight": 6
+    },
+    {
+      "source_id": "marktechpost",
+      "source_name": "MarkTechPost",
+      "title": "Crawlee for Python: Build a Web Crawling Pipeline with Robots Handling, Link Graphs, and RAG Chunk Export",
+      "url": "https://www.marktechpost.com/2026/06/20/crawlee-for-python-build-a-web-crawling-pipeline-with-robots-handling-link-graphs-and-rag-chunk-export/",
+      "description": "",
+      "published": "",
+      "score": 30,
+      "category": "rss",
+      "weight": 6
+    },
+    {
+      "source_id": "hn_show_ai_7d",
+      "source_name": "Show HN AI 7d",
+      "title": "Show HN: Jacobi–IDE for Abaqus subroutine with analytical tests and AI diagnosis",
+      "url": "https://jacobee.netlify.app/",
+      "description": "",
+      "published": "2026-06-21T16:20:46+00:00",
+      "score": 30,
+      "category": "hackernews",
+      "weight": 9,
+      "points": 18,
+      "comments_url": "https://news.ycombinator.com/item?id=48620188"
+    },
+    {
+      "source_id": "hn_show_ai_7d",
+      "source_name": "Show HN AI 7d",
+      "title": "Show HN: DebugBrief – turn debugging sessions into reports, no AI",
+      "url": "https://github.com/harihkk/Debug-Brief",
+      "description": "",
+      "published": "2026-06-21T19:57:54+00:00",
+      "score": 28,
+      "category": "hackernews",
+      "weight": 9,
+      "points": 7,
+      "comments_url": "https://news.ycombinator.com/item?id=48622061"
+    }
+  ]
+}

@@ -1,0 +1,161 @@
+{
+  "date": "2026-06-21",
+  "last_updated": "2026-06-21T06:00:01.851638+00:00",
+  "total_items": 13,
+  "items": [
+    {
+      "source_id": "trending_ai",
+      "source_name": "GitHub Trending — AI",
+      "title": "Tencent/ncnn — ncnn is a high-performance neural network inference framework optimized for the mobile platform",
+      "url": "https://github.com/Tencent/ncnn",
+      "description": "ncnn is a high-performance neural network inference framework optimized for the mobile platform",
+      "published": "2026-06-19T03:02:53Z",
+      "score": 57,
+      "category": "github_trending",
+      "weight": 9,
+      "stars": 23393,
+      "language": "C++"
+    },
+    {
+      "source_id": "ggml_releases",
+      "source_name": "ggml/llama.cpp releases",
+      "title": "ggml/llama.cpp releases: b9744",
+      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b9744",
+      "description": "<details open>\n\ncommon/peg : refactor until gbnf grammar generation (#24839)\n\n* common/peg : refactor until gbnf grammar into an ac automaton\n\n* cont : add a test with multiple strings\n\n* cont : pad state with 0s so rules line up\n\n* cont : clean up comments\n\n* cont : use set everywhere\n\n* cont : inl",
+      "published": "2026-06-21T02:46:37Z",
+      "score": 48,
+      "category": "github_release",
+      "weight": 8,
+      "tag": "b9744"
+    },
+    {
+      "source_id": "ggml_releases",
+      "source_name": "ggml/llama.cpp releases",
+      "title": "ggml/llama.cpp releases: b9743",
+      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b9743",
+      "description": "<details open>\n\ncommon/json-schema-to-grammar : align spacing rules with parsers (#24835)\n\n</details>\n\n**macOS/iOS:**\n- [macOS Apple Silicon (arm64)](https://github.com/ggml-org/llama.cpp/releases/download/b9743/llama-b9743-bin-macos-arm64.tar.gz)\n- macOS Apple Silicon (arm64, KleidiAI enabled) [DIS",
+      "published": "2026-06-20T23:09:15Z",
+      "score": 48,
+      "category": "github_release",
+      "weight": 8,
+      "tag": "b9743"
+    },
+    {
+      "source_id": "ggml_releases",
+      "source_name": "ggml/llama.cpp releases",
+      "title": "ggml/llama.cpp releases: b9742",
+      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b9742",
+      "description": "<details open>\n\nfix(hexagon): use padded stride for ssm-conv weights (#24470)\n\n</details>\n\n**macOS/iOS:**\n- [macOS Apple Silicon (arm64)](https://github.com/ggml-org/llama.cpp/releases/download/b9742/llama-b9742-bin-macos-arm64.tar.gz)\n- macOS Apple Silicon (arm64, KleidiAI enabled) [DISABLED](https",
+      "published": "2026-06-20T22:31:33Z",
+      "score": 48,
+      "category": "github_release",
+      "weight": 8,
+      "tag": "b9742"
+    },
+    {
+      "source_id": "ggml_releases",
+      "source_name": "ggml/llama.cpp releases",
+      "title": "ggml/llama.cpp releases: b9741",
+      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b9741",
+      "description": "<details open>\n\nllama : use LLM_KV for quantization_version & file_type (#24802)\n\nSigned-off-by: Adrien Gallouët <angt@huggingface.co>\n\n</details>\n\n**macOS/iOS:**\n- [macOS Apple Silicon (arm64)](https://github.com/ggml-org/llama.cpp/releases/download/b9741/llama-b9741-bin-macos-arm64.tar.gz)\n- macOS",
+      "published": "2026-06-20T18:40:59Z",
+      "score": 48,
+      "category": "github_release",
+      "weight": 8,
+      "tag": "b9741"
+    },
+    {
+      "source_id": "ggml_releases",
+      "source_name": "ggml/llama.cpp releases",
+      "title": "ggml/llama.cpp releases: b9740",
+      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b9740",
+      "description": "<details open>\n\narg: try fixing test-args-parser randomly fails (#24826)\n\n* arg: try fixing test-args-parser randomly fails\n\n* return ref\n\n* try triggering the workflow\n\n* exception wrapper\n\n* wip\n\n* test\n\n* test 2\n\n* arg: guard win32 utf8 argv override\n\nmake_utf8_argv rebuilds argv from GetCommandL",
+      "published": "2026-06-20T18:14:08Z",
+      "score": 48,
+      "category": "github_release",
+      "weight": 8,
+      "tag": "b9740"
+    },
+    {
+      "source_id": "latent_space",
+      "source_name": "Latent Space (Substack)",
+      "title": "[AINews] not much happened today",
+      "url": "https://www.latent.space/p/ainews-not-much-happened-today-e7b",
+      "description": "",
+      "published": "",
+      "score": 40,
+      "category": "rss",
+      "weight": 8
+    },
+    {
+      "source_id": "marktechpost",
+      "source_name": "MarkTechPost",
+      "title": "Cisco AI Introduces FAPO: Pipeline-Aware Prompt Optimization With Step-Level Failure Attribution and Claude Code Orchestration",
+      "url": "https://www.marktechpost.com/2026/06/20/cisco-ai-introduces-fapo-pipeline-aware-prompt-optimization-with-step-level-failure-attribution-and-claude-code-orchestration/",
+      "description": "",
+      "published": "",
+      "score": 30,
+      "category": "rss",
+      "weight": 6
+    },
+    {
+      "source_id": "marktechpost",
+      "source_name": "MarkTechPost",
+      "title": "Nous Research Updates Hermes Agent With a Blank Slate Mode That Pins Toolsets via platform_toolsets.cli and disabled_toolsets",
+      "url": "https://www.marktechpost.com/2026/06/20/nous-research-updates-hermes-agent-with-a-blank-slate-mode-that-pins-toolsets-via-platform_toolsets-cli-and-disabled_toolsets/",
+      "description": "",
+      "published": "",
+      "score": 30,
+      "category": "rss",
+      "weight": 6
+    },
+    {
+      "source_id": "marktechpost",
+      "source_name": "MarkTechPost",
+      "title": "Yandex Open-Sources YaFF: A Zero-Copy Wire Format for Protobuf With Near-Struct Read Speed",
+      "url": "https://www.marktechpost.com/2026/06/20/yandex-open-sources-yaff-a-zero-copy-wire-format-for-protobuf-with-near-struct-read-speed/",
+      "description": "",
+      "published": "",
+      "score": 30,
+      "category": "rss",
+      "weight": 6
+    },
+    {
+      "source_id": "marktechpost",
+      "source_name": "MarkTechPost",
+      "title": "How to Build a Forecasting Pipeline with TimeCopilot Using Foundation Models and Automated Anomaly Detection",
+      "url": "https://www.marktechpost.com/2026/06/20/how-to-build-a-forecasting-pipeline-with-timecopilot-using-foundation-models-and-automated-anomaly-detection/",
+      "description": "",
+      "published": "",
+      "score": 30,
+      "category": "rss",
+      "weight": 6
+    },
+    {
+      "source_id": "hn_show_ai_7d",
+      "source_name": "Show HN AI 7d",
+      "title": "Show HN: Domphy – plain-object UI for tool apps, AI-correctable output",
+      "url": "https://news.ycombinator.com/item?id=48593346",
+      "description": "",
+      "published": "2026-06-19T00:12:20+00:00",
+      "score": 28,
+      "category": "hackernews",
+      "weight": 9,
+      "points": 7,
+      "comments_url": "https://news.ycombinator.com/item?id=48593346"
+    },
+    {
+      "source_id": "hn_show_ai_7d",
+      "source_name": "Show HN AI 7d",
+      "title": "Show HN: Reyn – local-first AI that journals and recalls your work",
+      "url": "https://www.usereyn.com/",
+      "description": "",
+      "published": "2026-06-17T22:31:02+00:00",
+      "score": 28,
+      "category": "hackernews",
+      "weight": 9,
+      "points": 6,
+      "comments_url": "https://news.ycombinator.com/item?id=48577880"
+    }
+  ]
+}

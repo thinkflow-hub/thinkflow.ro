@@ -243,7 +243,6 @@ const CITY_COORDS: Record<string, [number, number]> = {
   "melbourne": [-37.8136, 144.9631],
   "auckland": [-36.8485, 174.7633],
   "cape town": [-33.9249, 18.4241],
-  "dubai": [25.2048, 55.2708],
   "doha": [25.2854, 51.5310],
   "riyadh": [24.7136, 46.6753],
   "mexico city": [19.4326, -99.1332],
