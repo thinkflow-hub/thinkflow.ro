@@ -34,3 +34,5 @@ export default async function NewsArchivePage({ params }: { params: Promise<{ lo
     </div>
   );
 }
+
+export const revalidate = 3600;

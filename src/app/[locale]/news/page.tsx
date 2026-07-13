@@ -3,8 +3,10 @@ import { getTranslations, getLocale } from "next-intl/server";
 import Link from "next/link";
 import { NewsFeed } from "@/components/news/NewsFeed";
 import { DailyBriefingCard, BriefingSkeleton } from "@/components/news/DailyBriefing";
-import { NewsletterSignup } from "@/components/news/NewsletterSignup";
+import dynamic from "next/dynamic";
 import { getLatestDate, readNewsFile, getAllDates, readDailyBriefing, readGraph } from "@/lib/news";
+
+const NewsletterSignup = dynamic(() => import("@/components/news/NewsletterSignup").then((m) => ({ default: m.NewsletterSignup })), { ssr: false });
 
 export async function generateMetadata({ params }: { params: Promise<{ locale: string }> }): Promise<Metadata> {
   const { locale } = await params;
@@ -59,3 +61,5 @@ export default async function NewsPage() {
     </div>
   );
 }
+
+export const revalidate = 3600;  // ISR: revalidate every hour
