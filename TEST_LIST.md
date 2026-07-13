@@ -179,6 +179,85 @@
 
 ---
 
+## B — Agent Architecture
+
+- [ ] A2A: `send_a2a_message("chief", "router", "ping", handler=router.handle_a2a)` → `{"alive": true}`
+- [ ] A2A: `send_a2a_message("chief", "ghost", "ping")` → `NOT_FOUND` error
+- [ ] A2A: `handle_a2a({protocol:"bad"})` → `INVALID_PROTOCOL` error
+- [ ] A2A: `handle_a2a({protocol:"a2a-v1.0", action:"unknown"})` → `UNKNOWN_ACTION` error
+- [ ] A2A: `handle_a2a({protocol:"a2a-v1.0", action:"status"})` → `{agent_id, ...}`
+- [ ] A2A: `handle_a2a({protocol:"a2a-v1.0", action:"memory_context", payload:{topic:"AI"}})` → `{context: "..."}`
+- [ ] Escalation: input cu "deploy site" → output conține `[ESCALATION — deploy requires operator approval]`
+- [ ] Escalation: input cu "shutdown server" → output conține `[URGENT — shutdown_service]`
+- [ ] Escalation: input cu "delete file" → output conține `[ESCALATION — delete_files]`
+- [ ] Escalation: VRAM < 2GB + content intent → output conține `[ESCALATION — REVIEW RECOMMENDED]`
+- [ ] Escalation: input fără cuvinte permisive → output normal (fără tag escalate)
+
+## C — ContentFactory v2
+
+- [ ] `factory_health()` → 6 factories cu `status: "ok"` sau `"missing"`
+- [ ] `seo_generate("test", template="listicle")` → dict cu `success, job_id, duration_s`
+- [ ] `copy_generate("test product", template="landing_page")` → dict cu `success`
+- [ ] `kdp_produce()` → dict cu status (poate `unavailable` în afara orelor)
+- [ ] `kdp_produce(niche_id="cottagecore_word_search", auto_publish=True)` → procesează + încearcă upload
+- [ ] `fiverr_process()` → dict cu status (probabil `unavailable` fără ordere)
+- [ ] `service_process()` → dict cu status
+- [ ] factory timeout: rulează `seo_generate` cu un timeout mic → `status: "timeout"`
+- [ ] E: drive offline → `status: "unavailable"` cu `detail: "E drive not found"`
+- [ ] Chief: "scrie un articol SEO despre VPS hosting" → task decomposition cu sub-task-uri
+- [ ] Evaluator-optimizer: factory output cu QC score < 0.7 → refine loop invocat
+- [ ] MoA pricing: "pachet servicii copywriting pentru startup" → 3 proposeri
+- [ ] KDP auto-publish dry-run: `python tools/kdp_auto_publish.py --niche cottagecore_word_search --dry-run` → "DRY RUN"
+- [ ] KDP auto-publish validation: `python tools/kdp_auto_publish.py --niche not_a_real_niche` → `validation_failed`
+
+## D — Analytics & Monitoring
+
+- [ ] `GET /api/system/metrics` → JSON cu `health + metrics + audit`
+- [ ] `/system` dashboard → încărcare fără erori, cards vizibile
+- [ ] `python -m utils.alerting --check` → JSON cu `alerts: N` și `notified: {discord, telegram}`
+- [ ] Alerting cu threshold breach: setează error_rate > 10% → alertă trimisă pe canal configurat
+- [ ] `GET /api/system/metrics` când OpenClaw e offline → 503 + `error: "Metrics unavailable"`
+- [ ] Dashboard: click pe card → informații detaliate (dacă implementat)
+
+## E — YouTube + Podcast Sources
+
+- [ ] `news_sources.yaml` → `youtube_channels` conține 4 entries cu `format: video`
+- [ ] `news_sources.yaml` → `podcast_feeds` conține 3 entries cu `format: podcast`
+- [ ] `python scripts/news_aggregator.py --once --dry-run` → YouTube + podcast feeds fetch-uite
+- [ ] Item în API search cu `format: "video"` → badge 🎬 în UI
+- [ ] Item în API search cu `format: "podcast"` → badge 🎙 în UI
+- [ ] Item în API search cu `format: "event"` → badge 📅 în UI
+- [ ] Sursă YouTube: URL-ul e link la video, nu la canal
+
+## F — SEO / Marketing
+
+- [ ] `python scripts/news_to_blog.py --days 7` → blog post în `_output/blog_drafts/{slug}.md`
+- [ ] Blog post conține frontmatter YAML valid (`title:`, `date:`, `description:`, `category:`)
+- [ ] Blog post are corp markdown coerent (>500 cuvinte)
+- [ ] `python scripts/news_to_blog.py --days 7 --publish` → scrie în `thinkflow.ro/src/content/blog/`
+- [ ] `python scripts/news_to_blog.py --days 7 --locale en` → blog post în engleză
+- [ ] `python scripts/social_poster.py --test` → "All channels OK" sau raportează lipsă config
+- [ ] `python scripts/social_poster.py --limit 3 --channels discord` → postează doar pe Discord
+- [ ] `python scripts/social_poster.py --limit 5` → postează top 5 stories (configurable)
+- [ ] ISR: `revalidate = 3600` în news page → Next.js generează static
+
+## A — Deployment (Smoke Tests e2e)
+
+- [ ] `python scripts/news_pipeline.py --skip-aggregator` → toți pașii: ✅
+- [ ] `npm run build` în thinkflow.ro → 0 errors, build reușit
+- [ ] `curl http://localhost:3000/api/news/search?q=AI` → 200 + JSON cu results
+- [ ] `curl http://localhost:3000/api/news/feed/all` → RSS XML valid (începe cu `<rss>`)
+- [ ] `curl http://localhost:3000/api/news/feed/trending` → RSS filtrat
+- [ ] `curl http://localhost:3000/api/system/metrics` → 200 + JSON
+- [ ] `curl http://localhost:3000/api/newsletter` POST cu email valid → 201
+- [ ] `schtasks /Query /TN "ThinkFlow-Newsletter"` → task exists
+- [ ] `schtasks /Query /TN "ThinkFlow-News-Pipeline"` → task exists
+- [ ] `schtasks /Query /TN "ThinkFlow-Social-Poster"` → task exists (opțional)
+- [ ] `$env:VERCEL_DEPLOY_HOOK` → variabila e setată
+- [ ] `$env:SENDGRID_API_KEY` → variabila e setată
+- [ ] `curl -I https://thinkflow.ro/news/` → 200
+- [ ] `news.thinkflow.ro` → 301 redirect la thinkflow.ro/news/ (după DNS)
+
 ## Smoke Tests (e2e rapide)
 
 ```bash
@@ -205,4 +284,16 @@ curl "http://localhost:3000/api/news/search?q=AI&days=3"
 
 # MCP tools
 python -c "from tools.news_mcp import top_stories; print(top_stories(3))"
+
+# Factory MCP
+python -c "from tools.contentfactory_mcp import factory_health; print(factory_health())"
+
+# Blog generator
+python scripts/news_to_blog.py --days 3
+
+# Social poster test
+python scripts/social_poster.py --test
+
+# Alerting check
+python -m utils.alerting --check
 ```
