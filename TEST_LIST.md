@@ -296,4 +296,105 @@ python scripts/social_poster.py --test
 
 # Alerting check
 python -m utils.alerting --check
+
+---
+
+## Strat 0 — Fundație
+
+- [ ] 0.1 OLLAMA_BASE_URL cu `/v1` → API calls merg fără `/v1`
+- [ ] 0.2 LEDGER_PATH → directorul se creează automat dacă nu există
+- [ ] 0.3 USER_SITE_PACKAGES → `site.getusersitepackages()` apelat în toate modulele audio
+- [ ] 0.4 Model defaults `openrouter/free` → verificat că există
+- [ ] 0.5 `audio_factory/mcp_server.py` → eroare clară dacă `mcp` lipsește
+- [ ] 0.6 `asyncio.run()` în context sincron → nu mai crapă cu RuntimeError
+- [ ] 0.7 Circular import core↔router → verificat
+
+## Strat 1 — Pipeline & MCP
+
+- [ ] 1.1 BackgroundTasks → `process_job` async nu blochează ASGI
+- [ ] 1.2 MCP `run_pipeline` → nu blochează event loop
+- [ ] 1.3 QC scoring → nu blochează event loop
+- [ ] 1.4 Queue lock → ținut pe toată durata procesării
+- [ ] 1.5 Queue ID → consistent (timestamp vs UUID)
+- [ ] 1.6 Queue get_next_job → atomic
+- [ ] 1.7 Secrets → niciun email/password hardcodat
+- [ ] 1.8 requirements.txt → există per factory
+- [ ] 1.9 Queue cleanup → `failed_reason` curățat pe ship_ready
+- [ ] 1.10 QC model → configurabil
+
+## Strat 2 — Bug-uri Fabrici
+
+### KDP
+- [ ] 2.1 `add_bleed.py` → nu mai e dead code, output folosit
+- [ ] 2.2 ASSETS → nehardcodat, citit din config
+- [ ] 2.3 Barcode area → 2"×1.2" (KDP spec)
+- [ ] 2.4 Validator + ship_folder → citesc `queue.yaml`, nu `niches.yaml`
+- [ ] 2.5 Niche prefix → `national_parks` → `national_parks`, nu `national`
+- [ ] 2.6 `deferred_seasonal` → recunoscut de runner
+
+### SEO
+- [ ] 2.7 `@retry` duplicat → un singur decorator
+- [ ] 2.8 `article_dir` → path sanitizat
+- [ ] 2.9 `.hitl_pending` → curățat la timeout
+- [ ] 2.10 `ledger.record_transaction` → try/except
+
+### Copy
+- [ ] 2.11 Strategy fail → pipeline se oprește, nu primește `None`
+- [ ] 2.12 `{tone_guidelines}` → populat corect
+
+### Clipping
+- [ ] 2.13 `gpu_whisper_context()` exception → mesaj clar
+- [ ] 2.14 `num_clips` → default consistent (3 în UI, 3 în process_job)
+- [ ] 2.15 `/status/{job_id}` → path traversal protection
+
+### Fiverr
+- [ ] 2.16 Sandbox failure → pipeline se oprește
+- [ ] 2.17 HITL → review uman real
+- [ ] 2.18 UUID → 16+ caractere, fără coliziune
+
+### Service
+- [ ] 2.19 f08_translation → chunking pentru text lung
+- [ ] 2.20 f14_pdf → operație necunoscută = eroare, nu OCR
+- [ ] 2.21 f11_dataclean → lowercaze doar coloanele specificate
+
+## Strat 3 — Fanvue Producție
+
+- [ ] 3.1 REGEN loop → generează și evaluează imaginea NOUĂ
+- [ ] 3.2 Node ID → citit din workflow, nu hardcodat "36"
+- [ ] 3.3 `qa_result` → handle corect când QA e skipped
+- [ ] 3.4 NSFW LoRA → fișierele există sau eroare clară
+- [ ] 3.5 Flux Krea NSFW → workflow existent
+- [ ] 3.6 Sidecar seed → valoarea reală din job
+- [ ] 3.7 Imagini generate → > 0 în outputs/
+- [ ] 3.8 105 pending job-uri → arhivate
+- [ ] 3.9 `lora_trained/` → fișiere există
+- [ ] 3.10 `generate_embeddings()` → face ceva real
+
+## Strat 4 — Audio Funcțional
+
+- [ ] 4.1 Piper model path → funcționează pe Windows
+- [ ] 4.2 F5-TTS API → voice cloning funcțional
+- [ ] 4.3 `profiles/` → cel puțin un voice profile
+- [ ] 4.4 ffprobe/ffmpeg → verificate la startup
+- [ ] 4.5 MusicGen/Transcriber → funcționează și pe CPU
+- [ ] 4.6 voiceover → scrie în `outputs/` corect
+- [ ] 4.7 Piper fallback → notifică utilizatorul
+
+## Strat 5 — Completare
+
+- [ ] 5.1 Copy factory → 6/6 config templates
+- [ ] 5.2 Clipping → testimonial + livestream configs
+- [ ] 5.3 SEO → prompts/ populat
+- [ ] 5.4 KDP → Christmas niche deblocată
+- [ ] 5.5 Clipping → notifier integrat
+- [ ] 5.6 Clipping → guardrails apelat în runner
+- [ ] 5.7 KDP → 6 pending niches procesate
+
+## Strat 6 — Polish
+
+- [ ] 6.1 Toate LOW severity issue-uri din audit
+- [ ] 6.2 pytest setup per factory
+- [ ] 6.3 Docstring audit → fără SyntaxWarning
+- [ ] 6.4 Gitignore + pycache cleanup
+- [ ] 6.5 SECURITY → CORS, auth, rate limiting
 ```
