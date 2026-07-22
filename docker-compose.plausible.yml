@@ -5,6 +5,8 @@ services:
     volumes:
       - plausible_db_data:/var/lib/postgresql/data
     environment:
+      POSTGRES_DB: plausible
+      POSTGRES_USER: postgres
       POSTGRES_PASSWORD: ${PLAUSIBLE_DB_PASSWORD:-changeme}
 
   plausible_events_db:
