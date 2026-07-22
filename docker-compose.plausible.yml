@@ -1,0 +1,38 @@
+services:
+  plausible_db:
+    image: postgres:16-alpine
+    restart: unless-stopped
+    volumes:
+      - plausible_db_data:/var/lib/postgresql/data
+    environment:
+      POSTGRES_PASSWORD: ${PLAUSIBLE_DB_PASSWORD:-changeme}
+
+  plausible_events_db:
+    image: clickhouse/clickhouse-server:24-alpine
+    restart: unless-stopped
+    volumes:
+      - plausible_events_data:/var/lib/clickhouse
+    environment:
+      CLICKHOUSE_DB: plausible
+    ulimits:
+      nofile:
+        soft: 262144
+        hard: 262144
+
+  plausible:
+    image: plausible/analytics:latest
+    restart: unless-stopped
+    ports:
+      - "8001:8000"
+    depends_on:
+      - plausible_db
+      - plausible_events_db
+    environment:
+      BASE_URL: ${PLAUSIBLE_BASE_URL:-http://localhost:8001}
+      SECRET_KEY_BASE: ${PLAUSIBLE_SECRET_KEY}
+      DATABASE_URL: postgres://postgres:${PLAUSIBLE_DB_PASSWORD:-changeme}@plausible_db:5432/plausible
+      CLICKHOUSE_DATABASE_URL: http://plausible_events_db:8123/plausible
+
+volumes:
+  plausible_db_data:
+  plausible_events_data:

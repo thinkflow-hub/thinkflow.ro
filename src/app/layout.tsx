@@ -1,6 +1,7 @@
 import type { Metadata } from "next";
 import { Geist_Mono, Montserrat } from "next/font/google";
 import localFont from "next/font/local";
+import PlausibleAnalytics from "@/components/PlausibleAnalytics";
 import "./globals.css";
 
 const montserrat = Montserrat({
@@ -57,6 +58,7 @@ export default function RootLayout({
       className={`${montserrat.variable} ${geistMono.variable} ${blackSignature.variable} h-full antialiased`}
     >
       <head>
+        <PlausibleAnalytics />
         <link rel="alternate" type="application/atom+xml" title="ThinkFLOW Blog Feed" href="https://thinkflow.ro/feed.xml" />
         <link rel="icon" type="image/svg+xml" href="/icon.svg" />
         <script

@@ -42,11 +42,12 @@ export default async function AffiliateDisclosurePage({ params }: { params: Prom
           <section className="mb-8">
             <h2 className="mb-3 text-xl font-montserrat-bold">Programs We Participate In</h2>
             <ul className="list-disc space-y-1 pl-6 text-white/60 font-montserrat-regular text-sm">
+              <li>DigitalOcean Affiliate Program</li>
+              <li>Vultr Affiliate Program</li>
               <li>Vercel Affiliate Program</li>
-              <li>Cloudflare Partner Program</li>
               <li>Supabase Partner Program</li>
-              <li>Pinecone Affiliate Program</li>
               <li>ElevenLabs Affiliate Program</li>
+              <li>Pinecone Affiliate Program</li>
             </ul>
           </section>
 
