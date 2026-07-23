@@ -1,0 +1,1557 @@
+{
+  "date": "2026-07-16",
+  "last_updated": "2026-07-16T06:00:01.874211+00:00",
+  "total_items": 30,
+  "items": [
+    {
+      "source_id": "openai_blog",
+      "source_name": "OpenAI Blog",
+      "title": "The US is advancing AI safety through state and federal action",
+      "url": "https://openai.com/index/advancing-ai-safety-through-state-and-federal-action",
+      "description": "OpenAI outlines a “reverse federalism” approach to AI governance, where state laws help build a national framework for safe, democratic AI.",
+      "published": "Wed, 15 Jul 2026 12:00:00 GMT",
+      "score": 75,
+      "category": "ai_labs",
+      "weight": 10,
+      "format": "article",
+      "geo_title": "How does the US plan to advance AI safety with state and federal actions?",
+      "geo_keywords": [
+        "ai safety",
+        "us ai regulation",
+        "openai governance",
+        "reverse federalism",
+        "state and federal ai policy",
+        "safe ai development",
+        "democratic ai",
+        "ai lawmaking",
+        "what is reverse federalism in ai",
+        "how does the us plan to regulate ai",
+        "who is leading ai safety efforts in the us"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "How does the US plan to advance AI safety with state and federal actions?",
+        "url": "https://openai.com/index/advancing-ai-safety-through-state-and-federal-action",
+        "description": "OpenAI outlines a “reverse federalism” approach to AI governance, where state laws help build a national framework for safe, democratic AI.",
+        "keywords": "ai safety, us ai regulation, openai governance, reverse federalism, state and federal ai policy, safe ai development, democratic ai, ai lawmaking",
+        "datePublished": "Wed, 15 Jul 2026 12:00:00 GMT",
+        "dateModified": "Wed, 15 Jul 2026 12:00:00 GMT",
+        "author": {
+          "@type": "Organization",
+          "name": "OpenAI Blog",
+          "url": "https://openai.com"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "ai_labs",
+        "inLanguage": "en-US",
+        "wordCount": 21,
+        "articleBody": "OpenAI outlines a “reverse federalism” approach to AI governance, where state laws help build a national framework for safe, democratic AI."
+      }
+    },
+    {
+      "source_id": "openai_blog",
+      "source_name": "OpenAI Blog",
+      "title": "GPT-Red: Unlocking Self-Improvement for Robustness",
+      "url": "https://openai.com/index/unlocking-self-improvement-gpt-red",
+      "description": "Explore GPT-Red, OpenAI’s automated red teaming system that uses self-play to improve AI safety, alignment, and prompt injection robustness.",
+      "published": "Wed, 15 Jul 2026 10:00:00 GMT",
+      "score": 75,
+      "category": "ai_labs",
+      "weight": 10,
+      "format": "article",
+      "geo_title": "How does GPT-Red enhance AI safety through self-play?",
+      "geo_keywords": [
+        "gpt-red",
+        "openai automated red teaming",
+        "ai safety improvement",
+        "self-play in ai training",
+        "prompt injection robustness",
+        "gpt model updates",
+        "ai alignment techniques",
+        "enhancing ai security through self-improvement"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "How does GPT-Red enhance AI safety through self-play?",
+        "url": "https://openai.com/index/unlocking-self-improvement-gpt-red",
+        "description": "Explore GPT-Red, OpenAI’s automated red teaming system that uses self-play to improve AI safety, alignment, and prompt injection robustness.",
+        "keywords": "gpt-red, openai automated red teaming, ai safety improvement, self-play in ai training, prompt injection robustness, gpt model updates, ai alignment techniques, enhancing ai security through self-improvement",
+        "datePublished": "Wed, 15 Jul 2026 10:00:00 GMT",
+        "dateModified": "Wed, 15 Jul 2026 10:00:00 GMT",
+        "author": {
+          "@type": "Organization",
+          "name": "OpenAI Blog",
+          "url": "https://openai.com"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "ai_labs",
+        "inLanguage": "en-US",
+        "wordCount": 19,
+        "articleBody": "Explore GPT-Red, OpenAI’s automated red teaming system that uses self-play to improve AI safety, alignment, and prompt injection robustness."
+      }
+    },
+    {
+      "source_id": "huggingface_blog",
+      "source_name": "Hugging Face Blog",
+      "title": "What building Shippy taught us about building agents",
+      "url": "https://huggingface.co/blog/allenai/shippy-tech-blog",
+      "description": "",
+      "published": "Wed, 15 Jul 2026 17:29:41 GMT",
+      "score": 67,
+      "category": "ai_labs",
+      "weight": 9,
+      "format": "article",
+      "geo_title": "Why Is Shippy's Approach Revolutionizing Agent Building?",
+      "geo_keywords": [
+        "building agents",
+        "shippy ai",
+        "chatbot development",
+        "conversational ai",
+        "agent architecture",
+        "ai for customer service",
+        "how to build intelligent agents",
+        "best practices in ai agent creation",
+        "understanding shippy's approach to ai agents",
+        "developing effective chatbots",
+        "ai agent design principles"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "Why Is Shippy's Approach Revolutionizing Agent Building?",
+        "url": "https://huggingface.co/blog/allenai/shippy-tech-blog",
+        "description": "",
+        "keywords": "building agents, shippy ai, chatbot development, conversational ai, agent architecture, ai for customer service, how to build intelligent agents, best practices in ai agent creation",
+        "datePublished": "Wed, 15 Jul 2026 17:29:41 GMT",
+        "dateModified": "Wed, 15 Jul 2026 17:29:41 GMT",
+        "author": {
+          "@type": "Organization",
+          "name": "Hugging Face Blog",
+          "url": "https://huggingface.co"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "ai_labs",
+        "inLanguage": "en-US",
+        "wordCount": 0,
+        "articleBody": ""
+      }
+    },
+    {
+      "source_id": "huggingface_blog",
+      "source_name": "Hugging Face Blog",
+      "title": "Introducing Real World VoiceEQ: Measuring the human quality of voice AI",
+      "url": "https://huggingface.co/blog/real-world-voiceeq",
+      "description": "",
+      "published": "Wed, 15 Jul 2026 00:00:00 GMT",
+      "score": 67,
+      "category": "ai_labs",
+      "weight": 9,
+      "format": "article",
+      "geo_title": "Why is VoiceEQ Important for Evaluating Human-like Voice AI?",
+      "geo_keywords": [
+        "voice ai quality measurement",
+        "real world voiceeq",
+        "human quality assessment voice ai",
+        "voice ai technology evaluation",
+        "chatbot voice quality",
+        "voice assistant human likeness",
+        "how to measure voice ai quality",
+        "voice ai development standards"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "Why is VoiceEQ Important for Evaluating Human-like Voice AI?",
+        "url": "https://huggingface.co/blog/real-world-voiceeq",
+        "description": "",
+        "keywords": "voice ai quality measurement, real world voiceeq, human quality assessment voice ai, voice ai technology evaluation, chatbot voice quality, voice assistant human likeness, how to measure voice ai quality, voice ai development standards",
+        "datePublished": "Wed, 15 Jul 2026 00:00:00 GMT",
+        "dateModified": "Wed, 15 Jul 2026 00:00:00 GMT",
+        "author": {
+          "@type": "Organization",
+          "name": "Hugging Face Blog",
+          "url": "https://huggingface.co"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "ai_labs",
+        "inLanguage": "en-US",
+        "wordCount": 0,
+        "articleBody": ""
+      }
+    },
+    {
+      "source_id": "yt_andrej_karpathy",
+      "source_name": "Andrej Karpathy",
+      "title": "How I use LLMs",
+      "url": "https://www.youtube.com/watch?v=EWvNQjAaOHw",
+      "description": "",
+      "published": "",
+      "score": 67,
+      "category": "ai_labs",
+      "weight": 9,
+      "format": "video",
+      "geo_title": "How do I utilize LLMs?",
+      "geo_keywords": [
+        "llm usage",
+        "large language models in practice",
+        "how to implement llm",
+        "benefits of using llms",
+        "examples of llm applications",
+        "questions about llm implementation",
+        "llm for everyday tasks"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "How do I utilize LLMs?",
+        "url": "https://www.youtube.com/watch?v=EWvNQjAaOHw",
+        "description": "",
+        "keywords": "llm usage, large language models in practice, how to implement llm, benefits of using llms, examples of llm applications, questions about llm implementation, llm for everyday tasks",
+        "datePublished": "",
+        "dateModified": "",
+        "author": {
+          "@type": "Organization",
+          "name": "Andrej Karpathy",
+          "url": "https://www.youtube.com"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "ai_labs",
+        "inLanguage": "en-US",
+        "wordCount": 0,
+        "articleBody": ""
+      }
+    },
+    {
+      "source_id": "yt_andrej_karpathy",
+      "source_name": "Andrej Karpathy",
+      "title": "Deep Dive into LLMs like ChatGPT",
+      "url": "https://www.youtube.com/watch?v=7xTGNNLPyMI",
+      "description": "",
+      "published": "",
+      "score": 67,
+      "category": "ai_labs",
+      "weight": 9,
+      "format": "video",
+      "geo_title": "A Look at LLMs Like ChatGPT",
+      "geo_keywords": [
+        "deep learning models",
+        "natural language processing",
+        "ai chatbots",
+        "generative pre-trained transformers",
+        "perplexity score",
+        "sge optimization",
+        "chatgpt technology",
+        "understanding llm capabilities"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "A Look at LLMs Like ChatGPT",
+        "url": "https://www.youtube.com/watch?v=7xTGNNLPyMI",
+        "description": "",
+        "keywords": "deep learning models, natural language processing, ai chatbots, generative pre-trained transformers, perplexity score, sge optimization, chatgpt technology, understanding llm capabilities",
+        "datePublished": "",
+        "dateModified": "",
+        "author": {
+          "@type": "Organization",
+          "name": "Andrej Karpathy",
+          "url": "https://www.youtube.com"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "ai_labs",
+        "inLanguage": "en-US",
+        "wordCount": 0,
+        "articleBody": ""
+      }
+    },
+    {
+      "source_id": "yt_andrej_karpathy",
+      "source_name": "Andrej Karpathy",
+      "title": "Let's reproduce GPT-2 (124M)",
+      "url": "https://www.youtube.com/watch?v=l8pRSuU81PU",
+      "description": "",
+      "published": "",
+      "score": 67,
+      "category": "ai_labs",
+      "weight": 9,
+      "format": "video",
+      "geo_title": "Why is reproducing GPT-2 (124M) important?",
+      "geo_keywords": [
+        "gpt-2 reproduction",
+        "generative pre-trained model",
+        "ai language model",
+        "how to create gpt-2",
+        "reproducing gpt-2 124m",
+        "steps to reproduce gpt-2",
+        "gpt-2 technology explanation",
+        "what is gpt-2",
+        "how does gpt-2 work"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "Why is reproducing GPT-2 (124M) important?",
+        "url": "https://www.youtube.com/watch?v=l8pRSuU81PU",
+        "description": "",
+        "keywords": "gpt-2 reproduction, generative pre-trained model, ai language model, how to create gpt-2, reproducing gpt-2 124m, steps to reproduce gpt-2, gpt-2 technology explanation, what is gpt-2",
+        "datePublished": "",
+        "dateModified": "",
+        "author": {
+          "@type": "Organization",
+          "name": "Andrej Karpathy",
+          "url": "https://www.youtube.com"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "ai_labs",
+        "inLanguage": "en-US",
+        "wordCount": 0,
+        "articleBody": ""
+      }
+    },
+    {
+      "source_id": "yt_andrej_karpathy",
+      "source_name": "Andrej Karpathy",
+      "title": "Let's build the GPT Tokenizer",
+      "url": "https://www.youtube.com/watch?v=zduSFxRajkE",
+      "description": "",
+      "published": "",
+      "score": 67,
+      "category": "ai_labs",
+      "weight": 9,
+      "format": "video",
+      "geo_title": "Why is the GPT Tokenizer Important for AI Models?",
+      "geo_keywords": [
+        "gpt tokenizer tutorial",
+        "how to build gpt tokenizer",
+        "gpt tokenization process",
+        "gpt tokenizer implementation",
+        "natural language processing tokenizer",
+        "deep learning tokenizer",
+        "ai text preprocessing",
+        "what is a tokenizer in nlp",
+        "how does gpt tokenizer work"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "Why is the GPT Tokenizer Important for AI Models?",
+        "url": "https://www.youtube.com/watch?v=zduSFxRajkE",
+        "description": "",
+        "keywords": "gpt tokenizer tutorial, how to build gpt tokenizer, gpt tokenization process, gpt tokenizer implementation, natural language processing tokenizer, deep learning tokenizer, ai text preprocessing, what is a tokenizer in nlp",
+        "datePublished": "",
+        "dateModified": "",
+        "author": {
+          "@type": "Organization",
+          "name": "Andrej Karpathy",
+          "url": "https://www.youtube.com"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "ai_labs",
+        "inLanguage": "en-US",
+        "wordCount": 0,
+        "articleBody": ""
+      }
+    },
+    {
+      "source_id": "yt_andrej_karpathy",
+      "source_name": "Andrej Karpathy",
+      "title": "Let's build GPT: from scratch, in code, spelled out.",
+      "url": "https://www.youtube.com/watch?v=kCc8FmEb1nY",
+      "description": "",
+      "published": "",
+      "score": 67,
+      "category": "ai_labs",
+      "weight": 9,
+      "format": "video",
+      "geo_title": "Why is building GPT from scratch important for GEO?",
+      "geo_keywords": [
+        "gpt model development",
+        "natural language processing from scratch",
+        "building ai models",
+        "creating gpt in code",
+        "understanding gpt architecture",
+        "how to build gpt",
+        "gpt coding tutorial",
+        "developing large language models",
+        "implementing gpt technology",
+        "training gpt model",
+        "gpt3 source code",
+        "generating text with gpt"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "Why is building GPT from scratch important for GEO?",
+        "url": "https://www.youtube.com/watch?v=kCc8FmEb1nY",
+        "description": "",
+        "keywords": "gpt model development, natural language processing from scratch, building ai models, creating gpt in code, understanding gpt architecture, how to build gpt, gpt coding tutorial, developing large language models",
+        "datePublished": "",
+        "dateModified": "",
+        "author": {
+          "@type": "Organization",
+          "name": "Andrej Karpathy",
+          "url": "https://www.youtube.com"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "ai_labs",
+        "inLanguage": "en-US",
+        "wordCount": 0,
+        "articleBody": ""
+      }
+    },
+    {
+      "source_id": "yt_andrej_karpathy",
+      "source_name": "Andrej Karpathy",
+      "title": "Stable diffusion dreams of steampunk brains",
+      "url": "https://www.youtube.com/watch?v=2oKjtvYslMY",
+      "description": "",
+      "published": "",
+      "score": 67,
+      "category": "ai_labs",
+      "weight": 9,
+      "format": "video",
+      "geo_title": "Why is stable diffusion fascinated by steampunk brains?",
+      "geo_keywords": [
+        "stable diffusion",
+        "steampunk technology",
+        "ai art generation",
+        "chatgpt steampunk",
+        "perplexity steampunk",
+        "ai dreamsteam",
+        "how stable diffusion works",
+        "steampunk future",
+        "ai and creativity",
+        "steampunk brains explained",
+        "ai art styles",
+        "what is stable diffusion"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "Why is stable diffusion fascinated by steampunk brains?",
+        "url": "https://www.youtube.com/watch?v=2oKjtvYslMY",
+        "description": "",
+        "keywords": "stable diffusion, steampunk technology, ai art generation, chatgpt steampunk, perplexity steampunk, ai dreamsteam, how stable diffusion works, steampunk future",
+        "datePublished": "",
+        "dateModified": "",
+        "author": {
+          "@type": "Organization",
+          "name": "Andrej Karpathy",
+          "url": "https://www.youtube.com"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "ai_labs",
+        "inLanguage": "en-US",
+        "wordCount": 0,
+        "articleBody": ""
+      }
+    },
+    {
+      "source_id": "yt_andrej_karpathy",
+      "source_name": "Andrej Karpathy",
+      "title": "The spelled-out intro to neural networks and backpropagation: building micrograd",
+      "url": "https://www.youtube.com/watch?v=VMj-3S1tku0",
+      "description": "",
+      "published": "",
+      "score": 67,
+      "category": "ai_labs",
+      "weight": 9,
+      "format": "video",
+      "geo_title": "Why is building micrograd important for understanding neural networks?",
+      "geo_keywords": [
+        "neural networks introduction",
+        "backpropagation explained",
+        "micrograd library",
+        "gradient descent for beginners",
+        "understanding deep learning fundamentals",
+        "how neural networks learn",
+        "training neural networks from scratch",
+        "implementing backpropagation in python"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "Why is building micrograd important for understanding neural networks?",
+        "url": "https://www.youtube.com/watch?v=VMj-3S1tku0",
+        "description": "",
+        "keywords": "neural networks introduction, backpropagation explained, micrograd library, gradient descent for beginners, understanding deep learning fundamentals, how neural networks learn, training neural networks from scratch, implementing backpropagation in python",
+        "datePublished": "",
+        "dateModified": "",
+        "author": {
+          "@type": "Organization",
+          "name": "Andrej Karpathy",
+          "url": "https://www.youtube.com"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "ai_labs",
+        "inLanguage": "en-US",
+        "wordCount": 0,
+        "articleBody": ""
+      }
+    },
+    {
+      "source_id": "yt_ai_explained",
+      "source_name": "AI Explained",
+      "title": "A Model Explosion: GPT 5.6 Sol, Grok 4.5 and Meta Muse Rewrite the Rules",
+      "url": "https://www.youtube.com/watch?v=mWlCituW7wo",
+      "description": "",
+      "published": "",
+      "score": 60,
+      "category": "ai_labs",
+      "weight": 8,
+      "format": "video",
+      "geo_title": "What is driving the new AI model revolution?",
+      "geo_keywords": [
+        "gpt 5.6 sol",
+        "grok 4.5",
+        "meta muse",
+        "ai model comparison",
+        "latest ai models",
+        "advancements in artificial intelligence",
+        "what are the newest ai models",
+        "how do gpt 5.6 sol and grok 4.5 compare to each other",
+        "what technologies are driving ai model improvements"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "What is driving the new AI model revolution?",
+        "url": "https://www.youtube.com/watch?v=mWlCituW7wo",
+        "description": "",
+        "keywords": "gpt 5.6 sol, grok 4.5, meta muse, ai model comparison, latest ai models, advancements in artificial intelligence, what are the newest ai models, how do gpt 5.6 sol and grok 4.5 compare to each other",
+        "datePublished": "",
+        "dateModified": "",
+        "author": {
+          "@type": "Organization",
+          "name": "AI Explained",
+          "url": "https://www.youtube.com"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "ai_labs",
+        "inLanguage": "en-US",
+        "wordCount": 0,
+        "articleBody": ""
+      }
+    },
+    {
+      "source_id": "yt_ai_explained",
+      "source_name": "AI Explained",
+      "title": "Fable 5 vs GPT 5.6 Sol: The Early Results",
+      "url": "https://www.youtube.com/watch?v=y24lF1q4SFY",
+      "description": "",
+      "published": "",
+      "score": 60,
+      "category": "ai_labs",
+      "weight": 8,
+      "format": "video",
+      "geo_title": "Why Is Fable 5 Competing Against GPT 5.6 Sol?",
+      "geo_keywords": [
+        "fable 5 vs gpt 5.6 sol",
+        "ai language model comparison",
+        "early results in ai technology",
+        "fable 5 performance analysis",
+        "gpt 5.6 sol review",
+        "ai model benchmarking",
+        "natural language processing models comparison",
+        "chatbot technology evaluation",
+        "ai development trends",
+        "what are the differences between fable 5 and gpt 5.6 sol"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "Why Is Fable 5 Competing Against GPT 5.6 Sol?",
+        "url": "https://www.youtube.com/watch?v=y24lF1q4SFY",
+        "description": "",
+        "keywords": "fable 5 vs gpt 5.6 sol, ai language model comparison, early results in ai technology, fable 5 performance analysis, gpt 5.6 sol review, ai model benchmarking, natural language processing models comparison, chatbot technology evaluation",
+        "datePublished": "",
+        "dateModified": "",
+        "author": {
+          "@type": "Organization",
+          "name": "AI Explained",
+          "url": "https://www.youtube.com"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "ai_labs",
+        "inLanguage": "en-US",
+        "wordCount": 0,
+        "articleBody": ""
+      }
+    },
+    {
+      "source_id": "yt_ai_explained",
+      "source_name": "AI Explained",
+      "title": "Claude Fable Blocked - 11 Quiet Details on What’s Next",
+      "url": "https://www.youtube.com/watch?v=Qj71N0tBzRo",
+      "description": "",
+      "published": "",
+      "score": 60,
+      "category": "ai_labs",
+      "weight": 8,
+      "format": "video",
+      "geo_title": "Why Is Claude Fable Being Blocked, and What's Next?",
+      "geo_keywords": [
+        "claude fable blocked",
+        "next steps for claude fable",
+        "claude fable update",
+        "what to expect from claude fable",
+        "claude fable development",
+        "claude fable release date",
+        "claude fable technology",
+        "ai model updates",
+        "future of ai models",
+        "ai development process",
+        "claude fable user impact",
+        "claude fable timeline"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "Why Is Claude Fable Being Blocked, and What's Next?",
+        "url": "https://www.youtube.com/watch?v=Qj71N0tBzRo",
+        "description": "",
+        "keywords": "claude fable blocked, next steps for claude fable, claude fable update, what to expect from claude fable, claude fable development, claude fable release date, claude fable technology, ai model updates",
+        "datePublished": "",
+        "dateModified": "",
+        "author": {
+          "@type": "Organization",
+          "name": "AI Explained",
+          "url": "https://www.youtube.com"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "ai_labs",
+        "inLanguage": "en-US",
+        "wordCount": 0,
+        "articleBody": ""
+      }
+    },
+    {
+      "source_id": "yt_ai_explained",
+      "source_name": "AI Explained",
+      "title": "Claude Fable 5 - Full 319 page Breakdown",
+      "url": "https://www.youtube.com/watch?v=haK1KoQWm18",
+      "description": "",
+      "published": "",
+      "score": 60,
+      "category": "ai_labs",
+      "weight": 8,
+      "format": "video",
+      "geo_title": "Why Is Claude Fable 5's 319 Page Breakdown So Comprehensive?",
+      "geo_keywords": [
+        "claude fable 5",
+        "full breakdown claude fable 5",
+        "detailed analysis of claude fable 5",
+        "claude fable 5 review",
+        "what is claude fable 5",
+        "claude fable 5 features",
+        "claude fable 5 release date",
+        "claude fable 5 capabilities"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "Why Is Claude Fable 5's 319 Page Breakdown So Comprehensive?",
+        "url": "https://www.youtube.com/watch?v=haK1KoQWm18",
+        "description": "",
+        "keywords": "claude fable 5, full breakdown claude fable 5, detailed analysis of claude fable 5, claude fable 5 review, what is claude fable 5, claude fable 5 features, claude fable 5 release date, claude fable 5 capabilities",
+        "datePublished": "",
+        "dateModified": "",
+        "author": {
+          "@type": "Organization",
+          "name": "AI Explained",
+          "url": "https://www.youtube.com"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "ai_labs",
+        "inLanguage": "en-US",
+        "wordCount": 0,
+        "articleBody": ""
+      }
+    },
+    {
+      "source_id": "yt_ai_explained",
+      "source_name": "AI Explained",
+      "title": "New Claude Opus 4.8: 15 Things You May’ve Missed",
+      "url": "https://www.youtube.com/watch?v=aJvP3nXWkwM",
+      "description": "",
+      "published": "",
+      "score": 60,
+      "category": "ai_labs",
+      "weight": 8,
+      "format": "video",
+      "geo_title": "Why is the new Claude Opus 4.8 update important?",
+      "geo_keywords": [
+        "claude opus 4.8 features",
+        "generative ai updates",
+        "chatgpt vs claude",
+        "latest ai technology",
+        "what's new in claude",
+        "advancements in ai",
+        "how does claude compare",
+        "ai development news"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "Why is the new Claude Opus 4.8 update important?",
+        "url": "https://www.youtube.com/watch?v=aJvP3nXWkwM",
+        "description": "",
+        "keywords": "claude opus 4.8 features, generative ai updates, chatgpt vs claude, latest ai technology, what's new in claude, advancements in ai, how does claude compare, ai development news",
+        "datePublished": "",
+        "dateModified": "",
+        "author": {
+          "@type": "Organization",
+          "name": "AI Explained",
+          "url": "https://www.youtube.com"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "ai_labs",
+        "inLanguage": "en-US",
+        "wordCount": 0,
+        "articleBody": ""
+      }
+    },
+    {
+      "source_id": "yt_ai_explained",
+      "source_name": "AI Explained",
+      "title": "GPT 5.5 Arrives, DeepSeek V4 Drops, and the Compute War Intensifies",
+      "url": "https://www.youtube.com/watch?v=jz0rNhfAKo8",
+      "description": "",
+      "published": "",
+      "score": 60,
+      "category": "ai_labs",
+      "weight": 8,
+      "format": "video",
+      "geo_title": "What is driving the latest AI model releases and compute competition?",
+      "geo_keywords": [
+        "gpt 5.5 release",
+        "deepseek v4 update",
+        "ai compute war",
+        "natural language processing advancements",
+        "machine learning technology",
+        "ai model competition",
+        "latest ai developments",
+        "computational power in ai",
+        "gpt model improvements",
+        "deepseek search engine upgrade",
+        "ai tech news",
+        "artificial intelligence breakthroughs"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "What is driving the latest AI model releases and compute competition?",
+        "url": "https://www.youtube.com/watch?v=jz0rNhfAKo8",
+        "description": "",
+        "keywords": "gpt 5.5 release, deepseek v4 update, ai compute war, natural language processing advancements, machine learning technology, ai model competition, latest ai developments, computational power in ai",
+        "datePublished": "",
+        "dateModified": "",
+        "author": {
+          "@type": "Organization",
+          "name": "AI Explained",
+          "url": "https://www.youtube.com"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "ai_labs",
+        "inLanguage": "en-US",
+        "wordCount": 0,
+        "articleBody": ""
+      }
+    },
+    {
+      "source_id": "yt_ai_explained",
+      "source_name": "AI Explained",
+      "title": "Claude Opus 4.7 - A New Frontier, in Performance … and Drama",
+      "url": "https://www.youtube.com/watch?v=QVJcdfkRpH8",
+      "description": "",
+      "published": "",
+      "score": 60,
+      "category": "ai_labs",
+      "weight": 8,
+      "format": "video",
+      "geo_title": "Why Is Claude Opus 4.7 Paving a New Frontier in Performance and Drama?",
+      "geo_keywords": [
+        "claude opus 4.7",
+        "ai language model update",
+        "performance improvement in ai models",
+        "chatbot technology advancement",
+        "conversational ai upgrade",
+        "natural language processing enhancement",
+        "ai development process",
+        "what are the latest advancements in ai",
+        "how does claude opus 4.7 improve user interaction",
+        "what questions does claude opus 4.7 answer better"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "Why Is Claude Opus 4.7 Paving a New Frontier in Performance and Drama?",
+        "url": "https://www.youtube.com/watch?v=QVJcdfkRpH8",
+        "description": "",
+        "keywords": "claude opus 4.7, ai language model update, performance improvement in ai models, chatbot technology advancement, conversational ai upgrade, natural language processing enhancement, ai development process, what are the latest advancements in ai",
+        "datePublished": "",
+        "dateModified": "",
+        "author": {
+          "@type": "Organization",
+          "name": "AI Explained",
+          "url": "https://www.youtube.com"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "ai_labs",
+        "inLanguage": "en-US",
+        "wordCount": 0,
+        "articleBody": ""
+      }
+    },
+    {
+      "source_id": "yt_ai_explained",
+      "source_name": "AI Explained",
+      "title": "Claude Mythos: Highlights from 244-page Release",
+      "url": "https://www.youtube.com/watch?v=txx6ec6MLNY",
+      "description": "",
+      "published": "",
+      "score": 60,
+      "category": "ai_labs",
+      "weight": 8,
+      "format": "video",
+      "geo_title": "Why is the 244-page Claude Mythos release causing a stir?",
+      "geo_keywords": [
+        "claude mythos",
+        "anthropic claude",
+        "ai language model",
+        "244-page release",
+        "claude capabilities",
+        "claude technology",
+        "ai chatbot",
+        "what is claude",
+        "claude vs gpt",
+        "claude features",
+        "claude performance metrics"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "Why is the 244-page Claude Mythos release causing a stir?",
+        "url": "https://www.youtube.com/watch?v=txx6ec6MLNY",
+        "description": "",
+        "keywords": "claude mythos, anthropic claude, ai language model, 244-page release, claude capabilities, claude technology, ai chatbot, what is claude",
+        "datePublished": "",
+        "dateModified": "",
+        "author": {
+          "@type": "Organization",
+          "name": "AI Explained",
+          "url": "https://www.youtube.com"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "ai_labs",
+        "inLanguage": "en-US",
+        "wordCount": 0,
+        "articleBody": ""
+      }
+    },
+    {
+      "source_id": "yt_ai_explained",
+      "source_name": "AI Explained",
+      "title": "Two AI Models Set to “stir government urgency”, But Will This Challenge Undo Them?",
+      "url": "https://www.youtube.com/watch?v=s4tptozUJ8Y",
+      "description": "",
+      "published": "",
+      "score": 60,
+      "category": "ai_labs",
+      "weight": 8,
+      "format": "video",
+      "geo_title": "Why Is Government Urgency Stirred by Two AI Models?",
+      "geo_keywords": [
+        "ai models",
+        "government response to ai",
+        "challenges in ai development",
+        "impact of ai on policy",
+        "ai technology advancements",
+        "regulatory challenges for ai",
+        "ethical considerations in ai deployment",
+        "how ai is changing governance",
+        "will ai models reshape policy-making",
+        "can ai overcome regulatory hurdles"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "Why Is Government Urgency Stirred by Two AI Models?",
+        "url": "https://www.youtube.com/watch?v=s4tptozUJ8Y",
+        "description": "",
+        "keywords": "ai models, government response to ai, challenges in ai development, impact of ai on policy, ai technology advancements, regulatory challenges for ai, ethical considerations in ai deployment, how ai is changing governance",
+        "datePublished": "",
+        "dateModified": "",
+        "author": {
+          "@type": "Organization",
+          "name": "AI Explained",
+          "url": "https://www.youtube.com"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "ai_labs",
+        "inLanguage": "en-US",
+        "wordCount": 0,
+        "articleBody": ""
+      }
+    },
+    {
+      "source_id": "yt_ai_explained",
+      "source_name": "AI Explained",
+      "title": "What the New ChatGPT 5.4 Means for the World",
+      "url": "https://www.youtube.com/watch?v=zizoDORjmlQ",
+      "description": "",
+      "published": "",
+      "score": 60,
+      "category": "ai_labs",
+      "weight": 8,
+      "format": "video",
+      "geo_title": "A Look at What the New ChatGPT 5.4 Means for the World",
+      "geo_keywords": [
+        "chatgpt update",
+        "chatgpt 5.4 release",
+        "ai technology advancements",
+        "artificial intelligence developments",
+        "what is new in chatgpt 5.4",
+        "how does chatgpt 5.4 improve",
+        "chatgpt capabilities",
+        "future of ai technology",
+        "ai impact on society",
+        "latest in ai news"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "A Look at What the New ChatGPT 5.4 Means for the World",
+        "url": "https://www.youtube.com/watch?v=zizoDORjmlQ",
+        "description": "",
+        "keywords": "chatgpt update, chatgpt 5.4 release, ai technology advancements, artificial intelligence developments, what is new in chatgpt 5.4, how does chatgpt 5.4 improve, chatgpt capabilities, future of ai technology",
+        "datePublished": "",
+        "dateModified": "",
+        "author": {
+          "@type": "Organization",
+          "name": "AI Explained",
+          "url": "https://www.youtube.com"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "ai_labs",
+        "inLanguage": "en-US",
+        "wordCount": 0,
+        "articleBody": ""
+      }
+    },
+    {
+      "source_id": "yt_ai_explained",
+      "source_name": "AI Explained",
+      "title": "Deadline Day for Autonomous AI Weapons & Mass Surveillance",
+      "url": "https://www.youtube.com/watch?v=Cru804JMjPI",
+      "description": "",
+      "published": "",
+      "score": 60,
+      "category": "ai_labs",
+      "weight": 8,
+      "format": "video",
+      "geo_title": "Why is there a deadline day for autonomous AI weapons and mass surveillance?",
+      "geo_keywords": [
+        "autonomous ai weapons",
+        "mass surveillance technology",
+        "ethical ai development",
+        "regulations on autonomous systems",
+        "ai weaponization concerns",
+        "international ai policy",
+        "ai ethics and law",
+        "autonomous weapon systems",
+        "surveillance technology implications",
+        "future of ai in warfare",
+        "ai arms race",
+        "sge optimization for ai news"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "Why is there a deadline day for autonomous AI weapons and mass surveillance?",
+        "url": "https://www.youtube.com/watch?v=Cru804JMjPI",
+        "description": "",
+        "keywords": "autonomous ai weapons, mass surveillance technology, ethical ai development, regulations on autonomous systems, ai weaponization concerns, international ai policy, ai ethics and law, autonomous weapon systems",
+        "datePublished": "",
+        "dateModified": "",
+        "author": {
+          "@type": "Organization",
+          "name": "AI Explained",
+          "url": "https://www.youtube.com"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "ai_labs",
+        "inLanguage": "en-US",
+        "wordCount": 0,
+        "articleBody": ""
+      }
+    },
+    {
+      "source_id": "yt_ai_explained",
+      "source_name": "AI Explained",
+      "title": "Gemini 3.1 Pro and the Downfall of Benchmarks: Welcome to the Vibe Era of AI",
+      "url": "https://www.youtube.com/watch?v=2_DPnzoiHaY",
+      "description": "",
+      "published": "",
+      "score": 60,
+      "category": "ai_labs",
+      "weight": 8,
+      "format": "video",
+      "geo_title": "What is Gemini 3.1 Pro Bringing to the Vibe Era of AI?",
+      "geo_keywords": [
+        "ai benchmarks",
+        "vibe era ai",
+        "gemini 3.1 pro",
+        "natural language processing advancements",
+        "generative ai technology",
+        "ai content creation",
+        "what is the vibe era in ai",
+        "how does gemini 3.1 pro change benchmarks",
+        "what are the key features of gemini 3.1 pro"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "What is Gemini 3.1 Pro Bringing to the Vibe Era of AI?",
+        "url": "https://www.youtube.com/watch?v=2_DPnzoiHaY",
+        "description": "",
+        "keywords": "ai benchmarks, vibe era ai, gemini 3.1 pro, natural language processing advancements, generative ai technology, ai content creation, what is the vibe era in ai, how does gemini 3.1 pro change benchmarks",
+        "datePublished": "",
+        "dateModified": "",
+        "author": {
+          "@type": "Organization",
+          "name": "AI Explained",
+          "url": "https://www.youtube.com"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "ai_labs",
+        "inLanguage": "en-US",
+        "wordCount": 0,
+        "articleBody": ""
+      }
+    },
+    {
+      "source_id": "yt_ai_explained",
+      "source_name": "AI Explained",
+      "title": "The Two Best AI Models/Enemies Just Got Released Simultaneously",
+      "url": "https://www.youtube.com/watch?v=1PxEziv5XIU",
+      "description": "",
+      "published": "",
+      "score": 60,
+      "category": "ai_labs",
+      "weight": 8,
+      "format": "video",
+      "geo_title": "Why Is Simultaneous Release Of Top AI Models Causing Competition?",
+      "geo_keywords": [
+        "ai models comparison",
+        "best ai models 2023",
+        "ai model competition",
+        "ai technology advancements",
+        "ai model release",
+        "ai model performance",
+        "which ai model is better",
+        "latest ai developments",
+        "ai model rivalry",
+        "ai model evaluation",
+        "ai model testing",
+        "ai model benchmarking"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "Why Is Simultaneous Release Of Top AI Models Causing Competition?",
+        "url": "https://www.youtube.com/watch?v=1PxEziv5XIU",
+        "description": "",
+        "keywords": "ai models comparison, best ai models 2023, ai model competition, ai technology advancements, ai model release, ai model performance, which ai model is better, latest ai developments",
+        "datePublished": "",
+        "dateModified": "",
+        "author": {
+          "@type": "Organization",
+          "name": "AI Explained",
+          "url": "https://www.youtube.com"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "ai_labs",
+        "inLanguage": "en-US",
+        "wordCount": 0,
+        "articleBody": ""
+      }
+    },
+    {
+      "source_id": "yt_ai_explained",
+      "source_name": "AI Explained",
+      "title": "Claude AI Co-founder Publishes 4 Big Claims about Near Future: Breakdown",
+      "url": "https://www.youtube.com/watch?v=Iar4yweKGoI",
+      "description": "",
+      "published": "",
+      "score": 60,
+      "category": "ai_labs",
+      "weight": 8,
+      "format": "video",
+      "geo_title": "Why Are Claude AI's Co-Founders Making These 4 Major Claims?",
+      "geo_keywords": [
+        "claude ai claims future",
+        "claude ai technology advancements",
+        "claude ai impact on tech industry",
+        "what does claude ai claim for the future",
+        "near future ai developments",
+        "claude ai breakthroughs analysis",
+        "how will claude ai change technology",
+        "claude ai predictions 2023",
+        "what to expect from claude ai in the coming years"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "Why Are Claude AI's Co-Founders Making These 4 Major Claims?",
+        "url": "https://www.youtube.com/watch?v=Iar4yweKGoI",
+        "description": "",
+        "keywords": "claude ai claims future, claude ai technology advancements, claude ai impact on tech industry, what does claude ai claim for the future, near future ai developments, claude ai breakthroughs analysis, how will claude ai change technology, claude ai predictions 2023",
+        "datePublished": "",
+        "dateModified": "",
+        "author": {
+          "@type": "Organization",
+          "name": "AI Explained",
+          "url": "https://www.youtube.com"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "ai_labs",
+        "inLanguage": "en-US",
+        "wordCount": 0,
+        "articleBody": ""
+      }
+    },
+    {
+      "source_id": "hn_ai_24h",
+      "source_name": "HN top AI 24h",
+      "title": "The Three-Second Theft: Why AI Voice Fraud Outruns Every Defence",
+      "url": "https://smarterarticles.co.uk/the-three-second-theft-why-ai-voice-fraud-outruns-every-defence",
+      "description": "",
+      "published": "2026-07-15T13:18:15+00:00",
+      "score": 59,
+      "category": "trending",
+      "weight": 8,
+      "points": 169,
+      "comments_url": "https://news.ycombinator.com/item?id=48920432",
+      "geo_title": "Why Is AI Voice Fraud Outrunning Defenses?",
+      "geo_keywords": [
+        "ai voice fraud",
+        "three-second theft",
+        "ai security",
+        "voice biometrics",
+        "fraud detection",
+        "cybersecurity threats",
+        "voice authentication",
+        "how ai voice fraud works",
+        "why ai voice fraud is hard to detect",
+        "what can be done against ai voice fraud"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "Why Is AI Voice Fraud Outrunning Defenses?",
+        "url": "https://smarterarticles.co.uk/the-three-second-theft-why-ai-voice-fraud-outruns-every-defence",
+        "description": "",
+        "keywords": "ai voice fraud, three-second theft, ai security, voice biometrics, fraud detection, cybersecurity threats, voice authentication, how ai voice fraud works",
+        "datePublished": "2026-07-15T13:18:15+00:00",
+        "dateModified": "2026-07-15T13:18:15+00:00",
+        "author": {
+          "@type": "Organization",
+          "name": "HN top AI 24h",
+          "url": "https://smarterarticles.co.uk"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "trending",
+        "inLanguage": "en-US",
+        "wordCount": 0,
+        "articleBody": ""
+      }
+    },
+    {
+      "source_id": "hn_ai_24h",
+      "source_name": "HN top AI 24h",
+      "title": "Governments, companies, nonprofits should invest in free, open source AI [pdf]",
+      "url": "https://www.siegelendowment.org/wp-content/uploads/2026/07/fortune-david-siegel-open-source-ai.pdf",
+      "description": "",
+      "published": "2026-07-15T21:16:36+00:00",
+      "score": 58,
+      "category": "trending",
+      "weight": 8,
+      "points": 145,
+      "comments_url": "https://news.ycombinator.com/item?id=48927095",
+      "geo_title": "Why governments, companies, nonprofits should invest in free, open-source AI",
+      "geo_keywords": [
+        "ai investment",
+        "free ai",
+        "open source ai",
+        "government ai funding",
+        "corporate ai support",
+        "nonprofit ai initiatives",
+        "ai technology trends",
+        "ai ethics and policy",
+        "what is open source ai",
+        "how can governments promote ai",
+        "companies investing in ai",
+        "benefits of free ai"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "Why governments, companies, nonprofits should invest in free, open-source AI",
+        "url": "https://www.siegelendowment.org/wp-content/uploads/2026/07/fortune-david-siegel-open-source-ai.pdf",
+        "description": "",
+        "keywords": "ai investment, free ai, open source ai, government ai funding, corporate ai support, nonprofit ai initiatives, ai technology trends, ai ethics and policy",
+        "datePublished": "2026-07-15T21:16:36+00:00",
+        "dateModified": "2026-07-15T21:16:36+00:00",
+        "author": {
+          "@type": "Organization",
+          "name": "HN top AI 24h",
+          "url": "https://www.siegelendowment.org"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "trending",
+        "inLanguage": "en-US",
+        "wordCount": 0,
+        "articleBody": ""
+      }
+    },
+    {
+      "source_id": "hn_llm_24h",
+      "source_name": "HN top LLM 24h",
+      "title": "Inkling – Open-Weights 975B Parameter LLM",
+      "url": "https://thinkingmachines.ai/inkling/",
+      "description": "",
+      "published": "2026-07-15T18:14:23+00:00",
+      "score": 56,
+      "category": "trending",
+      "weight": 9,
+      "points": 121,
+      "comments_url": "https://news.ycombinator.com/item?id=48924929",
+      "geo_title": "What is the Inkling Open-Weights 975B Parameter LLM?",
+      "geo_keywords": [
+        "inking open-weights llm",
+        "large language model architecture",
+        "training techniques for llms",
+        "open-weights inkling parameters",
+        "advancements in ai technology",
+        "how does inkling work",
+        "what are the key features of inkling",
+        "inkling vs other llms",
+        "open-weights methodology in llm development"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "What is the Inkling Open-Weights 975B Parameter LLM?",
+        "url": "https://thinkingmachines.ai/inkling/",
+        "description": "",
+        "keywords": "inking open-weights llm, large language model architecture, training techniques for llms, open-weights inkling parameters, advancements in ai technology, how does inkling work, what are the key features of inkling, inkling vs other llms",
+        "datePublished": "2026-07-15T18:14:23+00:00",
+        "dateModified": "2026-07-15T18:14:23+00:00",
+        "author": {
+          "@type": "Organization",
+          "name": "HN top LLM 24h",
+          "url": "https://thinkingmachines.ai"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "trending",
+        "inLanguage": "en-US",
+        "wordCount": 0,
+        "articleBody": ""
+      }
+    },
+    {
+      "source_id": "ollama_releases",
+      "source_name": "Ollama releases",
+      "title": "Ollama releases: v0.32.1",
+      "url": "https://github.com/ollama/ollama/releases/tag/v0.32.1",
+      "description": "## What's Changed\r\n- Improved Gemma 4 tool calling and multi-turn reasoning, including more reliable tool-response continuations\r\n- Fixed a recurrent MLX model cache leak that could increase memory use across requests, and improved cache snapshot performance\r\n- MLX text model loading now respects `O",
+      "published": "2026-07-16T03:27:23Z",
+      "score": 54,
+      "category": "releases",
+      "weight": 9,
+      "tag": "v0.32.1",
+      "geo_title": "What is included in Ollama release v0.32.1?",
+      "geo_keywords": [
+        "ollama release v0321",
+        "gemma 4 tool calling improvements",
+        "multi-turn reasoning enhancements",
+        "mlx model cache leak fix",
+        "ollama version update",
+        "chatgpt comparison",
+        "perplexity ai comparison",
+        "sge optimization updates"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "What is included in Ollama release v0.32.1?",
+        "url": "https://github.com/ollama/ollama/releases/tag/v0.32.1",
+        "description": "## What's Changed\r\n- Improved Gemma 4 tool calling and multi-turn reasoning, including more reliable tool-response continuations\r\n- Fixed a recurrent MLX model cache leak that could increase memory use across requests, and improved cache snapshot performance\r\n- MLX text model loading now respects `O",
+        "keywords": "ollama release v0321, gemma 4 tool calling improvements, multi-turn reasoning enhancements, mlx model cache leak fix, ollama version update, chatgpt comparison, perplexity ai comparison, sge optimization updates",
+        "datePublished": "2026-07-16T03:27:23Z",
+        "dateModified": "2026-07-16T03:27:23Z",
+        "author": {
+          "@type": "Organization",
+          "name": "Ollama releases",
+          "url": "https://github.com"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "releases",
+        "inLanguage": "en-US",
+        "wordCount": 45,
+        "articleBody": "## What's Changed\r\n- Improved Gemma 4 tool calling and multi-turn reasoning, including more reliable tool-response continuations\r\n- Fixed a recurrent MLX model cache leak that could increase memory use across requests, and improved cache snapshot performance\r\n- MLX text model loading now respects `O"
+      }
+    },
+    {
+      "source_id": "hn_llm_24h",
+      "source_name": "HN top LLM 24h",
+      "title": "DSLs Enable Reliable Use of LLMs",
+      "url": "https://martinfowler.com/articles/llm-and-dsls.html",
+      "description": "",
+      "published": "2026-07-15T10:11:11+00:00",
+      "score": 53,
+      "category": "trending",
+      "weight": 9,
+      "points": 113,
+      "comments_url": "https://news.ycombinator.com/item?id=48918575",
+      "geo_title": "Why are DSLs crucial for LLMs?",
+      "geo_keywords": [
+        "domain specific languages",
+        "llm reliability",
+        "chatgpt integration",
+        "perplexity ai",
+        "sge optimization",
+        "natural language processing",
+        "machine learning models",
+        "reliable llm usage",
+        "how dsls improve llm performance",
+        "what are domain specific languages for llms",
+        "why use dsls with llms"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "Why are DSLs crucial for LLMs?",
+        "url": "https://martinfowler.com/articles/llm-and-dsls.html",
+        "description": "",
+        "keywords": "domain specific languages, llm reliability, chatgpt integration, perplexity ai, sge optimization, natural language processing, machine learning models, reliable llm usage",
+        "datePublished": "2026-07-15T10:11:11+00:00",
+        "dateModified": "2026-07-15T10:11:11+00:00",
+        "author": {
+          "@type": "Organization",
+          "name": "HN top LLM 24h",
+          "url": "https://martinfowler.com"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "trending",
+        "inLanguage": "en-US",
+        "wordCount": 0,
+        "articleBody": ""
+      }
+    }
+  ],
+  "geo_metadata": {
+    "date": "2026-07-16",
+    "generated_at": "2026-07-16T09:01:07.279888+00:00",
+    "schemas_generated": 30,
+    "topics": [
+      "244-page release",
+      "advancements in ai",
+      "advancements in ai technology",
+      "advancements in artificial intelligence",
+      "agent architecture",
+      "ai agent design principles",
+      "ai alignment techniques",
+      "ai and creativity",
+      "ai arms race",
+      "ai art generation",
+      "ai art styles",
+      "ai benchmarks",
+      "ai chatbot",
+      "ai chatbots",
+      "ai compute war",
+      "ai content creation",
+      "ai development news",
+      "ai development process",
+      "ai development trends",
+      "ai dreamsteam",
+      "ai ethics and law",
+      "ai ethics and policy",
+      "ai for customer service",
+      "ai impact on society",
+      "ai investment",
+      "ai language model",
+      "ai language model comparison",
+      "ai language model update",
+      "ai lawmaking",
+      "ai model benchmarking",
+      "ai model comparison",
+      "ai model competition",
+      "ai model evaluation",
+      "ai model performance",
+      "ai model release",
+      "ai model rivalry",
+      "ai model testing",
+      "ai model updates",
+      "ai models",
+      "ai models comparison",
+      "ai safety",
+      "ai safety improvement",
+      "ai security",
+      "ai tech news",
+      "ai technology advancements",
+      "ai technology trends",
+      "ai text preprocessing",
+      "ai voice fraud",
+      "ai weaponization concerns",
+      "anthropic claude"
+    ],
+    "faq_items": [
+      {
+        "question": "What actions is the US taking to ensure AI safety?",
+        "answer": "The US is implementing both state and federal policies aimed at enhancing AI safety through coordinated efforts."
+      },
+      {
+        "question": "Can you explain what GPT-Red does?",
+        "answer": "GPT-Red is a model designed to improve its own robustness, allowing for self-improvement processes that enhance reliability."
+      },
+      {
+        "question": "What did Shippy's research reveal about building agents?",
+        "answer": "Shippy’s work highlighted key insights and challenges in developing effective and efficient autonomous agents."
+      },
+      {
+        "question": "How does the Real World VoiceEQ tool measure voice AI quality?",
+        "answer": "Real World VoiceEQ evaluates the human-like qualities of voice AI, focusing on naturalness and emotional resonance to ensure realistic interactions."
+      },
+      {
+        "question": "What is involved in using Large Language Models (LLMs)?",
+        "answer": "Using LLMs involves integrating these powerful models into various applications, leveraging their vast knowledge to generate text or perform tasks efficiently."
+      }
+    ]
+  },
+  "geo_enriched": true,
+  "geo_enriched_at": "2026-07-16T09:01:07.279888+00:00"
+}

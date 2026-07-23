@@ -1,0 +1,34 @@
+{
+  "date": "2026-07-14",
+  "generated_at": "2026-07-18T09:00:58.620606+00:00",
+  "results": {
+    "hn_ai_24h": {
+      "verification_status": "unconfirmed",
+      "sources_count": 1,
+      "sources": [
+        "HN top AI 24h"
+      ]
+    },
+    "ggml_releases": {
+      "verification_status": "unconfirmed",
+      "sources_count": 1,
+      "sources": [
+        "ggml/llama.cpp releases"
+      ]
+    },
+    "hn_llm_24h": {
+      "verification_status": "unconfirmed",
+      "sources_count": 1,
+      "sources": [
+        "HN top LLM 24h"
+      ]
+    },
+    "vllm_releases": {
+      "verification_status": "unconfirmed",
+      "sources_count": 1,
+      "sources": [
+        "vLLM releases"
+      ]
+    }
+  }
+}

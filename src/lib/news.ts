@@ -67,7 +67,7 @@ export function getAllDates(): string[] {
     if (!fs.existsSync(DATA_DIR)) return [];
     const files = fs.readdirSync(DATA_DIR);
     return files
-      .filter((f) => f.endsWith(".json") && f !== "metadata.json" && !f.includes("_briefing") && !f.includes("_geo"))
+      .filter((f) => f.endsWith(".json") && f !== "metadata.json" && !f.includes("_briefing") && !f.includes("_geo") && !f.includes("_verification"))
       .map((f) => f.replace(".json", ""))
       .sort()
       .reverse();

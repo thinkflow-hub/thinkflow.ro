@@ -1,0 +1,55 @@
+{
+  "date": "2026-07-20",
+  "generated_at": "2026-07-23T01:00:03.315232+00:00",
+  "results": {
+    "ollama_releases": {
+      "verification_status": "unconfirmed",
+      "sources_count": 1,
+      "sources": [
+        "Ollama releases"
+      ]
+    },
+    "trending_llm": {
+      "verification_status": "unconfirmed",
+      "sources_count": 1,
+      "sources": [
+        "GitHub Trending — LLM"
+      ]
+    },
+    "nousresearch_releases": {
+      "verification_status": "unconfirmed",
+      "sources_count": 1,
+      "sources": [
+        "NousResearch releases"
+      ]
+    },
+    "hn_ai_24h": {
+      "verification_status": "unconfirmed",
+      "sources_count": 1,
+      "sources": [
+        "HN top AI 24h"
+      ]
+    },
+    "ggml_releases": {
+      "verification_status": "unconfirmed",
+      "sources_count": 1,
+      "sources": [
+        "ggml/llama.cpp releases"
+      ]
+    },
+    "hn_llm_24h": {
+      "verification_status": "unconfirmed",
+      "sources_count": 1,
+      "sources": [
+        "HN top LLM 24h"
+      ]
+    },
+    "trending_agent": {
+      "verification_status": "unconfirmed",
+      "sources_count": 1,
+      "sources": [
+        "GitHub Trending — AI Agents"
+      ]
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
-  "date": "2026-07-10",
-  "generated_at": "2026-07-14T05:00:02.554352+00:00",
+  "date": "2026-07-15",
+  "generated_at": "2026-07-19T05:00:04.646058+00:00",
   "results": {
     "hn_ai_24h": {
       "verification_status": "unconfirmed",
@@ -9,11 +9,11 @@
         "HN top AI 24h"
       ]
     },
-    "ggml_releases": {
+    "hn_llm_24h": {
       "verification_status": "unconfirmed",
       "sources_count": 1,
       "sources": [
-        "ggml/llama.cpp releases"
+        "HN top LLM 24h"
       ]
     }
   }

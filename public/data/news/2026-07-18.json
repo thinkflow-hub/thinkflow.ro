@@ -1,0 +1,1184 @@
+{
+  "date": "2026-07-18",
+  "last_updated": "2026-07-18T06:00:01.538713+00:00",
+  "total_items": 22,
+  "items": [
+    {
+      "source_id": "openai_blog",
+      "source_name": "OpenAI Blog",
+      "title": "A scorecard for the AI age",
+      "url": "https://openai.com/index/a-scorecard-for-the-ai-age",
+      "description": "Sarah Friar, CFO of OpenAI, introduces a practical AI scorecard to measure ROI through useful work, cost per successful task, dependability, and return on compute.",
+      "published": "Fri, 17 Jul 2026 10:00:00 GMT",
+      "score": 75,
+      "category": "ai_labs",
+      "weight": 10,
+      "format": "article",
+      "geo_title": "How does OpenAI's AI scorecard measure ROI?",
+      "geo_keywords": [
+        "ai roi",
+        "ai scorecard",
+        "openai cfo",
+        "ai cost analysis",
+        "ai success metrics",
+        "ai compute efficiency",
+        "ai financial impact",
+        "how does ai generate value",
+        "what is an ai scorecard",
+        "measuring ai effectiveness",
+        "ai return on investment",
+        "ai task success rate"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "How does OpenAI's AI scorecard measure ROI?",
+        "url": "https://openai.com/index/a-scorecard-for-the-ai-age",
+        "description": "Sarah Friar, CFO of OpenAI, introduces a practical AI scorecard to measure ROI through useful work, cost per successful task, dependability, and return on compute.",
+        "keywords": "ai roi, ai scorecard, openai cfo, ai cost analysis, ai success metrics, ai compute efficiency, ai financial impact, how does ai generate value",
+        "datePublished": "Fri, 17 Jul 2026 10:00:00 GMT",
+        "dateModified": "Fri, 17 Jul 2026 10:00:00 GMT",
+        "author": {
+          "@type": "Organization",
+          "name": "OpenAI Blog",
+          "url": "https://openai.com"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "ai_labs",
+        "inLanguage": "en-US",
+        "wordCount": 25,
+        "articleBody": "Sarah Friar, CFO of OpenAI, introduces a practical AI scorecard to measure ROI through useful work, cost per successful task, dependability, and return on compute."
+      }
+    },
+    {
+      "source_id": "huggingface_blog",
+      "source_name": "Hugging Face Blog",
+      "title": "Fine-tune video and image models at scale with NVIDIA NeMo Automodel and 🤗 Diffusers",
+      "url": "https://huggingface.co/blog/nvidia/scale-diffusers-finetuning-nemo-automodel",
+      "description": "",
+      "published": "Fri, 17 Jul 2026 15:57:54 GMT",
+      "score": 67,
+      "category": "ai_labs",
+      "weight": 9,
+      "format": "article",
+      "geo_title": "How does NVIDIA NeMo Automodel and 🤗 Diffusers fine-tune video and image models?",
+      "geo_keywords": [
+        "fine-tune video models",
+        "nvidia nemo automodel",
+        "diffusers library",
+        "tuning image models at scale",
+        "ai model optimization",
+        "large language models",
+        "generative ai technologies",
+        "scaling up video and image processing",
+        "automated machine learning for visuals",
+        "optimizing deep learning models",
+        "neural network fine-tuning",
+        "computer vision advancements"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "How does NVIDIA NeMo Automodel and 🤗 Diffusers fine-tune video and image models?",
+        "url": "https://huggingface.co/blog/nvidia/scale-diffusers-finetuning-nemo-automodel",
+        "description": "",
+        "keywords": "fine-tune video models, nvidia nemo automodel, diffusers library, tuning image models at scale, ai model optimization, large language models, generative ai technologies, scaling up video and image processing",
+        "datePublished": "Fri, 17 Jul 2026 15:57:54 GMT",
+        "dateModified": "Fri, 17 Jul 2026 15:57:54 GMT",
+        "author": {
+          "@type": "Organization",
+          "name": "Hugging Face Blog",
+          "url": "https://huggingface.co"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "ai_labs",
+        "inLanguage": "en-US",
+        "wordCount": 0,
+        "articleBody": ""
+      }
+    },
+    {
+      "source_id": "trending_llm",
+      "source_name": "GitHub Trending — LLM",
+      "title": "ollama/ollama — Get up and running with Kimi-K2.6, GLM-5.2, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.",
+      "url": "https://github.com/ollama/ollama",
+      "description": "Get up and running with Kimi-K2.6, GLM-5.2, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.",
+      "published": "2026-07-18T00:23:54Z",
+      "score": 62,
+      "category": "open_source",
+      "weight": 9,
+      "stars": 176346,
+      "language": "Go",
+      "geo_title": "What is the best way to get started with multiple AI models?",
+      "geo_keywords": [
+        "ollama models",
+        "kimi-k2.6",
+        "glm-5.2",
+        "minimax model",
+        "deepseek model",
+        "gpt-oss model",
+        "qwen model",
+        "gemma model",
+        "how to use ollama models",
+        "which ollama model is best for me"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "What is the best way to get started with multiple AI models?",
+        "url": "https://github.com/ollama/ollama",
+        "description": "Get up and running with Kimi-K2.6, GLM-5.2, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.",
+        "keywords": "ollama models, kimi-k2.6, glm-5.2, minimax model, deepseek model, gpt-oss model, qwen model, gemma model",
+        "datePublished": "2026-07-18T00:23:54Z",
+        "dateModified": "2026-07-18T00:23:54Z",
+        "author": {
+          "@type": "Organization",
+          "name": "GitHub Trending — LLM",
+          "url": "https://github.com"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "open_source",
+        "inLanguage": "en-US",
+        "wordCount": 15,
+        "articleBody": "Get up and running with Kimi-K2.6, GLM-5.2, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models."
+      }
+    },
+    {
+      "source_id": "hn_ai_24h",
+      "source_name": "HN top AI 24h",
+      "title": "Kaiser nurses say AI, workplace surveillance are making their jobs, care worse",
+      "url": "https://localnewsmatters.org/2026/07/15/kaiser-nurses-say-ai-workplace-surveillance-are-making-their-jobs-and-patient-care-worse/",
+      "description": "",
+      "published": "2026-07-17T22:26:30+00:00",
+      "score": 59,
+      "category": "trending",
+      "weight": 8,
+      "points": 434,
+      "comments_url": "https://news.ycombinator.com/item?id=48952880",
+      "geo_title": "Why is AI and workplace surveillance worsening Kaiser nurses' jobs and care?",
+      "geo_keywords": [
+        "ai in healthcare",
+        "workplace surveillance in nursing",
+        "impact of ai on patient care",
+        "nurse concerns about ai",
+        "ai and job satisfaction in healthcare",
+        "technology in medical workplaces",
+        "privacy issues in healthcare",
+        "ai ethics in nursing",
+        "how ai affects nurses' jobs",
+        "is workplace surveillance ethical in healthcare",
+        "can ai improve or worsen patient care"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "Why is AI and workplace surveillance worsening Kaiser nurses' jobs and care?",
+        "url": "https://localnewsmatters.org/2026/07/15/kaiser-nurses-say-ai-workplace-surveillance-are-making-their-jobs-and-patient-care-worse/",
+        "description": "",
+        "keywords": "ai in healthcare, workplace surveillance in nursing, impact of ai on patient care, nurse concerns about ai, ai and job satisfaction in healthcare, technology in medical workplaces, privacy issues in healthcare, ai ethics in nursing",
+        "datePublished": "2026-07-17T22:26:30+00:00",
+        "dateModified": "2026-07-17T22:26:30+00:00",
+        "author": {
+          "@type": "Organization",
+          "name": "HN top AI 24h",
+          "url": "https://localnewsmatters.org"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "trending",
+        "inLanguage": "en-US",
+        "wordCount": 0,
+        "articleBody": ""
+      }
+    },
+    {
+      "source_id": "hn_ai_24h",
+      "source_name": "HN top AI 24h",
+      "title": "The state of open source AI",
+      "url": "https://stateofopensource.ai/",
+      "description": "",
+      "published": "2026-07-17T14:31:10+00:00",
+      "score": 59,
+      "category": "trending",
+      "weight": 8,
+      "points": 407,
+      "comments_url": "https://news.ycombinator.com/item?id=48947825",
+      "geo_title": "A look at the state of open source AI",
+      "geo_keywords": [
+        "open source ai",
+        "state of ai development",
+        "ai technology trends",
+        "open source machine learning",
+        "open ai projects",
+        "ai ethics and governance",
+        "open source deep learning frameworks",
+        "what is open source ai",
+        "how does open source ai work",
+        "benefits of open source ai",
+        "challenges in open source ai",
+        "open source ai vs proprietary"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "A look at the state of open source AI",
+        "url": "https://stateofopensource.ai/",
+        "description": "",
+        "keywords": "open source ai, state of ai development, ai technology trends, open source machine learning, open ai projects, ai ethics and governance, open source deep learning frameworks, what is open source ai",
+        "datePublished": "2026-07-17T14:31:10+00:00",
+        "dateModified": "2026-07-17T14:31:10+00:00",
+        "author": {
+          "@type": "Organization",
+          "name": "HN top AI 24h",
+          "url": "https://stateofopensource.ai"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "trending",
+        "inLanguage": "en-US",
+        "wordCount": 0,
+        "articleBody": ""
+      }
+    },
+    {
+      "source_id": "hn_ai_24h",
+      "source_name": "HN top AI 24h",
+      "title": "FAA lets Boeing sign off on 737 MAX, 787 airworthiness certificates again",
+      "url": "https://www.cnbc.com/2026/07/17/faa-boeing-737-max-787.html",
+      "description": "",
+      "published": "2026-07-17T21:22:53+00:00",
+      "score": 59,
+      "category": "trending",
+      "weight": 8,
+      "points": 161,
+      "comments_url": "https://news.ycombinator.com/item?id=48952439",
+      "geo_title": "Why is FAA allowing Boeing to resume airworthiness certificate signings?",
+      "geo_keywords": [
+        "faa boeing 737 max certification",
+        "faa 787 airworthiness",
+        "boeing self-certification 737 max",
+        "faa approval boeing aircraft",
+        "737 max return to service",
+        "787 airworthiness certificate",
+        "boeing aircraft safety regulations",
+        "what does faa approval mean for 737 max",
+        "can boeing certify its own planes"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "Why is FAA allowing Boeing to resume airworthiness certificate signings?",
+        "url": "https://www.cnbc.com/2026/07/17/faa-boeing-737-max-787.html",
+        "description": "",
+        "keywords": "faa boeing 737 max certification, faa 787 airworthiness, boeing self-certification 737 max, faa approval boeing aircraft, 737 max return to service, 787 airworthiness certificate, boeing aircraft safety regulations, what does faa approval mean for 737 max",
+        "datePublished": "2026-07-17T21:22:53+00:00",
+        "dateModified": "2026-07-17T21:22:53+00:00",
+        "author": {
+          "@type": "Organization",
+          "name": "HN top AI 24h",
+          "url": "https://www.cnbc.com"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "trending",
+        "inLanguage": "en-US",
+        "wordCount": 0,
+        "articleBody": ""
+      }
+    },
+    {
+      "source_id": "latent_space",
+      "source_name": "Latent Space (Substack)",
+      "title": "[AINews] not much happened today",
+      "url": "https://www.latent.space/p/ainews-not-much-happened-today-830",
+      "description": "a quiet day",
+      "published": "Sat, 18 Jul 2026 04:30:21 GMT",
+      "score": 48,
+      "category": "newsletters",
+      "weight": 8,
+      "format": "article",
+      "geo_title": "Why is there so little news today?",
+      "geo_keywords": [
+        "ai news",
+        "machine learning update",
+        "quiet day in tech",
+        "ai developments",
+        "technology trends",
+        "chatbot updates",
+        "ai research",
+        "sge news",
+        "perplexity news",
+        "chatgpt news",
+        "ai daily digest",
+        "tech news today"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "Why is there so little news today?",
+        "url": "https://www.latent.space/p/ainews-not-much-happened-today-830",
+        "description": "a quiet day",
+        "keywords": "ai news, machine learning update, quiet day in tech, ai developments, technology trends, chatbot updates, ai research, sge news",
+        "datePublished": "Sat, 18 Jul 2026 04:30:21 GMT",
+        "dateModified": "Sat, 18 Jul 2026 04:30:21 GMT",
+        "author": {
+          "@type": "Organization",
+          "name": "Latent Space (Substack)",
+          "url": "https://www.latent.space"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "newsletters",
+        "inLanguage": "en-US",
+        "wordCount": 3,
+        "articleBody": "a quiet day"
+      }
+    },
+    {
+      "source_id": "ggml_releases",
+      "source_name": "ggml/llama.cpp releases",
+      "title": "ggml/llama.cpp releases: b10066",
+      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10066",
+      "description": "<details open>\n\nopencl: load and use `kernel_gemm_moe_q6_k_f32_ns` from bin kernel lib (#25797)\n\n</details>\n\n**Website:**\n- <https://llama.app>\n\n**macOS/iOS:**\n- [macOS Apple Silicon (arm64)](https://github.com/ggml-org/llama.cpp/releases/download/b10066/llama-b10066-bin-macos-arm64.tar.gz)\n- macOS",
+      "published": "2026-07-17T23:13:36Z",
+      "score": 48,
+      "category": "releases",
+      "weight": 8,
+      "tag": "b10066",
+      "geo_title": "Why is ggml/llama.cpp b10066 release focusing on openCL kernel updates?",
+      "geo_keywords": [
+        "ggml llama.cpp release",
+        "opencl kernel update",
+        "llama app download",
+        "macos arm64 llama",
+        "b10066 update",
+        "llama model optimization",
+        "open source ai models",
+        "how to use ggml kernels",
+        "where to find llama.cpp latest version"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "Why is ggml/llama.cpp b10066 release focusing on openCL kernel updates?",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10066",
+        "description": "<details open>\n\nopencl: load and use `kernel_gemm_moe_q6_k_f32_ns` from bin kernel lib (#25797)\n\n</details>\n\n**Website:**\n- <https://llama.app>\n\n**macOS/iOS:**\n- [macOS Apple Silicon (arm64)](https://github.com/ggml-org/llama.cpp/releases/download/b10066/llama-b10066-bin-macos-arm64.tar.gz)\n- macOS",
+        "keywords": "ggml llama.cpp release, opencl kernel update, llama app download, macos arm64 llama, b10066 update, llama model optimization, open source ai models, how to use ggml kernels",
+        "datePublished": "2026-07-17T23:13:36Z",
+        "dateModified": "2026-07-17T23:13:36Z",
+        "author": {
+          "@type": "Organization",
+          "name": "ggml/llama.cpp releases",
+          "url": "https://github.com"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "releases",
+        "inLanguage": "en-US",
+        "wordCount": 24,
+        "articleBody": "<details open>\n\nopencl: load and use `kernel_gemm_moe_q6_k_f32_ns` from bin kernel lib (#25797)\n\n</details>\n\n**Website:**\n- <https://llama.app>\n\n**macOS/iOS:**\n- [macOS Apple Silicon (arm64)](https://github.com/ggml-org/llama.cpp/releases/download/b10066/llama-b10066-bin-macos-arm64.tar.gz)\n- macOS"
+      }
+    },
+    {
+      "source_id": "ggml_releases",
+      "source_name": "ggml/llama.cpp releases",
+      "title": "ggml/llama.cpp releases: b10064",
+      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10064",
+      "description": "<details open>\n\nopencl: transpose q4_K noshuffle scales for coalesced reads (#25805)\n\n</details>\n\n**Website:**\n- <https://llama.app>\n\n**macOS/iOS:**\n- [macOS Apple Silicon (arm64)](https://github.com/ggml-org/llama.cpp/releases/download/b10064/llama-b10064-bin-macos-arm64.tar.gz)\n- macOS Apple Silic",
+      "published": "2026-07-17T15:40:55Z",
+      "score": 48,
+      "category": "releases",
+      "weight": 8,
+      "tag": "b10064",
+      "geo_title": "What is the latest update on ggml/llama.cpp release b10064?",
+      "geo_keywords": [
+        "ggml",
+        "llama.cpp",
+        "opencl optimization",
+        "q4_k transpose",
+        "coalesced reads",
+        "apple silicon arm64",
+        "machine learning model release",
+        "what are the latest updates in ggml/llama.cpp",
+        "how does opencl improve performance in machine learning models"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "What is the latest update on ggml/llama.cpp release b10064?",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10064",
+        "description": "<details open>\n\nopencl: transpose q4_K noshuffle scales for coalesced reads (#25805)\n\n</details>\n\n**Website:**\n- <https://llama.app>\n\n**macOS/iOS:**\n- [macOS Apple Silicon (arm64)](https://github.com/ggml-org/llama.cpp/releases/download/b10064/llama-b10064-bin-macos-arm64.tar.gz)\n- macOS Apple Silic",
+        "keywords": "ggml, llama.cpp, opencl optimization, q4_k transpose, coalesced reads, apple silicon arm64, machine learning model release, what are the latest updates in ggml/llama.cpp",
+        "datePublished": "2026-07-17T15:40:55Z",
+        "dateModified": "2026-07-17T15:40:55Z",
+        "author": {
+          "@type": "Organization",
+          "name": "ggml/llama.cpp releases",
+          "url": "https://github.com"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "releases",
+        "inLanguage": "en-US",
+        "wordCount": 25,
+        "articleBody": "<details open>\n\nopencl: transpose q4_K noshuffle scales for coalesced reads (#25805)\n\n</details>\n\n**Website:**\n- <https://llama.app>\n\n**macOS/iOS:**\n- [macOS Apple Silicon (arm64)](https://github.com/ggml-org/llama.cpp/releases/download/b10064/llama-b10064-bin-macos-arm64.tar.gz)\n- macOS Apple Silic"
+      }
+    },
+    {
+      "source_id": "ggml_releases",
+      "source_name": "ggml/llama.cpp releases",
+      "title": "ggml/llama.cpp releases: b10063",
+      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10063",
+      "description": "<details open>\n\nsync : ggml\n\n</details>\n\n**Website:**\n- <https://llama.app>\n\n**macOS/iOS:**\n- [macOS Apple Silicon (arm64)](https://github.com/ggml-org/llama.cpp/releases/download/b10063/llama-b10063-bin-macos-arm64.tar.gz)\n- macOS Apple Silicon (arm64, KleidiAI enabled) [DISABLED](https://github.co",
+      "published": "2026-07-17T14:58:33Z",
+      "score": 48,
+      "category": "releases",
+      "weight": 8,
+      "tag": "b10063",
+      "geo_title": "Why is ggml/llama.cpp release b10063 significant?",
+      "geo_keywords": [
+        "ggml",
+        "llama.cpp",
+        "b10063 release",
+        "machine learning models",
+        "ai model optimization",
+        "latest ai updates",
+        "download ggml",
+        "how to install ggml",
+        "what is ggml",
+        "where can i find ggml models",
+        "how often are ggml models updated"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "Why is ggml/llama.cpp release b10063 significant?",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10063",
+        "description": "<details open>\n\nsync : ggml\n\n</details>\n\n**Website:**\n- <https://llama.app>\n\n**macOS/iOS:**\n- [macOS Apple Silicon (arm64)](https://github.com/ggml-org/llama.cpp/releases/download/b10063/llama-b10063-bin-macos-arm64.tar.gz)\n- macOS Apple Silicon (arm64, KleidiAI enabled) [DISABLED](https://github.co",
+        "keywords": "ggml, llama.cpp, b10063 release, machine learning models, ai model optimization, latest ai updates, download ggml, how to install ggml",
+        "datePublished": "2026-07-17T14:58:33Z",
+        "dateModified": "2026-07-17T14:58:33Z",
+        "author": {
+          "@type": "Organization",
+          "name": "ggml/llama.cpp releases",
+          "url": "https://github.com"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "releases",
+        "inLanguage": "en-US",
+        "wordCount": 23,
+        "articleBody": "<details open>\n\nsync : ggml\n\n</details>\n\n**Website:**\n- <https://llama.app>\n\n**macOS/iOS:**\n- [macOS Apple Silicon (arm64)](https://github.com/ggml-org/llama.cpp/releases/download/b10063/llama-b10063-bin-macos-arm64.tar.gz)\n- macOS Apple Silicon (arm64, KleidiAI enabled) [DISABLED](https://github.co"
+      }
+    },
+    {
+      "source_id": "ggml_releases",
+      "source_name": "ggml/llama.cpp releases",
+      "title": "ggml/llama.cpp releases: b10061",
+      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10061",
+      "description": "<details open>\n\ntests : initialize all tensors in test_dsv4_hc to avoid NaNs in sentinel tensors (#25822)\n\nCo-authored-by: Stanisław Szymczyk <sszymczy@gmail.com>\n\n</details>\n\n**Website:**\n- <https://llama.app>\n\n**macOS/iOS:**\n- [macOS Apple Silicon (arm64)](https://github.com/ggml-org/llama.cpp/rel",
+      "published": "2026-07-17T14:18:08Z",
+      "score": 48,
+      "category": "releases",
+      "weight": 8,
+      "tag": "b10061",
+      "geo_title": "Why is ggml/llama.cpp b10061 release important for tensor initialization?",
+      "geo_keywords": [
+        "ggml",
+        "llama.cpp",
+        "tensor initialization",
+        "nan avoidance",
+        "sentinel tensors",
+        "machine learning framework",
+        "ai optimization",
+        "deep learning library"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "Why is ggml/llama.cpp b10061 release important for tensor initialization?",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10061",
+        "description": "<details open>\n\ntests : initialize all tensors in test_dsv4_hc to avoid NaNs in sentinel tensors (#25822)\n\nCo-authored-by: Stanisław Szymczyk <sszymczy@gmail.com>\n\n</details>\n\n**Website:**\n- <https://llama.app>\n\n**macOS/iOS:**\n- [macOS Apple Silicon (arm64)](https://github.com/ggml-org/llama.cpp/rel",
+        "keywords": "ggml, llama.cpp, tensor initialization, nan avoidance, sentinel tensors, machine learning framework, ai optimization, deep learning library",
+        "datePublished": "2026-07-17T14:18:08Z",
+        "dateModified": "2026-07-17T14:18:08Z",
+        "author": {
+          "@type": "Organization",
+          "name": "ggml/llama.cpp releases",
+          "url": "https://github.com"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "releases",
+        "inLanguage": "en-US",
+        "wordCount": 30,
+        "articleBody": "<details open>\n\ntests : initialize all tensors in test_dsv4_hc to avoid NaNs in sentinel tensors (#25822)\n\nCo-authored-by: Stanisław Szymczyk <sszymczy@gmail.com>\n\n</details>\n\n**Website:**\n- <https://llama.app>\n\n**macOS/iOS:**\n- [macOS Apple Silicon (arm64)](https://github.com/ggml-org/llama.cpp/rel"
+      }
+    },
+    {
+      "source_id": "ggml_releases",
+      "source_name": "ggml/llama.cpp releases",
+      "title": "ggml/llama.cpp releases: b10059",
+      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10059",
+      "description": "<details open>\n\nggml-blas: default hadamard mul_mat to cpu routine (#25710)\n\nSigned-off-by: Aaron Teo <aaron.teo1@ibm.com>\n\n</details>\n\n**Website:**\n- <https://llama.app>\n\n**macOS/iOS:**\n- [macOS Apple Silicon (arm64)](https://github.com/ggml-org/llama.cpp/releases/download/b10059/llama-b10059-bin-m",
+      "published": "2026-07-17T12:22:39Z",
+      "score": 48,
+      "category": "releases",
+      "weight": 8,
+      "tag": "b10059",
+      "geo_title": "Why is ggml-blas updating hadamard multiplication to CPU routine?",
+      "geo_keywords": [
+        "ggml",
+        "llama.cpp",
+        "b10059 release",
+        "hadamard multiplication",
+        "cpu routine update",
+        "machine learning libraries",
+        "open source ai models",
+        "what is ggml-blas",
+        "how does hadamard multiplication work in ggml"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "Why is ggml-blas updating hadamard multiplication to CPU routine?",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10059",
+        "description": "<details open>\n\nggml-blas: default hadamard mul_mat to cpu routine (#25710)\n\nSigned-off-by: Aaron Teo <aaron.teo1@ibm.com>\n\n</details>\n\n**Website:**\n- <https://llama.app>\n\n**macOS/iOS:**\n- [macOS Apple Silicon (arm64)](https://github.com/ggml-org/llama.cpp/releases/download/b10059/llama-b10059-bin-m",
+        "keywords": "ggml, llama.cpp, b10059 release, hadamard multiplication, cpu routine update, machine learning libraries, open source ai models, what is ggml-blas",
+        "datePublished": "2026-07-17T12:22:39Z",
+        "dateModified": "2026-07-17T12:22:39Z",
+        "author": {
+          "@type": "Organization",
+          "name": "ggml/llama.cpp releases",
+          "url": "https://github.com"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "releases",
+        "inLanguage": "en-US",
+        "wordCount": 24,
+        "articleBody": "<details open>\n\nggml-blas: default hadamard mul_mat to cpu routine (#25710)\n\nSigned-off-by: Aaron Teo <aaron.teo1@ibm.com>\n\n</details>\n\n**Website:**\n- <https://llama.app>\n\n**macOS/iOS:**\n- [macOS Apple Silicon (arm64)](https://github.com/ggml-org/llama.cpp/releases/download/b10059/llama-b10059-bin-m"
+      }
+    },
+    {
+      "source_id": "hn_ai_24h",
+      "source_name": "HN top AI 24h",
+      "title": "AI Meets Cryptography 2: What AI Found in OpenVM's ZkVM",
+      "url": "https://blog.zksecurity.xyz/posts/openvm-bugs/",
+      "description": "",
+      "published": "2026-07-17T14:21:35+00:00",
+      "score": 46,
+      "category": "trending",
+      "weight": 8,
+      "points": 90,
+      "comments_url": "https://news.ycombinator.com/item?id=48947714",
+      "geo_title": "Why is AI Analyzing OpenVM's ZkVM?",
+      "geo_keywords": [
+        "ai and cryptography",
+        "zkvm",
+        "zero knowledge virtual machine",
+        "ai in cybersecurity",
+        "what is zkvm",
+        "how ai finds vulnerabilities",
+        "ai and blockchain security",
+        "ai cryptography research",
+        "ai discovers vulnerabilities in zkvm",
+        "questions about zkvm security answered by ai",
+        "ai in cryptographic systems",
+        "ai and zero knowledge proofs"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "Why is AI Analyzing OpenVM's ZkVM?",
+        "url": "https://blog.zksecurity.xyz/posts/openvm-bugs/",
+        "description": "",
+        "keywords": "ai and cryptography, zkvm, zero knowledge virtual machine, ai in cybersecurity, what is zkvm, how ai finds vulnerabilities, ai and blockchain security, ai cryptography research",
+        "datePublished": "2026-07-17T14:21:35+00:00",
+        "dateModified": "2026-07-17T14:21:35+00:00",
+        "author": {
+          "@type": "Organization",
+          "name": "HN top AI 24h",
+          "url": "https://blog.zksecurity.xyz"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "trending",
+        "inLanguage": "en-US",
+        "wordCount": 0,
+        "articleBody": ""
+      }
+    },
+    {
+      "source_id": "hn_ai_24h",
+      "source_name": "HN top AI 24h",
+      "title": "VulnHunter: Capital One's agentic AI code security tool",
+      "url": "https://www.capitalone.com/tech/open-source/announcing-vulnhunter/",
+      "description": "",
+      "published": "2026-07-17T12:42:12+00:00",
+      "score": 40,
+      "category": "trending",
+      "weight": 8,
+      "points": 66,
+      "comments_url": "https://news.ycombinator.com/item?id=48946692",
+      "geo_title": "Why is VulnHunter Important for Capital One’s AI Code Security?",
+      "geo_keywords": [
+        "vulnhunter capital one ai code security",
+        "ai in cybersecurity",
+        "automated code security tools",
+        "machine learning for security",
+        "chatgpt and cybersecurity",
+        "sge in cybersecurity",
+        "perplexity in security",
+        "how does vulnhunter work",
+        "what is capital one's new security tool",
+        "ai for software security",
+        "machine learning in code analysis"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "Why is VulnHunter Important for Capital One’s AI Code Security?",
+        "url": "https://www.capitalone.com/tech/open-source/announcing-vulnhunter/",
+        "description": "",
+        "keywords": "vulnhunter capital one ai code security, ai in cybersecurity, automated code security tools, machine learning for security, chatgpt and cybersecurity, sge in cybersecurity, perplexity in security, how does vulnhunter work",
+        "datePublished": "2026-07-17T12:42:12+00:00",
+        "dateModified": "2026-07-17T12:42:12+00:00",
+        "author": {
+          "@type": "Organization",
+          "name": "HN top AI 24h",
+          "url": "https://www.capitalone.com"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "trending",
+        "inLanguage": "en-US",
+        "wordCount": 0,
+        "articleBody": ""
+      }
+    },
+    {
+      "source_id": "hn_ai_24h",
+      "source_name": "HN top AI 24h",
+      "title": "Everybody's Weirded Out by AI–Except the People Who Foist It on Us",
+      "url": "https://newrepublic.com/article/213004/everybody-weirded-ai-except-people-foist-us",
+      "description": "",
+      "published": "2026-07-17T21:24:07+00:00",
+      "score": 39,
+      "category": "trending",
+      "weight": 8,
+      "points": 63,
+      "comments_url": "https://news.ycombinator.com/item?id=48952445",
+      "geo_title": "Why Is Everyone Else Weirded Out by AI?",
+      "geo_keywords": [
+        "ai ethics",
+        "ai impact on society",
+        "ai adoption challenges",
+        "public perception of ai",
+        "ethical responsibility in ai deployment",
+        "ai accountability",
+        "ai regulation",
+        "how ai is changing our world",
+        "why some people aren't worried about ai",
+        "ai's effect on jobs and economy"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "Why Is Everyone Else Weirded Out by AI?",
+        "url": "https://newrepublic.com/article/213004/everybody-weirded-ai-except-people-foist-us",
+        "description": "",
+        "keywords": "ai ethics, ai impact on society, ai adoption challenges, public perception of ai, ethical responsibility in ai deployment, ai accountability, ai regulation, how ai is changing our world",
+        "datePublished": "2026-07-17T21:24:07+00:00",
+        "dateModified": "2026-07-17T21:24:07+00:00",
+        "author": {
+          "@type": "Organization",
+          "name": "HN top AI 24h",
+          "url": "https://newrepublic.com"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "trending",
+        "inLanguage": "en-US",
+        "wordCount": 0,
+        "articleBody": ""
+      }
+    },
+    {
+      "source_id": "hn_ai_24h",
+      "source_name": "HN top AI 24h",
+      "title": "A grumpy screed about AI in software engineering",
+      "url": "https://sam.sutch.net/posts/a-grumpy-ai-screed",
+      "description": "",
+      "published": "2026-07-18T00:40:08+00:00",
+      "score": 37,
+      "category": "trending",
+      "weight": 8,
+      "points": 51,
+      "comments_url": "https://news.ycombinator.com/item?id=48953924",
+      "geo_title": "Why is AI causing frustration in software engineering?",
+      "geo_keywords": [
+        "ai in software engineering",
+        "ai ethics in coding",
+        "impact of ai on programming",
+        "ai tools for developers",
+        "ai vs human programmers",
+        "ethical concerns in ai development",
+        "how ai affects job security in tech",
+        "can ai understand code",
+        "does ai need emotions",
+        "ai and software engineering challenges"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "Why is AI causing frustration in software engineering?",
+        "url": "https://sam.sutch.net/posts/a-grumpy-ai-screed",
+        "description": "",
+        "keywords": "ai in software engineering, ai ethics in coding, impact of ai on programming, ai tools for developers, ai vs human programmers, ethical concerns in ai development, how ai affects job security in tech, can ai understand code",
+        "datePublished": "2026-07-18T00:40:08+00:00",
+        "dateModified": "2026-07-18T00:40:08+00:00",
+        "author": {
+          "@type": "Organization",
+          "name": "HN top AI 24h",
+          "url": "https://sam.sutch.net"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "trending",
+        "inLanguage": "en-US",
+        "wordCount": 0,
+        "articleBody": ""
+      }
+    },
+    {
+      "source_id": "hn_show_ai_7d",
+      "source_name": "Show HN AI 7d",
+      "title": "Show HN: On-chain bond market where the issuers are AI agents",
+      "url": "https://selbonds.now",
+      "description": "",
+      "published": "2026-07-17T14:25:20+00:00",
+      "score": 33,
+      "category": "open_source",
+      "weight": 9,
+      "points": 15,
+      "comments_url": "https://news.ycombinator.com/item?id=48947754",
+      "geo_title": "Why is an on-chain bond market with AI issuers gaining traction?",
+      "geo_keywords": [
+        "on-chain bond market",
+        "ai agents issuing bonds",
+        "decentralized finance",
+        "dfinity cloud",
+        "smart contracts for finance",
+        "ai in financial markets",
+        "how ai issues bonds on blockchain",
+        "what is an on-chain bond market",
+        "can ai be used to issue bonds",
+        "advantages of ai in bond issuance",
+        "ai and blockchain finance"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "Why is an on-chain bond market with AI issuers gaining traction?",
+        "url": "https://selbonds.now",
+        "description": "",
+        "keywords": "on-chain bond market, ai agents issuing bonds, decentralized finance, dfinity cloud, smart contracts for finance, ai in financial markets, how ai issues bonds on blockchain, what is an on-chain bond market",
+        "datePublished": "2026-07-17T14:25:20+00:00",
+        "dateModified": "2026-07-17T14:25:20+00:00",
+        "author": {
+          "@type": "Organization",
+          "name": "Show HN AI 7d",
+          "url": "https://selbonds.now"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "open_source",
+        "inLanguage": "en-US",
+        "wordCount": 0,
+        "articleBody": ""
+      }
+    },
+    {
+      "source_id": "mit_technology_review_ai",
+      "source_name": "MIT Technology Review AI",
+      "title": "The Download: perimenopause misinformation and China’s latest AI leap",
+      "url": "https://www.technologyreview.com/2026/07/17/1140640/the-download-perimenopause-misinformation-china-moonshot-ai/",
+      "description": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. There’s a lot of hype around perimenopause. Don’t buy it. Perimenopause used to be considered taboo, but not anymore. Thanks at least in part to TV do",
+      "published": "Fri, 17 Jul 2026 12:10:00 +0000",
+      "score": 32,
+      "category": "industry",
+      "weight": 8,
+      "format": "article",
+      "geo_title": "Why is there so much misinformation about perimenopause?",
+      "geo_keywords": [
+        "perimenopause misinformation",
+        "ai leap china",
+        "perimenopause taboos",
+        "technology newsletter",
+        "debunking perimenopause myths",
+        "latest ai developments",
+        "technological advancements in health",
+        "ai in healthcare",
+        "addressing perimenopause misconceptions"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "Why is there so much misinformation about perimenopause?",
+        "url": "https://www.technologyreview.com/2026/07/17/1140640/the-download-perimenopause-misinformation-china-moonshot-ai/",
+        "description": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. There’s a lot of hype around perimenopause. Don’t buy it. Perimenopause used to be considered taboo, but not anymore. Thanks at least in part to TV do",
+        "keywords": "perimenopause misinformation, ai leap china, perimenopause taboos, technology newsletter, debunking perimenopause myths, latest ai developments, technological advancements in health, ai in healthcare",
+        "datePublished": "Fri, 17 Jul 2026 12:10:00 +0000",
+        "dateModified": "Fri, 17 Jul 2026 12:10:00 +0000",
+        "author": {
+          "@type": "Organization",
+          "name": "MIT Technology Review AI",
+          "url": "https://www.technologyreview.com"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "industry",
+        "inLanguage": "en-US",
+        "wordCount": 51,
+        "articleBody": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. There’s a lot of hype around perimenopause. Don’t buy it. Perimenopause used to be considered taboo, but not anymore. Thanks at least in part to TV do"
+      }
+    },
+    {
+      "source_id": "mit_technology_review_ai",
+      "source_name": "MIT Technology Review AI",
+      "title": "The risk of weather data sabotage is rising",
+      "url": "https://www.technologyreview.com/2026/07/17/1140622/weather-data-sabotage/",
+      "description": "Every morning, airline dispatchers, grid operators, and farmers around the world make decisions based on the same thing: a weather forecast. While these forecasts are something that most people glance at for two seconds, weather predictions influence major strategic decisions in many industries, wit",
+      "published": "Fri, 17 Jul 2026 08:57:32 +0000",
+      "score": 32,
+      "category": "industry",
+      "weight": 8,
+      "format": "article",
+      "geo_title": "Why is the risk of weather data sabotage increasing for critical industries?",
+      "geo_keywords": [
+        "weather data security",
+        "climate technology risks",
+        "weather forecasting accuracy",
+        "cyber threats to weather systems",
+        "weather data integrity",
+        "weather prediction reliability",
+        "impact of weather data on business decisions",
+        "preventing weather data sabotage",
+        "securing weather information",
+        "weather forecast cybersecurity",
+        "protecting critical infrastructure with weather data",
+        "ensuring accurate weather predictions"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "Why is the risk of weather data sabotage increasing for critical industries?",
+        "url": "https://www.technologyreview.com/2026/07/17/1140622/weather-data-sabotage/",
+        "description": "Every morning, airline dispatchers, grid operators, and farmers around the world make decisions based on the same thing: a weather forecast. While these forecasts are something that most people glance at for two seconds, weather predictions influence major strategic decisions in many industries, wit",
+        "keywords": "weather data security, climate technology risks, weather forecasting accuracy, cyber threats to weather systems, weather data integrity, weather prediction reliability, impact of weather data on business decisions, preventing weather data sabotage",
+        "datePublished": "Fri, 17 Jul 2026 08:57:32 +0000",
+        "dateModified": "Fri, 17 Jul 2026 08:57:32 +0000",
+        "author": {
+          "@type": "Organization",
+          "name": "MIT Technology Review AI",
+          "url": "https://www.technologyreview.com"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "industry",
+        "inLanguage": "en-US",
+        "wordCount": 44,
+        "articleBody": "Every morning, airline dispatchers, grid operators, and farmers around the world make decisions based on the same thing: a weather forecast. While these forecasts are something that most people glance at for two seconds, weather predictions influence major strategic decisions in many industries, wit"
+      }
+    },
+    {
+      "source_id": "marktechpost",
+      "source_name": "MarkTechPost",
+      "title": "Build an Agentic Event Venue Operator with MongoDB Atlas, Voyage, and LangGraph",
+      "url": "https://www.marktechpost.com/2026/07/17/build-an-agentic-event-venue-operator-with-mongodb-atlas-voyage-and-langgraph/",
+      "description": "<p>Introduction This tutorial starts where most agent demos stop: giving the agent persistent memory, operational context, and a place to write back what happened. An event operator does not just need an agent that can summarize a weather report or generate a generic plan. The operator needs an agen",
+      "published": "Fri, 17 Jul 2026 22:12:57 +0000",
+      "score": 24,
+      "category": "industry",
+      "weight": 6,
+      "format": "article",
+      "geo_title": "How does MongoDB Atlas enable an agentic event venue operator?",
+      "geo_keywords": [
+        "mongodb atlas",
+        "voyage",
+        "langgraph",
+        "persistent memory for agents",
+        "operational context in ai",
+        "event venue management with ai",
+        "chatbot for event planning",
+        "ai-driven event operators",
+        "integrating ai technologies for real-world applications"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "How does MongoDB Atlas enable an agentic event venue operator?",
+        "url": "https://www.marktechpost.com/2026/07/17/build-an-agentic-event-venue-operator-with-mongodb-atlas-voyage-and-langgraph/",
+        "description": "<p>Introduction This tutorial starts where most agent demos stop: giving the agent persistent memory, operational context, and a place to write back what happened. An event operator does not just need an agent that can summarize a weather report or generate a generic plan. The operator needs an agen",
+        "keywords": "mongodb atlas, voyage, langgraph, persistent memory for agents, operational context in ai, event venue management with ai, chatbot for event planning, ai-driven event operators",
+        "datePublished": "Fri, 17 Jul 2026 22:12:57 +0000",
+        "dateModified": "Fri, 17 Jul 2026 22:12:57 +0000",
+        "author": {
+          "@type": "Organization",
+          "name": "MarkTechPost",
+          "url": "https://www.marktechpost.com"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "industry",
+        "inLanguage": "en-US",
+        "wordCount": 49,
+        "articleBody": "<p>Introduction This tutorial starts where most agent demos stop: giving the agent persistent memory, operational context, and a place to write back what happened. An event operator does not just need an agent that can summarize a weather report or generate a generic plan. The operator needs an agen"
+      }
+    },
+    {
+      "source_id": "marktechpost",
+      "source_name": "MarkTechPost",
+      "title": "Zyphra Releases ZUNA1.1: An Apache 2.0 EEG Foundation Model With Variable-Length Inputs From 0.5 To 30 Seconds",
+      "url": "https://www.marktechpost.com/2026/07/17/zyphra-releases-zuna1-1-an-apache-2-0-eeg-foundation-model-with-variable-length-inputs-from-0-5-to-30-seconds/",
+      "description": "<p>Zyphra released ZUNA1.1 on July 16, 2026, under the Apache 2.0 license. The 380M masked diffusion autoencoder reconstructs, denoises, and upsamples scalp-EEG across arbitrary channel layouts. It accepts variable-length inputs from 0.5 to 30 seconds, against ZUNA1's fixed five seconds. Reported NM",
+      "published": "Fri, 17 Jul 2026 21:35:27 +0000",
+      "score": 24,
+      "category": "industry",
+      "weight": 6,
+      "format": "article",
+      "geo_title": "What is Zyphra's ZUNA1.1 EEG model with variable-length inputs?",
+      "geo_keywords": [
+        "zyphra zuna1.1",
+        "apache 2.0 eeg model",
+        "variable-length input eeg",
+        "scalp-eeg reconstruction",
+        "autoencoder technology in eeg",
+        "eeg data processing",
+        "eeg signal denoising",
+        "eeg upsampling",
+        "eeg channel layouts",
+        "eeg model licensing"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "What is Zyphra's ZUNA1.1 EEG model with variable-length inputs?",
+        "url": "https://www.marktechpost.com/2026/07/17/zyphra-releases-zuna1-1-an-apache-2-0-eeg-foundation-model-with-variable-length-inputs-from-0-5-to-30-seconds/",
+        "description": "<p>Zyphra released ZUNA1.1 on July 16, 2026, under the Apache 2.0 license. The 380M masked diffusion autoencoder reconstructs, denoises, and upsamples scalp-EEG across arbitrary channel layouts. It accepts variable-length inputs from 0.5 to 30 seconds, against ZUNA1's fixed five seconds. Reported NM",
+        "keywords": "zyphra zuna1.1, apache 2.0 eeg model, variable-length input eeg, scalp-eeg reconstruction, autoencoder technology in eeg, eeg data processing, eeg signal denoising, eeg upsampling",
+        "datePublished": "Fri, 17 Jul 2026 21:35:27 +0000",
+        "dateModified": "Fri, 17 Jul 2026 21:35:27 +0000",
+        "author": {
+          "@type": "Organization",
+          "name": "MarkTechPost",
+          "url": "https://www.marktechpost.com"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "industry",
+        "inLanguage": "en-US",
+        "wordCount": 42,
+        "articleBody": "<p>Zyphra released ZUNA1.1 on July 16, 2026, under the Apache 2.0 license. The 380M masked diffusion autoencoder reconstructs, denoises, and upsamples scalp-EEG across arbitrary channel layouts. It accepts variable-length inputs from 0.5 to 30 seconds, against ZUNA1's fixed five seconds. Reported NM"
+      }
+    },
+    {
+      "source_id": "marktechpost",
+      "source_name": "MarkTechPost",
+      "title": "NVIDIA AI Releases Nemotron 3 Embed: An Open Embedding Collection Whose 8B Checkpoint Ranks #1 on RTEB",
+      "url": "https://www.marktechpost.com/2026/07/17/nvidia-ai-releases-nemotron-3-embed-an-open-embedding-collection-whose-8b-checkpoint-ranks-1-on-rteb/",
+      "description": "<p>NVIDIA released Nemotron 3 Embed on July 15 and 16, 2026. The collection has three open checkpoints: Nemotron-3-Embed-8B-BF16, Nemotron-3-Embed-1B-BF16, and Nemotron-3-Embed-1B-NVFP4. The 8B ranks #1 on RTEB at 78.46 average NDCG@10. The 1B came from ModelOpt NAS pruning plus COS+MSE distillation",
+      "published": "Fri, 17 Jul 2026 07:53:02 +0000",
+      "score": 24,
+      "category": "industry",
+      "weight": 6,
+      "format": "article",
+      "geo_title": "Why is NVIDIA's Nemotron 3 Embed 8B checkpoint top-ranked on RTEB?",
+      "geo_keywords": [
+        "nvidia ai nemotron 3 embed",
+        "open embedding collection",
+        "rteb ranking",
+        "nvidia ai release",
+        "8b checkpoint performance",
+        "model optimization",
+        "ai embeddings comparison",
+        "nemotron 3 technology",
+        "artificial intelligence embeddings",
+        "deep learning models",
+        "ai search engine discovery"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "Why is NVIDIA's Nemotron 3 Embed 8B checkpoint top-ranked on RTEB?",
+        "url": "https://www.marktechpost.com/2026/07/17/nvidia-ai-releases-nemotron-3-embed-an-open-embedding-collection-whose-8b-checkpoint-ranks-1-on-rteb/",
+        "description": "<p>NVIDIA released Nemotron 3 Embed on July 15 and 16, 2026. The collection has three open checkpoints: Nemotron-3-Embed-8B-BF16, Nemotron-3-Embed-1B-BF16, and Nemotron-3-Embed-1B-NVFP4. The 8B ranks #1 on RTEB at 78.46 average NDCG@10. The 1B came from ModelOpt NAS pruning plus COS+MSE distillation",
+        "keywords": "nvidia ai nemotron 3 embed, open embedding collection, rteb ranking, nvidia ai release, 8b checkpoint performance, model optimization, ai embeddings comparison, nemotron 3 technology",
+        "datePublished": "Fri, 17 Jul 2026 07:53:02 +0000",
+        "dateModified": "Fri, 17 Jul 2026 07:53:02 +0000",
+        "author": {
+          "@type": "Organization",
+          "name": "MarkTechPost",
+          "url": "https://www.marktechpost.com"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "industry",
+        "inLanguage": "en-US",
+        "wordCount": 41,
+        "articleBody": "<p>NVIDIA released Nemotron 3 Embed on July 15 and 16, 2026. The collection has three open checkpoints: Nemotron-3-Embed-8B-BF16, Nemotron-3-Embed-1B-BF16, and Nemotron-3-Embed-1B-NVFP4. The 8B ranks #1 on RTEB at 78.46 average NDCG@10. The 1B came from ModelOpt NAS pruning plus COS+MSE distillation"
+      }
+    }
+  ],
+  "geo_metadata": {
+    "date": "2026-07-18",
+    "generated_at": "2026-07-18T09:00:57.279675+00:00",
+    "schemas_generated": 22,
+    "topics": [
+      "737 max return to service",
+      "787 airworthiness certificate",
+      "8b checkpoint performance",
+      "addressing perimenopause misconceptions",
+      "advantages of ai in bond issuance",
+      "ai accountability",
+      "ai adoption challenges",
+      "ai agents issuing bonds",
+      "ai and blockchain finance",
+      "ai and blockchain security",
+      "ai and cryptography",
+      "ai and job satisfaction in healthcare",
+      "ai and software engineering challenges",
+      "ai and zero knowledge proofs",
+      "ai compute efficiency",
+      "ai cost analysis",
+      "ai cryptography research",
+      "ai daily digest",
+      "ai developments",
+      "ai discovers vulnerabilities in zkvm",
+      "ai embeddings comparison",
+      "ai ethics",
+      "ai ethics and governance",
+      "ai ethics in coding",
+      "ai ethics in nursing",
+      "ai financial impact",
+      "ai for software security",
+      "ai impact on society",
+      "ai in cryptographic systems",
+      "ai in cybersecurity",
+      "ai in financial markets",
+      "ai in healthcare",
+      "ai in software engineering",
+      "ai leap china",
+      "ai model optimization",
+      "ai news",
+      "ai optimization",
+      "ai regulation",
+      "ai research",
+      "ai return on investment",
+      "ai roi",
+      "ai scorecard",
+      "ai search engine discovery",
+      "ai success metrics",
+      "ai task success rate",
+      "ai technology trends",
+      "ai tools for developers",
+      "ai vs human programmers",
+      "ai's effect on jobs and economy",
+      "ai-driven event operators"
+    ],
+    "faq_items": [
+      {
+        "question": "What is the current state of open-source AI?",
+        "answer": "The current state of open-source AI is thriving, with numerous models and frameworks being developed and shared freely."
+      },
+      {
+        "question": "Are there any new developments in AI tools for video and image processing?",
+        "answer": "Yes, NVIDIA has introduced NeMo Automodel and 🤗 Diffusers to fine-tune video and image models at scale, enhancing the capabilities of AI in multimedia applications."
+      },
+      {
+        "question": "What are some popular open-source AI models available today?",
+        "answer": "Several popular open-source AI models include Kimi-K2.6, GLM-5.2, MiniMax, DeepSeek, gpt-oss, Qwen, and Gemma, among others."
+      },
+      {
+        "question": "How is AI affecting the workplace according to recent reports?",
+        "answer": "According to recent reports, AI and workplace surveillance are negatively impacting Kaiser nurses' jobs and patient care experiences."
+      },
+      {
+        "question": "What does the FAA's decision regarding Boeing mean for aircraft safety certification?",
+        "answer": "The FAA allowing Boeing to sign off on airworthiness certificates for the 737 MAX and 787 indicates a return to normal certification processes for these aircraft models."
+      }
+    ]
+  },
+  "geo_enriched": true,
+  "geo_enriched_at": "2026-07-18T09:00:57.279675+00:00"
+}

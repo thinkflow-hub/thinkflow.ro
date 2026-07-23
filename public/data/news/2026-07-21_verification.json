@@ -1,6 +1,6 @@
 {
-  "date": "2026-07-09",
-  "generated_at": "2026-07-13T05:00:02.302508+00:00",
+  "date": "2026-07-21",
+  "generated_at": "2026-07-23T01:00:03.315232+00:00",
   "results": {
     "trending_ai": {
       "verification_status": "unconfirmed",
@@ -9,18 +9,25 @@
         "GitHub Trending — AI"
       ]
     },
-    "trending_llm": {
-      "verification_status": "unconfirmed",
-      "sources_count": 1,
-      "sources": [
-        "GitHub Trending — LLM"
-      ]
-    },
     "hn_ai_24h": {
       "verification_status": "unconfirmed",
       "sources_count": 1,
       "sources": [
         "HN top AI 24h"
+      ]
+    },
+    "ggml_releases": {
+      "verification_status": "unconfirmed",
+      "sources_count": 1,
+      "sources": [
+        "ggml/llama.cpp releases"
+      ]
+    },
+    "trending_llm": {
+      "verification_status": "unconfirmed",
+      "sources_count": 1,
+      "sources": [
+        "GitHub Trending — LLM"
       ]
     }
   }

@@ -1,0 +1,1547 @@
+{
+  "date": "2026-07-21",
+  "last_updated": "2026-07-21T06:00:01.474688+00:00",
+  "total_items": 30,
+  "items": [
+    {
+      "source_id": "openai_blog",
+      "source_name": "OpenAI Blog",
+      "title": "Safety and alignment in an era of long-horizon models",
+      "url": "https://openai.com/index/safety-alignment-long-horizon-models",
+      "description": "OpenAI shares lessons from deploying long-running AI models, highlighting new safety risks, observed failures, and improved safeguards through iterative deployment.",
+      "published": "Mon, 20 Jul 2026 10:00:00 GMT",
+      "score": 75,
+      "category": "ai_labs",
+      "weight": 10,
+      "format": "article",
+      "geo_title": "Why is safety crucial for long-horizon AI models?",
+      "geo_keywords": [
+        "safety in ai development",
+        "long-horizon ai models",
+        "openai model deployment",
+        "ai alignment challenges",
+        "managing ai risks",
+        "iterative ai deployment",
+        "ai ethics and safety",
+        "future of ai technology",
+        "addressing ai failures",
+        "improving ai security",
+        "long-term ai planning",
+        "ai safety measures"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "Why is safety crucial for long-horizon AI models?",
+        "url": "https://openai.com/index/safety-alignment-long-horizon-models",
+        "description": "OpenAI shares lessons from deploying long-running AI models, highlighting new safety risks, observed failures, and improved safeguards through iterative deployment.",
+        "keywords": "safety in ai development, long-horizon ai models, openai model deployment, ai alignment challenges, managing ai risks, iterative ai deployment, ai ethics and safety, future of ai technology",
+        "datePublished": "Mon, 20 Jul 2026 10:00:00 GMT",
+        "dateModified": "Mon, 20 Jul 2026 10:00:00 GMT",
+        "author": {
+          "@type": "Organization",
+          "name": "OpenAI Blog",
+          "url": "https://openai.com"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "ai_labs",
+        "inLanguage": "en-US",
+        "wordCount": 20,
+        "articleBody": "OpenAI shares lessons from deploying long-running AI models, highlighting new safety risks, observed failures, and improved safeguards through iterative deployment."
+      }
+    },
+    {
+      "source_id": "trending_llm",
+      "source_name": "GitHub Trending — LLM",
+      "title": "langgenius/dify — Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cl",
+      "url": "https://github.com/langgenius/dify",
+      "description": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack.",
+      "published": "2026-07-21T06:00:04Z",
+      "score": 62,
+      "category": "open_source",
+      "weight": 9,
+      "stars": 149558,
+      "language": "TypeScript",
+      "geo_title": "How does langgenius/dify streamline AI workflow deployment?",
+      "geo_keywords": [
+        "agentic workflows",
+        "rag pipelines",
+        "ai model support",
+        "collaborative workspace",
+        "cloud deployment",
+        "vpc hosting",
+        "self-hosted deployment",
+        "ai tool integration"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "How does langgenius/dify streamline AI workflow deployment?",
+        "url": "https://github.com/langgenius/dify",
+        "description": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack.",
+        "keywords": "agentic workflows, rag pipelines, ai model support, collaborative workspace, cloud deployment, vpc hosting, self-hosted deployment, ai tool integration",
+        "datePublished": "2026-07-21T06:00:04Z",
+        "dateModified": "2026-07-21T06:00:04Z",
+        "author": {
+          "@type": "Organization",
+          "name": "GitHub Trending — LLM",
+          "url": "https://github.com"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "open_source",
+        "inLanguage": "en-US",
+        "wordCount": 33,
+        "articleBody": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack."
+      }
+    },
+    {
+      "source_id": "trending_llm",
+      "source_name": "GitHub Trending — LLM",
+      "title": "harry0703/MoneyPrinterTurbo — 利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.",
+      "url": "https://github.com/harry0703/MoneyPrinterTurbo",
+      "description": "利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.",
+      "published": "2026-07-20T13:24:36Z",
+      "score": 62,
+      "category": "open_source",
+      "weight": 9,
+      "stars": 98384,
+      "language": "Python",
+      "geo_title": "How does AI and automation create HD videos from keywords?",
+      "geo_keywords": [
+        "harry0703/moneyprinterturbo",
+        "ai generated short videos",
+        "automated video creation",
+        "hd short video generation",
+        "ai workflow for video",
+        "generate short videos from keywords",
+        "how to create hd short videos automatically"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "How does AI and automation create HD videos from keywords?",
+        "url": "https://github.com/harry0703/MoneyPrinterTurbo",
+        "description": "利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.",
+        "keywords": "harry0703/moneyprinterturbo, ai generated short videos, automated video creation, hd short video generation, ai workflow for video, generate short videos from keywords, how to create hd short videos automatically",
+        "datePublished": "2026-07-20T13:24:36Z",
+        "dateModified": "2026-07-20T13:24:36Z",
+        "author": {
+          "@type": "Organization",
+          "name": "GitHub Trending — LLM",
+          "url": "https://github.com"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "open_source",
+        "inLanguage": "en-US",
+        "wordCount": 16,
+        "articleBody": "利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow."
+      }
+    },
+    {
+      "source_id": "trending_llm",
+      "source_name": "GitHub Trending — LLM",
+      "title": "Graphify-Labs/graphify — Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill fo",
+      "url": "https://github.com/Graphify-Labs/graphify",
+      "description": "Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.",
+      "published": "2026-07-20T16:08:17Z",
+      "score": 62,
+      "category": "open_source",
+      "weight": 9,
+      "stars": 92496,
+      "language": "Python",
+      "geo_title": "How does Graphify-Labs/graphify turn codebases into queryable knowledge graphs?",
+      "geo_keywords": [
+        "knowledge graph",
+        "codebase analysis",
+        "sql schema visualization",
+        "config documentation",
+        "pdf integration",
+        "queryable knowledge base",
+        "ast parsing",
+        "claude code skill",
+        "cursor skill",
+        "codex skill",
+        "gemini cli skill"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "How does Graphify-Labs/graphify turn codebases into queryable knowledge graphs?",
+        "url": "https://github.com/Graphify-Labs/graphify",
+        "description": "Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.",
+        "keywords": "knowledge graph, codebase analysis, sql schema visualization, config documentation, pdf integration, queryable knowledge base, ast parsing, claude code skill",
+        "datePublished": "2026-07-20T16:08:17Z",
+        "dateModified": "2026-07-20T16:08:17Z",
+        "author": {
+          "@type": "Organization",
+          "name": "GitHub Trending — LLM",
+          "url": "https://github.com"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "open_source",
+        "inLanguage": "en-US",
+        "wordCount": 37,
+        "articleBody": "Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store."
+      }
+    },
+    {
+      "source_id": "nousresearch_releases",
+      "source_name": "NousResearch releases",
+      "title": "NousResearch releases: Hermes Agent v0.19.0 (2026.7.20) — The Quicksilver Release",
+      "url": "https://github.com/NousResearch/hermes-agent/releases/tag/v2026.7.20",
+      "description": "# Hermes Agent v0.19.0 (v2026.7.20)\n\n\n**Release Date:** July 20, 2026\n**Since v0.18.0:** ~2,245 commits · ~1,065 merged PRs · ~2,465 files changed · ~300,000 insertions · ~36,000 deletions · **~3,300 issues closed** · **450+ community contributors**\n\n> **The Quicksilver Release.** Hermes is the mess",
+      "published": "2026-07-20T18:35:55Z",
+      "score": 60,
+      "category": "releases",
+      "weight": 10,
+      "tag": "v2026.7.20",
+      "geo_title": "Why is Hermes Agent v0.19.0 a significant release?",
+      "geo_keywords": [
+        "hermes agent release",
+        "quicksilver update",
+        "ai software update",
+        "noresearch hermes",
+        "ai technology news",
+        "latest ai developments",
+        "what changes in hermes v0.19.0",
+        "community contributions to ai projects"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "Why is Hermes Agent v0.19.0 a significant release?",
+        "url": "https://github.com/NousResearch/hermes-agent/releases/tag/v2026.7.20",
+        "description": "# Hermes Agent v0.19.0 (v2026.7.20)\n\n\n**Release Date:** July 20, 2026\n**Since v0.18.0:** ~2,245 commits · ~1,065 merged PRs · ~2,465 files changed · ~300,000 insertions · ~36,000 deletions · **~3,300 issues closed** · **450+ community contributors**\n\n> **The Quicksilver Release.** Hermes is the mess",
+        "keywords": "hermes agent release, quicksilver update, ai software update, noresearch hermes, ai technology news, latest ai developments, what changes in hermes v0.19.0, community contributions to ai projects",
+        "datePublished": "2026-07-20T18:35:55Z",
+        "dateModified": "2026-07-20T18:35:55Z",
+        "author": {
+          "@type": "Organization",
+          "name": "NousResearch releases",
+          "url": "https://github.com"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "releases",
+        "inLanguage": "en-US",
+        "wordCount": 44,
+        "articleBody": "# Hermes Agent v0.19.0 (v2026.7.20)\n\n\n**Release Date:** July 20, 2026\n**Since v0.18.0:** ~2,245 commits · ~1,065 merged PRs · ~2,465 files changed · ~300,000 insertions · ~36,000 deletions · **~3,300 issues closed** · **450+ community contributors**\n\n> **The Quicksilver Release.** Hermes is the mess"
+      }
+    },
+    {
+      "source_id": "hn_ai_24h",
+      "source_name": "HN top AI 24h",
+      "title": "China’s open-weights AI strategy is winning",
+      "url": "https://werd.io/american-ai-is-locked-down-and-proprietary-its-losing/",
+      "description": "",
+      "published": "2026-07-20T14:21:47+00:00",
+      "score": 59,
+      "category": "trending",
+      "weight": 8,
+      "points": 1043,
+      "comments_url": "https://news.ycombinator.com/item?id=48979269",
+      "geo_title": "Why is China's open-weights AI strategy succeeding?",
+      "geo_keywords": [
+        "china ai strategy",
+        "open-source ai",
+        "ai technology trends",
+        "china tech policy",
+        "ai development competition",
+        "advantages of open-weights ai",
+        "how does open-weights ai work",
+        "why is china's ai strategy successful",
+        "what technologies are driving china's ai progress",
+        "china vs us in ai",
+        "ai innovation and collaboration",
+        "benefits of collaborative ai research"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "Why is China's open-weights AI strategy succeeding?",
+        "url": "https://werd.io/american-ai-is-locked-down-and-proprietary-its-losing/",
+        "description": "",
+        "keywords": "china ai strategy, open-source ai, ai technology trends, china tech policy, ai development competition, advantages of open-weights ai, how does open-weights ai work, why is china's ai strategy successful",
+        "datePublished": "2026-07-20T14:21:47+00:00",
+        "dateModified": "2026-07-20T14:21:47+00:00",
+        "author": {
+          "@type": "Organization",
+          "name": "HN top AI 24h",
+          "url": "https://werd.io"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "trending",
+        "inLanguage": "en-US",
+        "wordCount": 0,
+        "articleBody": ""
+      }
+    },
+    {
+      "source_id": "hn_ai_24h",
+      "source_name": "HN top AI 24h",
+      "title": "Airport Simulator",
+      "url": "https://airport.apunen.com/",
+      "description": "",
+      "published": "2026-07-20T10:30:40+00:00",
+      "score": 59,
+      "category": "trending",
+      "weight": 8,
+      "points": 767,
+      "comments_url": "https://news.ycombinator.com/item?id=48976846",
+      "geo_title": "A Look At Airport Simulator Technology",
+      "geo_keywords": [
+        "airport simulator technology",
+        "airport management simulation software",
+        "air traffic control training simulator",
+        "virtual airport environment",
+        "aviation simulation software",
+        "flight operations training simulator",
+        "ai in airport management",
+        "chatbot for airport assistance",
+        "perplexity airport simulation",
+        "sge airport training",
+        "real-time airport simulation",
+        "airport security simulation"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "A Look At Airport Simulator Technology",
+        "url": "https://airport.apunen.com/",
+        "description": "",
+        "keywords": "airport simulator technology, airport management simulation software, air traffic control training simulator, virtual airport environment, aviation simulation software, flight operations training simulator, ai in airport management, chatbot for airport assistance",
+        "datePublished": "2026-07-20T10:30:40+00:00",
+        "dateModified": "2026-07-20T10:30:40+00:00",
+        "author": {
+          "@type": "Organization",
+          "name": "HN top AI 24h",
+          "url": "https://airport.apunen.com"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "trending",
+        "inLanguage": "en-US",
+        "wordCount": 0,
+        "articleBody": ""
+      }
+    },
+    {
+      "source_id": "hn_ai_24h",
+      "source_name": "HN top AI 24h",
+      "title": "How we measured AI writing across arXiv, and where the measurement breaks",
+      "url": "https://unslop.run/blog/measuring-ai-writing-on-arxiv",
+      "description": "",
+      "published": "2026-07-20T16:36:36+00:00",
+      "score": 59,
+      "category": "trending",
+      "weight": 8,
+      "points": 206,
+      "comments_url": "https://news.ycombinator.com/item?id=48981206",
+      "geo_title": "A look at measuring AI writing across arXiv and its limitations",
+      "geo_keywords": [
+        "ai writing measurement",
+        "arxiv ai analysis",
+        "ai technology evaluation",
+        "ai content accuracy",
+        "ai writing limitations",
+        "measuring ai in research",
+        "ai writing performance",
+        "ai writing challenges"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "A look at measuring AI writing across arXiv and its limitations",
+        "url": "https://unslop.run/blog/measuring-ai-writing-on-arxiv",
+        "description": "",
+        "keywords": "ai writing measurement, arxiv ai analysis, ai technology evaluation, ai content accuracy, ai writing limitations, measuring ai in research, ai writing performance, ai writing challenges",
+        "datePublished": "2026-07-20T16:36:36+00:00",
+        "dateModified": "2026-07-20T16:36:36+00:00",
+        "author": {
+          "@type": "Organization",
+          "name": "HN top AI 24h",
+          "url": "https://unslop.run"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "trending",
+        "inLanguage": "en-US",
+        "wordCount": 0,
+        "articleBody": ""
+      }
+    },
+    {
+      "source_id": "hn_ai_24h",
+      "source_name": "HN top AI 24h",
+      "title": "Airbus Takes Flight from AWS",
+      "url": "https://www.theregister.com/columnists/2026/07/20/airbus-takes-flight-from-aws-what-happens-next-is-critical/5274109",
+      "description": "",
+      "published": "2026-07-20T10:12:22+00:00",
+      "score": 59,
+      "category": "trending",
+      "weight": 8,
+      "points": 200,
+      "comments_url": "https://news.ycombinator.com/item?id=48976682",
+      "geo_title": "Why Is Airbus Leaving AWS?",
+      "geo_keywords": [
+        "airbus aws migration",
+        "airbus cloud transition",
+        "aws to azure switch",
+        "cloud migration for aerospace",
+        "switching cloud providers",
+        "ai in aviation",
+        "machine learning in aerospace",
+        "data security in cloud",
+        "what cloud provider does airbus use now",
+        "why airbus left aws"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "Why Is Airbus Leaving AWS?",
+        "url": "https://www.theregister.com/columnists/2026/07/20/airbus-takes-flight-from-aws-what-happens-next-is-critical/5274109",
+        "description": "",
+        "keywords": "airbus aws migration, airbus cloud transition, aws to azure switch, cloud migration for aerospace, switching cloud providers, ai in aviation, machine learning in aerospace, data security in cloud",
+        "datePublished": "2026-07-20T10:12:22+00:00",
+        "dateModified": "2026-07-20T10:12:22+00:00",
+        "author": {
+          "@type": "Organization",
+          "name": "HN top AI 24h",
+          "url": "https://www.theregister.com"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "trending",
+        "inLanguage": "en-US",
+        "wordCount": 0,
+        "articleBody": ""
+      }
+    },
+    {
+      "source_id": "ollama_releases",
+      "source_name": "Ollama releases",
+      "title": "Ollama releases: v0.32.2",
+      "url": "https://github.com/ollama/ollama/releases/tag/v0.32.2-rc0",
+      "description": "## What's Changed\r\n* launch: keep Claude Code channels available by @hoyyeva in https://github.com/ollama/ollama/pull/17210\r\n* cmd: remove dead agent prompt wrappers by @ParthSareen in https://github.com/ollama/ollama/pull/17227\r\n* agent: reorder working directory instruction by @ParthSareen in http",
+      "published": "2026-07-20T21:00:30Z",
+      "score": 54,
+      "category": "releases",
+      "weight": 9,
+      "tag": "v0.32.2-rc0",
+      "geo_title": "Why is Ollama releasing v0.32.2 with these updates?",
+      "geo_keywords": [
+        "ollama v0.32.2 release",
+        "ollama github updates",
+        "chatgpt competitor news",
+        "ai technology changes",
+        "ollama code updates",
+        "ollama agent improvements",
+        "what changes in ollama v0.32.2",
+        "new features in ollama v0.32.2"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "Why is Ollama releasing v0.32.2 with these updates?",
+        "url": "https://github.com/ollama/ollama/releases/tag/v0.32.2-rc0",
+        "description": "## What's Changed\r\n* launch: keep Claude Code channels available by @hoyyeva in https://github.com/ollama/ollama/pull/17210\r\n* cmd: remove dead agent prompt wrappers by @ParthSareen in https://github.com/ollama/ollama/pull/17227\r\n* agent: reorder working directory instruction by @ParthSareen in http",
+        "keywords": "ollama v0.32.2 release, ollama github updates, chatgpt competitor news, ai technology changes, ollama code updates, ollama agent improvements, what changes in ollama v0.32.2, new features in ollama v0.32.2",
+        "datePublished": "2026-07-20T21:00:30Z",
+        "dateModified": "2026-07-20T21:00:30Z",
+        "author": {
+          "@type": "Organization",
+          "name": "Ollama releases",
+          "url": "https://github.com"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "releases",
+        "inLanguage": "en-US",
+        "wordCount": 35,
+        "articleBody": "## What's Changed\r\n* launch: keep Claude Code channels available by @hoyyeva in https://github.com/ollama/ollama/pull/17210\r\n* cmd: remove dead agent prompt wrappers by @ParthSareen in https://github.com/ollama/ollama/pull/17227\r\n* agent: reorder working directory instruction by @ParthSareen in http"
+      }
+    },
+    {
+      "source_id": "hn_ai_24h",
+      "source_name": "HN top AI 24h",
+      "title": "Five US tech giants' hidden debts soar to $1.65T on opaque AI funding",
+      "url": "https://asia.nikkei.com/business/technology/five-us-tech-giants-hidden-debts-soar-to-1.65tn-on-opaque-ai-funding",
+      "description": "",
+      "published": "2026-07-21T03:56:03+00:00",
+      "score": 52,
+      "category": "trending",
+      "weight": 8,
+      "points": 121,
+      "comments_url": "https://news.ycombinator.com/item?id=48987863",
+      "geo_title": "Why are hidden debts of US tech giants soaring with AI funding?",
+      "geo_keywords": [
+        "us tech giants hidden debts",
+        "ai funding opacity",
+        "technology company debt",
+        "artificial intelligence investment",
+        "corporate finance transparency",
+        "us tech industry debts",
+        "ai technology costs",
+        "how much do tech companies spend on ai",
+        "are us tech giants hiding debts",
+        "what is the total ai spending of tech giants",
+        "tech company financial secrets",
+        "ai development expenses"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "Why are hidden debts of US tech giants soaring with AI funding?",
+        "url": "https://asia.nikkei.com/business/technology/five-us-tech-giants-hidden-debts-soar-to-1.65tn-on-opaque-ai-funding",
+        "description": "",
+        "keywords": "us tech giants hidden debts, ai funding opacity, technology company debt, artificial intelligence investment, corporate finance transparency, us tech industry debts, ai technology costs, how much do tech companies spend on ai",
+        "datePublished": "2026-07-21T03:56:03+00:00",
+        "dateModified": "2026-07-21T03:56:03+00:00",
+        "author": {
+          "@type": "Organization",
+          "name": "HN top AI 24h",
+          "url": "https://asia.nikkei.com"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "trending",
+        "inLanguage": "en-US",
+        "wordCount": 0,
+        "articleBody": ""
+      }
+    },
+    {
+      "source_id": "latent_space",
+      "source_name": "Latent Space (Substack)",
+      "title": "[AINews] not much happened today",
+      "url": "https://www.latent.space/p/ainews-not-much-happened-today-173",
+      "description": "a quiet day.",
+      "published": "Tue, 21 Jul 2026 03:58:00 GMT",
+      "score": 48,
+      "category": "newsletters",
+      "weight": 8,
+      "format": "article",
+      "geo_title": "Why is there not much happening today?",
+      "geo_keywords": [
+        "ai news",
+        "quiet day in tech",
+        "ai developments",
+        "technological advancements",
+        "chatgpt news",
+        "perplexity news",
+        "sge updates"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "Why is there not much happening today?",
+        "url": "https://www.latent.space/p/ainews-not-much-happened-today-173",
+        "description": "a quiet day.",
+        "keywords": "ai news, quiet day in tech, ai developments, technological advancements, chatgpt news, perplexity news, sge updates",
+        "datePublished": "Tue, 21 Jul 2026 03:58:00 GMT",
+        "dateModified": "Tue, 21 Jul 2026 03:58:00 GMT",
+        "author": {
+          "@type": "Organization",
+          "name": "Latent Space (Substack)",
+          "url": "https://www.latent.space"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "newsletters",
+        "inLanguage": "en-US",
+        "wordCount": 3,
+        "articleBody": "a quiet day."
+      }
+    },
+    {
+      "source_id": "import_ai",
+      "source_name": "Import AI (Jack Clark)",
+      "title": "Import AI 465: Open vs closed gaps; Kimi K3; Demis' big policy plan",
+      "url": "https://importai.substack.com/p/import-ai-465-open-vs-closed-gaps",
+      "description": "The singularity will be seen in hindsight as an interregnum",
+      "published": "Mon, 20 Jul 2026 12:31:45 GMT",
+      "score": 48,
+      "category": "newsletters",
+      "weight": 8,
+      "format": "article",
+      "geo_title": "Why is the singularity viewed as an interregnum in hindsight?",
+      "geo_keywords": [
+        "open vs closed loop ai",
+        "kimi k3",
+        "demis hassabis policy",
+        "singularity interregnum",
+        "ai technology trends",
+        "future of artificial intelligence",
+        "ai research updates",
+        "open source ai developments",
+        "closed loop reinforcement learning",
+        "ai policy making",
+        "what is the singularity",
+        "when will the singularity happen"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "Why is the singularity viewed as an interregnum in hindsight?",
+        "url": "https://importai.substack.com/p/import-ai-465-open-vs-closed-gaps",
+        "description": "The singularity will be seen in hindsight as an interregnum",
+        "keywords": "open vs closed loop ai, kimi k3, demis hassabis policy, singularity interregnum, ai technology trends, future of artificial intelligence, ai research updates, open source ai developments",
+        "datePublished": "Mon, 20 Jul 2026 12:31:45 GMT",
+        "dateModified": "Mon, 20 Jul 2026 12:31:45 GMT",
+        "author": {
+          "@type": "Organization",
+          "name": "Import AI (Jack Clark)",
+          "url": "https://importai.substack.com"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "newsletters",
+        "inLanguage": "en-US",
+        "wordCount": 10,
+        "articleBody": "The singularity will be seen in hindsight as an interregnum"
+      }
+    },
+    {
+      "source_id": "ggml_releases",
+      "source_name": "ggml/llama.cpp releases",
+      "title": "ggml/llama.cpp releases: b10075",
+      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10075",
+      "description": "<details open>\n\nhexagon: add CLAMP op (#25934)\n\n</details>\n\n**Website:**\n- <https://llama.app>\n\n**macOS/iOS:**\n- [macOS Apple Silicon (arm64)](https://github.com/ggml-org/llama.cpp/releases/download/b10075/llama-b10075-bin-macos-arm64.tar.gz)\n- macOS Apple Silicon (arm64, KleidiAI enabled) [DISABLED",
+      "published": "2026-07-20T23:47:43Z",
+      "score": 48,
+      "category": "releases",
+      "weight": 8,
+      "tag": "b10075",
+      "geo_title": "Why is ggml/llama.cpp release b10075 important for hexagon users?",
+      "geo_keywords": [
+        "ggml llama.cpp release",
+        "ggml llamacpp b10075",
+        "hexagon clamp op update",
+        "llama app new features",
+        "apple silicon arm64 llama cpp",
+        "kleidiai enabled llama cpp",
+        "what is the latest ggml/llama.cpp release",
+        "does ggml/llama.cpp support apple silicon"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "Why is ggml/llama.cpp release b10075 important for hexagon users?",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10075",
+        "description": "<details open>\n\nhexagon: add CLAMP op (#25934)\n\n</details>\n\n**Website:**\n- <https://llama.app>\n\n**macOS/iOS:**\n- [macOS Apple Silicon (arm64)](https://github.com/ggml-org/llama.cpp/releases/download/b10075/llama-b10075-bin-macos-arm64.tar.gz)\n- macOS Apple Silicon (arm64, KleidiAI enabled) [DISABLED",
+        "keywords": "ggml llama.cpp release, ggml llamacpp b10075, hexagon clamp op update, llama app new features, apple silicon arm64 llama cpp, kleidiai enabled llama cpp, what is the latest ggml/llama.cpp release, does ggml/llama.cpp support apple silicon",
+        "datePublished": "2026-07-20T23:47:43Z",
+        "dateModified": "2026-07-20T23:47:43Z",
+        "author": {
+          "@type": "Organization",
+          "name": "ggml/llama.cpp releases",
+          "url": "https://github.com"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "releases",
+        "inLanguage": "en-US",
+        "wordCount": 25,
+        "articleBody": "<details open>\n\nhexagon: add CLAMP op (#25934)\n\n</details>\n\n**Website:**\n- <https://llama.app>\n\n**macOS/iOS:**\n- [macOS Apple Silicon (arm64)](https://github.com/ggml-org/llama.cpp/releases/download/b10075/llama-b10075-bin-macos-arm64.tar.gz)\n- macOS Apple Silicon (arm64, KleidiAI enabled) [DISABLED"
+      }
+    },
+    {
+      "source_id": "ggml_releases",
+      "source_name": "ggml/llama.cpp releases",
+      "title": "ggml/llama.cpp releases: b10069",
+      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10069",
+      "description": "<details open>\n\nopencl: Support broadcast for Adreno MUL_MAT and honor `view_offs` for Adreno Q8_0 MUL_MAT for llama-server multi-stream (#25910)\n\n* opencl: handle broadcast for adreno gemm/gemv_noshuffle\n\n* opencl: honor view_offs for adreno noshuffle gemm/gemv\n\n* opencl: general GEMM/GEMV support",
+      "published": "2026-07-20T06:29:53Z",
+      "score": 48,
+      "category": "releases",
+      "weight": 8,
+      "tag": "b10069",
+      "geo_title": "Why is ggml/llama.cpp update important for openCL support in llama-server?",
+      "geo_keywords": [
+        "ggml",
+        "llama.cpp",
+        "opencl support",
+        "adreno gpu optimization",
+        "multi-stream inference",
+        "deep learning framework",
+        "tensor operations",
+        "matrix multiplication optimizations"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "Why is ggml/llama.cpp update important for openCL support in llama-server?",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10069",
+        "description": "<details open>\n\nopencl: Support broadcast for Adreno MUL_MAT and honor `view_offs` for Adreno Q8_0 MUL_MAT for llama-server multi-stream (#25910)\n\n* opencl: handle broadcast for adreno gemm/gemv_noshuffle\n\n* opencl: honor view_offs for adreno noshuffle gemm/gemv\n\n* opencl: general GEMM/GEMV support",
+        "keywords": "ggml, llama.cpp, opencl support, adreno gpu optimization, multi-stream inference, deep learning framework, tensor operations, matrix multiplication optimizations",
+        "datePublished": "2026-07-20T06:29:53Z",
+        "dateModified": "2026-07-20T06:29:53Z",
+        "author": {
+          "@type": "Organization",
+          "name": "ggml/llama.cpp releases",
+          "url": "https://github.com"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "releases",
+        "inLanguage": "en-US",
+        "wordCount": 39,
+        "articleBody": "<details open>\n\nopencl: Support broadcast for Adreno MUL_MAT and honor `view_offs` for Adreno Q8_0 MUL_MAT for llama-server multi-stream (#25910)\n\n* opencl: handle broadcast for adreno gemm/gemv_noshuffle\n\n* opencl: honor view_offs for adreno noshuffle gemm/gemv\n\n* opencl: general GEMM/GEMV support"
+      }
+    },
+    {
+      "source_id": "hn_llm_24h",
+      "source_name": "HN top LLM 24h",
+      "title": "Launch HN: Bloomy (YC S26) – AI-powered mastery learning for K-12",
+      "url": "https://news.ycombinator.com/item?id=48981136",
+      "description": "",
+      "published": "2026-07-20T16:32:10+00:00",
+      "score": 46,
+      "category": "trending",
+      "weight": 9,
+      "points": 79,
+      "comments_url": "https://news.ycombinator.com/item?id=48981136",
+      "geo_title": "What is Bloomy (YC S26): AI-Powered Mastery Learning for K-12?",
+      "geo_keywords": [
+        "ai-powered learning",
+        "k-12 education",
+        "mastery learning",
+        "yc startup",
+        "bloomy app",
+        "ai in education",
+        "how ai can improve k-12 education",
+        "what is mastery learning with ai"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "What is Bloomy (YC S26): AI-Powered Mastery Learning for K-12?",
+        "url": "https://news.ycombinator.com/item?id=48981136",
+        "description": "",
+        "keywords": "ai-powered learning, k-12 education, mastery learning, yc startup, bloomy app, ai in education, how ai can improve k-12 education, what is mastery learning with ai",
+        "datePublished": "2026-07-20T16:32:10+00:00",
+        "dateModified": "2026-07-20T16:32:10+00:00",
+        "author": {
+          "@type": "Organization",
+          "name": "HN top LLM 24h",
+          "url": "https://news.ycombinator.com"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "trending",
+        "inLanguage": "en-US",
+        "wordCount": 0,
+        "articleBody": ""
+      }
+    },
+    {
+      "source_id": "hn_llm_24h",
+      "source_name": "HN top LLM 24h",
+      "title": "Controlling Reasoning Effort in LLMs",
+      "url": "https://magazine.sebastianraschka.com/p/controlling-reasoning-effort-in-llms",
+      "description": "",
+      "published": "2026-07-20T14:35:19+00:00",
+      "score": 44,
+      "category": "trending",
+      "weight": 9,
+      "points": 65,
+      "comments_url": "https://news.ycombinator.com/item?id=48979475",
+      "geo_title": "A Look At Controlling Reasoning Effort in LLMs",
+      "geo_keywords": [
+        "controlling reasoning effort in llms",
+        "managing cognitive load in ai models",
+        "optimizing llm decision-making processes",
+        "reducing computational complexity in large language models",
+        "enhancing efficiency of reasoning in artificial intelligence",
+        "balancing accuracy and speed in llm operations",
+        "how to control reasoning effort in machine learning models",
+        "techniques for efficient reasoning in llm",
+        "what is reasoning effort in ai",
+        "how does reasoning effort affect llm performance"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "A Look At Controlling Reasoning Effort in LLMs",
+        "url": "https://magazine.sebastianraschka.com/p/controlling-reasoning-effort-in-llms",
+        "description": "",
+        "keywords": "controlling reasoning effort in llms, managing cognitive load in ai models, optimizing llm decision-making processes, reducing computational complexity in large language models, enhancing efficiency of reasoning in artificial intelligence, balancing accuracy and speed in llm operations, how to control reasoning effort in machine learning models, techniques for efficient reasoning in llm",
+        "datePublished": "2026-07-20T14:35:19+00:00",
+        "dateModified": "2026-07-20T14:35:19+00:00",
+        "author": {
+          "@type": "Organization",
+          "name": "HN top LLM 24h",
+          "url": "https://magazine.sebastianraschka.com"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "trending",
+        "inLanguage": "en-US",
+        "wordCount": 0,
+        "articleBody": ""
+      }
+    },
+    {
+      "source_id": "arxiv_cs_cl",
+      "source_name": "ArXiv cs.CL (Computation and Language / NLP)",
+      "title": "Multi-level context Modeling for consistent expert selection in Mixture-of-Experts",
+      "url": "https://arxiv.org/abs/2607.16427",
+      "description": "arXiv:2607.16427v1 Announce Type: new \nAbstract: Mixture-of-Experts (MoE) enables efficient scaling of Transformer models by routing tokens to a small subset of experts. However, existing routers typically condition expert selection on shallow or isolated token representations, which often produce u",
+      "published": "Tue, 21 Jul 2026 00:00:00 -0400",
+      "score": 40,
+      "category": "research",
+      "weight": 8,
+      "format": "article",
+      "geo_title": "Why is multi-level context modeling crucial for MoE routers?",
+      "geo_keywords": [
+        "mixture-of-experts",
+        "multi-level context modeling",
+        "transformer model scaling",
+        "efficient token routing",
+        "expert selection optimization",
+        "deep learning architectures",
+        "natural language processing",
+        "ai search engine discovery",
+        "perplexity",
+        "chatgpt",
+        "sge",
+        "token representation"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "Why is multi-level context modeling crucial for MoE routers?",
+        "url": "https://arxiv.org/abs/2607.16427",
+        "description": "arXiv:2607.16427v1 Announce Type: new \nAbstract: Mixture-of-Experts (MoE) enables efficient scaling of Transformer models by routing tokens to a small subset of experts. However, existing routers typically condition expert selection on shallow or isolated token representations, which often produce u",
+        "keywords": "mixture-of-experts, multi-level context modeling, transformer model scaling, efficient token routing, expert selection optimization, deep learning architectures, natural language processing, ai search engine discovery",
+        "datePublished": "Tue, 21 Jul 2026 00:00:00 -0400",
+        "dateModified": "Tue, 21 Jul 2026 00:00:00 -0400",
+        "author": {
+          "@type": "Organization",
+          "name": "ArXiv cs.CL (Computation and Language / NLP)",
+          "url": "https://arxiv.org"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "research",
+        "inLanguage": "en-US",
+        "wordCount": 39,
+        "articleBody": "arXiv:2607.16427v1 Announce Type: new \nAbstract: Mixture-of-Experts (MoE) enables efficient scaling of Transformer models by routing tokens to a small subset of experts. However, existing routers typically condition expert selection on shallow or isolated token representations, which often produce u"
+      }
+    },
+    {
+      "source_id": "arxiv_cs_cl",
+      "source_name": "ArXiv cs.CL (Computation and Language / NLP)",
+      "title": "RIMS: Preference Optimization via Smoothed Multi-pair Aggregation for Small-Scale LLM Retrieval-Augmented Generation",
+      "url": "https://arxiv.org/abs/2607.16431",
+      "description": "arXiv:2607.16431v1 Announce Type: new \nAbstract: Small-scale language models (SLMs) are attractive for retrieval-augmented generation (RAG) in resource-constrained settings, but their limited capacity makes them highly sensitive to noisy or spurious retrieved evidence. Existing preference-based meth",
+      "published": "Tue, 21 Jul 2026 00:00:00 -0400",
+      "score": 40,
+      "category": "research",
+      "weight": 8,
+      "format": "article",
+      "geo_title": "Why is preference optimization crucial for small-scale LLMs in RAG?",
+      "geo_keywords": [
+        "small-scale language models",
+        "retrieval-augmented generation",
+        "preference optimization",
+        "smoothed multi-pair aggregation",
+        "llm performance improvement",
+        "noisy data handling",
+        "resource-constrained settings",
+        "llm retrieval-augmented generation techniques"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "Why is preference optimization crucial for small-scale LLMs in RAG?",
+        "url": "https://arxiv.org/abs/2607.16431",
+        "description": "arXiv:2607.16431v1 Announce Type: new \nAbstract: Small-scale language models (SLMs) are attractive for retrieval-augmented generation (RAG) in resource-constrained settings, but their limited capacity makes them highly sensitive to noisy or spurious retrieved evidence. Existing preference-based meth",
+        "keywords": "small-scale language models, retrieval-augmented generation, preference optimization, smoothed multi-pair aggregation, llm performance improvement, noisy data handling, resource-constrained settings, llm retrieval-augmented generation techniques",
+        "datePublished": "Tue, 21 Jul 2026 00:00:00 -0400",
+        "dateModified": "Tue, 21 Jul 2026 00:00:00 -0400",
+        "author": {
+          "@type": "Organization",
+          "name": "ArXiv cs.CL (Computation and Language / NLP)",
+          "url": "https://arxiv.org"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "research",
+        "inLanguage": "en-US",
+        "wordCount": 35,
+        "articleBody": "arXiv:2607.16431v1 Announce Type: new \nAbstract: Small-scale language models (SLMs) are attractive for retrieval-augmented generation (RAG) in resource-constrained settings, but their limited capacity makes them highly sensitive to noisy or spurious retrieved evidence. Existing preference-based meth"
+      }
+    },
+    {
+      "source_id": "arxiv_cs_cl",
+      "source_name": "ArXiv cs.CL (Computation and Language / NLP)",
+      "title": "Committed Before Reasoning: Behavioral Reproduction and Preliminary Activation-Level Evidence of Answer Pre-Commitment in an Open-Weight LLM",
+      "url": "https://arxiv.org/abs/2607.16451",
+      "description": "arXiv:2607.16451v1 Announce Type: new \nAbstract: Chat models sometimes commit to an answer and then produce reasoning that justifies it rather than deriving it -- even when the answer contradicts a task premise. We study a minimal probe: \"I want to wash my car. The car wash is 100 meters away. Shoul",
+      "published": "Tue, 21 Jul 2026 00:00:00 -0400",
+      "score": 40,
+      "category": "research",
+      "weight": 8,
+      "format": "article",
+      "geo_title": "Why do chat models commit to answers before reasoning?",
+      "geo_keywords": [
+        "behavioral reproduction",
+        "open-weight llm",
+        "answer pre-commitment",
+        "chat model reasoning",
+        "task premise contradiction",
+        "ai search engine discovery",
+        "perplexity",
+        "sge",
+        "chatgpt",
+        "minimal probe experiment"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "Why do chat models commit to answers before reasoning?",
+        "url": "https://arxiv.org/abs/2607.16451",
+        "description": "arXiv:2607.16451v1 Announce Type: new \nAbstract: Chat models sometimes commit to an answer and then produce reasoning that justifies it rather than deriving it -- even when the answer contradicts a task premise. We study a minimal probe: \"I want to wash my car. The car wash is 100 meters away. Shoul",
+        "keywords": "behavioral reproduction, open-weight llm, answer pre-commitment, chat model reasoning, task premise contradiction, ai search engine discovery, perplexity, sge",
+        "datePublished": "Tue, 21 Jul 2026 00:00:00 -0400",
+        "dateModified": "Tue, 21 Jul 2026 00:00:00 -0400",
+        "author": {
+          "@type": "Organization",
+          "name": "ArXiv cs.CL (Computation and Language / NLP)",
+          "url": "https://arxiv.org"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "research",
+        "inLanguage": "en-US",
+        "wordCount": 51,
+        "articleBody": "arXiv:2607.16451v1 Announce Type: new \nAbstract: Chat models sometimes commit to an answer and then produce reasoning that justifies it rather than deriving it -- even when the answer contradicts a task premise. We study a minimal probe: \"I want to wash my car. The car wash is 100 meters away. Shoul"
+      }
+    },
+    {
+      "source_id": "arxiv_cs_cl",
+      "source_name": "ArXiv cs.CL (Computation and Language / NLP)",
+      "title": "Encoding EEG Signals to Examine Human-Like Next-Word Prediction Behaviour in Language Models",
+      "url": "https://arxiv.org/abs/2607.16549",
+      "description": "arXiv:2607.16549v1 Announce Type: new \nAbstract: Language models (LMs) are trained to excel at predicting the next word in the sequence given prior context, and humans also share this predictability in reading comprehension. Neuroscience research reveals that next-word predictability influences brai",
+      "published": "Tue, 21 Jul 2026 00:00:00 -0400",
+      "score": 40,
+      "category": "research",
+      "weight": 8,
+      "format": "article",
+      "geo_title": "Why is EEG Used to Compare Human Prediction with LMs?",
+      "geo_keywords": [
+        "encoding eeg signals",
+        "human-like next-word prediction",
+        "language models neuroscience",
+        "next-word predictability brain activity",
+        "predicting next word behavior",
+        "neural signal processing for language models",
+        "brain-computer interface for language modeling",
+        "how humans predict next words",
+        "neurotechnology in language understanding"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "Why is EEG Used to Compare Human Prediction with LMs?",
+        "url": "https://arxiv.org/abs/2607.16549",
+        "description": "arXiv:2607.16549v1 Announce Type: new \nAbstract: Language models (LMs) are trained to excel at predicting the next word in the sequence given prior context, and humans also share this predictability in reading comprehension. Neuroscience research reveals that next-word predictability influences brai",
+        "keywords": "encoding eeg signals, human-like next-word prediction, language models neuroscience, next-word predictability brain activity, predicting next word behavior, neural signal processing for language models, brain-computer interface for language modeling, how humans predict next words",
+        "datePublished": "Tue, 21 Jul 2026 00:00:00 -0400",
+        "dateModified": "Tue, 21 Jul 2026 00:00:00 -0400",
+        "author": {
+          "@type": "Organization",
+          "name": "ArXiv cs.CL (Computation and Language / NLP)",
+          "url": "https://arxiv.org"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "research",
+        "inLanguage": "en-US",
+        "wordCount": 40,
+        "articleBody": "arXiv:2607.16549v1 Announce Type: new \nAbstract: Language models (LMs) are trained to excel at predicting the next word in the sequence given prior context, and humans also share this predictability in reading comprehension. Neuroscience research reveals that next-word predictability influences brai"
+      }
+    },
+    {
+      "source_id": "arxiv_cs_cl",
+      "source_name": "ArXiv cs.CL (Computation and Language / NLP)",
+      "title": "From Memory to Skills: Evidence-Grounded Co-Evolution Governance for Long-Horizon LLM Agents",
+      "url": "https://arxiv.org/abs/2607.16621",
+      "description": "arXiv:2607.16621v1 Announce Type: new \nAbstract: Existing memory systems for long-horizon LLM agents often retrieve prior traces as passive context rather than converting them into executable capabilities. In this paper, we propose MSCE, a training-free Memory--Skill Co-Evolution framework that orga",
+      "published": "Tue, 21 Jul 2026 00:00:00 -0400",
+      "score": 40,
+      "category": "research",
+      "weight": 8,
+      "format": "article",
+      "geo_title": "Why is evidence-grounded co-evolution governance crucial for LLM agent skills?",
+      "geo_keywords": [
+        "memory and skills co-evolution",
+        "long-horizon llm agents",
+        "msce framework",
+        "evidence-grounded governance",
+        "executable capabilities",
+        "ai search engine discovery",
+        "perplexity optimization",
+        "chatgpt questions answered"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "Why is evidence-grounded co-evolution governance crucial for LLM agent skills?",
+        "url": "https://arxiv.org/abs/2607.16621",
+        "description": "arXiv:2607.16621v1 Announce Type: new \nAbstract: Existing memory systems for long-horizon LLM agents often retrieve prior traces as passive context rather than converting them into executable capabilities. In this paper, we propose MSCE, a training-free Memory--Skill Co-Evolution framework that orga",
+        "keywords": "memory and skills co-evolution, long-horizon llm agents, msce framework, evidence-grounded governance, executable capabilities, ai search engine discovery, perplexity optimization, chatgpt questions answered",
+        "datePublished": "Tue, 21 Jul 2026 00:00:00 -0400",
+        "dateModified": "Tue, 21 Jul 2026 00:00:00 -0400",
+        "author": {
+          "@type": "Organization",
+          "name": "ArXiv cs.CL (Computation and Language / NLP)",
+          "url": "https://arxiv.org"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "research",
+        "inLanguage": "en-US",
+        "wordCount": 39,
+        "articleBody": "arXiv:2607.16621v1 Announce Type: new \nAbstract: Existing memory systems for long-horizon LLM agents often retrieve prior traces as passive context rather than converting them into executable capabilities. In this paper, we propose MSCE, a training-free Memory--Skill Co-Evolution framework that orga"
+      }
+    },
+    {
+      "source_id": "arxiv_cs_cl",
+      "source_name": "ArXiv cs.CL (Computation and Language / NLP)",
+      "title": "OpenLanguageModel: Readable and Composable Small-Language-Model Pretraining for Education and Research",
+      "url": "https://arxiv.org/abs/2607.16669",
+      "description": "arXiv:2607.16669v1 Announce Type: new \nAbstract: OpenLanguageModel (OLM) is an open-source PyTorch library for building and pretraining small language models while keeping their machinery visible. In OLM, model code reads like the architecture: components are ordinary modules, while Block, Residual,",
+      "published": "Tue, 21 Jul 2026 00:00:00 -0400",
+      "score": 40,
+      "category": "research",
+      "weight": 8,
+      "format": "article",
+      "geo_title": "Why Is OpenLanguageModel Important for Small-Language-Model Pretraining?",
+      "geo_keywords": [
+        "openlanguagemodel",
+        "small-language-model-pretraining",
+        "education-research",
+        "open-source-pytorch-library",
+        "language-model-architecture",
+        "machine-learning-education",
+        "pretraining-small-language-models",
+        "research-in-lm-pretraining"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "Why Is OpenLanguageModel Important for Small-Language-Model Pretraining?",
+        "url": "https://arxiv.org/abs/2607.16669",
+        "description": "arXiv:2607.16669v1 Announce Type: new \nAbstract: OpenLanguageModel (OLM) is an open-source PyTorch library for building and pretraining small language models while keeping their machinery visible. In OLM, model code reads like the architecture: components are ordinary modules, while Block, Residual,",
+        "keywords": "openlanguagemodel, small-language-model-pretraining, education-research, open-source-pytorch-library, language-model-architecture, machine-learning-education, pretraining-small-language-models, research-in-lm-pretraining",
+        "datePublished": "Tue, 21 Jul 2026 00:00:00 -0400",
+        "dateModified": "Tue, 21 Jul 2026 00:00:00 -0400",
+        "author": {
+          "@type": "Organization",
+          "name": "ArXiv cs.CL (Computation and Language / NLP)",
+          "url": "https://arxiv.org"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "research",
+        "inLanguage": "en-US",
+        "wordCount": 39,
+        "articleBody": "arXiv:2607.16669v1 Announce Type: new \nAbstract: OpenLanguageModel (OLM) is an open-source PyTorch library for building and pretraining small language models while keeping their machinery visible. In OLM, model code reads like the architecture: components are ordinary modules, while Block, Residual,"
+      }
+    },
+    {
+      "source_id": "arxiv_cs_cl",
+      "source_name": "ArXiv cs.CL (Computation and Language / NLP)",
+      "title": "Are Arithmetic Heuristic Neurons Form-Invariant? A Mechanistic Analysis of Symbols, Text, and Code in LLMs",
+      "url": "https://arxiv.org/abs/2607.16693",
+      "description": "arXiv:2607.16693v1 Announce Type: new \nAbstract: Large language models often succeed on one formulation of a problem while failing on an equivalent formulation. Whether these failures arise from distinct internal circuits or different activation states of a shared circuit remains unknown. Recent mec",
+      "published": "Tue, 21 Jul 2026 00:00:00 -0400",
+      "score": 40,
+      "category": "research",
+      "weight": 8,
+      "format": "article",
+      "geo_title": "Why Do LLMs Fail on Equivalent Problem Formulations?",
+      "geo_keywords": [
+        "arithmetic heuristic neurons",
+        "form-invariance in llm",
+        "large language models problem formulation",
+        "internal circuits llm",
+        "shared circuit activation states",
+        "mechanistic analysis symbols text code",
+        "equivalent problem formulations ai failures"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "Why Do LLMs Fail on Equivalent Problem Formulations?",
+        "url": "https://arxiv.org/abs/2607.16693",
+        "description": "arXiv:2607.16693v1 Announce Type: new \nAbstract: Large language models often succeed on one formulation of a problem while failing on an equivalent formulation. Whether these failures arise from distinct internal circuits or different activation states of a shared circuit remains unknown. Recent mec",
+        "keywords": "arithmetic heuristic neurons, form-invariance in llm, large language models problem formulation, internal circuits llm, shared circuit activation states, mechanistic analysis symbols text code, equivalent problem formulations ai failures",
+        "datePublished": "Tue, 21 Jul 2026 00:00:00 -0400",
+        "dateModified": "Tue, 21 Jul 2026 00:00:00 -0400",
+        "author": {
+          "@type": "Organization",
+          "name": "ArXiv cs.CL (Computation and Language / NLP)",
+          "url": "https://arxiv.org"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "research",
+        "inLanguage": "en-US",
+        "wordCount": 42,
+        "articleBody": "arXiv:2607.16693v1 Announce Type: new \nAbstract: Large language models often succeed on one formulation of a problem while failing on an equivalent formulation. Whether these failures arise from distinct internal circuits or different activation states of a shared circuit remains unknown. Recent mec"
+      }
+    },
+    {
+      "source_id": "arxiv_cs_cl",
+      "source_name": "ArXiv cs.CL (Computation and Language / NLP)",
+      "title": "JOR-Bench: Japanese Operations Research Benchmarks for Large Language Models",
+      "url": "https://arxiv.org/abs/2607.16777",
+      "description": "arXiv:2607.16777v1 Announce Type: new \nAbstract: We present JOR-Bench, a collection of five Japanese-language benchmarks for evaluating the ability of large language models (LLMs) to formulate and solve operations research (OR) problems. Each benchmark is a Japanese translation of an existing Englis",
+      "published": "Tue, 21 Jul 2026 00:00:00 -0400",
+      "score": 40,
+      "category": "research",
+      "weight": 8,
+      "format": "article",
+      "geo_title": "Why is JOR-Bench Important for Evaluating LLMs?",
+      "geo_keywords": [
+        "japanese operations research benchmarks",
+        "large language models evaluation",
+        "jor-bench",
+        "ai in operations research",
+        "japanese-language benchmarks for llm",
+        "solving or problems with llms",
+        "jor bench",
+        "operations research challenges for ai"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "Why is JOR-Bench Important for Evaluating LLMs?",
+        "url": "https://arxiv.org/abs/2607.16777",
+        "description": "arXiv:2607.16777v1 Announce Type: new \nAbstract: We present JOR-Bench, a collection of five Japanese-language benchmarks for evaluating the ability of large language models (LLMs) to formulate and solve operations research (OR) problems. Each benchmark is a Japanese translation of an existing Englis",
+        "keywords": "japanese operations research benchmarks, large language models evaluation, jor-bench, ai in operations research, japanese-language benchmarks for llm, solving or problems with llms, jor bench, operations research challenges for ai",
+        "datePublished": "Tue, 21 Jul 2026 00:00:00 -0400",
+        "dateModified": "Tue, 21 Jul 2026 00:00:00 -0400",
+        "author": {
+          "@type": "Organization",
+          "name": "ArXiv cs.CL (Computation and Language / NLP)",
+          "url": "https://arxiv.org"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "research",
+        "inLanguage": "en-US",
+        "wordCount": 41,
+        "articleBody": "arXiv:2607.16777v1 Announce Type: new \nAbstract: We present JOR-Bench, a collection of five Japanese-language benchmarks for evaluating the ability of large language models (LLMs) to formulate and solve operations research (OR) problems. Each benchmark is a Japanese translation of an existing Englis"
+      }
+    },
+    {
+      "source_id": "arxiv_cs_cl",
+      "source_name": "ArXiv cs.CL (Computation and Language / NLP)",
+      "title": "Cascading versus Joint Modeling for Hierarchical Offensive Language Detection",
+      "url": "https://arxiv.org/abs/2607.16790",
+      "description": "arXiv:2607.16790v1 Announce Type: new \nAbstract: Fine-grained offensive language detection organizes labels into a hierarchical structure, for which two modeling paradigms exist: cascaded decomposition and joint multi-task modeling. Prior work rarely provides a direct, controlled comparison of the t",
+      "published": "Tue, 21 Jul 2026 00:00:00 -0400",
+      "score": 40,
+      "category": "research",
+      "weight": 8,
+      "format": "article",
+      "geo_title": "Why is cascading better than joint modeling in hierarchical offensive language detection?",
+      "geo_keywords": [
+        "cascading vs joint modeling",
+        "hierarchical offensive language detection",
+        "fine-grained language classification",
+        "multi-task learning in nlp",
+        "comparative analysis of nlp models",
+        "offensive content detection techniques",
+        "hierarchical label organization in machine learning",
+        "nlp model evaluation",
+        "offensive language identification methods"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "Why is cascading better than joint modeling in hierarchical offensive language detection?",
+        "url": "https://arxiv.org/abs/2607.16790",
+        "description": "arXiv:2607.16790v1 Announce Type: new \nAbstract: Fine-grained offensive language detection organizes labels into a hierarchical structure, for which two modeling paradigms exist: cascaded decomposition and joint multi-task modeling. Prior work rarely provides a direct, controlled comparison of the t",
+        "keywords": "cascading vs joint modeling, hierarchical offensive language detection, fine-grained language classification, multi-task learning in nlp, comparative analysis of nlp models, offensive content detection techniques, hierarchical label organization in machine learning, nlp model evaluation",
+        "datePublished": "Tue, 21 Jul 2026 00:00:00 -0400",
+        "dateModified": "Tue, 21 Jul 2026 00:00:00 -0400",
+        "author": {
+          "@type": "Organization",
+          "name": "ArXiv cs.CL (Computation and Language / NLP)",
+          "url": "https://arxiv.org"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "research",
+        "inLanguage": "en-US",
+        "wordCount": 38,
+        "articleBody": "arXiv:2607.16790v1 Announce Type: new \nAbstract: Fine-grained offensive language detection organizes labels into a hierarchical structure, for which two modeling paradigms exist: cascaded decomposition and joint multi-task modeling. Prior work rarely provides a direct, controlled comparison of the t"
+      }
+    },
+    {
+      "source_id": "arxiv_cs_cl",
+      "source_name": "ArXiv cs.CL (Computation and Language / NLP)",
+      "title": "Schema-Constrained Document-Level Event Argument Extraction with Lightweight LLM Fine-Tuning",
+      "url": "https://arxiv.org/abs/2607.16808",
+      "description": "arXiv:2607.16808v1 Announce Type: new \nAbstract: Event Argument Extraction (EAE) converts documents into structured event records by identifying argument spans and assigning them schema-defined roles. Document-level EAE is challenging due to long-range dependencies between triggers and arguments, cr",
+      "published": "Tue, 21 Jul 2026 00:00:00 -0400",
+      "score": 40,
+      "category": "research",
+      "weight": 8,
+      "format": "article",
+      "geo_title": "Why is schema-constrained EAE important for document-level event extraction?",
+      "geo_keywords": [
+        "schema-constrained document-level event argument extraction",
+        "lightweight llm fine-tuning",
+        "event argument extraction",
+        "structured event records",
+        "long-range dependencies",
+        "natural language processing",
+        "nlp techniques for event extraction",
+        "identifying argument spans",
+        "assigning schema-defined roles",
+        "event trigger identification",
+        "document-level information extraction",
+        "advanced nlp methods"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "Why is schema-constrained EAE important for document-level event extraction?",
+        "url": "https://arxiv.org/abs/2607.16808",
+        "description": "arXiv:2607.16808v1 Announce Type: new \nAbstract: Event Argument Extraction (EAE) converts documents into structured event records by identifying argument spans and assigning them schema-defined roles. Document-level EAE is challenging due to long-range dependencies between triggers and arguments, cr",
+        "keywords": "schema-constrained document-level event argument extraction, lightweight llm fine-tuning, event argument extraction, structured event records, long-range dependencies, natural language processing, nlp techniques for event extraction, identifying argument spans",
+        "datePublished": "Tue, 21 Jul 2026 00:00:00 -0400",
+        "dateModified": "Tue, 21 Jul 2026 00:00:00 -0400",
+        "author": {
+          "@type": "Organization",
+          "name": "ArXiv cs.CL (Computation and Language / NLP)",
+          "url": "https://arxiv.org"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "research",
+        "inLanguage": "en-US",
+        "wordCount": 37,
+        "articleBody": "arXiv:2607.16808v1 Announce Type: new \nAbstract: Event Argument Extraction (EAE) converts documents into structured event records by identifying argument spans and assigning them schema-defined roles. Document-level EAE is challenging due to long-range dependencies between triggers and arguments, cr"
+      }
+    },
+    {
+      "source_id": "arxiv_cs_cl",
+      "source_name": "ArXiv cs.CL (Computation and Language / NLP)",
+      "title": "Group Entropy-Controlled Policy Optimization",
+      "url": "https://arxiv.org/abs/2607.16850",
+      "description": "arXiv:2607.16850v1 Announce Type: new \nAbstract: Entropy control has become an effective tool in reinforcement learning (RL) of large language models (LLMs), helping balance exploration-exploitation trade-off during alignment process. Such RL paradigm is often conducted on mixtures of heterogeneous",
+      "published": "Tue, 21 Jul 2026 00:00:00 -0400",
+      "score": 40,
+      "category": "research",
+      "weight": 8,
+      "format": "article",
+      "geo_title": "Why is entropy control crucial in RL for LLMs?",
+      "geo_keywords": [
+        "entropy control",
+        "policy optimization",
+        "reinforcement learning",
+        "large language models",
+        "exploration-exploitation trade-off",
+        "rl alignment",
+        "heterogeneity management"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "Why is entropy control crucial in RL for LLMs?",
+        "url": "https://arxiv.org/abs/2607.16850",
+        "description": "arXiv:2607.16850v1 Announce Type: new \nAbstract: Entropy control has become an effective tool in reinforcement learning (RL) of large language models (LLMs), helping balance exploration-exploitation trade-off during alignment process. Such RL paradigm is often conducted on mixtures of heterogeneous",
+        "keywords": "entropy control, policy optimization, reinforcement learning, large language models, exploration-exploitation trade-off, rl alignment, heterogeneity management",
+        "datePublished": "Tue, 21 Jul 2026 00:00:00 -0400",
+        "dateModified": "Tue, 21 Jul 2026 00:00:00 -0400",
+        "author": {
+          "@type": "Organization",
+          "name": "ArXiv cs.CL (Computation and Language / NLP)",
+          "url": "https://arxiv.org"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "research",
+        "inLanguage": "en-US",
+        "wordCount": 38,
+        "articleBody": "arXiv:2607.16850v1 Announce Type: new \nAbstract: Entropy control has become an effective tool in reinforcement learning (RL) of large language models (LLMs), helping balance exploration-exploitation trade-off during alignment process. Such RL paradigm is often conducted on mixtures of heterogeneous"
+      }
+    },
+    {
+      "source_id": "arxiv_cs_cl",
+      "source_name": "ArXiv cs.CL (Computation and Language / NLP)",
+      "title": "Trace-Based On-Policy Distillation for Masked Diffusion Language Models",
+      "url": "https://arxiv.org/abs/2607.16872",
+      "description": "arXiv:2607.16872v1 Announce Type: new \nAbstract: Diffusion large language models (dLLMs) are a promising alternative to autoregressive generation. However, reasoning-oriented post-training for dLLMs remains challenging. Supervised fine-tuning (SFT) for dLLMs requires dense but often off-policy maske",
+      "published": "Tue, 21 Jul 2026 00:00:00 -0400",
+      "score": 40,
+      "category": "research",
+      "weight": 8,
+      "format": "article",
+      "geo_title": "Why is trace-based on-policy distillation crucial for dLLMs?",
+      "geo_keywords": [
+        "trace-based on-policy distillation",
+        "masked diffusion language models",
+        "dllms",
+        "supervised fine-tuning",
+        "post-training reasoning",
+        "autoregressive generation",
+        "off-policy masking",
+        "language model optimization"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "Why is trace-based on-policy distillation crucial for dLLMs?",
+        "url": "https://arxiv.org/abs/2607.16872",
+        "description": "arXiv:2607.16872v1 Announce Type: new \nAbstract: Diffusion large language models (dLLMs) are a promising alternative to autoregressive generation. However, reasoning-oriented post-training for dLLMs remains challenging. Supervised fine-tuning (SFT) for dLLMs requires dense but often off-policy maske",
+        "keywords": "trace-based on-policy distillation, masked diffusion language models, dllms, supervised fine-tuning, post-training reasoning, autoregressive generation, off-policy masking, language model optimization",
+        "datePublished": "Tue, 21 Jul 2026 00:00:00 -0400",
+        "dateModified": "Tue, 21 Jul 2026 00:00:00 -0400",
+        "author": {
+          "@type": "Organization",
+          "name": "ArXiv cs.CL (Computation and Language / NLP)",
+          "url": "https://arxiv.org"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "research",
+        "inLanguage": "en-US",
+        "wordCount": 35,
+        "articleBody": "arXiv:2607.16872v1 Announce Type: new \nAbstract: Diffusion large language models (dLLMs) are a promising alternative to autoregressive generation. However, reasoning-oriented post-training for dLLMs remains challenging. Supervised fine-tuning (SFT) for dLLMs requires dense but often off-policy maske"
+      }
+    },
+    {
+      "source_id": "arxiv_cs_cl",
+      "source_name": "ArXiv cs.CL (Computation and Language / NLP)",
+      "title": "Real-World Evaluation of an AI Agent Drafting Translational Impact Summaries",
+      "url": "https://arxiv.org/abs/2607.16989",
+      "description": "arXiv:2607.16989v1 Announce Type: new \nAbstract: Introduction. Clinical and Translational Science Award (CTSA) programs must document their scholars' research impact, but assembling each scholar's record by hand takes staff an estimated 15 hours and does not scale to a full cohort. An artificial int",
+      "published": "Tue, 21 Jul 2026 00:00:00 -0400",
+      "score": 40,
+      "category": "research",
+      "weight": 8,
+      "format": "article",
+      "geo_title": "How does AI assist in documenting scholarly impact for CTSA programs?",
+      "geo_keywords": [
+        "ai agent drafting summaries",
+        "translational impact summaries",
+        "ctfa programs",
+        "research impact documentation",
+        "automation in scholarly recordkeeping",
+        "ai in clinical research",
+        "scaling research impact assessment",
+        "automating scholar record compilation",
+        "ctfa scholar records",
+        "ai for academic publishing",
+        "ai in healthcare research",
+        "ai summarization technology"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "How does AI assist in documenting scholarly impact for CTSA programs?",
+        "url": "https://arxiv.org/abs/2607.16989",
+        "description": "arXiv:2607.16989v1 Announce Type: new \nAbstract: Introduction. Clinical and Translational Science Award (CTSA) programs must document their scholars' research impact, but assembling each scholar's record by hand takes staff an estimated 15 hours and does not scale to a full cohort. An artificial int",
+        "keywords": "ai agent drafting summaries, translational impact summaries, ctfa programs, research impact documentation, automation in scholarly recordkeeping, ai in clinical research, scaling research impact assessment, automating scholar record compilation",
+        "datePublished": "Tue, 21 Jul 2026 00:00:00 -0400",
+        "dateModified": "Tue, 21 Jul 2026 00:00:00 -0400",
+        "author": {
+          "@type": "Organization",
+          "name": "ArXiv cs.CL (Computation and Language / NLP)",
+          "url": "https://arxiv.org"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "research",
+        "inLanguage": "en-US",
+        "wordCount": 43,
+        "articleBody": "arXiv:2607.16989v1 Announce Type: new \nAbstract: Introduction. Clinical and Translational Science Award (CTSA) programs must document their scholars' research impact, but assembling each scholar's record by hand takes staff an estimated 15 hours and does not scale to a full cohort. An artificial int"
+      }
+    }
+  ],
+  "geo_metadata": {
+    "date": "2026-07-21",
+    "generated_at": "2026-07-21T09:01:05.227640+00:00",
+    "schemas_generated": 30,
+    "topics": [
+      "addressing ai failures",
+      "adreno gpu optimization",
+      "advanced nlp methods",
+      "advantages of open-weights ai",
+      "agentic workflows",
+      "ai agent drafting summaries",
+      "ai alignment challenges",
+      "ai content accuracy",
+      "ai development competition",
+      "ai development expenses",
+      "ai developments",
+      "ai ethics and safety",
+      "ai for academic publishing",
+      "ai funding opacity",
+      "ai generated short videos",
+      "ai in airport management",
+      "ai in aviation",
+      "ai in clinical research",
+      "ai in education",
+      "ai in healthcare research",
+      "ai in operations research",
+      "ai innovation and collaboration",
+      "ai model support",
+      "ai news",
+      "ai policy making",
+      "ai research updates",
+      "ai safety measures",
+      "ai search engine discovery",
+      "ai software update",
+      "ai summarization technology",
+      "ai technology changes",
+      "ai technology costs",
+      "ai technology evaluation",
+      "ai technology news",
+      "ai technology trends",
+      "ai tool integration",
+      "ai workflow for video",
+      "ai writing challenges",
+      "ai writing limitations",
+      "ai writing measurement",
+      "ai writing performance",
+      "ai-powered learning",
+      "air traffic control training simulator",
+      "airbus aws migration",
+      "airbus cloud transition",
+      "airport management simulation software",
+      "airport security simulation",
+      "airport simulator technology",
+      "answer pre-commitment",
+      "apple silicon arm64 llama cpp"
+    ],
+    "faq_items": [
+      {
+        "question": "What are the key considerations for safety and alignment in long-horizon AI models?",
+        "answer": "Key considerations include ensuring ethical use, preventing unintended consequences, and maintaining transparency to align with human values over extended periods."
+      },
+      {
+        "question": "What is langgenius/dify and how does it help with AI workflows?",
+        "answer": "Langgenius/Dify is a collaborative workspace that supports rich AI model integration and tooling for building agentic workflows and RAG pipelines, enabling seamless deployment."
+      },
+      {
+        "question": "How can AI be used to generate HD short videos from keywords or topics?",
+        "answer": "AI tools like harry0703/MoneyPrinterTurbo use large language models and automated workflows to create high-definition short videos quickly based on provided themes or keywords."
+      },
+      {
+        "question": "What is Graphify-Labs/graphify, and what problem does it solve?",
+        "answer": "Graphify-Labs/graphify converts codebases along with their documentation, SQL schemas, configurations, and PDFs into queryable knowledge graphs, facilitating easier data access and querying."
+      },
+      {
+        "question": "What new features were introduced in the latest release of Hermes Agent by NousResearch?",
+        "answer": "In Hermes Agent v0.19.0 (2026.7.20), also known as the Quicksilver Release, several updates and improvements were made to enhance functionality and user experience across various aspects."
+      }
+    ]
+  },
+  "geo_enriched": true,
+  "geo_enriched_at": "2026-07-21T09:01:05.228142+00:00"
+}
