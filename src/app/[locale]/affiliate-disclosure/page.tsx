@@ -47,7 +47,6 @@ export default async function AffiliateDisclosurePage({ params }: { params: Prom
               <li>Vercel Affiliate Program</li>
               <li>Supabase Partner Program</li>
               <li>ElevenLabs Affiliate Program</li>
-              <li>Pinecone Affiliate Program</li>
             </ul>
           </section>
 
