@@ -6,15 +6,16 @@ category: "Cloud Hosting"
 tags: [aws, hetzner, cloud-migration, gpu, llm, inference, cost-optimization]
 affiliatePrograms: [Hetzner, DigitalOcean]
 image: "/api/og?title=AWS+to+Hetzner+GPU&logos=hetzner,digitalocean&category=Cloud+Hosting&tags=aws,gpu,llm"
+verification: "market-analysis"
 ---
 
 # Moving AI Inference from AWS GPU to Hetzner Bare Metal
 
-The AWS bill landed on a Tuesday: **$1,340** for the month. NAT gateways and cross-AZ transfer were noise. The line item that triggered the audit was a `p3.2xlarge` running Llama inference at 11% average GPU utilization — billed at $3.06/hour whether the model was serving traffic or idle at 3am.
+One line item drove the audit: an EC2 `p3.2xlarge` running Llama inference at 11% average GPU utilization, billed at $3.06/hour whether the model was serving traffic or idle at 3am. NAT gateways and cross-AZ transfer were noise by comparison — the GPU instance alone was 81% of the bill. Once every AWS cost riding alongside it was added up — embeddings, vector DB, load balancing — the full stack came to **$2,745/month**.
 
 That was when the cloud bill stopped being infrastructure and became **margin leakage**.
 
-Fourteen months later, the same inference workload runs on a <a href="https://www.hetzner.com/?ref=thinkflow" rel="sponsored nofollow">Hetzner GEX44</a> in Falkenstein. GPU compute: **€232/month** (~$272 at mid-2026 rates). Same model family, same API contract, P95 latency down from 890ms to 390ms for European users. S3, SES, and CloudFront stayed on AWS — hybrid, not ideological.
+The same inference workload now runs on a <a href="https://www.hetzner.com/?ref=thinkflow" rel="sponsored nofollow">Hetzner GEX44</a> in Falkenstein. Full stack: **$377/month**. Same model family, same API contract, P95 latency down from 890ms to 390ms for European users. S3, SES, and CloudFront stayed on AWS — hybrid, not ideological.
 
 Below: July 2026 pricing after Hetzner's June cloud adjustment, GPU comparisons against AWS p3/p4/g5, a phased migration with Terraform and Docker, production benchmarks, and a decision framework for when AWS still earns its premium.
 

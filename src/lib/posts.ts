@@ -4,6 +4,10 @@ import matter from "gray-matter";
 import { remark } from "remark";
 import html from "remark-html";
 
+function parseVerification(value: unknown): "production-tested" | "market-analysis" {
+  return value === "production-tested" ? "production-tested" : "market-analysis";
+}
+
 function buildOgImageUrl(meta: { title: string; category: string; tags: string[]; affiliatePrograms: string[] }): string {
   const params = new URLSearchParams();
   params.set("title", meta.title);
@@ -32,6 +36,7 @@ export interface PostMeta {
   affiliatePrograms: string[];
   readingTime: number;
   image: string;
+  verification: "production-tested" | "market-analysis";
 }
 
 export interface Post {
@@ -64,6 +69,7 @@ export function getAllPosts(locale?: string): PostMeta[] {
         affiliatePrograms,
         readingTime: Math.max(1, Math.ceil(wordCount / 200)),
         image: buildOgImageUrl({ title, category, tags, affiliatePrograms }),
+        verification: parseVerification(data.verification),
       };
     })
     .sort((a, b) => new Date(b.date).getTime() - new Date(a.date).getTime());
@@ -107,6 +113,7 @@ export async function getPost(slug: string, locale?: string): Promise<Post | nul
       affiliatePrograms,
       readingTime: Math.max(1, Math.ceil(wordCount / 200)),
       image: buildOgImageUrl({ title, category, tags, affiliatePrograms }),
+      verification: data.verification === "production-tested" ? "production-tested" : "market-analysis",
     },
     content: htmlContent,
     wordCount,

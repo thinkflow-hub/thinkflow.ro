@@ -32,20 +32,39 @@ export default async function AffiliateDisclosurePage({ params }: { params: Prom
           <section className="mb-8">
             <h2 className="mb-3 text-xl font-montserrat-bold">Our Commitment</h2>
             <p className="leading-relaxed text-white/60 font-montserrat-regular text-sm">
-              We only recommend products and services that we have personally tested, evaluated, or have
-              strong reason to believe will provide value to our readers. Our reviews and comparisons are
-              based on actual testing, benchmarks, and honest assessment of pros and cons. Affiliate
-              relationships do not influence our editorial content.
+              We label every article with one of two tags, visible at the top of the post, so you know
+              exactly what you are reading:
+            </p>
+            <ul className="mt-3 list-disc space-y-2 pl-6 text-white/60 font-montserrat-regular text-sm">
+              <li>
+                <strong className="text-white">Verified from production</strong> — based on our own
+                infrastructure, our own benchmarks, and work we actually shipped. Numbers in these posts
+                are ours.
+              </li>
+              <li>
+                <strong className="text-white">Market analysis</strong> — informed analysis and comparison
+                based on public documentation, vendor-published pricing, and available third-party
+                benchmarks, not independently re-tested by us. Still honest, still useful, but not a claim
+                of hands-on testing.
+              </li>
+            </ul>
+            <p className="mt-3 leading-relaxed text-white/60 font-montserrat-regular text-sm">
+              Affiliate relationships do not influence which products we recommend or how we label an
+              article.
             </p>
           </section>
 
           <section className="mb-8">
             <h2 className="mb-3 text-xl font-montserrat-bold">Programs We Participate In</h2>
             <ul className="list-disc space-y-1 pl-6 text-white/60 font-montserrat-regular text-sm">
+              <li>Hetzner Affiliate Program</li>
               <li>DigitalOcean Affiliate Program</li>
               <li>Vultr Affiliate Program</li>
+              <li>Cloudflare Affiliate Program</li>
               <li>Vercel Affiliate Program</li>
               <li>Supabase Partner Program</li>
+              <li>Qdrant Affiliate Program</li>
+              <li>Weaviate Affiliate Program</li>
               <li>ElevenLabs Affiliate Program</li>
             </ul>
           </section>

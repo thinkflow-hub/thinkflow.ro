@@ -6,6 +6,7 @@ category: "AI Infrastructure"
 tags: [ai, chatbots, ai-agencies, rag, infrastructure, agentic-ai]
 affiliatePrograms: []
 image: "/images/blog/ai-agencies-selling-chatbots-why-they-lose.webp"
+verification: "market-analysis"
 ---
 
 # Why 99% of AI Agencies Sell Chatbots — and Why They Are Losing

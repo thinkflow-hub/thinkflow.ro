@@ -37,7 +37,7 @@ export default async function MediaKitPage({ params }: { params: Promise<{ local
               <li><span className="text-white font-montserrat-bold">AI &amp; LLM Engineering</span> — RAG pipelines, Ollama, vector databases, agent orchestration</li>
               <li><span className="text-white font-montserrat-bold">DevOps &amp; Automation</span> — Docker, CI/CD, monitoring, browser automation</li>
               <li><span className="text-white font-montserrat-bold">Web Development</span> — Next.js, Astro, performance optimization, SEO</li>
-              <li><span className="text-white font-montserrat-bold">Technical Comparisons</span> — GEO-optimized, benchmark-driven, honest pros/cons</li>
+              <li><span className="text-white font-montserrat-bold">Technical Comparisons</span> — GEO-optimized, clearly labeled as production-verified or market analysis, honest pros/cons</li>
             </ul>
           </section>
 

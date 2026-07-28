@@ -6,6 +6,7 @@ category: "AI Infrastructure"
 tags: [rag, pipeline, qdrant, llm, production, ai, retrieval-augmented-generation]
 affiliatePrograms: [Qdrant]
 image: "/images/blog/rag-pipeline-production-that-actually-works.webp"
+verification: "market-analysis"
 ---
 
 # What a RAG Pipeline That Actually Works in Production Looks Like

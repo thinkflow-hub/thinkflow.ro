@@ -6,6 +6,7 @@ category: "Cloud Hosting"
 tags: [aws, vultr, hetzner, cloud, hosting, nextjs, devops]
 affiliatePrograms: [Vultr, Hetzner]
 image: "/api/og?title=I+Switched+from+AWS+to+Vultr+and+Hetzner&logos=vultr,hetzner&category=Cloud+Hosting&tags=aws,cloud,cost"
+verification: "market-analysis"
 ---
 
 # I Switched from AWS to Vultr and Hetzner — Here Is What I Learned

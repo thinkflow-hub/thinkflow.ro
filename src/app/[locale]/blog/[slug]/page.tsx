@@ -107,7 +107,23 @@ export default async function BlogPostPage({ params }: { params: Promise<{ slug:
 
         <article className="min-w-0 flex-1 max-w-3xl">
           <header className="mb-8">
-            <time className="text-sm text-muted">{post.meta.date}</time>
+            <div className="flex flex-wrap items-center gap-2">
+              <time className="text-sm text-muted">{post.meta.date}</time>
+              <span
+                className={`rounded-full border px-2.5 py-0.5 text-[11px] font-semibold uppercase tracking-wider ${
+                  post.meta.verification === "production-tested"
+                    ? "border-accent/30 bg-accent/10 text-accent"
+                    : "border-border bg-white/5 text-muted"
+                }`}
+                title={
+                  post.meta.verification === "production-tested"
+                    ? "Based on our own production work — benchmarks and results we ran ourselves."
+                    : "Analysis based on public data, vendor docs, and available benchmarks — not independently re-tested by us."
+                }
+              >
+                {post.meta.verification === "production-tested" ? "Verified from production" : "Market analysis"}
+              </span>
+            </div>
             <h1 className="mb-3 mt-1 text-3xl font-bold">{post.meta.title}</h1>
             <p className="text-lg text-muted">{post.meta.description}</p>
             {post.meta.tags.length > 0 && (

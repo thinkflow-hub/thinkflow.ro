@@ -6,6 +6,7 @@ category: "Cloud Hosting"
 tags: [serverless, gpu, cost-analysis, vercel, hetzner, llm-inference]
 affiliatePrograms: [Vercel, Hetzner]
 image: "/api/og?title=Serverless+vs+Dedicated+GPU&logos=vercel,hetzner&category=Cloud+Hosting&tags=cost,gpu,llm"
+verification: "market-analysis"
 ---
 
 # Serverless vs Dedicated GPU: The Exact Cost Tipping Point

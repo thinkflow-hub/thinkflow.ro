@@ -6,6 +6,7 @@ category: "AI Infrastructure"
 tags: [mcp, cloudflare, workers, fastapi, llm, ai-agents, protocol]
 affiliatePrograms: [Cloudflare]
 image: "/api/og?title=MCP+Server+Cloudflare+Workers&logos=cloudflare&category=AI+Infrastructure&tags=mcp,workers,fastapi"
+verification: "market-analysis"
 ---
 
 # How to Build an MCP Server with Cloudflare Workers and FastAPI

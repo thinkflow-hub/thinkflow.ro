@@ -6,6 +6,7 @@ category: "Web Development"
 tags: [nextjs, fastapi, supabase, auth, template, ai-app, fullstack]
 affiliatePrograms: [Vercel, Supabase]
 image: "/api/og?title=Next.js+16+FastAPI+Supabase&logos=vercel,supabase&category=Web+Development&tags=nextjs,fastapi,ai"
+verification: "market-analysis"
 ---
 
 # Next.js 16 + FastAPI + Supabase Auth: Production-Ready AI App Template
