@@ -1,6 +1,6 @@
 {
   "date": "2026-07-25",
-  "generated_at": "2026-07-28T13:00:02.856231+00:00",
+  "generated_at": "2026-07-28T19:21:40.207303+00:00",
   "results": {
     "hn_ai_24h": {
       "verification_status": "unconfirmed",
@@ -23,11 +23,25 @@
         "Ollama releases"
       ]
     },
+    "latent_space": {
+      "verification_status": "unconfirmed",
+      "sources_count": 1,
+      "sources": [
+        "Latent Space (Substack)"
+      ]
+    },
     "vllm_releases": {
       "verification_status": "unconfirmed",
       "sources_count": 1,
       "sources": [
         "vLLM releases"
+      ]
+    },
+    "marktechpost": {
+      "verification_status": "unconfirmed",
+      "sources_count": 1,
+      "sources": [
+        "MarkTechPost"
       ]
     }
   }

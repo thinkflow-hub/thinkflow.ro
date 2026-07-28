@@ -1,7 +1,14 @@
 {
   "date": "2026-07-27",
-  "generated_at": "2026-07-28T13:00:02.855230+00:00",
+  "generated_at": "2026-07-28T19:21:40.205303+00:00",
   "results": {
+    "openai_blog": {
+      "verification_status": "unconfirmed",
+      "sources_count": 1,
+      "sources": [
+        "OpenAI Blog"
+      ]
+    },
     "hn_ai_24h": {
       "verification_status": "unconfirmed",
       "sources_count": 1,
@@ -16,11 +23,32 @@
         "Ollama releases"
       ]
     },
+    "import_ai": {
+      "verification_status": "unconfirmed",
+      "sources_count": 1,
+      "sources": [
+        "Import AI (Jack Clark)"
+      ]
+    },
     "ggml_releases": {
       "verification_status": "unconfirmed",
       "sources_count": 1,
       "sources": [
         "ggml/llama.cpp releases"
+      ]
+    },
+    "arxiv_cs_cl": {
+      "verification_status": "unconfirmed",
+      "sources_count": 1,
+      "sources": [
+        "ArXiv cs.CL (Computation and Language / NLP)"
+      ]
+    },
+    "arxiv_cs_lg": {
+      "verification_status": "unconfirmed",
+      "sources_count": 1,
+      "sources": [
+        "ArXiv cs.LG (Machine Learning)"
       ]
     }
   }

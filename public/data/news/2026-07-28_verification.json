@@ -1,6 +1,6 @@
 {
   "date": "2026-07-28",
-  "generated_at": "2026-07-28T13:00:02.855230+00:00",
+  "generated_at": "2026-07-28T19:21:40.206301+00:00",
   "results": {
     "trending_agent": {
       "verification_status": "unconfirmed",
@@ -14,6 +14,13 @@
       "sources_count": 1,
       "sources": [
         "ggml/llama.cpp releases"
+      ]
+    },
+    "arxiv_cs_cl": {
+      "verification_status": "unconfirmed",
+      "sources_count": 1,
+      "sources": [
+        "ArXiv cs.CL (Computation and Language / NLP)"
       ]
     }
   }
