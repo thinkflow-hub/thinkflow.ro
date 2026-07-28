@@ -1,0 +1,960 @@
+{
+  "date": "2026-07-25",
+  "last_updated": "2026-07-25T06:00:01.871869+00:00",
+  "total_items": 18,
+  "items": [
+    {
+      "source_id": "hn_llm_24h",
+      "source_name": "HN top LLM 24h",
+      "title": "Hetzner is working on LLM Inference",
+      "url": "https://sliplane.io/blog/hetzner-inference",
+      "description": "",
+      "published": "2026-07-24T09:24:44+00:00",
+      "score": 61,
+      "category": "trending",
+      "weight": 9,
+      "points": 146,
+      "comments_url": "https://news.ycombinator.com/item?id=49033087",
+      "geo_title": "Why is Hetzner Working on LLM Inference?",
+      "geo_keywords": [
+        "hetzner llm inference",
+        "hetzner large language models",
+        "cloud hosting llm",
+        "hetzner ai services",
+        "upcoming ai technologies",
+        "hetzner machine learning hosting",
+        "when will hetzner launch llms",
+        "what is llm inference",
+        "how does llm inference work",
+        "hetzner ai infrastructure"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "Why is Hetzner Working on LLM Inference?",
+        "url": "https://sliplane.io/blog/hetzner-inference",
+        "description": "",
+        "keywords": "hetzner llm inference, hetzner large language models, cloud hosting llm, hetzner ai services, upcoming ai technologies, hetzner machine learning hosting, when will hetzner launch llms, what is llm inference",
+        "datePublished": "2026-07-24T09:24:44+00:00",
+        "dateModified": "2026-07-24T09:24:44+00:00",
+        "author": {
+          "@type": "Organization",
+          "name": "HN top LLM 24h",
+          "url": "https://sliplane.io"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "trending",
+        "inLanguage": "en-US",
+        "wordCount": 0,
+        "articleBody": ""
+      }
+    },
+    {
+      "source_id": "hn_ai_24h",
+      "source_name": "HN top AI 24h",
+      "title": "Nvidia, Microsoft, Meta warn against overregulating open-weight models",
+      "url": "https://www.cnbc.com/2026/07/24/nvidia-microsoft-meta-open-weight-ai-models.html",
+      "description": "",
+      "published": "2026-07-24T13:32:30+00:00",
+      "score": 59,
+      "category": "trending",
+      "weight": 8,
+      "points": 572,
+      "comments_url": "https://news.ycombinator.com/item?id=49035303",
+      "geo_title": "Why is overregulation of AI models a concern for tech giants?",
+      "geo_keywords": [
+        "ai regulation",
+        "open-source ai",
+        "ai model oversight",
+        "ai ethics",
+        "ai policy",
+        "large language models regulation",
+        "ai governance",
+        "ai safety",
+        "what are the concerns about ai regulation",
+        "how does ai regulation affect innovation",
+        "should ai be regulated",
+        "ai model transparency"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "Why is overregulation of AI models a concern for tech giants?",
+        "url": "https://www.cnbc.com/2026/07/24/nvidia-microsoft-meta-open-weight-ai-models.html",
+        "description": "",
+        "keywords": "ai regulation, open-source ai, ai model oversight, ai ethics, ai policy, large language models regulation, ai governance, ai safety",
+        "datePublished": "2026-07-24T13:32:30+00:00",
+        "dateModified": "2026-07-24T13:32:30+00:00",
+        "author": {
+          "@type": "Organization",
+          "name": "HN top AI 24h",
+          "url": "https://www.cnbc.com"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "trending",
+        "inLanguage": "en-US",
+        "wordCount": 0,
+        "articleBody": ""
+      }
+    },
+    {
+      "source_id": "ollama_releases",
+      "source_name": "Ollama releases",
+      "title": "Ollama releases: v0.32.4",
+      "url": "https://github.com/ollama/ollama/releases/tag/v0.32.4-rc0",
+      "description": "## What's Changed\r\n* x/create: quantize lm_head at 8-bit in the requested family by @jessegross in https://github.com/ollama/ollama/pull/17357\r\n* test: harden flaky updater and transfer unit tests by @dhiltgen in https://github.com/ollama/ollama/pull/17378\r\n* server: fix ps data race on scheduler lo",
+      "published": "2026-07-25T02:22:12Z",
+      "score": 54,
+      "category": "releases",
+      "weight": 9,
+      "tag": "v0.32.4-rc0",
+      "geo_title": "Why is Ollama v0.32.4 release focusing on quantization and testing improvements?",
+      "geo_keywords": [
+        "ollama v0.32.4 release",
+        "quantization lm_head 8-bit",
+        "ollama github updates",
+        "flaky updater fixes",
+        "server ps data race",
+        "machine learning model optimization",
+        "ai software updates"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "Why is Ollama v0.32.4 release focusing on quantization and testing improvements?",
+        "url": "https://github.com/ollama/ollama/releases/tag/v0.32.4-rc0",
+        "description": "## What's Changed\r\n* x/create: quantize lm_head at 8-bit in the requested family by @jessegross in https://github.com/ollama/ollama/pull/17357\r\n* test: harden flaky updater and transfer unit tests by @dhiltgen in https://github.com/ollama/ollama/pull/17378\r\n* server: fix ps data race on scheduler lo",
+        "keywords": "ollama v0.32.4 release, quantization lm_head 8-bit, ollama github updates, flaky updater fixes, server ps data race, machine learning model optimization, ai software updates",
+        "datePublished": "2026-07-25T02:22:12Z",
+        "dateModified": "2026-07-25T02:22:12Z",
+        "author": {
+          "@type": "Organization",
+          "name": "Ollama releases",
+          "url": "https://github.com"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "releases",
+        "inLanguage": "en-US",
+        "wordCount": 39,
+        "articleBody": "## What's Changed\r\n* x/create: quantize lm_head at 8-bit in the requested family by @jessegross in https://github.com/ollama/ollama/pull/17357\r\n* test: harden flaky updater and transfer unit tests by @dhiltgen in https://github.com/ollama/ollama/pull/17378\r\n* server: fix ps data race on scheduler lo"
+      }
+    },
+    {
+      "source_id": "hn_ai_24h",
+      "source_name": "HN top AI 24h",
+      "title": "Open Weights and American AI Leadership [pdf]",
+      "url": "https://images.nvidia.com/pdf/Open-Weights-and-American-AI-Leadership.pdf",
+      "description": "",
+      "published": "2026-07-24T13:58:12+00:00",
+      "score": 50,
+      "category": "trending",
+      "weight": 8,
+      "points": 111,
+      "comments_url": "https://news.ycombinator.com/item?id=49035751",
+      "geo_title": "Why Is Open Weights Key to American AI Dominance?",
+      "geo_keywords": [
+        "open weights",
+        "american ai leadership",
+        "ai model sharing",
+        "ai technology collaboration",
+        "ai policy",
+        "ai innovation",
+        "ai development",
+        "what is open weights",
+        "how does open weights impact ai leadership",
+        "who supports open weights initiative"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "Why Is Open Weights Key to American AI Dominance?",
+        "url": "https://images.nvidia.com/pdf/Open-Weights-and-American-AI-Leadership.pdf",
+        "description": "",
+        "keywords": "open weights, american ai leadership, ai model sharing, ai technology collaboration, ai policy, ai innovation, ai development, what is open weights",
+        "datePublished": "2026-07-24T13:58:12+00:00",
+        "dateModified": "2026-07-24T13:58:12+00:00",
+        "author": {
+          "@type": "Organization",
+          "name": "HN top AI 24h",
+          "url": "https://images.nvidia.com"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "trending",
+        "inLanguage": "en-US",
+        "wordCount": 0,
+        "articleBody": ""
+      }
+    },
+    {
+      "source_id": "ggml_releases",
+      "source_name": "ggml/llama.cpp releases",
+      "title": "ggml/llama.cpp releases: b10107",
+      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10107",
+      "description": "<details open>\n\nhexagon: fix Windows crash when op_poll is enabled (#26029)\n\n</details>\n\n**Website:**\n- <https://llama.app>\n\n**macOS/iOS:**\n- [macOS Apple Silicon (arm64)](https://github.com/ggml-org/llama.cpp/releases/download/b10107/llama-b10107-bin-macos-arm64.tar.gz)\n- macOS Apple Silicon (arm64",
+      "published": "2026-07-24T14:01:16Z",
+      "score": 48,
+      "category": "releases",
+      "weight": 8,
+      "tag": "b10107",
+      "geo_title": "Why is ggml/llama.cpp b10107 release fixing Windows crashes important?",
+      "geo_keywords": [
+        "ggml",
+        "llama.cpp",
+        "windows crash fix",
+        "op_poll",
+        "release notes",
+        "ai model optimization",
+        "hexagon library updates"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "Why is ggml/llama.cpp b10107 release fixing Windows crashes important?",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10107",
+        "description": "<details open>\n\nhexagon: fix Windows crash when op_poll is enabled (#26029)\n\n</details>\n\n**Website:**\n- <https://llama.app>\n\n**macOS/iOS:**\n- [macOS Apple Silicon (arm64)](https://github.com/ggml-org/llama.cpp/releases/download/b10107/llama-b10107-bin-macos-arm64.tar.gz)\n- macOS Apple Silicon (arm64",
+        "keywords": "ggml, llama.cpp, windows crash fix, op_poll, release notes, ai model optimization, hexagon library updates",
+        "datePublished": "2026-07-24T14:01:16Z",
+        "dateModified": "2026-07-24T14:01:16Z",
+        "author": {
+          "@type": "Organization",
+          "name": "ggml/llama.cpp releases",
+          "url": "https://github.com"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "releases",
+        "inLanguage": "en-US",
+        "wordCount": 26,
+        "articleBody": "<details open>\n\nhexagon: fix Windows crash when op_poll is enabled (#26029)\n\n</details>\n\n**Website:**\n- <https://llama.app>\n\n**macOS/iOS:**\n- [macOS Apple Silicon (arm64)](https://github.com/ggml-org/llama.cpp/releases/download/b10107/llama-b10107-bin-macos-arm64.tar.gz)\n- macOS Apple Silicon (arm64"
+      }
+    },
+    {
+      "source_id": "ggml_releases",
+      "source_name": "ggml/llama.cpp releases",
+      "title": "ggml/llama.cpp releases: b10106",
+      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10106",
+      "description": "<details open>\n\nCUDA: fix external compilation of q1_0 MMQ (#25778)\n\n</details>\n\n**Website:**\n- <https://llama.app>\n\n**macOS/iOS:**\n- [macOS Apple Silicon (arm64)](https://github.com/ggml-org/llama.cpp/releases/download/b10106/llama-b10106-bin-macos-arm64.tar.gz)\n- macOS Apple Silicon (arm64, Kleidi",
+      "published": "2026-07-24T11:34:41Z",
+      "score": 48,
+      "category": "releases",
+      "weight": 8,
+      "tag": "b10106",
+      "geo_title": "Why is ggml/llama.cpp b10106 release focusing on CUDA external compilation fix?",
+      "geo_keywords": [
+        "cuda",
+        "llama.cpp",
+        "ggml",
+        "q1_0 mmq fix",
+        "external compilation",
+        "machine learning libraries",
+        "ai model optimization",
+        "how to compile llama.cpp",
+        "cuda support for llama.cpp",
+        "latest llama.cpp release"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "Why is ggml/llama.cpp b10106 release focusing on CUDA external compilation fix?",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10106",
+        "description": "<details open>\n\nCUDA: fix external compilation of q1_0 MMQ (#25778)\n\n</details>\n\n**Website:**\n- <https://llama.app>\n\n**macOS/iOS:**\n- [macOS Apple Silicon (arm64)](https://github.com/ggml-org/llama.cpp/releases/download/b10106/llama-b10106-bin-macos-arm64.tar.gz)\n- macOS Apple Silicon (arm64, Kleidi",
+        "keywords": "cuda, llama.cpp, ggml, q1_0 mmq fix, external compilation, machine learning libraries, ai model optimization, how to compile llama.cpp",
+        "datePublished": "2026-07-24T11:34:41Z",
+        "dateModified": "2026-07-24T11:34:41Z",
+        "author": {
+          "@type": "Organization",
+          "name": "ggml/llama.cpp releases",
+          "url": "https://github.com"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "releases",
+        "inLanguage": "en-US",
+        "wordCount": 26,
+        "articleBody": "<details open>\n\nCUDA: fix external compilation of q1_0 MMQ (#25778)\n\n</details>\n\n**Website:**\n- <https://llama.app>\n\n**macOS/iOS:**\n- [macOS Apple Silicon (arm64)](https://github.com/ggml-org/llama.cpp/releases/download/b10106/llama-b10106-bin-macos-arm64.tar.gz)\n- macOS Apple Silicon (arm64, Kleidi"
+      }
+    },
+    {
+      "source_id": "ggml_releases",
+      "source_name": "ggml/llama.cpp releases",
+      "title": "ggml/llama.cpp releases: b10105",
+      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10105",
+      "description": "<details open>\n\nargs: refactor mlock/mmap/directio into load-mode (#20834)\n\n* args: overhaul mmap/mlock/dio into single arg\n\nSigned-off-by: Aaron Teo <aaron.teo1@ibm.com>\n\n* docs: update docs with llama-gen-docs\n\nSigned-off-by: Aaron Teo <aaron.teo1@ibm.com>\n\n* chore: satisfy code quality\n\nSigned-of",
+      "published": "2026-07-24T09:34:02Z",
+      "score": 48,
+      "category": "releases",
+      "weight": 8,
+      "tag": "b10105",
+      "geo_title": "Why is ggml/llama.cpp b10105 release focusing on load-mode refactor?",
+      "geo_keywords": [
+        "ggml",
+        "llama.cpp",
+        "load-mode optimization",
+        "mmap mlock directio",
+        "code quality improvement",
+        "ai library update",
+        "how to optimize ai libraries",
+        "what changes were made in ggml/llama.cpp release b10105"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "Why is ggml/llama.cpp b10105 release focusing on load-mode refactor?",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10105",
+        "description": "<details open>\n\nargs: refactor mlock/mmap/directio into load-mode (#20834)\n\n* args: overhaul mmap/mlock/dio into single arg\n\nSigned-off-by: Aaron Teo <aaron.teo1@ibm.com>\n\n* docs: update docs with llama-gen-docs\n\nSigned-off-by: Aaron Teo <aaron.teo1@ibm.com>\n\n* chore: satisfy code quality\n\nSigned-of",
+        "keywords": "ggml, llama.cpp, load-mode optimization, mmap mlock directio, code quality improvement, ai library update, how to optimize ai libraries, what changes were made in ggml/llama.cpp release b10105",
+        "datePublished": "2026-07-24T09:34:02Z",
+        "dateModified": "2026-07-24T09:34:02Z",
+        "author": {
+          "@type": "Organization",
+          "name": "ggml/llama.cpp releases",
+          "url": "https://github.com"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "releases",
+        "inLanguage": "en-US",
+        "wordCount": 35,
+        "articleBody": "<details open>\n\nargs: refactor mlock/mmap/directio into load-mode (#20834)\n\n* args: overhaul mmap/mlock/dio into single arg\n\nSigned-off-by: Aaron Teo <aaron.teo1@ibm.com>\n\n* docs: update docs with llama-gen-docs\n\nSigned-off-by: Aaron Teo <aaron.teo1@ibm.com>\n\n* chore: satisfy code quality\n\nSigned-of"
+      }
+    },
+    {
+      "source_id": "ggml_releases",
+      "source_name": "ggml/llama.cpp releases",
+      "title": "ggml/llama.cpp releases: b10103",
+      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10103",
+      "description": "<details open>\n\nmetal : add f16 type support to leaky relu (#25981)\n\n</details>\n\n**Website:**\n- <https://llama.app>\n\n**macOS/iOS:**\n- [macOS Apple Silicon (arm64)](https://github.com/ggml-org/llama.cpp/releases/download/b10103/llama-b10103-bin-macos-arm64.tar.gz)\n- macOS Apple Silicon (arm64, Kleidi",
+      "published": "2026-07-24T06:14:22Z",
+      "score": 48,
+      "category": "releases",
+      "weight": 8,
+      "tag": "b10103",
+      "geo_title": "How does ggml/llama.cpp b10103 release expand metal support?",
+      "geo_keywords": [
+        "ggml llama.cpp release",
+        "f16 type support",
+        "leaky relu update",
+        "machine learning framework",
+        "neural network library",
+        "ai model optimization",
+        "what is ggml/llama.cpp",
+        "new features in ggml/llama.cpp"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "How does ggml/llama.cpp b10103 release expand metal support?",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10103",
+        "description": "<details open>\n\nmetal : add f16 type support to leaky relu (#25981)\n\n</details>\n\n**Website:**\n- <https://llama.app>\n\n**macOS/iOS:**\n- [macOS Apple Silicon (arm64)](https://github.com/ggml-org/llama.cpp/releases/download/b10103/llama-b10103-bin-macos-arm64.tar.gz)\n- macOS Apple Silicon (arm64, Kleidi",
+        "keywords": "ggml llama.cpp release, f16 type support, leaky relu update, machine learning framework, neural network library, ai model optimization, what is ggml/llama.cpp, new features in ggml/llama.cpp",
+        "datePublished": "2026-07-24T06:14:22Z",
+        "dateModified": "2026-07-24T06:14:22Z",
+        "author": {
+          "@type": "Organization",
+          "name": "ggml/llama.cpp releases",
+          "url": "https://github.com"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "releases",
+        "inLanguage": "en-US",
+        "wordCount": 28,
+        "articleBody": "<details open>\n\nmetal : add f16 type support to leaky relu (#25981)\n\n</details>\n\n**Website:**\n- <https://llama.app>\n\n**macOS/iOS:**\n- [macOS Apple Silicon (arm64)](https://github.com/ggml-org/llama.cpp/releases/download/b10103/llama-b10103-bin-macos-arm64.tar.gz)\n- macOS Apple Silicon (arm64, Kleidi"
+      }
+    },
+    {
+      "source_id": "hn_ai_24h",
+      "source_name": "HN top AI 24h",
+      "title": "I Tried Building a Real App with AI. It Took a Year",
+      "url": "https://www.alexhyett.com/videos/tried-building-app-with-ai-it-took-a-year/",
+      "description": "",
+      "published": "2026-07-24T12:00:17+00:00",
+      "score": 46,
+      "category": "trending",
+      "weight": 8,
+      "points": 94,
+      "comments_url": "https://news.ycombinator.com/item?id=49034342",
+      "geo_title": "Why Is Building an AI App So Time-Intensive?",
+      "geo_keywords": [
+        "ai app development",
+        "ai technology trends",
+        "building real ai apps",
+        "challenges of ai app development",
+        "time required for ai project",
+        "ai integration in applications",
+        "year-long ai project",
+        "overcoming ai development hurdles"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "Why Is Building an AI App So Time-Intensive?",
+        "url": "https://www.alexhyett.com/videos/tried-building-app-with-ai-it-took-a-year/",
+        "description": "",
+        "keywords": "ai app development, ai technology trends, building real ai apps, challenges of ai app development, time required for ai project, ai integration in applications, year-long ai project, overcoming ai development hurdles",
+        "datePublished": "2026-07-24T12:00:17+00:00",
+        "dateModified": "2026-07-24T12:00:17+00:00",
+        "author": {
+          "@type": "Organization",
+          "name": "HN top AI 24h",
+          "url": "https://www.alexhyett.com"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "trending",
+        "inLanguage": "en-US",
+        "wordCount": 0,
+        "articleBody": ""
+      }
+    },
+    {
+      "source_id": "hn_ai_24h",
+      "source_name": "HN top AI 24h",
+      "title": "AMD's Instinct MI455X: Aiming for the Sun",
+      "url": "https://chipsandcheese.com/p/amds-instinct-mi455x-aiming-for-the",
+      "description": "",
+      "published": "2026-07-24T06:59:07+00:00",
+      "score": 44,
+      "category": "trending",
+      "weight": 8,
+      "points": 81,
+      "comments_url": "https://news.ycombinator.com/item?id=49032072",
+      "geo_title": "How Does AMD's New Instinct MI455X Aim to Revolutionize Performance?",
+      "geo_keywords": [
+        "amd instinct mi455x",
+        "gpu technology",
+        "ai acceleration",
+        "machine learning hardware",
+        "high-performance computing",
+        "data center solutions",
+        "what is amd instinct mi455x",
+        "how does amd's new gpu work"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "How Does AMD's New Instinct MI455X Aim to Revolutionize Performance?",
+        "url": "https://chipsandcheese.com/p/amds-instinct-mi455x-aiming-for-the",
+        "description": "",
+        "keywords": "amd instinct mi455x, gpu technology, ai acceleration, machine learning hardware, high-performance computing, data center solutions, what is amd instinct mi455x, how does amd's new gpu work",
+        "datePublished": "2026-07-24T06:59:07+00:00",
+        "dateModified": "2026-07-24T06:59:07+00:00",
+        "author": {
+          "@type": "Organization",
+          "name": "HN top AI 24h",
+          "url": "https://chipsandcheese.com"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "trending",
+        "inLanguage": "en-US",
+        "wordCount": 0,
+        "articleBody": ""
+      }
+    },
+    {
+      "source_id": "hn_ai_24h",
+      "source_name": "HN top AI 24h",
+      "title": "AIs don't do what you want. This is bad",
+      "url": "https://rewardhacking.org",
+      "description": "",
+      "published": "2026-07-24T22:24:08+00:00",
+      "score": 41,
+      "category": "trending",
+      "weight": 8,
+      "points": 73,
+      "comments_url": "https://news.ycombinator.com/item?id=49042354",
+      "geo_title": "Why is AI failing to meet user expectations?",
+      "geo_keywords": [
+        "ai limitations",
+        "ai fail",
+        "ai ethics",
+        "ai misinterpretation",
+        "ai bias",
+        "ai misunderstanding",
+        "ai reliability",
+        "when ai fails",
+        "how ai goes wrong",
+        "why ai doesn't always work as expected",
+        "ai accuracy issues",
+        "ai decision making problems"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "Why is AI failing to meet user expectations?",
+        "url": "https://rewardhacking.org",
+        "description": "",
+        "keywords": "ai limitations, ai fail, ai ethics, ai misinterpretation, ai bias, ai misunderstanding, ai reliability, when ai fails",
+        "datePublished": "2026-07-24T22:24:08+00:00",
+        "dateModified": "2026-07-24T22:24:08+00:00",
+        "author": {
+          "@type": "Organization",
+          "name": "HN top AI 24h",
+          "url": "https://rewardhacking.org"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "trending",
+        "inLanguage": "en-US",
+        "wordCount": 0,
+        "articleBody": ""
+      }
+    },
+    {
+      "source_id": "hn_ai_24h",
+      "source_name": "HN top AI 24h",
+      "title": "Oracle fires 21,000 employees to fund AI spending",
+      "url": "https://www.jpost.com/business-and-innovation/tech-and-start-ups/article-903442",
+      "description": "",
+      "published": "2026-07-24T13:33:12+00:00",
+      "score": 41,
+      "category": "trending",
+      "weight": 8,
+      "points": 73,
+      "comments_url": "https://news.ycombinator.com/item?id=49035314",
+      "geo_title": "Why is Oracle cutting 21,000 jobs for AI investment?",
+      "geo_keywords": [
+        "oracle layoffs",
+        "ai investment",
+        "oracle financial impact",
+        "ai technology trends",
+        "workforce reduction",
+        "chatgpt ai news",
+        "perplexity ai update",
+        "sge ai developments"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "Why is Oracle cutting 21,000 jobs for AI investment?",
+        "url": "https://www.jpost.com/business-and-innovation/tech-and-start-ups/article-903442",
+        "description": "",
+        "keywords": "oracle layoffs, ai investment, oracle financial impact, ai technology trends, workforce reduction, chatgpt ai news, perplexity ai update, sge ai developments",
+        "datePublished": "2026-07-24T13:33:12+00:00",
+        "dateModified": "2026-07-24T13:33:12+00:00",
+        "author": {
+          "@type": "Organization",
+          "name": "HN top AI 24h",
+          "url": "https://www.jpost.com"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "trending",
+        "inLanguage": "en-US",
+        "wordCount": 0,
+        "articleBody": ""
+      }
+    },
+    {
+      "source_id": "mit_technology_review_ai",
+      "source_name": "MIT Technology Review AI",
+      "title": "The quest to keep organs alive outside the body",
+      "url": "https://www.technologyreview.com/2026/07/24/1140790/the-quest-to-keep-organs-alive-outside-the-body/",
+      "description": "This week, I covered a fascinating effort to preserve organs outside the body. There’s a huge shortage of donor organs, and one of the main reasons is time—they survive only a matter of hours outside the body, even when they’re kept on ice. Doctors dream of organ banks—stores of human organs that ca",
+      "published": "Fri, 24 Jul 2026 17:03:55 +0000",
+      "score": 32,
+      "category": "industry",
+      "weight": 8,
+      "format": "article",
+      "geo_title": "Why is preserving organs outside the body crucial?",
+      "geo_keywords": [
+        "organ preservation",
+        "artificial organ storage",
+        "organ bank",
+        "extended organ viability",
+        "organ transplant technology",
+        "time-limited organ survival",
+        "donor organ shortage",
+        "medical innovation in organ preservation"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "Why is preserving organs outside the body crucial?",
+        "url": "https://www.technologyreview.com/2026/07/24/1140790/the-quest-to-keep-organs-alive-outside-the-body/",
+        "description": "This week, I covered a fascinating effort to preserve organs outside the body. There’s a huge shortage of donor organs, and one of the main reasons is time—they survive only a matter of hours outside the body, even when they’re kept on ice. Doctors dream of organ banks—stores of human organs that ca",
+        "keywords": "organ preservation, artificial organ storage, organ bank, extended organ viability, organ transplant technology, time-limited organ survival, donor organ shortage, medical innovation in organ preservation",
+        "datePublished": "Fri, 24 Jul 2026 17:03:55 +0000",
+        "dateModified": "Fri, 24 Jul 2026 17:03:55 +0000",
+        "author": {
+          "@type": "Organization",
+          "name": "MIT Technology Review AI",
+          "url": "https://www.technologyreview.com"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "industry",
+        "inLanguage": "en-US",
+        "wordCount": 53,
+        "articleBody": "This week, I covered a fascinating effort to preserve organs outside the body. There’s a huge shortage of donor organs, and one of the main reasons is time—they survive only a matter of hours outside the body, even when they’re kept on ice. Doctors dream of organ banks—stores of human organs that ca"
+      }
+    },
+    {
+      "source_id": "mit_technology_review_ai",
+      "source_name": "MIT Technology Review AI",
+      "title": "The Download: an organ transplant breakthrough, and homegrown Chinese chips",
+      "url": "https://www.technologyreview.com/2026/07/24/1140776/the-download-organ-transplant-breakthrough-chinese-chips/",
+      "description": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Supercooled kidneys have been transplanted into pigs in a “landmark achievement”&#160; When it comes to organ donation, time is everything. As soon as",
+      "published": "Fri, 24 Jul 2026 12:10:00 +0000",
+      "score": 32,
+      "category": "industry",
+      "weight": 8,
+      "format": "article",
+      "geo_title": "Why are supercooled kidneys and homegrown chips making headlines?",
+      "geo_keywords": [
+        "organ transplant breakthrough",
+        "supercooled organs",
+        "pig kidney transplant",
+        "homegrown chinese chips",
+        "semiconductor industry china",
+        "technology in organ transplants",
+        "time-sensitive organ donation",
+        "breakthrough in medical technology"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "Why are supercooled kidneys and homegrown chips making headlines?",
+        "url": "https://www.technologyreview.com/2026/07/24/1140776/the-download-organ-transplant-breakthrough-chinese-chips/",
+        "description": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Supercooled kidneys have been transplanted into pigs in a “landmark achievement”&#160; When it comes to organ donation, time is everything. As soon as",
+        "keywords": "organ transplant breakthrough, supercooled organs, pig kidney transplant, homegrown chinese chips, semiconductor industry china, technology in organ transplants, time-sensitive organ donation, breakthrough in medical technology",
+        "datePublished": "Fri, 24 Jul 2026 12:10:00 +0000",
+        "dateModified": "Fri, 24 Jul 2026 12:10:00 +0000",
+        "author": {
+          "@type": "Organization",
+          "name": "MIT Technology Review AI",
+          "url": "https://www.technologyreview.com"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "industry",
+        "inLanguage": "en-US",
+        "wordCount": 47,
+        "articleBody": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Supercooled kidneys have been transplanted into pigs in a “landmark achievement”&#160; When it comes to organ donation, time is everything. As soon as"
+      }
+    },
+    {
+      "source_id": "hn_show_ai_7d",
+      "source_name": "Show HN AI 7d",
+      "title": "Show HN: X402vps – Docker containers for AI agents, paid per hour with USDC",
+      "url": "https://x402vps.com",
+      "description": "",
+      "published": "2026-07-24T12:15:44+00:00",
+      "score": 31,
+      "category": "open_source",
+      "weight": 9,
+      "points": 13,
+      "comments_url": "https://news.ycombinator.com/item?id=49034474",
+      "geo_title": "What is X402vps and how does it work for AI agents?",
+      "geo_keywords": [
+        "ai agents docker containers",
+        "pay per hour ai",
+        "usdc payment for ai",
+        "dockerized ai environments",
+        "hourly billing for ai agents",
+        "ai agent hosting",
+        "containerized ai projects",
+        "cost-effective ai development",
+        "how to host ai agents",
+        "what is x402vps",
+        "ai technology deployment",
+        "ai agent management"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "What is X402vps and how does it work for AI agents?",
+        "url": "https://x402vps.com",
+        "description": "",
+        "keywords": "ai agents docker containers, pay per hour ai, usdc payment for ai, dockerized ai environments, hourly billing for ai agents, ai agent hosting, containerized ai projects, cost-effective ai development",
+        "datePublished": "2026-07-24T12:15:44+00:00",
+        "dateModified": "2026-07-24T12:15:44+00:00",
+        "author": {
+          "@type": "Organization",
+          "name": "Show HN AI 7d",
+          "url": "https://x402vps.com"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "open_source",
+        "inLanguage": "en-US",
+        "wordCount": 0,
+        "articleBody": ""
+      }
+    },
+    {
+      "source_id": "hn_show_ai_7d",
+      "source_name": "Show HN AI 7d",
+      "title": "Show HN: GeoImageTagger – AI image geotagging and metadata editor",
+      "url": "https://geoimagetagger.com",
+      "description": "",
+      "published": "2026-07-24T14:35:59+00:00",
+      "score": 30,
+      "category": "open_source",
+      "weight": 9,
+      "points": 6,
+      "comments_url": "https://news.ycombinator.com/item?id=49036339",
+      "geo_title": "Why Is GeoImageTagger Revolutionizing AI Image Geotagging?",
+      "geo_keywords": [
+        "ai image geotagging",
+        "geoimagetagger",
+        "metadata editor",
+        "image location tagging",
+        "ai photo geolocation",
+        "automated image geotagging",
+        "image metadata management",
+        "how to add geolocation to photos",
+        "what is ai geotagging",
+        "how does ai geotagging work"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "Why Is GeoImageTagger Revolutionizing AI Image Geotagging?",
+        "url": "https://geoimagetagger.com",
+        "description": "",
+        "keywords": "ai image geotagging, geoimagetagger, metadata editor, image location tagging, ai photo geolocation, automated image geotagging, image metadata management, how to add geolocation to photos",
+        "datePublished": "2026-07-24T14:35:59+00:00",
+        "dateModified": "2026-07-24T14:35:59+00:00",
+        "author": {
+          "@type": "Organization",
+          "name": "Show HN AI 7d",
+          "url": "https://geoimagetagger.com"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "open_source",
+        "inLanguage": "en-US",
+        "wordCount": 0,
+        "articleBody": ""
+      }
+    },
+    {
+      "source_id": "marktechpost",
+      "source_name": "MarkTechPost",
+      "title": "Datalab Marker v2 vs MinerU, Docling, and Liteparse: Benchmark Breakdown",
+      "url": "https://www.marktechpost.com/2026/07/24/datalab-marker-v2-vs-mineru-docling-and-liteparse-benchmark-breakdown/",
+      "description": "<p>Datalab rewrote Marker as a three-mode pipeline. Version 2 hits 76.0 on olmOCR-bench and sustains 2.9 pages per second on one B200 — over 5× MinerU's pipeline backend, while beating Docling on both accuracy and speed. Here's how it compares against MinerU, Docling and LiteParse, and which one fit",
+      "published": "Sat, 25 Jul 2026 04:42:47 +0000",
+      "score": 24,
+      "category": "industry",
+      "weight": 6,
+      "format": "article",
+      "geo_title": "Why is Datalab Marker v2 outperforming competitors in OCR processing?",
+      "geo_keywords": [
+        "datalab marker v2 benchmark",
+        "mineru vs datalab marker v2",
+        "docling vs datalab marker v2",
+        "liteparse vs datalab marker v2",
+        "olmocr-bench results",
+        "page parsing speed comparison",
+        "accuracy and speed benchmarks"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "Why is Datalab Marker v2 outperforming competitors in OCR processing?",
+        "url": "https://www.marktechpost.com/2026/07/24/datalab-marker-v2-vs-mineru-docling-and-liteparse-benchmark-breakdown/",
+        "description": "<p>Datalab rewrote Marker as a three-mode pipeline. Version 2 hits 76.0 on olmOCR-bench and sustains 2.9 pages per second on one B200 — over 5× MinerU's pipeline backend, while beating Docling on both accuracy and speed. Here's how it compares against MinerU, Docling and LiteParse, and which one fit",
+        "keywords": "datalab marker v2 benchmark, mineru vs datalab marker v2, docling vs datalab marker v2, liteparse vs datalab marker v2, olmocr-bench results, page parsing speed comparison, accuracy and speed benchmarks",
+        "datePublished": "Sat, 25 Jul 2026 04:42:47 +0000",
+        "dateModified": "Sat, 25 Jul 2026 04:42:47 +0000",
+        "author": {
+          "@type": "Organization",
+          "name": "MarkTechPost",
+          "url": "https://www.marktechpost.com"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "industry",
+        "inLanguage": "en-US",
+        "wordCount": 49,
+        "articleBody": "<p>Datalab rewrote Marker as a three-mode pipeline. Version 2 hits 76.0 on olmOCR-bench and sustains 2.9 pages per second on one B200 — over 5× MinerU's pipeline backend, while beating Docling on both accuracy and speed. Here's how it compares against MinerU, Docling and LiteParse, and which one fit"
+      }
+    },
+    {
+      "source_id": "marktechpost",
+      "source_name": "MarkTechPost",
+      "title": "Meet the New Claude Opus 5: Frontier-Class Agentic Coding and Computer Use at Unchanged Opus Pricing",
+      "url": "https://www.marktechpost.com/2026/07/24/meet-the-new-claude-opus-5-frontier-class-agentic-coding-and-computer-use-at-unchanged-opus-pricing/",
+      "description": "<p>Today, Anthropic released Claude Opus 5. It replaces Claude Opus 4.8 as the Opus-tier flagship. Pricing is unchanged at $5 per million input tokens and $25 per million output tokens. The Anthropic team positions Opus 5 as approaching the intelligence of Claude Fable 5 at half the price. It is now",
+      "published": "Fri, 24 Jul 2026 21:50:46 +0000",
+      "score": 24,
+      "category": "industry",
+      "weight": 6,
+      "format": "article",
+      "geo_title": "Why Is Claude Opus 5 Different From Its Predecessor?",
+      "geo_keywords": [
+        "claude opus 5",
+        "anthropic claude update",
+        "frontier-class agentic coding",
+        "unchanged pricing for claude",
+        "intelligence comparison claude opus",
+        "fable 5 vs opus 5",
+        "token pricing claude",
+        "ai price point analysis"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "Why Is Claude Opus 5 Different From Its Predecessor?",
+        "url": "https://www.marktechpost.com/2026/07/24/meet-the-new-claude-opus-5-frontier-class-agentic-coding-and-computer-use-at-unchanged-opus-pricing/",
+        "description": "<p>Today, Anthropic released Claude Opus 5. It replaces Claude Opus 4.8 as the Opus-tier flagship. Pricing is unchanged at $5 per million input tokens and $25 per million output tokens. The Anthropic team positions Opus 5 as approaching the intelligence of Claude Fable 5 at half the price. It is now",
+        "keywords": "claude opus 5, anthropic claude update, frontier-class agentic coding, unchanged pricing for claude, intelligence comparison claude opus, fable 5 vs opus 5, token pricing claude, ai price point analysis",
+        "datePublished": "Fri, 24 Jul 2026 21:50:46 +0000",
+        "dateModified": "Fri, 24 Jul 2026 21:50:46 +0000",
+        "author": {
+          "@type": "Organization",
+          "name": "MarkTechPost",
+          "url": "https://www.marktechpost.com"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "industry",
+        "inLanguage": "en-US",
+        "wordCount": 51,
+        "articleBody": "<p>Today, Anthropic released Claude Opus 5. It replaces Claude Opus 4.8 as the Opus-tier flagship. Pricing is unchanged at $5 per million input tokens and $25 per million output tokens. The Anthropic team positions Opus 5 as approaching the intelligence of Claude Fable 5 at half the price. It is now"
+      }
+    }
+  ],
+  "geo_metadata": {
+    "date": "2026-07-25",
+    "generated_at": "2026-07-25T09:00:42.022159+00:00",
+    "schemas_generated": 18,
+    "topics": [
+      "accuracy and speed benchmarks",
+      "ai acceleration",
+      "ai accuracy issues",
+      "ai agent hosting",
+      "ai agent management",
+      "ai agents docker containers",
+      "ai app development",
+      "ai bias",
+      "ai decision making problems",
+      "ai development",
+      "ai ethics",
+      "ai fail",
+      "ai governance",
+      "ai image geotagging",
+      "ai innovation",
+      "ai integration in applications",
+      "ai investment",
+      "ai library update",
+      "ai limitations",
+      "ai misinterpretation",
+      "ai misunderstanding",
+      "ai model optimization",
+      "ai model oversight",
+      "ai model sharing",
+      "ai model transparency",
+      "ai photo geolocation",
+      "ai policy",
+      "ai price point analysis",
+      "ai regulation",
+      "ai reliability",
+      "ai safety",
+      "ai software updates",
+      "ai technology collaboration",
+      "ai technology deployment",
+      "ai technology trends",
+      "amd instinct mi455x",
+      "american ai leadership",
+      "anthropic claude update",
+      "artificial organ storage",
+      "automated image geotagging",
+      "breakthrough in medical technology",
+      "building real ai apps",
+      "challenges of ai app development",
+      "chatgpt ai news",
+      "claude opus 5",
+      "cloud hosting llm",
+      "code quality improvement",
+      "containerized ai projects",
+      "cost-effective ai development",
+      "cuda"
+    ],
+    "faq_items": [
+      {
+        "question": "What is Hetzner's current focus in AI technology?",
+        "answer": "Hetzner is currently working on Large Language Model (LLM) inference, indicating they are exploring ways to enhance and deploy advanced language processing capabilities."
+      },
+      {
+        "question": "Are there any concerns being raised about the regulation of open-source AI models?",
+        "answer": "Yes, Nvidia, Microsoft, Meta, and other tech giants have issued a warning against overregulating open-source AI models, suggesting that excessive restrictions could hinder innovation and development in this field."
+      },
+      {
+        "question": "What new version has Ollama released for their software?",
+        "answer": "Ollama has recently released version v0.32.4, which likely includes updates and improvements to their existing software offerings."
+      },
+      {
+        "question": "Can you provide a summary of the Open Weights and American AI Leadership report?",
+        "answer": "The report discusses strategies and policies related to maintaining America's leadership in artificial intelligence through open-source models, emphasizing the importance of accessible AI technologies for national competitiveness."
+      },
+      {
+        "question": "What are the recent releases from ggml/llama.cpp?",
+        "answer": "Several versions have been released from ggml/llama.cpp, including b10107, b10106, and b10105, each likely bringing new features or improvements to the existing codebase."
+      }
+    ]
+  },
+  "geo_enriched": true,
+  "geo_enriched_at": "2026-07-25T09:00:42.022159+00:00"
+}

@@ -1,12 +1,12 @@
 {
-  "date": "2026-07-21",
-  "generated_at": "2026-07-25T09:00:42.321028+00:00",
+  "date": "2026-07-24",
+  "generated_at": "2026-07-28T05:00:02.535495+00:00",
   "results": {
-    "trending_ai": {
+    "hn_llm_24h": {
       "verification_status": "unconfirmed",
       "sources_count": 1,
       "sources": [
-        "GitHub Trending — AI"
+        "HN top LLM 24h"
       ]
     },
     "hn_ai_24h": {
@@ -21,6 +21,13 @@
       "sources_count": 1,
       "sources": [
         "ggml/llama.cpp releases"
+      ]
+    },
+    "hn_show_ai_7d": {
+      "verification_status": "unconfirmed",
+      "sources_count": 1,
+      "sources": [
+        "Show HN AI 7d"
       ]
     }
   }

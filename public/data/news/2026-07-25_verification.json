@@ -1,0 +1,34 @@
+{
+  "date": "2026-07-25",
+  "generated_at": "2026-07-28T13:00:02.856231+00:00",
+  "results": {
+    "hn_ai_24h": {
+      "verification_status": "unconfirmed",
+      "sources_count": 1,
+      "sources": [
+        "HN top AI 24h"
+      ]
+    },
+    "hn_llm_24h": {
+      "verification_status": "unconfirmed",
+      "sources_count": 1,
+      "sources": [
+        "HN top LLM 24h"
+      ]
+    },
+    "ollama_releases": {
+      "verification_status": "unconfirmed",
+      "sources_count": 1,
+      "sources": [
+        "Ollama releases"
+      ]
+    },
+    "vllm_releases": {
+      "verification_status": "unconfirmed",
+      "sources_count": 1,
+      "sources": [
+        "vLLM releases"
+      ]
+    }
+  }
+}

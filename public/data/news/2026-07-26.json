@@ -1,0 +1,1065 @@
+{
+  "date": "2026-07-26",
+  "last_updated": "2026-07-26T06:00:01.870935+00:00",
+  "total_items": 20,
+  "items": [
+    {
+      "source_id": "yt_ai_explained",
+      "source_name": "AI Explained",
+      "title": "GPT-6 Goes Rogue? The HuggingFace Incident, Sans Hype",
+      "url": "https://www.youtube.com/watch?v=wzY2fV4Mp3U",
+      "description": "",
+      "published": "",
+      "score": 60,
+      "category": "ai_labs",
+      "weight": 8,
+      "format": "video",
+      "geo_title": "Why Is GPT-6 Causing Concern In The AI Community?",
+      "geo_keywords": [
+        "gpt-6 incident",
+        "huggingface security breach",
+        "gpt model vulnerabilities",
+        "ai safety concerns",
+        "generative ai risks",
+        "large language model failures",
+        "ethical ai practices"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "Why Is GPT-6 Causing Concern In The AI Community?",
+        "url": "https://www.youtube.com/watch?v=wzY2fV4Mp3U",
+        "description": "",
+        "keywords": "gpt-6 incident, huggingface security breach, gpt model vulnerabilities, ai safety concerns, generative ai risks, large language model failures, ethical ai practices",
+        "datePublished": "",
+        "dateModified": "",
+        "author": {
+          "@type": "Organization",
+          "name": "AI Explained",
+          "url": "https://www.youtube.com"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "ai_labs",
+        "inLanguage": "en-US",
+        "wordCount": 0,
+        "articleBody": ""
+      }
+    },
+    {
+      "source_id": "hn_ai_24h",
+      "source_name": "HN top AI 24h",
+      "title": "Open-weight AI is having its Kubernetes moment",
+      "url": "https://tobi.knaup.me/2026-07-25-open-weight-ai-is-having-its-kubernetes-moment/",
+      "description": "",
+      "published": "2026-07-25T14:49:49+00:00",
+      "score": 59,
+      "category": "trending",
+      "weight": 8,
+      "points": 355,
+      "comments_url": "https://news.ycombinator.com/item?id=49048034",
+      "geo_title": "Why is open-source AI experiencing a Kubernetes-like surge?",
+      "geo_keywords": [
+        "open-source ai",
+        "ai orchestration",
+        "ai deployment",
+        "ai infrastructure",
+        "machine learning platform",
+        "ai containerization",
+        "ai scalability",
+        "how ai is managed",
+        "what is open-weight ai",
+        "when will ai use kubernetes",
+        "ai technology trends",
+        "ai deployment challenges"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "Why is open-source AI experiencing a Kubernetes-like surge?",
+        "url": "https://tobi.knaup.me/2026-07-25-open-weight-ai-is-having-its-kubernetes-moment/",
+        "description": "",
+        "keywords": "open-source ai, ai orchestration, ai deployment, ai infrastructure, machine learning platform, ai containerization, ai scalability, how ai is managed",
+        "datePublished": "2026-07-25T14:49:49+00:00",
+        "dateModified": "2026-07-25T14:49:49+00:00",
+        "author": {
+          "@type": "Organization",
+          "name": "HN top AI 24h",
+          "url": "https://tobi.knaup.me"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "trending",
+        "inLanguage": "en-US",
+        "wordCount": 0,
+        "articleBody": ""
+      }
+    },
+    {
+      "source_id": "hn_ai_24h",
+      "source_name": "HN top AI 24h",
+      "title": "Show HN: Brolly, a plain-text weather forecast site",
+      "url": "https://brolly.sh/forecast/RWFP2qW8",
+      "description": "",
+      "published": "2026-07-25T17:34:34+00:00",
+      "score": 59,
+      "category": "trending",
+      "weight": 8,
+      "points": 162,
+      "comments_url": "https://news.ycombinator.com/item?id=49049693",
+      "geo_title": "Why is Brolly, the Plain-Text Weather Forecast Site, Making Waves?",
+      "geo_keywords": [
+        "plain text weather forecast",
+        "brolly website",
+        "how to check weather without apps",
+        "weather forecast site",
+        "plain text weather updates",
+        "alternative weather sources",
+        "weather without dependencies"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "Why is Brolly, the Plain-Text Weather Forecast Site, Making Waves?",
+        "url": "https://brolly.sh/forecast/RWFP2qW8",
+        "description": "",
+        "keywords": "plain text weather forecast, brolly website, how to check weather without apps, weather forecast site, plain text weather updates, alternative weather sources, weather without dependencies",
+        "datePublished": "2026-07-25T17:34:34+00:00",
+        "dateModified": "2026-07-25T17:34:34+00:00",
+        "author": {
+          "@type": "Organization",
+          "name": "HN top AI 24h",
+          "url": "https://brolly.sh"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "trending",
+        "inLanguage": "en-US",
+        "wordCount": 0,
+        "articleBody": ""
+      }
+    },
+    {
+      "source_id": "hn_llm_24h",
+      "source_name": "HN top LLM 24h",
+      "title": "Running a 28.9M parameter LLM on an $8 microcontroller",
+      "url": "https://github.com/slvDev/esp32-ai",
+      "description": "",
+      "published": "2026-07-25T18:59:50+00:00",
+      "score": 58,
+      "category": "trending",
+      "weight": 9,
+      "points": 131,
+      "comments_url": "https://news.ycombinator.com/item?id=49050512",
+      "geo_title": "Why is running a 28.9M parameter LLM possible on an $8 microcontroller?",
+      "geo_keywords": [
+        "running large language model on low-cost hardware",
+        "deploying llm on microcontroller",
+        "28.9m parameter model on cheap chip",
+        "how to run ai on minimal resources",
+        "can llms work on microcontrollers",
+        "what technologies enable running llm on microcontroller",
+        "cost-effective ai deployment",
+        "efficient ai model execution"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "Why is running a 28.9M parameter LLM possible on an $8 microcontroller?",
+        "url": "https://github.com/slvDev/esp32-ai",
+        "description": "",
+        "keywords": "running large language model on low-cost hardware, deploying llm on microcontroller, 28.9m parameter model on cheap chip, how to run ai on minimal resources, can llms work on microcontrollers, what technologies enable running llm on microcontroller, cost-effective ai deployment, efficient ai model execution",
+        "datePublished": "2026-07-25T18:59:50+00:00",
+        "dateModified": "2026-07-25T18:59:50+00:00",
+        "author": {
+          "@type": "Organization",
+          "name": "HN top LLM 24h",
+          "url": "https://github.com"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "trending",
+        "inLanguage": "en-US",
+        "wordCount": 0,
+        "articleBody": ""
+      }
+    },
+    {
+      "source_id": "hn_llm_24h",
+      "source_name": "HN top LLM 24h",
+      "title": "LLM Usage in Debian: Three Proposals",
+      "url": "https://www.debian.org/vote/2026/vote_002",
+      "description": "",
+      "published": "2026-07-25T19:44:39+00:00",
+      "score": 56,
+      "category": "trending",
+      "weight": 9,
+      "points": 120,
+      "comments_url": "https://news.ycombinator.com/item?id=49050859",
+      "geo_title": "Why are three proposals for LLM usage in Debian?",
+      "geo_keywords": [
+        "llm usage in debian",
+        "proposals for llm integration in debian",
+        "large language models in open source projects",
+        "chatgpt and debian",
+        "perplexity on debian",
+        "sge optimization for debian",
+        "llm deployment strategies in linux distributions",
+        "how to integrate llm in debian",
+        "what are the proposed methods for using llm in debian"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "Why are three proposals for LLM usage in Debian?",
+        "url": "https://www.debian.org/vote/2026/vote_002",
+        "description": "",
+        "keywords": "llm usage in debian, proposals for llm integration in debian, large language models in open source projects, chatgpt and debian, perplexity on debian, sge optimization for debian, llm deployment strategies in linux distributions, how to integrate llm in debian",
+        "datePublished": "2026-07-25T19:44:39+00:00",
+        "dateModified": "2026-07-25T19:44:39+00:00",
+        "author": {
+          "@type": "Organization",
+          "name": "HN top LLM 24h",
+          "url": "https://www.debian.org"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "trending",
+        "inLanguage": "en-US",
+        "wordCount": 0,
+        "articleBody": ""
+      }
+    },
+    {
+      "source_id": "ollama_releases",
+      "source_name": "Ollama releases",
+      "title": "Ollama releases: v0.32.4",
+      "url": "https://github.com/ollama/ollama/releases/tag/v0.32.4",
+      "description": "## What's Changed\r\n- Support Laguna on Apple GPUs via the MLX engine\r\n- Quantize draft-model output heads at the requested type when creating speculative-decoding drafts.\r\n- Fixed Qwen3 MoE decoding for differently-quantized experts, plus faster packed gate/up projection (~4–9% on M5 Max).\r\n\r\n**Full",
+      "published": "2026-07-25T02:22:12Z",
+      "score": 54,
+      "category": "releases",
+      "weight": 9,
+      "tag": "v0.32.4",
+      "geo_title": "Why is Ollama Releasing v0.32.4 with These Updates?",
+      "geo_keywords": [
+        "ollama v0.32.4 release",
+        "ollama update",
+        "ollama 0.32.4",
+        "mlx engine support",
+        "apple gpu optimization",
+        "qwen3 moe decoding",
+        "speculative-decoding drafts",
+        "model quantization",
+        "ai model updates"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "Why is Ollama Releasing v0.32.4 with These Updates?",
+        "url": "https://github.com/ollama/ollama/releases/tag/v0.32.4",
+        "description": "## What's Changed\r\n- Support Laguna on Apple GPUs via the MLX engine\r\n- Quantize draft-model output heads at the requested type when creating speculative-decoding drafts.\r\n- Fixed Qwen3 MoE decoding for differently-quantized experts, plus faster packed gate/up projection (~4–9% on M5 Max).\r\n\r\n**Full",
+        "keywords": "ollama v0.32.4 release, ollama update, ollama 0.32.4, mlx engine support, apple gpu optimization, qwen3 moe decoding, speculative-decoding drafts, model quantization",
+        "datePublished": "2026-07-25T02:22:12Z",
+        "dateModified": "2026-07-25T02:22:12Z",
+        "author": {
+          "@type": "Organization",
+          "name": "Ollama releases",
+          "url": "https://github.com"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "releases",
+        "inLanguage": "en-US",
+        "wordCount": 44,
+        "articleBody": "## What's Changed\r\n- Support Laguna on Apple GPUs via the MLX engine\r\n- Quantize draft-model output heads at the requested type when creating speculative-decoding drafts.\r\n- Fixed Qwen3 MoE decoding for differently-quantized experts, plus faster packed gate/up projection (~4–9% on M5 Max).\r\n\r\n**Full"
+      }
+    },
+    {
+      "source_id": "latent_space",
+      "source_name": "Latent Space (Substack)",
+      "title": "[AINews] Claude Opus 5: Fable-level performance at Opus price (half Fable)",
+      "url": "https://www.latent.space/p/ainews-claude-opus-5-fable-level",
+      "description": "ain't nobody beats Anthropic at distilling Fable!",
+      "published": "Sat, 25 Jul 2026 07:25:38 GMT",
+      "score": 48,
+      "category": "newsletters",
+      "weight": 8,
+      "format": "article",
+      "geo_title": "Why is Claude Opus 5 priced like Opus but performs like Fable?",
+      "geo_keywords": [
+        "ai news",
+        "anthropic claude opus 5",
+        "fable level ai",
+        "affordable fable ai",
+        "half fable ai",
+        "ai technology comparison",
+        "what is claude opus 5",
+        "how does claude opus 5 compare to other ais"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "Why is Claude Opus 5 priced like Opus but performs like Fable?",
+        "url": "https://www.latent.space/p/ainews-claude-opus-5-fable-level",
+        "description": "ain't nobody beats Anthropic at distilling Fable!",
+        "keywords": "ai news, anthropic claude opus 5, fable level ai, affordable fable ai, half fable ai, ai technology comparison, what is claude opus 5, how does claude opus 5 compare to other ais",
+        "datePublished": "Sat, 25 Jul 2026 07:25:38 GMT",
+        "dateModified": "Sat, 25 Jul 2026 07:25:38 GMT",
+        "author": {
+          "@type": "Organization",
+          "name": "Latent Space (Substack)",
+          "url": "https://www.latent.space"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "newsletters",
+        "inLanguage": "en-US",
+        "wordCount": 7,
+        "articleBody": "ain't nobody beats Anthropic at distilling Fable!"
+      }
+    },
+    {
+      "source_id": "hn_ai_24h",
+      "source_name": "HN top AI 24h",
+      "title": "Cloudflare's new AI traffic options for customers",
+      "url": "https://blog.cloudflare.com/content-independence-day-ai-options/",
+      "description": "",
+      "published": "2026-07-25T22:50:49+00:00",
+      "score": 44,
+      "category": "trending",
+      "weight": 8,
+      "points": 84,
+      "comments_url": "https://news.ycombinator.com/item?id=49052564",
+      "geo_title": "Why Is Cloudflare Introducing New AI Traffic Options for Customers?",
+      "geo_keywords": [
+        "cloudflare ai traffic management",
+        "cloudflare ai optimization",
+        "ai powered web traffic solutions",
+        "cloudflare customer ai tools",
+        "ai traffic control technologies",
+        "how does cloudflare use ai for traffic",
+        "what are the new ai features in cloudflare",
+        "ai traffic routing options",
+        "ai-driven traffic management services",
+        "ai traffic analysis tools"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "Why Is Cloudflare Introducing New AI Traffic Options for Customers?",
+        "url": "https://blog.cloudflare.com/content-independence-day-ai-options/",
+        "description": "",
+        "keywords": "cloudflare ai traffic management, cloudflare ai optimization, ai powered web traffic solutions, cloudflare customer ai tools, ai traffic control technologies, how does cloudflare use ai for traffic, what are the new ai features in cloudflare, ai traffic routing options",
+        "datePublished": "2026-07-25T22:50:49+00:00",
+        "dateModified": "2026-07-25T22:50:49+00:00",
+        "author": {
+          "@type": "Organization",
+          "name": "HN top AI 24h",
+          "url": "https://blog.cloudflare.com"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "trending",
+        "inLanguage": "en-US",
+        "wordCount": 0,
+        "articleBody": ""
+      }
+    },
+    {
+      "source_id": "vllm_releases",
+      "source_name": "vLLM releases",
+      "title": "vLLM releases: v0.26.0",
+      "url": "https://github.com/vllm-project/vllm/releases/tag/v0.26.0",
+      "description": "# vLLM v0.26.0 Release Notes\r\n\r\n## Highlights\r\n\r\nThis release features 411 commits from 212 contributors (61 new)!\r\n\r\n* **New Inkling model family** with a full support stack: base modeling (#48799), piecewise CUDA graph support (#48822), Hopper FA4 relative attention (#48858), MTP=1 speculative dec",
+      "published": "2026-07-25T10:38:53Z",
+      "score": 42,
+      "category": "releases",
+      "weight": 7,
+      "tag": "v0.26.0",
+      "geo_title": "Why is the vLLM v0.26.0 release significant?",
+      "geo_keywords": [
+        "vllm release",
+        "v0.26.0 vllm",
+        "inkling model family",
+        "piecewise cuda graph support",
+        "hopper fa4 relative attention",
+        "mtp=1 speculative decoding",
+        "generative ai models",
+        "latest ai technology updates",
+        "what is vllm",
+        "new features in vllm"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "Why is the vLLM v0.26.0 release significant?",
+        "url": "https://github.com/vllm-project/vllm/releases/tag/v0.26.0",
+        "description": "# vLLM v0.26.0 Release Notes\r\n\r\n## Highlights\r\n\r\nThis release features 411 commits from 212 contributors (61 new)!\r\n\r\n* **New Inkling model family** with a full support stack: base modeling (#48799), piecewise CUDA graph support (#48822), Hopper FA4 relative attention (#48858), MTP=1 speculative dec",
+        "keywords": "vllm release, v0.26.0 vllm, inkling model family, piecewise cuda graph support, hopper fa4 relative attention, mtp=1 speculative decoding, generative ai models, latest ai technology updates",
+        "datePublished": "2026-07-25T10:38:53Z",
+        "dateModified": "2026-07-25T10:38:53Z",
+        "author": {
+          "@type": "Organization",
+          "name": "vLLM releases",
+          "url": "https://github.com"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "releases",
+        "inLanguage": "en-US",
+        "wordCount": 43,
+        "articleBody": "# vLLM v0.26.0 Release Notes\r\n\r\n## Highlights\r\n\r\nThis release features 411 commits from 212 contributors (61 new)!\r\n\r\n* **New Inkling model family** with a full support stack: base modeling (#48799), piecewise CUDA graph support (#48822), Hopper FA4 relative attention (#48858), MTP=1 speculative dec"
+      }
+    },
+    {
+      "source_id": "hn_llm_24h",
+      "source_name": "HN top LLM 24h",
+      "title": "Brazilian farmers tokenized dairy cows to get loans, bypassing bank limits",
+      "url": "https://www.coindesk.com/markets/2026/07/24/brazilian-farmers-tokenized-dairy-cows-to-get-loans-bypassing-bank-lending-limits",
+      "description": "",
+      "published": "2026-07-25T15:51:26+00:00",
+      "score": 41,
+      "category": "trending",
+      "weight": 9,
+      "points": 59,
+      "comments_url": "https://news.ycombinator.com/item?id=49048645",
+      "geo_title": "Why is tokenizing dairy cows a new trend among Brazilian farmers?",
+      "geo_keywords": [
+        "dairy cow tokenization",
+        "bank loan alternatives",
+        "brazilian agricultural finance",
+        "digital asset farming",
+        "cow ownership tokens",
+        "farm financing innovation",
+        "alternative lending for agriculture",
+        "tokenized assets in agriculture",
+        "how farmers are using blockchain for loans",
+        "benefits of tokenizing livestock for farmers"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "Why is tokenizing dairy cows a new trend among Brazilian farmers?",
+        "url": "https://www.coindesk.com/markets/2026/07/24/brazilian-farmers-tokenized-dairy-cows-to-get-loans-bypassing-bank-lending-limits",
+        "description": "",
+        "keywords": "dairy cow tokenization, bank loan alternatives, brazilian agricultural finance, digital asset farming, cow ownership tokens, farm financing innovation, alternative lending for agriculture, tokenized assets in agriculture",
+        "datePublished": "2026-07-25T15:51:26+00:00",
+        "dateModified": "2026-07-25T15:51:26+00:00",
+        "author": {
+          "@type": "Organization",
+          "name": "HN top LLM 24h",
+          "url": "https://www.coindesk.com"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "trending",
+        "inLanguage": "en-US",
+        "wordCount": 0,
+        "articleBody": ""
+      }
+    },
+    {
+      "source_id": "hn_ai_24h",
+      "source_name": "HN top AI 24h",
+      "title": "Politician reads AI prompt during assembly",
+      "url": "https://www.youtube.com/watch?v=wlYa8NV5k-U",
+      "description": "",
+      "published": "2026-07-25T16:31:15+00:00",
+      "score": 40,
+      "category": "trending",
+      "weight": 8,
+      "points": 67,
+      "comments_url": "https://news.ycombinator.com/item?id=49048996",
+      "geo_title": "Why is a politician using AI prompts in assembly?",
+      "geo_keywords": [
+        "ai in politics",
+        "politician using ai",
+        "ai technology in government",
+        "ai ethics in politics",
+        "impact of ai on governance",
+        "how ai is used by politicians",
+        "ai prompts for public figures",
+        "ethical concerns of ai in politics",
+        "ai and political communication",
+        "ai generated speech",
+        "ai during legislative sessions",
+        "ai influence on policy-making"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "Why is a politician using AI prompts in assembly?",
+        "url": "https://www.youtube.com/watch?v=wlYa8NV5k-U",
+        "description": "",
+        "keywords": "ai in politics, politician using ai, ai technology in government, ai ethics in politics, impact of ai on governance, how ai is used by politicians, ai prompts for public figures, ethical concerns of ai in politics",
+        "datePublished": "2026-07-25T16:31:15+00:00",
+        "dateModified": "2026-07-25T16:31:15+00:00",
+        "author": {
+          "@type": "Organization",
+          "name": "HN top AI 24h",
+          "url": "https://www.youtube.com"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "trending",
+        "inLanguage": "en-US",
+        "wordCount": 0,
+        "articleBody": ""
+      }
+    },
+    {
+      "source_id": "hn_ai_24h",
+      "source_name": "HN top AI 24h",
+      "title": "What is happening to jobs? Separating AI hype from reality",
+      "url": "https://siepr.stanford.edu/publications/policy-brief/what-really-happening-jobs-separating-ai-hype-reality",
+      "description": "",
+      "published": "2026-07-25T22:51:10+00:00",
+      "score": 40,
+      "category": "trending",
+      "weight": 8,
+      "points": 66,
+      "comments_url": "https://news.ycombinator.com/item?id=49052570",
+      "geo_title": "Why is the job market changing with AI?",
+      "geo_keywords": [
+        "jobs and ai impact",
+        "ai in workforce",
+        "future of employment",
+        "ai job displacement",
+        "ai and unemployment",
+        "ai technology trends",
+        "ai job market analysis",
+        "how ai affects jobs",
+        "separating fact from fiction in ai",
+        "ai's role in job creation",
+        "ai vs job loss",
+        "ai and economic impact"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "Why is the job market changing with AI?",
+        "url": "https://siepr.stanford.edu/publications/policy-brief/what-really-happening-jobs-separating-ai-hype-reality",
+        "description": "",
+        "keywords": "jobs and ai impact, ai in workforce, future of employment, ai job displacement, ai and unemployment, ai technology trends, ai job market analysis, how ai affects jobs",
+        "datePublished": "2026-07-25T22:51:10+00:00",
+        "dateModified": "2026-07-25T22:51:10+00:00",
+        "author": {
+          "@type": "Organization",
+          "name": "HN top AI 24h",
+          "url": "https://siepr.stanford.edu"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "trending",
+        "inLanguage": "en-US",
+        "wordCount": 0,
+        "articleBody": ""
+      }
+    },
+    {
+      "source_id": "hn_ai_24h",
+      "source_name": "HN top AI 24h",
+      "title": "Corporate America Has Suddenly Decided to Stop Blowing Money on AI",
+      "url": "https://www.wsj.com/business/china-us-ai-model-costs-53a12e96",
+      "description": "",
+      "published": "2026-07-25T13:33:03+00:00",
+      "score": 39,
+      "category": "trending",
+      "weight": 8,
+      "points": 60,
+      "comments_url": "https://news.ycombinator.com/item?id=49047448",
+      "geo_title": "Why Is Corporate America Suddenly Halting AI Spending?",
+      "geo_keywords": [
+        "corporate ai spending",
+        "ai technology trends",
+        "corporate america ai decision",
+        "ceo ai strategy",
+        "enterprise ai budget cuts",
+        "ai investment reduction",
+        "ai cost management",
+        "what does this mean for ai adoption",
+        "why are companies cutting ai spending",
+        "how will ai budgets change in 2023"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "Why Is Corporate America Suddenly Halting AI Spending?",
+        "url": "https://www.wsj.com/business/china-us-ai-model-costs-53a12e96",
+        "description": "",
+        "keywords": "corporate ai spending, ai technology trends, corporate america ai decision, ceo ai strategy, enterprise ai budget cuts, ai investment reduction, ai cost management, what does this mean for ai adoption",
+        "datePublished": "2026-07-25T13:33:03+00:00",
+        "dateModified": "2026-07-25T13:33:03+00:00",
+        "author": {
+          "@type": "Organization",
+          "name": "HN top AI 24h",
+          "url": "https://www.wsj.com"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "trending",
+        "inLanguage": "en-US",
+        "wordCount": 0,
+        "articleBody": ""
+      }
+    },
+    {
+      "source_id": "hn_ai_24h",
+      "source_name": "HN top AI 24h",
+      "title": "'AI Mania Is Eviscerating Global Decision-Making'",
+      "url": "https://daringfireball.net/linked/2026/07/25/ai-mania-nikhil-suresh",
+      "description": "",
+      "published": "2026-07-25T21:18:06+00:00",
+      "score": 38,
+      "category": "trending",
+      "weight": 8,
+      "points": 56,
+      "comments_url": "https://news.ycombinator.com/item?id=49051692",
+      "geo_title": "Why is AI mania disrupting global decision-making?",
+      "geo_keywords": [
+        "ai decision making",
+        "ai impact on global policy",
+        "ai ethics in governance",
+        "ai technology trends",
+        "ai vs human decision making",
+        "ethical considerations of ai",
+        "ai and political decisions",
+        "how ai is changing politics",
+        "what are the risks of ai in decision-making",
+        "does ai improve or hinder decision-making processes"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "Why is AI mania disrupting global decision-making?",
+        "url": "https://daringfireball.net/linked/2026/07/25/ai-mania-nikhil-suresh",
+        "description": "",
+        "keywords": "ai decision making, ai impact on global policy, ai ethics in governance, ai technology trends, ai vs human decision making, ethical considerations of ai, ai and political decisions, how ai is changing politics",
+        "datePublished": "2026-07-25T21:18:06+00:00",
+        "dateModified": "2026-07-25T21:18:06+00:00",
+        "author": {
+          "@type": "Organization",
+          "name": "HN top AI 24h",
+          "url": "https://daringfireball.net"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "trending",
+        "inLanguage": "en-US",
+        "wordCount": 0,
+        "articleBody": ""
+      }
+    },
+    {
+      "source_id": "hn_show_ai_7d",
+      "source_name": "Show HN AI 7d",
+      "title": "Show HN: Yorishiro – a macOS terminal where AI agents live",
+      "url": "https://github.com/sktkkoo/Yorishiro",
+      "description": "",
+      "published": "2026-07-22T15:33:16+00:00",
+      "score": 38,
+      "category": "open_source",
+      "weight": 9,
+      "points": 41,
+      "comments_url": "https://news.ycombinator.com/item?id=49008434",
+      "geo_title": "Why is Yorishiro an innovative macOS terminal for AI agents?",
+      "geo_keywords": [
+        "macos terminal ai agents",
+        "how to run ai in terminal",
+        "ai chatbot on mac",
+        "ai assistants for mac users",
+        "yorishiro macos",
+        "ai agents in terminal",
+        "integrating ai into terminal",
+        "what is yorishiro",
+        "how does yorishiro work"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "Why is Yorishiro an innovative macOS terminal for AI agents?",
+        "url": "https://github.com/sktkkoo/Yorishiro",
+        "description": "",
+        "keywords": "macos terminal ai agents, how to run ai in terminal, ai chatbot on mac, ai assistants for mac users, yorishiro macos, ai agents in terminal, integrating ai into terminal, what is yorishiro",
+        "datePublished": "2026-07-22T15:33:16+00:00",
+        "dateModified": "2026-07-22T15:33:16+00:00",
+        "author": {
+          "@type": "Organization",
+          "name": "Show HN AI 7d",
+          "url": "https://github.com"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "open_source",
+        "inLanguage": "en-US",
+        "wordCount": 0,
+        "articleBody": ""
+      }
+    },
+    {
+      "source_id": "marktechpost",
+      "source_name": "MarkTechPost",
+      "title": "Sakana AI Releases Fugu-Cyber: An Orchestration Model Reporting 86.9% on CyberGym and 72.1% on CTI-REALM",
+      "url": "https://www.marktechpost.com/2026/07/25/sakana-ai-releases-fugu-cyber-orchestration-model-cybergym-cti-realm/",
+      "description": "<p>Sakana AI has released Fugu-Cyber, a security-tuned endpoint on its Fugu orchestration model. It reports 86.9% on CyberGym and 72.1% on CTI-REALM, edging past GPT-5.5-Cyber and Claude Mythos Preview. Access is gated behind manual approval, a defensive-use policy, and the Token Plan. Here is what",
+      "published": "Sun, 26 Jul 2026 00:12:57 +0000",
+      "score": 24,
+      "category": "industry",
+      "weight": 6,
+      "format": "article",
+      "geo_title": "Why is Sakana AI's Fugu-Cyber model making waves in cybersecurity?",
+      "geo_keywords": [
+        "sakana ai fugu-cyber",
+        "security orchestration model",
+        "cyber gym performance",
+        "cti-realm accuracy",
+        "gpt-5.5-cyber comparison",
+        "claude mythos preview",
+        "defensive use policy",
+        "token plan"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "Why is Sakana AI's Fugu-Cyber model making waves in cybersecurity?",
+        "url": "https://www.marktechpost.com/2026/07/25/sakana-ai-releases-fugu-cyber-orchestration-model-cybergym-cti-realm/",
+        "description": "<p>Sakana AI has released Fugu-Cyber, a security-tuned endpoint on its Fugu orchestration model. It reports 86.9% on CyberGym and 72.1% on CTI-REALM, edging past GPT-5.5-Cyber and Claude Mythos Preview. Access is gated behind manual approval, a defensive-use policy, and the Token Plan. Here is what",
+        "keywords": "sakana ai fugu-cyber, security orchestration model, cyber gym performance, cti-realm accuracy, gpt-5.5-cyber comparison, claude mythos preview, defensive use policy, token plan",
+        "datePublished": "Sun, 26 Jul 2026 00:12:57 +0000",
+        "dateModified": "Sun, 26 Jul 2026 00:12:57 +0000",
+        "author": {
+          "@type": "Organization",
+          "name": "MarkTechPost",
+          "url": "https://www.marktechpost.com"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "industry",
+        "inLanguage": "en-US",
+        "wordCount": 45,
+        "articleBody": "<p>Sakana AI has released Fugu-Cyber, a security-tuned endpoint on its Fugu orchestration model. It reports 86.9% on CyberGym and 72.1% on CTI-REALM, edging past GPT-5.5-Cyber and Claude Mythos Preview. Access is gated behind manual approval, a defensive-use policy, and the Token Plan. Here is what"
+      }
+    },
+    {
+      "source_id": "marktechpost",
+      "source_name": "MarkTechPost",
+      "title": "Meet Open Dreamer: A JAX/Flax Reproduction of the Dreamer 4 World Model Pipeline, With the Full Training Recipe Published",
+      "url": "https://www.marktechpost.com/2026/07/25/meet-open-dreamer-a-jax-flax-reproduction-of-the-dreamer-4-world-model-pipeline-with-the-full-training-recipe-published/",
+      "description": "<p>A small group of AI researchers (Reactor) have released Open Dreamer, an open implementation of the Dreamer 4 world-model pipeline written in JAX and Flax NNX. What actually shipped Two repositories were released. next-state/open-dreamer holds the training pipeline: a causal video tokenizer, an a",
+      "published": "Sat, 25 Jul 2026 18:59:54 +0000",
+      "score": 24,
+      "category": "industry",
+      "weight": 6,
+      "format": "article",
+      "geo_title": "Why is Open Dreamer Important for AI Researchers?",
+      "geo_keywords": [
+        "open dreamer",
+        "jax flax implementation",
+        "dreamer 4 world model",
+        "published training recipe",
+        "ai research",
+        "world-model pipeline",
+        "causal video tokenizer",
+        "open source ai project"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "Why is Open Dreamer Important for AI Researchers?",
+        "url": "https://www.marktechpost.com/2026/07/25/meet-open-dreamer-a-jax-flax-reproduction-of-the-dreamer-4-world-model-pipeline-with-the-full-training-recipe-published/",
+        "description": "<p>A small group of AI researchers (Reactor) have released Open Dreamer, an open implementation of the Dreamer 4 world-model pipeline written in JAX and Flax NNX. What actually shipped Two repositories were released. next-state/open-dreamer holds the training pipeline: a causal video tokenizer, an a",
+        "keywords": "open dreamer, jax flax implementation, dreamer 4 world model, published training recipe, ai research, world-model pipeline, causal video tokenizer, open source ai project",
+        "datePublished": "Sat, 25 Jul 2026 18:59:54 +0000",
+        "dateModified": "Sat, 25 Jul 2026 18:59:54 +0000",
+        "author": {
+          "@type": "Organization",
+          "name": "MarkTechPost",
+          "url": "https://www.marktechpost.com"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "industry",
+        "inLanguage": "en-US",
+        "wordCount": 44,
+        "articleBody": "<p>A small group of AI researchers (Reactor) have released Open Dreamer, an open implementation of the Dreamer 4 world-model pipeline written in JAX and Flax NNX. What actually shipped Two repositories were released. next-state/open-dreamer holds the training pipeline: a causal video tokenizer, an a"
+      }
+    },
+    {
+      "source_id": "marktechpost",
+      "source_name": "MarkTechPost",
+      "title": "Designing High-Performance GPU Kernels with TileLang: Tensor-Core GEMM, Fused Softmax, FlashAttention, and Autotuning",
+      "url": "https://www.marktechpost.com/2026/07/25/designing-high-performance-gpu-kernels-with-tilelang-tensor-core-gemm-fused-softmax-flashattention-and-autotuning/",
+      "description": "<p>Explore TileLang, a high-level Python domain-specific language that simplifies the design of high-performance GPU kernels. This tutorial provides a step-by-step approach to implementing complex workloads—including tiled tensor-core GEMM, fused softmax, and FlashAttention—while letting the compile",
+      "published": "Sat, 25 Jul 2026 18:08:12 +0000",
+      "score": 24,
+      "category": "industry",
+      "weight": 6,
+      "format": "article",
+      "geo_title": "Why is TileLang Important for High-Performance GPU Kernels?",
+      "geo_keywords": [
+        "gpu kernel optimization",
+        "tilelang tutorial",
+        "tensor-core gemm implementation",
+        "fused softmax gpu",
+        "flashattention gpu",
+        "autotuning gpu kernels",
+        "high-performance computing on gpus"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "Why is TileLang Important for High-Performance GPU Kernels?",
+        "url": "https://www.marktechpost.com/2026/07/25/designing-high-performance-gpu-kernels-with-tilelang-tensor-core-gemm-fused-softmax-flashattention-and-autotuning/",
+        "description": "<p>Explore TileLang, a high-level Python domain-specific language that simplifies the design of high-performance GPU kernels. This tutorial provides a step-by-step approach to implementing complex workloads—including tiled tensor-core GEMM, fused softmax, and FlashAttention—while letting the compile",
+        "keywords": "gpu kernel optimization, tilelang tutorial, tensor-core gemm implementation, fused softmax gpu, flashattention gpu, autotuning gpu kernels, high-performance computing on gpus",
+        "datePublished": "Sat, 25 Jul 2026 18:08:12 +0000",
+        "dateModified": "Sat, 25 Jul 2026 18:08:12 +0000",
+        "author": {
+          "@type": "Organization",
+          "name": "MarkTechPost",
+          "url": "https://www.marktechpost.com"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "industry",
+        "inLanguage": "en-US",
+        "wordCount": 35,
+        "articleBody": "<p>Explore TileLang, a high-level Python domain-specific language that simplifies the design of high-performance GPU kernels. This tutorial provides a step-by-step approach to implementing complex workloads—including tiled tensor-core GEMM, fused softmax, and FlashAttention—while letting the compile"
+      }
+    },
+    {
+      "source_id": "marktechpost",
+      "source_name": "MarkTechPost",
+      "title": "Why the OpenAI Agent Broke Into Hugging Face: Reward Hacking, Not Malice, Explained for Engineers",
+      "url": "https://www.marktechpost.com/2026/07/25/why-the-openai-agent-broke-into-hugging-face-reward-hacking-not-malice-explained-for-engineers/",
+      "description": "<p>OpenAI disclosed that its own models breached Hugging Face's production infrastructure while taking a public security benchmark. The models were not attacking a target — they were optimizing a score. Here is the mechanism, what the ExploitGym data showed two months earlier, and which widely repea",
+      "published": "Sat, 25 Jul 2026 09:03:27 +0000",
+      "score": 24,
+      "category": "industry",
+      "weight": 6,
+      "format": "article",
+      "geo_title": "Why Did OpenAI Models Break Into Hugging Face Infrastructure?",
+      "geo_keywords": [
+        "openai agent breach",
+        "hugging face security",
+        "reward hacking explanation",
+        "ai model exploitation",
+        "public security benchmark",
+        "chatgpt security",
+        "perplexity ai security",
+        "why ai models break into systems",
+        "how ai optimizes scores",
+        "ai ethics and security",
+        "openai hugging face incident",
+        "machine learning security mechanisms"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "Why Did OpenAI Models Break Into Hugging Face Infrastructure?",
+        "url": "https://www.marktechpost.com/2026/07/25/why-the-openai-agent-broke-into-hugging-face-reward-hacking-not-malice-explained-for-engineers/",
+        "description": "<p>OpenAI disclosed that its own models breached Hugging Face's production infrastructure while taking a public security benchmark. The models were not attacking a target — they were optimizing a score. Here is the mechanism, what the ExploitGym data showed two months earlier, and which widely repea",
+        "keywords": "openai agent breach, hugging face security, reward hacking explanation, ai model exploitation, public security benchmark, chatgpt security, perplexity ai security, why ai models break into systems",
+        "datePublished": "Sat, 25 Jul 2026 09:03:27 +0000",
+        "dateModified": "Sat, 25 Jul 2026 09:03:27 +0000",
+        "author": {
+          "@type": "Organization",
+          "name": "MarkTechPost",
+          "url": "https://www.marktechpost.com"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "industry",
+        "inLanguage": "en-US",
+        "wordCount": 46,
+        "articleBody": "<p>OpenAI disclosed that its own models breached Hugging Face's production infrastructure while taking a public security benchmark. The models were not attacking a target — they were optimizing a score. Here is the mechanism, what the ExploitGym data showed two months earlier, and which widely repea"
+      }
+    },
+    {
+      "source_id": "marktechpost",
+      "source_name": "MarkTechPost",
+      "title": "Building Self-Evolving AI Agents with OpenSpace Using Skills, MCP, Lineage, and Low-Cost Reuse",
+      "url": "https://www.marktechpost.com/2026/07/25/building-self-evolving-ai-agents-with-openspace-using-skills-mcp-lineage-and-low-cost-reuse/",
+      "description": "<p>Discover how to create self-evolving AI agents using the OpenSpace framework. This tutorial guides you through the entire workflow—from environment setup and custom skill creation to MCP integration and using SQLite to manage agent lineage—empowering you to build more efficient, reusable agent sy",
+      "published": "Sat, 25 Jul 2026 07:54:21 +0000",
+      "score": 24,
+      "category": "industry",
+      "weight": 6,
+      "format": "article",
+      "geo_title": "How does OpenSpace enable building self-evolving AI agents?",
+      "geo_keywords": [
+        "self-evolving ai agents",
+        "openspace framework",
+        "ai agent development",
+        "mcp integration",
+        "sqlite for ai",
+        "agent lineage management",
+        "low-cost ai reuse",
+        "building self-learning ai"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "How does OpenSpace enable building self-evolving AI agents?",
+        "url": "https://www.marktechpost.com/2026/07/25/building-self-evolving-ai-agents-with-openspace-using-skills-mcp-lineage-and-low-cost-reuse/",
+        "description": "<p>Discover how to create self-evolving AI agents using the OpenSpace framework. This tutorial guides you through the entire workflow—from environment setup and custom skill creation to MCP integration and using SQLite to manage agent lineage—empowering you to build more efficient, reusable agent sy",
+        "keywords": "self-evolving ai agents, openspace framework, ai agent development, mcp integration, sqlite for ai, agent lineage management, low-cost ai reuse, building self-learning ai",
+        "datePublished": "Sat, 25 Jul 2026 07:54:21 +0000",
+        "dateModified": "Sat, 25 Jul 2026 07:54:21 +0000",
+        "author": {
+          "@type": "Organization",
+          "name": "MarkTechPost",
+          "url": "https://www.marktechpost.com"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "industry",
+        "inLanguage": "en-US",
+        "wordCount": 43,
+        "articleBody": "<p>Discover how to create self-evolving AI agents using the OpenSpace framework. This tutorial guides you through the entire workflow—from environment setup and custom skill creation to MCP integration and using SQLite to manage agent lineage—empowering you to build more efficient, reusable agent sy"
+      }
+    }
+  ],
+  "geo_metadata": {
+    "date": "2026-07-26",
+    "generated_at": "2026-07-26T09:00:46.819118+00:00",
+    "schemas_generated": 20,
+    "topics": [
+      "28.9m parameter model on cheap chip",
+      "affordable fable ai",
+      "agent lineage management",
+      "ai agent development",
+      "ai agents in terminal",
+      "ai and economic impact",
+      "ai and political communication",
+      "ai and political decisions",
+      "ai and unemployment",
+      "ai assistants for mac users",
+      "ai chatbot on mac",
+      "ai containerization",
+      "ai cost management",
+      "ai decision making",
+      "ai deployment",
+      "ai deployment challenges",
+      "ai during legislative sessions",
+      "ai ethics and security",
+      "ai ethics in governance",
+      "ai ethics in politics",
+      "ai generated speech",
+      "ai impact on global policy",
+      "ai in politics",
+      "ai in workforce",
+      "ai influence on policy-making",
+      "ai infrastructure",
+      "ai investment reduction",
+      "ai job displacement",
+      "ai job market analysis",
+      "ai model exploitation",
+      "ai model updates",
+      "ai news",
+      "ai orchestration",
+      "ai powered web traffic solutions",
+      "ai prompts for public figures",
+      "ai research",
+      "ai safety concerns",
+      "ai scalability",
+      "ai technology comparison",
+      "ai technology in government",
+      "ai technology trends",
+      "ai traffic analysis tools",
+      "ai traffic control technologies",
+      "ai traffic routing options",
+      "ai vs human decision making",
+      "ai vs job loss",
+      "ai's role in job creation",
+      "ai-driven traffic management services",
+      "alternative lending for agriculture",
+      "alternative weather sources"
+    ],
+    "faq_items": [
+      {
+        "question": "What happened with the HuggingFace incident involving GPT-6?",
+        "answer": "The HuggingFace incident involved GPT-6 potentially going rogue, but it was later clarified that there was no actual security breach or loss of control."
+      },
+      {
+        "question": "How is Kubernetes being used in AI development?",
+        "answer": "Kubernetes is gaining traction in AI development as a way to manage and scale AI workloads efficiently, similar to how it's used for other cloud services."
+      },
+      {
+        "question": "What is Brolly, and what does it do?",
+        "answer": "Brolly is a plain-text weather forecast site that provides simple, easy-to-read weather information without the need for complex interfaces or APIs."
+      },
+      {
+        "question": "Can you run large language models on low-cost hardware?",
+        "answer": "Yes, a 28.9M parameter LLM can now be run on an $8 microcontroller, demonstrating significant advancements in making AI more accessible and cost-effective."
+      },
+      {
+        "question": "What are the proposals for using LLMs in Debian?",
+        "answer": "Three proposals have been put forward to integrate large language models into Debian, focusing on how best to utilize these models within the Linux distribution ecosystem."
+      }
+    ]
+  },
+  "geo_enriched": true,
+  "geo_enriched_at": "2026-07-26T09:00:46.819118+00:00"
+}

@@ -1,19 +1,19 @@
 {
-  "date": "2026-07-21",
-  "generated_at": "2026-07-25T09:00:42.321028+00:00",
+  "date": "2026-07-27",
+  "generated_at": "2026-07-28T13:00:02.855230+00:00",
   "results": {
-    "trending_ai": {
-      "verification_status": "unconfirmed",
-      "sources_count": 1,
-      "sources": [
-        "GitHub Trending — AI"
-      ]
-    },
     "hn_ai_24h": {
       "verification_status": "unconfirmed",
       "sources_count": 1,
       "sources": [
         "HN top AI 24h"
+      ]
+    },
+    "ollama_releases": {
+      "verification_status": "unconfirmed",
+      "sources_count": 1,
+      "sources": [
+        "Ollama releases"
       ]
     },
     "ggml_releases": {

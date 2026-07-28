@@ -1,19 +1,19 @@
 {
-  "date": "2026-07-19",
-  "generated_at": "2026-07-23T05:00:03.036894+00:00",
+  "date": "2026-07-28",
+  "generated_at": "2026-07-28T13:00:02.855230+00:00",
   "results": {
-    "trending_llm": {
+    "trending_agent": {
       "verification_status": "unconfirmed",
       "sources_count": 1,
       "sources": [
-        "GitHub Trending — LLM"
+        "GitHub Trending — AI Agents"
       ]
     },
-    "hn_ai_24h": {
+    "ggml_releases": {
       "verification_status": "unconfirmed",
       "sources_count": 1,
       "sources": [
-        "HN top AI 24h"
+        "ggml/llama.cpp releases"
       ]
     }
   }
