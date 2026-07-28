@@ -249,6 +249,51 @@ export default function HomePage() {
                 {t("home.autonomousOrchestration")}
               </p>
 
+              <div className="hidden md:block max-w-3xl mx-auto mb-10">
+                <svg viewBox="0 0 720 170" className="w-full h-auto">
+                  <defs>
+                    <marker id="archArrow" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse">
+                      <path d="M0 0L10 5L0 10z" fill="rgba(59,130,246,0.5)" />
+                    </marker>
+                  </defs>
+
+                  {/* main pipeline */}
+                  <line x1="82" y1="45" x2="178" y2="45" stroke="rgba(255,255,255,0.15)" stroke-width="1.5" marker-end="url(#archArrow)" />
+                  <line x1="222" y1="45" x2="318" y2="45" stroke="rgba(255,255,255,0.15)" stroke-width="1.5" marker-end="url(#archArrow)" />
+                  <line x1="362" y1="45" x2="458" y2="45" stroke="rgba(255,255,255,0.15)" stroke-width="1.5" marker-end="url(#archArrow)" />
+                  <line x1="502" y1="45" x2="598" y2="45" stroke="rgba(255,255,255,0.15)" stroke-width="1.5" marker-end="url(#archArrow)" />
+
+                  {/* memory: persistent vector storage feeding the cognitive/execution steps */}
+                  <path d="M410 118 Q410 45 222 45" stroke="rgba(59,130,246,0.25)" stroke-width="1" stroke-dasharray="3 4" fill="none" marker-end="url(#archArrow)" />
+                  <path d="M410 118 L362 45" stroke="rgba(59,130,246,0.25)" stroke-width="1" stroke-dasharray="3 4" fill="none" marker-end="url(#archArrow)" />
+                  <path d="M410 118 Q410 45 502 45" stroke="rgba(59,130,246,0.25)" stroke-width="1" stroke-dasharray="3 4" fill="none" marker-end="url(#archArrow)" />
+
+                  {/* reviewer: real-time self-audit loop back to router */}
+                  <path d="M620 67 Q350 155 60 67" stroke="rgba(255,255,255,0.1)" stroke-width="1" stroke-dasharray="2 5" fill="none" marker-end="url(#archArrow)" />
+
+                  {[
+                    { x: 60, label: "Router" },
+                    { x: 200, label: "Analyzer" },
+                    { x: 340, label: "Strategist" },
+                    { x: 480, label: "Writer" },
+                    { x: 620, label: "Reviewer" },
+                  ].map((n) => (
+                    <g key={n.label}>
+                      <circle cx={n.x} cy="45" r="20" fill="#050505" stroke="rgba(59,130,246,0.35)" stroke-width="1.5" />
+                      <text x={n.x} y="83" text-anchor="middle" font-size="10" fill="rgba(255,255,255,0.4)" letter-spacing="1" className="uppercase font-montserrat-bold">
+                        {n.label}
+                      </text>
+                    </g>
+                  ))}
+                  <g>
+                    <circle cx="410" cy="130" r="16" fill="#050505" stroke="rgba(59,130,246,0.2)" stroke-width="1.5" stroke-dasharray="2 2" />
+                    <text x="410" y="155" text-anchor="middle" font-size="9" fill="rgba(255,255,255,0.3)" letter-spacing="1" className="uppercase font-montserrat-bold">
+                      Memory
+                    </text>
+                  </g>
+                </svg>
+              </div>
+
               <div className="stagger-children relative flex flex-wrap justify-center gap-4 lg:gap-6">
                 {archNodes.map((node, i) => (
                   <div

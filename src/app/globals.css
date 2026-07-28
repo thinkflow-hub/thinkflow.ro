@@ -286,12 +286,18 @@ body {
   transition: opacity 0.5s ease-out, transform 0.5s ease-out;
 }
 
-.stagger-children.revealed > *:nth-child(1) { transition-delay: 0.0s; opacity: 1; transform: translateY(0); }
-.stagger-children.revealed > *:nth-child(2) { transition-delay: 0.1s; opacity: 1; transform: translateY(0); }
-.stagger-children.revealed > *:nth-child(3) { transition-delay: 0.2s; opacity: 1; transform: translateY(0); }
-.stagger-children.revealed > *:nth-child(4) { transition-delay: 0.3s; opacity: 1; transform: translateY(0); }
-.stagger-children.revealed > *:nth-child(5) { transition-delay: 0.4s; opacity: 1; transform: translateY(0); }
-.stagger-children.revealed > *:nth-child(6) { transition-delay: 0.5s; opacity: 1; transform: translateY(0); }
+/* `.revealed` is toggled by ScrollSection on ITS OWN wrapper (.scroll-reveal),
+   not on the nested .stagger-children div -- so `.stagger-children.revealed`
+   never matched anything and these 6 children rendered with opacity:0
+   permanently (Neural Intelligence architecture grid on the homepage).
+   Descendant selector matches the actual DOM instead of requiring both
+   classes on the same element. */
+.scroll-reveal.revealed .stagger-children > *:nth-child(1) { transition-delay: 0.0s; opacity: 1; transform: translateY(0); }
+.scroll-reveal.revealed .stagger-children > *:nth-child(2) { transition-delay: 0.1s; opacity: 1; transform: translateY(0); }
+.scroll-reveal.revealed .stagger-children > *:nth-child(3) { transition-delay: 0.2s; opacity: 1; transform: translateY(0); }
+.scroll-reveal.revealed .stagger-children > *:nth-child(4) { transition-delay: 0.3s; opacity: 1; transform: translateY(0); }
+.scroll-reveal.revealed .stagger-children > *:nth-child(5) { transition-delay: 0.4s; opacity: 1; transform: translateY(0); }
+.scroll-reveal.revealed .stagger-children > *:nth-child(6) { transition-delay: 0.5s; opacity: 1; transform: translateY(0); }
 
 /* ── Stat Numbers ── */
 .stat-number {
