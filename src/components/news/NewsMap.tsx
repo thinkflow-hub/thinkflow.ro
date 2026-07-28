@@ -79,7 +79,7 @@ export function NewsMap({ locations }: Props) {
 
   if (locations.length === 0) {
     return (
-      <div className="flex items-center justify-center h-64 rounded-xl border bg-card">
+      <div className="flex items-center justify-center h-64 glass-card relative noise-overlay">
         <p className="text-sm text-muted">No geo-located articles available.</p>
       </div>
     );
@@ -87,15 +87,15 @@ export function NewsMap({ locations }: Props) {
 
   return (
     <div className="space-y-4">
-      <div ref={mapRef} className="h-[500px] w-full rounded-xl border z-0" />
+      <div ref={mapRef} className="h-[500px] w-full rounded-xl border border-border z-0" />
 
       {selected && (
-        <div className="rounded-xl border bg-card p-3 text-sm">
-          <p className="font-medium">{selected.title}</p>
+        <div className="glass-card relative noise-overlay p-3 text-sm">
+          <p className="font-medium text-foreground">{selected.title}</p>
           <p className="text-xs text-muted mt-1">{selected.city} · {selected.category}</p>
           <Link
             href={`/news/article/${selected.source_id}`}
-            className="mt-1 inline-block text-xs text-primary hover:underline"
+            className="mt-1 inline-block text-xs text-accent hover:underline"
           >
             Read more →
           </Link>

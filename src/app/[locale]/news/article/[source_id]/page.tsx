@@ -5,6 +5,14 @@ import { findNewsItem, readNewsFile, getAllDates, semanticCluster } from "@/lib/
 import type { Category } from "@/lib/news-types";
 import { CATEGORY_COLORS } from "@/lib/news-types";
 
+// `published` arrives as an RFC 2822 string (e.g. "Mon, 27 Jul 2026 03:30:00 GMT"), not ISO.
+function formatPublished(published?: string): string {
+  if (!published) return "";
+  const d = new Date(published);
+  if (Number.isNaN(d.getTime())) return "";
+  return d.toLocaleDateString("en-US", { month: "short", day: "numeric", year: "numeric" });
+}
+
 export async function generateMetadata({ params }: { params: Promise<{ locale: string; source_id: string }> }): Promise<Metadata> {
   const { source_id } = await params;
   const item = findNewsItem(source_id);
@@ -46,10 +54,10 @@ export default async function ArticlePage({ params }: { params: Promise<{ locale
             {item.category}
           </span>
           <span className="text-xs text-muted">{item.source_name}</span>
-          <span className="text-xs text-muted">{item.published?.slice(0, 10)}</span>
+          <span className="text-xs text-muted">{formatPublished(item.published)}</span>
         </div>
 
-        <h1 className="text-2xl sm:text-3xl font-bold tracking-tight mb-4">{item.title}</h1>
+        <h1 className="text-2xl sm:text-3xl font-bold tracking-tight mb-4 text-foreground">{item.title}</h1>
 
         {item.thumbnail && (
           // eslint-disable-next-line @next/next/no-img-element
@@ -60,7 +68,7 @@ export default async function ArticlePage({ params }: { params: Promise<{ locale
           href={item.url}
           target="_blank"
           rel="noopener noreferrer"
-          className="mb-6 inline-flex items-center gap-1.5 rounded-lg bg-primary px-4 py-2 text-sm font-medium text-primary-foreground hover:bg-primary/90 transition-colors"
+          className="mb-6 inline-flex items-center gap-1.5 glass-button px-4 py-2 text-sm font-medium text-white transition-colors"
         >
           Read original ↗
         </a>
@@ -112,7 +120,7 @@ export default async function ArticlePage({ params }: { params: Promise<{ locale
                 <Link
                   key={kw}
                   href={`/${locale}/news/topic/${kw.toLowerCase().replace(/\s+/g, "-")}`}
-                  className="rounded-full bg-muted px-2.5 py-1 text-xs text-muted hover:text-foreground hover:bg-muted/80 transition-colors"
+                  className="rounded-full border border-border bg-white/5 px-2.5 py-1 text-xs text-muted hover:text-foreground hover:border-accent/30 transition-colors"
                 >
                   {kw}
                 </Link>
@@ -122,12 +130,12 @@ export default async function ArticlePage({ params }: { params: Promise<{ locale
         )}
 
         {/* Source metadata */}
-        <div className="mb-8 rounded-xl border bg-card p-4 text-xs text-muted space-y-1">
+        <div className="mb-8 glass-card relative noise-overlay p-4 text-xs text-muted space-y-1">
           {item.source_name && <p>Source: {item.source_name}</p>}
           {item.subreddit && <p>Subreddit: r/{item.subreddit}</p>}
           {item.comments_url && (
             <p>
-              <a href={item.comments_url} target="_blank" rel="noopener noreferrer" className="text-primary hover:underline">
+              <a href={item.comments_url} target="_blank" rel="noopener noreferrer" className="text-accent hover:underline">
                 View comments ↗
               </a>
             </p>
@@ -139,8 +147,8 @@ export default async function ArticlePage({ params }: { params: Promise<{ locale
 
       {/* Timeline: related articles from same cluster */}
       {timelineItems.length > 0 && (
-        <section className="border-t pt-6 mt-6">
-          <h2 className="text-lg font-semibold mb-4">Also covered by</h2>
+        <section className="border-t border-border pt-6 mt-6">
+          <h2 className="text-lg font-semibold mb-4 text-foreground">Also covered by</h2>
           <div className="space-y-2">
             {timelineItems.map((related) => (
               <a
@@ -148,12 +156,12 @@ export default async function ArticlePage({ params }: { params: Promise<{ locale
                 href={related.url}
                 target="_blank"
                 rel="noopener noreferrer"
-                className="flex items-center gap-3 rounded-lg border bg-card p-3 text-sm transition-colors hover:border-primary/30"
+                className="flex items-center gap-3 glass-card relative noise-overlay p-3 text-sm transition-colors"
               >
                 {related.favicon && (
                   <img src={related.favicon} alt="" className="h-4 w-4 rounded-sm" loading="lazy" decoding="async" />
                 )}
-                <span className="shrink-0 rounded bg-muted px-1.5 py-0.5 text-[10px] font-medium text-muted">
+                <span className="shrink-0 rounded border border-border bg-white/5 px-1.5 py-0.5 text-[10px] font-medium text-muted">
                   {related.source_name}
                 </span>
                 <span className="truncate">{related.title}</span>

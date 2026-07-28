@@ -28,7 +28,7 @@ export default async function NewsTopicPage({ params }: { params: Promise<{ loca
   return (
     <div className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8 py-8">
       <section className="mb-8">
-        <h1 className="text-3xl sm:text-4xl font-bold tracking-tight capitalize">
+        <h1 className="text-3xl sm:text-4xl font-montserrat-bold uppercase tracking-tight text-foreground">
           Topic: {topic}
         </h1>
         <p className="text-muted mt-2 text-sm">{items.length} stories found</p>

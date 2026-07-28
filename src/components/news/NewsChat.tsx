@@ -52,9 +52,9 @@ export function NewsChat({ onClose }: { onClose?: () => void }) {
   }
 
   return (
-    <div className="flex h-full flex-col rounded-xl border bg-card">
-      <div className="flex items-center justify-between border-b p-3">
-        <h3 className="text-sm font-semibold">Ask the News</h3>
+    <div className="flex h-full flex-col glass-card relative noise-overlay">
+      <div className="flex items-center justify-between border-b border-border p-3">
+        <h3 className="text-sm font-semibold text-foreground">Ask the News</h3>
         {onClose && (
           <button onClick={onClose} className="text-xs text-muted hover:text-foreground">Close ✕</button>
         )}
@@ -72,7 +72,7 @@ export function NewsChat({ onClose }: { onClose?: () => void }) {
             <div
               className={`max-w-[85%] rounded-xl px-3 py-2 ${
                 msg.role === "user"
-                  ? "bg-primary text-primary-foreground"
+                  ? "glass-button text-white"
                   : "bg-muted"
               }`}
             >
@@ -83,7 +83,7 @@ export function NewsChat({ onClose }: { onClose?: () => void }) {
                     <Link
                       key={s.source_id}
                       href={`/news/article/${s.source_id}`}
-                      className="block text-[10px] text-primary/80 hover:text-primary hover:underline"
+                      className="block text-[10px] text-accent/80 hover:text-accent hover:underline"
                     >
                       📄 {s.title.slice(0, 60)}
                     </Link>
@@ -98,7 +98,7 @@ export function NewsChat({ onClose }: { onClose?: () => void }) {
         ))}
         {loading && (
           <div className="flex justify-start">
-            <div className="rounded-xl bg-muted px-3 py-2 text-xs text-muted animate-pulse">
+            <div className="rounded-xl border border-border bg-white/5 px-3 py-2 text-xs text-muted animate-pulse">
               Searching articles...
             </div>
           </div>
@@ -106,19 +106,19 @@ export function NewsChat({ onClose }: { onClose?: () => void }) {
         <div ref={endRef} />
       </div>
 
-      <form onSubmit={handleSubmit} className="flex gap-2 border-t p-3">
+      <form onSubmit={handleSubmit} className="flex gap-2 border-t border-border p-3">
         <input
           type="text"
           value={input}
           onChange={(e) => setInput(e.target.value)}
           placeholder="Ask anything about the news..."
-          className="flex-1 rounded-lg border bg-background px-3 py-2 text-xs outline-none focus:ring-2 focus:ring-primary/50"
+          className="flex-1 rounded-lg border border-border bg-background px-3 py-2 text-xs outline-none focus:ring-2 focus:ring-accent/50"
           disabled={loading}
         />
         <button
           type="submit"
           disabled={loading || !input.trim()}
-          className="rounded-lg bg-primary px-3 py-2 text-xs font-medium text-primary-foreground hover:bg-primary/90 disabled:opacity-50"
+          className="glass-button rounded-lg px-3 py-2 text-xs font-medium text-white disabled:opacity-50"
         >
           {loading ? "..." : "Ask"}
         </button>

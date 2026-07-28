@@ -25,7 +25,7 @@ export default async function NewsPage({ params }: { params?: Promise<{ locale: 
   return (
     <div className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8 py-8">
       <section className="mb-8">
-        <h1 className="text-3xl sm:text-4xl font-bold tracking-tight">News</h1>
+        <h1 className="text-3xl sm:text-4xl font-montserrat-bold uppercase tracking-tight text-foreground">News</h1>
         <p className="text-muted mt-2 text-sm">
           Curated AI, cloud, DevOps, and web development news.
           {latest && <span> Updated: {latest}</span>}
@@ -33,19 +33,19 @@ export default async function NewsPage({ params }: { params?: Promise<{ locale: 
         <div className="mt-4 flex flex-wrap gap-2">
           <Link
             href={`/${locale}/news/channels`}
-            className="rounded-lg bg-muted px-3 py-1.5 text-xs font-medium hover:bg-muted/80 transition-colors"
+            className="glass-button-outline rounded-full px-3 py-1.5 text-xs font-medium text-muted hover:text-foreground transition-colors"
           >
             📡 My Channels
           </Link>
           <Link
             href={`/${locale}/news/graph`}
-            className="rounded-lg bg-muted px-3 py-1.5 text-xs font-medium hover:bg-muted/80 transition-colors"
+            className="glass-button-outline rounded-full px-3 py-1.5 text-xs font-medium text-muted hover:text-foreground transition-colors"
           >
             🕸️ Knowledge Graph
           </Link>
           <Link
             href={`/${locale}/news/chat`}
-            className="rounded-lg bg-muted px-3 py-1.5 text-xs font-medium hover:bg-muted/80 transition-colors"
+            className="glass-button-outline rounded-full px-3 py-1.5 text-xs font-medium text-muted hover:text-foreground transition-colors"
           >
             💬 Ask AI
           </Link>

@@ -14,10 +14,10 @@ function moodEmoji(mood: string): string {
 
 export function DailyBriefingCard({ briefing }: { briefing: DailyBriefing }) {
   return (
-    <div className="mb-8 rounded-xl border bg-gradient-to-br from-card to-muted/50 p-5">
+    <div className="mb-8 glass-card relative noise-overlay p-5">
       <div className="mb-3 flex items-center gap-2">
         <span className="text-xl">{moodEmoji(briefing.mood)}</span>
-        <h2 className="text-lg font-semibold">Daily Briefing</h2>
+        <h2 className="text-lg font-semibold text-foreground">Daily Briefing</h2>
         <span className="text-xs text-muted">{briefing.date}</span>
       </div>
       <p className="mb-4 text-sm leading-relaxed text-muted">{briefing.daily_briefing}</p>
@@ -37,7 +37,7 @@ export function DailyBriefingCard({ briefing }: { briefing: DailyBriefing }) {
 
 export function BriefingSkeleton() {
   return (
-    <div className="mb-8 rounded-xl border bg-card p-5 animate-pulse">
+    <div className="mb-8 glass-card relative noise-overlay p-5 animate-pulse">
       <div className="mb-3 h-5 w-48 rounded bg-muted" />
       <div className="mb-2 h-4 w-full rounded bg-muted" />
       <div className="mb-4 h-4 w-3/4 rounded bg-muted" />

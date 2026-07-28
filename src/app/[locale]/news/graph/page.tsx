@@ -21,7 +21,7 @@ export default async function GraphPage({ params }: { params: Promise<{ locale: 
       </Link>
 
       <section className="mb-6">
-        <h1 className="text-3xl font-bold tracking-tight">Knowledge Graph</h1>
+        <h1 className="text-3xl font-montserrat-bold uppercase tracking-tight text-foreground">Knowledge Graph</h1>
         {graph && (
           <p className="text-sm text-muted mt-1">
             {graph.stats.articles} articles · {graph.stats.entities} topics · {graph.stats.edges} connections
@@ -30,11 +30,11 @@ export default async function GraphPage({ params }: { params: Promise<{ locale: 
       </section>
 
       {graph ? (
-        <div className="h-[600px] rounded-xl border bg-card">
+        <div className="h-[600px] rounded-xl border border-border bg-card">
           <NewsGraphClient graph={graph} />
         </div>
       ) : (
-        <div className="flex items-center justify-center h-64 rounded-xl border bg-card">
+        <div className="flex items-center justify-center h-64 glass-card relative noise-overlay">
           <p className="text-sm text-muted">Knowledge graph not available. Run the pipeline to generate one.</p>
         </div>
       )}

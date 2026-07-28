@@ -96,7 +96,7 @@ export function CommandPalette({
     <div className="fixed inset-0 z-50 flex items-start justify-center pt-[15vh]" onClick={onClose}>
       <div className="absolute inset-0 bg-black/30 backdrop-blur-sm" />
       <div
-        className="relative w-full max-w-lg rounded-xl border bg-card shadow-2xl"
+        className="relative w-full max-w-lg glass-card noise-overlay shadow-2xl"
         onClick={(e) => e.stopPropagation()}
       >
         <input
@@ -105,7 +105,7 @@ export function CommandPalette({
           placeholder="Type a command or search..."
           value={query}
           onChange={(e) => setQuery(e.target.value)}
-          className="w-full rounded-t-xl border-b bg-transparent px-4 py-3 text-sm outline-none"
+          className="w-full rounded-t-xl border-b border-border bg-transparent px-4 py-3 text-sm outline-none text-foreground"
         />
         <div className="max-h-64 overflow-y-auto p-2">
           {filtered.map((action) => (
@@ -114,16 +114,16 @@ export function CommandPalette({
               onClick={action.action}
               className="flex w-full items-center gap-3 rounded-lg px-3 py-2 text-sm hover:bg-muted transition-colors text-left"
             >
-              <kbd className="shrink-0 rounded border bg-muted px-1.5 py-0.5 text-[10px] font-mono text-muted">
+              <kbd className="shrink-0 rounded border border-border bg-white/5 px-1.5 py-0.5 text-[10px] font-mono text-foreground">
                 {action.key}
               </kbd>
-              <span>{action.label}</span>
+              <span className="text-foreground">{action.label}</span>
             </button>
           ))}
         </div>
-        <div className="border-t px-4 py-2 text-[10px] text-muted">
-          Press <kbd className="rounded border bg-muted px-1 font-mono">Esc</kbd> to close ·{" "}
-          <kbd className="rounded border bg-muted px-1 font-mono">?</kbd> for help
+        <div className="border-t border-border px-4 py-2 text-[10px] text-muted">
+          Press <kbd className="rounded border border-border bg-white/5 px-1 font-mono text-foreground">Esc</kbd> to close ·{" "}
+          <kbd className="rounded border border-border bg-white/5 px-1 font-mono text-foreground">?</kbd> for help
         </div>
       </div>
     </div>

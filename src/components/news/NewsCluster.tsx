@@ -28,7 +28,7 @@ export function NewsCluster({ clusterItems }: { clusterItems: NewsItem[] }) {
     confidence === "high" ? "text-green-500" : confidence === "medium" ? "text-yellow-500" : "text-muted";
 
   return (
-    <div className="flex flex-col rounded-xl border bg-card transition-all hover:shadow-md hover:border-primary/30">
+    <div className="flex flex-col glass-card relative noise-overlay transition-all">
       <div className="p-4">
         <div className="mb-2 flex items-center gap-2">
           <span
@@ -37,7 +37,7 @@ export function NewsCluster({ clusterItems }: { clusterItems: NewsItem[] }) {
           >
             {main.category}
           </span>
-          <span className="inline-flex items-center gap-1 rounded-full bg-primary/10 px-2 py-0.5 text-[10px] font-semibold text-primary">
+          <span className="inline-flex items-center gap-1 rounded-full bg-accent/10 px-2 py-0.5 text-[10px] font-semibold text-accent">
             {clusterItems.length} sources
           </span>
           <span className={`text-[10px] font-medium ${confidenceColor}`}>
@@ -62,20 +62,20 @@ export function NewsCluster({ clusterItems }: { clusterItems: NewsItem[] }) {
         )}
 
         <div className="flex items-center gap-2 text-[11px] text-muted">
-          <span className="text-xs text-primary/80">Covered by {uniqueSources.join(", ")}</span>
+          <span className="text-xs text-accent/80">Covered by {uniqueSources.join(", ")}</span>
         </div>
 
         {clusterItems.length > 1 && (
           <div className="mt-2 flex gap-3">
             <button
               onClick={() => setExpanded(!expanded)}
-              className="text-xs text-primary hover:text-primary/80 transition-colors"
+              className="text-xs text-accent hover:text-accent/80 transition-colors"
             >
               {expanded ? "Hide sources ▲" : "Show all sources ▼"}
             </button>
             <button
               onClick={() => setCompareMode(!compareMode)}
-              className={`text-xs transition-colors ${compareMode ? "text-primary" : "text-muted hover:text-primary/80"}`}
+              className={`text-xs transition-colors ${compareMode ? "text-accent" : "text-muted hover:text-accent/80"}`}
             >
               {compareMode ? "Hide comparison" : "Compare sources"}
             </button>
@@ -96,7 +96,7 @@ export function NewsCluster({ clusterItems }: { clusterItems: NewsItem[] }) {
               {item.favicon && (
                 <img src={item.favicon} alt="" className="h-3.5 w-3.5 rounded-sm shrink-0" loading="lazy" decoding="async" />
               )}
-              <span className="shrink-0 rounded bg-muted px-1.5 py-0.5 text-[10px] font-medium text-muted">
+              <span className="shrink-0 rounded border border-border bg-white/5 px-1.5 py-0.5 text-[10px] font-medium text-muted">
                 {item.source_name}
               </span>
               <span className="truncate text-muted group-hover:text-foreground transition-colors">

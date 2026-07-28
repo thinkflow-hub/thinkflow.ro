@@ -21,7 +21,7 @@ export default async function MapPage({ params }: { params: Promise<{ locale: st
       </Link>
 
       <section className="mb-6">
-        <h1 className="text-3xl font-bold tracking-tight">Explore by Location</h1>
+        <h1 className="text-3xl font-montserrat-bold uppercase tracking-tight text-foreground">Explore by Location</h1>
         <p className="text-sm text-muted mt-1">Stories pinned to cities around the world</p>
       </section>
 

@@ -25,7 +25,7 @@ export default async function NewsArchiveDatePage({ params }: { params: Promise<
   return (
     <div className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8 py-8">
       <section className="mb-8">
-        <h1 className="text-3xl sm:text-4xl font-bold tracking-tight">News — {date}</h1>
+        <h1 className="text-3xl sm:text-4xl font-montserrat-bold uppercase tracking-tight text-foreground">News — {date}</h1>
         <p className="text-muted mt-2 text-sm">{items.length} stories</p>
       </section>
 

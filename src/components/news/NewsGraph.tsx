@@ -196,8 +196,8 @@ export function NewsGraph({ graph, onNodeClick }: Props) {
       </svg>
 
       {hoveredNode && nodeMap.has(hoveredNode) && (
-        <div className="mt-2 rounded-lg border bg-card p-2 text-xs">
-          <p className="font-medium">{nodeMap.get(hoveredNode)?.label}</p>
+        <div className="mt-2 glass-card relative noise-overlay p-2 text-xs">
+          <p className="font-medium text-foreground">{nodeMap.get(hoveredNode)?.label}</p>
           <p className="text-muted">
             {nodeMap.get(hoveredNode)?.type === "article" ? "Article" : "Topic"}
             {nodeMap.get(hoveredNode)?.source && ` · ${nodeMap.get(hoveredNode)?.source}`}

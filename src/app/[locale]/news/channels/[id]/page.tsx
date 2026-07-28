@@ -53,7 +53,7 @@ export default function ChannelPage() {
     return (
       <div className="mx-auto max-w-4xl px-4 py-12 text-center">
         <p className="text-muted">Channel not found.</p>
-        <Link href="/news/channels" className="text-sm text-primary hover:underline mt-2 inline-block">
+        <Link href="/news/channels" className="text-sm text-accent hover:underline mt-2 inline-block">
           ← Back to channels
         </Link>
       </div>
@@ -67,11 +67,11 @@ export default function ChannelPage() {
       </Link>
 
       <section className="mb-8">
-        <h1 className="text-3xl font-bold tracking-tight">{channel.name}</h1>
+        <h1 className="text-3xl font-montserrat-bold uppercase tracking-tight text-foreground">{channel.name}</h1>
         {channel.keywords.length > 0 && (
           <div className="mt-2 flex flex-wrap gap-1.5">
             {channel.keywords.map((kw) => (
-              <span key={kw} className="rounded-full bg-muted px-2.5 py-1 text-xs text-muted">{kw}</span>
+              <span key={kw} className="rounded-full border border-border bg-white/5 px-2.5 py-1 text-xs text-muted">{kw}</span>
             ))}
           </div>
         )}

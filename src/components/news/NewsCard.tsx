@@ -30,7 +30,7 @@ export function NewsCard({ item }: { item: NewsItem }) {
   }, [item.source_id]);
 
   return (
-    <div className="group flex flex-col rounded-xl border bg-card p-4 transition-all hover:shadow-md hover:border-primary/30">
+    <div className="group flex flex-col glass-card relative noise-overlay p-4 transition-all">
       <div className="mb-2 flex items-center gap-2">
         <span
           className="inline-block rounded-full px-2 py-0.5 text-[10px] font-semibold uppercase tracking-wider text-white"
@@ -65,7 +65,7 @@ export function NewsCard({ item }: { item: NewsItem }) {
       )}
 
       <Link href={`/news/article/${item.source_id}`} className="mb-1.5">
-        <h3 className="text-sm font-semibold leading-snug group-hover:text-primary transition-colors line-clamp-2">
+        <h3 className="text-sm font-semibold leading-snug group-hover:text-accent transition-colors line-clamp-2">
           {item.title}
         </h3>
       </Link>
@@ -79,7 +79,7 @@ export function NewsCard({ item }: { item: NewsItem }) {
           <img src={item.favicon} alt="" className="h-3.5 w-3.5 rounded-sm" loading="lazy" decoding="async" />
         )}
         <span className="truncate">{extractDomain(item.url)}</span>
-        <a href={item.url} target="_blank" rel="noopener noreferrer" className="ml-auto shrink-0 text-primary hover:text-primary/80 transition-colors">
+        <a href={item.url} target="_blank" rel="noopener noreferrer" className="ml-auto shrink-0 text-accent hover:text-accent/80 transition-colors">
           ↗
         </a>
       </div>

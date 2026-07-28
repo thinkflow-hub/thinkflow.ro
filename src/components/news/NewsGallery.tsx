@@ -11,7 +11,7 @@ export function NewsGallery({ items }: { items: NewsItem[] }) {
           <Link
             key={item.source_id}
             href={`/news/article/${item.source_id}`}
-            className="group relative flex aspect-[4/3] overflow-hidden rounded-lg border bg-muted transition-all hover:shadow-md hover:border-primary/30"
+            className="group relative flex aspect-[4/3] overflow-hidden rounded-lg border border-border bg-muted transition-all hover:shadow-md hover:border-accent/30"
           >
             {item.thumbnail ? (
               // eslint-disable-next-line @next/next/no-img-element

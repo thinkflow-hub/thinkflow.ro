@@ -33,8 +33,8 @@ export function NewsletterSignup() {
   }
 
   return (
-    <div className="my-8 rounded-xl border bg-gradient-to-br from-card to-muted/30 p-6">
-      <h3 className="text-lg font-semibold mb-1">Weekly Briefing</h3>
+    <div className="my-8 glass-card relative noise-overlay p-6">
+      <h3 className="text-lg font-semibold mb-1 text-foreground">Weekly Briefing</h3>
       <p className="text-sm text-muted mb-4">
         Get a curated AI summary of the week&apos;s top stories every Saturday morning.
       </p>
@@ -45,13 +45,13 @@ export function NewsletterSignup() {
           value={email}
           onChange={(e) => setEmail(e.target.value)}
           required
-          className="flex-1 rounded-lg border bg-background px-3 py-2 text-sm outline-none focus:ring-2 focus:ring-primary/50"
+          className="flex-1 rounded-lg border border-border bg-background px-3 py-2 text-sm outline-none focus:ring-2 focus:ring-accent/50"
           disabled={status === "loading" || status === "success"}
         />
         <button
           type="submit"
           disabled={status === "loading" || status === "success"}
-          className="rounded-lg bg-primary px-4 py-2 text-sm font-medium text-primary-foreground hover:bg-primary/90 disabled:opacity-50 transition-opacity"
+          className="glass-button px-4 py-2 text-sm font-medium text-white disabled:opacity-50 transition-opacity"
         >
           {status === "loading" ? "..." : status === "success" ? "✓" : "Subscribe"}
         </button>

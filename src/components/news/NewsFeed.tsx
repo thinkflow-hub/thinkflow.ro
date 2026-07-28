@@ -17,12 +17,22 @@ const CATEGORIES = [
   "ai_labs", "research", "newsletters", "industry",
 ] as const;
 
+function toDateKey(published?: string): string {
+  // `published` arrives as an RFC 2822 string (e.g. "Mon, 27 Jul 2026 03:30:00 GMT"),
+  // not ISO — slicing the first 10 chars grabs "Mon, 27 Ju" (weekday+day, not a date),
+  // which differs per item and scattered every item into its own bogus group.
+  if (!published) return "unknown";
+  const d = new Date(published);
+  return Number.isNaN(d.getTime()) ? "unknown" : d.toISOString().slice(0, 10);
+}
+
 function formatDateLabel(dateStr: string): string {
   const today = new Date().toISOString().slice(0, 10);
   const yesterday = new Date(Date.now() - 86400000).toISOString().slice(0, 10);
   if (dateStr === today) return "Today";
   if (dateStr === yesterday) return "Yesterday";
   const d = new Date(dateStr + "T00:00:00");
+  if (Number.isNaN(d.getTime())) return "Undated";
   return d.toLocaleDateString("en-US", { weekday: "long", month: "long", day: "numeric", year: "numeric" });
 }
 
@@ -96,13 +106,17 @@ export function NewsFeed({ items, dates }: Props) {
   const grouped = useMemo(() => {
     const dateMap = new Map<string, NewsItem[]>();
     for (const item of filtered) {
-      const date = item.published?.slice(0, 10) || "unknown";
+      const date = toDateKey(item.published);
       const group = dateMap.get(date);
       if (group) group.push(item);
       else dateMap.set(date, [item]);
     }
     return Array.from(dateMap.entries())
-      .sort((a, b) => b[0].localeCompare(a[0]))
+      .sort((a, b) => {
+        if (a[0] === "unknown") return 1;
+        if (b[0] === "unknown") return -1;
+        return b[0].localeCompare(a[0]);
+      })
       .map(([date, items]) => ({
         date,
         groups: Array.from(semanticCluster(items).entries()),
@@ -132,16 +146,16 @@ export function NewsFeed({ items, dates }: Props) {
       <div className="mb-4 flex items-center gap-2">
         <button
           onClick={() => setBriefingMode(true)}
-          className={`rounded-lg px-3 py-1 text-xs font-medium transition-colors ${
-            briefingMode ? "bg-primary text-primary-foreground" : "bg-muted text-muted hover:bg-muted/80"
+          className={`rounded-full px-3 py-1 text-xs font-medium transition-colors ${
+            briefingMode ? "glass-button text-white" : "glass-button-outline text-muted hover:text-foreground"
           }`}
         >
           📋 Briefing
         </button>
         <button
           onClick={() => setBriefingMode(false)}
-          className={`rounded-lg px-3 py-1 text-xs font-medium transition-colors ${
-            !briefingMode ? "bg-primary text-primary-foreground" : "bg-muted text-muted hover:bg-muted/80"
+          className={`rounded-full px-3 py-1 text-xs font-medium transition-colors ${
+            !briefingMode ? "glass-button text-white" : "glass-button-outline text-muted hover:text-foreground"
           }`}
         >
           📰 Full Feed
@@ -149,8 +163,8 @@ export function NewsFeed({ items, dates }: Props) {
         <div className="ml-auto flex gap-1">
           <button
             onClick={() => setViewMode("grid")}
-            className={`rounded px-2 py-1 text-xs font-medium transition-colors ${
-              viewMode === "grid" ? "bg-muted" : "text-muted hover:text-foreground"
+            className={`rounded-full px-2 py-1 text-xs font-medium transition-colors ${
+              viewMode === "grid" ? "glass-button text-white" : "glass-button-outline text-muted hover:text-foreground"
             }`}
             title="Grid view"
           >
@@ -158,8 +172,8 @@ export function NewsFeed({ items, dates }: Props) {
           </button>
           <button
             onClick={() => setViewMode("gallery")}
-            className={`rounded px-2 py-1 text-xs font-medium transition-colors ${
-              viewMode === "gallery" ? "bg-muted" : "text-muted hover:text-foreground"
+            className={`rounded-full px-2 py-1 text-xs font-medium transition-colors ${
+              viewMode === "gallery" ? "glass-button text-white" : "glass-button-outline text-muted hover:text-foreground"
             }`}
             title="Gallery view"
           >
@@ -176,8 +190,8 @@ export function NewsFeed({ items, dates }: Props) {
               onClick={() => setActiveCategory(cat)}
               className={`rounded-full px-3 py-1 text-xs font-medium transition-colors ${
                 activeCategory === cat
-                  ? "bg-primary text-primary-foreground"
-                  : "bg-muted text-muted hover:bg-muted/80"
+                  ? "glass-button text-white"
+                  : "glass-button-outline text-muted hover:text-foreground"
               }`}
             >
               {cat === "all" ? "All" : cat.replace("_", " ")}
@@ -190,7 +204,7 @@ export function NewsFeed({ items, dates }: Props) {
             placeholder="Search news across 14 days..."
             value={searchQuery}
             onChange={(e) => setSearchQuery(e.target.value)}
-            className="w-56 rounded-lg border bg-background px-3 py-1.5 pr-8 text-sm outline-none focus:ring-2 focus:ring-primary/50"
+            className="w-56 rounded-lg border border-border bg-background px-3 py-1.5 pr-8 text-sm outline-none focus:ring-2 focus:ring-accent/50"
           />
           {searching && (
             <span className="absolute right-2.5 top-1/2 -translate-y-1/2 text-[10px] text-muted animate-pulse">...</span>
@@ -233,7 +247,7 @@ export function NewsFeed({ items, dates }: Props) {
             <div className="mt-8 text-center">
               <button
                 onClick={() => setVisibleCount((c) => c + 12)}
-                className="rounded-lg bg-muted px-6 py-2 text-sm font-medium hover:bg-muted/80"
+                className="glass-button-outline rounded-full px-6 py-2 text-sm font-medium text-muted hover:text-foreground"
               >
                 Load More ({totalVisualUnits - totalVisible} remaining)
               </button>
@@ -249,11 +263,11 @@ export function NewsFeed({ items, dates }: Props) {
       )}
 
       {showNudge && !briefingMode && (
-        <div className="mt-8 rounded-xl border border-primary/20 bg-primary/5 p-4 text-center">
-          <p className="text-sm font-medium">Been reading for a while? 🧠</p>
+        <div className="mt-8 rounded-xl border border-accent/20 bg-accent/5 p-4 text-center">
+          <p className="text-sm font-medium text-foreground">Been reading for a while? 🧠</p>
           <p className="mt-1 text-xs text-muted">
             You&apos;ve been in Full Feed for over 5 minutes. Switch to{" "}
-            <button onClick={() => setBriefingMode(true)} className="text-primary hover:underline">
+            <button onClick={() => setBriefingMode(true)} className="text-accent hover:underline">
               Briefing Mode
             </button>{" "}
             to see the day&apos;s top stories at a glance.
