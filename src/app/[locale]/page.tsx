@@ -116,10 +116,14 @@ export default function HomePage() {
   const [pipelineRef, pipelineVisible] = useScrollReveal(0.1);
   const [statsRef, statsVisible] = useScrollReveal(0.3);
 
+  // Real numbers, not placeholders -- verified 2026-07-28 against
+  // public/data/news/*.json (1,826 items summed across 69 daily archives)
+  // and news_graph.json (376 edges, live knowledge graph). Update these
+  // periodically as the archive grows; do not restore round/invented figures.
   const stats = [
-    { value: 1248, suffix: "+", label: t("home.statsOps") },
+    { value: 1826, suffix: "+", label: t("home.statsOps") },
     { value: 4, prefix: "2-", suffix: " weeks", label: t("home.statsDelivery") },
-    { value: 3.2, suffix: "x", label: t("home.statsSpeed"), decimals: 1 },
+    { value: 376, suffix: "+", label: t("home.statsSpeed") },
     { value: 100, suffix: "%", label: t("home.statsSovereignty") },
   ];
 
@@ -360,7 +364,7 @@ export default function HomePage() {
                 </div>
               ))}
             </div>
-            <div className="grid grid-cols-2 md:grid-cols-4 gap-8 mt-6 bg-white/[0.01] border border-white/5 rounded-[40px] p-8">
+            <div ref={statsRef} className="grid grid-cols-2 md:grid-cols-4 gap-8 mt-6 bg-white/[0.01] border border-white/5 rounded-[40px] p-8">
               {stats.map((s) => (
                 <StatCard key={s.label} {...s} start={statsVisible} />
               ))}
