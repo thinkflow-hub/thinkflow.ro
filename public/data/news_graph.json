@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-29T01:00:06.537685+00:00",
+  "generated_at": "2026-07-29T05:00:04.053829+00:00",
   "days": 7,
   "nodes": [
     {
@@ -11,18 +11,18 @@
       "source": "DeepMind Blog"
     },
     {
-      "id": "source:deepmind_blog",
-      "label": "Deepmind Blog",
-      "type": "entity",
-      "weight": 4,
-      "category": "",
-      "source": ""
-    },
-    {
       "id": "category:ai_labs",
       "label": "Ai Labs",
       "type": "entity",
       "weight": 19,
+      "category": "",
+      "source": ""
+    },
+    {
+      "id": "source:deepmind_blog",
+      "label": "Deepmind Blog",
+      "type": "entity",
+      "weight": 4,
       "category": "",
       "source": ""
     },
@@ -163,18 +163,18 @@
       "source": "Ollama releases"
     },
     {
-      "id": "source:ollama_releases",
-      "label": "Ollama Releases",
-      "type": "entity",
-      "weight": 7,
-      "category": "",
-      "source": ""
-    },
-    {
       "id": "category:releases",
       "label": "Releases",
       "type": "entity",
       "weight": 33,
+      "category": "",
+      "source": ""
+    },
+    {
+      "id": "source:ollama_releases",
+      "label": "Ollama Releases",
+      "type": "entity",
+      "weight": 7,
       "category": "",
       "source": ""
     },
@@ -979,18 +979,18 @@
       "source": "MIT Technology Review AI"
     },
     {
-      "id": "source:mit_technology_review_ai",
-      "label": "Mit Technology Review Ai",
-      "type": "entity",
-      "weight": 2,
-      "category": "",
-      "source": ""
-    },
-    {
       "id": "category:industry",
       "label": "Industry",
       "type": "entity",
       "weight": 9,
+      "category": "",
+      "source": ""
+    },
+    {
+      "id": "source:mit_technology_review_ai",
+      "label": "Mit Technology Review Ai",
+      "type": "entity",
+      "weight": 2,
       "category": "",
       "source": ""
     },
@@ -1718,22 +1718,22 @@
   "edges": [
     {
       "source": "article:https://deepmind.google/blog/introducing-gemini-36-flash-35-flash-lite-and-35-flash-cyber/",
-      "target": "source:deepmind_blog",
+      "target": "category:ai_labs",
       "weight": 1
     },
     {
       "source": "article:https://deepmind.google/blog/introducing-gemini-36-flash-35-flash-lite-and-35-flash-cyber/",
-      "target": "category:ai_labs",
-      "weight": 1
-    },
-    {
-      "source": "article:https://deepmind.google/blog/introducing-gemini-3-5-flash-cyber/",
       "target": "source:deepmind_blog",
       "weight": 1
     },
     {
       "source": "article:https://deepmind.google/blog/introducing-gemini-3-5-flash-cyber/",
       "target": "category:ai_labs",
+      "weight": 1
+    },
+    {
+      "source": "article:https://deepmind.google/blog/introducing-gemini-3-5-flash-cyber/",
+      "target": "source:deepmind_blog",
       "weight": 1
     },
     {
@@ -1758,15 +1758,15 @@
     },
     {
       "source": "article:https://github.com/Kong/kong",
-      "target": "category:open_source",
-      "weight": 1
-    },
-    {
-      "source": "article:https://github.com/Kong/kong",
       "target": "source:github_trending_—_ai",
       "weight": 1
     },
     {
+      "source": "article:https://github.com/Kong/kong",
+      "target": "category:open_source",
+      "weight": 1
+    },
+    {
       "source": "article:https://runtimewire.com/article/jack-dorsey-block-buzz-team-chat-ai-agents-git",
       "target": "category:trending",
       "weight": 1
@@ -1824,6 +1824,11 @@
     {
       "source": "article:https://cacm.acm.org/opinion/ai-didnt-make-programming-easier-it-just-made-it-differently-difficult/",
       "target": "source:hn_top_ai_24h",
+      "weight": 1
+    },
+    {
+      "source": "article:https://github.com/ollama/ollama/releases/tag/v0.32.2",
+      "target": "category:releases",
       "weight": 1
     },
     {
@@ -1832,11 +1837,6 @@
       "weight": 1
     },
     {
-      "source": "article:https://github.com/ollama/ollama/releases/tag/v0.32.2",
-      "target": "category:releases",
-      "weight": 1
-    },
-    {
       "source": "article:https://www.latent.space/p/ainews-ai-cybersecurity-becomes-top",
       "target": "source:latent_space_(substack)",
       "weight": 1
@@ -2018,16 +2018,11 @@
     },
     {
       "source": "article:https://openai.com/index/building-ai-infrastructure-with-the-effingham-county-community",
-      "target": "source:openai_blog",
+      "target": "category:ai_labs",
       "weight": 1
     },
     {
       "source": "article:https://openai.com/index/building-ai-infrastructure-with-the-effingham-county-community",
-      "target": "category:ai_labs",
-      "weight": 1
-    },
-    {
-      "source": "article:https://openai.com/index/how-news-organizations-are-using-ai",
       "target": "source:openai_blog",
       "weight": 1
     },
@@ -2037,7 +2032,7 @@
       "weight": 1
     },
     {
-      "source": "article:https://openai.com/index/advancing-the-next-era-of-national-science",
+      "source": "article:https://openai.com/index/how-news-organizations-are-using-ai",
       "target": "source:openai_blog",
       "weight": 1
     },
@@ -2047,7 +2042,7 @@
       "weight": 1
     },
     {
-      "source": "article:https://openai.com/index/introducing-openai-presence",
+      "source": "article:https://openai.com/index/advancing-the-next-era-of-national-science",
       "target": "source:openai_blog",
       "weight": 1
     },
@@ -2057,7 +2052,7 @@
       "weight": 1
     },
     {
-      "source": "article:https://openai.com/index/ntt-data",
+      "source": "article:https://openai.com/index/introducing-openai-presence",
       "target": "source:openai_blog",
       "weight": 1
     },
@@ -2067,7 +2062,7 @@
       "weight": 1
     },
     {
-      "source": "article:https://openai.com/index/introducing-chatgpt-small-business-program",
+      "source": "article:https://openai.com/index/ntt-data",
       "target": "source:openai_blog",
       "weight": 1
     },
@@ -2077,7 +2072,7 @@
       "weight": 1
     },
     {
-      "source": "article:https://openai.com/index/hugging-face-model-evaluation-security-incident",
+      "source": "article:https://openai.com/index/introducing-chatgpt-small-business-program",
       "target": "source:openai_blog",
       "weight": 1
     },
@@ -2087,12 +2082,22 @@
       "weight": 1
     },
     {
-      "source": "article:https://openai.com/index/david-velez-robin-vince-join-openai-boards",
+      "source": "article:https://openai.com/index/hugging-face-model-evaluation-security-incident",
       "target": "source:openai_blog",
       "weight": 1
     },
     {
       "source": "article:https://openai.com/index/david-velez-robin-vince-join-openai-boards",
+      "target": "category:ai_labs",
+      "weight": 1
+    },
+    {
+      "source": "article:https://openai.com/index/david-velez-robin-vince-join-openai-boards",
+      "target": "source:openai_blog",
+      "weight": 1
+    },
+    {
+      "source": "article:https://blog.google/products-and-platforms/platforms/android/galaxy-unpacked-2026/",
       "target": "category:ai_labs",
       "weight": 1
     },
@@ -2102,7 +2107,7 @@
       "weight": 1
     },
     {
-      "source": "article:https://blog.google/products-and-platforms/platforms/android/galaxy-unpacked-2026/",
+      "source": "article:https://deepmind.google/blog/accelerating-the-frontiers-of-scientific-discovery-googles-40m-commitment-to-the-genesis-mission/",
       "target": "category:ai_labs",
       "weight": 1
     },
@@ -2112,8 +2117,8 @@
       "weight": 1
     },
     {
-      "source": "article:https://deepmind.google/blog/accelerating-the-frontiers-of-scientific-discovery-googles-40m-commitment-to-the-genesis-mission/",
-      "target": "category:ai_labs",
+      "source": "article:https://github.com/jingyaogong/minimind",
+      "target": "source:github_trending_—_ai",
       "weight": 1
     },
     {
@@ -2122,11 +2127,6 @@
       "weight": 1
     },
     {
-      "source": "article:https://github.com/jingyaogong/minimind",
-      "target": "source:github_trending_—_ai",
-      "weight": 1
-    },
-    {
       "source": "article:https://dylancastillo.co/posts/pelicanmaxxing.html",
       "target": "category:trending",
       "weight": 1
@@ -2164,6 +2164,11 @@
     {
       "source": "article:https://www.redfin.com/news/ai-data-centers-opposition-education-benefit/",
       "target": "source:hn_top_ai_24h",
+      "weight": 1
+    },
+    {
+      "source": "article:https://github.com/ollama/ollama/releases/tag/v0.32.3-rc0",
+      "target": "category:releases",
       "weight": 1
     },
     {
@@ -2172,8 +2177,8 @@
       "weight": 1
     },
     {
-      "source": "article:https://github.com/ollama/ollama/releases/tag/v0.32.3-rc0",
-      "target": "category:releases",
+      "source": "article:https://cruciblebench.ai/",
+      "target": "source:hn_top_llm_24h",
       "weight": 1
     },
     {
@@ -2182,18 +2187,13 @@
       "weight": 1
     },
     {
-      "source": "article:https://cruciblebench.ai/",
+      "source": "article:https://petals.dev/",
       "target": "source:hn_top_llm_24h",
       "weight": 1
     },
     {
       "source": "article:https://petals.dev/",
       "target": "category:trending",
-      "weight": 1
-    },
-    {
-      "source": "article:https://petals.dev/",
-      "target": "source:hn_top_llm_24h",
       "weight": 1
     },
     {
@@ -2264,16 +2264,16 @@
     {
       "source": "article:https://github.com/ggml-org/llama.cpp/releases/tag/b10088",
       "target": "category:releases",
-      "weight": 1
-    },
-    {
-      "source": "article:https://openaim.pramit.gg/",
-      "target": "category:open_source",
       "weight": 1
     },
     {
       "source": "article:https://openaim.pramit.gg/",
       "target": "source:show_hn_ai_7d",
+      "weight": 1
+    },
+    {
+      "source": "article:https://openaim.pramit.gg/",
+      "target": "category:open_source",
       "weight": 1
     },
     {
@@ -2318,22 +2318,22 @@
     },
     {
       "source": "article:https://openai.com/index/health-in-chatgpt",
-      "target": "source:openai_blog",
+      "target": "category:ai_labs",
       "weight": 1
     },
     {
       "source": "article:https://openai.com/index/health-in-chatgpt",
-      "target": "category:ai_labs",
-      "weight": 1
-    },
-    {
-      "source": "article:https://openai.com/index/codex-collaborator-creative-team",
       "target": "source:openai_blog",
       "weight": 1
     },
     {
       "source": "article:https://openai.com/index/codex-collaborator-creative-team",
       "target": "category:ai_labs",
+      "weight": 1
+    },
+    {
+      "source": "article:https://openai.com/index/codex-collaborator-creative-team",
+      "target": "source:openai_blog",
       "weight": 1
     },
     {
@@ -2348,15 +2348,15 @@
     },
     {
       "source": "article:https://github.com/The-Art-of-Hacking/h4cker",
-      "target": "category:open_source",
-      "weight": 1
-    },
-    {
-      "source": "article:https://github.com/The-Art-of-Hacking/h4cker",
       "target": "source:github_trending_—_ai",
       "weight": 1
     },
     {
+      "source": "article:https://github.com/The-Art-of-Hacking/h4cker",
+      "target": "category:open_source",
+      "weight": 1
+    },
+    {
       "source": "article:https://www.politico.com/news/2026/07/22/startup-founders-urge-trump-not-to-shut-off-chinese-open-weight-ai-01008992",
       "target": "category:trending",
       "weight": 1
@@ -2414,11 +2414,6 @@
     {
       "source": "article:https://www.darpa.mil/news/2026/darpa-us-air-force-fly-ai-controlled-f-16",
       "target": "source:hn_top_ai_24h",
-      "weight": 1
-    },
-    {
-      "source": "article:https://github.com/palmier-io/palmier-pro",
-      "target": "category:trending",
       "weight": 1
     },
     {
@@ -2427,13 +2422,18 @@
       "weight": 1
     },
     {
-      "source": "article:https://github.com/ollama/ollama/releases/tag/v0.32.3",
-      "target": "source:ollama_releases",
+      "source": "article:https://github.com/palmier-io/palmier-pro",
+      "target": "category:trending",
       "weight": 1
     },
     {
       "source": "article:https://github.com/ollama/ollama/releases/tag/v0.32.3",
       "target": "category:releases",
+      "weight": 1
+    },
+    {
+      "source": "article:https://github.com/ollama/ollama/releases/tag/v0.32.3",
+      "target": "source:ollama_releases",
       "weight": 1
     },
     {
@@ -2488,15 +2488,15 @@
     },
     {
       "source": "article:https://github.com/onecli/onecli",
-      "target": "category:open_source",
-      "weight": 1
-    },
-    {
-      "source": "article:https://github.com/onecli/onecli",
       "target": "source:show_hn_ai_7d",
       "weight": 1
     },
     {
+      "source": "article:https://github.com/onecli/onecli",
+      "target": "category:open_source",
+      "weight": 1
+    },
+    {
       "source": "article:https://www.msn.com/en-us/money/economy/ai-bet-goes-awry-oracle-fires-21-000-employees/ar-AA28vWuD",
       "target": "category:trending",
       "weight": 1
@@ -2524,16 +2524,16 @@
     {
       "source": "article:https://louwrentius.com/i-think-you-might-be-fooling-yourself-with-ai.html",
       "target": "source:hn_top_ai_24h",
-      "weight": 1
-    },
-    {
-      "source": "article:https://news.ycombinator.com/item?id=49024620",
-      "target": "category:trending",
       "weight": 1
     },
     {
       "source": "article:https://news.ycombinator.com/item?id=49024620",
       "target": "source:hn_top_llm_24h",
+      "weight": 1
+    },
+    {
+      "source": "article:https://news.ycombinator.com/item?id=49024620",
+      "target": "category:trending",
       "weight": 1
     },
     {
@@ -2618,12 +2618,12 @@
     },
     {
       "source": "article:https://sliplane.io/blog/hetzner-inference",
-      "target": "category:trending",
+      "target": "source:hn_top_llm_24h",
       "weight": 1
     },
     {
       "source": "article:https://sliplane.io/blog/hetzner-inference",
-      "target": "source:hn_top_llm_24h",
+      "target": "category:trending",
       "weight": 1
     },
     {
@@ -2634,6 +2634,11 @@
     {
       "source": "article:https://www.cnbc.com/2026/07/24/nvidia-microsoft-meta-open-weight-ai-models.html",
       "target": "source:hn_top_ai_24h",
+      "weight": 1
+    },
+    {
+      "source": "article:https://github.com/ollama/ollama/releases/tag/v0.32.4-rc0",
+      "target": "category:releases",
       "weight": 1
     },
     {
@@ -2642,11 +2647,6 @@
       "weight": 1
     },
     {
-      "source": "article:https://github.com/ollama/ollama/releases/tag/v0.32.4-rc0",
-      "target": "category:releases",
-      "weight": 1
-    },
-    {
       "source": "article:https://images.nvidia.com/pdf/Open-Weights-and-American-AI-Leadership.pdf",
       "target": "category:trending",
       "weight": 1
@@ -2738,16 +2738,11 @@
     },
     {
       "source": "article:https://www.technologyreview.com/2026/07/24/1140790/the-quest-to-keep-organs-alive-outside-the-body/",
-      "target": "source:mit_technology_review_ai",
+      "target": "category:industry",
       "weight": 1
     },
     {
       "source": "article:https://www.technologyreview.com/2026/07/24/1140790/the-quest-to-keep-organs-alive-outside-the-body/",
-      "target": "category:industry",
-      "weight": 1
-    },
-    {
-      "source": "article:https://www.technologyreview.com/2026/07/24/1140776/the-download-organ-transplant-breakthrough-chinese-chips/",
       "target": "source:mit_technology_review_ai",
       "weight": 1
     },
@@ -2757,8 +2752,8 @@
       "weight": 1
     },
     {
-      "source": "article:https://x402vps.com",
-      "target": "category:open_source",
+      "source": "article:https://www.technologyreview.com/2026/07/24/1140776/the-download-organ-transplant-breakthrough-chinese-chips/",
+      "target": "source:mit_technology_review_ai",
       "weight": 1
     },
     {
@@ -2767,13 +2762,18 @@
       "weight": 1
     },
     {
-      "source": "article:https://geoimagetagger.com",
+      "source": "article:https://x402vps.com",
       "target": "category:open_source",
       "weight": 1
     },
     {
       "source": "article:https://geoimagetagger.com",
       "target": "source:show_hn_ai_7d",
+      "weight": 1
+    },
+    {
+      "source": "article:https://geoimagetagger.com",
+      "target": "category:open_source",
       "weight": 1
     },
     {
@@ -2794,11 +2794,6 @@
     {
       "source": "article:https://www.marktechpost.com/2026/07/24/meet-the-new-claude-opus-5-frontier-class-agentic-coding-and-computer-use-at-unchanged-opus-pricing/",
       "target": "source:marktechpost",
-      "weight": 1
-    },
-    {
-      "source": "article:https://www.youtube.com/watch?v=wzY2fV4Mp3U",
-      "target": "category:ai_labs",
       "weight": 1
     },
     {
@@ -2807,6 +2802,11 @@
       "weight": 1
     },
     {
+      "source": "article:https://www.youtube.com/watch?v=wzY2fV4Mp3U",
+      "target": "category:ai_labs",
+      "weight": 1
+    },
+    {
       "source": "article:https://tobi.knaup.me/2026-07-25-open-weight-ai-is-having-its-kubernetes-moment/",
       "target": "category:trending",
       "weight": 1
@@ -2828,16 +2828,11 @@
     },
     {
       "source": "article:https://github.com/slvDev/esp32-ai",
-      "target": "category:trending",
+      "target": "source:hn_top_llm_24h",
       "weight": 1
     },
     {
       "source": "article:https://github.com/slvDev/esp32-ai",
-      "target": "source:hn_top_llm_24h",
-      "weight": 1
-    },
-    {
-      "source": "article:https://www.debian.org/vote/2026/vote_002",
       "target": "category:trending",
       "weight": 1
     },
@@ -2847,13 +2842,18 @@
       "weight": 1
     },
     {
-      "source": "article:https://github.com/ollama/ollama/releases/tag/v0.32.4",
-      "target": "source:ollama_releases",
+      "source": "article:https://www.debian.org/vote/2026/vote_002",
+      "target": "category:trending",
       "weight": 1
     },
     {
       "source": "article:https://github.com/ollama/ollama/releases/tag/v0.32.4",
       "target": "category:releases",
+      "weight": 1
+    },
+    {
+      "source": "article:https://github.com/ollama/ollama/releases/tag/v0.32.4",
+      "target": "source:ollama_releases",
       "weight": 1
     },
     {
@@ -2888,15 +2888,15 @@
     },
     {
       "source": "article:https://www.coindesk.com/markets/2026/07/24/brazilian-farmers-tokenized-dairy-cows-to-get-loans-bypassing-bank-lending-limits",
-      "target": "category:trending",
-      "weight": 1
-    },
-    {
-      "source": "article:https://www.coindesk.com/markets/2026/07/24/brazilian-farmers-tokenized-dairy-cows-to-get-loans-bypassing-bank-lending-limits",
       "target": "source:hn_top_llm_24h",
       "weight": 1
     },
     {
+      "source": "article:https://www.coindesk.com/markets/2026/07/24/brazilian-farmers-tokenized-dairy-cows-to-get-loans-bypassing-bank-lending-limits",
+      "target": "category:trending",
+      "weight": 1
+    },
+    {
       "source": "article:https://www.youtube.com/watch?v=wlYa8NV5k-U",
       "target": "category:trending",
       "weight": 1
@@ -2934,11 +2934,6 @@
     {
       "source": "article:https://daringfireball.net/linked/2026/07/25/ai-mania-nikhil-suresh",
       "target": "source:hn_top_ai_24h",
-      "weight": 1
-    },
-    {
-      "source": "article:https://github.com/sktkkoo/Yorishiro",
-      "target": "category:open_source",
       "weight": 1
     },
     {
@@ -2947,6 +2942,11 @@
       "weight": 1
     },
     {
+      "source": "article:https://github.com/sktkkoo/Yorishiro",
+      "target": "category:open_source",
+      "weight": 1
+    },
+    {
       "source": "article:https://www.marktechpost.com/2026/07/25/sakana-ai-releases-fugu-cyber-orchestration-model-cybergym-cti-realm/",
       "target": "category:industry",
       "weight": 1
@@ -3024,16 +3024,16 @@
     {
       "source": "article:https://www.rickmanelius.com/p/the-new-ai-superpowers-focus-and",
       "target": "source:hn_top_ai_24h",
-      "weight": 1
-    },
-    {
-      "source": "article:https://github.com/ollama/ollama/releases/tag/v0.32.5-rc0",
-      "target": "source:ollama_releases",
       "weight": 1
     },
     {
       "source": "article:https://github.com/ollama/ollama/releases/tag/v0.32.5-rc0",
       "target": "category:releases",
+      "weight": 1
+    },
+    {
+      "source": "article:https://github.com/ollama/ollama/releases/tag/v0.32.5-rc0",
+      "target": "source:ollama_releases",
       "weight": 1
     },
     {
@@ -3258,21 +3258,26 @@
     },
     {
       "source": "article:https://www.agrillo.it/EvasionEn.html",
-      "target": "category:trending",
-      "weight": 1
-    },
-    {
-      "source": "article:https://www.agrillo.it/EvasionEn.html",
       "target": "source:hn_top_llm_24h",
       "weight": 1
     },
     {
+      "source": "article:https://www.agrillo.it/EvasionEn.html",
+      "target": "category:trending",
+      "weight": 1
+    },
+    {
+      "source": "article:https://arxiv.org/abs/2607.21623",
+      "target": "category:research",
+      "weight": 1
+    },
+    {
       "source": "article:https://arxiv.org/abs/2607.21623",
       "target": "source:arxiv_cs.lg_(machine_learning)",
       "weight": 1
     },
     {
-      "source": "article:https://arxiv.org/abs/2607.21623",
+      "source": "article:https://arxiv.org/abs/2607.21635",
       "target": "category:research",
       "weight": 1
     },
@@ -3282,7 +3287,7 @@
       "weight": 1
     },
     {
-      "source": "article:https://arxiv.org/abs/2607.21635",
+      "source": "article:https://arxiv.org/abs/2607.21636",
       "target": "category:research",
       "weight": 1
     },
@@ -3292,8 +3297,8 @@
       "weight": 1
     },
     {
-      "source": "article:https://arxiv.org/abs/2607.21636",
-      "target": "category:research",
+      "source": "article:https://openai.com/index/how-ai-is-expanding-what-people-do-at-work",
+      "target": "category:ai_labs",
       "weight": 1
     },
     {
@@ -3302,7 +3307,7 @@
       "weight": 1
     },
     {
-      "source": "article:https://openai.com/index/how-ai-is-expanding-what-people-do-at-work",
+      "source": "article:https://blog.google/innovation-and-ai/technology/ai/io-2026-keynote-moment-videos/",
       "target": "category:ai_labs",
       "weight": 1
     },
@@ -3312,18 +3317,13 @@
       "weight": 1
     },
     {
-      "source": "article:https://blog.google/innovation-and-ai/technology/ai/io-2026-keynote-moment-videos/",
+      "source": "article:https://deepmind.google/blog/introducing-gemini-3-6-flash-3-5-flash-lite-and-3-5-flash-cyber/",
       "target": "category:ai_labs",
       "weight": 1
     },
     {
       "source": "article:https://deepmind.google/blog/introducing-gemini-3-6-flash-3-5-flash-lite-and-3-5-flash-cyber/",
       "target": "source:deepmind_blog",
-      "weight": 1
-    },
-    {
-      "source": "article:https://deepmind.google/blog/introducing-gemini-3-6-flash-3-5-flash-lite-and-3-5-flash-cyber/",
-      "target": "category:ai_labs",
       "weight": 1
     },
     {
@@ -3378,12 +3378,12 @@
     },
     {
       "source": "article:https://github.com/ollama/ollama/releases/tag/v0.32.5",
-      "target": "source:ollama_releases",
+      "target": "category:releases",
       "weight": 1
     },
     {
       "source": "article:https://github.com/ollama/ollama/releases/tag/v0.32.5",
-      "target": "category:releases",
+      "target": "source:ollama_releases",
       "weight": 1
     },
     {

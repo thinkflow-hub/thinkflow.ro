@@ -13,7 +13,46 @@
       "score": 48,
       "category": "github_release",
       "weight": 8,
-      "tag": "b9828"
+      "tag": "b9828",
+      "geo_title": "What is included in the ggml/llama.cpp b9828 release?",
+      "geo_keywords": [
+        "ggml",
+        "llama.cpp",
+        "opencl",
+        "flash attention",
+        "kernel improvement",
+        "f16",
+        "f32",
+        "prefill prepass kernels",
+        "block_n multiple padding",
+        "mask tile padding",
+        "computational efficiency",
+        "machine learning framework updates"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "What is included in the ggml/llama.cpp b9828 release?",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b9828",
+        "description": "<details open>\n\nopencl: flash attention improvement (#25069)\n\n* opencl: rework FA kernel for f16 and f32\n\n* opencl: flash-attention prefill prepass kernels\n\n- flash_attn_kv_pad_f16    pads the tail KV tile to a BLOCK_N multiple\n- flash_attn_mask_pad_f16  pads the matching mask tile\n- flash_attn_blk_",
+        "keywords": "ggml, llama.cpp, opencl, flash attention, kernel improvement, f16, f32, prefill prepass kernels",
+        "datePublished": "2026-06-27T23:15:52Z",
+        "dateModified": "2026-06-27T23:15:52Z",
+        "author": {
+          "@type": "Organization",
+          "name": "ggml/llama.cpp releases",
+          "url": "https://github.com"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "github_release",
+        "inLanguage": "en-US",
+        "wordCount": 42,
+        "articleBody": "<details open>\n\nopencl: flash attention improvement (#25069)\n\n* opencl: rework FA kernel for f16 and f32\n\n* opencl: flash-attention prefill prepass kernels\n\n- flash_attn_kv_pad_f16    pads the tail KV tile to a BLOCK_N multiple\n- flash_attn_mask_pad_f16  pads the matching mask tile\n- flash_attn_blk_"
+      }
     },
     {
       "source_id": "ggml_releases",
@@ -25,7 +64,43 @@
       "score": 48,
       "category": "github_release",
       "weight": 8,
-      "tag": "b9827"
+      "tag": "b9827",
+      "geo_title": "How does ggml/llama.cpp improve CUDA performance with new memcpy methods?",
+      "geo_keywords": [
+        "cuda ggml_cpy",
+        "cuda memcpy2dasync",
+        "llama cpp release",
+        "ggml cuda optimization",
+        "tensor copy optimization",
+        "fast path tensor copying",
+        "cuda tensor operations",
+        "what is ggml_cuda_cpy",
+        "how does cudamemcpy2dasync work in ggml"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "How does ggml/llama.cpp improve CUDA performance with new memcpy methods?",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b9827",
+        "description": "<details open>\n\n[CUDA] Added a cudaMemcpy2DAsync fast path to ggml_cuda_cpy (#25057)\n\n* [CUDA] Added a cudaMemcpy2DAsync fast path to ggml_cuda_cpy\n\nAdd a CUDA ggml_cpy fast path for same-type, same-shape strided copies that are just 2D pitched block copies.\nWhen tensors are not fully contiguous but",
+        "keywords": "cuda ggml_cpy, cuda memcpy2dasync, llama cpp release, ggml cuda optimization, tensor copy optimization, fast path tensor copying, cuda tensor operations, what is ggml_cuda_cpy",
+        "datePublished": "2026-06-27T12:49:26Z",
+        "dateModified": "2026-06-27T12:49:26Z",
+        "author": {
+          "@type": "Organization",
+          "name": "ggml/llama.cpp releases",
+          "url": "https://github.com"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "github_release",
+        "inLanguage": "en-US",
+        "wordCount": 45,
+        "articleBody": "<details open>\n\n[CUDA] Added a cudaMemcpy2DAsync fast path to ggml_cuda_cpy (#25057)\n\n* [CUDA] Added a cudaMemcpy2DAsync fast path to ggml_cuda_cpy\n\nAdd a CUDA ggml_cpy fast path for same-type, same-shape strided copies that are just 2D pitched block copies.\nWhen tensors are not fully contiguous but"
+      }
     },
     {
       "source_id": "ggml_releases",
@@ -37,7 +112,43 @@
       "score": 48,
       "category": "github_release",
       "weight": 8,
-      "tag": "b9826"
+      "tag": "b9826",
+      "geo_title": "Why is ggml/llama.cpp release b9826 important for macOS/iOS?",
+      "geo_keywords": [
+        "ggml/llama.cpp",
+        "sycl updates",
+        "macos apple silicon",
+        "ios releases",
+        "machine learning libraries",
+        "ai model optimization",
+        "neural network acceleration",
+        "sycl fixes",
+        "ut cases norm"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "Why is ggml/llama.cpp release b9826 important for macOS/iOS?",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b9826",
+        "description": "<details open>\n\nsycl : fix failed ut cases of norm (#25044)\n\n</details>\n\n**macOS/iOS:**\n- [macOS Apple Silicon (arm64)](https://github.com/ggml-org/llama.cpp/releases/download/b9826/llama-b9826-bin-macos-arm64.tar.gz)\n- macOS Apple Silicon (arm64, KleidiAI enabled) [DISABLED](https://github.com/ggml",
+        "keywords": "ggml/llama.cpp, sycl updates, macos apple silicon, ios releases, machine learning libraries, ai model optimization, neural network acceleration, sycl fixes",
+        "datePublished": "2026-06-27T11:00:23Z",
+        "dateModified": "2026-06-27T11:00:23Z",
+        "author": {
+          "@type": "Organization",
+          "name": "ggml/llama.cpp releases",
+          "url": "https://github.com"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "github_release",
+        "inLanguage": "en-US",
+        "wordCount": 26,
+        "articleBody": "<details open>\n\nsycl : fix failed ut cases of norm (#25044)\n\n</details>\n\n**macOS/iOS:**\n- [macOS Apple Silicon (arm64)](https://github.com/ggml-org/llama.cpp/releases/download/b9826/llama-b9826-bin-macos-arm64.tar.gz)\n- macOS Apple Silicon (arm64, KleidiAI enabled) [DISABLED](https://github.com/ggml"
+      }
     },
     {
       "source_id": "ggml_releases",
@@ -49,7 +160,43 @@
       "score": 48,
       "category": "github_release",
       "weight": 8,
-      "tag": "b9825"
+      "tag": "b9825",
+      "geo_title": "Why is ggml/llama.cpp release b98825 important for macOS/iOS?",
+      "geo_keywords": [
+        "ggml/llama.cpp release",
+        "b9825 version",
+        "vulkan optimization",
+        "macos arm64",
+        "ios support",
+        "apple silicon update",
+        "llama model update",
+        "fix step operator",
+        "0 input issue solution"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "Why is ggml/llama.cpp release b98825 important for macOS/iOS?",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b9825",
+        "description": "<details open>\n\nvulkan: fix step operator for 0 input (#25036)\n\n</details>\n\n**macOS/iOS:**\n- [macOS Apple Silicon (arm64)](https://github.com/ggml-org/llama.cpp/releases/download/b9825/llama-b9825-bin-macos-arm64.tar.gz)\n- macOS Apple Silicon (arm64, KleidiAI enabled) [DISABLED](https://github.com/g",
+        "keywords": "ggml/llama.cpp release, b9825 version, vulkan optimization, macos arm64, ios support, apple silicon update, llama model update, fix step operator",
+        "datePublished": "2026-06-27T10:31:23Z",
+        "dateModified": "2026-06-27T10:31:23Z",
+        "author": {
+          "@type": "Organization",
+          "name": "ggml/llama.cpp releases",
+          "url": "https://github.com"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "github_release",
+        "inLanguage": "en-US",
+        "wordCount": 25,
+        "articleBody": "<details open>\n\nvulkan: fix step operator for 0 input (#25036)\n\n</details>\n\n**macOS/iOS:**\n- [macOS Apple Silicon (arm64)](https://github.com/ggml-org/llama.cpp/releases/download/b9825/llama-b9825-bin-macos-arm64.tar.gz)\n- macOS Apple Silicon (arm64, KleidiAI enabled) [DISABLED](https://github.com/g"
+      }
     },
     {
       "source_id": "ggml_releases",
@@ -61,7 +208,41 @@
       "score": 48,
       "category": "github_release",
       "weight": 8,
-      "tag": "b9824"
+      "tag": "b9824",
+      "geo_title": "Why is ggml/llama.cpp updating binary names in the latest release?",
+      "geo_keywords": [
+        "ggml/llama.cpp",
+        "ggml-rpc-server",
+        "export-graph-ops-rename",
+        "ggml-application-integration",
+        "rpc-server-renaming",
+        "ggml-tests-prefix",
+        "ggml-development-updates"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "Why is ggml/llama.cpp updating binary names in the latest release?",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b9824",
+        "description": "<details open>\n\nbinaries : Improve rpc-server and export-graph-ops names. (#25045)\n\nTests are generally prefixed with -test, so rename export-graph-ops\naccordingly.\n\nrpc-server is probably too generic a name for /usr/bin. Because it\nshould work with any ggml application, it is renamed to ggml-rpc-se",
+        "keywords": "ggml/llama.cpp, ggml-rpc-server, export-graph-ops-rename, ggml-application-integration, rpc-server-renaming, ggml-tests-prefix, ggml-development-updates",
+        "datePublished": "2026-06-27T10:03:33Z",
+        "dateModified": "2026-06-27T10:03:33Z",
+        "author": {
+          "@type": "Organization",
+          "name": "ggml/llama.cpp releases",
+          "url": "https://github.com"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "github_release",
+        "inLanguage": "en-US",
+        "wordCount": 42,
+        "articleBody": "<details open>\n\nbinaries : Improve rpc-server and export-graph-ops names. (#25045)\n\nTests are generally prefixed with -test, so rename export-graph-ops\naccordingly.\n\nrpc-server is probably too generic a name for /usr/bin. Because it\nshould work with any ggml application, it is renamed to ggml-rpc-se"
+      }
     },
     {
       "source_id": "marktechpost",
@@ -72,7 +253,46 @@
       "published": "",
       "score": 30,
       "category": "rss",
-      "weight": 6
+      "weight": 6,
+      "geo_title": "Why is Liquid AI Shipping LFM2.5-230M with Multiple Models?",
+      "geo_keywords": [
+        "liquid ai",
+        "lfm2.5-230m",
+        "llama.cpp support",
+        "mlx support",
+        "vllm support",
+        "sclang support",
+        "onnx support",
+        "on-device inference capabilities",
+        "llm inference technology",
+        "large language model deployment",
+        "how to deploy llms on device",
+        "what is on-device inference"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "Why is Liquid AI Shipping LFM2.5-230M with Multiple Models?",
+        "url": "https://www.marktechpost.com/2026/06/27/liquid-ai-ships-lfm2-5-230m-with-llama-cpp-mlx-vllm-sglang-and-onnx-support-for-on-device-inference/",
+        "description": "",
+        "keywords": "liquid ai, lfm2.5-230m, llama.cpp support, mlx support, vllm support, sclang support, onnx support, on-device inference capabilities",
+        "datePublished": "",
+        "dateModified": "",
+        "author": {
+          "@type": "Organization",
+          "name": "MarkTechPost",
+          "url": "https://www.marktechpost.com"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "rss",
+        "inLanguage": "en-US",
+        "wordCount": 0,
+        "articleBody": ""
+      }
     },
     {
       "source_id": "marktechpost",
@@ -83,7 +303,46 @@
       "published": "",
       "score": 30,
       "category": "rss",
-      "weight": 6
+      "weight": 6,
+      "geo_title": "What is DeepSeek's DSpark and how does it accelerate V4?",
+      "geo_keywords": [
+        "dspark framework",
+        "speculative decoding",
+        "deepseek v4",
+        "per-user generation",
+        "mtp-1 acceleration",
+        "ai search engine optimization",
+        "perplexity improvement",
+        "chatgpt compatibility",
+        "deep learning technology",
+        "custom model training",
+        "generative engine optimization",
+        "deepseek technology update"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "What is DeepSeek's DSpark and how does it accelerate V4?",
+        "url": "https://www.marktechpost.com/2026/06/27/deepseek-releases-dspark-a-speculative-decoding-framework-that-accelerates-deepseek-v4-per-user-generation-60-85-over-mtp-1/",
+        "description": "",
+        "keywords": "dspark framework, speculative decoding, deepseek v4, per-user generation, mtp-1 acceleration, ai search engine optimization, perplexity improvement, chatgpt compatibility",
+        "datePublished": "",
+        "dateModified": "",
+        "author": {
+          "@type": "Organization",
+          "name": "MarkTechPost",
+          "url": "https://www.marktechpost.com"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "rss",
+        "inLanguage": "en-US",
+        "wordCount": 0,
+        "articleBody": ""
+      }
     },
     {
       "source_id": "marktechpost",
@@ -94,7 +353,46 @@
       "published": "",
       "score": 30,
       "category": "rss",
-      "weight": 6
+      "weight": 6,
+      "geo_title": "What is Meta’s Astryx Bringing to Open-Source React Design Systems?",
+      "geo_keywords": [
+        "meta astryx",
+        "open-source react design system",
+        "command line interface cli",
+        "metadata processing mcp server",
+        "ai design tools",
+        "chatgpt design integration",
+        "perplexity design optimization",
+        "what is meta astryx",
+        "how does meta astryx work",
+        "what are the benefits of using astryx",
+        "astryx and react design",
+        "astryx command line interface"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "What is Meta’s Astryx Bringing to Open-Source React Design Systems?",
+        "url": "https://www.marktechpost.com/2026/06/27/metas-astryx-brings-a-cli-and-mcp-server-to-an-open-source-react-design-system-agents-can-read/",
+        "description": "",
+        "keywords": "meta astryx, open-source react design system, command line interface cli, metadata processing mcp server, ai design tools, chatgpt design integration, perplexity design optimization, what is meta astryx",
+        "datePublished": "",
+        "dateModified": "",
+        "author": {
+          "@type": "Organization",
+          "name": "MarkTechPost",
+          "url": "https://www.marktechpost.com"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "rss",
+        "inLanguage": "en-US",
+        "wordCount": 0,
+        "articleBody": ""
+      }
     },
     {
       "source_id": "hn_show_ai_7d",
@@ -107,7 +405,123 @@
       "category": "hackernews",
       "weight": 9,
       "points": 8,
-      "comments_url": "https://news.ycombinator.com/item?id=48671675"
+      "comments_url": "https://news.ycombinator.com/item?id=48671675",
+      "geo_title": "What is ParseHawk and its 100% local Document AI solution?",
+      "geo_keywords": [
+        "document ai",
+        "local document ai",
+        "parsehawk",
+        "api for document ai",
+        "cli for document ai",
+        "web ui for document ai",
+        "how to use document ai",
+        "document ai tools",
+        "document parsing api",
+        "document parsing tool",
+        "local document processing",
+        "document ai software"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "What is ParseHawk and its 100% local Document AI solution?",
+        "url": "https://github.com/parsehawk/parsehawk",
+        "description": "",
+        "keywords": "document ai, local document ai, parsehawk, api for document ai, cli for document ai, web ui for document ai, how to use document ai, document ai tools",
+        "datePublished": "2026-06-25T10:57:50+00:00",
+        "dateModified": "2026-06-25T10:57:50+00:00",
+        "author": {
+          "@type": "Organization",
+          "name": "Show HN AI 7d",
+          "url": "https://github.com"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "hackernews",
+        "inLanguage": "en-US",
+        "wordCount": 0,
+        "articleBody": ""
+      }
     }
-  ]
+  ],
+  "geo_metadata": {
+    "date": "2026-06-28",
+    "generated_at": "2026-07-29T05:06:21.445924+00:00",
+    "schemas_generated": 9,
+    "topics": [
+      "0 input issue solution",
+      "ai design tools",
+      "ai model optimization",
+      "ai search engine optimization",
+      "api for document ai",
+      "apple silicon update",
+      "astryx and react design",
+      "astryx command line interface",
+      "b9825 version",
+      "block_n multiple padding",
+      "chatgpt compatibility",
+      "chatgpt design integration",
+      "cli for document ai",
+      "command line interface cli",
+      "computational efficiency",
+      "cuda ggml_cpy",
+      "cuda memcpy2dasync",
+      "cuda tensor operations",
+      "custom model training",
+      "deep learning technology",
+      "deepseek technology update",
+      "deepseek v4",
+      "document ai",
+      "document ai software",
+      "document ai tools",
+      "document parsing api",
+      "document parsing tool",
+      "dspark framework",
+      "export-graph-ops-rename",
+      "f16",
+      "f32",
+      "fast path tensor copying",
+      "fix step operator",
+      "flash attention",
+      "generative engine optimization",
+      "ggml",
+      "ggml cuda optimization",
+      "ggml-application-integration",
+      "ggml-development-updates",
+      "ggml-rpc-server",
+      "ggml-tests-prefix",
+      "ggml/llama.cpp",
+      "ggml/llama.cpp release",
+      "how does cudamemcpy2dasync work in ggml",
+      "how does meta astryx work",
+      "how to deploy llms on device",
+      "how to use document ai",
+      "ios releases",
+      "ios support",
+      "kernel improvement"
+    ],
+    "faq_items": [
+      {
+        "question": "What new releases of ggml/llama.cpp have been made recently?",
+        "answer": "Several recent releases of ggml/llama.cpp include versions b9828, b9827, b9826, b9825, and b9824."
+      },
+      {
+        "question": "Can you explain what Liquid AI's LFM2.5-230M offers for on-device inference?",
+        "answer": "Liquid AI's LFM2.5-230M supports llama.cpp, MLX, vLLM, SGLang, and ONNX, enabling on-device inference."
+      },
+      {
+        "question": "How does DeepSeek's DSpark improve deep learning model generation?",
+        "answer": "DeepSeek's DSpark accelerates per-user generation by 60–85% over MTP-1 through speculative decoding."
+      },
+      {
+        "question": "What is Meta's Astryx and its main features?",
+        "answer": "Meta’s Astryx introduces a command-line interface (CLI) and MCP server to an open-source React design system for agents to read."
+      }
+    ]
+  },
+  "geo_enriched": true,
+  "geo_enriched_at": "2026-07-29T05:06:21.446928+00:00"
 }

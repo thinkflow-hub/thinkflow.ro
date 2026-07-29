@@ -1,0 +1,75 @@
+{
+  "date": "2026-06-28",
+  "generated_at": "2026-07-29T05:06:21.445924+00:00",
+  "schemas_generated": 9,
+  "topics": [
+    "0 input issue solution",
+    "ai design tools",
+    "ai model optimization",
+    "ai search engine optimization",
+    "api for document ai",
+    "apple silicon update",
+    "astryx and react design",
+    "astryx command line interface",
+    "b9825 version",
+    "block_n multiple padding",
+    "chatgpt compatibility",
+    "chatgpt design integration",
+    "cli for document ai",
+    "command line interface cli",
+    "computational efficiency",
+    "cuda ggml_cpy",
+    "cuda memcpy2dasync",
+    "cuda tensor operations",
+    "custom model training",
+    "deep learning technology",
+    "deepseek technology update",
+    "deepseek v4",
+    "document ai",
+    "document ai software",
+    "document ai tools",
+    "document parsing api",
+    "document parsing tool",
+    "dspark framework",
+    "export-graph-ops-rename",
+    "f16",
+    "f32",
+    "fast path tensor copying",
+    "fix step operator",
+    "flash attention",
+    "generative engine optimization",
+    "ggml",
+    "ggml cuda optimization",
+    "ggml-application-integration",
+    "ggml-development-updates",
+    "ggml-rpc-server",
+    "ggml-tests-prefix",
+    "ggml/llama.cpp",
+    "ggml/llama.cpp release",
+    "how does cudamemcpy2dasync work in ggml",
+    "how does meta astryx work",
+    "how to deploy llms on device",
+    "how to use document ai",
+    "ios releases",
+    "ios support",
+    "kernel improvement"
+  ],
+  "faq_items": [
+    {
+      "question": "What new releases of ggml/llama.cpp have been made recently?",
+      "answer": "Several recent releases of ggml/llama.cpp include versions b9828, b9827, b9826, b9825, and b9824."
+    },
+    {
+      "question": "Can you explain what Liquid AI's LFM2.5-230M offers for on-device inference?",
+      "answer": "Liquid AI's LFM2.5-230M supports llama.cpp, MLX, vLLM, SGLang, and ONNX, enabling on-device inference."
+    },
+    {
+      "question": "How does DeepSeek's DSpark improve deep learning model generation?",
+      "answer": "DeepSeek's DSpark accelerates per-user generation by 60–85% over MTP-1 through speculative decoding."
+    },
+    {
+      "question": "What is Meta's Astryx and its main features?",
+      "answer": "Meta’s Astryx introduces a command-line interface (CLI) and MCP server to an open-source React design system for agents to read."
+    }
+  ]
+}
