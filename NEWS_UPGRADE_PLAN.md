@@ -115,8 +115,8 @@
 | — | Construiește graf: noduri = articole + entități, muchii = shared entities |
 | — | Salvează ca `_data/news_graph.json`: `{ nodes: [{id, label, type, weight}], edges: [{source, target, weight}] }` |
 | `M:\thinkflow\openclaw\scripts\news_pipeline.py` | Adaugă pas: `news_graph_builder.py` după `news_geo_enricher` |
-| `D:\WebDev\thinkflow.ro\src\lib\news.ts` | Adaugă `readGraph(): GraphData` |
-| `D:\WebDev\thinkflow.ro\src\components\news\NewsGraph.tsx` | **Creează** — componentă client-side care desenează graful (folosește `react-force-graph-2d` sau similar lightweight) |
+| `M:\thinkflow\thinkflow.ro\src\lib\news.ts` | Adaugă `readGraph(): GraphData` |
+| `M:\thinkflow\thinkflow.ro\src\components\news\NewsGraph.tsx` | **Creează** — componentă client-side care desenează graful (folosește `react-force-graph-2d` sau similar lightweight) |
 | — | Noduri articol: culoare = category, dimensiune = score |
 | — | Hover pe nod → arată titlu articol |
 | — | Click pe nod → navighează la `/news/article/{id}` |
@@ -138,11 +138,11 @@
 
 | Fișier | Modificare |
 |--------|-----------|
-| `D:\WebDev\thinkflow.ro\src\app\api\news\ask\route.ts` | **Creează** — `POST /api/news/ask` cu body `{ question: string }` |
+| `M:\thinkflow\thinkflow.ro\src\app\api\news\ask\route.ts` | **Creează** — `POST /api/news/ask` cu body `{ question: string }` |
 | — | Calls OpenClaw `task_planner.decompose()` cu intent `research` |
 | — | Search vectorial peste news data (keywords + summary) |
 | — | Returnează `{ answer, sources: NewsItem[], tokens_used }` |
-| `D:\WebDev\thinkflow.ro\src\components\news\NewsChat.tsx` | **Creează** — chat bubble UI: input "Ask anything about the news..." |
+| `M:\thinkflow\thinkflow.ro\src\components\news\NewsChat.tsx` | **Creează** — chat bubble UI: input "Ask anything about the news..." |
 | — | Mesajele apar ca bubbles: user (blue) + AI (gray) cu citări |
 | — | Citările sunt linkuri către `/news/article/{source_id}` |
 | — | History: ultimele 10 întrebări în localStorage |
@@ -223,12 +223,12 @@
 
 | Fișier | Modificare |
 |--------|-----------|
-| `D:\WebDev\thinkflow.ro\src\app\api\news\feed\[category]\route.ts` | **Creează** — RSS feed generat dinamic: |
+| `M:\thinkflow\thinkflow.ro\src\app\api\news\feed\[category]\route.ts` | **Creează** — RSS feed generat dinamic: |
 | — | `GET /api/news/feed/trending` → RSS XML cu articolele din categoria respectivă |
 | — | `GET /api/news/feed/all` → toate articolele |
 | — | `GET /api/news/feed/topic/{keyword}` → articole care conțin acel keyword |
 | — | Formate: RSS 2.0 standard, validabil cu validators |
-| `D:\WebDev\thinkflow.ro\src\app\news\feed.xml\route.ts` | **Creează** — redirect: `/news/feed.xml` → `/api/news/feed/all` |
+| `M:\thinkflow\thinkflow.ro\src\app\news\feed.xml\route.ts` | **Creează** — redirect: `/news/feed.xml` → `/api/news/feed/all` |
 | `src/app/sitemap.ts` | Adaugă link-urile feed-urilor în sitemap |
 
 **Acceptanță:**
@@ -277,8 +277,8 @@
 |--------|-----------|
 | `M:\thinkflow\openclaw\scripts\news_geo_enricher.py` | Adaugă output: lat/lng per articol (geocoding simplu din `geo_keywords` + `title`) |
 | — | Salvează `{ source_id, lat, lng, city, country }` în `_data/news_geo.json` |
-| `D:\WebDev\thinkflow.ro\src\lib\news.ts` | Adaugă `readGeoLocations(): GeoPoint[]` |
-| `D:\WebDev\thinkflow.ro\src\components\news\NewsMap.tsx` | **Creează** — componentă hartă: |
+| `M:\thinkflow\thinkflow.ro\src\lib\news.ts` | Adaugă `readGeoLocations(): GeoPoint[]` |
+| `M:\thinkflow\thinkflow.ro\src\components\news\NewsMap.tsx` | **Creează** — componentă hartă: |
 | — | Folosește MapLibre GL JS (open source, gratis) |
 | — | Pinuri pe hartă (dimensiune = score, culoare = category) |
 | — | Click pin → popup cu titlu + link |
@@ -304,9 +304,9 @@
 | Fișier | Modificare |
 |--------|-----------|
 | `M:\thinkflow\openclaw\scripts\news_aggregator.py` | Adaugă surse: YouTube RSS (`https://www.youtube.com/feeds/videos.xml?channel_id=...`), Podcast RSS |
-| `D:\WebDev\thinkflow.ro\src\lib\news-types.ts` | Adaugă `format` field: `"article" | "video" | "podcast" | "event"` |
-| `D:\WebDev\thinkflow.ro\src\components\news\NewsCard.tsx` | Adaugă badge tip: "🎬 Video" / "🎙 Podcast" / "📅 Event" lângă category badge |
-| `D:\WebDev\thinkflow.ro\src\components\news\NewsFeed.tsx` | Adaugă filter toggle: "All" / "Articles" / "Video" / "Podcast" |
+| `M:\thinkflow\thinkflow.ro\src\lib\news-types.ts` | Adaugă `format` field: `"article" | "video" | "podcast" | "event"` |
+| `M:\thinkflow\thinkflow.ro\src\components\news\NewsCard.tsx` | Adaugă badge tip: "🎬 Video" / "🎙 Podcast" / "📅 Event" lângă category badge |
+| `M:\thinkflow\thinkflow.ro\src\components\news\NewsFeed.tsx` | Adaugă filter toggle: "All" / "Articles" / "Video" / "Podcast" |
 
 **Acceptanță:**
 - YouTube channels: video-urile apar în feed cu badge "🎬"
@@ -403,13 +403,13 @@
 | — | Dacă 2+ surse independente raportează același fapt → badge "verified" |
 | — | Dacă e singura sursă și e breaking → badge "unconfirmed" |
 | — | Salvează: `{ source_id, verification: "verified" | "unconfirmed" | "contradicted", sources_count: number }` |
-| `D:\WebDev\thinkflow.ro\src\components\news\VerificationBadge.tsx` | **Creează** — badge vizual: |
+| `M:\thinkflow\thinkflow.ro\src\components\news\VerificationBadge.tsx` | **Creează** — badge vizual: |
 | — | "✓ Verified by 3 sources" (verde) |
 | — | "⚠ Unconfirmed" (galben, doar breaking) |
 | — | "✗ Contradicted by 2 sources" (roșu) |
-| `D:\WebDev\thinkflow.ro\src\components\news\NewsCard.tsx` | Adaugă VerificationBadge sub title |
+| `M:\thinkflow\thinkflow.ro\src\components\news\NewsCard.tsx` | Adaugă VerificationBadge sub title |
 | `M:\thinkflow\openclaw\scripts\news_pipeline.py` | Adaugă pas: `news_fact_checker` după `news_clusterer` |
-| `D:\WebDev\thinkflow.ro\src\lib\news-types.ts` | Adaugă `verification_status: "verified" | "unconfirmed" | "contradicted" | null` |
+| `M:\thinkflow\thinkflow.ro\src\lib\news-types.ts` | Adaugă `verification_status: "verified" | "unconfirmed" | "contradicted" | null` |
 
 **Acceptanță:**
 - Articol acoperit de HN + Reddit + TechCrunch → badge "✓ Verified by 3 sources"

@@ -6,7 +6,7 @@
 ---
 
 ## 1. thinkflow.ro — ~95%
-**Locație:** D:\WebDev\thinkflow.ro\
+**Locație:** M:\thinkflow\thinkflow.ro\
 **Framework:** Next.js 16.2.10, Tailwind v4, Vercel
 
 | Componenta | % | Status |

@@ -2,8 +2,8 @@ from fontTools.ttLib import TTFont
 from fontTools.pens.svgPathPen import SVGPathPen
 import requests, os, math, re
 
-FONT_DIR = "D:/WebDev/thinkflow.ro/public/fonts"
-OUTPUT = "D:/WebDev/thinkflow.ro/public/logo-inline.svg"
+FONT_DIR = "M:/thinkflow/thinkflow.ro/public/fonts"
+OUTPUT = "M:/thinkflow/thinkflow.ro/public/logo-inline.svg"
 
 def download_google_font(name, weight):
     css_url = f"https://fonts.googleapis.com/css2?family={name}:wght@{weight}&display=swap"

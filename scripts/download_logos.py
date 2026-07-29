@@ -1,6 +1,6 @@
 import requests, os
 
-logo_dir = "D:/WebDev/thinkflow.ro/public/images/logos/"
+logo_dir = "M:/thinkflow/thinkflow.ro/public/images/logos/"
 os.makedirs(logo_dir, exist_ok=True)
 
 logos = {
