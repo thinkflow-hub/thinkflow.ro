@@ -39,8 +39,17 @@ export default async function ArticlePage({ params }: { params: Promise<{ locale
     }
   }
 
+  // schema_org is built from third-party RSS titles/descriptions (untrusted),
+  // unlike the blog's own authored frontmatter -- escape `<` so a feed title
+  // containing "</script>" can't break out of the tag.
+  const schemaOrgJson = item.schema_org ? JSON.stringify(item.schema_org).replace(/</g, "\\u003c") : null;
+
   return (
     <div className="mx-auto max-w-4xl px-4 py-8">
+      {schemaOrgJson && (
+        <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: schemaOrgJson }} />
+      )}
+
       <Link href={`/${locale}/news`} className="mb-6 inline-block text-sm text-muted hover:text-foreground transition-colors">
         ← Back to News
       </Link>

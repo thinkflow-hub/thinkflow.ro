@@ -3,6 +3,7 @@
 import { useRouter } from "@/i18n/navigation";
 import { NewsGraph } from "@/components/news/NewsGraph";
 import type { NewsItem } from "@/lib/news-types";
+import { encodeArticleKey } from "@/lib/article-href";
 
 interface GraphNode {
   id: string; label: string; type: "article" | "entity";
@@ -16,8 +17,8 @@ export function NewsGraphClient({ graph }: { graph: { nodes: GraphNode[]; edges:
 
   function handleNodeClick(node: GraphNode) {
     if (node.type === "article") {
-      const sourceId = node.id.replace("article:", "");
-      router.push(`/news/article/${sourceId}`);
+      const key = node.id.replace(/^article:/, "");
+      router.push(`/news/article/${encodeArticleKey(key)}`);
     }
   }
 

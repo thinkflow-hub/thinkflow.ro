@@ -1,6 +1,7 @@
 import fs from "fs";
 import path from "path";
 import type { NewsItem, NewsData, Metadata, Category, DailyBriefing, GeoMetadata } from "./news-types";
+import { articleHref } from "./article-href";
 
 const DATA_DIR = path.join(process.cwd(), "public", "data", "news");
 
@@ -254,7 +255,7 @@ const CITY_COORDS: Record<string, [number, number]> = {
   "johannesburg": [-26.2041, 28.0473],
 };
 
-export function readGeoLocations(days: number = 7): { source_id: string; title: string; city: string; country: string; lat: number; lng: number; category: string; score: number }[] {
+export function readGeoLocations(days: number = 7): { source_id: string; url: string; title: string; city: string; country: string; lat: number; lng: number; category: string; score: number }[] {
   const dates = getAllDates().slice(0, days);
   const locations: any[] = [];
   for (const date of dates) {
@@ -266,6 +267,7 @@ export function readGeoLocations(days: number = 7): { source_id: string; title: 
         if (geoTitle.includes(city)) {
           locations.push({
             source_id: item.source_id,
+            url: item.url,
             title: item.title,
             city,
             country: "",
@@ -305,12 +307,16 @@ export function readGraph(): { nodes: any[]; edges: any[]; stats: any } | null {
   }
 }
 
-export function findNewsItem(sourceId: string): NewsItem | null {
+export function findNewsItem(key: string): NewsItem | null {
+  console.log("[findNewsItem] DEBUG key received:", JSON.stringify(key));
   const dates = getAllDates();
   for (const date of dates.slice(0, 30)) {
     const items = readNewsFile(date);
-    const found = items.find((i) => i.source_id === sourceId);
+    const found = items.find((i) => articleHref(i) === key || i.source_id === key);
     if (found) return found;
+    if (date === dates[0]) {
+      console.log("[findNewsItem] DEBUG first-date sample hrefs:", items.slice(0, 3).map((i) => articleHref(i)));
+    }
   }
   return null;
 }

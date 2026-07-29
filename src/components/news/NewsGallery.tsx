@@ -1,5 +1,6 @@
 import type { NewsItem } from "@/lib/news-types";
 import { CATEGORY_COLORS } from "@/lib/news-types";
+import { articleHref } from "@/lib/article-href";
 import Link from "next/link";
 
 export function NewsGallery({ items }: { items: NewsItem[] }) {
@@ -10,7 +11,7 @@ export function NewsGallery({ items }: { items: NewsItem[] }) {
         return (
           <Link
             key={item.source_id}
-            href={`/news/article/${item.source_id}`}
+            href={`/news/article/${articleHref(item)}`}
             className="group relative flex aspect-[4/3] overflow-hidden rounded-lg border border-border bg-muted transition-all hover:shadow-md hover:border-accent/30"
           >
             {item.thumbnail ? (

@@ -2,9 +2,10 @@
 
 import { useEffect, useRef, useState } from "react";
 import Link from "next/link";
+import { articleHref } from "@/lib/article-href";
 
 interface GeoPoint {
-  source_id: string; title: string; city: string;
+  source_id: string; url: string; title: string; city: string;
   lat: number; lng: number; category: string; score: number;
 }
 
@@ -94,7 +95,7 @@ export function NewsMap({ locations }: Props) {
           <p className="font-medium text-foreground">{selected.title}</p>
           <p className="text-xs text-muted mt-1">{selected.city} · {selected.category}</p>
           <Link
-            href={`/news/article/${selected.source_id}`}
+            href={`/news/article/${articleHref(selected)}`}
             className="mt-1 inline-block text-xs text-accent hover:underline"
           >
             Read more →

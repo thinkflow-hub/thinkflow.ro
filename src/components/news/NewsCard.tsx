@@ -4,6 +4,7 @@ import { CATEGORY_COLORS, SENTIMENT_COLORS } from "@/lib/news-types";
 import { Link } from "@/i18n/navigation";
 import { VerificationBadge } from "./VerificationBadge";
 import { trackRead } from "@/lib/personalization";
+import { articleHref } from "@/lib/article-href";
 
 function extractDomain(url: string): string {
   try { return new URL(url).hostname.replace("www.", ""); }
@@ -64,7 +65,7 @@ export function NewsCard({ item }: { item: NewsItem }) {
         <img src={item.thumbnail} alt="" className="mb-2 h-32 w-full rounded-lg object-cover" loading="lazy" decoding="async" />
       )}
 
-      <Link href={`/news/article/${item.source_id}`} className="mb-1.5">
+      <Link href={`/news/article/${articleHref(item)}`} className="mb-1.5">
         <h3 className="text-sm font-semibold leading-snug group-hover:text-accent transition-colors line-clamp-2">
           {item.title}
         </h3>

@@ -2,6 +2,7 @@
 
 import { useState, FormEvent, useRef, useEffect } from "react";
 import { Link } from "@/i18n/navigation";
+import { articleHref } from "@/lib/article-href";
 
 interface Message {
   role: "user" | "assistant";
@@ -116,7 +117,7 @@ export function NewsChat({ onClose }: { onClose?: () => void }) {
                   {msg.sources.slice(0, 3).map((s) => (
                     <Link
                       key={s.source_id}
-                      href={`/news/article/${s.source_id}`}
+                      href={`/news/article/${articleHref(s)}`}
                       className="block text-[10px] text-accent/80 hover:text-accent hover:underline"
                     >
                       📄 {s.title.slice(0, 60)}
