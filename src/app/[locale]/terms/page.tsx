@@ -40,7 +40,7 @@ export default async function TermsPage({ params }: { params: Promise<{ locale: 
             </p>
             <p className="mt-2 leading-relaxed text-white/60 font-montserrat-regular text-sm">
               To exercise the right of withdrawal, you must inform us of your decision by a clear statement
-              (e.g., email to thinkflowhub@gmail.com). We will reimburse all payments received from you
+              (e.g., email to contact@thinkflow.ro). We will reimburse all payments received from you
               within 14 days of receiving your withdrawal notice.
             </p>
             <p className="mt-2 leading-relaxed text-white/60 font-montserrat-regular text-sm">
@@ -131,7 +131,7 @@ export default async function TermsPage({ params }: { params: Promise<{ locale: 
             <h2 className="mb-3 text-xl font-montserrat-bold">11. Contact</h2>
             <p className="leading-relaxed text-white/60 font-montserrat-regular text-sm">
               For questions about these Terms, contact us at{" "}
-              <Link href="/contact" className="text-[#3b82f6] underline font-montserrat-bold">thinkflowhub@gmail.com</Link>.
+              <Link href="/contact" className="text-[#3b82f6] underline font-montserrat-bold">contact@thinkflow.ro</Link>.
             </p>
           </section>
         </div>

@@ -64,7 +64,7 @@ export default async function MediaKitPage({ params }: { params: Promise<{ local
             <h2 className="mb-3 text-xl font-montserrat-bold">Partner With Us</h2>
             <p className="leading-relaxed text-white/60 font-montserrat-regular text-sm">
               Interested in a product review, sponsored content, or affiliate partnership? Contact us at
-              thinkflowhub@gmail.com with your brand name, product category, and partnership proposal.
+              contact@thinkflow.ro with your brand name, product category, and partnership proposal.
             </p>
           </section>
         </div>

@@ -73,7 +73,7 @@ export default function RootLayout({
               description: "Private AI infrastructure and web development services.",
               contactPoint: {
                 "@type": "ContactPoint",
-                email: "thinkflowhub@gmail.com",
+                email: "contact@thinkflow.ro",
                 contactType: "sales",
               },
               sameAs: ["https://github.com/thinkflow-hub"],

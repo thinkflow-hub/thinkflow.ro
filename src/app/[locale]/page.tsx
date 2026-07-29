@@ -25,6 +25,12 @@ const services = [
     href: "/services/technical-consulting",
   },
   {
+    title: "Cloud Cost & Migration Audit",
+    price: "EUR 1,500-4,000",
+    desc: "Fixed-fee audit of your AWS/GPU bill. Real case study: 86% cost cut, latency improved.",
+    href: "/services/cloud-cost-migration-audit",
+  },
+  {
     title: "SEO & GEO Content",
     price: "EUR 150/article",
     desc: "GEO-optimized affiliate content with original benchmarks. AI-citable, not just Google-ranked.",
@@ -201,7 +207,7 @@ export default function HomePage() {
                   <div key={i} className="glass-card p-6 group hover:border-[#3b82f6]/20 transition-all flex items-start gap-5 relative noise-overlay">
                     <div className="mt-1 flex-shrink-0 relative">
                       <div className="absolute inset-0 bg-[#3b82f6]/30 blur-md rounded-full scale-125" />
-                      <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#3b82f6" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" className="relative z-10 group-hover:scale-110 transition-all drop-shadow-[0_0_8px_rgba(59,130,246,0.8)]">
+                      <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#3b82f6" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" className="relative z-10 group-hover:scale-110 transition-all drop-shadow-[0_0_8px_rgba(59,130,246,0.8)]">
                         {item.icon === "shield-check" ? (
                           <>
                             <path d="M20 13c0 5-3.5 7.5-7.66 8.95a1 1 0 0 1-.67-.01C7.5 20.5 4 18 4 13V6a1 1 0 0 1 1-1c2 0 4.5-1.2 6.24-2.72a1.17 1.17 0 0 1 1.52 0C14.51 3.81 17 5 19 5a1 1 0 0 1 1 1z" />
@@ -262,18 +268,18 @@ export default function HomePage() {
                   </defs>
 
                   {/* main pipeline */}
-                  <line x1="82" y1="45" x2="178" y2="45" stroke="rgba(255,255,255,0.15)" stroke-width="1.5" marker-end="url(#archArrow)" />
-                  <line x1="222" y1="45" x2="318" y2="45" stroke="rgba(255,255,255,0.15)" stroke-width="1.5" marker-end="url(#archArrow)" />
-                  <line x1="362" y1="45" x2="458" y2="45" stroke="rgba(255,255,255,0.15)" stroke-width="1.5" marker-end="url(#archArrow)" />
-                  <line x1="502" y1="45" x2="598" y2="45" stroke="rgba(255,255,255,0.15)" stroke-width="1.5" marker-end="url(#archArrow)" />
+                  <line x1="82" y1="45" x2="178" y2="45" stroke="rgba(255,255,255,0.15)" strokeWidth="1.5" markerEnd="url(#archArrow)" />
+                  <line x1="222" y1="45" x2="318" y2="45" stroke="rgba(255,255,255,0.15)" strokeWidth="1.5" markerEnd="url(#archArrow)" />
+                  <line x1="362" y1="45" x2="458" y2="45" stroke="rgba(255,255,255,0.15)" strokeWidth="1.5" markerEnd="url(#archArrow)" />
+                  <line x1="502" y1="45" x2="598" y2="45" stroke="rgba(255,255,255,0.15)" strokeWidth="1.5" markerEnd="url(#archArrow)" />
 
                   {/* memory: persistent vector storage feeding the cognitive/execution steps */}
-                  <path d="M410 118 Q410 45 222 45" stroke="rgba(59,130,246,0.25)" stroke-width="1" stroke-dasharray="3 4" fill="none" marker-end="url(#archArrow)" />
-                  <path d="M410 118 L362 45" stroke="rgba(59,130,246,0.25)" stroke-width="1" stroke-dasharray="3 4" fill="none" marker-end="url(#archArrow)" />
-                  <path d="M410 118 Q410 45 502 45" stroke="rgba(59,130,246,0.25)" stroke-width="1" stroke-dasharray="3 4" fill="none" marker-end="url(#archArrow)" />
+                  <path d="M410 118 Q410 45 222 45" stroke="rgba(59,130,246,0.25)" strokeWidth="1" strokeDasharray="3 4" fill="none" markerEnd="url(#archArrow)" />
+                  <path d="M410 118 L362 45" stroke="rgba(59,130,246,0.25)" strokeWidth="1" strokeDasharray="3 4" fill="none" markerEnd="url(#archArrow)" />
+                  <path d="M410 118 Q410 45 502 45" stroke="rgba(59,130,246,0.25)" strokeWidth="1" strokeDasharray="3 4" fill="none" markerEnd="url(#archArrow)" />
 
                   {/* reviewer: real-time self-audit loop back to router */}
-                  <path d="M620 67 Q350 155 60 67" stroke="rgba(255,255,255,0.1)" stroke-width="1" stroke-dasharray="2 5" fill="none" marker-end="url(#archArrow)" />
+                  <path d="M620 67 Q350 155 60 67" stroke="rgba(255,255,255,0.1)" strokeWidth="1" strokeDasharray="2 5" fill="none" markerEnd="url(#archArrow)" />
 
                   {[
                     { x: 60, label: "Router" },
@@ -283,15 +289,15 @@ export default function HomePage() {
                     { x: 620, label: "Reviewer" },
                   ].map((n) => (
                     <g key={n.label}>
-                      <circle cx={n.x} cy="45" r="20" fill="#050505" stroke="rgba(59,130,246,0.35)" stroke-width="1.5" />
-                      <text x={n.x} y="83" text-anchor="middle" font-size="10" fill="rgba(255,255,255,0.4)" letter-spacing="1" className="uppercase font-montserrat-bold">
+                      <circle cx={n.x} cy="45" r="20" fill="#050505" stroke="rgba(59,130,246,0.35)" strokeWidth="1.5" />
+                      <text x={n.x} y="83" textAnchor="middle" fontSize="10" fill="rgba(255,255,255,0.4)" letterSpacing="1" className="uppercase font-montserrat-bold">
                         {n.label}
                       </text>
                     </g>
                   ))}
                   <g>
-                    <circle cx="410" cy="130" r="16" fill="#050505" stroke="rgba(59,130,246,0.2)" stroke-width="1.5" stroke-dasharray="2 2" />
-                    <text x="410" y="155" text-anchor="middle" font-size="9" fill="rgba(255,255,255,0.3)" letter-spacing="1" className="uppercase font-montserrat-bold">
+                    <circle cx="410" cy="130" r="16" fill="#050505" stroke="rgba(59,130,246,0.2)" strokeWidth="1.5" strokeDasharray="2 2" />
+                    <text x="410" y="155" textAnchor="middle" fontSize="9" fill="rgba(255,255,255,0.3)" letterSpacing="1" className="uppercase font-montserrat-bold">
                       Memory
                     </text>
                   </g>
@@ -305,7 +311,7 @@ export default function HomePage() {
                     className="group w-[130px] sm:w-[150px] glass-card p-5 text-center transition-all hover:border-[#3b82f6]/30 hover:shadow-[0_0_25px_rgba(59,130,246,0.15)] cursor-pointer relative noise-overlay"
                   >
                     <div className="w-10 h-10 mx-auto mb-3 rounded-full bg-black border border-white/10 flex items-center justify-center group-hover:border-[#3b82f6]/30 transition-all">
-                      <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" className="text-white/50 group-hover:text-[#3b82f6] transition-all">
+                      <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" className="text-white/50 group-hover:text-[#3b82f6] transition-all">
                         {i === 0 && <><path d="M15 6a9 9 0 0 0-9 9V3" /><circle cx="18" cy="6" r="3" /><circle cx="6" cy="18" r="3" /></>}
                         {i === 1 && <><path d="M6 22a2 2 0 0 1-2-2V4a2 2 0 0 1 2-2h8a2.4 2.4 0 0 1 1.704.706l3.588 3.588A2.4 2.4 0 0 1 20 8v12a2 2 0 0 1-2 2z" /><path d="M14 2v5a1 1 0 0 0 1 1h5" /><circle cx="11.5" cy="14.5" r="2.5" /><path d="M13.3 16.3 15 18" /></>}
                         {i === 2 && <><path d="M12 18V5" /><path d="M15 13a4.17 4.17 0 0 1-3-4 4.17 4.17 0 0 1-3 4" /><path d="M17.598 6.5A3 3 0 1 0 12 5a3 3 0 1 0-5.598 1.5" /><path d="M17.997 5.125a4 4 0 0 1 2.526 5.77" /><path d="M18 18a4 4 0 0 0 2-7.464" /><path d="M19.967 17.483A4 4 0 1 1 12 18a4 4 0 1 1-7.967-.517" /><path d="M6 18a4 4 0 0 1-2-7.464" /><path d="M6.003 5.125a4 4 0 0 0-2.526 5.77" /></>}
@@ -379,7 +385,7 @@ export default function HomePage() {
           <div className="max-w-7xl mx-auto w-full grid grid-cols-1 lg:grid-cols-2 gap-6 items-center">
             <div className="py-12">
               <div className="flex items-center gap-2 text-[#3b82f6] text-[10px] font-black uppercase tracking-[0.3em] mb-4">
-                <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#3b82f6" stroke-width="2" className="drop-shadow-[0_0_8px_rgba(59,130,246,0.8)]">
+                <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#3b82f6" strokeWidth="2" className="drop-shadow-[0_0_8px_rgba(59,130,246,0.8)]">
                   <path d="M20 13c0 5-3.5 7.5-7.66 8.95a1 1 0 0 1-.67-.01C7.5 20.5 4 18 4 13V6a1 1 0 0 1 1-1c2 0 4.5-1.2 6.24-2.72a1.17 1.17 0 0 1 1.52 0C14.51 3.81 17 5 19 5a1 1 0 0 1 1 1z" />
                   <path d="m9 12 2 2 4-4" />
                 </svg>
@@ -397,7 +403,7 @@ export default function HomePage() {
                 ].map((text, i) => (
                   <div key={i} className="flex items-start gap-4 text-sm lg:text-xl text-white/90 font-black pb-4 border-b border-white/5 uppercase tracking-tight group hover:border-[#3b82f6]/20 transition-all">
                     <div className="mt-1.5 relative shrink-0">
-                      <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#3b82f6" stroke-width="2" className="drop-shadow-[0_0_8px_rgba(59,130,246,0.8)] relative z-10 group-hover:scale-125 transition-transform">
+                      <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#3b82f6" strokeWidth="2" className="drop-shadow-[0_0_8px_rgba(59,130,246,0.8)] relative z-10 group-hover:scale-125 transition-transform">
                         <path d="M20 13c0 5-3.5 7.5-7.66 8.95a1 1 0 0 1-.67-.01C7.5 20.5 4 18 4 13V6a1 1 0 0 1 1-1c2 0 4.5-1.2 6.24-2.72a1.17 1.17 0 0 1 1.52 0C14.51 3.81 17 5 19 5a1 1 0 0 1 1 1z" />
                         <path d="m9 12 2 2 4-4" />
                       </svg>
@@ -432,7 +438,9 @@ export default function HomePage() {
       </section>
 
       {/* ──────────── SERVICES ──────────── */}
-      <section className="snap-section relative z-10 px-6 lg:px-16" ref={servicesRef}>
+      {/* py needed: content is flex-centered and this section can fill ~100vh,
+          leaving the last card row flush against the section edge without it */}
+      <section className="snap-section relative z-10 px-6 py-12 lg:px-16 lg:py-16" ref={servicesRef}>
         <ScrollSection>
           <div className="max-w-7xl mx-auto w-full">
             <div className="mb-4 text-center">

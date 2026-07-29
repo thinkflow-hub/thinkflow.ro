@@ -83,7 +83,7 @@ export default async function AffiliateDisclosurePage({ params }: { params: Prom
             <h2 className="mb-3 text-xl font-montserrat-bold">Questions?</h2>
             <p className="leading-relaxed text-white/60 font-montserrat-regular text-sm">
               If you have any questions about our affiliate relationships, please contact us at
-              thinkflowhub@gmail.com.
+              contact@thinkflow.ro.
             </p>
           </section>
         </div>

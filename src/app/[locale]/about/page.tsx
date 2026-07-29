@@ -39,7 +39,7 @@ export default async function AboutPage({ params }: { params: Promise<{ locale: 
             </p>
             <h2 className="text-xl font-montserrat-bold mb-4 uppercase tracking-tight">{t("about.connectHeading")}</h2>
             <p className="text-sm text-white/50 font-montserrat-regular leading-relaxed">
-              Email: <Link href="mailto:thinkflowhub@gmail.com" className="text-[#3b82f6] hover:underline">thinkflowhub@gmail.com</Link>
+              Email: <Link href="mailto:contact@thinkflow.ro" className="text-[#3b82f6] hover:underline">contact@thinkflow.ro</Link>
             </p>
             <p className="text-sm text-white/50 font-montserrat-regular leading-relaxed mt-2">
               Fiverr: <Link href="https://fiverr.com/thinkflow_ro" className="text-[#3b82f6] hover:underline">fiverr.com/thinkflow_ro</Link>
