@@ -4,12 +4,13 @@ import { notFound } from "next/navigation";
 import { getTranslations, getLocale } from "next-intl/server";
 import { Link } from "@/i18n/navigation";
 import { getAllPosts, getPost } from "@/lib/posts";
+import { routing } from "@/i18n/routing";
 import ShareButtons from "./ShareButtons";
 import ViewTracker from "@/components/ViewTracker";
 import { ArrowLeft } from "lucide-react";
 
 export function generateStaticParams() {
-  const posts = getAllPosts();
+  const posts = getAllPosts(routing.defaultLocale);
   return posts.map((p) => ({ slug: p.slug }));
 }
 

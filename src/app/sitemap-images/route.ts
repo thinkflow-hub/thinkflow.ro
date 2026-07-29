@@ -1,9 +1,10 @@
 import { getAllPosts } from "@/lib/posts";
+import { routing } from "@/i18n/routing";
 
 const SITE = "https://thinkflow.ro";
 
 export async function GET() {
-  const posts = getAllPosts();
+  const posts = getAllPosts(routing.defaultLocale);
 
   const urls = posts
     .filter((p) => p.image)

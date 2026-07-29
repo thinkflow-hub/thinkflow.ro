@@ -1,6 +1,7 @@
 import type { MetadataRoute } from "next";
 import { getAllPosts } from "@/lib/posts";
 import { getAllDates } from "@/lib/news";
+import { routing } from "@/i18n/routing";
 
 const staticRoutes = [
   "", "/about", "/contact", "/terms", "/privacy",
@@ -8,7 +9,7 @@ const staticRoutes = [
 ];
 
 export default function sitemap(): MetadataRoute.Sitemap {
-  const posts = getAllPosts();
+  const posts = getAllPosts(routing.defaultLocale);
   const newsDates = getAllDates();
 
   const staticEntries: MetadataRoute.Sitemap = staticRoutes.map((route) => ({

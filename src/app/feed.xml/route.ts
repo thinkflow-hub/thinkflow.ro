@@ -1,7 +1,8 @@
 import { getAllPosts } from "@/lib/posts";
+import { routing } from "@/i18n/routing";
 
 export async function GET() {
-  const posts = getAllPosts();
+  const posts = getAllPosts(routing.defaultLocale);
 
   const items = posts
     .map(
