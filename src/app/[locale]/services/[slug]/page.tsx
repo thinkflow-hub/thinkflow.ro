@@ -43,6 +43,19 @@ const serviceData: Record<string, { title: string; price: string; desc: string; 
     ],
     audiences: ["Technical teams preparing for AI integration", "Startups needing architecture review before scaling", "Companies evaluating local vs cloud LLM deployment"],
   },
+  "cloud-cost-migration-audit": {
+    title: "Cloud Cost & Migration Audit",
+    price: "EUR 1,500-4,000",
+    desc: "A fixed-fee audit of your AWS/GPU cloud bill with a phased, benchmarked migration plan. Built on a real case study, not a vendor slide.",
+    details: [
+      "Full line-item review of your current cloud bill (compute, storage, network, managed services)",
+      "Benchmarked comparison against alternative hosting sized to your actual workload — not a generic 'move everything' recommendation",
+      "Phased migration plan with realistic timeline and rollback plan",
+      "Projected savings backed by real numbers: our own migration cut $2,745/mo to $377/mo (86%) with latency improved, not traded away",
+      "Fixed price, no success-fee or percentage-of-savings clauses",
+    ],
+    audiences: ["Teams running LLM inference or GPU workloads with a cloud bill that's started to hurt", "Teams that inherited an AWS setup sized for 'might need to scale fast' rather than what they run today", "Solo founders/small teams below the spend threshold where enterprise FinOps firms ($15k-250k engagements) make sense"],
+  },
   "seo-geo-content": {
     title: "SEO & GEO Content",
     price: "EUR 150/article",

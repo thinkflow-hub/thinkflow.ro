@@ -265,7 +265,7 @@ The migration is not risk-free. It requires automation discipline, a deployment 
 
 But if those conditions are met: the economics are not close.
 
-At ThinkFlow, we help engineering teams make this transition without the 3am rollback incident. If you are looking at your cloud bill and wondering the same things I was, **[let's talk →](https://www.thinkflow.ro/contact)**
+At ThinkFlow, we help engineering teams make this transition without the 3am rollback incident. If you are looking at your cloud bill and wondering the same things I was, we run a fixed-fee **[Cloud Cost & Migration Audit →](https://www.thinkflow.ro/services/cloud-cost-migration-audit)** — or just **[let's talk →](https://www.thinkflow.ro/contact)** first.
 
 ---
 

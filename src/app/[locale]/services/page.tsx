@@ -29,6 +29,12 @@ const services = [
     desc: "Architecture review, code audit, performance optimization, and AI infrastructure planning for technical teams.",
   },
   {
+    slug: "cloud-cost-migration-audit",
+    title: "Cloud Cost & Migration Audit",
+    price: "EUR 1,500-4,000",
+    desc: "Fixed-fee audit of your AWS/GPU cloud bill with a phased migration plan. Real case study: 86% cost cut, $2,745/mo to $377/mo, latency improved not traded away.",
+  },
+  {
     slug: "seo-geo-content",
     title: "SEO & GEO Content",
     price: "EUR 150/article",
