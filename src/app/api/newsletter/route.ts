@@ -1,33 +1,37 @@
 import { NextRequest, NextResponse } from "next/server";
-import fs from "fs";
-import path from "path";
+import { getSupabase } from "@/lib/supabase";
 
-const SUBSCRIBERS_FILE = path.join("M:", "thinkflow", "openclaw", "_data", "newsletter_subscribers.txt");
-
+// This endpoint used to fs.appendFileSync() to a hardcoded M:\ path. On Vercel
+// that throws (read-only FS, and the drive doesn't exist), so every /news
+// signup returned 500 and was lost. It now writes to the same Supabase table
+// as the footer signup (/api/supabase/newsletter/subscribe), while keeping the
+// { message, email } / { error } response shape NewsletterSignup.tsx expects.
 export async function POST(request: NextRequest) {
   try {
-    const { email } = await request.json();
+    const { email, locale } = await request.json();
     if (!email || !/^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(email)) {
       return NextResponse.json({ error: "Invalid email" }, { status: 400 });
     }
 
-    const dir = path.dirname(SUBSCRIBERS_FILE);
-    if (!fs.existsSync(dir)) fs.mkdirSync(dir, { recursive: true });
+    const { error } = await getSupabase().from("newsletter_subscribers").upsert(
+      {
+        email,
+        locale: locale || "en",
+        source: "news",
+        subscribed_at: new Date().toISOString(),
+        unsubscribed_at: null,
+      } as never,
+      { onConflict: "email", ignoreDuplicates: false }
+    );
 
-    // Read existing subscribers
-    let existing = new Set<string>();
-    if (fs.existsSync(SUBSCRIBERS_FILE)) {
-      const raw = fs.readFileSync(SUBSCRIBERS_FILE, "utf-8");
-      existing = new Set(raw.split("\n").map((l) => l.trim()).filter(Boolean));
+    if (error) {
+      console.error("Supabase newsletter insert error:", error);
+      return NextResponse.json({ error: "Failed to subscribe. Please try again." }, { status: 500 });
     }
 
-    if (existing.has(email)) {
-      return NextResponse.json({ message: "Already subscribed", email }, { status: 200 });
-    }
-
-    fs.appendFileSync(SUBSCRIBERS_FILE, email + "\n", "utf-8");
     return NextResponse.json({ message: "Subscribed", email }, { status: 201 });
   } catch (error) {
+    console.error("Newsletter subscribe error:", error);
     return NextResponse.json({ error: "Internal server error" }, { status: 500 });
   }
 }
