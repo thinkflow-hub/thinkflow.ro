@@ -38,9 +38,11 @@ export async function GET(req: NextRequest) {
   const tags = searchParams.get("tags") || "";
   const logosParam = searchParams.get("logos") || "";
 
-  const fontData = await fetch(
-    `${req.nextUrl.origin}/fonts/Geist-Regular.ttf`
-  ).then((res) => res.arrayBuffer());
+  const [fontData, signatureFontData, montserratFontData] = await Promise.all([
+    fetch(`${req.nextUrl.origin}/fonts/Geist-Regular.ttf`).then((res) => res.arrayBuffer()),
+    fetch(`${req.nextUrl.origin}/fonts/BlackSignature.otf`).then((res) => res.arrayBuffer()),
+    fetch(`${req.nextUrl.origin}/fonts/Montserrat-ExtraBold.ttf`).then((res) => res.arrayBuffer()),
+  ]);
 
   const hasLogos = logosParam.length > 0;
   const logoKeys = hasLogos ? logosParam.split(",").map((s) => s.trim().toLowerCase()).filter(Boolean).slice(0, 4) : [];
@@ -107,19 +109,17 @@ export async function GET(req: NextRequest) {
         <div
           style={{
             display: "flex",
-            alignItems: "center",
-            gap: "12px",
+            alignItems: "baseline",
             position: "absolute",
             top: "40px",
             left: "56px",
           }}
         >
-          <svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
-            <rect width="32" height="32" rx="8" fill="rgba(59,130,246,0.2)" />
-            <path d="M10 22V10l6 6 6-6v12" stroke="white" strokeWidth="2.5" strokeLinecap="round" strokeLinejoin="round" />
-          </svg>
-          <span style={{ fontSize: "20px", fontWeight: 600, color: "rgba(255,255,255,0.9)", letterSpacing: "-0.02em" }}>
-            ThinkFLOW
+          <span style={{ fontFamily: "Black Signature", fontSize: "28px", color: "#ffffff" }}>
+            Think
+          </span>
+          <span style={{ fontFamily: "Montserrat ExtraBold", fontWeight: 800, fontSize: "22px", color: "#3b82f6", letterSpacing: "0.02em", marginLeft: "6px" }}>
+            FLOW
           </span>
         </div>
 
@@ -252,6 +252,18 @@ export async function GET(req: NextRequest) {
           name: "Geist",
           data: fontData,
           weight: 400,
+          style: "normal",
+        },
+        {
+          name: "Black Signature",
+          data: signatureFontData,
+          weight: 400,
+          style: "normal",
+        },
+        {
+          name: "Montserrat ExtraBold",
+          data: montserratFontData,
+          weight: 800,
           style: "normal",
         },
       ],
