@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-29T21:00:06.587004+00:00",
+  "generated_at": "2026-07-30T01:00:07.943731+00:00",
   "days": 7,
   "nodes": [
     {
@@ -67,18 +67,18 @@
       "source": "MarkTechPost"
     },
     {
-      "id": "source:marktechpost",
-      "label": "Marktechpost",
-      "type": "entity",
-      "weight": 10,
-      "category": "",
-      "source": ""
-    },
-    {
       "id": "category:rss",
       "label": "Rss",
       "type": "entity",
       "weight": 3,
+      "category": "",
+      "source": ""
+    },
+    {
+      "id": "source:marktechpost",
+      "label": "Marktechpost",
+      "type": "entity",
+      "weight": 10,
       "category": "",
       "source": ""
     },
@@ -267,18 +267,18 @@
       "source": "HN top AI 24h"
     },
     {
-      "id": "source:hn_top_ai_24h",
-      "label": "Hn Top Ai 24H",
-      "type": "entity",
-      "weight": 43,
-      "category": "",
-      "source": ""
-    },
-    {
       "id": "category:trending",
       "label": "Trending",
       "type": "entity",
       "weight": 54,
+      "category": "",
+      "source": ""
+    },
+    {
+      "id": "source:hn_top_ai_24h",
+      "label": "Hn Top Ai 24H",
+      "type": "entity",
+      "weight": 43,
       "category": "",
       "source": ""
     },
@@ -315,18 +315,18 @@
       "source": "Ollama releases"
     },
     {
-      "id": "category:releases",
-      "label": "Releases",
-      "type": "entity",
-      "weight": 32,
-      "category": "",
-      "source": ""
-    },
-    {
       "id": "source:ollama_releases",
       "label": "Ollama Releases",
       "type": "entity",
       "weight": 6,
+      "category": "",
+      "source": ""
+    },
+    {
+      "id": "category:releases",
+      "label": "Releases",
+      "type": "entity",
+      "weight": 32,
       "category": "",
       "source": ""
     },
@@ -363,18 +363,18 @@
       "source": "Latent Space (Substack)"
     },
     {
-      "id": "category:newsletters",
-      "label": "Newsletters",
-      "type": "entity",
-      "weight": 9,
-      "category": "",
-      "source": ""
-    },
-    {
       "id": "source:latent_space_(substack)",
       "label": "Latent Space (Substack)",
       "type": "entity",
       "weight": 7,
+      "category": "",
+      "source": ""
+    },
+    {
+      "id": "category:newsletters",
+      "label": "Newsletters",
+      "type": "entity",
+      "weight": 9,
       "category": "",
       "source": ""
     },
@@ -835,18 +835,18 @@
       "source": "MIT Technology Review AI"
     },
     {
-      "id": "category:industry",
-      "label": "Industry",
-      "type": "entity",
-      "weight": 9,
-      "category": "",
-      "source": ""
-    },
-    {
       "id": "source:mit_technology_review_ai",
       "label": "Mit Technology Review Ai",
       "type": "entity",
       "weight": 2,
+      "category": "",
+      "source": ""
+    },
+    {
+      "id": "category:industry",
+      "label": "Industry",
+      "type": "entity",
+      "weight": 9,
       "category": "",
       "source": ""
     },
@@ -1571,14 +1571,6 @@
       "source": "OpenAI Blog"
     },
     {
-      "id": "genomics",
-      "label": "Genomics",
-      "type": "entity",
-      "weight": 1,
-      "category": "",
-      "source": ""
-    },
-    {
       "id": "shows",
       "label": "Shows",
       "type": "entity",
@@ -1587,8 +1579,40 @@
       "source": ""
     },
     {
-      "id": "scientific computing",
-      "label": "Scientific Computing",
+      "id": "genomics",
+      "label": "Genomics",
+      "type": "entity",
+      "weight": 1,
+      "category": "",
+      "source": ""
+    },
+    {
+      "id": "software development",
+      "label": "Software Development",
+      "type": "entity",
+      "weight": 1,
+      "category": "",
+      "source": ""
+    },
+    {
+      "id": "report",
+      "label": "Report",
+      "type": "entity",
+      "weight": 1,
+      "category": "",
+      "source": ""
+    },
+    {
+      "id": "agentic",
+      "label": "Agentic",
+      "type": "entity",
+      "weight": 1,
+      "category": "",
+      "source": ""
+    },
+    {
+      "id": "ai coding agents",
+      "label": "Ai Coding Agents",
       "type": "entity",
       "weight": 1,
       "category": "",
@@ -1597,6 +1621,14 @@
     {
       "id": "modernization",
       "label": "Modernization",
+      "type": "entity",
+      "weight": 1,
+      "category": "",
+      "source": ""
+    },
+    {
+      "id": "scientific computing",
+      "label": "Scientific Computing",
       "type": "entity",
       "weight": 1,
       "category": "",
@@ -1619,38 +1651,6 @@
       "source": ""
     },
     {
-      "id": "agentic",
-      "label": "Agentic",
-      "type": "entity",
-      "weight": 1,
-      "category": "",
-      "source": ""
-    },
-    {
-      "id": "software development",
-      "label": "Software Development",
-      "type": "entity",
-      "weight": 1,
-      "category": "",
-      "source": ""
-    },
-    {
-      "id": "ai coding agents",
-      "label": "Ai Coding Agents",
-      "type": "entity",
-      "weight": 1,
-      "category": "",
-      "source": ""
-    },
-    {
-      "id": "report",
-      "label": "Report",
-      "type": "entity",
-      "weight": 1,
-      "category": "",
-      "source": ""
-    },
-    {
       "id": "article:https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api-3-6-flash-hooks/",
       "label": "Gemini API Managed Agents: 3.6 Flash, hooks, and more",
       "type": "article",
@@ -1667,8 +1667,32 @@
       "source": ""
     },
     {
+      "id": "api",
+      "label": "Api",
+      "type": "entity",
+      "weight": 1,
+      "category": "",
+      "source": ""
+    },
+    {
       "id": "agents",
       "label": "Agents",
+      "type": "entity",
+      "weight": 1,
+      "category": "",
+      "source": ""
+    },
+    {
+      "id": "production readiness",
+      "label": "Production Readiness",
+      "type": "entity",
+      "weight": 1,
+      "category": "",
+      "source": ""
+    },
+    {
+      "id": "managed",
+      "label": "Managed",
       "type": "entity",
       "weight": 1,
       "category": "",
@@ -1691,32 +1715,8 @@
       "source": ""
     },
     {
-      "id": "managed agents",
-      "label": "Managed Agents",
-      "type": "entity",
-      "weight": 1,
-      "category": "",
-      "source": ""
-    },
-    {
-      "id": "api",
-      "label": "Api",
-      "type": "entity",
-      "weight": 1,
-      "category": "",
-      "source": ""
-    },
-    {
       "id": "hooks",
       "label": "Hooks",
-      "type": "entity",
-      "weight": 1,
-      "category": "",
-      "source": ""
-    },
-    {
-      "id": "production readiness",
-      "label": "Production Readiness",
       "type": "entity",
       "weight": 1,
       "category": "",
@@ -1731,8 +1731,8 @@
       "source": ""
     },
     {
-      "id": "managed",
-      "label": "Managed",
+      "id": "managed agents",
+      "label": "Managed Agents",
       "type": "entity",
       "weight": 1,
       "category": "",
@@ -1747,64 +1747,8 @@
       "source": "Google AI Blog"
     },
     {
-      "id": "ai mode",
-      "label": "Ai Mode",
-      "type": "entity",
-      "weight": 1,
-      "category": "",
-      "source": ""
-    },
-    {
-      "id": "offline",
-      "label": "Offline",
-      "type": "entity",
-      "weight": 1,
-      "category": "",
-      "source": ""
-    },
-    {
       "id": "enjoy",
       "label": "Enjoy",
-      "type": "entity",
-      "weight": 1,
-      "category": "",
-      "source": ""
-    },
-    {
-      "id": "real",
-      "label": "Real",
-      "type": "entity",
-      "weight": 1,
-      "category": "",
-      "source": ""
-    },
-    {
-      "id": "search",
-      "label": "Search",
-      "type": "entity",
-      "weight": 1,
-      "category": "",
-      "source": ""
-    },
-    {
-      "id": "helps",
-      "label": "Helps",
-      "type": "entity",
-      "weight": 1,
-      "category": "",
-      "source": ""
-    },
-    {
-      "id": "concert tickets",
-      "label": "Concert Tickets",
-      "type": "entity",
-      "weight": 1,
-      "category": "",
-      "source": ""
-    },
-    {
-      "id": "mode",
-      "label": "Mode",
       "type": "entity",
       "weight": 1,
       "category": "",
@@ -1819,8 +1763,64 @@
       "source": ""
     },
     {
+      "id": "helps",
+      "label": "Helps",
+      "type": "entity",
+      "weight": 1,
+      "category": "",
+      "source": ""
+    },
+    {
+      "id": "mode",
+      "label": "Mode",
+      "type": "entity",
+      "weight": 1,
+      "category": "",
+      "source": ""
+    },
+    {
+      "id": "concert tickets",
+      "label": "Concert Tickets",
+      "type": "entity",
+      "weight": 1,
+      "category": "",
+      "source": ""
+    },
+    {
       "id": "booking",
       "label": "Booking",
+      "type": "entity",
+      "weight": 1,
+      "category": "",
+      "source": ""
+    },
+    {
+      "id": "search",
+      "label": "Search",
+      "type": "entity",
+      "weight": 1,
+      "category": "",
+      "source": ""
+    },
+    {
+      "id": "real",
+      "label": "Real",
+      "type": "entity",
+      "weight": 1,
+      "category": "",
+      "source": ""
+    },
+    {
+      "id": "offline",
+      "label": "Offline",
+      "type": "entity",
+      "weight": 1,
+      "category": "",
+      "source": ""
+    },
+    {
+      "id": "ai mode",
+      "label": "Ai Mode",
       "type": "entity",
       "weight": 1,
       "category": "",
@@ -1835,6 +1835,22 @@
       "source": "Google AI Blog"
     },
     {
+      "id": "planning",
+      "label": "Planning",
+      "type": "entity",
+      "weight": 2,
+      "category": "",
+      "source": ""
+    },
+    {
+      "id": "menu",
+      "label": "Menu",
+      "type": "entity",
+      "weight": 1,
+      "category": "",
+      "source": ""
+    },
+    {
       "id": "host",
       "label": "Host",
       "type": "entity",
@@ -1843,32 +1859,8 @@
       "source": ""
     },
     {
-      "id": "ultimate",
-      "label": "Ultimate",
-      "type": "entity",
-      "weight": 1,
-      "category": "",
-      "source": ""
-    },
-    {
-      "id": "google search",
-      "label": "Google Search",
-      "type": "entity",
-      "weight": 1,
-      "category": "",
-      "source": ""
-    },
-    {
-      "id": "dinner party",
-      "label": "Dinner Party",
-      "type": "entity",
-      "weight": 1,
-      "category": "",
-      "source": ""
-    },
-    {
-      "id": "dinner",
-      "label": "Dinner",
+      "id": "tablescape",
+      "label": "Tablescape",
       "type": "entity",
       "weight": 1,
       "category": "",
@@ -1883,6 +1875,30 @@
       "source": ""
     },
     {
+      "id": "google search",
+      "label": "Google Search",
+      "type": "entity",
+      "weight": 1,
+      "category": "",
+      "source": ""
+    },
+    {
+      "id": "ultimate",
+      "label": "Ultimate",
+      "type": "entity",
+      "weight": 1,
+      "category": "",
+      "source": ""
+    },
+    {
+      "id": "dinner party",
+      "label": "Dinner Party",
+      "type": "entity",
+      "weight": 1,
+      "category": "",
+      "source": ""
+    },
+    {
       "id": "party",
       "label": "Party",
       "type": "entity",
@@ -1891,24 +1907,8 @@
       "source": ""
     },
     {
-      "id": "menu",
-      "label": "Menu",
-      "type": "entity",
-      "weight": 1,
-      "category": "",
-      "source": ""
-    },
-    {
-      "id": "planning",
-      "label": "Planning",
-      "type": "entity",
-      "weight": 2,
-      "category": "",
-      "source": ""
-    },
-    {
-      "id": "tablescape",
-      "label": "Tablescape",
+      "id": "dinner",
+      "label": "Dinner",
       "type": "entity",
       "weight": 1,
       "category": "",
@@ -1923,8 +1923,16 @@
       "source": "Google AI Blog"
     },
     {
-      "id": "quiz",
-      "label": "Quiz",
+      "id": "take",
+      "label": "Take",
+      "type": "entity",
+      "weight": 1,
+      "category": "",
+      "source": ""
+    },
+    {
+      "id": "io 2026",
+      "label": "Io 2026",
       "type": "entity",
       "weight": 1,
       "category": "",
@@ -1947,16 +1955,16 @@
       "source": ""
     },
     {
-      "id": "take",
-      "label": "Take",
+      "id": "vibe",
+      "label": "Vibe",
       "type": "entity",
       "weight": 1,
       "category": "",
       "source": ""
     },
     {
-      "id": "io 2026",
-      "label": "Io 2026",
+      "id": "quiz",
+      "label": "Quiz",
       "type": "entity",
       "weight": 1,
       "category": "",
@@ -1971,20 +1979,44 @@
       "source": ""
     },
     {
-      "id": "vibe",
-      "label": "Vibe",
-      "type": "entity",
-      "weight": 1,
-      "category": "",
-      "source": ""
-    },
-    {
       "id": "article:https://huggingface.co/blog/agent-intrusion-technical-timeline",
       "label": "Anatomy of a Frontier Lab Agent Intrusion: A Technical Timel",
       "type": "article",
       "weight": 67,
       "category": "ai_labs",
       "source": "Hugging Face Blog"
+    },
+    {
+      "id": "lab",
+      "label": "Lab",
+      "type": "entity",
+      "weight": 1,
+      "category": "",
+      "source": ""
+    },
+    {
+      "id": "intrusion",
+      "label": "Intrusion",
+      "type": "entity",
+      "weight": 1,
+      "category": "",
+      "source": ""
+    },
+    {
+      "id": "technical timeline",
+      "label": "Technical Timeline",
+      "type": "entity",
+      "weight": 1,
+      "category": "",
+      "source": ""
+    },
+    {
+      "id": "frontier",
+      "label": "Frontier",
+      "type": "entity",
+      "weight": 1,
+      "category": "",
+      "source": ""
     },
     {
       "id": "agent",
@@ -2003,24 +2035,16 @@
       "source": ""
     },
     {
+      "id": "frontier lab",
+      "label": "Frontier Lab",
+      "type": "entity",
+      "weight": 1,
+      "category": "",
+      "source": ""
+    },
+    {
       "id": "july 2026 incident",
       "label": "July 2026 Incident",
-      "type": "entity",
-      "weight": 1,
-      "category": "",
-      "source": ""
-    },
-    {
-      "id": "technical timeline",
-      "label": "Technical Timeline",
-      "type": "entity",
-      "weight": 1,
-      "category": "",
-      "source": ""
-    },
-    {
-      "id": "lab",
-      "label": "Lab",
       "type": "entity",
       "weight": 1,
       "category": "",
@@ -2035,32 +2059,8 @@
       "source": ""
     },
     {
-      "id": "intrusion",
-      "label": "Intrusion",
-      "type": "entity",
-      "weight": 1,
-      "category": "",
-      "source": ""
-    },
-    {
       "id": "agent intrusion",
       "label": "Agent Intrusion",
-      "type": "entity",
-      "weight": 1,
-      "category": "",
-      "source": ""
-    },
-    {
-      "id": "frontier",
-      "label": "Frontier",
-      "type": "entity",
-      "weight": 1,
-      "category": "",
-      "source": ""
-    },
-    {
-      "id": "frontier lab",
-      "label": "Frontier Lab",
       "type": "entity",
       "weight": 1,
       "category": "",
@@ -2075,16 +2075,8 @@
       "source": "HN top LLM 24h"
     },
     {
-      "id": "acm digital library",
-      "label": "Acm Digital Library",
-      "type": "entity",
-      "weight": 1,
-      "category": "",
-      "source": ""
-    },
-    {
-      "id": "acm",
-      "label": "Acm",
+      "id": "library",
+      "label": "Library",
       "type": "entity",
       "weight": 1,
       "category": "",
@@ -2099,24 +2091,16 @@
       "source": ""
     },
     {
+      "id": "acm digital library",
+      "label": "Acm Digital Library",
+      "type": "entity",
+      "weight": 1,
+      "category": "",
+      "source": ""
+    },
+    {
       "id": "now",
       "label": "Now",
-      "type": "entity",
-      "weight": 1,
-      "category": "",
-      "source": ""
-    },
-    {
-      "id": "access",
-      "label": "Access",
-      "type": "entity",
-      "weight": 1,
-      "category": "",
-      "source": ""
-    },
-    {
-      "id": "library",
-      "label": "Library",
       "type": "entity",
       "weight": 1,
       "category": "",
@@ -2131,6 +2115,22 @@
       "source": ""
     },
     {
+      "id": "acm",
+      "label": "Acm",
+      "type": "entity",
+      "weight": 1,
+      "category": "",
+      "source": ""
+    },
+    {
+      "id": "access",
+      "label": "Access",
+      "type": "entity",
+      "weight": 1,
+      "category": "",
+      "source": ""
+    },
+    {
       "id": "article:https://spawn-queue.acm.org/doi/10.1145/3819083",
       "label": "Google's Beyond Zero: Enterprise Security for the AI Era",
       "type": "article",
@@ -2139,16 +2139,16 @@
       "source": "HN top AI 24h"
     },
     {
-      "id": "ai era",
-      "label": "Ai Era",
+      "id": "era",
+      "label": "Era",
       "type": "entity",
       "weight": 1,
       "category": "",
       "source": ""
     },
     {
-      "id": "zero",
-      "label": "Zero",
+      "id": "enterprise",
+      "label": "Enterprise",
       "type": "entity",
       "weight": 1,
       "category": "",
@@ -2163,8 +2163,8 @@
       "source": ""
     },
     {
-      "id": "beyond zero",
-      "label": "Beyond Zero",
+      "id": "ai era",
+      "label": "Ai Era",
       "type": "entity",
       "weight": 1,
       "category": "",
@@ -2187,16 +2187,16 @@
       "source": ""
     },
     {
-      "id": "enterprise",
-      "label": "Enterprise",
+      "id": "zero",
+      "label": "Zero",
       "type": "entity",
       "weight": 1,
       "category": "",
       "source": ""
     },
     {
-      "id": "era",
-      "label": "Era",
+      "id": "beyond zero",
+      "label": "Beyond Zero",
       "type": "entity",
       "weight": 1,
       "category": "",
@@ -2211,8 +2211,24 @@
       "source": "HN top AI 24h"
     },
     {
-      "id": "learnvector",
-      "label": "Learnvector",
+      "id": "learning",
+      "label": "Learning",
+      "type": "entity",
+      "weight": 1,
+      "category": "",
+      "source": ""
+    },
+    {
+      "id": "one-to-one",
+      "label": "One-To-One",
+      "type": "entity",
+      "weight": 1,
+      "category": "",
+      "source": ""
+    },
+    {
+      "id": "one",
+      "label": "One",
       "type": "entity",
       "weight": 1,
       "category": "",
@@ -2235,24 +2251,8 @@
       "source": ""
     },
     {
-      "id": "learning",
-      "label": "Learning",
-      "type": "entity",
-      "weight": 1,
-      "category": "",
-      "source": ""
-    },
-    {
-      "id": "one",
-      "label": "One",
-      "type": "entity",
-      "weight": 1,
-      "category": "",
-      "source": ""
-    },
-    {
-      "id": "one-to-one",
-      "label": "One-To-One",
+      "id": "learnvector",
+      "label": "Learnvector",
       "type": "entity",
       "weight": 1,
       "category": "",
@@ -2267,8 +2267,24 @@
       "source": "HN top LLM 24h"
     },
     {
-      "id": "formal verification",
-      "label": "Formal Verification",
+      "id": "ai code",
+      "label": "Ai Code",
+      "type": "entity",
+      "weight": 1,
+      "category": "",
+      "source": ""
+    },
+    {
+      "id": "verified",
+      "label": "Verified",
+      "type": "entity",
+      "weight": 1,
+      "category": "",
+      "source": ""
+    },
+    {
+      "id": "formally",
+      "label": "Formally",
       "type": "entity",
       "weight": 1,
       "category": "",
@@ -2291,14 +2307,6 @@
       "source": ""
     },
     {
-      "id": "formally",
-      "label": "Formally",
-      "type": "entity",
-      "weight": 1,
-      "category": "",
-      "source": ""
-    },
-    {
       "id": "lines",
       "label": "Lines",
       "type": "entity",
@@ -2307,8 +2315,8 @@
       "source": ""
     },
     {
-      "id": "ai code",
-      "label": "Ai Code",
+      "id": "formal verification",
+      "label": "Formal Verification",
       "type": "entity",
       "weight": 1,
       "category": "",
@@ -2323,36 +2331,12 @@
       "source": ""
     },
     {
-      "id": "verified",
-      "label": "Verified",
-      "type": "entity",
-      "weight": 1,
-      "category": "",
-      "source": ""
-    },
-    {
       "id": "article:https://www.latent.space/p/ainews-fearing-rsi-openai-anthropic",
       "label": "[AINews] Fearing RSI: OpenAI, Anthropic, GDM, Meta, Thinky c",
       "type": "article",
       "weight": 48,
       "category": "newsletters",
       "source": "Latent Space (Substack)"
-    },
-    {
-      "id": "fearing",
-      "label": "Fearing",
-      "type": "entity",
-      "weight": 1,
-      "category": "",
-      "source": ""
-    },
-    {
-      "id": "anthropic",
-      "label": "Anthropic",
-      "type": "entity",
-      "weight": 1,
-      "category": "",
-      "source": ""
     },
     {
       "id": "pace",
@@ -2371,6 +2355,14 @@
       "source": ""
     },
     {
+      "id": "offensive",
+      "label": "Offensive",
+      "type": "entity",
+      "weight": 1,
+      "category": "",
+      "source": ""
+    },
+    {
       "id": "cyberattack",
       "label": "Cyberattack",
       "type": "entity",
@@ -2379,16 +2371,8 @@
       "source": ""
     },
     {
-      "id": "thinky",
-      "label": "Thinky",
-      "type": "entity",
-      "weight": 1,
-      "category": "",
-      "source": ""
-    },
-    {
-      "id": "machine-speed",
-      "label": "Machine-Speed",
+      "id": "anthropic",
+      "label": "Anthropic",
       "type": "entity",
       "weight": 1,
       "category": "",
@@ -2403,8 +2387,8 @@
       "source": ""
     },
     {
-      "id": "offensive",
-      "label": "Offensive",
+      "id": "machine-speed",
+      "label": "Machine-Speed",
       "type": "entity",
       "weight": 1,
       "category": "",
@@ -2419,10 +2403,26 @@
       "source": ""
     },
     {
+      "id": "fearing",
+      "label": "Fearing",
+      "type": "entity",
+      "weight": 1,
+      "category": "",
+      "source": ""
+    },
+    {
       "id": "openai",
       "label": "Openai",
       "type": "entity",
       "weight": 2,
+      "category": "",
+      "source": ""
+    },
+    {
+      "id": "thinky",
+      "label": "Thinky",
+      "type": "entity",
+      "weight": 1,
       "category": "",
       "source": ""
     },
@@ -2435,8 +2435,8 @@
       "source": "Latent Space (Substack)"
     },
     {
-      "id": "subagents",
-      "label": "Subagents",
+      "id": "accessibility",
+      "label": "Accessibility",
       "type": "entity",
       "weight": 1,
       "category": "",
@@ -2451,8 +2451,8 @@
       "source": ""
     },
     {
-      "id": "agi",
-      "label": "Agi",
+      "id": "building",
+      "label": "Building",
       "type": "entity",
       "weight": 1,
       "category": "",
@@ -2467,16 +2467,16 @@
       "source": ""
     },
     {
-      "id": "accessibility",
-      "label": "Accessibility",
+      "id": "subagents",
+      "label": "Subagents",
       "type": "entity",
       "weight": 1,
       "category": "",
       "source": ""
     },
     {
-      "id": "building",
-      "label": "Building",
+      "id": "agi",
+      "label": "Agi",
       "type": "entity",
       "weight": 1,
       "category": "",
@@ -2507,48 +2507,8 @@
       "source": ""
     },
     {
-      "id": "ado",
-      "label": "Ado",
-      "type": "entity",
-      "weight": 1,
-      "category": "",
-      "source": ""
-    },
-    {
-      "id": "shipping",
-      "label": "Shipping",
-      "type": "entity",
-      "weight": 1,
-      "category": "",
-      "source": ""
-    },
-    {
       "id": "kimi k3",
       "label": "Kimi K3",
-      "type": "entity",
-      "weight": 1,
-      "category": "",
-      "source": ""
-    },
-    {
-      "id": "much",
-      "label": "Much",
-      "type": "entity",
-      "weight": 1,
-      "category": "",
-      "source": ""
-    },
-    {
-      "id": "everyone",
-      "label": "Everyone",
-      "type": "entity",
-      "weight": 1,
-      "category": "",
-      "source": ""
-    },
-    {
-      "id": "weights",
-      "label": "Weights",
       "type": "entity",
       "weight": 1,
       "category": "",
@@ -2563,12 +2523,60 @@
       "source": ""
     },
     {
+      "id": "everyone",
+      "label": "Everyone",
+      "type": "entity",
+      "weight": 1,
+      "category": "",
+      "source": ""
+    },
+    {
+      "id": "much",
+      "label": "Much",
+      "type": "entity",
+      "weight": 1,
+      "category": "",
+      "source": ""
+    },
+    {
+      "id": "ado",
+      "label": "Ado",
+      "type": "entity",
+      "weight": 1,
+      "category": "",
+      "source": ""
+    },
+    {
+      "id": "weights",
+      "label": "Weights",
+      "type": "entity",
+      "weight": 1,
+      "category": "",
+      "source": ""
+    },
+    {
+      "id": "shipping",
+      "label": "Shipping",
+      "type": "entity",
+      "weight": 1,
+      "category": "",
+      "source": ""
+    },
+    {
       "id": "article:https://github.com/ggml-org/llama.cpp/releases/tag/b10173",
       "label": "ggml/llama.cpp releases: b10173",
       "type": "article",
       "weight": 48,
       "category": "releases",
       "source": "ggml/llama.cpp releases"
+    },
+    {
+      "id": "kleidiai",
+      "label": "Kleidiai",
+      "type": "entity",
+      "weight": 1,
+      "category": "",
+      "source": ""
     },
     {
       "id": "model",
@@ -2579,8 +2587,16 @@
       "source": ""
     },
     {
-      "id": "llama",
-      "label": "Llama",
+      "id": "arm64",
+      "label": "Arm64",
+      "type": "entity",
+      "weight": 2,
+      "category": "",
+      "source": ""
+    },
+    {
+      "id": "silicon",
+      "label": "Silicon",
       "type": "entity",
       "weight": 2,
       "category": "",
@@ -2595,10 +2611,10 @@
       "source": ""
     },
     {
-      "id": "kleidiai",
-      "label": "Kleidiai",
+      "id": "llama",
+      "label": "Llama",
       "type": "entity",
-      "weight": 1,
+      "weight": 2,
       "category": "",
       "source": ""
     },
@@ -2619,24 +2635,8 @@
       "source": ""
     },
     {
-      "id": "silicon",
-      "label": "Silicon",
-      "type": "entity",
-      "weight": 2,
-      "category": "",
-      "source": ""
-    },
-    {
       "id": "apple",
       "label": "Apple",
-      "type": "entity",
-      "weight": 2,
-      "category": "",
-      "source": ""
-    },
-    {
-      "id": "arm64",
-      "label": "Arm64",
       "type": "entity",
       "weight": 2,
       "category": "",
@@ -2651,24 +2651,16 @@
       "source": "ggml/llama.cpp releases"
     },
     {
-      "id": "variant",
-      "label": "Variant",
-      "type": "entity",
-      "weight": 1,
-      "category": "",
-      "source": ""
-    },
-    {
-      "id": "overlap",
-      "label": "Overlap",
-      "type": "entity",
-      "weight": 1,
-      "category": "",
-      "source": ""
-    },
-    {
       "id": "all",
       "label": "All",
+      "type": "entity",
+      "weight": 1,
+      "category": "",
+      "source": ""
+    },
+    {
+      "id": "variant",
+      "label": "Variant",
       "type": "entity",
       "weight": 1,
       "category": "",
@@ -2683,8 +2675,16 @@
       "source": ""
     },
     {
-      "id": "support",
-      "label": "Support",
+      "id": "test",
+      "label": "Test",
+      "type": "entity",
+      "weight": 1,
+      "category": "",
+      "source": ""
+    },
+    {
+      "id": "overlap",
+      "label": "Overlap",
       "type": "entity",
       "weight": 1,
       "category": "",
@@ -2699,16 +2699,16 @@
       "source": ""
     },
     {
-      "id": "test",
-      "label": "Test",
+      "id": "archs",
+      "label": "Archs",
       "type": "entity",
       "weight": 1,
       "category": "",
       "source": ""
     },
     {
-      "id": "archs",
-      "label": "Archs",
+      "id": "support",
+      "label": "Support",
       "type": "entity",
       "weight": 1,
       "category": "",
@@ -2721,14 +2721,6 @@
       "weight": 48,
       "category": "releases",
       "source": "ggml/llama.cpp releases"
-    },
-    {
-      "id": "image kernels",
-      "label": "Image Kernels",
-      "type": "entity",
-      "weight": 1,
-      "category": "",
-      "source": ""
     },
     {
       "id": "b10171",
@@ -2747,8 +2739,24 @@
       "source": ""
     },
     {
+      "id": "kqv",
+      "label": "Kqv",
+      "type": "entity",
+      "weight": 1,
+      "category": "",
+      "source": ""
+    },
+    {
       "id": "adreno",
       "label": "Adreno",
+      "type": "entity",
+      "weight": 1,
+      "category": "",
+      "source": ""
+    },
+    {
+      "id": "multi-stream batches",
+      "label": "Multi-Stream Batches",
       "type": "entity",
       "weight": 1,
       "category": "",
@@ -2763,14 +2771,6 @@
       "source": ""
     },
     {
-      "id": "kqv",
-      "label": "Kqv",
-      "type": "entity",
-      "weight": 1,
-      "category": "",
-      "source": ""
-    },
-    {
       "id": "kernels",
       "label": "Kernels",
       "type": "entity",
@@ -2779,8 +2779,8 @@
       "source": ""
     },
     {
-      "id": "multi-stream batches",
-      "label": "Multi-Stream Batches",
+      "id": "image kernels",
+      "label": "Image Kernels",
       "type": "entity",
       "weight": 1,
       "category": "",
@@ -2803,18 +2803,18 @@
       "source": ""
     },
     {
-      "id": "common_memory",
-      "label": "Common Memory",
-      "type": "entity",
-      "weight": 1,
-      "category": "",
-      "source": ""
-    },
-    {
       "id": "ggml",
       "label": "Ggml",
       "type": "entity",
       "weight": 2,
+      "category": "",
+      "source": ""
+    },
+    {
+      "id": "common_memory",
+      "label": "Common Memory",
+      "type": "entity",
+      "weight": 1,
       "category": "",
       "source": ""
     },
@@ -2827,8 +2827,8 @@
       "source": "ggml/llama.cpp releases"
     },
     {
-      "id": "logits",
-      "label": "Logits",
+      "id": "view",
+      "label": "View",
       "type": "entity",
       "weight": 1,
       "category": "",
@@ -2843,8 +2843,8 @@
       "source": ""
     },
     {
-      "id": "sampler",
-      "label": "Sampler",
+      "id": "logits",
+      "label": "Logits",
       "type": "entity",
       "weight": 1,
       "category": "",
@@ -2853,14 +2853,6 @@
     {
       "id": "views",
       "label": "Views",
-      "type": "entity",
-      "weight": 1,
-      "category": "",
-      "source": ""
-    },
-    {
-      "id": "view",
-      "label": "View",
       "type": "entity",
       "weight": 1,
       "category": "",
@@ -2883,52 +2875,20 @@
       "source": ""
     },
     {
+      "id": "sampler",
+      "label": "Sampler",
+      "type": "entity",
+      "weight": 1,
+      "category": "",
+      "source": ""
+    },
+    {
       "id": "article:https://arxiv.org/abs/2607.24750",
       "label": "TimeCapsule: Generative Hallucination as a Method for Histor",
       "type": "article",
       "weight": 40,
       "category": "research",
       "source": "ArXiv cs.CL (Computation and Language / NLP)"
-    },
-    {
-      "id": "hallucination",
-      "label": "Hallucination",
-      "type": "entity",
-      "weight": 1,
-      "category": "",
-      "source": ""
-    },
-    {
-      "id": "large language models",
-      "label": "Large Language Models",
-      "type": "entity",
-      "weight": 4,
-      "category": "",
-      "source": ""
-    },
-    {
-      "id": "historical",
-      "label": "Historical",
-      "type": "entity",
-      "weight": 1,
-      "category": "",
-      "source": ""
-    },
-    {
-      "id": "historical sensemaking",
-      "label": "Historical Sensemaking",
-      "type": "entity",
-      "weight": 1,
-      "category": "",
-      "source": ""
-    },
-    {
-      "id": "trained",
-      "label": "Trained",
-      "type": "entity",
-      "weight": 1,
-      "category": "",
-      "source": ""
     },
     {
       "id": "timecapsule",
@@ -2947,10 +2907,50 @@
       "source": ""
     },
     {
+      "id": "trained",
+      "label": "Trained",
+      "type": "entity",
+      "weight": 1,
+      "category": "",
+      "source": ""
+    },
+    {
+      "id": "historical",
+      "label": "Historical",
+      "type": "entity",
+      "weight": 1,
+      "category": "",
+      "source": ""
+    },
+    {
       "id": "temporal exposure",
       "label": "Temporal Exposure",
       "type": "entity",
       "weight": 1,
+      "category": "",
+      "source": ""
+    },
+    {
+      "id": "historical sensemaking",
+      "label": "Historical Sensemaking",
+      "type": "entity",
+      "weight": 1,
+      "category": "",
+      "source": ""
+    },
+    {
+      "id": "hallucination",
+      "label": "Hallucination",
+      "type": "entity",
+      "weight": 1,
+      "category": "",
+      "source": ""
+    },
+    {
+      "id": "large language models",
+      "label": "Large Language Models",
+      "type": "entity",
+      "weight": 4,
       "category": "",
       "source": ""
     },
@@ -2971,16 +2971,24 @@
       "source": ""
     },
     {
-      "id": "decision",
-      "label": "Decision",
+      "id": "models",
+      "label": "Models",
       "type": "entity",
-      "weight": 1,
+      "weight": 3,
       "category": "",
       "source": ""
     },
     {
       "id": "measuring",
       "label": "Measuring",
+      "type": "entity",
+      "weight": 1,
+      "category": "",
+      "source": ""
+    },
+    {
+      "id": "reduction",
+      "label": "Reduction",
       "type": "entity",
       "weight": 1,
       "category": "",
@@ -3003,10 +3011,10 @@
       "source": ""
     },
     {
-      "id": "models",
-      "label": "Models",
+      "id": "decision",
+      "label": "Decision",
       "type": "entity",
-      "weight": 3,
+      "weight": 1,
       "category": "",
       "source": ""
     },
@@ -3015,14 +3023,6 @@
       "label": "Large",
       "type": "entity",
       "weight": 2,
-      "category": "",
-      "source": ""
-    },
-    {
-      "id": "reduction",
-      "label": "Reduction",
-      "type": "entity",
-      "weight": 1,
       "category": "",
       "source": ""
     },
@@ -3043,14 +3043,6 @@
       "source": "ArXiv cs.CL (Computation and Language / NLP)"
     },
     {
-      "id": "sparsity",
-      "label": "Sparsity",
-      "type": "entity",
-      "weight": 1,
-      "category": "",
-      "source": ""
-    },
-    {
       "id": "neuromorphic",
       "label": "Neuromorphic",
       "type": "entity",
@@ -3067,32 +3059,16 @@
       "source": ""
     },
     {
-      "id": "denoising",
-      "label": "Denoising",
+      "id": "sparsity",
+      "label": "Sparsity",
       "type": "entity",
       "weight": 1,
-      "category": "",
-      "source": ""
-    },
-    {
-      "id": "language",
-      "label": "Language",
-      "type": "entity",
-      "weight": 2,
       "category": "",
       "source": ""
     },
     {
       "id": "diffusion",
       "label": "Diffusion",
-      "type": "entity",
-      "weight": 1,
-      "category": "",
-      "source": ""
-    },
-    {
-      "id": "block",
-      "label": "Block",
       "type": "entity",
       "weight": 1,
       "category": "",
@@ -3107,6 +3083,30 @@
       "source": ""
     },
     {
+      "id": "block",
+      "label": "Block",
+      "type": "entity",
+      "weight": 1,
+      "category": "",
+      "source": ""
+    },
+    {
+      "id": "language",
+      "label": "Language",
+      "type": "entity",
+      "weight": 2,
+      "category": "",
+      "source": ""
+    },
+    {
+      "id": "denoising",
+      "label": "Denoising",
+      "type": "entity",
+      "weight": 1,
+      "category": "",
+      "source": ""
+    },
+    {
       "id": "article:https://arxiv.org/abs/2607.24999",
       "label": "CogArena: A Multimethod Evaluation of Cognitive Ability Stru",
       "type": "article",
@@ -3115,8 +3115,8 @@
       "source": "ArXiv cs.CL (Computation and Language / NLP)"
     },
     {
-      "id": "multimethod",
-      "label": "Multimethod",
+      "id": "cogarena",
+      "label": "Cogarena",
       "type": "entity",
       "weight": 1,
       "category": "",
@@ -3131,8 +3131,24 @@
       "source": ""
     },
     {
-      "id": "cogarena",
-      "label": "Cogarena",
+      "id": "intervention",
+      "label": "Intervention",
+      "type": "entity",
+      "weight": 1,
+      "category": "",
+      "source": ""
+    },
+    {
+      "id": "evaluation",
+      "label": "Evaluation",
+      "type": "entity",
+      "weight": 1,
+      "category": "",
+      "source": ""
+    },
+    {
+      "id": "multimethod",
+      "label": "Multimethod",
       "type": "entity",
       "weight": 1,
       "category": "",
@@ -3155,24 +3171,8 @@
       "source": ""
     },
     {
-      "id": "cognitive",
-      "label": "Cognitive",
-      "type": "entity",
-      "weight": 1,
-      "category": "",
-      "source": ""
-    },
-    {
-      "id": "evaluation",
-      "label": "Evaluation",
-      "type": "entity",
-      "weight": 1,
-      "category": "",
-      "source": ""
-    },
-    {
-      "id": "intervention",
-      "label": "Intervention",
+      "id": "generalization",
+      "label": "Generalization",
       "type": "entity",
       "weight": 1,
       "category": "",
@@ -3187,8 +3187,8 @@
       "source": ""
     },
     {
-      "id": "generalization",
-      "label": "Generalization",
+      "id": "cognitive",
+      "label": "Cognitive",
       "type": "entity",
       "weight": 1,
       "category": "",
@@ -3203,16 +3203,8 @@
       "source": "ArXiv cs.CL (Computation and Language / NLP)"
     },
     {
-      "id": "verification",
-      "label": "Verification",
-      "type": "entity",
-      "weight": 1,
-      "category": "",
-      "source": ""
-    },
-    {
-      "id": "language understanding",
-      "label": "Language Understanding",
+      "id": "quantitative reasoning",
+      "label": "Quantitative Reasoning",
       "type": "entity",
       "weight": 1,
       "category": "",
@@ -3227,16 +3219,8 @@
       "source": ""
     },
     {
-      "id": "numerical claim verification",
-      "label": "Numerical Claim Verification",
-      "type": "entity",
-      "weight": 1,
-      "category": "",
-      "source": ""
-    },
-    {
-      "id": "reasoning",
-      "label": "Reasoning",
+      "id": "language understanding",
+      "label": "Language Understanding",
       "type": "entity",
       "weight": 1,
       "category": "",
@@ -3251,8 +3235,16 @@
       "source": ""
     },
     {
-      "id": "reasoning traces",
-      "label": "Reasoning Traces",
+      "id": "numerical claim verification",
+      "label": "Numerical Claim Verification",
+      "type": "entity",
+      "weight": 1,
+      "category": "",
+      "source": ""
+    },
+    {
+      "id": "verification",
+      "label": "Verification",
       "type": "entity",
       "weight": 1,
       "category": "",
@@ -3267,16 +3259,24 @@
       "source": ""
     },
     {
-      "id": "quantitative reasoning",
-      "label": "Quantitative Reasoning",
+      "id": "numerical",
+      "label": "Numerical",
       "type": "entity",
       "weight": 1,
       "category": "",
       "source": ""
     },
     {
-      "id": "numerical",
-      "label": "Numerical",
+      "id": "reasoning",
+      "label": "Reasoning",
+      "type": "entity",
+      "weight": 1,
+      "category": "",
+      "source": ""
+    },
+    {
+      "id": "reasoning traces",
+      "label": "Reasoning Traces",
       "type": "entity",
       "weight": 1,
       "category": "",
@@ -3291,32 +3291,8 @@
       "source": "ArXiv cs.CL (Computation and Language / NLP)"
     },
     {
-      "id": "communicative belief updates",
-      "label": "Communicative Belief Updates",
-      "type": "entity",
-      "weight": 1,
-      "category": "",
-      "source": ""
-    },
-    {
-      "id": "cancellation",
-      "label": "Cancellation",
-      "type": "entity",
-      "weight": 1,
-      "category": "",
-      "source": ""
-    },
-    {
-      "id": "updates",
-      "label": "Updates",
-      "type": "entity",
-      "weight": 1,
-      "category": "",
-      "source": ""
-    },
-    {
-      "id": "user communication",
-      "label": "User Communication",
+      "id": "unspoken",
+      "label": "Unspoken",
       "type": "entity",
       "weight": 1,
       "category": "",
@@ -3331,8 +3307,16 @@
       "source": ""
     },
     {
-      "id": "unspoken",
-      "label": "Unspoken",
+      "id": "communicative belief updates",
+      "label": "Communicative Belief Updates",
+      "type": "entity",
+      "weight": 1,
+      "category": "",
+      "source": ""
+    },
+    {
+      "id": "user communication",
+      "label": "User Communication",
       "type": "entity",
       "weight": 1,
       "category": "",
@@ -3347,12 +3331,44 @@
       "source": ""
     },
     {
+      "id": "updates",
+      "label": "Updates",
+      "type": "entity",
+      "weight": 1,
+      "category": "",
+      "source": ""
+    },
+    {
+      "id": "cancellation",
+      "label": "Cancellation",
+      "type": "entity",
+      "weight": 1,
+      "category": "",
+      "source": ""
+    },
+    {
       "id": "article:https://arxiv.org/abs/2607.25182",
       "label": "TabRank: Chain-of-Thought Distillation for Table Re-Rankers",
       "type": "article",
       "weight": 40,
       "category": "research",
       "source": "ArXiv cs.CL (Computation and Language / NLP)"
+    },
+    {
+      "id": "structured information retrieval",
+      "label": "Structured Information Retrieval",
+      "type": "entity",
+      "weight": 1,
+      "category": "",
+      "source": ""
+    },
+    {
+      "id": "chain-of-thought",
+      "label": "Chain-Of-Thought",
+      "type": "entity",
+      "weight": 1,
+      "category": "",
+      "source": ""
     },
     {
       "id": "re-rankers",
@@ -3371,8 +3387,8 @@
       "source": ""
     },
     {
-      "id": "chain-of-thought",
-      "label": "Chain-Of-Thought",
+      "id": "retrieval",
+      "label": "Retrieval",
       "type": "entity",
       "weight": 1,
       "category": "",
@@ -3381,6 +3397,14 @@
     {
       "id": "table re-rankers",
       "label": "Table Re-Rankers",
+      "type": "entity",
+      "weight": 1,
+      "category": "",
+      "source": ""
+    },
+    {
+      "id": "distillation",
+      "label": "Distillation",
       "type": "entity",
       "weight": 1,
       "category": "",
@@ -3403,44 +3427,12 @@
       "source": ""
     },
     {
-      "id": "retrieval",
-      "label": "Retrieval",
-      "type": "entity",
-      "weight": 1,
-      "category": "",
-      "source": ""
-    },
-    {
-      "id": "distillation",
-      "label": "Distillation",
-      "type": "entity",
-      "weight": 1,
-      "category": "",
-      "source": ""
-    },
-    {
-      "id": "structured information retrieval",
-      "label": "Structured Information Retrieval",
-      "type": "entity",
-      "weight": 1,
-      "category": "",
-      "source": ""
-    },
-    {
       "id": "article:https://arxiv.org/abs/2607.25184",
       "label": "A scaling law of contextual persistence in human language",
       "type": "article",
       "weight": 40,
       "category": "research",
       "source": "ArXiv cs.CL (Computation and Language / NLP)"
-    },
-    {
-      "id": "law",
-      "label": "Law",
-      "type": "entity",
-      "weight": 1,
-      "category": "",
-      "source": ""
     },
     {
       "id": "scaling",
@@ -3451,8 +3443,16 @@
       "source": ""
     },
     {
-      "id": "words",
-      "label": "Words",
+      "id": "co-occurrence",
+      "label": "Co-Occurrence",
+      "type": "entity",
+      "weight": 1,
+      "category": "",
+      "source": ""
+    },
+    {
+      "id": "contextual persistence",
+      "label": "Contextual Persistence",
       "type": "entity",
       "weight": 1,
       "category": "",
@@ -3467,24 +3467,8 @@
       "source": ""
     },
     {
-      "id": "human",
-      "label": "Human",
-      "type": "entity",
-      "weight": 1,
-      "category": "",
-      "source": ""
-    },
-    {
-      "id": "human language",
-      "label": "Human Language",
-      "type": "entity",
-      "weight": 1,
-      "category": "",
-      "source": ""
-    },
-    {
-      "id": "co-occurrence",
-      "label": "Co-Occurrence",
+      "id": "law",
+      "label": "Law",
       "type": "entity",
       "weight": 1,
       "category": "",
@@ -3507,8 +3491,24 @@
       "source": ""
     },
     {
-      "id": "contextual persistence",
-      "label": "Contextual Persistence",
+      "id": "words",
+      "label": "Words",
+      "type": "entity",
+      "weight": 1,
+      "category": "",
+      "source": ""
+    },
+    {
+      "id": "human",
+      "label": "Human",
+      "type": "entity",
+      "weight": 1,
+      "category": "",
+      "source": ""
+    },
+    {
+      "id": "human language",
+      "label": "Human Language",
       "type": "entity",
       "weight": 1,
       "category": "",
@@ -3523,48 +3523,8 @@
       "source": "ArXiv cs.CL (Computation and Language / NLP)"
     },
     {
-      "id": "cardiovascular care",
-      "label": "Cardiovascular Care",
-      "type": "entity",
-      "weight": 1,
-      "category": "",
-      "source": ""
-    },
-    {
-      "id": "benchmark",
-      "label": "Benchmark",
-      "type": "entity",
-      "weight": 1,
-      "category": "",
-      "source": ""
-    },
-    {
       "id": "myocardbench",
       "label": "Myocardbench",
-      "type": "entity",
-      "weight": 1,
-      "category": "",
-      "source": ""
-    },
-    {
-      "id": "cardiovascular",
-      "label": "Cardiovascular",
-      "type": "entity",
-      "weight": 1,
-      "category": "",
-      "source": ""
-    },
-    {
-      "id": "care",
-      "label": "Care",
-      "type": "entity",
-      "weight": 1,
-      "category": "",
-      "source": ""
-    },
-    {
-      "id": "clinical scenarios",
-      "label": "Clinical Scenarios",
       "type": "entity",
       "weight": 1,
       "category": "",
@@ -3579,28 +3539,52 @@
       "source": ""
     },
     {
+      "id": "cardiovascular care",
+      "label": "Cardiovascular Care",
+      "type": "entity",
+      "weight": 1,
+      "category": "",
+      "source": ""
+    },
+    {
+      "id": "cardiovascular",
+      "label": "Cardiovascular",
+      "type": "entity",
+      "weight": 1,
+      "category": "",
+      "source": ""
+    },
+    {
+      "id": "benchmark",
+      "label": "Benchmark",
+      "type": "entity",
+      "weight": 1,
+      "category": "",
+      "source": ""
+    },
+    {
+      "id": "clinical scenarios",
+      "label": "Clinical Scenarios",
+      "type": "entity",
+      "weight": 1,
+      "category": "",
+      "source": ""
+    },
+    {
+      "id": "care",
+      "label": "Care",
+      "type": "entity",
+      "weight": 1,
+      "category": "",
+      "source": ""
+    },
+    {
       "id": "article:https://arxiv.org/abs/2607.25202",
       "label": "A Cross-lingual Comparison of Human and Classification Model",
       "type": "article",
       "weight": 40,
       "category": "research",
       "source": "ArXiv cs.CL (Computation and Language / NLP)"
-    },
-    {
-      "id": "cross-lingual",
-      "label": "Cross-Lingual",
-      "type": "entity",
-      "weight": 1,
-      "category": "",
-      "source": ""
-    },
-    {
-      "id": "classification",
-      "label": "Classification",
-      "type": "entity",
-      "weight": 1,
-      "category": "",
-      "source": ""
     },
     {
       "id": "comparison",
@@ -3611,16 +3595,8 @@
       "source": ""
     },
     {
-      "id": "code-switched speech",
-      "label": "Code-Switched Speech",
-      "type": "entity",
-      "weight": 1,
-      "category": "",
-      "source": ""
-    },
-    {
-      "id": "classification model",
-      "label": "Classification Model",
+      "id": "cross-lingual",
+      "label": "Cross-Lingual",
       "type": "entity",
       "weight": 1,
       "category": "",
@@ -3635,8 +3611,32 @@
       "source": ""
     },
     {
+      "id": "classification model",
+      "label": "Classification Model",
+      "type": "entity",
+      "weight": 1,
+      "category": "",
+      "source": ""
+    },
+    {
+      "id": "code-switched speech",
+      "label": "Code-Switched Speech",
+      "type": "entity",
+      "weight": 1,
+      "category": "",
+      "source": ""
+    },
+    {
       "id": "entrainment",
       "label": "Entrainment",
+      "type": "entity",
+      "weight": 1,
+      "category": "",
+      "source": ""
+    },
+    {
+      "id": "classification",
+      "label": "Classification",
       "type": "entity",
       "weight": 1,
       "category": "",
@@ -3651,32 +3651,8 @@
       "source": "ArXiv cs.CL (Computation and Language / NLP)"
     },
     {
-      "id": "annotation",
-      "label": "Annotation",
-      "type": "entity",
-      "weight": 1,
-      "category": "",
-      "source": ""
-    },
-    {
-      "id": "llm-symbolized",
-      "label": "Llm-Symbolized",
-      "type": "entity",
-      "weight": 1,
-      "category": "",
-      "source": ""
-    },
-    {
-      "id": "column",
-      "label": "Column",
-      "type": "entity",
-      "weight": 1,
-      "category": "",
-      "source": ""
-    },
-    {
-      "id": "decision process",
-      "label": "Decision Process",
+      "id": "column annotation",
+      "label": "Column Annotation",
       "type": "entity",
       "weight": 1,
       "category": "",
@@ -3691,6 +3667,30 @@
       "source": ""
     },
     {
+      "id": "llm-symbolized",
+      "label": "Llm-Symbolized",
+      "type": "entity",
+      "weight": 1,
+      "category": "",
+      "source": ""
+    },
+    {
+      "id": "decision process",
+      "label": "Decision Process",
+      "type": "entity",
+      "weight": 1,
+      "category": "",
+      "source": ""
+    },
+    {
+      "id": "column",
+      "label": "Column",
+      "type": "entity",
+      "weight": 1,
+      "category": "",
+      "source": ""
+    },
+    {
       "id": "interpretable",
       "label": "Interpretable",
       "type": "entity",
@@ -3699,8 +3699,8 @@
       "source": ""
     },
     {
-      "id": "column annotation",
-      "label": "Column Annotation",
+      "id": "annotation",
+      "label": "Annotation",
       "type": "entity",
       "weight": 1,
       "category": "",
@@ -3723,40 +3723,8 @@
       "source": ""
     },
     {
-      "id": "world",
-      "label": "World",
-      "type": "entity",
-      "weight": 1,
-      "category": "",
-      "source": ""
-    },
-    {
       "id": "visualpatchworld",
       "label": "Visualpatchworld",
-      "type": "entity",
-      "weight": 1,
-      "category": "",
-      "source": ""
-    },
-    {
-      "id": "simulation",
-      "label": "Simulation",
-      "type": "entity",
-      "weight": 1,
-      "category": "",
-      "source": ""
-    },
-    {
-      "id": "world models",
-      "label": "World Models",
-      "type": "entity",
-      "weight": 1,
-      "category": "",
-      "source": ""
-    },
-    {
-      "id": "different",
-      "label": "Different",
       "type": "entity",
       "weight": 1,
       "category": "",
@@ -3771,8 +3739,40 @@
       "source": ""
     },
     {
+      "id": "different",
+      "label": "Different",
+      "type": "entity",
+      "weight": 1,
+      "category": "",
+      "source": ""
+    },
+    {
+      "id": "world",
+      "label": "World",
+      "type": "entity",
+      "weight": 1,
+      "category": "",
+      "source": ""
+    },
+    {
+      "id": "simulation",
+      "label": "Simulation",
+      "type": "entity",
+      "weight": 1,
+      "category": "",
+      "source": ""
+    },
+    {
       "id": "latent structured representations",
       "label": "Latent Structured Representations",
+      "type": "entity",
+      "weight": 1,
+      "category": "",
+      "source": ""
+    },
+    {
+      "id": "world models",
+      "label": "World Models",
       "type": "entity",
       "weight": 1,
       "category": "",
@@ -3832,16 +3832,11 @@
     },
     {
       "source": "article:https://www.marktechpost.com/2026/06/27/liquid-ai-ships-lfm2-5-230m-with-llama-cpp-mlx-vllm-sglang-and-onnx-support-for-on-device-inference/",
-      "target": "source:marktechpost",
+      "target": "category:rss",
       "weight": 1
     },
     {
       "source": "article:https://www.marktechpost.com/2026/06/27/liquid-ai-ships-lfm2-5-230m-with-llama-cpp-mlx-vllm-sglang-and-onnx-support-for-on-device-inference/",
-      "target": "category:rss",
-      "weight": 1
-    },
-    {
-      "source": "article:https://www.marktechpost.com/2026/06/27/deepseek-releases-dspark-a-speculative-decoding-framework-that-accelerates-deepseek-v4-per-user-generation-60-85-over-mtp-1/",
       "target": "source:marktechpost",
       "weight": 1
     },
@@ -3851,13 +3846,18 @@
       "weight": 1
     },
     {
-      "source": "article:https://www.marktechpost.com/2026/06/27/metas-astryx-brings-a-cli-and-mcp-server-to-an-open-source-react-design-system-agents-can-read/",
+      "source": "article:https://www.marktechpost.com/2026/06/27/deepseek-releases-dspark-a-speculative-decoding-framework-that-accelerates-deepseek-v4-per-user-generation-60-85-over-mtp-1/",
       "target": "source:marktechpost",
       "weight": 1
     },
     {
       "source": "article:https://www.marktechpost.com/2026/06/27/metas-astryx-brings-a-cli-and-mcp-server-to-an-open-source-react-design-system-agents-can-read/",
       "target": "category:rss",
+      "weight": 1
+    },
+    {
+      "source": "article:https://www.marktechpost.com/2026/06/27/metas-astryx-brings-a-cli-and-mcp-server-to-an-open-source-react-design-system-agents-can-read/",
+      "target": "source:marktechpost",
       "weight": 1
     },
     {
@@ -3982,16 +3982,11 @@
     },
     {
       "source": "article:https://dylancastillo.co/posts/pelicanmaxxing.html",
-      "target": "source:hn_top_ai_24h",
+      "target": "category:trending",
       "weight": 1
     },
     {
       "source": "article:https://dylancastillo.co/posts/pelicanmaxxing.html",
-      "target": "category:trending",
-      "weight": 1
-    },
-    {
-      "source": "article:https://resobscura.substack.com/p/quality-non-fiction-books-are-the",
       "target": "source:hn_top_ai_24h",
       "weight": 1
     },
@@ -4001,7 +3996,7 @@
       "weight": 1
     },
     {
-      "source": "article:https://blog.fiddery.com/businesses-with-ugly-ai-menu-redesigns/",
+      "source": "article:https://resobscura.substack.com/p/quality-non-fiction-books-are-the",
       "target": "source:hn_top_ai_24h",
       "weight": 1
     },
@@ -4011,7 +4006,7 @@
       "weight": 1
     },
     {
-      "source": "article:https://www.redfin.com/news/ai-data-centers-opposition-education-benefit/",
+      "source": "article:https://blog.fiddery.com/businesses-with-ugly-ai-menu-redesigns/",
       "target": "source:hn_top_ai_24h",
       "weight": 1
     },
@@ -4021,8 +4016,8 @@
       "weight": 1
     },
     {
-      "source": "article:https://github.com/ollama/ollama/releases/tag/v0.32.3-rc0",
-      "target": "category:releases",
+      "source": "article:https://www.redfin.com/news/ai-data-centers-opposition-education-benefit/",
+      "target": "source:hn_top_ai_24h",
       "weight": 1
     },
     {
@@ -4031,12 +4026,22 @@
       "weight": 1
     },
     {
+      "source": "article:https://github.com/ollama/ollama/releases/tag/v0.32.3-rc0",
+      "target": "category:releases",
+      "weight": 1
+    },
+    {
+      "source": "article:https://cruciblebench.ai/",
+      "target": "category:trending",
+      "weight": 1
+    },
+    {
       "source": "article:https://cruciblebench.ai/",
       "target": "source:hn_top_llm_24h",
       "weight": 1
     },
     {
-      "source": "article:https://cruciblebench.ai/",
+      "source": "article:https://petals.dev/",
       "target": "category:trending",
       "weight": 1
     },
@@ -4046,8 +4051,8 @@
       "weight": 1
     },
     {
-      "source": "article:https://petals.dev/",
-      "target": "category:trending",
+      "source": "article:https://www.latent.space/p/ainews-laguna-s-21-released-cheaper",
+      "target": "source:latent_space_(substack)",
       "weight": 1
     },
     {
@@ -4056,18 +4061,13 @@
       "weight": 1
     },
     {
-      "source": "article:https://www.latent.space/p/ainews-laguna-s-21-released-cheaper",
+      "source": "article:https://www.latent.space/p/poolside",
       "target": "source:latent_space_(substack)",
       "weight": 1
     },
     {
       "source": "article:https://www.latent.space/p/poolside",
       "target": "category:newsletters",
-      "weight": 1
-    },
-    {
-      "source": "article:https://www.latent.space/p/poolside",
-      "target": "source:latent_space_(substack)",
       "weight": 1
     },
     {
@@ -4118,11 +4118,6 @@
     {
       "source": "article:https://github.com/ggml-org/llama.cpp/releases/tag/b10088",
       "target": "source:ggml/llama.cpp_releases",
-      "weight": 1
-    },
-    {
-      "source": "article:https://openaim.pramit.gg/",
-      "target": "source:show_hn_ai_7d",
       "weight": 1
     },
     {
@@ -4131,13 +4126,18 @@
       "weight": 1
     },
     {
-      "source": "article:https://www.bbc.com/news/articles/c3ek3gvdnj3o",
-      "target": "source:hn_top_ai_24h",
+      "source": "article:https://openaim.pramit.gg/",
+      "target": "source:show_hn_ai_7d",
       "weight": 1
     },
     {
       "source": "article:https://www.bbc.com/news/articles/c3ek3gvdnj3o",
       "target": "category:trending",
+      "weight": 1
+    },
+    {
+      "source": "article:https://www.bbc.com/news/articles/c3ek3gvdnj3o",
+      "target": "source:hn_top_ai_24h",
       "weight": 1
     },
     {
@@ -4212,16 +4212,11 @@
     },
     {
       "source": "article:https://www.politico.com/news/2026/07/22/startup-founders-urge-trump-not-to-shut-off-chinese-open-weight-ai-01008992",
-      "target": "source:hn_top_ai_24h",
+      "target": "category:trending",
       "weight": 1
     },
     {
       "source": "article:https://www.politico.com/news/2026/07/22/startup-founders-urge-trump-not-to-shut-off-chinese-open-weight-ai-01008992",
-      "target": "category:trending",
-      "weight": 1
-    },
-    {
-      "source": "article:https://futurism.com/artificial-intelligence/ai-companies-hide-debt-off-balance-sheet",
       "target": "source:hn_top_ai_24h",
       "weight": 1
     },
@@ -4231,7 +4226,7 @@
       "weight": 1
     },
     {
-      "source": "article:https://www.axios.com/2026/07/22/openai-anthropic-open-models-trump-china",
+      "source": "article:https://futurism.com/artificial-intelligence/ai-companies-hide-debt-off-balance-sheet",
       "target": "source:hn_top_ai_24h",
       "weight": 1
     },
@@ -4241,7 +4236,7 @@
       "weight": 1
     },
     {
-      "source": "article:https://www.reuters.com/business/retail-consumer/alphabets-cash-burn-raises-alarm-big-tech-ai-spending-climbs-2026-07-23/",
+      "source": "article:https://www.axios.com/2026/07/22/openai-anthropic-open-models-trump-china",
       "target": "source:hn_top_ai_24h",
       "weight": 1
     },
@@ -4251,7 +4246,7 @@
       "weight": 1
     },
     {
-      "source": "article:https://tombedor.dev/arguments-against-open-source-ai-are-very-bad/",
+      "source": "article:https://www.reuters.com/business/retail-consumer/alphabets-cash-burn-raises-alarm-big-tech-ai-spending-climbs-2026-07-23/",
       "target": "source:hn_top_ai_24h",
       "weight": 1
     },
@@ -4261,12 +4256,22 @@
       "weight": 1
     },
     {
-      "source": "article:https://www.darpa.mil/news/2026/darpa-us-air-force-fly-ai-controlled-f-16",
+      "source": "article:https://tombedor.dev/arguments-against-open-source-ai-are-very-bad/",
       "target": "source:hn_top_ai_24h",
       "weight": 1
     },
     {
       "source": "article:https://www.darpa.mil/news/2026/darpa-us-air-force-fly-ai-controlled-f-16",
+      "target": "category:trending",
+      "weight": 1
+    },
+    {
+      "source": "article:https://www.darpa.mil/news/2026/darpa-us-air-force-fly-ai-controlled-f-16",
+      "target": "source:hn_top_ai_24h",
+      "weight": 1
+    },
+    {
+      "source": "article:https://github.com/palmier-io/palmier-pro",
       "target": "category:trending",
       "weight": 1
     },
@@ -4276,23 +4281,13 @@
       "weight": 1
     },
     {
-      "source": "article:https://github.com/palmier-io/palmier-pro",
-      "target": "category:trending",
-      "weight": 1
-    },
-    {
-      "source": "article:https://github.com/ollama/ollama/releases/tag/v0.32.3",
-      "target": "category:releases",
-      "weight": 1
-    },
-    {
       "source": "article:https://github.com/ollama/ollama/releases/tag/v0.32.3",
       "target": "source:ollama_releases",
       "weight": 1
     },
     {
-      "source": "article:https://www.latent.space/p/ainews-black-forest-labs-flux-3-multimodal",
-      "target": "category:newsletters",
+      "source": "article:https://github.com/ollama/ollama/releases/tag/v0.32.3",
+      "target": "category:releases",
       "weight": 1
     },
     {
@@ -4301,6 +4296,11 @@
       "weight": 1
     },
     {
+      "source": "article:https://www.latent.space/p/ainews-black-forest-labs-flux-3-multimodal",
+      "target": "category:newsletters",
+      "weight": 1
+    },
+    {
       "source": "article:https://github.com/ggml-org/llama.cpp/releases/tag/b10099",
       "target": "category:releases",
       "weight": 1
@@ -4338,11 +4338,6 @@
     {
       "source": "article:https://github.com/ggml-org/llama.cpp/releases/tag/b10093",
       "target": "source:ggml/llama.cpp_releases",
-      "weight": 1
-    },
-    {
-      "source": "article:https://github.com/onecli/onecli",
-      "target": "source:show_hn_ai_7d",
       "weight": 1
     },
     {
@@ -4351,12 +4346,22 @@
       "weight": 1
     },
     {
+      "source": "article:https://github.com/onecli/onecli",
+      "target": "source:show_hn_ai_7d",
+      "weight": 1
+    },
+    {
+      "source": "article:https://www.msn.com/en-us/money/economy/ai-bet-goes-awry-oracle-fires-21-000-employees/ar-AA28vWuD",
+      "target": "category:trending",
+      "weight": 1
+    },
+    {
       "source": "article:https://www.msn.com/en-us/money/economy/ai-bet-goes-awry-oracle-fires-21-000-employees/ar-AA28vWuD",
       "target": "source:hn_top_ai_24h",
       "weight": 1
     },
     {
-      "source": "article:https://www.msn.com/en-us/money/economy/ai-bet-goes-awry-oracle-fires-21-000-employees/ar-AA28vWuD",
+      "source": "article:https://www.rtx.com/news/news-center/2026/07/21/rtxs-pratt-whitney-canada-advances-hybrid-electric-technology-development",
       "target": "category:trending",
       "weight": 1
     },
@@ -4366,7 +4371,7 @@
       "weight": 1
     },
     {
-      "source": "article:https://www.rtx.com/news/news-center/2026/07/21/rtxs-pratt-whitney-canada-advances-hybrid-electric-technology-development",
+      "source": "article:https://louwrentius.com/i-think-you-might-be-fooling-yourself-with-ai.html",
       "target": "category:trending",
       "weight": 1
     },
@@ -4376,7 +4381,7 @@
       "weight": 1
     },
     {
-      "source": "article:https://louwrentius.com/i-think-you-might-be-fooling-yourself-with-ai.html",
+      "source": "article:https://news.ycombinator.com/item?id=49024620",
       "target": "category:trending",
       "weight": 1
     },
@@ -4386,7 +4391,7 @@
       "weight": 1
     },
     {
-      "source": "article:https://news.ycombinator.com/item?id=49024620",
+      "source": "article:https://frame.work/desktop?tab=192gb-coming-soon",
       "target": "category:trending",
       "weight": 1
     },
@@ -4396,18 +4401,13 @@
       "weight": 1
     },
     {
-      "source": "article:https://frame.work/desktop?tab=192gb-coming-soon",
+      "source": "article:https://blog.google/innovation-and-ai/technology/research/understanding-the-ai-economy/",
       "target": "category:trending",
       "weight": 1
     },
     {
       "source": "article:https://blog.google/innovation-and-ai/technology/research/understanding-the-ai-economy/",
       "target": "source:hn_top_ai_24h",
-      "weight": 1
-    },
-    {
-      "source": "article:https://blog.google/innovation-and-ai/technology/research/understanding-the-ai-economy/",
-      "target": "category:trending",
       "weight": 1
     },
     {
@@ -4472,27 +4472,22 @@
     },
     {
       "source": "article:https://sliplane.io/blog/hetzner-inference",
-      "target": "source:hn_top_llm_24h",
+      "target": "category:trending",
       "weight": 1
     },
     {
       "source": "article:https://sliplane.io/blog/hetzner-inference",
+      "target": "source:hn_top_llm_24h",
+      "weight": 1
+    },
+    {
+      "source": "article:https://www.cnbc.com/2026/07/24/nvidia-microsoft-meta-open-weight-ai-models.html",
       "target": "category:trending",
       "weight": 1
     },
     {
       "source": "article:https://www.cnbc.com/2026/07/24/nvidia-microsoft-meta-open-weight-ai-models.html",
       "target": "source:hn_top_ai_24h",
-      "weight": 1
-    },
-    {
-      "source": "article:https://www.cnbc.com/2026/07/24/nvidia-microsoft-meta-open-weight-ai-models.html",
-      "target": "category:trending",
-      "weight": 1
-    },
-    {
-      "source": "article:https://github.com/ollama/ollama/releases/tag/v0.32.4-rc0",
-      "target": "category:releases",
       "weight": 1
     },
     {
@@ -4501,13 +4496,18 @@
       "weight": 1
     },
     {
-      "source": "article:https://images.nvidia.com/pdf/Open-Weights-and-American-AI-Leadership.pdf",
-      "target": "source:hn_top_ai_24h",
+      "source": "article:https://github.com/ollama/ollama/releases/tag/v0.32.4-rc0",
+      "target": "category:releases",
       "weight": 1
     },
     {
       "source": "article:https://images.nvidia.com/pdf/Open-Weights-and-American-AI-Leadership.pdf",
       "target": "category:trending",
+      "weight": 1
+    },
+    {
+      "source": "article:https://images.nvidia.com/pdf/Open-Weights-and-American-AI-Leadership.pdf",
+      "target": "source:hn_top_ai_24h",
       "weight": 1
     },
     {
@@ -4552,16 +4552,11 @@
     },
     {
       "source": "article:https://www.alexhyett.com/videos/tried-building-app-with-ai-it-took-a-year/",
-      "target": "source:hn_top_ai_24h",
+      "target": "category:trending",
       "weight": 1
     },
     {
       "source": "article:https://www.alexhyett.com/videos/tried-building-app-with-ai-it-took-a-year/",
-      "target": "category:trending",
-      "weight": 1
-    },
-    {
-      "source": "article:https://chipsandcheese.com/p/amds-instinct-mi455x-aiming-for-the",
       "target": "source:hn_top_ai_24h",
       "weight": 1
     },
@@ -4571,7 +4566,7 @@
       "weight": 1
     },
     {
-      "source": "article:https://rewardhacking.org",
+      "source": "article:https://chipsandcheese.com/p/amds-instinct-mi455x-aiming-for-the",
       "target": "source:hn_top_ai_24h",
       "weight": 1
     },
@@ -4581,7 +4576,7 @@
       "weight": 1
     },
     {
-      "source": "article:https://www.jpost.com/business-and-innovation/tech-and-start-ups/article-903442",
+      "source": "article:https://rewardhacking.org",
       "target": "source:hn_top_ai_24h",
       "weight": 1
     },
@@ -4591,12 +4586,22 @@
       "weight": 1
     },
     {
+      "source": "article:https://www.jpost.com/business-and-innovation/tech-and-start-ups/article-903442",
+      "target": "source:hn_top_ai_24h",
+      "weight": 1
+    },
+    {
+      "source": "article:https://www.technologyreview.com/2026/07/24/1140790/the-quest-to-keep-organs-alive-outside-the-body/",
+      "target": "source:mit_technology_review_ai",
+      "weight": 1
+    },
+    {
       "source": "article:https://www.technologyreview.com/2026/07/24/1140790/the-quest-to-keep-organs-alive-outside-the-body/",
       "target": "category:industry",
       "weight": 1
     },
     {
-      "source": "article:https://www.technologyreview.com/2026/07/24/1140790/the-quest-to-keep-organs-alive-outside-the-body/",
+      "source": "article:https://www.technologyreview.com/2026/07/24/1140776/the-download-organ-transplant-breakthrough-chinese-chips/",
       "target": "source:mit_technology_review_ai",
       "weight": 1
     },
@@ -4606,22 +4611,12 @@
       "weight": 1
     },
     {
-      "source": "article:https://www.technologyreview.com/2026/07/24/1140776/the-download-organ-transplant-breakthrough-chinese-chips/",
-      "target": "source:mit_technology_review_ai",
-      "weight": 1
-    },
-    {
-      "source": "article:https://x402vps.com",
-      "target": "source:show_hn_ai_7d",
-      "weight": 1
-    },
-    {
       "source": "article:https://x402vps.com",
       "target": "category:open_source",
       "weight": 1
     },
     {
-      "source": "article:https://geoimagetagger.com",
+      "source": "article:https://x402vps.com",
       "target": "source:show_hn_ai_7d",
       "weight": 1
     },
@@ -4631,8 +4626,8 @@
       "weight": 1
     },
     {
-      "source": "article:https://www.marktechpost.com/2026/07/24/datalab-marker-v2-vs-mineru-docling-and-liteparse-benchmark-breakdown/",
-      "target": "source:marktechpost",
+      "source": "article:https://geoimagetagger.com",
+      "target": "source:show_hn_ai_7d",
       "weight": 1
     },
     {
@@ -4641,7 +4636,7 @@
       "weight": 1
     },
     {
-      "source": "article:https://www.marktechpost.com/2026/07/24/meet-the-new-claude-opus-5-frontier-class-agentic-coding-and-computer-use-at-unchanged-opus-pricing/",
+      "source": "article:https://www.marktechpost.com/2026/07/24/datalab-marker-v2-vs-mineru-docling-and-liteparse-benchmark-breakdown/",
       "target": "source:marktechpost",
       "weight": 1
     },
@@ -4651,8 +4646,8 @@
       "weight": 1
     },
     {
-      "source": "article:https://www.youtube.com/watch?v=wzY2fV4Mp3U",
-      "target": "source:ai_explained",
+      "source": "article:https://www.marktechpost.com/2026/07/24/meet-the-new-claude-opus-5-frontier-class-agentic-coding-and-computer-use-at-unchanged-opus-pricing/",
+      "target": "source:marktechpost",
       "weight": 1
     },
     {
@@ -4661,12 +4656,22 @@
       "weight": 1
     },
     {
+      "source": "article:https://www.youtube.com/watch?v=wzY2fV4Mp3U",
+      "target": "source:ai_explained",
+      "weight": 1
+    },
+    {
+      "source": "article:https://tobi.knaup.me/2026-07-25-open-weight-ai-is-having-its-kubernetes-moment/",
+      "target": "category:trending",
+      "weight": 1
+    },
+    {
       "source": "article:https://tobi.knaup.me/2026-07-25-open-weight-ai-is-having-its-kubernetes-moment/",
       "target": "source:hn_top_ai_24h",
       "weight": 1
     },
     {
-      "source": "article:https://tobi.knaup.me/2026-07-25-open-weight-ai-is-having-its-kubernetes-moment/",
+      "source": "article:https://brolly.sh/forecast/RWFP2qW8",
       "target": "category:trending",
       "weight": 1
     },
@@ -4676,7 +4681,7 @@
       "weight": 1
     },
     {
-      "source": "article:https://brolly.sh/forecast/RWFP2qW8",
+      "source": "article:https://github.com/slvDev/esp32-ai",
       "target": "category:trending",
       "weight": 1
     },
@@ -4686,23 +4691,13 @@
       "weight": 1
     },
     {
-      "source": "article:https://github.com/slvDev/esp32-ai",
+      "source": "article:https://www.debian.org/vote/2026/vote_002",
       "target": "category:trending",
       "weight": 1
     },
     {
       "source": "article:https://www.debian.org/vote/2026/vote_002",
       "target": "source:hn_top_llm_24h",
-      "weight": 1
-    },
-    {
-      "source": "article:https://www.debian.org/vote/2026/vote_002",
-      "target": "category:trending",
-      "weight": 1
-    },
-    {
-      "source": "article:https://github.com/ollama/ollama/releases/tag/v0.32.4",
-      "target": "category:releases",
       "weight": 1
     },
     {
@@ -4711,8 +4706,8 @@
       "weight": 1
     },
     {
-      "source": "article:https://www.latent.space/p/ainews-claude-opus-5-fable-level",
-      "target": "category:newsletters",
+      "source": "article:https://github.com/ollama/ollama/releases/tag/v0.32.4",
+      "target": "category:releases",
       "weight": 1
     },
     {
@@ -4721,8 +4716,8 @@
       "weight": 1
     },
     {
-      "source": "article:https://blog.cloudflare.com/content-independence-day-ai-options/",
-      "target": "source:hn_top_ai_24h",
+      "source": "article:https://www.latent.space/p/ainews-claude-opus-5-fable-level",
+      "target": "category:newsletters",
       "weight": 1
     },
     {
@@ -4731,8 +4726,8 @@
       "weight": 1
     },
     {
-      "source": "article:https://github.com/vllm-project/vllm/releases/tag/v0.26.0",
-      "target": "category:releases",
+      "source": "article:https://blog.cloudflare.com/content-independence-day-ai-options/",
+      "target": "source:hn_top_ai_24h",
       "weight": 1
     },
     {
@@ -4741,12 +4736,22 @@
       "weight": 1
     },
     {
+      "source": "article:https://github.com/vllm-project/vllm/releases/tag/v0.26.0",
+      "target": "category:releases",
+      "weight": 1
+    },
+    {
+      "source": "article:https://www.coindesk.com/markets/2026/07/24/brazilian-farmers-tokenized-dairy-cows-to-get-loans-bypassing-bank-lending-limits",
+      "target": "category:trending",
+      "weight": 1
+    },
+    {
       "source": "article:https://www.coindesk.com/markets/2026/07/24/brazilian-farmers-tokenized-dairy-cows-to-get-loans-bypassing-bank-lending-limits",
       "target": "source:hn_top_llm_24h",
       "weight": 1
     },
     {
-      "source": "article:https://www.coindesk.com/markets/2026/07/24/brazilian-farmers-tokenized-dairy-cows-to-get-loans-bypassing-bank-lending-limits",
+      "source": "article:https://www.youtube.com/watch?v=wlYa8NV5k-U",
       "target": "category:trending",
       "weight": 1
     },
@@ -4756,7 +4761,7 @@
       "weight": 1
     },
     {
-      "source": "article:https://www.youtube.com/watch?v=wlYa8NV5k-U",
+      "source": "article:https://siepr.stanford.edu/publications/policy-brief/what-really-happening-jobs-separating-ai-hype-reality",
       "target": "category:trending",
       "weight": 1
     },
@@ -4766,7 +4771,7 @@
       "weight": 1
     },
     {
-      "source": "article:https://siepr.stanford.edu/publications/policy-brief/what-really-happening-jobs-separating-ai-hype-reality",
+      "source": "article:https://www.wsj.com/business/china-us-ai-model-costs-53a12e96",
       "target": "category:trending",
       "weight": 1
     },
@@ -4776,23 +4781,13 @@
       "weight": 1
     },
     {
-      "source": "article:https://www.wsj.com/business/china-us-ai-model-costs-53a12e96",
+      "source": "article:https://daringfireball.net/linked/2026/07/25/ai-mania-nikhil-suresh",
       "target": "category:trending",
       "weight": 1
     },
     {
       "source": "article:https://daringfireball.net/linked/2026/07/25/ai-mania-nikhil-suresh",
       "target": "source:hn_top_ai_24h",
-      "weight": 1
-    },
-    {
-      "source": "article:https://daringfireball.net/linked/2026/07/25/ai-mania-nikhil-suresh",
-      "target": "category:trending",
-      "weight": 1
-    },
-    {
-      "source": "article:https://github.com/sktkkoo/Yorishiro",
-      "target": "source:show_hn_ai_7d",
       "weight": 1
     },
     {
@@ -4801,12 +4796,22 @@
       "weight": 1
     },
     {
+      "source": "article:https://github.com/sktkkoo/Yorishiro",
+      "target": "source:show_hn_ai_7d",
+      "weight": 1
+    },
+    {
+      "source": "article:https://www.marktechpost.com/2026/07/25/sakana-ai-releases-fugu-cyber-orchestration-model-cybergym-cti-realm/",
+      "target": "category:industry",
+      "weight": 1
+    },
+    {
       "source": "article:https://www.marktechpost.com/2026/07/25/sakana-ai-releases-fugu-cyber-orchestration-model-cybergym-cti-realm/",
       "target": "source:marktechpost",
       "weight": 1
     },
     {
-      "source": "article:https://www.marktechpost.com/2026/07/25/sakana-ai-releases-fugu-cyber-orchestration-model-cybergym-cti-realm/",
+      "source": "article:https://www.marktechpost.com/2026/07/25/meet-open-dreamer-a-jax-flax-reproduction-of-the-dreamer-4-world-model-pipeline-with-the-full-training-recipe-published/",
       "target": "category:industry",
       "weight": 1
     },
@@ -4816,7 +4821,7 @@
       "weight": 1
     },
     {
-      "source": "article:https://www.marktechpost.com/2026/07/25/meet-open-dreamer-a-jax-flax-reproduction-of-the-dreamer-4-world-model-pipeline-with-the-full-training-recipe-published/",
+      "source": "article:https://www.marktechpost.com/2026/07/25/designing-high-performance-gpu-kernels-with-tilelang-tensor-core-gemm-fused-softmax-flashattention-and-autotuning/",
       "target": "category:industry",
       "weight": 1
     },
@@ -4826,7 +4831,7 @@
       "weight": 1
     },
     {
-      "source": "article:https://www.marktechpost.com/2026/07/25/designing-high-performance-gpu-kernels-with-tilelang-tensor-core-gemm-fused-softmax-flashattention-and-autotuning/",
+      "source": "article:https://www.marktechpost.com/2026/07/25/why-the-openai-agent-broke-into-hugging-face-reward-hacking-not-malice-explained-for-engineers/",
       "target": "category:industry",
       "weight": 1
     },
@@ -4836,7 +4841,7 @@
       "weight": 1
     },
     {
-      "source": "article:https://www.marktechpost.com/2026/07/25/why-the-openai-agent-broke-into-hugging-face-reward-hacking-not-malice-explained-for-engineers/",
+      "source": "article:https://www.marktechpost.com/2026/07/25/building-self-evolving-ai-agents-with-openspace-using-skills-mcp-lineage-and-low-cost-reuse/",
       "target": "category:industry",
       "weight": 1
     },
@@ -4846,22 +4851,12 @@
       "weight": 1
     },
     {
-      "source": "article:https://www.marktechpost.com/2026/07/25/building-self-evolving-ai-agents-with-openspace-using-skills-mcp-lineage-and-low-cost-reuse/",
-      "target": "category:industry",
-      "weight": 1
-    },
-    {
-      "source": "article:https://www.techspot.com/news/113236-us-prosecutors-charge-atlanta-man-after-grapheneos-phone.html",
-      "target": "source:hn_top_ai_24h",
-      "weight": 1
-    },
-    {
       "source": "article:https://www.techspot.com/news/113236-us-prosecutors-charge-atlanta-man-after-grapheneos-phone.html",
       "target": "category:trending",
       "weight": 1
     },
     {
-      "source": "article:https://aerospaceglobalnews.com/news/gatwick-airport-robotic-parking-stanley-robotics/",
+      "source": "article:https://www.techspot.com/news/113236-us-prosecutors-charge-atlanta-man-after-grapheneos-phone.html",
       "target": "source:hn_top_ai_24h",
       "weight": 1
     },
@@ -4871,7 +4866,7 @@
       "weight": 1
     },
     {
-      "source": "article:https://www.rickmanelius.com/p/the-new-ai-superpowers-focus-and",
+      "source": "article:https://aerospaceglobalnews.com/news/gatwick-airport-robotic-parking-stanley-robotics/",
       "target": "source:hn_top_ai_24h",
       "weight": 1
     },
@@ -4881,8 +4876,8 @@
       "weight": 1
     },
     {
-      "source": "article:https://github.com/ollama/ollama/releases/tag/v0.32.5-rc0",
-      "target": "category:releases",
+      "source": "article:https://www.rickmanelius.com/p/the-new-ai-superpowers-focus-and",
+      "target": "source:hn_top_ai_24h",
       "weight": 1
     },
     {
@@ -4891,8 +4886,8 @@
       "weight": 1
     },
     {
-      "source": "article:https://teorth.github.io/tao-web/slides/age-of-ai-icm-2026.pdf",
-      "target": "source:hn_top_ai_24h",
+      "source": "article:https://github.com/ollama/ollama/releases/tag/v0.32.5-rc0",
+      "target": "category:releases",
       "weight": 1
     },
     {
@@ -4901,8 +4896,8 @@
       "weight": 1
     },
     {
-      "source": "article:https://importai.substack.com/p/import-ai-458-reckoning-with-the",
-      "target": "category:newsletters",
+      "source": "article:https://teorth.github.io/tao-web/slides/age-of-ai-icm-2026.pdf",
+      "target": "source:hn_top_ai_24h",
       "weight": 1
     },
     {
@@ -4911,6 +4906,11 @@
       "weight": 1
     },
     {
+      "source": "article:https://importai.substack.com/p/import-ai-458-reckoning-with-the",
+      "target": "category:newsletters",
+      "weight": 1
+    },
+    {
       "source": "article:https://github.com/ggml-org/llama.cpp/releases/tag/b10142",
       "target": "category:releases",
       "weight": 1
@@ -5098,6 +5098,11 @@
     {
       "source": "article:https://arxiv.org/abs/2607.22067",
       "target": "category:research",
+      "weight": 1
+    },
+    {
+      "source": "article:https://andys.blog/this-july-i-was-fired-from-simple-ai/",
+      "target": "category:trending",
       "weight": 1
     },
     {
@@ -5106,18 +5111,13 @@
       "weight": 1
     },
     {
-      "source": "article:https://andys.blog/this-july-i-was-fired-from-simple-ai/",
+      "source": "article:https://www.agrillo.it/EvasionEn.html",
       "target": "category:trending",
       "weight": 1
     },
     {
       "source": "article:https://www.agrillo.it/EvasionEn.html",
       "target": "source:hn_top_llm_24h",
-      "weight": 1
-    },
-    {
-      "source": "article:https://www.agrillo.it/EvasionEn.html",
-      "target": "category:trending",
       "weight": 1
     },
     {
@@ -5192,16 +5192,11 @@
     },
     {
       "source": "article:https://twitter.com/HedgieMarkets/status/2081534588485296565",
-      "target": "source:hn_top_ai_24h",
+      "target": "category:trending",
       "weight": 1
     },
     {
       "source": "article:https://twitter.com/HedgieMarkets/status/2081534588485296565",
-      "target": "category:trending",
-      "weight": 1
-    },
-    {
-      "source": "article:https://www.ft.com/content/d8a5f95e-3b6d-463a-a848-c9ef8e2394db",
       "target": "source:hn_top_ai_24h",
       "weight": 1
     },
@@ -5211,7 +5206,7 @@
       "weight": 1
     },
     {
-      "source": "article:https://www.macrumors.com/2026/07/27/ed-zitron-apple-watch-it-burn-ai-bubble-bursts/",
+      "source": "article:https://www.ft.com/content/d8a5f95e-3b6d-463a-a848-c9ef8e2394db",
       "target": "source:hn_top_ai_24h",
       "weight": 1
     },
@@ -5221,7 +5216,7 @@
       "weight": 1
     },
     {
-      "source": "article:https://microsoft.ai/news/introducing-mai-cyber-1-flash-inside-mdash/",
+      "source": "article:https://www.macrumors.com/2026/07/27/ed-zitron-apple-watch-it-burn-ai-bubble-bursts/",
       "target": "source:hn_top_ai_24h",
       "weight": 1
     },
@@ -5231,8 +5226,8 @@
       "weight": 1
     },
     {
-      "source": "article:https://github.com/ollama/ollama/releases/tag/v0.32.5",
-      "target": "category:releases",
+      "source": "article:https://microsoft.ai/news/introducing-mai-cyber-1-flash-inside-mdash/",
+      "target": "source:hn_top_ai_24h",
       "weight": 1
     },
     {
@@ -5241,8 +5236,8 @@
       "weight": 1
     },
     {
-      "source": "article:https://importai.substack.com/p/import-ai-466-the-bitter-lesson-for",
-      "target": "category:newsletters",
+      "source": "article:https://github.com/ollama/ollama/releases/tag/v0.32.5",
+      "target": "category:releases",
       "weight": 1
     },
     {
@@ -5251,6 +5246,11 @@
       "weight": 1
     },
     {
+      "source": "article:https://importai.substack.com/p/import-ai-466-the-bitter-lesson-for",
+      "target": "category:newsletters",
+      "weight": 1
+    },
+    {
       "source": "article:https://github.com/ggml-org/llama.cpp/releases/tag/b10156",
       "target": "category:releases",
       "weight": 1
@@ -5302,16 +5302,11 @@
     },
     {
       "source": "article:https://usefeyn.com/blog/feynobg/",
-      "target": "source:hn_top_ai_24h",
+      "target": "category:trending",
       "weight": 1
     },
     {
       "source": "article:https://usefeyn.com/blog/feynobg/",
-      "target": "category:trending",
-      "weight": 1
-    },
-    {
-      "source": "article:https://www.techspot.com/news/113243-professor-invisible-prompt-trap-catches-32-students-cheating.html",
       "target": "source:hn_top_ai_24h",
       "weight": 1
     },
@@ -5321,13 +5316,18 @@
       "weight": 1
     },
     {
-      "source": "article:https://www.bloomberg.com/news/articles/2026-07-27/nvidia-s-750-billion-deals-revive-fear-of-ai-circular-financing",
+      "source": "article:https://www.techspot.com/news/113243-professor-invisible-prompt-trap-catches-32-students-cheating.html",
       "target": "source:hn_top_ai_24h",
       "weight": 1
     },
     {
       "source": "article:https://www.bloomberg.com/news/articles/2026-07-27/nvidia-s-750-billion-deals-revive-fear-of-ai-circular-financing",
       "target": "category:trending",
+      "weight": 1
+    },
+    {
+      "source": "article:https://www.bloomberg.com/news/articles/2026-07-27/nvidia-s-750-billion-deals-revive-fear-of-ai-circular-financing",
+      "target": "source:hn_top_ai_24h",
       "weight": 1
     },
     {
@@ -5448,16 +5448,6 @@
     {
       "source": "article:https://arxiv.org/abs/2607.23037",
       "target": "category:research",
-      "weight": 1
-    },
-    {
-      "source": "article:https://openai.com/index/scientific-computing-agentic-ai",
-      "target": "genomics",
-      "weight": 1
-    },
-    {
-      "source": "article:https://openai.com/index/scientific-computing-agentic-ai",
-      "target": "source:openai_blog",
       "weight": 1
     },
     {
@@ -5467,17 +5457,47 @@
     },
     {
       "source": "article:https://openai.com/index/scientific-computing-agentic-ai",
+      "target": "genomics",
+      "weight": 1
+    },
+    {
+      "source": "article:https://openai.com/index/scientific-computing-agentic-ai",
+      "target": "software development",
+      "weight": 1
+    },
+    {
+      "source": "article:https://openai.com/index/scientific-computing-agentic-ai",
+      "target": "report",
+      "weight": 1
+    },
+    {
+      "source": "article:https://openai.com/index/scientific-computing-agentic-ai",
       "target": "category:ai_labs",
       "weight": 1
     },
     {
       "source": "article:https://openai.com/index/scientific-computing-agentic-ai",
-      "target": "scientific computing",
+      "target": "agentic",
+      "weight": 1
+    },
+    {
+      "source": "article:https://openai.com/index/scientific-computing-agentic-ai",
+      "target": "source:openai_blog",
+      "weight": 1
+    },
+    {
+      "source": "article:https://openai.com/index/scientific-computing-agentic-ai",
+      "target": "ai coding agents",
       "weight": 1
     },
     {
       "source": "article:https://openai.com/index/scientific-computing-agentic-ai",
       "target": "modernization",
+      "weight": 1
+    },
+    {
+      "source": "article:https://openai.com/index/scientific-computing-agentic-ai",
+      "target": "scientific computing",
       "weight": 1
     },
     {
@@ -5491,43 +5511,33 @@
       "weight": 1
     },
     {
-      "source": "article:https://openai.com/index/scientific-computing-agentic-ai",
-      "target": "agentic",
-      "weight": 1
-    },
-    {
-      "source": "article:https://openai.com/index/scientific-computing-agentic-ai",
-      "target": "software development",
-      "weight": 1
-    },
-    {
-      "source": "article:https://openai.com/index/scientific-computing-agentic-ai",
-      "target": "ai coding agents",
-      "weight": 1
-    },
-    {
-      "source": "article:https://openai.com/index/scientific-computing-agentic-ai",
-      "target": "report",
-      "weight": 1
-    },
-    {
       "source": "article:https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api-3-6-flash-hooks/",
       "target": "reliability",
       "weight": 1
     },
     {
       "source": "article:https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api-3-6-flash-hooks/",
-      "target": "source:google_ai_blog",
-      "weight": 1
-    },
-    {
-      "source": "article:https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api-3-6-flash-hooks/",
-      "target": "category:ai_labs",
+      "target": "api",
       "weight": 1
     },
     {
       "source": "article:https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api-3-6-flash-hooks/",
       "target": "agents",
+      "weight": 1
+    },
+    {
+      "source": "article:https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api-3-6-flash-hooks/",
+      "target": "production readiness",
+      "weight": 1
+    },
+    {
+      "source": "article:https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api-3-6-flash-hooks/",
+      "target": "managed",
+      "weight": 1
+    },
+    {
+      "source": "article:https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api-3-6-flash-hooks/",
+      "target": "category:ai_labs",
       "weight": 1
     },
     {
@@ -5542,22 +5552,12 @@
     },
     {
       "source": "article:https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api-3-6-flash-hooks/",
-      "target": "managed agents",
-      "weight": 1
-    },
-    {
-      "source": "article:https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api-3-6-flash-hooks/",
-      "target": "api",
-      "weight": 1
-    },
-    {
-      "source": "article:https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api-3-6-flash-hooks/",
       "target": "hooks",
       "weight": 1
     },
     {
       "source": "article:https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api-3-6-flash-hooks/",
-      "target": "production readiness",
+      "target": "source:google_ai_blog",
       "weight": 1
     },
     {
@@ -5567,27 +5567,7 @@
     },
     {
       "source": "article:https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api-3-6-flash-hooks/",
-      "target": "managed",
-      "weight": 1
-    },
-    {
-      "source": "article:https://blog.google/products-and-platforms/products/search/ai-mode-real-world-tips/",
-      "target": "source:google_ai_blog",
-      "weight": 1
-    },
-    {
-      "source": "article:https://blog.google/products-and-platforms/products/search/ai-mode-real-world-tips/",
-      "target": "ai mode",
-      "weight": 1
-    },
-    {
-      "source": "article:https://blog.google/products-and-platforms/products/search/ai-mode-real-world-tips/",
-      "target": "category:ai_labs",
-      "weight": 1
-    },
-    {
-      "source": "article:https://blog.google/products-and-platforms/products/search/ai-mode-real-world-tips/",
-      "target": "offline",
+      "target": "managed agents",
       "weight": 1
     },
     {
@@ -5597,27 +5577,7 @@
     },
     {
       "source": "article:https://blog.google/products-and-platforms/products/search/ai-mode-real-world-tips/",
-      "target": "real",
-      "weight": 1
-    },
-    {
-      "source": "article:https://blog.google/products-and-platforms/products/search/ai-mode-real-world-tips/",
-      "target": "search",
-      "weight": 1
-    },
-    {
-      "source": "article:https://blog.google/products-and-platforms/products/search/ai-mode-real-world-tips/",
-      "target": "helps",
-      "weight": 1
-    },
-    {
-      "source": "article:https://blog.google/products-and-platforms/products/search/ai-mode-real-world-tips/",
-      "target": "concert tickets",
-      "weight": 1
-    },
-    {
-      "source": "article:https://blog.google/products-and-platforms/products/search/ai-mode-real-world-tips/",
-      "target": "mode",
+      "target": "category:ai_labs",
       "weight": 1
     },
     {
@@ -5627,57 +5587,47 @@
     },
     {
       "source": "article:https://blog.google/products-and-platforms/products/search/ai-mode-real-world-tips/",
+      "target": "helps",
+      "weight": 1
+    },
+    {
+      "source": "article:https://blog.google/products-and-platforms/products/search/ai-mode-real-world-tips/",
+      "target": "mode",
+      "weight": 1
+    },
+    {
+      "source": "article:https://blog.google/products-and-platforms/products/search/ai-mode-real-world-tips/",
+      "target": "concert tickets",
+      "weight": 1
+    },
+    {
+      "source": "article:https://blog.google/products-and-platforms/products/search/ai-mode-real-world-tips/",
       "target": "booking",
       "weight": 1
     },
     {
-      "source": "article:https://blog.google/products-and-platforms/products/search/dinner-party-hosting-tips/",
-      "target": "host",
+      "source": "article:https://blog.google/products-and-platforms/products/search/ai-mode-real-world-tips/",
+      "target": "search",
       "weight": 1
     },
     {
-      "source": "article:https://blog.google/products-and-platforms/products/search/dinner-party-hosting-tips/",
-      "target": "ultimate",
-      "weight": 1
-    },
-    {
-      "source": "article:https://blog.google/products-and-platforms/products/search/dinner-party-hosting-tips/",
+      "source": "article:https://blog.google/products-and-platforms/products/search/ai-mode-real-world-tips/",
       "target": "source:google_ai_blog",
       "weight": 1
     },
     {
-      "source": "article:https://blog.google/products-and-platforms/products/search/dinner-party-hosting-tips/",
-      "target": "google search",
+      "source": "article:https://blog.google/products-and-platforms/products/search/ai-mode-real-world-tips/",
+      "target": "real",
       "weight": 1
     },
     {
-      "source": "article:https://blog.google/products-and-platforms/products/search/dinner-party-hosting-tips/",
-      "target": "category:ai_labs",
+      "source": "article:https://blog.google/products-and-platforms/products/search/ai-mode-real-world-tips/",
+      "target": "offline",
       "weight": 1
     },
     {
-      "source": "article:https://blog.google/products-and-platforms/products/search/dinner-party-hosting-tips/",
-      "target": "dinner party",
-      "weight": 1
-    },
-    {
-      "source": "article:https://blog.google/products-and-platforms/products/search/dinner-party-hosting-tips/",
-      "target": "dinner",
-      "weight": 1
-    },
-    {
-      "source": "article:https://blog.google/products-and-platforms/products/search/dinner-party-hosting-tips/",
-      "target": "dinner_parties",
-      "weight": 1
-    },
-    {
-      "source": "article:https://blog.google/products-and-platforms/products/search/dinner-party-hosting-tips/",
-      "target": "party",
-      "weight": 1
-    },
-    {
-      "source": "article:https://blog.google/products-and-platforms/products/search/dinner-party-hosting-tips/",
-      "target": "menu",
+      "source": "article:https://blog.google/products-and-platforms/products/search/ai-mode-real-world-tips/",
+      "target": "ai mode",
       "weight": 1
     },
     {
@@ -5687,32 +5637,57 @@
     },
     {
       "source": "article:https://blog.google/products-and-platforms/products/search/dinner-party-hosting-tips/",
-      "target": "tablescape",
-      "weight": 1
-    },
-    {
-      "source": "article:https://blog.google/innovation-and-ai/technology/ai/io-2026-vibe-coded-quiz/",
-      "target": "quiz",
-      "weight": 1
-    },
-    {
-      "source": "article:https://blog.google/innovation-and-ai/technology/ai/io-2026-vibe-coded-quiz/",
-      "target": "google",
-      "weight": 1
-    },
-    {
-      "source": "article:https://blog.google/innovation-and-ai/technology/ai/io-2026-vibe-coded-quiz/",
-      "target": "source:google_ai_blog",
-      "weight": 1
-    },
-    {
-      "source": "article:https://blog.google/innovation-and-ai/technology/ai/io-2026-vibe-coded-quiz/",
       "target": "category:ai_labs",
       "weight": 1
     },
     {
-      "source": "article:https://blog.google/innovation-and-ai/technology/ai/io-2026-vibe-coded-quiz/",
-      "target": "studio",
+      "source": "article:https://blog.google/products-and-platforms/products/search/dinner-party-hosting-tips/",
+      "target": "menu",
+      "weight": 1
+    },
+    {
+      "source": "article:https://blog.google/products-and-platforms/products/search/dinner-party-hosting-tips/",
+      "target": "host",
+      "weight": 1
+    },
+    {
+      "source": "article:https://blog.google/products-and-platforms/products/search/dinner-party-hosting-tips/",
+      "target": "tablescape",
+      "weight": 1
+    },
+    {
+      "source": "article:https://blog.google/products-and-platforms/products/search/dinner-party-hosting-tips/",
+      "target": "dinner_parties",
+      "weight": 1
+    },
+    {
+      "source": "article:https://blog.google/products-and-platforms/products/search/dinner-party-hosting-tips/",
+      "target": "google search",
+      "weight": 1
+    },
+    {
+      "source": "article:https://blog.google/products-and-platforms/products/search/dinner-party-hosting-tips/",
+      "target": "source:google_ai_blog",
+      "weight": 1
+    },
+    {
+      "source": "article:https://blog.google/products-and-platforms/products/search/dinner-party-hosting-tips/",
+      "target": "ultimate",
+      "weight": 1
+    },
+    {
+      "source": "article:https://blog.google/products-and-platforms/products/search/dinner-party-hosting-tips/",
+      "target": "dinner party",
+      "weight": 1
+    },
+    {
+      "source": "article:https://blog.google/products-and-platforms/products/search/dinner-party-hosting-tips/",
+      "target": "party",
+      "weight": 1
+    },
+    {
+      "source": "article:https://blog.google/products-and-platforms/products/search/dinner-party-hosting-tips/",
+      "target": "dinner",
       "weight": 1
     },
     {
@@ -5727,12 +5702,57 @@
     },
     {
       "source": "article:https://blog.google/innovation-and-ai/technology/ai/io-2026-vibe-coded-quiz/",
-      "target": "google ai studio",
+      "target": "google",
+      "weight": 1
+    },
+    {
+      "source": "article:https://blog.google/innovation-and-ai/technology/ai/io-2026-vibe-coded-quiz/",
+      "target": "studio",
       "weight": 1
     },
     {
       "source": "article:https://blog.google/innovation-and-ai/technology/ai/io-2026-vibe-coded-quiz/",
       "target": "vibe",
+      "weight": 1
+    },
+    {
+      "source": "article:https://blog.google/innovation-and-ai/technology/ai/io-2026-vibe-coded-quiz/",
+      "target": "quiz",
+      "weight": 1
+    },
+    {
+      "source": "article:https://blog.google/innovation-and-ai/technology/ai/io-2026-vibe-coded-quiz/",
+      "target": "category:ai_labs",
+      "weight": 1
+    },
+    {
+      "source": "article:https://blog.google/innovation-and-ai/technology/ai/io-2026-vibe-coded-quiz/",
+      "target": "google ai studio",
+      "weight": 1
+    },
+    {
+      "source": "article:https://blog.google/innovation-and-ai/technology/ai/io-2026-vibe-coded-quiz/",
+      "target": "source:google_ai_blog",
+      "weight": 1
+    },
+    {
+      "source": "article:https://huggingface.co/blog/agent-intrusion-technical-timeline",
+      "target": "lab",
+      "weight": 1
+    },
+    {
+      "source": "article:https://huggingface.co/blog/agent-intrusion-technical-timeline",
+      "target": "intrusion",
+      "weight": 1
+    },
+    {
+      "source": "article:https://huggingface.co/blog/agent-intrusion-technical-timeline",
+      "target": "technical timeline",
+      "weight": 1
+    },
+    {
+      "source": "article:https://huggingface.co/blog/agent-intrusion-technical-timeline",
+      "target": "frontier",
       "weight": 1
     },
     {
@@ -5747,17 +5767,7 @@
     },
     {
       "source": "article:https://huggingface.co/blog/agent-intrusion-technical-timeline",
-      "target": "july 2026 incident",
-      "weight": 1
-    },
-    {
-      "source": "article:https://huggingface.co/blog/agent-intrusion-technical-timeline",
-      "target": "technical timeline",
-      "weight": 1
-    },
-    {
-      "source": "article:https://huggingface.co/blog/agent-intrusion-technical-timeline",
-      "target": "lab",
+      "target": "frontier lab",
       "weight": 1
     },
     {
@@ -5767,57 +5777,17 @@
     },
     {
       "source": "article:https://huggingface.co/blog/agent-intrusion-technical-timeline",
+      "target": "july 2026 incident",
+      "weight": 1
+    },
+    {
+      "source": "article:https://huggingface.co/blog/agent-intrusion-technical-timeline",
       "target": "anatomy",
       "weight": 1
     },
     {
       "source": "article:https://huggingface.co/blog/agent-intrusion-technical-timeline",
-      "target": "intrusion",
-      "weight": 1
-    },
-    {
-      "source": "article:https://huggingface.co/blog/agent-intrusion-technical-timeline",
       "target": "agent intrusion",
-      "weight": 1
-    },
-    {
-      "source": "article:https://huggingface.co/blog/agent-intrusion-technical-timeline",
-      "target": "frontier",
-      "weight": 1
-    },
-    {
-      "source": "article:https://huggingface.co/blog/agent-intrusion-technical-timeline",
-      "target": "frontier lab",
-      "weight": 1
-    },
-    {
-      "source": "article:https://cacm.acm.org/opinion/now-is-the-time-to-give-llms-access-to-the-acm-digital-library/",
-      "target": "acm digital library",
-      "weight": 1
-    },
-    {
-      "source": "article:https://cacm.acm.org/opinion/now-is-the-time-to-give-llms-access-to-the-acm-digital-library/",
-      "target": "acm",
-      "weight": 1
-    },
-    {
-      "source": "article:https://cacm.acm.org/opinion/now-is-the-time-to-give-llms-access-to-the-acm-digital-library/",
-      "target": "llms",
-      "weight": 1
-    },
-    {
-      "source": "article:https://cacm.acm.org/opinion/now-is-the-time-to-give-llms-access-to-the-acm-digital-library/",
-      "target": "now",
-      "weight": 1
-    },
-    {
-      "source": "article:https://cacm.acm.org/opinion/now-is-the-time-to-give-llms-access-to-the-acm-digital-library/",
-      "target": "access",
-      "weight": 1
-    },
-    {
-      "source": "article:https://cacm.acm.org/opinion/now-is-the-time-to-give-llms-access-to-the-acm-digital-library/",
-      "target": "library",
       "weight": 1
     },
     {
@@ -5827,7 +5797,37 @@
     },
     {
       "source": "article:https://cacm.acm.org/opinion/now-is-the-time-to-give-llms-access-to-the-acm-digital-library/",
+      "target": "library",
+      "weight": 1
+    },
+    {
+      "source": "article:https://cacm.acm.org/opinion/now-is-the-time-to-give-llms-access-to-the-acm-digital-library/",
+      "target": "llms",
+      "weight": 1
+    },
+    {
+      "source": "article:https://cacm.acm.org/opinion/now-is-the-time-to-give-llms-access-to-the-acm-digital-library/",
+      "target": "acm digital library",
+      "weight": 1
+    },
+    {
+      "source": "article:https://cacm.acm.org/opinion/now-is-the-time-to-give-llms-access-to-the-acm-digital-library/",
+      "target": "now",
+      "weight": 1
+    },
+    {
+      "source": "article:https://cacm.acm.org/opinion/now-is-the-time-to-give-llms-access-to-the-acm-digital-library/",
       "target": "digital",
+      "weight": 1
+    },
+    {
+      "source": "article:https://cacm.acm.org/opinion/now-is-the-time-to-give-llms-access-to-the-acm-digital-library/",
+      "target": "acm",
+      "weight": 1
+    },
+    {
+      "source": "article:https://cacm.acm.org/opinion/now-is-the-time-to-give-llms-access-to-the-acm-digital-library/",
+      "target": "access",
       "weight": 1
     },
     {
@@ -5842,17 +5842,12 @@
     },
     {
       "source": "article:https://spawn-queue.acm.org/doi/10.1145/3819083",
-      "target": "ai era",
+      "target": "era",
       "weight": 1
     },
     {
       "source": "article:https://spawn-queue.acm.org/doi/10.1145/3819083",
-      "target": "zero",
-      "weight": 1
-    },
-    {
-      "source": "article:https://spawn-queue.acm.org/doi/10.1145/3819083",
-      "target": "source:hn_top_ai_24h",
+      "target": "enterprise",
       "weight": 1
     },
     {
@@ -5862,12 +5857,12 @@
     },
     {
       "source": "article:https://spawn-queue.acm.org/doi/10.1145/3819083",
-      "target": "category:trending",
+      "target": "ai era",
       "weight": 1
     },
     {
       "source": "article:https://spawn-queue.acm.org/doi/10.1145/3819083",
-      "target": "beyond zero",
+      "target": "category:trending",
       "weight": 1
     },
     {
@@ -5882,22 +5877,42 @@
     },
     {
       "source": "article:https://spawn-queue.acm.org/doi/10.1145/3819083",
-      "target": "enterprise",
+      "target": "zero",
       "weight": 1
     },
     {
       "source": "article:https://spawn-queue.acm.org/doi/10.1145/3819083",
-      "target": "era",
+      "target": "beyond zero",
       "weight": 1
     },
     {
-      "source": "article:https://learnvector.ai/",
+      "source": "article:https://spawn-queue.acm.org/doi/10.1145/3819083",
       "target": "source:hn_top_ai_24h",
       "weight": 1
     },
     {
       "source": "article:https://learnvector.ai/",
-      "target": "learnvector",
+      "target": "category:trending",
+      "weight": 1
+    },
+    {
+      "source": "article:https://learnvector.ai/",
+      "target": "learning",
+      "weight": 1
+    },
+    {
+      "source": "article:https://learnvector.ai/",
+      "target": "one-to-one",
+      "weight": 1
+    },
+    {
+      "source": "article:https://learnvector.ai/",
+      "target": "one",
+      "weight": 1
+    },
+    {
+      "source": "article:https://learnvector.ai/",
+      "target": "source:hn_top_ai_24h",
       "weight": 1
     },
     {
@@ -5912,27 +5927,27 @@
     },
     {
       "source": "article:https://learnvector.ai/",
-      "target": "learning",
-      "weight": 1
-    },
-    {
-      "source": "article:https://learnvector.ai/",
-      "target": "category:trending",
-      "weight": 1
-    },
-    {
-      "source": "article:https://learnvector.ai/",
-      "target": "one",
-      "weight": 1
-    },
-    {
-      "source": "article:https://learnvector.ai/",
-      "target": "one-to-one",
+      "target": "learnvector",
       "weight": 1
     },
     {
       "source": "article:https://github.com/schildep/verified-3d-mesh-intersection",
-      "target": "formal verification",
+      "target": "ai code",
+      "weight": 1
+    },
+    {
+      "source": "article:https://github.com/schildep/verified-3d-mesh-intersection",
+      "target": "category:trending",
+      "weight": 1
+    },
+    {
+      "source": "article:https://github.com/schildep/verified-3d-mesh-intersection",
+      "target": "verified",
+      "weight": 1
+    },
+    {
+      "source": "article:https://github.com/schildep/verified-3d-mesh-intersection",
+      "target": "formally",
       "weight": 1
     },
     {
@@ -5947,7 +5962,12 @@
     },
     {
       "source": "article:https://github.com/schildep/verified-3d-mesh-intersection",
-      "target": "formally",
+      "target": "lines",
+      "weight": 1
+    },
+    {
+      "source": "article:https://github.com/schildep/verified-3d-mesh-intersection",
+      "target": "formal verification",
       "weight": 1
     },
     {
@@ -5957,37 +5977,7 @@
     },
     {
       "source": "article:https://github.com/schildep/verified-3d-mesh-intersection",
-      "target": "category:trending",
-      "weight": 1
-    },
-    {
-      "source": "article:https://github.com/schildep/verified-3d-mesh-intersection",
-      "target": "lines",
-      "weight": 1
-    },
-    {
-      "source": "article:https://github.com/schildep/verified-3d-mesh-intersection",
-      "target": "ai code",
-      "weight": 1
-    },
-    {
-      "source": "article:https://github.com/schildep/verified-3d-mesh-intersection",
       "target": "csg",
-      "weight": 1
-    },
-    {
-      "source": "article:https://github.com/schildep/verified-3d-mesh-intersection",
-      "target": "verified",
-      "weight": 1
-    },
-    {
-      "source": "article:https://www.latent.space/p/ainews-fearing-rsi-openai-anthropic",
-      "target": "fearing",
-      "weight": 1
-    },
-    {
-      "source": "article:https://www.latent.space/p/ainews-fearing-rsi-openai-anthropic",
-      "target": "anthropic",
       "weight": 1
     },
     {
@@ -6002,17 +5992,22 @@
     },
     {
       "source": "article:https://www.latent.space/p/ainews-fearing-rsi-openai-anthropic",
+      "target": "offensive",
+      "weight": 1
+    },
+    {
+      "source": "article:https://www.latent.space/p/ainews-fearing-rsi-openai-anthropic",
       "target": "cyberattack",
       "weight": 1
     },
     {
       "source": "article:https://www.latent.space/p/ainews-fearing-rsi-openai-anthropic",
-      "target": "thinky",
+      "target": "anthropic",
       "weight": 1
     },
     {
       "source": "article:https://www.latent.space/p/ainews-fearing-rsi-openai-anthropic",
-      "target": "machine-speed",
+      "target": "source:latent_space_(substack)",
       "weight": 1
     },
     {
@@ -6022,12 +6017,7 @@
     },
     {
       "source": "article:https://www.latent.space/p/ainews-fearing-rsi-openai-anthropic",
-      "target": "offensive",
-      "weight": 1
-    },
-    {
-      "source": "article:https://www.latent.space/p/ainews-fearing-rsi-openai-anthropic",
-      "target": "source:latent_space_(substack)",
+      "target": "machine-speed",
       "weight": 1
     },
     {
@@ -6042,27 +6032,17 @@
     },
     {
       "source": "article:https://www.latent.space/p/ainews-fearing-rsi-openai-anthropic",
+      "target": "fearing",
+      "weight": 1
+    },
+    {
+      "source": "article:https://www.latent.space/p/ainews-fearing-rsi-openai-anthropic",
       "target": "openai",
       "weight": 1
     },
     {
-      "source": "article:https://www.latent.space/p/chatgpt-work",
-      "target": "subagents",
-      "weight": 1
-    },
-    {
-      "source": "article:https://www.latent.space/p/chatgpt-work",
-      "target": "work",
-      "weight": 1
-    },
-    {
-      "source": "article:https://www.latent.space/p/chatgpt-work",
-      "target": "agi",
-      "weight": 1
-    },
-    {
-      "source": "article:https://www.latent.space/p/chatgpt-work",
-      "target": "chatgpt",
+      "source": "article:https://www.latent.space/p/ainews-fearing-rsi-openai-anthropic",
+      "target": "thinky",
       "weight": 1
     },
     {
@@ -6072,12 +6052,17 @@
     },
     {
       "source": "article:https://www.latent.space/p/chatgpt-work",
+      "target": "work",
+      "weight": 1
+    },
+    {
+      "source": "article:https://www.latent.space/p/chatgpt-work",
       "target": "building",
       "weight": 1
     },
     {
       "source": "article:https://www.latent.space/p/chatgpt-work",
-      "target": "openai",
+      "target": "chatgpt",
       "weight": 1
     },
     {
@@ -6088,6 +6073,21 @@
     {
       "source": "article:https://www.latent.space/p/chatgpt-work",
       "target": "category:newsletters",
+      "weight": 1
+    },
+    {
+      "source": "article:https://www.latent.space/p/chatgpt-work",
+      "target": "subagents",
+      "weight": 1
+    },
+    {
+      "source": "article:https://www.latent.space/p/chatgpt-work",
+      "target": "openai",
+      "weight": 1
+    },
+    {
+      "source": "article:https://www.latent.space/p/chatgpt-work",
+      "target": "agi",
       "weight": 1
     },
     {
@@ -6102,22 +6102,12 @@
     },
     {
       "source": "article:https://www.latent.space/p/ainews-much-ado-about-open-weights",
-      "target": "ado",
-      "weight": 1
-    },
-    {
-      "source": "article:https://www.latent.space/p/ainews-much-ado-about-open-weights",
-      "target": "shipping",
-      "weight": 1
-    },
-    {
-      "source": "article:https://www.latent.space/p/ainews-much-ado-about-open-weights",
       "target": "kimi k3",
       "weight": 1
     },
     {
       "source": "article:https://www.latent.space/p/ainews-much-ado-about-open-weights",
-      "target": "much",
+      "target": "writing",
       "weight": 1
     },
     {
@@ -6127,12 +6117,12 @@
     },
     {
       "source": "article:https://www.latent.space/p/ainews-much-ado-about-open-weights",
-      "target": "source:latent_space_(substack)",
+      "target": "much",
       "weight": 1
     },
     {
       "source": "article:https://www.latent.space/p/ainews-much-ado-about-open-weights",
-      "target": "category:newsletters",
+      "target": "ado",
       "weight": 1
     },
     {
@@ -6142,22 +6132,17 @@
     },
     {
       "source": "article:https://www.latent.space/p/ainews-much-ado-about-open-weights",
-      "target": "writing",
+      "target": "source:latent_space_(substack)",
       "weight": 1
     },
     {
-      "source": "article:https://github.com/ggml-org/llama.cpp/releases/tag/b10173",
-      "target": "model",
+      "source": "article:https://www.latent.space/p/ainews-much-ado-about-open-weights",
+      "target": "shipping",
       "weight": 1
     },
     {
-      "source": "article:https://github.com/ggml-org/llama.cpp/releases/tag/b10173",
-      "target": "llama",
-      "weight": 1
-    },
-    {
-      "source": "article:https://github.com/ggml-org/llama.cpp/releases/tag/b10173",
-      "target": "cpp",
+      "source": "article:https://www.latent.space/p/ainews-much-ado-about-open-weights",
+      "target": "category:newsletters",
       "weight": 1
     },
     {
@@ -6167,22 +6152,7 @@
     },
     {
       "source": "article:https://github.com/ggml-org/llama.cpp/releases/tag/b10173",
-      "target": "release",
-      "weight": 1
-    },
-    {
-      "source": "article:https://github.com/ggml-org/llama.cpp/releases/tag/b10173",
-      "target": "macos",
-      "weight": 1
-    },
-    {
-      "source": "article:https://github.com/ggml-org/llama.cpp/releases/tag/b10173",
-      "target": "silicon",
-      "weight": 1
-    },
-    {
-      "source": "article:https://github.com/ggml-org/llama.cpp/releases/tag/b10173",
-      "target": "apple",
+      "target": "model",
       "weight": 1
     },
     {
@@ -6192,7 +6162,27 @@
     },
     {
       "source": "article:https://github.com/ggml-org/llama.cpp/releases/tag/b10173",
+      "target": "silicon",
+      "weight": 1
+    },
+    {
+      "source": "article:https://github.com/ggml-org/llama.cpp/releases/tag/b10173",
+      "target": "cpp",
+      "weight": 1
+    },
+    {
+      "source": "article:https://github.com/ggml-org/llama.cpp/releases/tag/b10173",
       "target": "category:releases",
+      "weight": 1
+    },
+    {
+      "source": "article:https://github.com/ggml-org/llama.cpp/releases/tag/b10173",
+      "target": "llama",
+      "weight": 1
+    },
+    {
+      "source": "article:https://github.com/ggml-org/llama.cpp/releases/tag/b10173",
+      "target": "release",
       "weight": 1
     },
     {
@@ -6201,13 +6191,13 @@
       "weight": 1
     },
     {
-      "source": "article:https://github.com/ggml-org/llama.cpp/releases/tag/b10172",
-      "target": "variant",
+      "source": "article:https://github.com/ggml-org/llama.cpp/releases/tag/b10173",
+      "target": "macos",
       "weight": 1
     },
     {
-      "source": "article:https://github.com/ggml-org/llama.cpp/releases/tag/b10172",
-      "target": "overlap",
+      "source": "article:https://github.com/ggml-org/llama.cpp/releases/tag/b10173",
+      "target": "apple",
       "weight": 1
     },
     {
@@ -6217,17 +6207,12 @@
     },
     {
       "source": "article:https://github.com/ggml-org/llama.cpp/releases/tag/b10172",
+      "target": "variant",
+      "weight": 1
+    },
+    {
+      "source": "article:https://github.com/ggml-org/llama.cpp/releases/tag/b10172",
       "target": "recurrent-state-rollback",
-      "weight": 1
-    },
-    {
-      "source": "article:https://github.com/ggml-org/llama.cpp/releases/tag/b10172",
-      "target": "support",
-      "weight": 1
-    },
-    {
-      "source": "article:https://github.com/ggml-org/llama.cpp/releases/tag/b10172",
-      "target": "fix",
       "weight": 1
     },
     {
@@ -6237,7 +6222,12 @@
     },
     {
       "source": "article:https://github.com/ggml-org/llama.cpp/releases/tag/b10172",
-      "target": "category:releases",
+      "target": "overlap",
+      "weight": 1
+    },
+    {
+      "source": "article:https://github.com/ggml-org/llama.cpp/releases/tag/b10172",
+      "target": "fix",
       "weight": 1
     },
     {
@@ -6247,12 +6237,17 @@
     },
     {
       "source": "article:https://github.com/ggml-org/llama.cpp/releases/tag/b10172",
+      "target": "category:releases",
+      "weight": 1
+    },
+    {
+      "source": "article:https://github.com/ggml-org/llama.cpp/releases/tag/b10172",
       "target": "source:ggml/llama.cpp_releases",
       "weight": 1
     },
     {
-      "source": "article:https://github.com/ggml-org/llama.cpp/releases/tag/b10171",
-      "target": "image kernels",
+      "source": "article:https://github.com/ggml-org/llama.cpp/releases/tag/b10172",
+      "target": "support",
       "weight": 1
     },
     {
@@ -6267,7 +6262,7 @@
     },
     {
       "source": "article:https://github.com/ggml-org/llama.cpp/releases/tag/b10171",
-      "target": "source:ggml/llama.cpp_releases",
+      "target": "kqv",
       "weight": 1
     },
     {
@@ -6277,17 +6272,22 @@
     },
     {
       "source": "article:https://github.com/ggml-org/llama.cpp/releases/tag/b10171",
-      "target": "opencl",
-      "weight": 1
-    },
-    {
-      "source": "article:https://github.com/ggml-org/llama.cpp/releases/tag/b10171",
-      "target": "kqv",
-      "weight": 1
-    },
-    {
-      "source": "article:https://github.com/ggml-org/llama.cpp/releases/tag/b10171",
       "target": "category:releases",
+      "weight": 1
+    },
+    {
+      "source": "article:https://github.com/ggml-org/llama.cpp/releases/tag/b10171",
+      "target": "source:ggml/llama.cpp_releases",
+      "weight": 1
+    },
+    {
+      "source": "article:https://github.com/ggml-org/llama.cpp/releases/tag/b10171",
+      "target": "multi-stream batches",
+      "weight": 1
+    },
+    {
+      "source": "article:https://github.com/ggml-org/llama.cpp/releases/tag/b10171",
+      "target": "opencl",
       "weight": 1
     },
     {
@@ -6297,17 +6297,7 @@
     },
     {
       "source": "article:https://github.com/ggml-org/llama.cpp/releases/tag/b10171",
-      "target": "multi-stream batches",
-      "weight": 1
-    },
-    {
-      "source": "article:https://github.com/ggml-org/llama.cpp/releases/tag/b10167",
-      "target": "llama",
-      "weight": 1
-    },
-    {
-      "source": "article:https://github.com/ggml-org/llama.cpp/releases/tag/b10167",
-      "target": "cpp",
+      "target": "image kernels",
       "weight": 1
     },
     {
@@ -6317,7 +6307,12 @@
     },
     {
       "source": "article:https://github.com/ggml-org/llama.cpp/releases/tag/b10167",
-      "target": "macos",
+      "target": "ggml",
+      "weight": 1
+    },
+    {
+      "source": "article:https://github.com/ggml-org/llama.cpp/releases/tag/b10167",
+      "target": "arm64",
       "weight": 1
     },
     {
@@ -6332,12 +6327,7 @@
     },
     {
       "source": "article:https://github.com/ggml-org/llama.cpp/releases/tag/b10167",
-      "target": "apple",
-      "weight": 1
-    },
-    {
-      "source": "article:https://github.com/ggml-org/llama.cpp/releases/tag/b10167",
-      "target": "arm64",
+      "target": "cpp",
       "weight": 1
     },
     {
@@ -6347,7 +6337,12 @@
     },
     {
       "source": "article:https://github.com/ggml-org/llama.cpp/releases/tag/b10167",
-      "target": "ggml",
+      "target": "llama",
+      "weight": 1
+    },
+    {
+      "source": "article:https://github.com/ggml-org/llama.cpp/releases/tag/b10167",
+      "target": "macos",
       "weight": 1
     },
     {
@@ -6356,28 +6351,8 @@
       "weight": 1
     },
     {
-      "source": "article:https://github.com/ggml-org/llama.cpp/releases/tag/b10166",
-      "target": "logits",
-      "weight": 1
-    },
-    {
-      "source": "article:https://github.com/ggml-org/llama.cpp/releases/tag/b10166",
-      "target": "llama-graph",
-      "weight": 1
-    },
-    {
-      "source": "article:https://github.com/ggml-org/llama.cpp/releases/tag/b10166",
-      "target": "sampler",
-      "weight": 1
-    },
-    {
-      "source": "article:https://github.com/ggml-org/llama.cpp/releases/tag/b10166",
-      "target": "source:ggml/llama.cpp_releases",
-      "weight": 1
-    },
-    {
-      "source": "article:https://github.com/ggml-org/llama.cpp/releases/tag/b10166",
-      "target": "views",
+      "source": "article:https://github.com/ggml-org/llama.cpp/releases/tag/b10167",
+      "target": "apple",
       "weight": 1
     },
     {
@@ -6387,7 +6362,22 @@
     },
     {
       "source": "article:https://github.com/ggml-org/llama.cpp/releases/tag/b10166",
-      "target": "category:releases",
+      "target": "ggml",
+      "weight": 1
+    },
+    {
+      "source": "article:https://github.com/ggml-org/llama.cpp/releases/tag/b10166",
+      "target": "llama-graph",
+      "weight": 1
+    },
+    {
+      "source": "article:https://github.com/ggml-org/llama.cpp/releases/tag/b10166",
+      "target": "logits",
+      "weight": 1
+    },
+    {
+      "source": "article:https://github.com/ggml-org/llama.cpp/releases/tag/b10166",
+      "target": "views",
       "weight": 1
     },
     {
@@ -6397,7 +6387,12 @@
     },
     {
       "source": "article:https://github.com/ggml-org/llama.cpp/releases/tag/b10166",
-      "target": "ggml",
+      "target": "category:releases",
+      "weight": 1
+    },
+    {
+      "source": "article:https://github.com/ggml-org/llama.cpp/releases/tag/b10166",
+      "target": "source:ggml/llama.cpp_releases",
       "weight": 1
     },
     {
@@ -6406,8 +6401,48 @@
       "weight": 1
     },
     {
+      "source": "article:https://github.com/ggml-org/llama.cpp/releases/tag/b10166",
+      "target": "sampler",
+      "weight": 1
+    },
+    {
+      "source": "article:https://arxiv.org/abs/2607.24750",
+      "target": "timecapsule",
+      "weight": 1
+    },
+    {
       "source": "article:https://arxiv.org/abs/2607.24750",
       "target": "source:arxiv_cs.cl_(computation_and_language_/_nlp)",
+      "weight": 1
+    },
+    {
+      "source": "article:https://arxiv.org/abs/2607.24750",
+      "target": "generative",
+      "weight": 1
+    },
+    {
+      "source": "article:https://arxiv.org/abs/2607.24750",
+      "target": "trained",
+      "weight": 1
+    },
+    {
+      "source": "article:https://arxiv.org/abs/2607.24750",
+      "target": "historical",
+      "weight": 1
+    },
+    {
+      "source": "article:https://arxiv.org/abs/2607.24750",
+      "target": "temporal exposure",
+      "weight": 1
+    },
+    {
+      "source": "article:https://arxiv.org/abs/2607.24750",
+      "target": "category:research",
+      "weight": 1
+    },
+    {
+      "source": "article:https://arxiv.org/abs/2607.24750",
+      "target": "historical sensemaking",
       "weight": 1
     },
     {
@@ -6421,58 +6456,8 @@
       "weight": 1
     },
     {
-      "source": "article:https://arxiv.org/abs/2607.24750",
-      "target": "historical",
-      "weight": 1
-    },
-    {
-      "source": "article:https://arxiv.org/abs/2607.24750",
-      "target": "historical sensemaking",
-      "weight": 1
-    },
-    {
-      "source": "article:https://arxiv.org/abs/2607.24750",
-      "target": "trained",
-      "weight": 1
-    },
-    {
-      "source": "article:https://arxiv.org/abs/2607.24750",
-      "target": "category:research",
-      "weight": 1
-    },
-    {
-      "source": "article:https://arxiv.org/abs/2607.24750",
-      "target": "timecapsule",
-      "weight": 1
-    },
-    {
-      "source": "article:https://arxiv.org/abs/2607.24750",
-      "target": "generative",
-      "weight": 1
-    },
-    {
-      "source": "article:https://arxiv.org/abs/2607.24750",
-      "target": "temporal exposure",
-      "weight": 1
-    },
-    {
       "source": "article:https://arxiv.org/abs/2607.24765",
       "target": "fact-heuristic-emotion",
-      "weight": 1
-    },
-    {
-      "source": "article:https://arxiv.org/abs/2607.24765",
-      "target": "decision",
-      "weight": 1
-    },
-    {
-      "source": "article:https://arxiv.org/abs/2607.24765",
-      "target": "measuring",
-      "weight": 1
-    },
-    {
-      "source": "article:https://arxiv.org/abs/2607.24765",
-      "target": "behavioral consistency",
       "weight": 1
     },
     {
@@ -6482,7 +6467,22 @@
     },
     {
       "source": "article:https://arxiv.org/abs/2607.24765",
-      "target": "large language models",
+      "target": "models",
+      "weight": 1
+    },
+    {
+      "source": "article:https://arxiv.org/abs/2607.24765",
+      "target": "measuring",
+      "weight": 1
+    },
+    {
+      "source": "article:https://arxiv.org/abs/2607.24765",
+      "target": "reduction",
+      "weight": 1
+    },
+    {
+      "source": "article:https://arxiv.org/abs/2607.24765",
+      "target": "behavioral consistency",
       "weight": 1
     },
     {
@@ -6497,7 +6497,7 @@
     },
     {
       "source": "article:https://arxiv.org/abs/2607.24765",
-      "target": "models",
+      "target": "decision",
       "weight": 1
     },
     {
@@ -6507,7 +6507,7 @@
     },
     {
       "source": "article:https://arxiv.org/abs/2607.24765",
-      "target": "reduction",
+      "target": "large language models",
       "weight": 1
     },
     {
@@ -6522,7 +6522,7 @@
     },
     {
       "source": "article:https://arxiv.org/abs/2607.24841",
-      "target": "sparsity",
+      "target": "models",
       "weight": 1
     },
     {
@@ -6537,22 +6537,7 @@
     },
     {
       "source": "article:https://arxiv.org/abs/2607.24841",
-      "target": "category:research",
-      "weight": 1
-    },
-    {
-      "source": "article:https://arxiv.org/abs/2607.24841",
-      "target": "denoising",
-      "weight": 1
-    },
-    {
-      "source": "article:https://arxiv.org/abs/2607.24841",
-      "target": "language",
-      "weight": 1
-    },
-    {
-      "source": "article:https://arxiv.org/abs/2607.24841",
-      "target": "models",
+      "target": "sparsity",
       "weight": 1
     },
     {
@@ -6562,7 +6547,7 @@
     },
     {
       "source": "article:https://arxiv.org/abs/2607.24841",
-      "target": "block",
+      "target": "category:research",
       "weight": 1
     },
     {
@@ -6571,23 +6556,18 @@
       "weight": 1
     },
     {
-      "source": "article:https://arxiv.org/abs/2607.24999",
-      "target": "source:arxiv_cs.cl_(computation_and_language_/_nlp)",
+      "source": "article:https://arxiv.org/abs/2607.24841",
+      "target": "block",
       "weight": 1
     },
     {
-      "source": "article:https://arxiv.org/abs/2607.24999",
-      "target": "multimethod",
+      "source": "article:https://arxiv.org/abs/2607.24841",
+      "target": "language",
       "weight": 1
     },
     {
-      "source": "article:https://arxiv.org/abs/2607.24999",
-      "target": "profile",
-      "weight": 1
-    },
-    {
-      "source": "article:https://arxiv.org/abs/2607.24999",
-      "target": "category:research",
+      "source": "article:https://arxiv.org/abs/2607.24841",
+      "target": "denoising",
       "weight": 1
     },
     {
@@ -6597,7 +6577,7 @@
     },
     {
       "source": "article:https://arxiv.org/abs/2607.24999",
-      "target": "convergence",
+      "target": "source:arxiv_cs.cl_(computation_and_language_/_nlp)",
       "weight": 1
     },
     {
@@ -6607,17 +6587,7 @@
     },
     {
       "source": "article:https://arxiv.org/abs/2607.24999",
-      "target": "llm",
-      "weight": 1
-    },
-    {
-      "source": "article:https://arxiv.org/abs/2607.24999",
-      "target": "cognitive",
-      "weight": 1
-    },
-    {
-      "source": "article:https://arxiv.org/abs/2607.24999",
-      "target": "evaluation",
+      "target": "profile",
       "weight": 1
     },
     {
@@ -6627,7 +6597,27 @@
     },
     {
       "source": "article:https://arxiv.org/abs/2607.24999",
-      "target": "ability",
+      "target": "evaluation",
+      "weight": 1
+    },
+    {
+      "source": "article:https://arxiv.org/abs/2607.24999",
+      "target": "multimethod",
+      "weight": 1
+    },
+    {
+      "source": "article:https://arxiv.org/abs/2607.24999",
+      "target": "convergence",
+      "weight": 1
+    },
+    {
+      "source": "article:https://arxiv.org/abs/2607.24999",
+      "target": "category:research",
+      "weight": 1
+    },
+    {
+      "source": "article:https://arxiv.org/abs/2607.24999",
+      "target": "llm",
       "weight": 1
     },
     {
@@ -6636,8 +6626,23 @@
       "weight": 1
     },
     {
+      "source": "article:https://arxiv.org/abs/2607.24999",
+      "target": "ability",
+      "weight": 1
+    },
+    {
+      "source": "article:https://arxiv.org/abs/2607.24999",
+      "target": "cognitive",
+      "weight": 1
+    },
+    {
       "source": "article:https://arxiv.org/abs/2607.25069",
-      "target": "verification",
+      "target": "quantitative reasoning",
+      "weight": 1
+    },
+    {
+      "source": "article:https://arxiv.org/abs/2607.25069",
+      "target": "checkthat",
       "weight": 1
     },
     {
@@ -6652,7 +6657,12 @@
     },
     {
       "source": "article:https://arxiv.org/abs/2607.25069",
-      "target": "checkthat",
+      "target": "grouped reward modeling",
+      "weight": 1
+    },
+    {
+      "source": "article:https://arxiv.org/abs/2607.25069",
+      "target": "category:research",
       "weight": 1
     },
     {
@@ -6662,22 +6672,7 @@
     },
     {
       "source": "article:https://arxiv.org/abs/2607.25069",
-      "target": "category:research",
-      "weight": 1
-    },
-    {
-      "source": "article:https://arxiv.org/abs/2607.25069",
-      "target": "reasoning",
-      "weight": 1
-    },
-    {
-      "source": "article:https://arxiv.org/abs/2607.25069",
-      "target": "grouped reward modeling",
-      "weight": 1
-    },
-    {
-      "source": "article:https://arxiv.org/abs/2607.25069",
-      "target": "reasoning traces",
+      "target": "verification",
       "weight": 1
     },
     {
@@ -6687,52 +6682,27 @@
     },
     {
       "source": "article:https://arxiv.org/abs/2607.25069",
-      "target": "quantitative reasoning",
+      "target": "numerical",
       "weight": 1
     },
     {
       "source": "article:https://arxiv.org/abs/2607.25069",
-      "target": "numerical",
+      "target": "reasoning",
+      "weight": 1
+    },
+    {
+      "source": "article:https://arxiv.org/abs/2607.25069",
+      "target": "reasoning traces",
+      "weight": 1
+    },
+    {
+      "source": "article:https://arxiv.org/abs/2607.25094",
+      "target": "unspoken",
       "weight": 1
     },
     {
       "source": "article:https://arxiv.org/abs/2607.25094",
       "target": "source:arxiv_cs.cl_(computation_and_language_/_nlp)",
-      "weight": 1
-    },
-    {
-      "source": "article:https://arxiv.org/abs/2607.25094",
-      "target": "communicative belief updates",
-      "weight": 1
-    },
-    {
-      "source": "article:https://arxiv.org/abs/2607.25094",
-      "target": "large language models",
-      "weight": 1
-    },
-    {
-      "source": "article:https://arxiv.org/abs/2607.25094",
-      "target": "cancellation",
-      "weight": 1
-    },
-    {
-      "source": "article:https://arxiv.org/abs/2607.25094",
-      "target": "updates",
-      "weight": 1
-    },
-    {
-      "source": "article:https://arxiv.org/abs/2607.25094",
-      "target": "llms",
-      "weight": 1
-    },
-    {
-      "source": "article:https://arxiv.org/abs/2607.25094",
-      "target": "user communication",
-      "weight": 1
-    },
-    {
-      "source": "article:https://arxiv.org/abs/2607.25094",
-      "target": "category:research",
       "weight": 1
     },
     {
@@ -6747,7 +6717,17 @@
     },
     {
       "source": "article:https://arxiv.org/abs/2607.25094",
-      "target": "unspoken",
+      "target": "category:research",
+      "weight": 1
+    },
+    {
+      "source": "article:https://arxiv.org/abs/2607.25094",
+      "target": "communicative belief updates",
+      "weight": 1
+    },
+    {
+      "source": "article:https://arxiv.org/abs/2607.25094",
+      "target": "user communication",
       "weight": 1
     },
     {
@@ -6756,13 +6736,28 @@
       "weight": 1
     },
     {
-      "source": "article:https://arxiv.org/abs/2607.25182",
-      "target": "re-rankers",
+      "source": "article:https://arxiv.org/abs/2607.25094",
+      "target": "updates",
+      "weight": 1
+    },
+    {
+      "source": "article:https://arxiv.org/abs/2607.25094",
+      "target": "llms",
+      "weight": 1
+    },
+    {
+      "source": "article:https://arxiv.org/abs/2607.25094",
+      "target": "large language models",
+      "weight": 1
+    },
+    {
+      "source": "article:https://arxiv.org/abs/2607.25094",
+      "target": "cancellation",
       "weight": 1
     },
     {
       "source": "article:https://arxiv.org/abs/2607.25182",
-      "target": "tabrank",
+      "target": "structured information retrieval",
       "weight": 1
     },
     {
@@ -6777,22 +6772,12 @@
     },
     {
       "source": "article:https://arxiv.org/abs/2607.25182",
-      "target": "table re-rankers",
+      "target": "re-rankers",
       "weight": 1
     },
     {
       "source": "article:https://arxiv.org/abs/2607.25182",
-      "target": "chain-of-thought distillation",
-      "weight": 1
-    },
-    {
-      "source": "article:https://arxiv.org/abs/2607.25182",
-      "target": "category:research",
-      "weight": 1
-    },
-    {
-      "source": "article:https://arxiv.org/abs/2607.25182",
-      "target": "multi-stage retrieval",
+      "target": "tabrank",
       "weight": 1
     },
     {
@@ -6802,17 +6787,27 @@
     },
     {
       "source": "article:https://arxiv.org/abs/2607.25182",
+      "target": "category:research",
+      "weight": 1
+    },
+    {
+      "source": "article:https://arxiv.org/abs/2607.25182",
+      "target": "table re-rankers",
+      "weight": 1
+    },
+    {
+      "source": "article:https://arxiv.org/abs/2607.25182",
       "target": "distillation",
       "weight": 1
     },
     {
       "source": "article:https://arxiv.org/abs/2607.25182",
-      "target": "structured information retrieval",
+      "target": "chain-of-thought distillation",
       "weight": 1
     },
     {
-      "source": "article:https://arxiv.org/abs/2607.25184",
-      "target": "law",
+      "source": "article:https://arxiv.org/abs/2607.25182",
+      "target": "multi-stage retrieval",
       "weight": 1
     },
     {
@@ -6822,12 +6817,12 @@
     },
     {
       "source": "article:https://arxiv.org/abs/2607.25184",
-      "target": "words",
+      "target": "co-occurrence",
       "weight": 1
     },
     {
       "source": "article:https://arxiv.org/abs/2607.25184",
-      "target": "contextual",
+      "target": "contextual persistence",
       "weight": 1
     },
     {
@@ -6837,22 +6832,17 @@
     },
     {
       "source": "article:https://arxiv.org/abs/2607.25184",
-      "target": "human",
+      "target": "contextual",
       "weight": 1
     },
     {
       "source": "article:https://arxiv.org/abs/2607.25184",
-      "target": "human language",
+      "target": "law",
       "weight": 1
     },
     {
       "source": "article:https://arxiv.org/abs/2607.25184",
       "target": "category:research",
-      "weight": 1
-    },
-    {
-      "source": "article:https://arxiv.org/abs/2607.25184",
-      "target": "co-occurrence",
       "weight": 1
     },
     {
@@ -6867,27 +6857,17 @@
     },
     {
       "source": "article:https://arxiv.org/abs/2607.25184",
-      "target": "contextual persistence",
+      "target": "words",
       "weight": 1
     },
     {
-      "source": "article:https://arxiv.org/abs/2607.25186",
-      "target": "cardiovascular care",
+      "source": "article:https://arxiv.org/abs/2607.25184",
+      "target": "human",
       "weight": 1
     },
     {
-      "source": "article:https://arxiv.org/abs/2607.25186",
-      "target": "source:arxiv_cs.cl_(computation_and_language_/_nlp)",
-      "weight": 1
-    },
-    {
-      "source": "article:https://arxiv.org/abs/2607.25186",
-      "target": "benchmark",
-      "weight": 1
-    },
-    {
-      "source": "article:https://arxiv.org/abs/2607.25186",
-      "target": "large language models",
+      "source": "article:https://arxiv.org/abs/2607.25184",
+      "target": "human language",
       "weight": 1
     },
     {
@@ -6897,17 +6877,32 @@
     },
     {
       "source": "article:https://arxiv.org/abs/2607.25186",
+      "target": "source:arxiv_cs.cl_(computation_and_language_/_nlp)",
+      "weight": 1
+    },
+    {
+      "source": "article:https://arxiv.org/abs/2607.25186",
+      "target": "real-world data",
+      "weight": 1
+    },
+    {
+      "source": "article:https://arxiv.org/abs/2607.25186",
+      "target": "cardiovascular care",
+      "weight": 1
+    },
+    {
+      "source": "article:https://arxiv.org/abs/2607.25186",
       "target": "cardiovascular",
       "weight": 1
     },
     {
       "source": "article:https://arxiv.org/abs/2607.25186",
-      "target": "category:research",
+      "target": "benchmark",
       "weight": 1
     },
     {
       "source": "article:https://arxiv.org/abs/2607.25186",
-      "target": "care",
+      "target": "category:research",
       "weight": 1
     },
     {
@@ -6922,7 +6917,17 @@
     },
     {
       "source": "article:https://arxiv.org/abs/2607.25186",
-      "target": "real-world data",
+      "target": "large language models",
+      "weight": 1
+    },
+    {
+      "source": "article:https://arxiv.org/abs/2607.25186",
+      "target": "care",
+      "weight": 1
+    },
+    {
+      "source": "article:https://arxiv.org/abs/2607.25202",
+      "target": "comparison",
       "weight": 1
     },
     {
@@ -6937,22 +6942,7 @@
     },
     {
       "source": "article:https://arxiv.org/abs/2607.25202",
-      "target": "classification",
-      "weight": 1
-    },
-    {
-      "source": "article:https://arxiv.org/abs/2607.25202",
-      "target": "comparison",
-      "weight": 1
-    },
-    {
-      "source": "article:https://arxiv.org/abs/2607.25202",
-      "target": "code-switched speech",
-      "weight": 1
-    },
-    {
-      "source": "article:https://arxiv.org/abs/2607.25202",
-      "target": "category:research",
+      "target": "behavior",
       "weight": 1
     },
     {
@@ -6962,12 +6952,22 @@
     },
     {
       "source": "article:https://arxiv.org/abs/2607.25202",
-      "target": "behavior",
+      "target": "category:research",
+      "weight": 1
+    },
+    {
+      "source": "article:https://arxiv.org/abs/2607.25202",
+      "target": "code-switched speech",
       "weight": 1
     },
     {
       "source": "article:https://arxiv.org/abs/2607.25202",
       "target": "entrainment",
+      "weight": 1
+    },
+    {
+      "source": "article:https://arxiv.org/abs/2607.25202",
+      "target": "classification",
       "weight": 1
     },
     {
@@ -6977,12 +6977,7 @@
     },
     {
       "source": "article:https://arxiv.org/abs/2607.25228",
-      "target": "annotation",
-      "weight": 1
-    },
-    {
-      "source": "article:https://arxiv.org/abs/2607.25228",
-      "target": "llm-symbolized",
+      "target": "column annotation",
       "weight": 1
     },
     {
@@ -6992,7 +6987,12 @@
     },
     {
       "source": "article:https://arxiv.org/abs/2607.25228",
-      "target": "column",
+      "target": "materialization",
+      "weight": 1
+    },
+    {
+      "source": "article:https://arxiv.org/abs/2607.25228",
+      "target": "llm-symbolized",
       "weight": 1
     },
     {
@@ -7002,7 +7002,7 @@
     },
     {
       "source": "article:https://arxiv.org/abs/2607.25228",
-      "target": "materialization",
+      "target": "column",
       "weight": 1
     },
     {
@@ -7012,7 +7012,7 @@
     },
     {
       "source": "article:https://arxiv.org/abs/2607.25228",
-      "target": "column annotation",
+      "target": "annotation",
       "weight": 1
     },
     {
@@ -7027,7 +7027,7 @@
     },
     {
       "source": "article:https://arxiv.org/abs/2607.25236",
-      "target": "world",
+      "target": "planning",
       "weight": 1
     },
     {
@@ -7037,22 +7037,7 @@
     },
     {
       "source": "article:https://arxiv.org/abs/2607.25236",
-      "target": "planning",
-      "weight": 1
-    },
-    {
-      "source": "article:https://arxiv.org/abs/2607.25236",
-      "target": "simulation",
-      "weight": 1
-    },
-    {
-      "source": "article:https://arxiv.org/abs/2607.25236",
-      "target": "category:research",
-      "weight": 1
-    },
-    {
-      "source": "article:https://arxiv.org/abs/2607.25236",
-      "target": "world models",
+      "target": "latent",
       "weight": 1
     },
     {
@@ -7062,12 +7047,27 @@
     },
     {
       "source": "article:https://arxiv.org/abs/2607.25236",
-      "target": "latent",
+      "target": "world",
+      "weight": 1
+    },
+    {
+      "source": "article:https://arxiv.org/abs/2607.25236",
+      "target": "category:research",
+      "weight": 1
+    },
+    {
+      "source": "article:https://arxiv.org/abs/2607.25236",
+      "target": "simulation",
       "weight": 1
     },
     {
       "source": "article:https://arxiv.org/abs/2607.25236",
       "target": "latent structured representations",
+      "weight": 1
+    },
+    {
+      "source": "article:https://arxiv.org/abs/2607.25236",
+      "target": "world models",
       "weight": 1
     }
   ],
