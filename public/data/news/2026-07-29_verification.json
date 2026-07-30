@@ -1,7 +1,28 @@
 {
   "date": "2026-07-29",
-  "generated_at": "2026-07-30T05:00:06.319036+00:00",
+  "generated_at": "2026-07-30T09:12:12.049431+00:00",
   "results": {
+    "openai_blog": {
+      "verification_status": "unconfirmed",
+      "sources_count": 1,
+      "sources": [
+        "OpenAI Blog"
+      ]
+    },
+    "trending_ai": {
+      "verification_status": "unconfirmed",
+      "sources_count": 1,
+      "sources": [
+        "GitHub Trending — AI"
+      ]
+    },
+    "hn_llm_24h": {
+      "verification_status": "unconfirmed",
+      "sources_count": 1,
+      "sources": [
+        "HN top LLM 24h"
+      ]
+    },
     "hn_ai_24h": {
       "verification_status": "unconfirmed",
       "sources_count": 1,
@@ -14,6 +35,13 @@
       "sources_count": 1,
       "sources": [
         "Latent Space (Substack)"
+      ]
+    },
+    "ggml_releases": {
+      "verification_status": "unconfirmed",
+      "sources_count": 1,
+      "sources": [
+        "ggml/llama.cpp releases"
       ]
     },
     "arxiv_cs_cl": {

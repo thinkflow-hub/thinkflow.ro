@@ -1,12 +1,12 @@
 {
   "date": "2026-07-28",
-  "generated_at": "2026-07-30T05:00:06.318036+00:00",
+  "generated_at": "2026-07-30T09:12:12.050433+00:00",
   "results": {
-    "openai_blog": {
+    "trending_agent": {
       "verification_status": "unconfirmed",
       "sources_count": 1,
       "sources": [
-        "OpenAI Blog"
+        "GitHub Trending — AI Agents"
       ]
     },
     "google_ai_blog": {
@@ -14,6 +14,13 @@
       "sources_count": 1,
       "sources": [
         "Google AI Blog"
+      ]
+    },
+    "openai_blog": {
+      "verification_status": "unconfirmed",
+      "sources_count": 1,
+      "sources": [
+        "OpenAI Blog"
       ]
     },
     "hn_llm_24h": {
@@ -42,13 +49,6 @@
       "sources_count": 1,
       "sources": [
         "ggml/llama.cpp releases"
-      ]
-    },
-    "trending_agent": {
-      "verification_status": "unconfirmed",
-      "sources_count": 1,
-      "sources": [
-        "GitHub Trending — AI Agents"
       ]
     },
     "arxiv_cs_cl": {
