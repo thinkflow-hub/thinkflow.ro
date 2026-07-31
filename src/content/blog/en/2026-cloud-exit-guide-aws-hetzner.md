@@ -69,6 +69,8 @@ The `p3.2xlarge` alone is 81% of compute spend. It was chosen in early 2025 beca
 
 **Monthly savings: ~$2,368. Annual: ~$28,416.**
 
+![Same production stack, same workload: AWS $2,745/mo vs Hetzner $377/mo — an 86% cut with latency improved](/images/blog/aws-hetzner-cost-comparison.svg)
+
 That is not a rounding error. It is a senior engineer's fully loaded salary in most EU markets.
 
 ### Cost per always-on GPU hour (normalized)
@@ -395,6 +397,8 @@ Calculation: `(monthly_instance_cost) / (monthly_tokens_served)`. Assumes 70% av
 At production volume (~1.6B tokens/month), the full Hetzner stack costs **$0.23 per 1M tokens** all-in — including embeddings and vector search infrastructure. AWS p3 was **$2.51 per 1M tokens**, an 11× difference.
 
 For context: OpenAI GPT-4o API pricing is ~$2.50–10.00 per 1M output tokens. Self-hosted inference on Hetzner brings marginal cost below $0.25 per 1M tokens — self-hosting breaks even against managed APIs above ~200M tokens/month.
+
+![Cost per 1M tokens all-in: AWS p3 $2.51 vs Hetzner full stack $0.23 — 11× cheaper, below the managed-API floor](/images/blog/aws-hetzner-cost-per-token.svg)
 
 ### Embedding service benchmark (CPU, CX43 vs c6i.xlarge)
 

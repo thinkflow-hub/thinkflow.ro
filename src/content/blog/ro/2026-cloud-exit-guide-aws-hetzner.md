@@ -69,6 +69,8 @@ Doar `p3.2xlarge` reprezintă 81% din cheltuiala de compute. A fost aleasă la �
 
 **Economii lunare: ~$2,368. Anual: ~$28,416.**
 
+![Același stack de producție, același workload: AWS $2,745/lună vs Hetzner $377/lună — reducere de 86% cu latență îmbunătățită](/images/blog/aws-hetzner-cost-comparison.svg)
+
 Nu e o eroare de rotunjire. E salariul complet (fully loaded) al unui inginer senior în majoritatea piețelor din UE.
 
 ### Cost per oră GPU always-on (normalizat)
@@ -395,6 +397,8 @@ Calcul: `(monthly_instance_cost) / (monthly_tokens_served)`. Presupune o utiliza
 La volum de producție (~1.6B token-uri/lună), stack-ul complet Hetzner costă **$0.23 per 1M token-uri** all-in — incluzând infrastructura de embeddings și căutare vectorială. AWS p3 era la **$2.51 per 1M token-uri**, o diferență de 11×.
 
 Pentru context: prețurile API pentru OpenAI GPT-4o sunt ~$2.50–10.00 per 1M token-uri output. Inferența self-hosted pe Hetzner aduce costul marginal sub $0.25 per 1M token-uri — self-hosting-ul atinge break-even față de API-urile gestionate peste ~200M token-uri/lună.
+
+![Cost per 1M tokens all-in: AWS p3 $2.51 vs stack-ul complet Hetzner $0.23 — de 11 ori mai ieftin, sub pragul API-urilor gestionate](/images/blog/aws-hetzner-cost-per-token.svg)
 
 ### Benchmark serviciu de embeddings (CPU, CX43 vs c6i.xlarge)
 
