@@ -178,7 +178,8 @@
     "copyright": "© {year} ThinkFLOW Systems. All rights reserved.",
     "email": "contact@thinkflow.ro",
     "location": "Bucharest, Romania",
-    "backToTop": "Back to top"
+    "backToTop": "Back to top",
+    "anpcSal": "ANPC — Alternative Dispute Resolution (SAL)"
   },
   "services": {
     "title": "Services",
@@ -506,7 +507,7 @@
     "badge": "Legal",
     "description": "Transparency about our affiliate relationships. FTC & GDPR compliant.",
     "sections": {
-      "intro": "ThinkFLOW participates in affiliate marketing programs. This means that some of the links on our website are affiliate links. If you click on an affiliate link and make a purchase, we may earn a commission at no additional cost to you.",
+      "intro": "ThinkFLOW is applying to affiliate marketing programs. Some links on our website are prepared as affiliate links — once a program accepts us, clicking such a link and making a purchase may earn us a commission at no additional cost to you.",
       "commitment": {
         "heading": "Our Commitment",
         "body1": "We label every article with one of two tags, visible at the top of the post, so you know exactly what you are reading:",
@@ -517,7 +518,7 @@
         "body2": "Affiliate relationships do not influence which products we recommend or how we label an article."
       },
       "programs": {
-        "heading": "Programs We Participate In"
+        "heading": "Programs We Target"
       },
       "identify": {
         "heading": "How We Identify Affiliate Links",
@@ -572,8 +573,7 @@
       },
       "s9": {
         "heading": "9. Governing Law and Dispute Resolution",
-        "body1": "These Terms are governed by the laws of Romania. Any disputes shall first be attempted to be resolved through amicable negotiation. If negotiation fails, disputes shall be resolved in the courts of Bucharest, Romania.",
-        "odrPrefix": "The European Commission provides an online dispute resolution platform at"
+        "body1": "These Terms are governed by the laws of Romania. Any disputes shall first be attempted to be resolved through amicable negotiation. If negotiation fails, disputes shall be resolved in the courts of Bucharest, Romania. Consumers may also use the alternative dispute resolution (SAL) mechanism via ANPC — see the link in the footer."
       },
       "s10": {
         "heading": "10. Service Availability",
@@ -592,7 +592,7 @@
     "sections": {
       "s1": {
         "heading": "1. Data Controller",
-        "body1": "ThinkFLOW Systems (contact@thinkflow.ro, Bucharest, Romania) is the data controller for personal data collected through thinkflow.ro and related subdomains.",
+        "body1": "Daniel Burcea, natural person, Bucharest, Romania (operating under the ThinkFLOW brand, contact@thinkflow.ro), is the data controller for personal data collected through thinkflow.ro and related subdomains.",
         "body2Prefix": "You can contact our data protection representative at:"
       },
       "s2": {
@@ -615,7 +615,7 @@
       },
       "s6": {
         "heading": "6. Data Sharing and International Transfers",
-        "body1": "We share data with: Vercel Inc. (US — hosting and server logs, covered by EU-US Data Privacy Framework), and email service providers for transactional emails. We do not sell personal data to third parties.",
+        "body1": "We share data with the following processors: Vercel Inc. (US — hosting and server logs, covered by the EU-US Data Privacy Framework), Supabase Inc. (database hosting for contact, newsletter, and analytics records), and Brevo (Sendinblue SAS, France — transactional email delivery). We do not sell personal data to third parties.",
         "body2": "For transfers to the US, we rely on the EU-US Data Privacy Framework or Standard Contractual Clauses as applicable. A copy of the relevant safeguards is available on request."
       },
       "s7": {

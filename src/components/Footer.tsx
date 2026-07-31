@@ -45,6 +45,7 @@ export default function Footer() {
                 <li><Link href="/privacy" className="text-sm text-white/50 font-montserrat-regular transition-colors hover:text-white">{t("footer.privacy")}</Link></li>
                 <li><Link href="/affiliate-disclosure" className="text-sm text-white/50 font-montserrat-regular transition-colors hover:text-white">{t("footer.affiliate")}</Link></li>
                 <li><Link href="/media-kit" className="text-sm text-white/50 font-montserrat-regular transition-colors hover:text-white">{t("footer.mediaKit")}</Link></li>
+                <li><a href="https://anpc.ro/ce-este-sal/" target="_blank" rel="noopener noreferrer" className="text-sm text-white/50 font-montserrat-regular transition-colors hover:text-white">{t("footer.anpcSal")}</a></li>
               </ul>
             </div>
 

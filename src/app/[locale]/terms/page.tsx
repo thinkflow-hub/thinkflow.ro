@@ -89,10 +89,6 @@ export default async function TermsPage({ params }: { params: Promise<{ locale: 
             <p className="leading-relaxed text-white/60 font-montserrat-regular text-sm">
               {t("terms.sections.s9.body1")}
             </p>
-            <p className="mt-2 leading-relaxed text-white/60 font-montserrat-regular text-sm">
-              {t("terms.sections.s9.odrPrefix")}{" "}
-              <span className="text-white">ec.europa.eu/consumers/odr</span>.
-            </p>
           </section>
 
           <section className="mb-8">

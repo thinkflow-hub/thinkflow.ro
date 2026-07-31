@@ -178,7 +178,8 @@
     "copyright": "© {year} ThinkFLOW Systems. Toate drepturile rezervate.",
     "email": "contact@thinkflow.ro",
     "location": "București, România",
-    "backToTop": "Înapoi sus"
+    "backToTop": "Înapoi sus",
+    "anpcSal": "ANPC — Soluționarea Alternativă a Litigiilor (SAL)"
   },
   "services": {
     "title": "Servicii",
@@ -506,7 +507,7 @@
     "badge": "Legal",
     "description": "Transparență privind relațiile noastre de afiliere. Conform FTC și GDPR.",
     "sections": {
-      "intro": "ThinkFLOW participă la programe de marketing afiliat. Aceasta înseamnă că unele dintre linkurile de pe site-ul nostru sunt linkuri afiliate. Dacă faceți clic pe un link afiliat și efectuați o achiziție, este posibil să primim un comision, fără niciun cost suplimentar pentru dumneavoastră.",
+      "intro": "ThinkFLOW este în curs de aderare la programe de marketing afiliat. Unele linkuri de pe site-ul nostru sunt pregătite ca linkuri afiliate — după acceptarea într-un program, dacă faceți clic pe un astfel de link și efectuați o achiziție, este posibil să primim un comision, fără niciun cost suplimentar pentru dumneavoastră.",
       "commitment": {
         "heading": "Angajamentul nostru",
         "body1": "Etichetăm fiecare articol cu una dintre cele două etichete, vizibile în partea de sus a articolului, astfel încât să știți exact ce citiți:",
@@ -517,7 +518,7 @@
         "body2": "Relațiile de afiliere nu influențează produsele pe care le recomandăm sau modul în care etichetăm un articol."
       },
       "programs": {
-        "heading": "Programe la care participăm"
+        "heading": "Programe vizate"
       },
       "identify": {
         "heading": "Cum identificăm linkurile afiliate",
@@ -572,8 +573,7 @@
       },
       "s9": {
         "heading": "9. Legea aplicabilă și soluționarea litigiilor",
-        "body1": "Prezenții Termeni sunt guvernați de legislația României. Orice litigiu va fi soluționat, în primă instanță, pe cale amiabilă, prin negociere. Dacă negocierea eșuează, litigiile vor fi soluționate de instanțele judecătorești din București, România.",
-        "odrPrefix": "Comisia Europeană pune la dispoziție o platformă de soluționare online a litigiilor, disponibilă la adresa"
+        "body1": "Prezenții Termeni sunt guvernați de legislația României. Orice litigiu va fi soluționat, în primă instanță, pe cale amiabilă, prin negociere. Dacă negocierea eșuează, litigiile vor fi soluționate de instanțele judecătorești din București, România. Consumatorii pot apela și la mecanismul de soluționare alternativă a litigiilor (SAL) prin ANPC — vezi linkul din subsolul paginii."
       },
       "s10": {
         "heading": "10. Disponibilitatea serviciilor",
@@ -592,7 +592,7 @@
     "sections": {
       "s1": {
         "heading": "1. Operatorul de date cu caracter personal",
-        "body1": "ThinkFLOW Systems (contact@thinkflow.ro, București, România) este operatorul de date cu caracter personal pentru datele cu caracter personal colectate prin intermediul thinkflow.ro și al subdomeniilor aferente.",
+        "body1": "Daniel Burcea, persoană fizică, București, România (activând sub marca ThinkFLOW, contact@thinkflow.ro), este operatorul de date cu caracter personal pentru datele colectate prin intermediul thinkflow.ro și al subdomeniilor aferente.",
         "body2Prefix": "Puteți contacta reprezentantul nostru pentru protecția datelor la:"
       },
       "s2": {
@@ -615,7 +615,7 @@
       },
       "s6": {
         "heading": "6. Partajarea datelor și transferurile internaționale",
-        "body1": "Partajăm date cu: Vercel Inc. (SUA — găzduire și jurnale de server, acoperite de EU-US Data Privacy Framework) și furnizori de servicii de e-mail pentru e-mailuri tranzacționale. Nu vindem date cu caracter personal către terți.",
+        "body1": "Partajăm date cu următorii împuterniciți: Vercel Inc. (SUA — găzduire și jurnale de server, acoperite de EU-US Data Privacy Framework), Supabase Inc. (găzduirea bazei de date pentru înregistrările de contact, newsletter și analiză) și Brevo (Sendinblue SAS, Franța — livrarea e-mailurilor tranzacționale). Nu vindem date cu caracter personal către terți.",
         "body2": "Pentru transferurile către SUA, ne bazăm pe EU-US Data Privacy Framework sau pe Clauzele Contractuale Standard, după caz. O copie a garanțiilor relevante este disponibilă la cerere."
       },
       "s7": {
