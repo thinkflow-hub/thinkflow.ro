@@ -88,7 +88,7 @@ export default function Header() {
                 <button
                   className="rounded-2xl bg-white/[0.05] border border-white/20 text-white hover:bg-white/10 hover:border-white/40 transition-all relative w-10 h-10 flex items-center justify-center md:hidden"
                   onClick={() => setMenuOpen(!menuOpen)}
-                  aria-label="Toggle menu"
+                  aria-label={t("header.toggleMenu")}
                 >
                   <div className="relative w-5 h-4">
                     <span className={`absolute top-0 left-0 w-5 h-0.5 bg-white rounded-full transition-all ${menuOpen ? "top-2 rotate-45" : ""}`} />

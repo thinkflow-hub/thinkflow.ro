@@ -17,13 +17,22 @@ function buildOgImageUrl(meta: { title: string; category: string; tags: string[]
   return `/api/og?${params.toString()}`;
 }
 
-function getBlogDir(locale?: string) {
-  const base = path.join(process.cwd(), "src", "content", "blog");
-  if (!locale) return base;
-  const dir = path.join(base, locale);
-  if (fs.existsSync(dir)) return dir;
-  const enDir = path.join(base, "en");
-  return fs.existsSync(enDir) ? enDir : base;
+const CATEGORY_FALLBACK: Record<string, string> = { en: "General", ro: "Diverse" };
+
+function getBlogDir(locale: string) {
+  return path.join(process.cwd(), "src", "content", "blog", locale);
+}
+
+function listSlugs(dir: string): string[] {
+  if (!fs.existsSync(dir)) return [];
+  return fs.readdirSync(dir).filter((f) => f.endsWith(".md")).map((f) => f.replace(".md", ""));
+}
+
+function readPostFile(dir: string, slug: string): { data: Record<string, unknown>; content: string } | null {
+  const filePath = path.join(dir, `${slug}.md`);
+  if (!fs.existsSync(filePath)) return null;
+  const raw = fs.readFileSync(filePath, "utf-8");
+  return matter(raw);
 }
 
 export interface PostMeta {
@@ -45,41 +54,56 @@ export interface Post {
   wordCount: number;
 }
 
-export function getAllPosts(locale?: string): PostMeta[] {
-  const dir = getBlogDir(locale);
-  if (!fs.existsSync(dir)) return [];
-  const files = fs.readdirSync(dir).filter((f) => f.endsWith(".md"));
-  return files
-    .map((f) => {
-      const raw = fs.readFileSync(path.join(dir, f), "utf-8");
-      const { data, content } = matter(raw);
-      const wordCount = content.split(/\s+/).filter(Boolean).length;
-      const slug = f.replace(".md", "");
-      const title = data.title || slug;
-      const category = data.category || "General";
-      const tags = data.tags || [];
-      const affiliatePrograms = data.affiliatePrograms || [];
-      return {
-        slug,
-        title,
-        description: data.description || "",
-        date: data.date || "",
-        category,
-        tags,
-        affiliatePrograms,
-        readingTime: Math.max(1, Math.ceil(wordCount / 200)),
-        image: buildOgImageUrl({ title, category, tags, affiliatePrograms }),
-        verification: parseVerification(data.verification),
-      };
-    })
-    .sort((a, b) => new Date(b.date).getTime() - new Date(a.date).getTime());
+function buildMeta(slug: string, data: Record<string, unknown>, content: string, resolvedLocale: string): PostMeta {
+  const wordCount = content.split(/\s+/).filter(Boolean).length;
+  const title = (data.title as string) || slug;
+  const category = (data.category as string) || CATEGORY_FALLBACK[resolvedLocale] || CATEGORY_FALLBACK.en;
+  const tags = (data.tags as string[]) || [];
+  const affiliatePrograms = (data.affiliatePrograms as string[]) || [];
+  return {
+    slug,
+    title,
+    description: (data.description as string) || "",
+    date: (data.date as string) || "",
+    category,
+    tags,
+    affiliatePrograms,
+    readingTime: Math.max(1, Math.ceil(wordCount / 200)),
+    image: buildOgImageUrl({ title, category, tags, affiliatePrograms }),
+    verification: parseVerification(data.verification),
+  };
 }
 
-export async function getPost(slug: string, locale?: string): Promise<Post | null> {
-  const filePath = path.join(getBlogDir(locale), `${slug}.md`);
-  if (!fs.existsSync(filePath)) return null;
-  const raw = fs.readFileSync(filePath, "utf-8");
-  const { data, content } = matter(raw);
+export function getAllPosts(locale: string = "en"): PostMeta[] {
+  const localeSlugs = new Set(listSlugs(getBlogDir(locale)));
+  const enSlugs = locale === "en" ? localeSlugs : new Set(listSlugs(getBlogDir("en")));
+  const allSlugs = new Set([...localeSlugs, ...enSlugs]);
+
+  const posts: PostMeta[] = [];
+  for (const slug of allSlugs) {
+    const hasLocaleFile = localeSlugs.has(slug);
+    if (!hasLocaleFile && locale !== "en") {
+      console.warn(`[posts] "${slug}" has no "${locale}" translation, falling back to "en"`);
+    }
+    const dir = hasLocaleFile ? getBlogDir(locale) : getBlogDir("en");
+    const resolvedLocale = hasLocaleFile ? locale : "en";
+    const parsed = readPostFile(dir, slug);
+    if (!parsed) continue;
+    posts.push(buildMeta(slug, parsed.data, parsed.content, resolvedLocale));
+  }
+  return posts.sort((a, b) => new Date(b.date).getTime() - new Date(a.date).getTime());
+}
+
+export async function getPost(slug: string, locale: string = "en"): Promise<Post | null> {
+  let parsed = readPostFile(getBlogDir(locale), slug);
+  let resolvedLocale = locale;
+  if (!parsed && locale !== "en") {
+    console.warn(`[posts] "${slug}" has no "${locale}" translation, falling back to "en"`);
+    parsed = readPostFile(getBlogDir("en"), slug);
+    resolvedLocale = "en";
+  }
+  if (!parsed) return null;
+  const { data, content } = parsed;
   const result = await remark().use(html).process(content);
   const wordCount = content.split(/\s+/).filter(Boolean).length;
 
@@ -97,24 +121,8 @@ export async function getPost(slug: string, locale?: string): Promise<Post | nul
     }
   );
 
-  const title = data.title || slug;
-  const category = data.category || "General";
-  const tags = data.tags || [];
-  const affiliatePrograms = data.affiliatePrograms || [];
-
   return {
-    meta: {
-      slug,
-      title,
-      description: data.description || "",
-      date: data.date || "",
-      category,
-      tags,
-      affiliatePrograms,
-      readingTime: Math.max(1, Math.ceil(wordCount / 200)),
-      image: buildOgImageUrl({ title, category, tags, affiliatePrograms }),
-      verification: data.verification === "production-tested" ? "production-tested" : "market-analysis",
-    },
+    meta: buildMeta(slug, data, content, resolvedLocale),
     content: htmlContent,
     wordCount,
   };

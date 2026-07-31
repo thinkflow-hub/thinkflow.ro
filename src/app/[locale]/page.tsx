@@ -6,65 +6,17 @@ import { useScrollReveal } from "@/hooks/useScrollReveal";
 import { useCountUp } from "@/hooks/useCountUp";
 
 const services = [
-  {
-    title: "Private AI Infrastructure",
-    price: "EUR 2,500+",
-    desc: "Custom LLM deployment, RAG pipelines, agent orchestration on private hardware. Complete data sovereignty.",
-    href: "/services/private-ai-infrastructure",
-  },
-  {
-    title: "Web Development",
-    price: "EUR 1,500+",
-    desc: "Next.js, Astro, React applications. Landing pages, documentation, full-stack web apps.",
-    href: "/services/web-development",
-  },
-  {
-    title: "Technical Consulting",
-    price: "EUR 2,000/day",
-    desc: "Architecture review, code audit, performance optimization, AI infrastructure planning.",
-    href: "/services/technical-consulting",
-  },
-  {
-    title: "Cloud Cost & Migration Audit",
-    price: "EUR 1,500-4,000",
-    desc: "Fixed-fee audit of your AWS/GPU bill. Real case study: 86% cost cut, latency improved.",
-    href: "/services/cloud-cost-migration-audit",
-  },
-  {
-    title: "SEO & GEO Content",
-    price: "EUR 150/article",
-    desc: "GEO-optimized affiliate content with original benchmarks. AI-citable, not just Google-ranked.",
-    href: "/services/seo-geo-content",
-  },
-  {
-    title: "Copywriting B2B",
-    price: "EUR 500/package",
-    desc: "Landing pages, email sequences, Facebook ads. Data-driven copy for technical audiences.",
-    href: "/services/copywriting-b2b",
-  },
-  {
-    title: "Python Automation",
-    price: "EUR 50-500",
-    desc: "Web scrapers, API integrations, data pipelines, browser automation.",
-    href: "/services/python-automation",
-  },
-  {
-    title: "Fiverr Automation",
-    price: "EUR 50-500/gig",
-    desc: "Listed on Fiverr with 2-5 day delivery. Web scraping, API integrations, browser automation.",
-    href: "https://fiverr.com/thinkflow_ro",
-    external: true,
-  },
+  { slug: "private-ai-infrastructure", href: "/services/private-ai-infrastructure" },
+  { slug: "web-development", href: "/services/web-development" },
+  { slug: "technical-consulting", href: "/services/technical-consulting" },
+  { slug: "cloud-cost-migration-audit", href: "/services/cloud-cost-migration-audit" },
+  { slug: "seo-geo-content", href: "/services/seo-geo-content" },
+  { slug: "copywriting-b2b", href: "/services/copywriting-b2b" },
+  { slug: "python-automation", href: "/services/python-automation" },
+  { slug: "fiverr-automation", href: "https://fiverr.com/thinkflow_ro", external: true },
 ];
 
-const archNodes = [
-  { label: "Router", desc: "Neural gateway that classifies intent and routes ingestion flows" },
-  { label: "Analyzer", desc: "Vector agent that extracts meaning from raw data" },
-  { label: "Strategist", desc: "Cognitive layer that plans optimal execution paths" },
-  { label: "Writer", desc: "Execution core that generates structured output" },
-  { label: "Memory", desc: "Persistent vector storage for continuous learning" },
-  { label: "Reviewer", desc: "Safety protocol — real-time self-audit and validation" },
-];
+const archNodeSlugs = ["router", "analyzer", "strategist", "writer", "memory", "reviewer"] as const;
 
 function ScrollSection({ children, className = "" }: { children: React.ReactNode; className?: string }) {
   const [ref, visible] = useScrollReveal(0.1);
@@ -117,6 +69,12 @@ function StatCard({ value, suffix, prefix, label, decimals, start }: {
 
 export default function HomePage() {
   const t = useTranslations();
+  const archNodes = archNodeSlugs.map((slug) => ({
+    slug,
+    label: t(`home.archNodes.${slug}.label`),
+    desc: t(`home.archNodes.${slug}.desc`),
+    subtitle: t(`home.archNodes.${slug}.subtitle`),
+  }));
   const [heroRef, heroVisible] = useScrollReveal(0.01);
   const [servicesRef, servicesVisible] = useScrollReveal(0.1);
   const [pipelineRef, pipelineVisible] = useScrollReveal(0.1);
@@ -282,23 +240,23 @@ export default function HomePage() {
                   <path d="M620 67 Q350 155 60 67" stroke="rgba(255,255,255,0.1)" strokeWidth="1" strokeDasharray="2 5" fill="none" markerEnd="url(#archArrow)" />
 
                   {[
-                    { x: 60, label: "Router" },
-                    { x: 200, label: "Analyzer" },
-                    { x: 340, label: "Strategist" },
-                    { x: 480, label: "Writer" },
-                    { x: 620, label: "Reviewer" },
+                    { x: 60, slug: "router" },
+                    { x: 200, slug: "analyzer" },
+                    { x: 340, slug: "strategist" },
+                    { x: 480, slug: "writer" },
+                    { x: 620, slug: "reviewer" },
                   ].map((n) => (
-                    <g key={n.label}>
+                    <g key={n.slug}>
                       <circle cx={n.x} cy="45" r="20" fill="#050505" stroke="rgba(59,130,246,0.35)" strokeWidth="1.5" />
                       <text x={n.x} y="83" textAnchor="middle" fontSize="10" fill="rgba(255,255,255,0.4)" letterSpacing="1" className="uppercase font-montserrat-bold">
-                        {n.label}
+                        {t(`home.archNodes.${n.slug}.label`)}
                       </text>
                     </g>
                   ))}
                   <g>
                     <circle cx="410" cy="130" r="16" fill="#050505" stroke="rgba(59,130,246,0.2)" strokeWidth="1.5" strokeDasharray="2 2" />
                     <text x="410" y="155" textAnchor="middle" fontSize="9" fill="rgba(255,255,255,0.3)" letterSpacing="1" className="uppercase font-montserrat-bold">
-                      Memory
+                      {t("home.archNodes.memory.label")}
                     </text>
                   </g>
                 </svg>
@@ -307,7 +265,7 @@ export default function HomePage() {
               <div className="stagger-children relative flex flex-wrap justify-center gap-4 lg:gap-6">
                 {archNodes.map((node, i) => (
                   <div
-                    key={node.label}
+                    key={node.slug}
                     className="group w-[130px] sm:w-[150px] glass-card p-5 text-center transition-all hover:border-[#3b82f6]/30 hover:shadow-[0_0_25px_rgba(59,130,246,0.15)] cursor-pointer relative noise-overlay"
                   >
                     <div className="w-10 h-10 mx-auto mb-3 rounded-full bg-black border border-white/10 flex items-center justify-center group-hover:border-[#3b82f6]/30 transition-all">
@@ -322,7 +280,7 @@ export default function HomePage() {
                     </div>
                     <div className="font-montserrat-bold text-sm text-white mb-1">{node.label}</div>
                     <div className="text-[10px] leading-tight text-white/30 font-montserrat-bold uppercase tracking-[0.15em]">
-                      {["Neural Gateway", "Vector Agent", "Cognitive Layer", "Execution Core", "Infra Layer", "Safety Protocol"][i]}
+                      {node.subtitle}
                     </div>
                     <div className="mt-2 text-[10px] text-white/40 opacity-0 transition-opacity group-hover:opacity-100 leading-snug">
                       {node.desc}
@@ -395,12 +353,7 @@ export default function HomePage() {
                 {t("home.whoFor")}
               </h2>
               <div className="space-y-4">
-                {[
-                  "Premium agencies with a standardized, well-documented deliverable.",
-                  "Visionary teams seeking absolute control through sovereign AI.",
-                  "Companies that need SOTA private infrastructure, not generic chatbots.",
-                  "Brands ready for elite web development platforms and maximum conversion.",
-                ].map((text, i) => (
+                {(t.raw("home.audienceList") as string[]).map((text, i) => (
                   <div key={i} className="flex items-start gap-4 text-sm lg:text-xl text-white/90 font-black pb-4 border-b border-white/5 uppercase tracking-tight group hover:border-[#3b82f6]/20 transition-all">
                     <div className="mt-1.5 relative shrink-0">
                       <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#3b82f6" strokeWidth="2" className="drop-shadow-[0_0_8px_rgba(59,130,246,0.8)] relative z-10 group-hover:scale-125 transition-transform">
@@ -424,13 +377,13 @@ export default function HomePage() {
               <div className="space-y-4">
                 <input
                   type="email"
-                  placeholder="CONTACT@AGENCY.AI"
+                  placeholder={t("home.auditEmailPlaceholder")}
                   className="w-full px-8 py-5 bg-black/40 border border-white/5 rounded-2xl text-xs font-bold uppercase tracking-widest focus:outline-none focus:border-[#3b82f6]/40 focus:ring-1 focus:ring-[#3b82f6]/10 transition-all placeholder:text-white/10"
                 />
                 <ShimmerButton href="/contact">{t("home.auditButtonAlt")}</ShimmerButton>
               </div>
               <p className="mt-8 text-[8px] font-montserrat-regular text-white/10 leading-relaxed uppercase tracking-[0.3em]">
-                &copy; 2026 ThinkFLOW Systems. Architecture based on Python / LangGraph / Docker. Elite Infrastructure.
+                {t("home.auditFooterNote")}
               </p>
             </div>
           </div>
@@ -457,10 +410,10 @@ export default function HomePage() {
 
             <div className="grid gap-4 md:grid-cols-2 lg:grid-cols-3">
               {services.map((s) => (
-                <div key={s.title} className="glass-card p-6 group hover:border-[#3b82f6]/20 transition-all relative noise-overlay">
-                  <h3 className="mb-1 text-lg font-montserrat-bold group-hover:text-[#3b82f6] transition-colors">{s.title}</h3>
-                  <p className="mb-2 text-sm text-[#3b82f6] font-montserrat-bold">{s.price}</p>
-                  <p className="mb-4 text-sm text-white/50 font-montserrat-regular">{s.desc}</p>
+                <div key={s.slug} className="glass-card p-6 group hover:border-[#3b82f6]/20 transition-all relative noise-overlay">
+                  <h3 className="mb-1 text-lg font-montserrat-bold group-hover:text-[#3b82f6] transition-colors">{t(`services.homepageItems.${s.slug}.title`)}</h3>
+                  <p className="mb-2 text-sm text-[#3b82f6] font-montserrat-bold">{t(`services.homepageItems.${s.slug}.price`)}</p>
+                  <p className="mb-4 text-sm text-white/50 font-montserrat-regular">{t(`services.homepageItems.${s.slug}.desc`)}</p>
                   {"external" in s && s.external ? (
                     <a
                       href={s.href}

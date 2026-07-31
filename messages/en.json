@@ -15,7 +15,8 @@
   },
   "header": {
     "sota": "SOTA",
-    "tagline": "PREMIUM AI INFRASTRUCTURE"
+    "tagline": "PREMIUM AI INFRASTRUCTURE",
+    "toggleMenu": "Toggle menu"
   },
   "home": {
     "heroTitle": "YOUR TIME IS FINITE.\nYOUR INFRASTRUCTURE IS LIMITLESS.",
@@ -50,7 +51,47 @@
     "whoFor": "WHO IS ThinkFLOW FOR.",
     "auditCta": "Ready to Evolve?",
     "auditButton": "REQUEST A PRIVATE INFRASTRUCTURE AUDIT",
-    "auditButtonAlt": "Check Eligibility Now"
+    "auditButtonAlt": "Check Eligibility Now",
+    "archNodes": {
+      "router": {
+        "label": "Router",
+        "desc": "Neural gateway that classifies intent and routes ingestion flows",
+        "subtitle": "Neural Gateway"
+      },
+      "analyzer": {
+        "label": "Analyzer",
+        "desc": "Vector agent that extracts meaning from raw data",
+        "subtitle": "Vector Agent"
+      },
+      "strategist": {
+        "label": "Strategist",
+        "desc": "Cognitive layer that plans optimal execution paths",
+        "subtitle": "Cognitive Layer"
+      },
+      "writer": {
+        "label": "Writer",
+        "desc": "Execution core that generates structured output",
+        "subtitle": "Execution Core"
+      },
+      "memory": {
+        "label": "Memory",
+        "desc": "Persistent vector storage for continuous learning",
+        "subtitle": "Infra Layer"
+      },
+      "reviewer": {
+        "label": "Reviewer",
+        "desc": "Safety protocol — real-time self-audit and validation",
+        "subtitle": "Safety Protocol"
+      }
+    },
+    "audienceList": [
+      "Premium agencies with a standardized, well-documented deliverable.",
+      "Visionary teams seeking absolute control through sovereign AI.",
+      "Companies that need SOTA private infrastructure, not generic chatbots.",
+      "Brands ready for elite web development platforms and maximum conversion."
+    ],
+    "auditFooterNote": "© 2026 ThinkFLOW Systems. Architecture based on Python / LangGraph / Docker. Elite Infrastructure.",
+    "auditEmailPlaceholder": "CONTACT@AGENCY.AI"
   },
   "news": {
     "title": "News",
@@ -84,7 +125,15 @@
     "onThisPage": "On this page",
     "affiliateNotice": "Some links in this article are affiliate links. If you make a purchase through them, we may receive a commission at no extra cost to you. See our",
     "affiliateLink": "full disclosure",
-    "readAboutAuthor": "Read more"
+    "readAboutAuthor": "Read more",
+    "verificationBadge": {
+      "verifiedLabel": "Verified from production",
+      "marketAnalysisLabel": "Market analysis",
+      "verifiedTooltip": "Based on our own production work — benchmarks and results we ran ourselves.",
+      "marketAnalysisTooltip": "Analysis based on public data, vendor docs, and available benchmarks — not independently re-tested by us."
+    },
+    "authorBio": "AI Systems Architect. Building private AI infrastructure since 2025.",
+    "postNotFound": "Post Not Found"
   },
   "contact": {
     "title": "Contact",
@@ -128,7 +177,8 @@
     "affiliateNotice": "Some links on this site are affiliate links. See our",
     "copyright": "© {year} ThinkFLOW Systems. All rights reserved.",
     "email": "contact@thinkflow.ro",
-    "location": "Bucharest, Romania"
+    "location": "Bucharest, Romania",
+    "backToTop": "Back to top"
   },
   "services": {
     "title": "Services",
@@ -137,7 +187,266 @@
     "learnMore": "Learn More →",
     "viewOnFiverr": "View on Fiverr →",
     "backToServices": "All Services",
-    "viewAll": "View all services →"
+    "viewAll": "View all services →",
+    "homepageItems": {
+      "private-ai-infrastructure": {
+        "title": "Private AI Infrastructure",
+        "price": "EUR 2,500+",
+        "desc": "Custom LLM deployment, RAG pipelines, agent orchestration on private hardware. Complete data sovereignty."
+      },
+      "web-development": {
+        "title": "Web Development",
+        "price": "EUR 1,500+",
+        "desc": "Next.js, Astro, React applications. Landing pages, documentation, full-stack web apps."
+      },
+      "technical-consulting": {
+        "title": "Technical Consulting",
+        "price": "EUR 2,000/day",
+        "desc": "Architecture review, code audit, performance optimization, AI infrastructure planning."
+      },
+      "cloud-cost-migration-audit": {
+        "title": "Cloud Cost & Migration Audit",
+        "price": "EUR 1,500-4,000",
+        "desc": "Fixed-fee audit of your AWS/GPU bill. Real case study: 86% cost cut, latency improved."
+      },
+      "seo-geo-content": {
+        "title": "SEO & GEO Content",
+        "price": "EUR 150/article",
+        "desc": "GEO-optimized affiliate content with original benchmarks. AI-citable, not just Google-ranked."
+      },
+      "copywriting-b2b": {
+        "title": "Copywriting B2B",
+        "price": "EUR 500/package",
+        "desc": "Landing pages, email sequences, Facebook ads. Data-driven copy for technical audiences."
+      },
+      "python-automation": {
+        "title": "Python Automation",
+        "price": "EUR 50-500",
+        "desc": "Web scrapers, API integrations, data pipelines, browser automation."
+      },
+      "fiverr-automation": {
+        "title": "Fiverr Automation",
+        "price": "EUR 50-500/gig",
+        "desc": "Listed on Fiverr with 2-5 day delivery. Web scraping, API integrations, browser automation."
+      }
+    },
+    "list": {
+      "private-ai-infrastructure": {
+        "title": "Private AI Infrastructure",
+        "price": "EUR 2,500+",
+        "desc": "Custom LLM deployment, RAG pipelines, agent orchestration on private hardware. Complete data sovereignty with no third-party API dependencies."
+      },
+      "web-development": {
+        "title": "Web Development",
+        "price": "EUR 1,500+",
+        "desc": "Next.js, Astro, and React applications. Landing pages, documentation sites, full-stack web apps with modern performance standards."
+      },
+      "technical-consulting": {
+        "title": "Technical Consulting",
+        "price": "EUR 2,000/day",
+        "desc": "Architecture review, code audit, performance optimization, and AI infrastructure planning for technical teams."
+      },
+      "cloud-cost-migration-audit": {
+        "title": "Cloud Cost & Migration Audit",
+        "price": "EUR 1,500-4,000",
+        "desc": "Fixed-fee audit of your AWS/GPU cloud bill with a phased migration plan. Real case study: 86% cost cut, $2,745/mo to $377/mo, latency improved not traded away."
+      },
+      "seo-geo-content": {
+        "title": "SEO & GEO Content",
+        "price": "EUR 150/article",
+        "desc": "GEO-optimized affiliate content with original benchmarks. Designed for AI citation, not just Google ranking."
+      },
+      "copywriting-b2b": {
+        "title": "Copywriting B2B",
+        "price": "EUR 500/package",
+        "desc": "Landing pages, email sequences, Facebook ads. Data-driven copy that converts technical audiences."
+      },
+      "python-automation": {
+        "title": "Python Automation",
+        "price": "EUR 50-500",
+        "desc": "Web scrapers, API integrations, data pipelines, browser automation. Custom scripts tailored to your workflow."
+      },
+      "fiverr-automation": {
+        "title": "Fiverr Automation Services",
+        "price": "EUR 50-500/gig",
+        "desc": "Listed on Fiverr with 2-5 day delivery. Web scraping, API integrations, browser automation, data cleaning, and custom Python scripts."
+      }
+    },
+    "detail": {
+      "privateAi": {
+        "title": "Private AI Infrastructure",
+        "price": "EUR 2,500+",
+        "desc": "Custom LLM deployment, RAG pipelines, and agent orchestration on private hardware. Complete data sovereignty — no third-party API dependencies.",
+        "details": [
+          "Ollama deployment with 28+ local models, benchmarked and production-tested",
+          "RAG pipeline design with Qdrant, Chroma, or Pinecone vector storage",
+          "Autonomous agent orchestration using LangGraph and Python",
+          "Circuit breaker, retry, and failover patterns for production reliability",
+          "Monitoring stack with structured JSON logging and health endpoints"
+        ],
+        "audiences": [
+          "Agencies needing private AI without API costs",
+          "CTOs building sovereign AI infrastructure",
+          "Teams that handle sensitive client data"
+        ]
+      },
+      "webDevelopment": {
+        "title": "Web Development",
+        "price": "EUR 1,500+",
+        "desc": "Next.js, Astro, and React applications built for performance and conversion.",
+        "details": [
+          "Next.js 16 App Router with SSG/ISR for optimal Core Web Vitals",
+          "Astro sites for content-heavy projects with zero JS by default",
+          "Tailwind CSS v4 with dark mode and responsive design",
+          "JSON-LD structured data for AI crawlability (GEO optimization)",
+          "Vercel or Cloudflare Pages deployment with edge caching",
+          "i18n support (EN/RO/ES multilanguage architecture)"
+        ],
+        "audiences": [
+          "SaaS startups needing a marketing site",
+          "Agencies wanting a showcase website",
+          "Content creators needing a GEO-optimized blog"
+        ]
+      },
+      "technicalConsulting": {
+        "title": "Technical Consulting",
+        "price": "EUR 2,000/day",
+        "desc": "Architecture review, code audit, performance optimization, and AI infrastructure planning.",
+        "details": [
+          "Full architecture audit with written recommendations",
+          "Code review focused on security, performance, and maintainability",
+          "AI infrastructure planning: model selection, hardware sizing, RAG design",
+          "Performance optimization: Core Web Vitals, database queries, caching strategy",
+          "LLM prompt engineering and system prompt design review"
+        ],
+        "audiences": [
+          "Technical teams preparing for AI integration",
+          "Startups needing architecture review before scaling",
+          "Companies evaluating local vs cloud LLM deployment"
+        ]
+      },
+      "cloudCostMigrationAudit": {
+        "title": "Cloud Cost & Migration Audit",
+        "price": "EUR 1,500-4,000",
+        "desc": "A fixed-fee audit of your AWS/GPU cloud bill with a phased, benchmarked migration plan. Built on a real case study, not a vendor slide.",
+        "details": [
+          "Full line-item review of your current cloud bill (compute, storage, network, managed services)",
+          "Benchmarked comparison against alternative hosting sized to your actual workload — not a generic 'move everything' recommendation",
+          "Phased migration plan with realistic timeline and rollback plan",
+          "Projected savings backed by real numbers: our own migration cut $2,745/mo to $377/mo (86%) with latency improved, not traded away",
+          "Fixed price, no success-fee or percentage-of-savings clauses"
+        ],
+        "audiences": [
+          "Teams running LLM inference or GPU workloads with a cloud bill that's started to hurt",
+          "Teams that inherited an AWS setup sized for 'might need to scale fast' rather than what they run today",
+          "Solo founders/small teams below the spend threshold where enterprise FinOps firms ($15k-250k engagements) make sense"
+        ]
+      },
+      "seoGeoContent": {
+        "title": "SEO & GEO Content",
+        "price": "EUR 150/article",
+        "desc": "GEO-optimized affiliate content with original benchmarks. Designed for AI citation, not just Google ranking.",
+        "details": [
+          "GEO keyword discovery from conversational queries (HN, Reddit, StackExchange)",
+          "Original benchmarks and named frameworks that AIs cite as sources",
+          "Honest pros/cons comparisons — every tool evaluated fairly",
+          "Conversational FAQ answering real user questions from ChatGPT/Perplexity",
+          "Affiliate link integration with UTM tracking and sponsored markup",
+          "Warden QA: regex + LLM validation for GEO compliance"
+        ],
+        "audiences": [
+          "Affiliate marketers targeting AI-savvy readers",
+          "SaaS companies wanting GEO-optimized reviews",
+          "Blog owners building AI-citable authority content"
+        ]
+      },
+      "copywritingB2b": {
+        "title": "Copywriting B2B",
+        "price": "EUR 500/package",
+        "desc": "Landing pages, email sequences, and Facebook ads. Data-driven copy that converts technical audiences.",
+        "details": [
+          "Landing page copy optimized for B2B technical buyers",
+          "Email sequences (welcome, nurture, launch, re-engagement)",
+          "Facebook ad variants (5 versions with A/B testing framework)",
+          "Strategy brief with positioning, messaging, and audience analysis",
+          "Tone: authoritative, technical, honest — no marketing fluff"
+        ],
+        "audiences": [
+          "B2B SaaS companies launching new products",
+          "Agencies needing copy for technical clients",
+          "Startups preparing go-to-market messaging"
+        ]
+      },
+      "fiverrAutomation": {
+        "title": "Fiverr Automation Services",
+        "price": "EUR 50-500/gig",
+        "desc": "Listed on Fiverr with 2-5 day delivery. Web scraping, API integrations, browser automation, data cleaning, and custom Python scripts.",
+        "details": [
+          "Fiverr gig listing with 2-5 day delivery window",
+          "Web scrapers (Playwright, BeautifulSoup, Scrapy)",
+          "API integrations and data synchronization",
+          "Browser automation (login flows, form filling, PDF generation)",
+          "Data cleaning, transformation, and ETL",
+          "Custom CLI tools and workflow scripts"
+        ],
+        "audiences": [
+          "Businesses needing quick automation tasks",
+          "Fiverr buyers wanting custom Python scripts",
+          "Teams needing reliable one-off data work"
+        ]
+      },
+      "pythonAutomation": {
+        "title": "Python Automation",
+        "price": "EUR 50-500",
+        "desc": "Custom Python scripts for web scraping, API integration, data pipelines, and browser automation.",
+        "details": [
+          "Web scrapers with Playwright, BeautifulSoup, Scrapy",
+          "API integrations and data synchronization scripts",
+          "Data cleaning, transformation, and ETL pipelines",
+          "Browser automation with Playwright (login flows, form filling, PDF generation)",
+          "Custom CLI tools and productivity scripts",
+          "Delivered with documentation and error handling"
+        ],
+        "audiences": [
+          "Businesses needing data extraction from websites",
+          "Teams wanting to automate repetitive tasks",
+          "Developers needing API integration scripts"
+        ]
+      },
+      "inquireCta": "Inquire About This Service",
+      "whatYouGet": "What You Get",
+      "whoThisIsFor": "Who This Is For"
+    },
+    "notFound": {
+      "title": "Service Not Found",
+      "description": "The service you are looking for does not exist."
+    }
+  },
+  "servicesDigital": {
+    "metaTitle": "Digital Services — Coming Soon",
+    "title": "Digital Services",
+    "description": "Automated document processing — checkout coming soon.",
+    "badge": "Coming Soon",
+    "notice": "Online checkout for these services isn't live yet. In the meantime, reach out directly and we'll get it sorted manually.",
+    "contactCta": "Contact us →",
+    "items": {
+      "translation": {
+        "name": "Translation (EN ↔ RO)",
+        "desc": "Professional document translation between English and Romanian."
+      },
+      "resumeCv": {
+        "name": "Resume / CV Writing",
+        "desc": "ATS-optimized CV + cover letter generation."
+      },
+      "dataCleaning": {
+        "name": "Data Cleaning",
+        "desc": "CSV/Excel deduplication, normalization, and cleaning."
+      },
+      "pdfProcessing": {
+        "name": "PDF Processing",
+        "desc": "Compress, merge, split, or OCR your PDF files."
+      }
+    }
   },
   "about": {
     "title": "About ThinkFLOW",
@@ -148,27 +457,213 @@
     "bio2": "ThinkFLOW is the result of that vision - a technical consultancy practice specializing in private LLM deployment, RAG pipelines, agent orchestration and high-performance web development.",
     "expertiseHeading": "Expertise",
     "expertiseDesc": "Python, LangGraph, TypeScript, Next.js, React, Docker, PostgreSQL, Supabase, vector databases, LLM fine-tuning, RAG architectures and autonomous agent systems.",
-    "connectHeading": "Connect"
+    "connectHeading": "Connect",
+    "emailLabel": "Email:",
+    "fiverrLabel": "Fiverr:",
+    "githubLabel": "GitHub:"
   },
   "mediaKit": {
     "title": "Media Kit",
     "badge": "Partner Resources",
-    "description": "For brands, partners and affiliate networks."
+    "description": "For brands, partners and affiliate networks.",
+    "sections": {
+      "about": {
+        "heading": "About ThinkFLOW",
+        "body1": "ThinkFLOW provides private AI infrastructure, web development, and technical consulting for agencies and businesses that demand data sovereignty and production-grade reliability. We build autonomous systems using Python, LangGraph, Docker, and local LLM infrastructure."
+      },
+      "categories": {
+        "heading": "Content Categories",
+        "item1Label": "Cloud & Hosting Infrastructure",
+        "item1Desc": "— Vercel, Cloudflare, AWS, deployment",
+        "item2Label": "AI & LLM Engineering",
+        "item2Desc": "— RAG pipelines, Ollama, vector databases, agent orchestration",
+        "item3Label": "DevOps & Automation",
+        "item3Desc": "— Docker, CI/CD, monitoring, browser automation",
+        "item4Label": "Web Development",
+        "item4Desc": "— Next.js, Astro, performance optimization, SEO",
+        "item5Label": "Technical Comparisons",
+        "item5Desc": "— GEO-optimized, clearly labeled as production-verified or market analysis, honest pros/cons"
+      },
+      "audience": {
+        "heading": "Audience",
+        "body1": "Our audience consists of technical founders, CTOs, lead developers, and agency owners who make infrastructure and tooling decisions. Readers are engineering-focused, value benchmarks and real data, and prefer depth over breadth."
+      },
+      "numbers": {
+        "heading": "By the Numbers",
+        "item1": "1,200+ operations processed on private infrastructure",
+        "item2": "28+ local LLM models benchmarked and deployed",
+        "item3": "3.2x average scaling speed improvement",
+        "item4": "100% data sovereignty (no third-party API dependencies)"
+      },
+      "partner": {
+        "heading": "Partner With Us",
+        "body1": "Interested in a product review, sponsored content, or affiliate partnership? Contact us at contact@thinkflow.ro with your brand name, product category, and partnership proposal."
+      }
+    }
   },
   "affiliate": {
     "title": "Affiliate Disclosure",
     "badge": "Legal",
-    "description": "Transparency about our affiliate relationships. FTC & GDPR compliant."
+    "description": "Transparency about our affiliate relationships. FTC & GDPR compliant.",
+    "sections": {
+      "intro": "ThinkFLOW participates in affiliate marketing programs. This means that some of the links on our website are affiliate links. If you click on an affiliate link and make a purchase, we may earn a commission at no additional cost to you.",
+      "commitment": {
+        "heading": "Our Commitment",
+        "body1": "We label every article with one of two tags, visible at the top of the post, so you know exactly what you are reading:",
+        "verifiedLabel": "Verified from production",
+        "verifiedBody": "— based on our own infrastructure, our own benchmarks, and work we actually shipped. Numbers in these posts are ours.",
+        "marketLabel": "Market analysis",
+        "marketBody": "— informed analysis and comparison based on public documentation, vendor-published pricing, and available third-party benchmarks, not independently re-tested by us. Still honest, still useful, but not a claim of hands-on testing.",
+        "body2": "Affiliate relationships do not influence which products we recommend or how we label an article."
+      },
+      "programs": {
+        "heading": "Programs We Participate In"
+      },
+      "identify": {
+        "heading": "How We Identify Affiliate Links",
+        "prefix": "Affiliate links on thinkflow.ro are marked with",
+        "suffix": "attributes. Some may include UTM parameters for tracking purposes. We also place affiliate disclosure notices at the top and bottom of any page containing affiliate links."
+      },
+      "questions": {
+        "heading": "Questions?",
+        "body1": "If you have any questions about our affiliate relationships, please contact us at contact@thinkflow.ro."
+      }
+    }
   },
   "terms": {
     "title": "Terms & Conditions",
     "badge": "Legal",
-    "description": "Last updated: July 7, 2026"
+    "description": "Last updated: July 7, 2026",
+    "sections": {
+      "s1": {
+        "heading": "1. Services",
+        "body1": "ThinkFLOW provides private AI infrastructure deployment, web development, technical consulting, content creation, and automation services (\"Services\"). Each engagement is governed by a separate Statement of Work (SoW) or project proposal that references these Terms."
+      },
+      "s2": {
+        "heading": "2. Right of Withdrawal (EU Consumers)",
+        "body1": "If you are a consumer in the European Union, you have the right to withdraw from a service contract within 14 days without giving any reason. The withdrawal period expires 14 days after the day the contract is concluded.",
+        "body2": "To exercise the right of withdrawal, you must inform us of your decision by a clear statement (e.g., email to contact@thinkflow.ro). We will reimburse all payments received from you within 14 days of receiving your withdrawal notice.",
+        "exceptionLabel": "Exception:",
+        "exceptionBody": "If you expressly request that the service begin during the withdrawal period and the service has been fully performed, the right of withdrawal expires."
+      },
+      "s3": {
+        "heading": "3. Intellectual Property",
+        "body1": "All code, configurations, and deliverables remain the intellectual property of ThinkFLOW until full payment is received. Upon final payment, full IP rights for the specific deliverables are transferred to the Client. ThinkFLOW retains the right to use generalized techniques and methodologies developed during the engagement."
+      },
+      "s4": {
+        "heading": "4. Payment Terms",
+        "body1": "Projects are billed 50% upfront and 50% upon delivery unless otherwise specified in the SoW. Invoices are issued in EUR and are due within 14 days of receipt. Late payments incur a 1.5% monthly interest charge."
+      },
+      "s5": {
+        "heading": "5. Confidentiality",
+        "body1": "Both parties agree to treat all shared business and technical information as confidential for a period of 24 months after the engagement ends. This includes source code, architecture diagrams, business strategies, and client data."
+      },
+      "s6": {
+        "heading": "6. Warranties and Disclaimer",
+        "body1": "Services are provided \"as is\" and \"as available.\" We make no warranty that services will be uninterrupted, timely, secure, or error-free. We warrant that deliverables will conform to the agreed specifications for 30 days after delivery. Any non-conformance reported within this period will be corrected at no additional charge."
+      },
+      "s7": {
+        "heading": "7. Limitation of Liability",
+        "body1": "ThinkFLOW is not liable for indirect, incidental, or consequential damages arising from the use of our Services. Our total liability for any claim is limited to the total amount paid by the Client for the specific engagement giving rise to the claim."
+      },
+      "s8": {
+        "heading": "8. Termination",
+        "body1": "Either party may terminate an engagement with 14 days written notice. Upon termination, the Client pays for all work completed up to the termination date. Intellectual property for paid work is transferred per Section 3."
+      },
+      "s9": {
+        "heading": "9. Governing Law and Dispute Resolution",
+        "body1": "These Terms are governed by the laws of Romania. Any disputes shall first be attempted to be resolved through amicable negotiation. If negotiation fails, disputes shall be resolved in the courts of Bucharest, Romania.",
+        "odrPrefix": "The European Commission provides an online dispute resolution platform at"
+      },
+      "s10": {
+        "heading": "10. Service Availability",
+        "body1": "We aim for 99.9% uptime for hosted services but do not guarantee uninterrupted availability. Scheduled maintenance will be communicated at least 48 hours in advance."
+      },
+      "s11": {
+        "heading": "11. Contact",
+        "contactPrefix": "For questions about these Terms, contact us at"
+      }
+    }
   },
   "privacy": {
     "title": "Privacy Policy",
     "badge": "Legal",
-    "description": "Last updated: July 7, 2026"
+    "description": "Last updated: July 7, 2026",
+    "sections": {
+      "s1": {
+        "heading": "1. Data Controller",
+        "body1": "ThinkFLOW Systems (contact@thinkflow.ro, Bucharest, Romania) is the data controller for personal data collected through thinkflow.ro and related subdomains.",
+        "body2Prefix": "You can contact our data protection representative at:"
+      },
+      "s2": {
+        "heading": "2. What We Collect",
+        "body1": "We collect: name and email address (via contact forms and newsletter signup), IP address and browser user agent (via server logs), affiliate tracking via URL parameters (no cookies), and usage data (pages visited, time on site).",
+        "body2": "We do not collect sensitive personal data (health, religion, political affiliation)."
+      },
+      "s3": {
+        "heading": "3. Legal Basis (GDPR Art. 6)",
+        "body1": "We process your data based on: your consent (contact form submissions, newsletter signup, cookie consent — Art. 6(1)(a)), contract performance (service delivery — Art. 6(1)(b)), and legitimate interests (analytics, affiliate tracking, site security — Art. 6(1)(f))."
+      },
+      "s4": {
+        "heading": "4. How We Use Your Data",
+        "body1": "To respond to inquiries and deliver services, to send newsletters (only with explicit consent), to improve our website and content, to track affiliate referrals and commissions, and to comply with legal obligations."
+      },
+      "s5": {
+        "heading": "5. Cookies",
+        "body1": "We use only essential cookies for site functionality. Affiliate referral links use URL parameters (not cookies) for tracking. We do not use tracking cookies or third-party analytics cookies without your explicit consent. You can disable cookies in your browser settings.",
+        "body2": "When we implement analytics, you will be asked for consent via a cookie banner before any non-essential cookies are placed."
+      },
+      "s6": {
+        "heading": "6. Data Sharing and International Transfers",
+        "body1": "We share data with: Vercel Inc. (US — hosting and server logs, covered by EU-US Data Privacy Framework), and email service providers for transactional emails. We do not sell personal data to third parties.",
+        "body2": "For transfers to the US, we rely on the EU-US Data Privacy Framework or Standard Contractual Clauses as applicable. A copy of the relevant safeguards is available on request."
+      },
+      "s7": {
+        "heading": "7. Data Retention",
+        "body1": "We retain personal data for 24 months after the last contact. Newsletter subscription data is retained until you unsubscribe. Affiliate tracking data is retained for the duration of the affiliate program relationship. You may request earlier deletion at any time."
+      },
+      "s8": {
+        "heading": "8. Your Rights (GDPR)",
+        "intro": "Under GDPR, you have the following rights:",
+        "right1Label": "Right of access",
+        "right1Body": "(Art. 15) — request a copy of your data",
+        "right2Label": "Right to rectification",
+        "right2Body": "(Art. 16) — correct inaccurate data",
+        "right3Label": "Right to erasure",
+        "right3Body": "(Art. 17) — right to be forgotten",
+        "right4Label": "Right to restrict processing",
+        "right4Body": "(Art. 18)",
+        "right5Label": "Right to data portability",
+        "right5Body": "(Art. 20)",
+        "right6Label": "Right to object",
+        "right6Body": "(Art. 21) — including objection to direct marketing",
+        "right7Label": "Right to withdraw consent",
+        "right7Body": "at any time, without affecting the lawfulness of processing based on consent before its withdrawal",
+        "closingPrefix": "To exercise these rights, contact us at",
+        "closingSuffix": "We will respond within 30 days."
+      },
+      "s9": {
+        "heading": "9. Right to Lodge a Complaint",
+        "body1": "If you believe your data protection rights have been violated, you have the right to lodge a complaint with the Romanian National Supervisory Authority for Personal Data Processing (ANSPDCP — Autoritatea Nationala de Supraveghere a Prelucrarii Datelor cu Caracter Personal):"
+      },
+      "s10": {
+        "heading": "10. CCPA Rights",
+        "body1": "California residents have the right to: know what personal data is collected, request deletion, and opt out of the sale of personal data. We do not sell personal data."
+      },
+      "s11": {
+        "heading": "11. Security",
+        "body1": "We implement AES-256 encryption for stored data, TLS/HTTPS for all data in transit, and restricted access to personal data on a need-to-know basis. We conduct periodic security reviews."
+      },
+      "s12": {
+        "heading": "12. Changes to This Policy",
+        "body1": "We will notify you of material changes to this policy via email (if we have your contact information) or a prominent notice on our website at least 30 days before changes take effect."
+      },
+      "s13": {
+        "heading": "13. Contact",
+        "contactPrefix": "For privacy-related inquiries:",
+        "contactSuffix": ", Bucharest, Romania."
+      }
+    }
   },
   "common": {
     "noContent": "No content available.",

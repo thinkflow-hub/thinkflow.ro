@@ -15,7 +15,8 @@
   },
   "header": {
     "sota": "SOTA",
-    "tagline": "INFRASTRUCTURĂ AI DE TOP"
+    "tagline": "INFRASTRUCTURĂ AI DE TOP",
+    "toggleMenu": "Comutare meniu"
   },
   "home": {
     "heroTitle": "TIMPUL TĂU E FINIT.\nINFRASTRUCTURA TA E FĂRĂ LIMITĂ.",
@@ -50,7 +51,47 @@
     "whoFor": "PENTRU CINE E ThinkFLOW.",
     "auditCta": "Pregătit pentru Evoluție?",
     "auditButton": "SOLICITĂ UN AUDIT PRIVAT DE INFRASTRUCTURĂ",
-    "auditButtonAlt": "Verifică Eligibilitatea Acum"
+    "auditButtonAlt": "Verifică Eligibilitatea Acum",
+    "archNodes": {
+      "router": {
+        "label": "Router",
+        "desc": "Gateway neural care clasifică intenția și direcționează fluxurile de ingestie",
+        "subtitle": "Gateway Neural"
+      },
+      "analyzer": {
+        "label": "Analizor",
+        "desc": "Agent vectorial care extrage sensul din datele brute",
+        "subtitle": "Agent Vectorial"
+      },
+      "strategist": {
+        "label": "Strateg",
+        "desc": "Strat cognitiv care planifică traseele optime de execuție",
+        "subtitle": "Strat Cognitiv"
+      },
+      "writer": {
+        "label": "Redactor",
+        "desc": "Nucleu de execuție care generează output structurat",
+        "subtitle": "Nucleu de Execuție"
+      },
+      "memory": {
+        "label": "Memorie",
+        "desc": "Stocare vectorială persistentă pentru învățare continuă",
+        "subtitle": "Strat Infra"
+      },
+      "reviewer": {
+        "label": "Evaluator",
+        "desc": "Protocol de siguranță — auto-audit și validare în timp real",
+        "subtitle": "Protocol de Siguranță"
+      }
+    },
+    "audienceList": [
+      "Agenții premium cu deliverable standardizat și bine documentat.",
+      "Echipe cu viziune care caută control absolut prin AI suveran.",
+      "Companii care au nevoie de infrastructură privată SOTA, nu de chatboți generici.",
+      "Branduri pregătite pentru platforme de dezvoltare web de elită și conversie maximă."
+    ],
+    "auditFooterNote": "© 2026 ThinkFLOW Systems. Arhitectură bazată pe Python / LangGraph / Docker. Infrastructură de elită.",
+    "auditEmailPlaceholder": "CONTACT@AGENCY.AI"
   },
   "news": {
     "title": "Știri",
@@ -84,7 +125,15 @@
     "onThisPage": "Pe această pagină",
     "affiliateNotice": "Unele linkuri din acest articol sunt linkuri de afiliere. Dacă faci o achiziție prin ele, putem primi un comision fără costuri suplimentare pentru tine. Vezi",
     "affiliateLink": "dezvăluirea completă",
-    "readAboutAuthor": "Citește mai mult"
+    "readAboutAuthor": "Citește mai mult",
+    "verificationBadge": {
+      "verifiedLabel": "Verificat din producție",
+      "marketAnalysisLabel": "Analiză de piață",
+      "verifiedTooltip": "Bazat pe munca noastră de producție — benchmark-uri și rezultate rulate chiar de noi.",
+      "marketAnalysisTooltip": "Analiză bazată pe date publice, documentația furnizorului și benchmark-uri disponibile — netestată independent de noi."
+    },
+    "authorBio": "Arhitect de Sisteme AI. Construiește infrastructură AI privată din 2025.",
+    "postNotFound": "Articol negăsit"
   },
   "contact": {
     "title": "Contact",
@@ -128,7 +177,8 @@
     "affiliateNotice": "Unele linkuri de pe acest site sunt linkuri de afiliere. Vezi",
     "copyright": "© {year} ThinkFLOW Systems. Toate drepturile rezervate.",
     "email": "contact@thinkflow.ro",
-    "location": "București, România"
+    "location": "București, România",
+    "backToTop": "Înapoi sus"
   },
   "services": {
     "title": "Servicii",
@@ -137,7 +187,266 @@
     "learnMore": "Află mai multe →",
     "viewOnFiverr": "Vezi pe Fiverr →",
     "backToServices": "Toate Serviciile",
-    "viewAll": "Vezi toate serviciile →"
+    "viewAll": "Vezi toate serviciile →",
+    "homepageItems": {
+      "private-ai-infrastructure": {
+        "title": "Infrastructură AI Privată",
+        "price": "EUR 2,500+",
+        "desc": "Deployment LLM personalizat, pipeline-uri RAG, orchestrare agenți pe hardware privat. Suveranitate completă a datelor."
+      },
+      "web-development": {
+        "title": "Web Development",
+        "price": "EUR 1,500+",
+        "desc": "Aplicații Next.js, Astro, React. Landing pages, documentație, aplicații web full-stack."
+      },
+      "technical-consulting": {
+        "title": "Consultanță Tehnică",
+        "price": "EUR 2,000/zi",
+        "desc": "Review de arhitectură, audit de cod, optimizare performanță, planificare infrastructură AI."
+      },
+      "cloud-cost-migration-audit": {
+        "title": "Audit Cost Cloud & Migrare",
+        "price": "EUR 1,500-4,000",
+        "desc": "Audit cu preț fix al facturii tale AWS/GPU. Studiu de caz real: reducere cost 86%, latență îmbunătățită."
+      },
+      "seo-geo-content": {
+        "title": "Conținut SEO & GEO",
+        "price": "EUR 150/articol",
+        "desc": "Conținut afiliat optimizat GEO, cu benchmark-uri originale. Citabil de AI, nu doar clasat în Google."
+      },
+      "copywriting-b2b": {
+        "title": "Copywriting B2B",
+        "price": "EUR 500/pachet",
+        "desc": "Landing pages, secvențe de email, reclame Facebook. Copy bazat pe date pentru audiențe tehnice."
+      },
+      "python-automation": {
+        "title": "Automatizare Python",
+        "price": "EUR 50-500",
+        "desc": "Web scrapers, integrări API, pipeline-uri de date, automatizare browser."
+      },
+      "fiverr-automation": {
+        "title": "Automatizare Fiverr",
+        "price": "EUR 50-500/gig",
+        "desc": "Listat pe Fiverr, livrare în 2-5 zile. Web scraping, integrări API, automatizare browser."
+      }
+    },
+    "list": {
+      "private-ai-infrastructure": {
+        "title": "Infrastructură AI Privată",
+        "price": "EUR 2,500+",
+        "desc": "Deploy LLM custom, pipeline-uri RAG, orchestrare de agenți pe hardware privat. Suveranitate completă a datelor, fără dependențe de API-uri terțe."
+      },
+      "web-development": {
+        "title": "Dezvoltare Web",
+        "price": "EUR 1,500+",
+        "desc": "Aplicații Next.js, Astro și React. Landing pages, site-uri de documentație, aplicații web full-stack la standarde moderne de performanță."
+      },
+      "technical-consulting": {
+        "title": "Consultanță Tehnică",
+        "price": "EUR 2,000/zi",
+        "desc": "Review de arhitectură, audit de cod, optimizare de performanță și planificare de infrastructură AI pentru echipe tehnice."
+      },
+      "cloud-cost-migration-audit": {
+        "title": "Audit Costuri Cloud & Migrare",
+        "price": "EUR 1,500-4,000",
+        "desc": "Audit cu preț fix al facturii cloud AWS/GPU, cu plan de migrare în etape. Studiu de caz real: reducere de costuri de 86%, de la $2,745/lună la $377/lună, cu latență îmbunătățită, nu compromisă."
+      },
+      "seo-geo-content": {
+        "title": "SEO & Conținut GEO",
+        "price": "EUR 150/articol",
+        "desc": "Conținut afiliat optimizat GEO, cu benchmark-uri originale, orientat spre citare de AI — nu spre poziționare clasică în Google."
+      },
+      "copywriting-b2b": {
+        "title": "Copywriting B2B",
+        "price": "EUR 500/pachet",
+        "desc": "Landing pages, secvențe de email, reclame Facebook. Copy bazat pe date, care convertește audiențe tehnice."
+      },
+      "python-automation": {
+        "title": "Automatizare Python",
+        "price": "EUR 50-500",
+        "desc": "Web scrapers, integrări API, pipeline-uri de date, automatizare de browser. Scripturi custom adaptate workflow-ului tău."
+      },
+      "fiverr-automation": {
+        "title": "Servicii de Automatizare Fiverr",
+        "price": "EUR 50-500/gig",
+        "desc": "Listat pe Fiverr, livrare în 2-5 zile. Web scraping, integrări API, automatizare de browser, curățare de date și scripturi Python custom."
+      }
+    },
+    "detail": {
+      "privateAi": {
+        "title": "Infrastructură AI Privată",
+        "price": "EUR 2,500+",
+        "desc": "Deploy LLM custom, pipeline-uri RAG și orchestrare de agenți pe hardware privat. Suveranitate completă a datelor — fără dependențe de API-uri terțe.",
+        "details": [
+          "Deploy Ollama cu 28+ modele locale, benchmarked și testate în producție",
+          "Design de pipeline RAG cu stocare vectorială Qdrant, Chroma sau Pinecone",
+          "Orchestrare de agenți autonomi cu LangGraph și Python",
+          "Pattern-uri de circuit breaker, retry și failover pentru fiabilitate în producție",
+          "Stack de monitorizare cu logging JSON structurat și health endpoints"
+        ],
+        "audiences": [
+          "Agenții care au nevoie de AI privat fără costuri de API",
+          "CTO-i care construiesc infrastructură AI suverană",
+          "Echipe care gestionează date sensibile de clienți"
+        ]
+      },
+      "webDevelopment": {
+        "title": "Dezvoltare Web",
+        "price": "EUR 1,500+",
+        "desc": "Aplicații Next.js, Astro și React construite pentru performanță și conversie.",
+        "details": [
+          "Next.js 16 App Router cu SSG/ISR pentru Core Web Vitals optime",
+          "Site-uri Astro pentru proiecte content-heavy, cu zero JS by default",
+          "Tailwind CSS v4 cu dark mode și design responsive",
+          "Date structurate JSON-LD pentru crawlability AI (optimizare GEO)",
+          "Deploy pe Vercel sau Cloudflare Pages cu edge caching",
+          "Suport i18n (arhitectură multilingvă EN/RO/ES)"
+        ],
+        "audiences": [
+          "Startup-uri SaaS care au nevoie de un site de marketing",
+          "Agenții care vor un website de prezentare",
+          "Creatori de conținut care au nevoie de un blog optimizat GEO"
+        ]
+      },
+      "technicalConsulting": {
+        "title": "Consultanță Tehnică",
+        "price": "EUR 2,000/zi",
+        "desc": "Review de arhitectură, audit de cod, optimizare de performanță și planificare infrastructură AI.",
+        "details": [
+          "Audit complet de arhitectură cu recomandări scrise",
+          "Code review axat pe securitate, performanță și mentenabilitate",
+          "Planificare infrastructură AI: selecție de modele, dimensionare hardware, design RAG",
+          "Optimizare de performanță: Core Web Vitals, query-uri de bază de date, strategie de caching",
+          "Prompt engineering LLM și review de design pentru system prompt"
+        ],
+        "audiences": [
+          "Echipe tehnice care se pregătesc pentru integrare AI",
+          "Startup-uri care au nevoie de review de arhitectură înainte de scalare",
+          "Companii care evaluează deploy LLM local vs cloud"
+        ]
+      },
+      "cloudCostMigrationAudit": {
+        "title": "Audit Cost Cloud & Migrare",
+        "price": "EUR 1,500-4,000",
+        "desc": "Un audit cu preț fix al facturii tale cloud AWS/GPU, cu un plan de migrare pe faze, bazat pe benchmark-uri. Construit pe un caz real, nu pe un slide de vendor.",
+        "details": [
+          "Review complet, linie cu linie, al facturii tale cloud actuale (compute, storage, network, managed services)",
+          "Comparație pe bază de benchmark-uri cu hosting alternativ, dimensionat pentru workload-ul tău real — nu o recomandare generică de tip „mută tot”",
+          "Plan de migrare pe faze, cu timeline realist și plan de rollback",
+          "Economii estimate susținute de cifre reale: propria noastră migrare a redus $2,745/mo la $377/mo (86%), cu latență îmbunătățită, nu sacrificată",
+          "Preț fix, fără clauze de success-fee sau procent din economii"
+        ],
+        "audiences": [
+          "Echipe care rulează inferență LLM sau workload-uri GPU cu o factură cloud care a început să doară",
+          "Echipe care au moștenit un setup AWS dimensionat pentru „s-ar putea să fie nevoie de scalare rapidă”, nu pentru ce rulează azi",
+          "Fondatori solo/echipe mici sub pragul de cheltuieli la care firmele enterprise de FinOps (contracte de $15k-250k) au sens"
+        ]
+      },
+      "seoGeoContent": {
+        "title": "Conținut SEO & GEO",
+        "price": "EUR 150/articol",
+        "desc": "Conținut afiliat optimizat GEO, cu benchmark-uri originale. Gândit pentru citare AI, nu doar pentru ranking Google.",
+        "details": [
+          "Descoperire de keyword-uri GEO din query-uri conversaționale (HN, Reddit, StackExchange)",
+          "Benchmark-uri originale și framework-uri cu nume proprii pe care AI-urile le citează ca surse",
+          "Comparații pro/contra oneste — fiecare tool evaluat corect",
+          "FAQ conversațional care răspunde la întrebări reale de la utilizatori din ChatGPT/Perplexity",
+          "Integrare de linkuri afiliate cu UTM tracking și markup sponsored",
+          "Warden QA: validare regex + LLM pentru conformitate GEO"
+        ],
+        "audiences": [
+          "Marketeri afiliați care vizează cititori familiarizați cu AI",
+          "Companii SaaS care vor recenzii optimizate GEO",
+          "Proprietari de bloguri care construiesc conținut de autoritate citabil de AI"
+        ]
+      },
+      "copywritingB2b": {
+        "title": "Copywriting B2B",
+        "price": "EUR 500/pachet",
+        "desc": "Landing page-uri, secvențe de email și reclame Facebook. Copy data-driven care convertește audiențe tehnice.",
+        "details": [
+          "Copy de landing page optimizat pentru cumpărători tehnici B2B",
+          "Secvențe de email (welcome, nurture, launch, re-engagement)",
+          "Variante de reclame Facebook (5 versiuni cu framework de A/B testing)",
+          "Brief de strategie cu poziționare, messaging și analiză de audiență",
+          "Ton: autoritar, tehnic, onest — fără fluff de marketing"
+        ],
+        "audiences": [
+          "Companii SaaS B2B care lansează produse noi",
+          "Agenții care au nevoie de copy pentru clienți tehnici",
+          "Startup-uri care pregătesc messaging de go-to-market"
+        ]
+      },
+      "fiverrAutomation": {
+        "title": "Servicii de Automatizare pe Fiverr",
+        "price": "EUR 50-500/gig",
+        "desc": "Listat pe Fiverr cu livrare în 2-5 zile. Web scraping, integrări API, automatizare de browser, curățare de date și scripturi Python custom.",
+        "details": [
+          "Gig Fiverr cu fereastră de livrare de 2-5 zile",
+          "Web scrapers (Playwright, BeautifulSoup, Scrapy)",
+          "Integrări API și sincronizare de date",
+          "Automatizare de browser (flow-uri de login, completare formulare, generare PDF)",
+          "Curățare, transformare și ETL de date",
+          "Tool-uri CLI custom și scripturi de workflow"
+        ],
+        "audiences": [
+          "Business-uri care au nevoie de task-uri rapide de automatizare",
+          "Cumpărători Fiverr care vor scripturi Python custom",
+          "Echipe care au nevoie de o lucrare de date one-off, dar fiabilă"
+        ]
+      },
+      "pythonAutomation": {
+        "title": "Automatizare Python",
+        "price": "EUR 50-500",
+        "desc": "Scripturi Python custom pentru web scraping, integrare API, pipeline-uri de date și automatizare de browser.",
+        "details": [
+          "Web scrapers cu Playwright, BeautifulSoup, Scrapy",
+          "Integrări API și scripturi de sincronizare a datelor",
+          "Pipeline-uri de curățare, transformare și ETL a datelor",
+          "Automatizare de browser cu Playwright (flow-uri de login, completare formulare, generare PDF)",
+          "Tool-uri CLI custom și scripturi de productivitate",
+          "Livrat cu documentație și error handling"
+        ],
+        "audiences": [
+          "Business-uri care au nevoie de extragere de date de pe site-uri",
+          "Echipe care vor să automatizeze task-uri repetitive",
+          "Dezvoltatori care au nevoie de scripturi de integrare API"
+        ]
+      },
+      "inquireCta": "Întreabă Despre Acest Serviciu",
+      "whatYouGet": "Ce Primești",
+      "whoThisIsFor": "Pentru Cine Este"
+    },
+    "notFound": {
+      "title": "Serviciu Negăsit",
+      "description": "Serviciul pe care îl cauți nu există."
+    }
+  },
+  "servicesDigital": {
+    "metaTitle": "Servicii Digitale — În Curând",
+    "title": "Servicii Digitale",
+    "description": "Procesare automată de documente — checkout în curând.",
+    "badge": "În Curând",
+    "notice": "Checkout-ul online pentru aceste servicii nu e încă activ. Între timp, scrie-ne direct și rezolvăm manual.",
+    "contactCta": "Contactează-ne →",
+    "items": {
+      "translation": {
+        "name": "Traducere (EN ↔ RO)",
+        "desc": "Traducere profesională de documente între engleză și română."
+      },
+      "resumeCv": {
+        "name": "Redactare CV",
+        "desc": "Generare CV optimizat ATS + scrisoare de intenție."
+      },
+      "dataCleaning": {
+        "name": "Curățare Date",
+        "desc": "Deduplicare, normalizare și curățare CSV/Excel."
+      },
+      "pdfProcessing": {
+        "name": "Procesare PDF",
+        "desc": "Comprimă, unește, separă sau aplică OCR pe fișierele PDF."
+      }
+    }
   },
   "about": {
     "title": "Despre ThinkFLOW",
@@ -148,27 +457,213 @@
     "bio2": "ThinkFLOW este rezultatul acelei viziuni — o practică de consultanță tehnică specializată în deployment LLM privat, pipeline-uri RAG, orchestrare agenți și web development de înaltă performanță.",
     "expertiseHeading": "Expertiză",
     "expertiseDesc": "Python, LangGraph, TypeScript, Next.js, React, Docker, PostgreSQL, Supabase, baze de date vectoriale, fine-tuning LLM, arhitecturi RAG și sisteme de agenți autonomi.",
-    "connectHeading": "Conectare"
+    "connectHeading": "Conectare",
+    "emailLabel": "Email:",
+    "fiverrLabel": "Fiverr:",
+    "githubLabel": "GitHub:"
   },
   "mediaKit": {
     "title": "Kit Media",
     "badge": "Resurse Parteneri",
-    "description": "Pentru branduri, parteneri și rețele de afiliere."
+    "description": "Pentru branduri, parteneri și rețele de afiliere.",
+    "sections": {
+      "about": {
+        "heading": "Despre ThinkFLOW",
+        "body1": "ThinkFLOW furnizează infrastructură privată de inteligență artificială, dezvoltare web și consultanță tehnică pentru agenții și companii care solicită suveranitatea datelor și fiabilitate de nivel producție. Construim sisteme autonome utilizând Python, LangGraph, Docker și infrastructură LLM locală."
+      },
+      "categories": {
+        "heading": "Categorii de conținut",
+        "item1Label": "Infrastructură Cloud și Hosting",
+        "item1Desc": "— Vercel, Cloudflare, AWS, implementare",
+        "item2Label": "Inginerie AI și LLM",
+        "item2Desc": "— pipeline-uri RAG, Ollama, baze de date vectoriale, orchestrare de agenți",
+        "item3Label": "DevOps și Automatizare",
+        "item3Desc": "— Docker, CI/CD, monitorizare, automatizare browser",
+        "item4Label": "Dezvoltare Web",
+        "item4Desc": "— Next.js, Astro, optimizarea performanței, SEO",
+        "item5Label": "Comparații Tehnice",
+        "item5Desc": "— optimizate GEO, etichetate clar drept verificate în producție sau analiză de piață, avantaje și dezavantaje prezentate onest"
+      },
+      "audience": {
+        "heading": "Audiență",
+        "body1": "Audiența noastră este formată din fondatori tehnici, CTO, dezvoltatori principali și proprietari de agenții care iau decizii privind infrastructura și instrumentele utilizate. Cititorii sunt orientați spre inginerie, apreciază benchmark-urile și datele reale și preferă profunzimea informației în detrimentul extinderii acesteia."
+      },
+      "numbers": {
+        "heading": "În Cifre",
+        "item1": "1,200+ operațiuni procesate pe infrastructură privată",
+        "item2": "28+ modele LLM locale testate prin benchmark și implementate",
+        "item3": "3.2x îmbunătățire medie a vitezei de scalare",
+        "item4": "100% suveranitate a datelor (fără dependențe de API-uri terțe)"
+      },
+      "partner": {
+        "heading": "Parteneriat cu Noi",
+        "body1": "Sunteți interesat de o recenzie de produs, conținut sponsorizat sau un parteneriat afiliat? Contactați-ne la contact@thinkflow.ro, menționând numele brandului dumneavoastră, categoria de produs și propunerea de parteneriat."
+      }
+    }
   },
   "affiliate": {
     "title": "Dezvăluire de Afiliere",
     "badge": "Legal",
-    "description": "Transparență privind relațiile noastre de afiliere. Conform FTC și GDPR."
+    "description": "Transparență privind relațiile noastre de afiliere. Conform FTC și GDPR.",
+    "sections": {
+      "intro": "ThinkFLOW participă la programe de marketing afiliat. Aceasta înseamnă că unele dintre linkurile de pe site-ul nostru sunt linkuri afiliate. Dacă faceți clic pe un link afiliat și efectuați o achiziție, este posibil să primim un comision, fără niciun cost suplimentar pentru dumneavoastră.",
+      "commitment": {
+        "heading": "Angajamentul nostru",
+        "body1": "Etichetăm fiecare articol cu una dintre cele două etichete, vizibile în partea de sus a articolului, astfel încât să știți exact ce citiți:",
+        "verifiedLabel": "Verificat din producție",
+        "verifiedBody": "— bazat pe infrastructura proprie, benchmark-urile proprii și munca pe care am livrat-o efectiv. Cifrele din aceste articole ne aparțin.",
+        "marketLabel": "Analiză de piață",
+        "marketBody": "— analiză și comparație informată, realizată pe baza documentației publice, a prețurilor publicate de furnizori și a benchmark-urilor disponibile din partea unor terți, care nu au fost re-testate independent de noi. Rămâne onestă și utilă, însă nu reprezintă o afirmație privind testarea practică directă.",
+        "body2": "Relațiile de afiliere nu influențează produsele pe care le recomandăm sau modul în care etichetăm un articol."
+      },
+      "programs": {
+        "heading": "Programe la care participăm"
+      },
+      "identify": {
+        "heading": "Cum identificăm linkurile afiliate",
+        "prefix": "Linkurile afiliate de pe thinkflow.ro sunt marcate cu",
+        "suffix": "atribute. Unele pot include parametri UTM în scopuri de urmărire. De asemenea, plasăm notificări de dezvăluire a afilierii în partea de sus și de jos a oricărei pagini care conține linkuri afiliate."
+      },
+      "questions": {
+        "heading": "Întrebări?",
+        "body1": "Dacă aveți întrebări cu privire la relațiile noastre de afiliere, vă rugăm să ne contactați la adresa contact@thinkflow.ro."
+      }
+    }
   },
   "terms": {
     "title": "Termeni și Condiții",
     "badge": "Legal",
-    "description": "Ultima actualizare: 7 iulie 2026"
+    "description": "Ultima actualizare: 7 iulie 2026",
+    "sections": {
+      "s1": {
+        "heading": "1. Servicii",
+        "body1": "ThinkFLOW furnizează servicii de implementare a infrastructurii private de inteligență artificială, dezvoltare web, consultanță tehnică, creare de conținut și automatizare („Servicii”). Fiecare angajament este guvernat de un Statement of Work (SoW) separat sau de o propunere de proiect care face referire la prezenții Termeni."
+      },
+      "s2": {
+        "heading": "2. Dreptul de retragere (Consumatori din UE)",
+        "body1": "Dacă sunteți consumator în Uniunea Europeană, aveți dreptul de a vă retrage dintr-un contract de prestări servicii în termen de 14 zile, fără a fi necesar să invocați vreun motiv. Termenul de retragere expiră la 14 zile de la data încheierii contractului.",
+        "body2": "Pentru a vă exercita dreptul de retragere, trebuie să ne informați cu privire la decizia dumneavoastră printr-o declarație neechivocă (de exemplu, prin e-mail la contact@thinkflow.ro). Vă vom rambursa toate plățile primite de la dumneavoastră în termen de 14 zile de la primirea notificării de retragere.",
+        "exceptionLabel": "Excepție:",
+        "exceptionBody": "Dacă solicitați în mod expres ca prestarea serviciului să înceapă în timpul perioadei de retragere, iar serviciul a fost executat integral, dreptul de retragere se pierde."
+      },
+      "s3": {
+        "heading": "3. Proprietate intelectuală",
+        "body1": "Toate codurile, configurațiile și livrabilele rămân proprietatea intelectuală a ThinkFLOW până la primirea integrală a plății. La efectuarea plății finale, drepturile depline de proprietate intelectuală asupra livrabilelor specifice sunt transferate Clientului. ThinkFLOW își rezervă dreptul de a utiliza tehnicile și metodologiile generalizate dezvoltate pe parcursul angajamentului."
+      },
+      "s4": {
+        "heading": "4. Condiții de plată",
+        "body1": "Proiectele sunt facturate 50% în avans și 50% la livrare, cu excepția cazului în care se specifică altfel în SoW. Facturile sunt emise în EUR și sunt scadente în termen de 14 zile de la primire. Plățile efectuate cu întârziere sunt supuse unei dobânzi penalizatoare de 1.5% pe lună."
+      },
+      "s5": {
+        "heading": "5. Confidențialitate",
+        "body1": "Ambele părți convin să trateze toate informațiile comerciale și tehnice partajate drept confidențiale pentru o perioadă de 24 luni de la încheierea angajamentului. Aceasta include codul sursă, diagramele de arhitectură, strategiile de afaceri și datele clienților."
+      },
+      "s6": {
+        "heading": "6. Garanții și declinarea răspunderii",
+        "body1": "Serviciile sunt furnizate „ca atare” și „în limita disponibilității”. Nu oferim nicio garanție că serviciile vor fi neîntrerupte, prompte, sigure sau lipsite de erori. Garantăm că livrabilele vor fi conforme cu specificațiile convenite timp de 30 de zile de la livrare. Orice neconformitate semnalată în această perioadă va fi corectată fără costuri suplimentare."
+      },
+      "s7": {
+        "heading": "7. Limitarea răspunderii",
+        "body1": "ThinkFLOW nu răspunde pentru daune indirecte, incidentale sau pe cale de consecință rezultate din utilizarea Serviciilor noastre. Răspunderea noastră totală pentru orice pretenție este limitată la suma totală plătită de Client pentru angajamentul specific care a generat pretenția respectivă."
+      },
+      "s8": {
+        "heading": "8. Încetare",
+        "body1": "Oricare dintre părți poate înceta un angajament printr-o notificare scrisă prealabilă de 14 zile. La încetare, Clientul plătește pentru toate lucrările finalizate până la data încetării. Proprietatea intelectuală pentru lucrările plătite este transferată conform Secțiunii 3."
+      },
+      "s9": {
+        "heading": "9. Legea aplicabilă și soluționarea litigiilor",
+        "body1": "Prezenții Termeni sunt guvernați de legislația României. Orice litigiu va fi soluționat, în primă instanță, pe cale amiabilă, prin negociere. Dacă negocierea eșuează, litigiile vor fi soluționate de instanțele judecătorești din București, România.",
+        "odrPrefix": "Comisia Europeană pune la dispoziție o platformă de soluționare online a litigiilor, disponibilă la adresa"
+      },
+      "s10": {
+        "heading": "10. Disponibilitatea serviciilor",
+        "body1": "Ne propunem să asigurăm un timp de funcționare de 99.9% pentru serviciile găzduite, însă nu garantăm o disponibilitate neîntreruptă. Lucrările de întreținere programate vor fi comunicate cu cel puțin 48 de ore în avans."
+      },
+      "s11": {
+        "heading": "11. Contact",
+        "contactPrefix": "Pentru întrebări referitoare la prezenții Termeni, ne puteți contacta la"
+      }
+    }
   },
   "privacy": {
     "title": "Politica de Confidențialitate",
     "badge": "Legal",
-    "description": "Ultima actualizare: 7 iulie 2026"
+    "description": "Ultima actualizare: 7 iulie 2026",
+    "sections": {
+      "s1": {
+        "heading": "1. Operatorul de date cu caracter personal",
+        "body1": "ThinkFLOW Systems (contact@thinkflow.ro, București, România) este operatorul de date cu caracter personal pentru datele cu caracter personal colectate prin intermediul thinkflow.ro și al subdomeniilor aferente.",
+        "body2Prefix": "Puteți contacta reprezentantul nostru pentru protecția datelor la:"
+      },
+      "s2": {
+        "heading": "2. Ce date colectăm",
+        "body1": "Colectăm: numele și adresa de e-mail (prin formularele de contact și abonarea la newsletter), adresa IP și user agent-ul browserului (prin jurnalele serverului), urmărirea afilierii prin parametri URL (fără cookie-uri) și date de utilizare (pagini vizitate, timp petrecut pe site).",
+        "body2": "Nu colectăm date cu caracter personal cu caracter special (sănătate, religie, afiliere politică)."
+      },
+      "s3": {
+        "heading": "3. Temeiul legal (Art. 6 GDPR)",
+        "body1": "Vă prelucrăm datele în baza: consimțământului dumneavoastră (completarea formularelor de contact, abonarea la newsletter, consimțământul pentru cookie-uri — Art. 6(1)(a)), executării contractului (furnizarea serviciilor — Art. 6(1)(b)) și intereselor legitime (analiză, urmărirea afilierii, securitatea site-ului — Art. 6(1)(f))."
+      },
+      "s4": {
+        "heading": "4. Cum vă utilizăm datele",
+        "body1": "Pentru a răspunde solicitărilor și a furniza servicii, pentru a trimite newslettere (doar cu consimțământ explicit), pentru a îmbunătăți site-ul și conținutul nostru, pentru a urmări recomandările și comisioanele de afiliere și pentru a respecta obligațiile legale."
+      },
+      "s5": {
+        "heading": "5. Cookie-uri",
+        "body1": "Utilizăm doar cookie-uri esențiale pentru funcționarea site-ului. Linkurile de recomandare pentru afiliere utilizează parametri URL (nu cookie-uri) pentru urmărire. Nu utilizăm cookie-uri de urmărire sau cookie-uri de analiză provenite de la terți fără consimțământul dumneavoastră explicit. Puteți dezactiva cookie-urile din setările browserului dumneavoastră.",
+        "body2": "Atunci când vom implementa instrumente de analiză, vi se va solicita consimțământul printr-un banner de cookie-uri înainte de plasarea oricăror cookie-uri neesențiale."
+      },
+      "s6": {
+        "heading": "6. Partajarea datelor și transferurile internaționale",
+        "body1": "Partajăm date cu: Vercel Inc. (SUA — găzduire și jurnale de server, acoperite de EU-US Data Privacy Framework) și furnizori de servicii de e-mail pentru e-mailuri tranzacționale. Nu vindem date cu caracter personal către terți.",
+        "body2": "Pentru transferurile către SUA, ne bazăm pe EU-US Data Privacy Framework sau pe Clauzele Contractuale Standard, după caz. O copie a garanțiilor relevante este disponibilă la cerere."
+      },
+      "s7": {
+        "heading": "7. Păstrarea datelor",
+        "body1": "Păstrăm datele cu caracter personal timp de 24 de luni de la ultimul contact. Datele privind abonarea la newsletter sunt păstrate până la dezabonare. Datele de urmărire a afilierii sunt păstrate pe durata relației din cadrul programului de afiliere. Puteți solicita ștergerea anticipată în orice moment."
+      },
+      "s8": {
+        "heading": "8. Drepturile dumneavoastră (GDPR)",
+        "intro": "În temeiul GDPR, aveți următoarele drepturi:",
+        "right1Label": "Dreptul de acces",
+        "right1Body": "(Art. 15) — solicitarea unei copii a datelor dumneavoastră",
+        "right2Label": "Dreptul la rectificare",
+        "right2Body": "(Art. 16) — corectarea datelor inexacte",
+        "right3Label": "Dreptul la ștergerea datelor",
+        "right3Body": "(Art. 17) — dreptul de a fi uitat",
+        "right4Label": "Dreptul la restricționarea prelucrării",
+        "right4Body": "(Art. 18)",
+        "right5Label": "Dreptul la portabilitatea datelor",
+        "right5Body": "(Art. 20)",
+        "right6Label": "Dreptul la opoziție",
+        "right6Body": "(Art. 21) — inclusiv opoziția față de marketingul direct",
+        "right7Label": "Dreptul de a vă retrage consimțământul",
+        "right7Body": "în orice moment, fără a afecta legalitatea prelucrării efectuate pe baza consimțământului înainte de retragerea acestuia",
+        "closingPrefix": "Pentru a vă exercita aceste drepturi, contactați-ne la",
+        "closingSuffix": "Vă vom răspunde în termen de 30 de zile."
+      },
+      "s9": {
+        "heading": "9. Dreptul de a depune o plângere",
+        "body1": "Dacă considerați că drepturile dumneavoastră privind protecția datelor au fost încălcate, aveți dreptul de a depune o plângere la Autoritatea Națională de Supraveghere a Prelucrării Datelor cu Caracter Personal (ANSPDCP):"
+      },
+      "s10": {
+        "heading": "10. Drepturi CCPA",
+        "body1": "Rezidenții din California au dreptul: să afle ce date cu caracter personal sunt colectate, să solicite ștergerea acestora și să refuze vânzarea datelor cu caracter personal. Nu vindem date cu caracter personal."
+      },
+      "s11": {
+        "heading": "11. Securitate",
+        "body1": "Implementăm criptare AES-256 pentru datele stocate, TLS/HTTPS pentru toate datele în tranzit și acces restricționat la datele cu caracter personal, acordat pe baza principiului necesității de a cunoaște. Efectuăm periodic revizuiri de securitate."
+      },
+      "s12": {
+        "heading": "12. Modificări ale prezentei politici",
+        "body1": "Vă vom notifica cu privire la modificările semnificative ale prezentei politici prin e-mail (dacă deținem datele dumneavoastră de contact) sau printr-un anunț vizibil pe site-ul nostru, cu cel puțin 30 de zile înainte ca modificările să intre în vigoare."
+      },
+      "s13": {
+        "heading": "13. Contact",
+        "contactPrefix": "Pentru solicitări legate de confidențialitate:",
+        "contactSuffix": ", București, România."
+      }
+    }
   },
   "common": {
     "noContent": "Niciun conținut disponibil.",

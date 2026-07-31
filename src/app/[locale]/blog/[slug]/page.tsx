@@ -10,14 +10,18 @@ import ViewTracker from "@/components/ViewTracker";
 import { ArrowLeft } from "lucide-react";
 
 export function generateStaticParams() {
-  const posts = getAllPosts(routing.defaultLocale);
-  return posts.map((p) => ({ slug: p.slug }));
+  const slugs = new Set<string>();
+  for (const locale of routing.locales) {
+    for (const p of getAllPosts(locale)) slugs.add(p.slug);
+  }
+  return Array.from(slugs).map((slug) => ({ slug }));
 }
 
 export async function generateMetadata({ params }: { params: Promise<{ slug: string; locale: string }> }): Promise<Metadata> {
   const { slug, locale } = await params;
+  const t = await getTranslations({ locale });
   const post = await getPost(slug, locale);
-  if (!post) return { title: "Post Not Found" };
+  if (!post) return { title: t("blog.postNotFound") };
 
   const ogUrl = post.meta.image;
 
@@ -118,11 +122,11 @@ export default async function BlogPostPage({ params }: { params: Promise<{ slug:
                 }`}
                 title={
                   post.meta.verification === "production-tested"
-                    ? "Based on our own production work — benchmarks and results we ran ourselves."
-                    : "Analysis based on public data, vendor docs, and available benchmarks — not independently re-tested by us."
+                    ? t("blog.verificationBadge.verifiedTooltip")
+                    : t("blog.verificationBadge.marketAnalysisTooltip")
                 }
               >
-                {post.meta.verification === "production-tested" ? "Verified from production" : "Market analysis"}
+                {post.meta.verification === "production-tested" ? t("blog.verificationBadge.verifiedLabel") : t("blog.verificationBadge.marketAnalysisLabel")}
               </span>
             </div>
             <h1 className="mb-3 mt-1 text-3xl font-bold">{post.meta.title}</h1>
@@ -173,7 +177,7 @@ export default async function BlogPostPage({ params }: { params: Promise<{ slug:
             <div>
               <p className="font-semibold">Daniel Burcea</p>
               <p className="mt-1 text-sm text-muted">
-                AI Systems Architect. Building private AI infrastructure since 2025.
+                {t("blog.authorBio")}
                 <Link href="/about" className="ml-1 text-accent underline">{t("blog.readAboutAuthor")} &rarr;</Link>
               </p>
             </div>
