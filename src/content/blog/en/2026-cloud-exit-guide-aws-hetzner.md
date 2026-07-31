@@ -15,7 +15,7 @@ One line item drove the audit: an EC2 `p3.2xlarge` running Llama inference at 11
 
 That was when the cloud bill stopped being infrastructure and became **margin leakage**.
 
-The same inference workload now runs on a <a href="https://www.hetzner.com/?ref=thinkflow" rel="sponsored nofollow">Hetzner GEX44</a> in Falkenstein. Full stack: **$377/month**. Same model family, same API contract, P95 latency down from 890ms to 390ms for European users. S3, SES, and CloudFront stayed on AWS — hybrid, not ideological.
+The same inference workload now runs on a <a href="https://www.hetzner.com/?ref=thinkflow" rel="sponsored nofollow">Hetzner GEX44</a> in Falkenstein. Full stack: **$377/month**. Same model family, same API contract, TTFT P95 down from 310ms to 145ms for European users. S3, SES, and CloudFront stayed on AWS — hybrid, not ideological.
 
 Below: July 2026 pricing after Hetzner's June cloud adjustment, GPU comparisons against AWS p3/p4/g5, a phased migration with Terraform and Docker, production benchmarks, and a decision framework for when AWS still earns its premium.
 

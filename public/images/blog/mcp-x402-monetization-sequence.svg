@@ -48,7 +48,7 @@
 
   <!-- msg 6: server -> agent final -->
   <line x1="450" y1="416" x2="136" y2="416" stroke="rgba(239,68,68,0.7)" stroke-width="1.5" stroke-dasharray="5 4" marker-end="url(#arrowRed)"/>
-  <text x="290" y="408" text-anchor="middle" fill="#fca5a5" font-size="12" font-weight="600">402 { error: insufficient_balance }</text>
+  <text x="290" y="408" text-anchor="middle" fill="#fca5a5" font-size="12" font-weight="600">402 { error: ...insufficient_balance }</text>
 
   <!-- alt path note -->
   <rect x="365" y="446" width="440" height="56" rx="6" fill="rgba(255,255,255,0.03)" stroke="rgba(255,255,255,0.1)" stroke-dasharray="3 3"/>

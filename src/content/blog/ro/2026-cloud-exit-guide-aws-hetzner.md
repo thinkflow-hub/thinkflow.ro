@@ -15,7 +15,7 @@ Un singur item din factură a declanșat auditul: o instanță EC2 `p3.2xlarge` 
 
 Atunci a încetat factura de cloud să mai fie infrastructură și a devenit **scurgere de marjă**.
 
-Aceeași sarcină de inferență rulează acum pe un <a href="https://www.hetzner.com/?ref=thinkflow" rel="sponsored nofollow">Hetzner GEX44</a> în Falkenstein. Stack complet: **$377/lună**. Aceeași familie de modele, același contract API, latență P95 redusă de la 890ms la 390ms pentru utilizatorii europeni. S3, SES și CloudFront au rămas pe AWS — hibrid, nu ideologic.
+Aceeași sarcină de inferență rulează acum pe un <a href="https://www.hetzner.com/?ref=thinkflow" rel="sponsored nofollow">Hetzner GEX44</a> în Falkenstein. Stack complet: **$377/lună**. Aceeași familie de modele, același contract API, TTFT P95 redus de la 310ms la 145ms pentru utilizatorii europeni. S3, SES și CloudFront au rămas pe AWS — hibrid, nu ideologic.
 
 Mai jos: prețurile din iulie 2026 după ajustarea cloud din iunie a Hetzner, comparații GPU cu AWS p3/p4/g5, o migrare în etape cu Terraform și Docker, benchmark-uri din producție și un cadru de decizie pentru momentele în care AWS încă își justifică prețul premium.
 
