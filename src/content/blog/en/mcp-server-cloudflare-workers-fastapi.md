@@ -27,6 +27,8 @@ The transport that made MCP viable as a network service — Streamable HTTP — 
 
 None of this changes what a tool call looks like day to day: a client sends `tools/list` to discover what's available, then `tools/call` with a tool name and arguments to invoke one. What changes is what's allowed to sit between the client and the code that runs the tool — which is exactly the gap an edge gateway fills.
 
+![How MCP works: a client calls tools/list and tools/call over JSON-RPC; the July 28, 2026 revision makes the core stateless and adds Mcp-Method/Mcp-Name headers for routing](/images/blog/mcp-cloudflare-protocol-explainer.svg)
+
 ---
 
 ## Architecture: Cloudflare Worker as MCP Gateway, FastAPI as the Backend
@@ -36,6 +38,8 @@ The split is deliberate, not incidental:
 **The Worker** terminates the MCP connection, validates the client's credentials, enforces rate limits, and translates `tools/call` requests into ordinary HTTP calls against the backend. It runs in Cloudflare's V8 isolates, which don't have the container cold-start problem — an isolate that's already been instantiated anywhere on Cloudflare's network responds in low single-digit milliseconds, and even a cold isolate initializes in a fraction of the time a container does. For an MCP gateway sitting between an agent and its tools, that latency floor matters more than it does for a typical CRUD API.
 
 **FastAPI** does what Workers structurally can't: hold a long-lived connection pool to Postgres, run a heavier Python dependency stack, or sit inside a VPC next to the systems the tools actually query. It doesn't speak MCP at all — it's a plain REST service. The Worker is the only thing that knows MCP exists.
+
+![Architecture diagram: MCP client to Cloudflare Worker (auth, rate limiting, MCP protocol, routing) to FastAPI backend (business logic, database, internal APIs)](/images/blog/mcp-cloudflare-architecture-flow.svg)
 
 ```
 MCP client (Claude, an agent framework, Claude Code)
@@ -48,6 +52,8 @@ FastAPI backend    (business logic · database · internal APIs)
 ```
 
 This is the same shape as an API gateway in front of a microservice, with one difference: the protocol in front of the gateway is MCP instead of REST or GraphQL, so the gateway's job includes translating `tools/call` payloads into whatever calling convention the backend already speaks.
+
+![Why the edge: a warm V8 isolate responds in low single-digit milliseconds, a cold isolate initializes in a fraction of a container's cold-start time](/images/blog/mcp-cloudflare-isolate-vs-container.svg)
 
 ---
 
@@ -163,6 +169,8 @@ FastAPI's job here is ordinary REST — Pydantic validates the response shape, `
 
 Two layers matter, and they sit at different points in the request path.
 
+![Two trust boundaries: a Bearer token protects the public Client-to-Worker hop, an internal X-Internal-Key protects the Worker-to-FastAPI hop inside Cloudflare Tunnel](/images/blog/mcp-cloudflare-security-layers.svg)
+
 **Between the Worker and FastAPI**, a shared internal key (`X-Internal-Key` above) is enough — this traffic never leaves Cloudflare's network if the backend is also reachable through Cloudflare Tunnel, and a static key rotated periodically via `wrangler secret put BACKEND_API_KEY` covers it without adding OAuth complexity to a service that's never called directly by an end user.
 
 **Between the MCP client and the Worker**, treat it like any public API: require a bearer token, and rate-limit before a request reaches a tool handler. Cloudflare's Workers Rate Limiting binding does this without a separate service:
@@ -187,6 +195,8 @@ A client ID here should come from the bearer token, not the IP address — MCP c
 
 For OAuth-grade access control — scoping which tools a given user's agent can call, not just whether they can connect — <a href="https://www.cloudflare.com/?ref=thinkflow" rel="sponsored nofollow">Cloudflare Workers</a> supports wiring the MCP server behind Cloudflare Access or a third-party OAuth provider (GitHub, Google, Auth0), issuing scoped tokens per user rather than one shared key for every caller.
 
+![Request flow: client ID extracted from the Bearer token, checked against a 300 requests per 60 seconds rate limit, then either dispatched to the tool handler or rejected with 429](/images/blog/mcp-cloudflare-request-flow.svg)
+
 ---
 
 ## Cost: Free Tier vs Paid
@@ -195,6 +205,8 @@ For OAuth-grade access control — scoping which tools a given user's agent can 
 |---|---|---|
 | Workers Free | 100,000 requests/day | Hard cap — requests beyond it are dropped, no billing surprise |
 | Workers Paid ($5/month) | 10M requests/month, 30M CPU-ms/month | $0.30 per additional 1M requests, $0.02 per additional 1M CPU-ms |
+
+![Cloudflare Workers pricing: Free tier at 100,000 requests/day vs Paid tier at $5/month for 10M requests and 30M CPU-ms, with overage rates and a worked example at 500,000 calls/day](/images/blog/mcp-cloudflare-cost-tiers.svg)
 
 An MCP server used internally by a handful of engineers rarely approaches the free tier's 100,000 requests/day — that ceiling is closer to what a moderately busy public API sees. Cross it, and the paid plan's $5 base covers 10 million requests a month before any per-request charge applies. A team whose agents call the MCP server 500,000 times a day — 15 million a month — lands at roughly $5 base plus 5 million requests over the included amount at $0.30/million, or about $6.50/month total. Egress is free regardless of tier, which matters for tools that return large payloads (search results, document excerpts) back through the gateway.
 

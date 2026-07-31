@@ -50,6 +50,8 @@ The demo pipeline is optimized for impressiveness. The production pipeline is op
 
 These are different things.
 
+![Demo RAG pipeline (fixed chunking, OpenAI embeddings, top-5 to GPT-4) versus production reality (OCR noise, broken tables, contradicting document versions) — optimized for impressiveness vs. reliability under adversarial conditions](/images/blog/rag-pipeline-demo-vs-production.svg)
+
 ---
 
 ## The Full Production Architecture
@@ -96,6 +98,8 @@ QUERY PIPELINE (online, user-facing)
         |
 [Logging: full trace to ClickHouse for audit]
 ```
+
+![The full production RAG architecture: offline ingestion pipeline (raw documents through OCR, chunking, metadata tagging, embedding, Qdrant upsert, validation) and online query pipeline (query expansion, hybrid retrieval, re-ranking, context assembly, LLM inference, answer, logging)](/images/blog/rag-pipeline-full-architecture.svg)
 
 Every step in this diagram exists because something broke without it. Let us go through the non-obvious ones.
 
@@ -147,6 +151,8 @@ def document_aware_splitter(text: str, doc_type: str) -> list[str]:
         return splitter.split_text(text)
 ```
 
+![Fixed-size chunking fails legal clauses, technical tables, and FAQ pairs — document-type-aware chunking splits on Article/Section boundaries, keeps tables intact, and pairs questions with answers](/images/blog/rag-pipeline-chunking-strategy.svg)
+
 ### Metadata Is Half the Retrieval
 
 Every chunk needs a payload that lets you filter before or after retrieval:
@@ -169,6 +175,8 @@ chunk_payload = {
 
 This payload allows queries like: "Find relevant chunks from contracts effective after January 2025" — without that filter, you might retrieve a superseded version and hallucinate a policy that is no longer valid.
 
+![Chunk metadata payload (source file, section, version, effective date, OCR confidence) lets you filter by effective_date before retrieval — without it, a superseded contract version can be cited as current](/images/blog/rag-pipeline-metadata-filtering.svg)
+
 ---
 
 ## Vector Store — Why Qdrant and Why Self-Hosted
@@ -181,6 +189,8 @@ There are good managed vector databases. Pinecone is well-engineered. Weaviate C
 - **Sparse + dense hybrid search**: native support for combining BM25 keyword matching with semantic vector search (crucial for short, technical queries where pure semantics fails)
 - **Payload filtering**: filter by metadata before or during vector search, not after — this changes query latency from 200ms to 15ms at scale
 - **Snapshots**: point-in-time backups of your entire vector store in seconds
+
+![Why Qdrant self-hosted: Rust-based performance, native sparse+dense hybrid search, payload pre-filtering that cuts query latency from 200ms to 15ms at scale, and point-in-time snapshots](/images/blog/rag-pipeline-qdrant-features.svg)
 
 ### Docker Compose for Production Qdrant
 
@@ -259,6 +269,8 @@ async def hybrid_search(
 
 This typically improves recall by 15-25% compared to dense-only search, especially for technical domain queries.
 
+![Hybrid retrieval for the query "GDPR Article 17": dense search finds semantically related but wrong chunks, sparse BM25 finds the exact match, RRF fusion combines both — improving recall 15-25% over dense-only search](/images/blog/rag-pipeline-hybrid-retrieval.svg)
+
 ---
 
 ## Re-Ranking — The Step That Changes Everything
@@ -291,6 +303,8 @@ def rerank_chunks(query: str, candidates: list[dict], top_k: int = 4) -> list[di
 
 **Why 0.1 as a threshold?** If the best-matching chunk scores below 0.1, the question likely cannot be answered from your document corpus. Returning low-confidence chunks to the LLM causes hallucination. Better to say "I cannot find a relevant answer in the available documents" than to confabulate.
 
+![Re-ranking with a CrossEncoder: vector search returns 20 candidates by approximate similarity (the correct answer often buried around rank 11), re-ranking selects the true top-4 by direct relevance — raising accuracy from 78% to 94% in a legal document benchmark](/images/blog/rag-pipeline-reranking.svg)
+
 ---
 
 ## LLM Inference — Local Model Setup That Does Not Embarrass You in Production
@@ -303,6 +317,8 @@ The model choice depends on your hardware and your accuracy requirements. For le
 | Qwen2.5 32B Q4_K_M | 22 GB | Near-frontier | High-stakes document QA |
 | Mistral 7B Instruct Q5 | 6 GB | Good | High-throughput, latency-sensitive |
 | Llama 3.1 8B Q5_K_M | 6 GB | Good | General purpose |
+
+![Local LLM VRAM vs. quality vs. use case: Qwen2.5 14B Q4_K_M (10GB, excellent, default recommendation), Qwen2.5 32B Q4_K_M (22GB, near-frontier, high-stakes QA), Mistral 7B Instruct Q5 and Llama 3.1 8B Q5_K_M (6GB, good)](/images/blog/rag-pipeline-vram-model-comparison.svg)
 
 **The system prompt is not optional:**
 
@@ -437,6 +453,8 @@ async def rag_query_with_fallback(query: str, context: list[dict]) -> dict:
 ```
 
 **This matters more than you think.** A system that returns raw sources when the LLM is down is infinitely more useful than a system that returns a 500 error. And it is honest — the user understands what they are getting.
+
+![LLM circuit breaker state machine (CLOSED, OPEN, HALF_OPEN) with a 5-failure threshold and 30-second recovery timeout, plus the graceful-degradation fallback chain that returns raw sources instead of a 500 error](/images/blog/rag-pipeline-circuit-breaker.svg)
 
 ---
 

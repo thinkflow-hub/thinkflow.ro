@@ -21,6 +21,8 @@ Trei componente, fiecare făcând exact treaba la care se pricepe.
 
 **Next.js 16 App Router** se ocupă de routing, de randarea pe server și de middleware-ul de la edge care verifică dacă o cerere e autentificată înainte să ajungă vreodată la o pagină. Next.js 16 vine cu React Compiler stabil (memoization automată, fără `useMemo`/`useCallback` manual), un sistem de prefetch regândit care deduplică layout-urile partajate între rute, și Cache Components. Cache-uirea e acum opt-in, deci nimic nu mai e cache-uit pe ascuns așa cum se întâmpla uneori în primele versiuni de App Router.
 
+![Elementele implicite din Next.js 16 pe care se bazează acest template: React Compiler stabil, prefetch regândit care deduplică layout-urile, Cache Components care fac cache-uirea opt-in](/images/blog/nextjs-supabase-nextjs16-features.svg)
+
 **FastAPI** se ocupă de tot ce nu înseamnă servire web de tip request/response: generarea de embeddings, căutarea de similaritate în vector store, apelurile către orice provider LLM folosește aplicația, și orice job de fundal care rulează mai mult decât permite răbdarea unei funcții serverless. E un serviciu REST simplu, care nu știe absolut nimic despre existența lui Next.js.
 
 **Supabase** e partea care împiedică totul să se transforme în trei dashboard-uri de vendor separate. O singură instanță Postgres e, în același timp, baza de date a aplicației, furnizorul de autentificare (email/parolă, OAuth, magic links) și, prin extensia `pgvector` (inclusă în orice plan, inclusiv cel gratuit), vector store-ul pe care FastAPI îl interoghează pentru retrieval.
@@ -37,6 +39,8 @@ FastAPI backend      ── verifies JWT, runs embeddings/retrieval/LLM call
    ▼
 Supabase Postgres    ── auth.users · app tables · pgvector embeddings
 ```
+
+![Arhitectură full-stack: Next.js 16 pe Vercel, backend FastAPI și Supabase Postgres, toate folosind un singur JWT emis de Supabase Auth](/images/blog/nextjs-supabase-architecture-flow.svg)
 
 Aplicația Next.js nu vorbește niciodată direct cu Postgres pentru nimic legat de autentificare — vorbește cu Auth API-ul lui Supabase, primește un JWT, și exact acel JWT e cel pe care FastAPI îl verifică înainte de a face orice. O singură identitate, două backend-uri.
 
@@ -102,6 +106,8 @@ export const config = {
 ```
 
 Ultimul punct contează mai mult decât pare: `getSession()` citește orice scrie cookie-ul, fără să verifice dacă mai e valid, iar middleware e exact locul unde a avea încredere într-un cookie învechit lasă să treacă o sesiune expirată sau revocată. `getUser()` costă un round-trip către serverul Auth al lui Supabase, dar e singurul dintre cele două care e cu adevărat sigur de folosit pentru a bloca rute.
+
+![Fluxul cererilor prin middleware-ul de autentificare: getUser() verifică sesiunea, redirecționează cererile neautentificate către /dashboard spre /login, iar rutele publice trec mai departe](/images/blog/nextjs-supabase-middleware-auth-flow.svg)
 
 ---
 
@@ -234,6 +240,8 @@ export async function askAssistant(message: string) {
 
 Un client component apelează `askAssistant(message)` direct, ca pe orice altă funcție. Next.js se ocupă de serializare. Backend-ul FastAPI nu vede niciodată o cerere Next.js; vede un apel HTTP cu un bearer token, exact cum ar vedea unul venit dintr-un client mobil sau dintr-un cron job.
 
+![O singură identitate, două backend-uri: același JWT Supabase merge de la login-ul din browser, prin Server Action, până la verificarea locală din FastAPI, fără niciun callback](/images/blog/nextjs-supabase-jwt-trust-chain.svg)
+
 ---
 
 ## Cost: gratuit la început, predictibil la scalare
@@ -243,7 +251,11 @@ Un client component apelează `askAssistant(message)` direct, ca pe orice altă 
 | Vercel Hobby | 100 GB bandwidth, 1M cereri edge, 1M invocări de funcții, 4 ore CPU/lună | Colaborare în echipă sau trafic peste limitele de fair-use ale Hobby → Pro |
 | Supabase Free | Bază de date 500 MB, 1 GB storage, 5 GB egress, 50K utilizatori activi lunar, 500K invocări de edge functions, pgvector inclus, 2 proiecte | Auto-pauză a proiectului după 7 zile de inactivitate, fără backup-uri → Pro la $25/lună |
 
+![Limitele planurilor gratuite Vercel Hobby și Supabase Free, una lângă alta: 100GB bandwidth și 4 ore CPU vs bază de date 500MB și 50K utilizatori activi lunar](/images/blog/nextjs-supabase-free-tier-limits.svg)
+
 Nici Vercel, nici Supabase nu găzduiește direct un proces FastAPI care rulează continuu. Pentru o aplicație la început de drum, backend-ul încape confortabil pe un plan gratuit în altă parte. Atât serviciul web gratuit al Render, cât și alocația gratuită de pe Fly.io gestionează fără probleme volumul de cereri al unui produs nou, cu condiția să accepți că o instanță rece are nevoie de câteva secunde ca să se trezească. Odată ce apelurile de retrieval și generare devin suficient de frecvente încât cold start-urile chiar contează, e același semnal folosit și în alte articole de pe acest site pentru discuția serverless-vs-dedicated: muți backend-ul pe o mașină mică, mereu pornită, odată ce volumul o justifică, și lași Next.js și Supabase exact unde sunt.
+
+![Topologia de deployment: Next.js pe Vercel, Postgres pe Supabase, iar FastAPI găzduit separat pe un plan gratuit Render sau Fly.io, până când volumul justifică o mașină mereu pornită](/images/blog/nextjs-supabase-deployment-topology.svg)
 
 Costul total de pornire pentru acest stack e $0. Prima factură reală apare când baza de date a proiectului Supabase depășește 500 MB sau când aplicația are nevoie de backup-uri — ambele confortabil dincolo de punctul în care un side project a validat deja dacă îl vrea cineva.
 

@@ -80,7 +80,11 @@ Migrarea n-a fost ideologică. A fost incrementală și reversibilă. Asta conte
 
 **Economie lunară: ~$538. Economie anuală: ~$6,456.**
 
+![Detalierea lunară a costurilor, linie cu linie: AWS la $757/lună (EC2, RDS, NAT Gateway, ALB și altele) versus Hetzner + Vultr la $219/lună — o reducere de 71%, economisind $538/lună și $6,456/an](/images/blog/aws-vultr-cost-itemized.svg)
+
 Iar AX52-ul dedicat, la $79/lună, rulează la aproximativ 18-25% CPU, cu loc pentru dublarea workload-ului actual. Instanța AWS echivalentă ar fi un m5.4xlarge — care costă $560/lună on-demand, sau $250/lună cu angajament de tip reserved instance pe 1 an.
+
+![Același stack de producție, înainte vs după: AWS $757/lună detaliat (total real $1,340/lună cu instanța de inferență) versus Hetzner + Vultr $219/lună — reducere de 71%, ~$6,456 economisiți anual](/images/blog/aws-vultr-cost-savings-summary.svg)
 
 ---
 
@@ -106,6 +110,8 @@ Pe Lambda, cold start-urile pentru o funcție Node.js: 800ms - 2,400ms, în func
 Pe Hetzner: fără cold starts. Procesul rulează tot timpul.
 
 Pentru orice endpoint API expus direct utilizatorului, cold starts-urile de pe Lambda sunt o problemă reală de UX. Pentru job-uri de fundal, procesare async sau webhook handlers unde utilizatorul nu așteaptă — Lambda e perfect ok.
+
+![Latența pe trei categorii: TTFB CDN de la 85ms la 70ms global (95ms la 40ms pentru România), timpi de răspuns API P50/P95/P99 scăzând de la 180/420/890ms la 95/210/390ms, și cold starts Lambda de 800-2.400ms versus zero pe un proces Hetzner mereu activ](/images/blog/aws-vultr-latency-three-categories.svg)
 
 ---
 
@@ -146,6 +152,8 @@ Rulează o aplicație Next.js cu:
 Adică: 500,000 x 15 x 0.2s x 1 GB = 1,500,000 GB-seconds = **$900/lună doar în costuri de funcții**, înainte de bandwidth, înainte de imagini, înainte de team seats.
 
 Un Hetzner AX52 la $79/lună gestionează asta cu rezervă, rulând Next.js cu `next start` în spatele Nginx, cu PM2 pentru gestionarea proceselor și deploy-uri zero-downtime via `pm2 reload`.
+
+![Panou de decizie: când Vercel câștigă — echipe mici, trafic cu vârfuri, prototipare, funcții specifice Vercel, bugete sub $50/lună — versus când modelul de facturare îți sparge bugetul, cu exemplul unei aplicații cu 500K vizitatori care ajunge la $900/lună doar în costuri de funcții](/images/blog/aws-vultr-vercel-decision.svg)
 
 ### Setup-ul Next.js self-hosted care chiar funcționează în producție
 
@@ -197,6 +205,8 @@ Deploy zero-downtime: `git pull && npm run build && pm2 reload nextjs-app`
 
 Timp total de deploy: 45-90 secunde, în funcție de complexitatea build-ului. Fără Vercel. Fără taxe de platformă. Fără cold starts.
 
+![Stack de producție Next.js self-hosted: Nginx servind assets statice cache-uite și redirecționând rutele dinamice către un cluster PM2 cu câte un proces Next.js per nucleu CPU, cu deploy-uri zero-downtime în 45-90 secunde și fără cold starts](/images/blog/aws-vultr-nextjs-stack-architecture.svg)
+
 ---
 
 ## Scalarea — unde serverele dedicate cer mai multă gândire
@@ -214,6 +224,8 @@ Asta e o operațiune de 10-15 minute dacă ai automatizarea la punct. Dacă nu a
 **Răspunsul practic:** Pentru workload-uri cu tipare de trafic previzibile, serverele dedicate câștigă din punct de vedere economic. Pentru workload-uri unde chiar nu poți prezice când vei avea nevoie de capacitate 10x în 5 minute, auto-scaling-ul de cloud gestionat (AWS, GCP) își merită premium-ul.
 
 Majoritatea aplicațiilor B2B SaaS sunt în prima categorie. Majoritatea aplicațiilor consumer virale sunt în a doua.
+
+![Scalarea comparată: AWS adaugă o instanță într-un ALB target group în circa 3 minute prin Terraform, în timp ce provizionarea manuală în 4 pași pe Hetzner/Vultr durează 10-15 minute cu automatizare la punct sau o goană de 45 de minute fără ea](/images/blog/aws-vultr-scaling-comparison.svg)
 
 ---
 
@@ -250,6 +262,8 @@ Are you running stateless workloads (web servers, APIs)?
   YES → Hetzner/Vultr dedicated or VPS — strong economic case
   NO  → Evaluate per workload (databases: Hetzner Managed DB; storage: S3)
 ```
+
+![Flowchart-ul cadrului de decizie: patru întrebări-poartă despre previzibilitatea traficului, DevOps dedicat, cheltuiala lunară de compute și statelessness-ul workload-ului, direcționând spre cloud gestionat, Vercel sau servere dedicate Hetzner/Vultr](/images/blog/aws-vultr-decision-framework-flowchart.svg)
 
 ---
 

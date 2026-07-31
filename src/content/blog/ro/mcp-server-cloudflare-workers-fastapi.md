@@ -27,6 +27,8 @@ Transportul care a făcut din MCP un serviciu de rețea viabil, Streamable HTTP,
 
 Nimic din toate astea nu schimbă cum arată un apel de tool în ziua de zi cu zi: un client trimite `tools/list` ca să descopere ce e disponibil, apoi `tools/call` cu numele unui tool și argumentele lui, ca să-l invoce. Ce se schimbă e ce anume are voie să stea între client și codul care rulează tool-ul. Exact acesta e golul pe care îl umple un gateway la edge.
 
+![Cum funcționează MCP: un client apelează tools/list și tools/call prin JSON-RPC; revizuirea din 28 iulie 2026 face nucleul stateless și adaugă header-ele Mcp-Method/Mcp-Name pentru routing](/images/blog/mcp-cloudflare-protocol-explainer.svg)
+
 ---
 
 ## Arhitectura: Cloudflare Worker ca gateway MCP, FastAPI ca backend
@@ -36,6 +38,8 @@ Separarea e deliberată, nu întâmplătoare:
 **Worker-ul** termină conexiunea MCP, validează credențialele clientului, aplică rate limits și traduce cererile `tools/call` în apeluri HTTP obișnuite către backend. Rulează în izolatele V8 ale Cloudflare, care nu au problema cold-start-ului specifică containerelor: un izolat deja instanțiat oriunde în rețeaua Cloudflare răspunde în milisecunde cu o singură cifră, iar chiar și un izolat rece se inițializează într-o fracțiune din timpul necesar unui container. Pentru un gateway MCP aflat între un agent și tool-urile lui, acest prag de latență contează mai mult decât pentru un API CRUD obișnuit.
 
 **FastAPI** face ce Workers nu pot face structural: ține un pool de conexiuni de lungă durată către Postgres, rulează un stack de dependințe Python mai greu sau stă într-un VPC lângă sistemele pe care tool-urile chiar le interoghează. Nu vorbește deloc MCP. E un simplu serviciu REST. Worker-ul e singurul lucru care știe că MCP există.
+
+![Diagramă de arhitectură: client MCP către Cloudflare Worker (auth, rate limiting, protocol MCP, routing) către backend FastAPI (logică de business, bază de date, API-uri interne)](/images/blog/mcp-cloudflare-architecture-flow.svg)
 
 ```
 Client MCP (Claude, un framework de agenți, Claude Code)
@@ -48,6 +52,8 @@ Backend FastAPI    (logică de business · bază de date · API-uri interne)
 ```
 
 E aceeași formă ca a unui API gateway în fața unui microserviciu, cu o diferență: protocolul din fața gateway-ului e MCP în loc de REST sau GraphQL, deci treaba gateway-ului include traducerea payload-urilor `tools/call` în orice convenție de apelare vorbește deja backend-ul.
+
+![De ce edge-ul: un izolat V8 cald răspunde în milisecunde cu o singură cifră, un izolat rece se inițializează într-o fracțiune din timpul de cold-start al unui container](/images/blog/mcp-cloudflare-isolate-vs-container.svg)
 
 ---
 
@@ -163,6 +169,8 @@ Treaba FastAPI aici e REST obișnuit: Pydantic validează forma răspunsului, `D
 
 Contează două straturi, și stau în puncte diferite ale traseului cererii.
 
+![Două granițe de încredere: un Bearer token protejează segmentul public client-Worker, o cheie internă X-Internal-Key protejează segmentul Worker-FastAPI în interiorul Cloudflare Tunnel](/images/blog/mcp-cloudflare-security-layers.svg)
+
 **Între Worker și FastAPI**, o cheie internă comună (`X-Internal-Key` de mai sus) e suficientă. Acest trafic nu părăsește niciodată rețeaua Cloudflare dacă backend-ul e accesibil și el prin Cloudflare Tunnel, iar o cheie statică, rotită periodic prin `wrangler secret put BACKEND_API_KEY`, acoperă nevoia fără să adauge complexitate OAuth unui serviciu care nu e niciodată apelat direct de un utilizator final.
 
 **Între clientul MCP și Worker**, tratează-l ca pe orice API public: cere un bearer token și aplică rate limiting înainte ca cererea să ajungă la un handler de tool. Binding-ul Workers Rate Limiting de la Cloudflare face asta fără un serviciu separat:
@@ -187,6 +195,8 @@ ID-ul de client de aici ar trebui să vină din bearer token, nu din adresa IP. 
 
 Pentru control al accesului de nivel OAuth (să delimitezi ce tools poate apela agentul unui anumit utilizator, nu doar dacă se poate conecta), <a href="https://www.cloudflare.com/?ref=thinkflow" rel="sponsored nofollow">Cloudflare Workers</a> permite conectarea serverului MCP în spatele Cloudflare Access sau al unui furnizor OAuth terț (GitHub, Google, Auth0), emițând tokenuri delimitate per utilizator, în loc de o singură cheie comună pentru toți apelanții.
 
+![Flux al cererii: ID-ul de client extras din Bearer token, verificat contra unei limite de 300 de cereri la 60 de secunde, apoi fie trimis la handler-ul de tool, fie respins cu 429](/images/blog/mcp-cloudflare-request-flow.svg)
+
 ---
 
 ## Cost: tier gratuit vs plătit
@@ -195,6 +205,8 @@ Pentru control al accesului de nivel OAuth (să delimitezi ce tools poate apela 
 |---|---|---|
 | Workers Free | 100,000 cereri/zi | Plafon fix — cererile peste acest prag sunt respinse, fără surprize la facturare |
 | Workers Paid ($5/lună) | 10M cereri/lună, 30M CPU-ms/lună | $0.30 per 1M cereri suplimentare, $0.02 per 1M CPU-ms suplimentare |
+
+![Prețuri Cloudflare Workers: tier gratuit la 100,000 cereri/zi vs tier plătit la $5/lună pentru 10M cereri și 30M CPU-ms, cu tarife de depășire și un exemplu calculat la 500,000 apeluri/zi](/images/blog/mcp-cloudflare-cost-tiers.svg)
 
 Un server MCP folosit intern de o mână de ingineri rareori se apropie de cele 100,000 cereri/zi ale tier-ului gratuit. Plafonul respectiv seamănă mai degrabă cu traficul unui API public moderat de solicitat. Odată depășit, baza de $5 a planului plătit acoperă 10 milioane de cereri pe lună înainte să se aplice vreo taxă per cerere. O echipă ale cărei agenți apelează serverul MCP de 500,000 de ori pe zi (15 milioane pe lună) ajunge la aproximativ $5 bază plus 5 milioane de cereri peste cota inclusă, la $0.30/milion, adică în jur de $6.50/lună, în total. Egress-ul e gratuit indiferent de tier, ceea ce contează pentru tool-uri care întorc payload-uri mari (rezultate de căutare, extrase din documente) înapoi prin gateway.
 

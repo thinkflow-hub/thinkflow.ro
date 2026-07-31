@@ -28,9 +28,13 @@ Vercel nu mai e doar un wrapper peste AWS Lambda. A devenit o platformă sofisti
 
 - **Preview Deployments & Visual Comments:** Chiar ajută la Developer Experience (DX) — reduce buclele de feedback de la cod la producție cu până la 40%.
 
+![De ce serverless-ul tradițional nu mai ține pasul în 2026 — SSG/SSR vechi înlocuit de arhitecturi hibride cu streaming AI, plus cei trei piloni tehnici Vercel: Fluid Compute, integrare nativă AI SDK și preview deployments](/images/blog/vercel-roi-serverless-shift.svg)
+
 ## 2. Elefantul din cameră: „factura-șoc" de la Vercel
 
 Dacă petreci cinci minute pe Reddit sau X, dai peste povești de groază cu startup-uri care primesc facturi neașteptate cu cinci cifre, din cauza consumului de bandwidth sau a limitelor de execuție pentru funcțiile serverless.
+
+![Factura-șoc de la Vercel — cum consumul de bandwidth și limitele de execuție ale funcțiilor serverless transformă o factură previzibilă într-o sumă neașteptată cu cinci cifre](/images/blog/vercel-roi-bill-shock.svg)
 
 **Adevărul dur:** Vercel e un produs premium. Plătești pentru viteză, proximitate globală și eliminarea overhead-ului de DevOps, nu pentru compute brut.
 
@@ -44,6 +48,8 @@ Vercel Pro/Enterprise + Optimized Code = Hundreds to a few thousand/month
 
 Dacă Vercel îi economisește echipei tale 15 ore de mentenanță a infrastructurii pe săptămână, s-a amortizat deja.
 
+![Matematica ROI: un inginer DevOps full-time la $10,000+/lună vs Vercel Pro/Enterprise plus cod optimizat, la sute până la câteva mii pe lună — pragul de rentabilitate la 15 ore/săptămână de mentenanță economisite](/images/blog/vercel-roi-cost-math.svg)
+
 ## 3. Cum proiectezi arhitectura pentru Vercel fără să te ruinezi
 
 Dacă decizi să migrezi sau să lansezi pe Vercel, trebuie să implementezi aceste reguli arhitecturale ca să-ți ții costurile strict optimizate:
@@ -54,11 +60,15 @@ Dacă decizi să migrezi sau să lansezi pe Vercel, trebuie să implementezi ace
 
 - **Impune limite de cheltuieli din start:** Folosește dashboard-ul Spend Management din Vercel ca să setezi limite dure, pauze automate și webhook-uri care declanșează alerte pe Slack sau Email când consumul atinge 80% din buget.
 
+![Trei reguli arhitecturale pentru a ține costurile Vercel sub control: Edge Middleware lightweight, formate de imagini optimizate și limite de cheltuieli impuse din start, cu alerte la 80% din buget](/images/blog/vercel-roi-architecture-guardrails.svg)
+
 ## Verdict: ar trebui să folosești Vercel?
 
 Dacă construiești o platformă e-commerce, un site media cu trafic mare sau un SaaS bazat pe AI, unde time-to-market și latența ultra-scăzută dictează direct ratele de conversie, Vercel e standardul de aur.
 
 În schimb, dacă găzduiești un proiect hobby, cu resurse media neoptimizate și fără nicio nevoie de scalare globală, self-hosting pe un VPS sau un cloud provider brut ți-ar putea economisi câțiva dolari — dar în detrimentul vitezei de dezvoltare.
+
+![Verdictul — Vercel e standardul de aur pentru e-commerce, site-uri media cu trafic mare și SaaS bazat pe AI, în timp ce self-hosting-ul e potrivit pentru proiecte hobby fără nevoie de scalare globală](/images/blog/vercel-roi-verdict-decision.svg)
 
 Ești gata să testezi infrastructura globală Vercel, fără niciun risc inițial?
 

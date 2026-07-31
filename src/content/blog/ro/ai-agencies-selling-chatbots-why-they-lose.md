@@ -41,6 +41,8 @@ Prețul? Undeva între 3,000 EUR și 50,000 EUR în avans, plus un abonament lun
 
 Asta nu e infrastructură AI. **E revânzare deghizată în consultanță.**
 
+![Diagrama arhitecturii tipice de tip "wrapper" a agențiilor de AI: Frontend UI către apel API la OpenAI, Anthropic sau Gemini și înapoi, la un preț de 3,000-50,000 EUR în avans plus un abonament lunar cu markup](/images/blog/ai-agencies-wrapper-architecture.svg)
+
 ---
 
 ## Când un LLM generic e suficient — și nu trebuie să complici lucrurile
@@ -59,6 +61,8 @@ Ca să fim corecți: există scenarii în care un API wrapper e exact ce ai nevo
 
 **Agenția care te convinge de contrariu îți vinde aer.**
 
+![Checklist cu cinci scenarii în care un API LLM generic e alegerea corectă: generare simplă de text, date publice și statice, volum mic, proof of concept, și lipsa expertizei MLOps în echipă](/images/blog/ai-agencies-generic-llm-checklist.svg)
+
 ---
 
 ## Când ai nevoie de altceva — și ce înseamnă de fapt „altceva”
@@ -66,6 +70,8 @@ Ca să fim corecți: există scenarii în care un API wrapper e exact ce ai nevo
 Problema începe când organizația ta are nevoi care depășesc ce poate livra responsabil un model generic.
 
 **Semne că te afli deja în acest teritoriu:**
+
+![Trei semne că ai nevoie de mai mult decât un LLM generic: date proprietare și sensibile sub GDPR, nevoia de cunoștințe interne ancorate prin RAG, și nevoia de acțiuni agentice nu doar răspunsuri](/images/blog/ai-agencies-three-warning-signs.svg)
 
 ### 1. Datele tale sunt proprietare și sensibile
 
@@ -120,6 +126,8 @@ Dacă ai ajuns în punctul în care ai nevoie de infrastructură reală, arhitec
 [Verifiable response + action]
 ```
 
+![Pipeline RAG și orchestrare de agenți: surse de date prin ingestion și chunking, model de embedding local, vector store self-hosted, retrieval cu re-ranking CrossEncoder, LLM local, orchestrator de agenți, până la răspuns verificabil și acțiune](/images/blog/ai-agencies-rag-agent-pipeline.svg)
+
 Fiecare componentă din acest stack rulează pe **serverele tale**, în cadrul **infrastructurii tale**, sub **politicile tale de securitate**.
 
 Datele nu ies din perimetrul tău. Fără costuri per-token care explodează odată cu volumul. Fără dimineți în care OpenAI schimbă un model și comportamentul aplicației tale se schimbă peste noapte.
@@ -134,6 +142,8 @@ Am testat un pipeline RAG self-hosted pe Ollama cu Qwen2.5 32B împotriva GPT-4 
 |---|---|---|---|
 | GPT-4 + RAG naiv | 78% | 14% | ~$4.20 |
 | Qwen2.5 32B local + re-ranking CrossEncoder | **94%** | **3%** | **~$0.11** |
+
+![Grafic comparativ GPT-4 cu RAG naiv vs. Qwen2.5 32B local cu re-ranking CrossEncoder pe 500 de documente juridice românești: 78% vs 94% acuratețe retrieval, 14% vs 3% rată de halucinație, ~$4.20 vs ~$0.11 cost per 1,000 interogări](/images/blog/ai-agencies-accuracy-cost-comparison.svg)
 
 Diferența de acuratețe nu vine din model. Vine din **re-ranking** și dintr-o **strategie de chunking adaptată tipului de document**. GPT-4 nu e slab. E aplicat greșit.
 
@@ -165,6 +175,8 @@ Un Statement of Work serios pentru o soluție AI enterprise include:
 - **Procedură de rollback definită**: dacă o actualizare de model degradează performanța, revenirea la versiunea anterioară se face în maximum 4 ore
 
 Ce primești de obicei: un PDF de 3 pagini care spune „ne angajăm să oferim servicii de calitate” și o clauză de reziliere care cere preaviz de 3 luni plus 6 luni de taxe preplătite.
+
+![Comparație între un Statement of Work enterprise serios — cu SLA de latență, drepturi de audit, plan de exit, proprietate asupra datelor de antrenare și procedură de rollback — și PDF-ul tipic de 3 pagini cu preaviz de 3 luni și 6 luni de taxe preplătite](/images/blog/ai-agencies-contract-comparison.svg)
 
 Asta e diferența dintre un partener tehnic și un furnizor.
 

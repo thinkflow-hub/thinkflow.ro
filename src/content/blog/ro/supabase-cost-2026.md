@@ -26,6 +26,8 @@ Supabase face puntea între puterea brută a bazei de date și o Developer Exper
 
 - **Storage și compute decuplate:** poți scala spațiul de stocare al bazei de date independent de instanța de compute, evitând clasica capcană de „over-provisioning”.
 
+![De ce câștigă Supabase în fața bazelor de date tradiționale: overhead-ul DIY al Postgres brut vs pgvector nativ, AI Index Advisor și storage/compute decuplate în Supabase](/images/blog/supabase-cost-vs-traditional-db.svg)
+
 ## 2. Ce nu-ți spune nimeni: unde te poate durea prețul Supabase
 
 Supabase folosește un model de preț predictibil, dar dacă nu înțelegi cum gestionează PostgreSQL resursele, poți avea parte de o factură-surpriză.
@@ -33,6 +35,8 @@ Supabase folosește un model de preț predictibil, dar dacă nu înțelegi cum g
 **Realitatea:** Supabase îți oferă o bază de date Postgres reală, fără restricții. Asta înseamnă că, dacă scrii query-uri ineficiente, cu bucle imbricate și fără indecși, utilizarea CPU va sări în roșu, forțându-te să faci upgrade la un tier de compute superior mult mai devreme decât te aștepți.
 
 Cea mai frecventă capcană de cost? Cotele Realtime și invocările de Edge Functions. Dacă aplicația ta ascultă fiecare modificare de rând pentru mii de clienți activi prin WebSockets, limitele de conexiuni vor atinge rapid plafonul.
+
+![Unde poate durea prețul Supabase: query-uri ineficiente care saturează CPU și forțează upgrade de tier, plus Realtime și Edge Functions care ating plafonul de conexiuni](/images/blog/supabase-cost-pricing-pain-points.svg)
 
 ## 3. Reguli arhitecturale ca să ții Supabase ieftin
 
@@ -44,9 +48,15 @@ Cea mai frecventă capcană de cost? Cotele Realtime și invocările de Edge Fun
 
 - **Rulează VACUUM regulat:** asigură-te că auto-vacuum e configurat corect pentru tabelele cu multe scrieri, ca să previi umflarea tabelelor (table bloat), care îți mănâncă spațiul de stocare plătit.
 
+![Trei reguli arhitecturale pentru a ține Supabase ieftin: politici RLS inteligente, connection pooling cu Supavisor și VACUUM regulat](/images/blog/supabase-cost-architectural-rules-checklist.svg)
+
+![De ce funcțiile serverless au nevoie de pooling cu Supavisor: conexiunile directe epuizează limita de conexiuni, cele pooled rămân în limite](/images/blog/supabase-cost-connection-pooling-flow.svg)
+
 ## Verdict: merită?
 
 Dacă vrei o arhitectură Postgres scalabilă, gata de producție, cu Auth, Storage și capabilități Vector incluse, fără să angajezi un DBA full-time, Supabase e o alegere evidentă. Câștigi mult mai mult din viteza de lansare decât pierzi din diferența de preț, oricum mică, față de infrastructura brută.
+
+![Verdict: mica primă de preț a Supabase față de infrastructura brută e depășită de viteza de lansare, cu Auth, Storage, Vector și Postgres incluse](/images/blog/supabase-cost-verdict-tradeoff.svg)
 
 Dacă vrei să scalezi backend-ul fără să te mai lupți cu DevOps-ul, ai de unde începe.
 

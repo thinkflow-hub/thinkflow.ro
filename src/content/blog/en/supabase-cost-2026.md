@@ -26,6 +26,8 @@ Supabase bridges the gap between raw database power and frictionless Developer E
 
 - **Decoupled Storage & Compute:** You can scale your database storage independently of your compute instance, preventing the classic "over-provisioning" trap.
 
+![Why Supabase wins over traditional databases: raw Postgres DIY overhead vs Supabase's built-in pgvector, AI Index Advisor, and decoupled storage/compute](/images/blog/supabase-cost-vs-traditional-db.svg)
+
 ## 2. The Elephant in the Room: Where Supabase Pricing Can Hurt
 
 Supabase uses a predictable pricing model, but if you do not understand how PostgreSQL handles resources, you might get a surprise bill.
@@ -33,6 +35,8 @@ Supabase uses a predictable pricing model, but if you do not understand how Post
 **The Reality:** Supabase gives you a real, unrestricted Postgres database. This means if you write inefficient queries with nested loops and no indexes, your CPU usage will redline, forcing you to upgrade to a higher compute tier much earlier than expected.
 
 The most common cost pitfall? Realtime quotas and Edge Function invocations. If your app listens to every single row change across thousands of active clients via WebSockets, your connection limits will hit the ceiling rapidly.
+
+![Where Supabase pricing can hurt: inefficient queries redlining CPU and forcing tier upgrades, plus Realtime and Edge Function invocations hitting connection ceilings](/images/blog/supabase-cost-pricing-pain-points.svg)
 
 ## 3. Architectural Rules to Keep Supabase Cheap
 
@@ -44,9 +48,15 @@ Before you migrate your production data, ensure your team follows these optimiza
 
 - **Vacuum Regularly:** Ensure auto-vacuum is properly tuned for high-write tables to prevent table bloat from eating up your paid storage disk space.
 
+![Three architectural rules to keep Supabase cheap: smart RLS policies, Supavisor connection pooling, and regular vacuuming](/images/blog/supabase-cost-architectural-rules-checklist.svg)
+
+![Why serverless functions need Supavisor pooling: direct connections exhaust max database connections, pooled connections stay within limits](/images/blog/supabase-cost-connection-pooling-flow.svg)
+
 ## Verdict: Is It Worth It?
 
 If you want a production-ready, scalable Postgres architecture with built-in Auth, Storage, and Vector capabilities without hiring a full-time DBA, Supabase is a no-brainer. The speed-to-market advantage far outweighs the slight premium over raw infrastructure.
+
+![Verdict: Supabase's slight premium over raw infrastructure is outweighed by speed-to-market with built-in Auth, Storage, Vector and Postgres](/images/blog/supabase-cost-verdict-tradeoff.svg)
 
 Ready to scale your backend infrastructure without the DevOps nightmare?
 

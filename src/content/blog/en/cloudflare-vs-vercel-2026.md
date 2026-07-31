@@ -14,6 +14,8 @@ On one side, Vercel offers an unmatched, luxurious Developer Experience (DX) tha
 
 As a CTO, tech lead, or founder, you cannot afford to make this decision based on pure hype. Let us look at the hard architecture, analyze the unit economics, and figure out which platform actually saves your runway.
 
+![Vercel vs Cloudflare compared side by side: developer-experience-first premium pricing vs infrastructure-first near-zero cost — you pay with money or with engineering time](/images/blog/cloudflare-vercel-two-philosophies.svg)
+
 ## 1. The Disruption: Why Cloudflare is Shaking Up the Frontend Space
 
 Historically, Cloudflare was just a DNS and CDN layer. Today, it is a fully mature cloud ecosystem. With Cloudflare Workers (V8 isolates running at the edge), Pages, R2 (zero-egress object storage), and D1 (native edge SQL database), you can host an entire full-stack enterprise application completely inside Cloudflare's network.
@@ -25,6 +27,8 @@ Historically, Cloudflare was just a DNS and CDN layer. Today, it is a fully matu
 - **Sub-Millisecond Edge Invocations:** Cloudflare Workers boot up in less than a millisecond. There are no "cold starts" because they use isolates instead of standard virtual machines or containerized serverless functions.
 
 - **Hyper-Localized Compute:** Your code runs natively on servers inside thousands of cities globally, meaning your users get dynamic responses at the absolute speed of light.
+
+![Cloudflare Workers, Pages, R2, and D1 combined into one full-stack app entirely inside Cloudflare's network — zero egress fees, sub-millisecond edge invocations, hyper-localized compute](/images/blog/cloudflare-vercel-full-stack-architecture.svg)
 
 ## 2. The Real Catch: The Hidden "Developer Tax" of Cloudflare
 
@@ -38,6 +42,8 @@ If Cloudflare is so cheap and fast, why has not everyone abandoned Vercel? Becau
 
 - **No Native Preview Infrastructure:** Vercel's automatic preview branches, instant visual feedback tools, and production-grade CI/CD pipeline are unmatched. Replicating Vercel's team collaboration workflow on Cloudflare requires custom tooling and DevOps setup.
 
+![The hidden developer tax of Cloudflare: OpenNext framework lag and no native preview infrastructure add up to 10-20 hours a month of DevOps overhead](/images/blog/cloudflare-vercel-hidden-dev-tax.svg)
+
 ## 3. The Cost Comparison: A Tale of Two Invoices
 
 Let us look at how the math scales when your application hits 10 Terabytes of bandwidth and 50 Million edge function executions per month:
@@ -48,6 +54,8 @@ Let us look at how the math scales when your application hits 10 Terabytes of ba
 | Edge Compute Invocations | Scaled premium tier fees | ~$25 - $50 (Based on overages) |
 | DevOps Overhead | 0 hours (It just works) | 10 - 20 hours (Configuring pipelines/adapters) |
 
+![Monthly bill at 10TB bandwidth and 50M edge invocations: Vercel ~$1,500+ bandwidth and scaled premium compute fees vs Cloudflare $0 bandwidth and ~$25-$50 compute, offset by 10-20 hours of DevOps overhead](/images/blog/cloudflare-vercel-cost-comparison.svg)
+
 ## Verdict: Which One Should You Pick?
 
 The decision comes down to your team structure and your application's architecture:
@@ -55,6 +63,8 @@ The decision comes down to your team structure and your application's architectu
 - **Choose Vercel if:** You are a fast-moving product team, a VC-backed startup, or an e-commerce brand running heavily optimized Next.js. Your priority is feature delivery speed and frictionless deployments. The hours your engineers save on DevOps easily offset the premium invoice.
 
 - **Choose Cloudflare if:** You are building a bootstrapped startup, a data-heavy application (SaaS with high file uploads, heavy API requests), or you have a team with solid backend/DevOps skills. The cost predictability and zero-egress architecture make Cloudflare mathematically unbeatable at scale.
+
+![Decision tree: choose Vercel for fast-moving product teams and VC-backed startups, choose Cloudflare for bootstrapped or data-heavy teams with backend/DevOps skills](/images/blog/cloudflare-vercel-decision-tree.svg)
 
 <a href="https://cloudflare.com/?ref=thinkflow" rel="sponsored nofollow">Sign Up for Cloudflare and Secure Your Infrastructure for Free</a>
 

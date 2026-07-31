@@ -23,6 +23,8 @@ That's the entire distinction. Every practical consequence — boot time, resour
 
 **Why this matters more now:** as AI inference workloads push toward larger models and higher iteration counts, the cost of standing up an environment for every training run or every scaled replica gets paid far more often than it used to. A shared-kernel container avoids re-booting an OS on every spin-up; a VM re-does that work every time, because isolation at that level requires it.
 
+![Container vs VM: where the kernel lives — containers share one host kernel across all instances, VMs boot a full guest kernel per instance on top of a hypervisor](/images/blog/docker-vm-kernel-architecture.svg)
+
 ---
 
 ## 2. What Actually Differs, and Why
@@ -35,7 +37,13 @@ That's the entire distinction. Every practical consequence — boot time, resour
 | **Blast radius of a kernel exploit** | Can potentially affect the host kernel all containers share | Contained to that one VM's own kernel |
 | **Best fit** | Many short-lived, trusted, homogeneous workloads | Fewer long-lived, less-trusted, or heterogeneous workloads |
 
+![Startup time compared: container spin-up measured in seconds versus tens of seconds to minutes for a VM's full OS boot](/images/blog/docker-vm-startup-time.svg)
+
+![Resource overhead compared: low for containers with no duplicated kernel/driver stack, higher for VMs which each carry their own OS overhead](/images/blog/docker-vm-resource-overhead.svg)
+
 The isolation line is the one that actually matters for a security or multi-tenancy decision, not the boot-time line. Containers are faster precisely *because* they share more with the host — which is also exactly why they isolate less. You cannot get the VM's isolation guarantee with the container's shared-kernel speed; that trade isn't available, no matter how the tooling is marketed.
+
+![Blast radius of a kernel exploit: a container breach can potentially reach the shared host kernel and every container on it, a VM breach stays contained to that one VM's own kernel](/images/blog/docker-vm-isolation-blast-radius.svg)
 
 ---
 
@@ -44,6 +52,8 @@ The isolation line is the one that actually matters for a security or multi-tena
 - **Untrusted or adversarial workloads, strict compliance boundaries, or "this must never touch the host kernel" requirements** → VM. The overhead is the cost of the guarantee.
 - **Homogeneous internal services, CI/CD runners, dev environments, high-churn deployments** → container. You're trading isolation strength you don't need for speed and density you do need.
 - **Mixed fleets** are normal, not a compromise: many production setups run containers *inside* VMs specifically to get container-level density with VM-level blast-radius containment around groups of tenants. That combination isn't contradictory — it's the two mechanisms doing what each is actually good at.
+
+![Decision flowchart: untrusted or strict-compliance workloads route to a VM, homogeneous trusted high-churn workloads route to a container, everything else is a mixed fleet running containers inside VMs](/images/blog/docker-vm-decision-flowchart.svg)
 
 ---
 

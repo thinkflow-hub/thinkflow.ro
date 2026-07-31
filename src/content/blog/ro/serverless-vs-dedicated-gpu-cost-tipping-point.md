@@ -17,6 +17,8 @@ Mută același workload pe un singur server GPU dedicat <a href="https://www.het
 
 Diferența nu e liniară. Sub un anumit volum, serverless e mai ieftin și nu la limită. Peste el, dedicatul e mai ieftin și nici aici nu e la limită. Articolul de față găsește exact linia asta și arată calculul din spate — plus costurile ascunse de ambele părți pe care o comparație simplă de preț-per-cerere le ratează.
 
+![Aceleași 2 milioane de cereri pe lună, două facturi complet diferite: Vercel serverless la $954/lună vs Hetzner GEX44 dedicat la $231/lună fix](/images/blog/serverless-gpu-monthly-bill-comparison.svg)
+
 ---
 
 ## Factura Vercel Serverless, Descompusă
@@ -32,6 +34,8 @@ Ipotezele folosite mai jos, declarate ca să poată fi verificat calculul: 12 se
 | Cereri Edge | $2/1M peste 10M incluse | $0 | $0 | $0 |
 | **Total** | | **$23** | **$231** | **$2,610** |
 
+![Costul Vercel serverless pe componentă, pe trei nivele de volum: $23 la 50K, $231 la 500K, $2,610 la 5M cereri pe lună](/images/blog/serverless-gpu-cost-scaling-by-tier.svg)
+
 Două lucruri de reținut. Întâi, la 50K și 500K cereri, bandwidth-ul și cererile edge rămân în limitele incluse ale Vercel Pro — toată factura e durată de calcul. Al doilea, taxa de bază de $20/lună a planului Pro e lăsată deliberat în afara tabelului: e un cost de platformă pe care o echipă îl plătește indiferent dacă lansează sau nu o funcționalitate LLM, deci nu schimbă unde cade punctul de cotitură. Adaug-o mental înapoi dacă o cifră curată de cost total de deținere contează mai mult decât costul marginal specific al funcționalității LLM.
 
 ### Aritmetica din spatele cifrei de 500K
@@ -43,11 +47,15 @@ Merită parcursă o dată, pentru că e cifra pe care se sprijină tot restul ar
 - Invocări: 500,000 ÷ 1,000,000 × $0.60 = $0.30
 - Subtotal: $231.3
 
+![Descompunerea celor $231/lună la 500K cereri: $213.3 timp CPU (92%) plus $17.7 timp memorie (8%) plus $0.30 invocări (0.1%)](/images/blog/serverless-gpu-500k-arithmetic-breakdown.svg)
+
 Cifra asta rămâne valabilă doar cât timp răspunsul mediu chiar e ~500 de token-uri la ~40 token-uri/secundă. O echipă care streamează completări mai lungi — răspunsuri RAG cu citări, răspunsuri de agent cu mai mulți pași — împinge durata activă în sus și mută punctul de cotitură mai jos, uneori mult sub 500K. O echipă care servește completări scurte de tip clasificare (50–100 token-uri) îl împinge în direcția opusă, peste 1M. Formula contează mai mult decât cifra specifică; rulează-o pe loguri reale de producție înainte să tratezi orice din articolul ăsta ca pe o prognoză.
 
 ### Variații pe regiune și model de facturare
 
 Tarifele Fluid Compute din Vercel variază pe regiune — o funcție care rulează în São Paulo se facturează vizibil mai scump per GB-oră decât una într-o regiune din SUA sau UE. Echipele rămase pe modelul vechi de preț per-invocare al Vercel (pre-Fluid Compute) vor vedea o curbă complet diferită, de obicei mai plată la volum mic și mai abruptă la volum mare, pentru că facturarea veche taxează durata alocată integral, nu timpul activ de CPU. Verifică pe ce model de facturare e efectiv proiectul înainte să aplici direct cifrele de mai sus.
+
+![Variație pe regiune și model de facturare: São Paulo se facturează vizibil mai scump per GB-oră decât US/EU, iar prețul vechi per-invocare produce o curbă mai plată apoi mai abruptă decât Fluid Compute](/images/blog/serverless-gpu-region-billing-variance.svg)
 
 ---
 
@@ -56,6 +64,8 @@ Tarifele Fluid Compute din Vercel variază pe regiune — o funcție care ruleaz
 Un Hetzner GEX44 costă €184/lună (~$211 la cursul de mijloc 2026) — un NVIDIA RTX 4000 SFF Ada cu 20 GB VRAM, un Intel Core i5-13500 și 64 GB RAM. Adaugă Cloudflare în față pentru TLS, caching și protecție DDoS de bază la aproximativ $20/lună, iar costul total ajunge la circa $231/lună. Cifra asta nu se mișcă indiferent dacă serverul servește 50,000 de cereri sau 5 milioane — nu există niciun contor per-cerere care rulează.
 
 Rulând vLLM pe acest hardware, un model de clasă 8B precum Llama 3.1 8B încape confortabil, cu loc suficient pentru batching. Nu există taxă de invocare a funcției, niciun contor de bandwidth dincolo de termenii proprii ai Cloudflare și niciun cold start — modelul stă rezident în VRAM tot timpul cât serverul e pornit. Pentru echipele care au nevoie de mai mult spațiu de manevră, GEX130 de la Hetzner (RTX 6000 Ada, 48 GB VRAM) costă circa €838/lună și acoperă modele de 32B–70B cu quantizare; aceeași logică de cost fix se aplică la un plafon mai ridicat.
+
+![Nivelurile GPU Hetzner: GEX44 la €184/lună cu 20GB VRAM pentru modele 7B–14B, GEX130 la ~€838/lună cu 48GB VRAM pentru modele 32B–70B — VRAM e constrângerea de dimensionare, nu volumul de cereri](/images/blog/serverless-gpu-hetzner-tier-specs.svg)
 
 Compromisul pe care o echipă îl face pentru tariful ăsta fix: provizionarea durează una până la trei zile lucrătoare în loc de un singur apel API, și nu există scalare elastică dacă traficul se triplează peste noapte. Ăsta e costul real al hardware-ului dedicat și trebuie să intre în decizie, chiar dacă nu apare pe nicio factură.
 
@@ -84,6 +94,8 @@ Există o a treia opțiune care merită menționată, chiar dacă nu e subiectul
 
 500,000 de cereri pe lună e linia, aproape până la ultimul dolar, date fiind ipotezele de mai sus. Sub ea, elasticitatea merită plătită. Peste ea, fiecare cerere în plus pe serverless costă bani reali, în timp ce costul cutiei dedicate rămâne fix — motiv exact pentru care multiplul continuă să crească în loc să se stabilizeze.
 
+![Punctul de cotitură: costul Vercel serverless urcă de la $23 la 50K cereri până la $2,610 la 5M, intersectând linia fixă de $231/lună a Hetzner dedicat la pragul de echilibru de 500K](/images/blog/serverless-gpu-tipping-point-crossover.svg)
+
 ### Ce nu arată tabelul
 
 Cold start-urile sunt reale de partea serverless: o funcție care n-a mai procesat o cerere de câteva minute are nevoie de 800–2,400ms ca să pornească, înainte să apuce măcar să deschidă conexiunea de proxy, peste care se adaugă și time-to-first-token propriu al modelului. O cutie dedicată cu modelul deja încărcat în VRAM nu adaugă nimic din toate astea — latența primului token e cât ia GPU-ul, punct.
@@ -93,6 +105,8 @@ Partea dedicată are propriul cost ascuns, în direcție opusă: capacitatea neu
 Ca să punem o cifră pe asta: o echipă cu 500K cereri distribuite uniform pe 730 de ore lunar folosește la maximum avantajul tarifului fix. O echipă cu aceleași 500K cereri, dar concentrate doar într-o fereastră de 10 ore de program, plătește efectiv aceiași $231 pentru circa 300 de ore active în loc de 730 — un cost real per cerere de peste dublu față de ce sugerează tariful fix. Nici tabelul serverless, nici tabelul dedicat de mai sus nu țin cont de asta de unul singur; apare abia când cineva mapează traficul real pe ceas, nu doar pe calendar.
 
 Există un al treilea cost care aparține discuției ăsteia și rareori e modelat: timpul de inginerie necesar ca să rulezi efectiv cutia dedicată. Cineva răspunde de patch-urile de OS, actualizările de driver, monitorizarea discului și de alerta de la ora 2 dimineața dacă GPU-ul cade de pe bus. Serverless face din asta problema altcuiva; hardware-ul dedicat o transformă într-un cost real, deși de obicei mic, în timpul cuiva care menține serverul sănătos.
+
+![Ce nu arată tabelul punctului de cotitură: 800–2,400ms cold start pe serverless vs 0ms adăugat pe dedicat, și capacitate neutilizată — aceeași factură de $231/lună acoperind 730 de ore complet folosite sau doar ~300 de ore de program, dublând costul real per cerere](/images/blog/serverless-gpu-hidden-costs.svg)
 
 ---
 
@@ -135,6 +149,8 @@ Asta ține factura Vercel mică (doar rutele ușoare acumulează durată de func
 Două completări fac setup-ul hibrid semnificativ mai bun decât versiunea simplă de mai sus. Întâi, un cache semantic în fața endpoint-ului GPU — chiar și un cache simplu, pe potrivire exactă sau pe similaritate de embedding, aplicat pe prompt-urile comune — reduce numărul de cereri care ajung vreodată la cutia dedicată, ceea ce contează cel mai mult pentru traficul de tip FAQ sau support-bot, unde aceleași câteva întrebări se repetă constant. Al doilea, un health check pe endpoint-ul GPU cu fallback către un API găzduit (Together, Fireworks sau similar) acoperă singura slăbiciune reală a hardware-ului dedicat: lipsa failover-ului automat dacă cutia cade la ora 3 dimineața. Ruta de fallback costă mai mult per token, dar doar în timpul unei căderi — o asigurare ieftină împotriva singurului punct de eșec pe care îl introduce un server dedicat.
 
 Monitorizarea ambelor părți contează la fel de mult ca logica de rutare. Utilizarea GPU, marja de VRAM disponibilă și adâncimea cozii pe cutia dedicată; numărul de invocări și durata activă de partea serverless. Fără amândouă, punctul de cotitură calculat azi derivă discret pe măsură ce compoziția traficului se schimbă — lungimea medie a răspunsului care urcă de la 500 la 800 de token-uri mută punctul de intersecție fără ca nimeni să observe, până observă factura.
+
+![Jocul hibrid: router.py verifică HEAVY_PATHS și rutează traficul ușor către Vercel serverless, în timp ce cererile de chat/embeddings/batch trec printr-un cache semantic către cutia GPU Hetzner GEX44 cu tarif fix, cu un fallback de health-check către un API găzduit](/images/blog/serverless-gpu-hybrid-architecture.svg)
 
 ## Diagrama de Decizie
 

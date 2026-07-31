@@ -22,7 +22,11 @@ Sinteză vocală ieftină găsești oriunde. Dar dacă aplicația ta are nevoie 
 
 - **Conversational AI SDK (latență redusă):** în 2026, boții voice-to-voice au nevoie de o latență sub 500ms ca să pară naturali. Noile API-uri de streaming ale ElevenLabs îți permit să trimiți token-ii de text generați de LLM direct în fluxul generatorului audio, asincron.
 
+![Bucla vocală sub 500ms: token-ii LLM sunt trimiși asincron direct în generatorul audio ElevenLabs — bugetul de latență de care boții conversaționali au nevoie ca să pară naturali](/images/blog/elevenlabs-latency-pipeline.svg)
+
 - **Professional Voice Cloning (PVC):** are nevoie de doar câteva ore de audio ca să creeze un geamăn digital imposibil de deosebit de vorbitorul original, cu măsuri de siguranță native împotriva deepfake-urilor.
+
+![De ce domină ElevenLabs vocea AI în 2026: Multilingual v3 (peste 30 de limbi), Conversational AI SDK (latență sub 500ms) și Professional Voice Cloning — trei piloni pe care alternativele ieftine nu-i pot trece](/images/blog/elevenlabs-moat-pillars.svg)
 
 ## 2. Calculul costurilor: cum funcționează consumul de caractere
 
@@ -34,7 +38,11 @@ If your conversational AI bot talks to 5,000 users daily...
 Your monthly character burn can scale into thousands of dollars quickly.
 ```
 
+![Consumul de caractere la scară: 100.000 de caractere înseamnă 1,5 ore de audio — la 5.000 de utilizatori pe zi, factura lunară poate ajunge rapid la mii de dolari](/images/blog/elevenlabs-character-burn-scaling.svg)
+
 **Adevărul dur:** dacă folosești ElevenLabs ca să citești text generic, de lungă durată (cum ar fi rapoarte financiare de 2 ore) unde livrarea emoțională nu contează, plătești în plus degeaba. Folosește în schimb un furnizor cloud ieftin. Rezervă ElevenLabs pentru situațiile în care imersiunea, conversia și interacțiunea cu aspect uman îți afectează direct profitul.
+
+![Adevărul dur: conținutul generic de lungă durată, cum ar fi rapoartele financiare de 2 ore, înseamnă că plătești în plus cu ElevenLabs — folosește-l acolo unde imersiunea și conversia contează](/images/blog/elevenlabs-cost-decision-matrix.svg)
 
 ## 3. Cum îți optimizezi arhitectura ElevenLabs
 
@@ -45,6 +53,8 @@ Ca să nu-ți scape de sub control factura la API, implementează aceste bune pr
 - **Chunking și streaming:** pentru UI conversațional, nu aștepta ca LLM-ul să termine de generat un paragraf întreg. Trimite textul către ElevenLabs propoziție cu propoziție, ca să reduci latența percepută de utilizator și să păstrezi fluxurile de generare scurte.
 
 - **Folosește modelul potrivit pentru fiecare sarcină:** folosește Turbo v2 pentru interacțiuni conversaționale rapide (mai ieftin și mai rapid) și rezervă Multilingual v3 pentru producții video de top sau audiobook-uri.
+
+![Optimizarea pipeline-ului ElevenLabs: cache pentru buffer-ele audio după hash-ul textului și al vocii, chunking propoziție cu propoziție și rutare către Turbo v2 sau Multilingual v3 în funcție de sarcină](/images/blog/elevenlabs-architecture-optimization.svg)
 
 ## Verdict: ar trebui afacerea ta să adopte ElevenLabs?
 

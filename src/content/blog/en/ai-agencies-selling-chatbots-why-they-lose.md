@@ -41,6 +41,8 @@ The price? Anywhere from 3,000 EUR to 50,000 EUR upfront, plus a monthly "mainte
 
 That is not AI infrastructure. **It is reselling dressed up as consulting.**
 
+![Diagram of the typical AI agency wrapper: Frontend UI to API call to OpenAI, Anthropic or Gemini and back, priced at 3,000 to 50,000 EUR upfront plus a monthly markup retainer](/images/blog/ai-agencies-wrapper-architecture.svg)
+
 ---
 
 ## When a Generic LLM Is Enough — and You Should Not Overcomplicate Things
@@ -59,6 +61,8 @@ In these cases, ChatGPT with a solid prompt or Claude via API will get you where
 
 **The agency that convinces you otherwise is selling air.**
 
+![Checklist of five scenarios where a generic LLM API is the right call: simple text generation, public and static data, low volume, proof of concept, and no MLOps expertise on the team](/images/blog/ai-agencies-generic-llm-checklist.svg)
+
 ---
 
 ## When You Need Something Different — and What "Different" Actually Means
@@ -66,6 +70,8 @@ In these cases, ChatGPT with a solid prompt or Claude via API will get you where
 The problem starts when your organization has needs that exceed what a generic model can responsibly deliver.
 
 **Warning signs you are already in that territory:**
+
+![Three warning signs you need more than a generic LLM: proprietary and sensitive data under GDPR, the need for RAG-grounded internal knowledge, and the need for agentic actions instead of just answers](/images/blog/ai-agencies-three-warning-signs.svg)
 
 ### 1. Your Data Is Proprietary and Sensitive
 
@@ -120,6 +126,8 @@ If you have reached the point where you need real infrastructure, the architectu
 [Verifiable response + action]
 ```
 
+![RAG and agent orchestration pipeline: data sources through ingestion and chunking, local embedding model, self-hosted vector store, retrieval with CrossEncoder re-ranking, local LLM, agent orchestrator, to verifiable response and action](/images/blog/ai-agencies-rag-agent-pipeline.svg)
+
 Every component in this stack runs on **your servers**, within **your infrastructure**, under **your security policies**.
 
 No data leaves your perimeter. No per-token costs spiraling with volume. No morning where OpenAI changes a model and your application behavior changes overnight.
@@ -134,6 +142,8 @@ We benchmarked a self-hosted RAG pipeline on Ollama with Qwen2.5 32B against GPT
 |---|---|---|---|
 | GPT-4 + naive RAG | 78% | 14% | ~$4.20 |
 | Qwen2.5 32B local + CrossEncoder re-ranking | **94%** | **3%** | **~$0.11** |
+
+![Bar chart comparing GPT-4 with naive RAG versus Qwen2.5 32B local with CrossEncoder re-ranking on 500 Romanian legal documents: 78% vs 94% retrieval accuracy, 14% vs 3% hallucination rate, ~$4.20 vs ~$0.11 cost per 1,000 queries](/images/blog/ai-agencies-accuracy-cost-comparison.svg)
 
 The accuracy gap does not come from the model. It comes from **re-ranking** and a **chunking strategy tuned to the document type**. GPT-4 is not bad — it is being applied incorrectly.
 
@@ -165,6 +175,8 @@ A serious Statement of Work for an enterprise AI solution includes:
 - **Defined rollback procedure**: if a model update degrades performance, reversion to the previous version happens within 4 hours
 
 What you typically get: a 3-page PDF stating "we commit to providing quality services" and a termination clause requiring 3 months notice plus 6 months of prepaid fees.
+
+![Comparison of a proper enterprise AI Statement of Work with a latency SLA, audit rights, exit plan, training data ownership and rollback procedure versus the typical 3-page PDF with a 3-month notice and 6-month prepaid termination clause](/images/blog/ai-agencies-contract-comparison.svg)
 
 That is the difference between a technical partner and a vendor.
 

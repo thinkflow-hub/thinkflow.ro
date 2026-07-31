@@ -28,9 +28,13 @@ Vercel is no longer just an AWS Lambda wrapper. It has matured into a sophistica
 
 - **Preview Deployments & Visual Comments:** A proven Developer Experience (DX) booster that cuts code-to-production feedback loops by up to 40%.
 
+![Why traditional serverless falls short in 2026 — old SSG/SSR replaced by hybrid AI-streaming architectures, with Vercel's three technical pillars: Fluid Compute, native AI SDK integration, and preview deployments](/images/blog/vercel-roi-serverless-shift.svg)
+
 ## 2. Addressing the Elephant in the Room: The "Vercel Bill Shock"
 
 If you spend five minutes on Reddit or X, you will find horror stories of startups getting unexpected 5-figure bills due to bandwidth usage or serverless function execution limits.
+
+![The Vercel bill shock — how bandwidth usage and serverless function execution limits spike a predictable bill into an unexpected 5-figure charge](/images/blog/vercel-roi-bill-shock.svg)
 
 **The Hard Truth:** Vercel is a premium product. You are not just paying for raw compute; you are buying speed, global proximity, and the elimination of DevOps overhead.
 
@@ -44,6 +48,8 @@ Vercel Pro/Enterprise + Optimized Code = Hundreds to a few thousand/month
 
 If Vercel saves your team 15 hours of infrastructure maintenance per week, it has already paid for itself.
 
+![The ROI math: a full-time DevOps engineer at $10,000+/month vs Vercel Pro/Enterprise plus optimized code at hundreds to a few thousand per month — break-even at 15 hours/week of infrastructure maintenance saved](/images/blog/vercel-roi-cost-math.svg)
+
 ## 3. How to Architect for Vercel Without Going Broke
 
 If you decide to migrate or launch on Vercel, you must implement these architectural guardrails to keep your costs strictly optimized:
@@ -54,11 +60,15 @@ If you decide to migrate or launch on Vercel, you must implement these architect
 
 - **Enforce Spend Limits Early:** Use Vercel's Spend Management dashboard to set hard limits, automated pauses, and webhooks to trigger alerts on Slack or Email when usage hits 80% of your budget.
 
+![Three architectural guardrails to keep Vercel costs under control: lightweight Edge Middleware, optimized image formats, and early spend limits with alerts at 80% of budget](/images/blog/vercel-roi-architecture-guardrails.svg)
+
 ## Verdict: Should You Use Vercel?
 
 If you are building an e-commerce platform, a high-traffic media site, or an AI-driven SaaS where time-to-market and ultra-low latency directly dictate your conversion rates, Vercel is the gold standard.
 
 However, if you are hosting a hobby project with unoptimized media assets and zero need for global scaling, self-hosting on a VPS or utilizing a raw cloud provider might save you some dollars at the expense of your development speed.
+
+![The verdict — Vercel is the gold standard for e-commerce, high-traffic media, and AI-driven SaaS, while self-hosting suits hobby projects with no global-scaling needs](/images/blog/vercel-roi-verdict-decision.svg)
 
 Ready to test Vercel's global infrastructure with zero upfront risk?
 

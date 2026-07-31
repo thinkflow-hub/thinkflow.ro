@@ -50,6 +50,8 @@ Pipeline-ul de demo e optimizat pentru impresie. Pipeline-ul de producție e opt
 
 Astea sunt lucruri diferite.
 
+![Demo RAG pipeline (fixed chunking, OpenAI embeddings, top-5 to GPT-4) versus production reality (OCR noise, broken tables, contradicting document versions) — optimized for impressiveness vs. reliability under adversarial conditions](/images/blog/rag-pipeline-demo-vs-production.svg)
+
 ---
 
 ## Arhitectura completă de producție
@@ -96,6 +98,8 @@ QUERY PIPELINE (online, user-facing)
         |
 [Logging: full trace to ClickHouse for audit]
 ```
+
+![The full production RAG architecture: offline ingestion pipeline (raw documents through OCR, chunking, metadata tagging, embedding, Qdrant upsert, validation) and online query pipeline (query expansion, hybrid retrieval, re-ranking, context assembly, LLM inference, answer, logging)](/images/blog/rag-pipeline-full-architecture.svg)
 
 Fiecare pas din diagramă există pentru că ceva s-a stricat fără el. Hai să trecem prin cele care nu sunt evidente.
 
@@ -147,6 +151,8 @@ def document_aware_splitter(text: str, doc_type: str) -> list[str]:
         return splitter.split_text(text)
 ```
 
+![Fixed-size chunking fails legal clauses, technical tables, and FAQ pairs — document-type-aware chunking splits on Article/Section boundaries, keeps tables intact, and pairs questions with answers](/images/blog/rag-pipeline-chunking-strategy.svg)
+
 ### Metadata înseamnă jumătate din retrieval
 
 Fiecare fragment are nevoie de un payload care să-ți permită să filtrezi înainte sau după retrieval:
@@ -169,6 +175,8 @@ chunk_payload = {
 
 Acest payload permite interogări precum: „Găsește fragmentele relevante din contracte în vigoare după ianuarie 2025" — fără acel filtru, ai putea recupera o versiune depășită și halucina o politică care nu mai e valabilă.
 
+![Chunk metadata payload (source file, section, version, effective date, OCR confidence) lets you filter by effective_date before retrieval — without it, a superseded contract version can be cited as current](/images/blog/rag-pipeline-metadata-filtering.svg)
+
 ---
 
 ## Vector store — de ce Qdrant și de ce self-hosted
@@ -181,6 +189,8 @@ Există baze de date vectoriale gestionate (managed) bune. Pinecone e bine ingin
 - **Căutare hibridă sparse + dense**: suport nativ pentru combinarea potrivirii de cuvinte-cheie BM25 cu căutarea vectorială semantică (esențial pentru interogări scurte și tehnice, unde semantica pură eșuează)
 - **Filtrare pe payload**: filtrezi după metadate înainte sau în timpul căutării vectoriale, nu după — asta schimbă latența interogării de la 200ms la 15ms, la scară
 - **Snapshots**: backup-uri point-in-time ale întregului vector store, în câteva secunde
+
+![Why Qdrant self-hosted: Rust-based performance, native sparse+dense hybrid search, payload pre-filtering that cuts query latency from 200ms to 15ms at scale, and point-in-time snapshots](/images/blog/rag-pipeline-qdrant-features.svg)
 
 ### Docker Compose pentru Qdrant în producție
 
@@ -259,6 +269,8 @@ async def hybrid_search(
 
 De regulă, asta îmbunătățește recall-ul cu 15-25% față de căutarea doar dense, mai ales pentru interogări din domenii tehnice.
 
+![Hybrid retrieval for the query "GDPR Article 17": dense search finds semantically related but wrong chunks, sparse BM25 finds the exact match, RRF fusion combines both — improving recall 15-25% over dense-only search](/images/blog/rag-pipeline-hybrid-retrieval.svg)
+
 ---
 
 ## Re-ranking — pasul care schimbă totul
@@ -291,6 +303,8 @@ def rerank_chunks(query: str, candidates: list[dict], top_k: int = 4) -> list[di
 
 **De ce pragul 0.1?** Dacă fragmentul cu cel mai bun scor e sub 0.1, întrebarea probabil nu poate fi răspunsă din corpusul tău de documente. A trimite fragmente cu încredere scăzută către LLM produce halucinații. Mai bine spui „Nu găsesc un răspuns relevant în documentele disponibile" decât să confabulezi.
 
+![Re-ranking with a CrossEncoder: vector search returns 20 candidates by approximate similarity (the correct answer often buried around rank 11), re-ranking selects the true top-4 by direct relevance — raising accuracy from 78% to 94% in a legal document benchmark](/images/blog/rag-pipeline-reranking.svg)
+
 ---
 
 ## LLM inference — o configurație de model local care nu te face de râs în producție
@@ -303,6 +317,8 @@ Alegerea modelului depinde de hardware-ul tău și de cerințele de acuratețe. 
 | Qwen2.5 32B Q4_K_M | 22 GB | Aproape de frontieră | QA pe documente cu miză mare |
 | Mistral 7B Instruct Q5 | 6 GB | Bună | Throughput mare, sensibil la latență |
 | Llama 3.1 8B Q5_K_M | 6 GB | Bună | Uz general |
+
+![Local LLM VRAM vs. quality vs. use case: Qwen2.5 14B Q4_K_M (10GB, excellent, default recommendation), Qwen2.5 32B Q4_K_M (22GB, near-frontier, high-stakes QA), Mistral 7B Instruct Q5 and Llama 3.1 8B Q5_K_M (6GB, good)](/images/blog/rag-pipeline-vram-model-comparison.svg)
 
 **Promptul de sistem nu e opțional:**
 
@@ -437,6 +453,8 @@ async def rag_query_with_fallback(query: str, context: list[dict]) -> dict:
 ```
 
 **Asta contează mai mult decât crezi.** Un sistem care returnează sursele brute atunci când LLM-ul e picat e infinit mai util decât unul care returnează o eroare 500. Și e onest — utilizatorul înțelege exact ce primește.
+
+![LLM circuit breaker state machine (CLOSED, OPEN, HALF_OPEN) with a 5-failure threshold and 30-second recovery timeout, plus the graceful-degradation fallback chain that returns raw sources instead of a 500 error](/images/blog/rag-pipeline-circuit-breaker.svg)
 
 ---
 

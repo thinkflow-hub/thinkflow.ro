@@ -21,6 +21,8 @@ Three pieces, each doing the one job it's actually good at.
 
 **Next.js 16 App Router** handles routing, server rendering, and the edge middleware that checks whether a request is authenticated before it ever reaches a page. Next.js 16 ships the React Compiler as stable (automatic memoization, no manual `useMemo`/`useCallback`), a reworked prefetch system that dedupes shared layouts across routes, and Cache Components — caching is opt-in now, so nothing gets silently cached the way early App Router versions sometimes did.
 
+![Next.js 16 defaults this template leans on: React Compiler stable, prefetch rework dedupes shared layouts, Cache Components make caching opt-in](/images/blog/nextjs-supabase-nextjs16-features.svg)
+
 **FastAPI** owns everything that isn't request/response web serving: embedding generation, similarity search against the vector store, calls out to whichever LLM provider the app uses, and any background job that runs longer than a serverless function's patience allows. It's a plain REST service with no awareness of Next.js at all.
 
 **Supabase** is the part that keeps this from turning into three separate vendor dashboards. One Postgres instance is the application database, the auth provider (email/password, OAuth, magic links), and — via the `pgvector` extension, included on every plan including free — the vector store FastAPI queries for retrieval.
@@ -37,6 +39,8 @@ FastAPI backend      ── verifies JWT, runs embeddings/retrieval/LLM call
    ▼
 Supabase Postgres    ── auth.users · app tables · pgvector embeddings
 ```
+
+![Full-stack architecture: Next.js 16 on Vercel, FastAPI backend, and Supabase Postgres sharing one JWT issued by Supabase Auth](/images/blog/nextjs-supabase-architecture-flow.svg)
 
 The Next.js app never talks to Postgres directly for anything auth-related — it talks to Supabase's Auth API, gets a JWT, and that same JWT is what FastAPI verifies before doing any work. One identity, two backends.
 
@@ -102,6 +106,8 @@ export const config = {
 ```
 
 That last point matters more than it looks: `getSession()` reads whatever the cookie says without checking it's still valid, and middleware is exactly the place where trusting a stale cookie lets an expired or revoked session through. `getUser()` costs one round trip to Supabase's Auth server but is the only one of the two that's actually safe to gate routes on.
+
+![Auth middleware request flow: getUser() checks the session, redirecting unauthenticated dashboard requests to /login while public routes pass through](/images/blog/nextjs-supabase-middleware-auth-flow.svg)
 
 ---
 
@@ -234,6 +240,8 @@ export async function askAssistant(message: string) {
 
 A client component calls `askAssistant(message)` directly, like any other function — Next.js handles the serialization. The FastAPI backend never sees a Next.js request; it sees an HTTP call with a bearer token, same as it would from a mobile client or a cron job.
 
+![One identity, two backends: the same Supabase JWT moves from browser login through the Server Action to FastAPI's local verification, no callback required](/images/blog/nextjs-supabase-jwt-trust-chain.svg)
+
 ---
 
 ## Cost: Free to Start, Predictable to Scale
@@ -243,7 +251,11 @@ A client component calls `askAssistant(message)` directly, like any other functi
 | Vercel Hobby | 100 GB bandwidth, 1M edge requests, 1M function invocations, 4 CPU-hours/month | Team collaboration or traffic past Hobby's fair-use limits → Pro |
 | Supabase Free | 500 MB database, 1 GB storage, 5 GB egress, 50K monthly active users, 500K edge function invocations, pgvector included, 2 projects | Project auto-pause after 7 days idle, no backups → Pro at $25/month |
 
+![Vercel Hobby and Supabase Free tier limits side by side: 100GB bandwidth and 4 CPU-hours vs 500MB database and 50K monthly active users](/images/blog/nextjs-supabase-free-tier-limits.svg)
+
 Neither Vercel nor Supabase hosts a long-running FastAPI process directly. For an early-stage app, the backend fits comfortably on a free tier elsewhere — Render's free web service or Fly.io's free allowance both handle the request volume a new product sees, accepting that a cold instance takes a few seconds to wake up. Once retrieval and generation calls are frequent enough that cold starts matter, that's the same signal used elsewhere on this site for the serverless-to-dedicated conversation: move the backend to a small always-on box once volume justifies it, and keep Next.js and Supabase exactly where they are.
+
+![Deployment topology: Next.js on Vercel, Postgres on Supabase, and FastAPI hosted separately on a free Render or Fly.io tier until cold starts justify an always-on box](/images/blog/nextjs-supabase-deployment-topology.svg)
 
 The total starting cost for this stack is $0. The first real bill shows up when the Supabase project's database crosses 500 MB or the app needs backups — both comfortably past the point where a side project has already validated whether anyone wants it.
 

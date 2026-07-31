@@ -14,6 +14,8 @@ Pe de-o parte, Vercel oferă o experiență de dezvoltare (DX) de lux, greu de e
 
 Dacă ești CTO, tech lead sau founder, nu îți poți permite să iei decizia asta pe baza hype-ului. Hai să ne uităm la arhitectura dură, să analizăm unit economics și să vedem care platformă îți economisește, de fapt, runway-ul.
 
+![Vercel vs Cloudflare comparate direct: experiență de dezvoltare cu preț premium vs infrastructură cu cost aproape zero — plătești cu bani sau cu timp de inginerie](/images/blog/cloudflare-vercel-two-philosophies.svg)
+
 ## 1. Disrupția: de ce Cloudflare zguduie spațiul frontend
 
 Istoric, Cloudflare era doar un strat de DNS și CDN. Astăzi, e un ecosistem cloud complet matur. Cu Cloudflare Workers (izolate V8 rulate la edge), Pages, R2 (stocare de obiecte cu egress zero) și D1 (bază de date SQL nativă la edge), poți găzdui o aplicație enterprise full-stack întreagă complet în interiorul rețelei Cloudflare.
@@ -25,6 +27,8 @@ Istoric, Cloudflare era doar un strat de DNS și CDN. Astăzi, e un ecosistem cl
 - **Invocări la edge sub-milisecundă:** Cloudflare Workers pornesc în mai puțin de o milisecundă. Nu există „cold starts”, pentru că folosesc izolate în loc de mașini virtuale standard sau funcții serverless containerizate.
 
 - **Compute hiper-localizat:** Codul tău rulează nativ pe servere din mii de orașe la nivel global, ceea ce înseamnă că utilizatorii tăi primesc răspunsuri dinamice aproape instant.
+
+![Cloudflare Workers, Pages, R2 și D1 combinate într-o singură aplicație full-stack, complet în interiorul rețelei Cloudflare — taxe de egress zero, invocări la edge sub-milisecundă, compute hiper-localizat](/images/blog/cloudflare-vercel-full-stack-architecture.svg)
 
 ## 2. Capcana reală: „taxa ascunsă pentru dezvoltatori” a Cloudflare
 
@@ -38,6 +42,8 @@ Dacă Cloudflare e atât de ieftin și de rapid, de ce n-a renunțat toată lume
 
 - **Fără infrastructură nativă de preview:** Branch-urile automate de preview ale Vercel, uneltele de feedback vizual instant și pipeline-ul CI/CD de nivel producție sunt greu de reprodus. Ca să replici workflow-ul de colaborare în echipă al Vercel pe Cloudflare, ai nevoie de tooling custom și de configurare DevOps.
 
+![Taxa ascunsă pentru dezvoltatori a Cloudflare: întârzierea framework-ului OpenNext și lipsa infrastructurii native de preview însumează 10-20 ore pe lună de overhead DevOps](/images/blog/cloudflare-vercel-hidden-dev-tax.svg)
+
 ## 3. Comparația de costuri: povestea a două facturi
 
 Hai să vedem cum scalează matematica atunci când aplicația ta ajunge la 10 Terabytes de bandwidth și 50 de milioane de execuții de funcții edge pe lună:
@@ -48,6 +54,8 @@ Hai să vedem cum scalează matematica atunci când aplicația ta ajunge la 10 T
 | Invocări edge compute | Taxe de nivel premium, scalate | ~$25 - $50 (în funcție de depășiri) |
 | Overhead DevOps | 0 ore (funcționează din start) | 10 - 20 ore (configurare pipeline-uri/adaptoare) |
 
+![Factura lunară la 10TB bandwidth și 50M invocări edge: Vercel ~$1,500+ bandwidth și taxe premium scalate pentru compute vs Cloudflare $0 bandwidth și ~$25-$50 compute, compensat de 10-20 ore de overhead DevOps](/images/blog/cloudflare-vercel-cost-comparison.svg)
+
 ## Verdict: pe care să-l alegi?
 
 Decizia se reduce, în cele din urmă, la structura echipei tale și la arhitectura aplicației:
@@ -55,6 +63,8 @@ Decizia se reduce, în cele din urmă, la structura echipei tale și la arhitect
 - **Alege Vercel dacă:** ești o echipă de produs care se mișcă rapid, un startup finanțat de VC-uri sau un brand de e-commerce care rulează Next.js puternic optimizat. Prioritatea ta e viteza de livrare a feature-urilor și deploy-uri fără fricțiuni. Orele pe care inginerii tăi le economisesc la DevOps compensează ușor factura premium.
 
 - **Alege Cloudflare dacă:** construiești un startup bootstrapped, o aplicație intensivă în date (SaaS cu upload-uri mari de fișiere, request-uri API grele) sau ai o echipă cu skill-uri solide de backend/DevOps. Predictibilitatea costurilor și arhitectura cu egress zero fac din Cloudflare o opțiune greu de contestat din punct de vedere al costurilor, la scară.
+
+![Arbore de decizie: alege Vercel pentru echipe de produs rapide și startup-uri finanțate de VC, alege Cloudflare pentru startup-uri bootstrapped sau echipe cu skill-uri backend/DevOps](/images/blog/cloudflare-vercel-decision-tree.svg)
 
 <a href="https://cloudflare.com/?ref=thinkflow" rel="sponsored nofollow">Înscrie-te la Cloudflare și securizează-ți infrastructura gratuit</a>
 

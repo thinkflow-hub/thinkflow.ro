@@ -23,6 +23,8 @@ O bază de date vectorială funcționează ca stratul de memorie de mare perform
 
 Alegerea infrastructurii potrivite presupune evaluarea capacităților tehnice în raport cu constrângerile de business. Factorii cheie de decizie includ benchmark-urile throughput vs. latență, compatibilitatea SDK cu framework-uri precum LangChain și LlamaIndex, cerințele de suveranitate a datelor și modelele de facturare aliniate cu tiparele reale de utilizare. O nepotrivire în aceste zone poate duce la creșteri imprevizibile ale costurilor cloud, riscuri de vendor lock-in sau o acuratețe de recuperare sub-optimă, care degradează experiența utilizatorului.
 
+![Diagramă: pipeline de recuperare RAG cu vector DB ANN search și impactul semantic caching — reducere de până la 90% a latenței și 30-40% cost tokeni](/images/blog/vector-db-rag-pipeline-caching.svg)
+
 ---
 
 ## 2. Pinecone (Cloud Gestionat)
@@ -36,6 +38,8 @@ Pinecone rămâne standardul industriei pentru organizațiile care caută o baz�
 - **Cel mai bun pentru:** Echipe enterprise care au nevoie de fiabilitate maximă, deployment RAG rapid și integrare directă cu furnizori LLM comerciali, fără muncă de integrare suplimentară, fără a gestiona clustere de baze de date.
 
 [Explorează Pinecone pentru infrastructura ta RAG](https://www.pinecone.io/)
+
+![Diagramă: profil Pinecone — preț serverless, hybrid search nativ, avantaje și dezavantaje, cel mai bun caz de utilizare](/images/blog/vector-db-pinecone-profile.svg)
 
 ---
 
@@ -51,6 +55,8 @@ Weaviate oferă o arhitectură modulară unică, ce le permite dezvoltatorilor s
 
 [Începe cu Weaviate Cloud sau Open Source](https://weaviate.io/?ref=thinkflow)
 
+![Diagramă: profil Weaviate — open-source vs. preț cloud, arhitectură modulară, avantaje și dezavantaje](/images/blog/vector-db-weaviate-profile.svg)
+
 ---
 
 ## 4. Qdrant (Motor Rust de Înaltă Performanță)
@@ -64,6 +70,8 @@ Qdrant se remarcă printr-un motor de mare performanță scris în Rust, optimiz
 - **Cel mai bun pentru:** Startup-uri și scale-up-uri AI care au nevoie de performanță cu latență redusă, gestionarea concurenței ridicate și scalare cost-eficientă la miliarde de embeddings, pe o bază open-source matură.
 
 [Implementează Qdrant în Cloud sau Open Source](https://qdrant.tech/?ref=thinkflow)
+
+![Diagramă: profil Qdrant — motor Rust, open-source vs. preț cloud, avantaje și dezavantaje](/images/blog/vector-db-qdrant-profile.svg)
 
 ---
 
@@ -79,6 +87,8 @@ Chroma s-a impus ca alegerea preferată a dezvoltatorilor care pun accent pe dev
 
 [Începe să construiești cu Chroma](https://www.trychroma.com/?ref=thinkflow)
 
+![Diagramă: profil Chroma — nucleu open-source, caracteristici developer-first, avantaje și dezavantaje](/images/blog/vector-db-chroma-profile.svg)
+
 ---
 
 ## 6. Milvus / Zilliz (Arhitectură Distribuită la Scară de Miliarde)
@@ -93,6 +103,8 @@ Pentru organizațiile care au nevoie de scalabilitate masivă și guvernanță s
 
 [Explorează Milvus Open Source sau Zilliz Cloud](https://zilliz.com/?ref=thinkflow)
 
+![Diagramă: profil Milvus/Zilliz — nucleu open-source, arhitectură la scară de miliarde, avantaje și dezavantaje](/images/blog/vector-db-milvus-zilliz-profile.svg)
+
 ---
 
 ## 7. Tabel Comparativ
@@ -106,6 +118,8 @@ Pentru organizațiile care au nevoie de scalabilitate masivă și guvernanță s
 | **Trial Gratuit** | Da (Tier Gratuit Serverless) | Da (Cloud Sandbox / OSS) | Da (Licență Open Source) | Da (Trial Local/Cloud) | Da (OSS / Tier Gratuit Zilliz) |
 | **Integrări** | LangChain, LlamaIndex, SDK-uri Directe | Module Extinse, REST/GraphQL, Toate SDK-urile Majore | LangChain, LlamaIndex, SDK-uri Directe Rust/Py/Go | Integrare Nativă Profundă cu Framework-urile AI Majore | Ecosistem Larg, Plugin-uri Custom, TF Serving |
 
+![Diagramă: comparație preț de start în cloud pentru Qdrant, Pinecone, Weaviate, Chroma și Milvus/Zilliz](/images/blog/vector-db-pricing-comparison.svg)
+
 ---
 
 ## 8. Verdict pe Caz de Utilizare
@@ -116,6 +130,8 @@ Pentru organizațiile care au nevoie de scalabilitate masivă și guvernanță s
 | **Pentru echipe enterprise** | **Pinecone**: Oferă cea mai ridicată fiabilitate, SLA-uri gestionate și hybrid search nativ, fără a necesita expertiză internă în baze de date. |
 | **Pentru buget redus** | **Qdrant (Self-Managed) sau Milvus OSS**: Permite hosting fără costuri de licențiere în medii cloud, optimizând costul per interogare prin cuantizare și indexare eficientă. |
 | **Pentru scalare** | **Milvus/Zilliz sau Weaviate**: Cel mai bine poziționate pentru a gestiona embeddings la scară de miliarde, cu arhitecturi distribuite care mențin performanța pe măsură ce volumele de date cresc exponențial. |
+
+![Diagramă: verdict pe caz de utilizare — baza de date vectorială recomandată pentru începători, echipe enterprise, buget redus și scalare](/images/blog/vector-db-verdict-use-case.svg)
 
 ---
 
@@ -135,6 +151,8 @@ R: Toate cele trei sunt de top la integrarea cu LangChain și LlamaIndex, cu SDK
 
 **Î5: Care sunt alternativele open-source pentru vector search care scalează spre 1B de embeddings în 2026?**
 R: Principalii contendenți sunt Milvus, Qdrant și Weaviate. Milvus rămâne liderul de facto pentru arhitecturi distribuite masive, susținut de Linux Foundation AI, oferind sharding automat și replicare multi-cluster. Qdrant excelează la performanța per-interogare, cu cuantizare agresivă, care reduce amprenta de stocare de 4-8x. Weaviate oferă o modularitate care permite adăugarea de procesare AI direct în cluster, optimizând throughput-ul. Pentru startup-uri, Milvus și Qdrant oferă cele mai generoase niveluri gratuite pe OSS, permițând scalarea la cost zero până când volumul justifică migrarea către Zilliz gestionat sau un cloud dedicat.
+
+![Diagramă: semnale de benchmark 2026 din FAQ — latență, îmbunătățire relevanță hybrid search, compresie prin cuantizare și țintă de scalare OSS](/images/blog/vector-db-benchmark-signals.svg)
 
 ---
 *Conținut generat cu asistență AI și revizuit de Daniel Burcea. Linkurile conțin linkuri afiliate. Dacă achiziționezi prin ele, primim un comision la cost zero pentru tine.*

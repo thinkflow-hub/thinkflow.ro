@@ -17,6 +17,8 @@ Move the same workload to a single <a href="https://www.hetzner.com/?ref=thinkfl
 
 The gap isn't linear. Below a certain volume, serverless is cheaper and it isn't close. Above it, dedicated is cheaper and it isn't close either. This piece finds that line and shows the math behind it — plus the hidden costs on both sides that a simple per-request price comparison misses.
 
+![Same 2M requests a month, two completely different bills: Vercel serverless at $954/mo vs Hetzner GEX44 dedicated at $231/mo flat](/images/blog/serverless-gpu-monthly-bill-comparison.svg)
+
 ---
 
 ## The Vercel Serverless Bill, Deconstructed
@@ -32,6 +34,8 @@ Assumptions used below, stated so the math is checkable: 12 seconds active durat
 | Edge requests | $2/1M beyond 10M included | $0 | $0 | $0 |
 | **Total** | | **$23** | **$231** | **$2,610** |
 
+![Vercel serverless cost by component across three volume tiers: $23 at 50K, $231 at 500K, $2,610 at 5M requests a month](/images/blog/serverless-gpu-cost-scaling-by-tier.svg)
+
 Two things worth noting. First, at 50K and 500K requests, bandwidth and edge requests stay inside Vercel Pro's included allowances — the entire bill is compute duration. Second, the $20/month Pro plan base fee is left out of this table on purpose: it's a platform cost a team pays regardless of whether it ships an LLM feature, so it doesn't change where the tipping point sits. Add it back mentally if a clean total-cost-of-ownership number matters more than the marginal cost of the LLM feature specifically.
 
 ### The arithmetic behind the 500K number
@@ -43,11 +47,15 @@ Worth walking through once, because it's the number the rest of this piece rests
 - Invocations: 500,000 ÷ 1,000,000 × $0.60 = $0.30
 - Subtotal: $231.3
 
+![Breakdown of the $231/month at 500K requests: $213.3 CPU time (92%) plus $17.7 memory time (8%) plus $0.30 invocations (0.1%)](/images/blog/serverless-gpu-500k-arithmetic-breakdown.svg)
+
 That number holds only as long as the average response really is ~500 tokens at ~40 tokens/second. A team streaming longer completions — RAG answers with citations, multi-step agent responses — pushes active duration up and moves the tipping point lower, sometimes well under 500K. A team serving short classification-style completions (50–100 tokens) pushes it the other way, past 1M. The formula matters more than the specific number; run it against actual production logs before treating any of this as a forecast.
 
 ### Region and billing-model variance
 
 Vercel's Fluid Compute rates shift by region — a function running in São Paulo bills noticeably higher per GB-hour than one in a US or EU region. Teams still on Vercel's legacy per-invocation pricing (pre-Fluid Compute) will see a different curve entirely, usually a flatter one at low volume and a steeper one at high volume, because legacy billing charges for the full allocated duration rather than active CPU time. Check which billing model a project is actually on before applying the numbers above directly.
+
+![Region and billing-model variance: São Paulo bills noticeably higher per GB-hour than US/EU, and legacy per-invocation pricing produces a flatter-then-steeper curve than Fluid Compute](/images/blog/serverless-gpu-region-billing-variance.svg)
 
 ---
 
@@ -56,6 +64,8 @@ Vercel's Fluid Compute rates shift by region — a function running in São Paul
 A Hetzner GEX44 runs €184/month (~$211 at mid-2026 rates) — an NVIDIA RTX 4000 SFF Ada with 20 GB VRAM, an Intel Core i5-13500, and 64 GB RAM. Add Cloudflare in front for TLS, caching, and basic DDoS protection at roughly $20/month, and the all-in cost is about $231/month. That number does not move whether the box serves 50,000 requests or 5 million — there's no per-request meter running.
 
 Running vLLM on that hardware, an 8B-class model like Llama 3.1 8B fits comfortably with room for batching. There's no function invocation fee, no bandwidth meter beyond Cloudflare's own terms, and no cold start — the model sits resident in VRAM the entire time the server is powered on. For teams that need more headroom, Hetzner's GEX130 (RTX 6000 Ada, 48 GB VRAM) runs about €838/month and covers 32B–70B models with quantization; the same flat-cost logic applies at a higher ceiling.
+
+![Hetzner GPU tiers: GEX44 at €184/mo with 20GB VRAM for 7B–14B models, GEX130 at ~€838/mo with 48GB VRAM for 32B–70B models — VRAM is the sizing constraint, not request volume](/images/blog/serverless-gpu-hetzner-tier-specs.svg)
 
 The trade a team makes for that flat rate: provisioning takes one to three business days instead of one API call, and there's no elastic scale-out if traffic triples overnight. That's the real cost of dedicated hardware, and it belongs in the decision even though it doesn't show up on an invoice.
 
@@ -84,6 +94,8 @@ There's a third option worth naming even though it's not the subject here: payin
 
 500,000 requests a month is the line, almost to the dollar, given the assumptions above. Below that, the elasticity is worth paying for. Above it, every additional request on serverless costs real money while the dedicated box's cost stays flat — which is exactly why the multiple keeps widening instead of holding steady.
 
+![The tipping point: Vercel serverless cost rising from $23 at 50K requests to $2,610 at 5M, crossing the flat $231/mo Hetzner dedicated line at the 500K break-even point](/images/blog/serverless-gpu-tipping-point-crossover.svg)
+
 ### What the table doesn't show
 
 Cold starts are real on the serverless side: a function that hasn't handled a request in a few minutes takes 800–2,400ms to spin up before it can even open the proxy connection, on top of the model's own time-to-first-token. A dedicated box with the model already loaded in VRAM adds none of that — first-token latency is whatever the GPU takes, full stop.
@@ -93,6 +105,8 @@ The dedicated side has its own hidden cost, in the opposite direction: idle capa
 Put a number on that: a team doing 500K requests spread evenly across 730 hours a month is fully utilizing the flat-rate advantage. A team doing the same 500K requests but only during a 10-hour business-hours window is effectively paying the same $231 for roughly 300 active hours instead of 730 — a real per-request cost more than double what the flat rate implies. Neither the serverless table nor the dedicated table above accounts for this on its own; it only shows up once someone maps actual traffic against the clock, not just against the calendar.
 
 There's a third cost that belongs in this conversation and rarely gets modeled: engineering time to actually run the dedicated box. Someone owns OS patching, driver updates, disk monitoring, and the 2 a.m. page if the GPU falls off the bus. Serverless makes that problem someone else's; dedicated hardware makes it a real, if usually small, line item in whoever's time is spent keeping the server healthy.
+
+![What the tipping-point table doesn't show: 800–2,400ms cold starts on serverless vs 0ms added on dedicated, and idle capacity — the same $231/mo bill covering 730 fully-utilized hours or only ~300 business-hours, more than doubling the real per-request cost](/images/blog/serverless-gpu-hidden-costs.svg)
 
 ---
 
@@ -135,6 +149,8 @@ This keeps the Vercel bill small (only lightweight paths accumulate function dur
 Two additions make the hybrid setup meaningfully better than the bare version above. First, a semantic cache in front of the GPU endpoint — even a simple exact-match or embedding-similarity cache on common prompts — reduces the requests that ever reach the dedicated box, which matters most for FAQ-style or support-bot traffic where the same handful of questions repeat constantly. Second, a health check on the GPU endpoint with a fallback to a hosted API (Together, Fireworks, or similar) covers the one real weakness of dedicated hardware: no automatic failover if the box goes down at 3 a.m. That fallback path costs more per token, but only during an outage — cheap insurance against the single point of failure a dedicated server introduces.
 
 Monitoring both sides matters as much as the routing logic. GPU utilization, VRAM headroom, and queue depth on the dedicated box; invocation count and active duration on the serverless side. Without both, the tipping point calculated today quietly drifts as traffic composition changes — average response length creeping up from 500 tokens to 800 moves the crossover point without anyone noticing until the invoice does.
+
+![The hybrid play: router.py checks HEAVY_PATHS and routes lightweight traffic to Vercel serverless, while chat/embeddings/batch requests go through a semantic cache to the flat-rate Hetzner GEX44 GPU box, with a health-check fallback to a hosted API](/images/blog/serverless-gpu-hybrid-architecture.svg)
 
 ## Decision Flowchart
 

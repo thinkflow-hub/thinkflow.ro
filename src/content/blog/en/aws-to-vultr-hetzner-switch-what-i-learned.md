@@ -80,7 +80,11 @@ The migration was not ideological. It was incremental and reversible. That matte
 
 **Monthly savings: ~$538. Annual savings: ~$6,456.**
 
+![Itemized monthly cost breakdown, line by line: AWS at $757/month across EC2, RDS, NAT Gateway, ALB and more, versus Hetzner + Vultr at $219/month — a 71% cut, saving $538/month and $6,456/year](/images/blog/aws-vultr-cost-itemized.svg)
+
 And the AX52 dedicated at $79/month runs at roughly 18-25% CPU with room for double the current workload. The equivalent AWS instance would be an m5.4xlarge — which runs $560/month on-demand, or $250/month with a 1-year reserved instance commitment.
+
+![Same production stack, before vs after: AWS $757/month itemized (real total $1,340/month with the inference instance) versus Hetzner + Vultr $219/month — a 71% cut, ~$6,456 saved per year](/images/blog/aws-vultr-cost-savings-summary.svg)
 
 ---
 
@@ -106,6 +110,8 @@ On Lambda, cold starts for a Node.js function: 800ms - 2,400ms depending on memo
 On Hetzner: no cold starts. The process is always running.
 
 For any API endpoint that is user-facing, Lambda cold starts are a real UX problem. For background jobs, async processing, or webhook handlers where the user is not waiting — Lambda is perfectly fine.
+
+![Latency across three categories: CDN TTFB 85ms to 70ms globally (95ms to 40ms for Romania), API response times P50/P95/P99 dropping from 180/420/890ms to 95/210/390ms, and Lambda cold starts of 800-2,400ms versus zero on an always-on Hetzner process](/images/blog/aws-vultr-latency-three-categories.svg)
 
 ---
 
@@ -146,6 +152,8 @@ Run a Next.js app with:
 That is: 500,000 x 15 x 0.2s x 1 GB = 1,500,000 GB-seconds = **$900/month in function costs alone**, before bandwidth, before images, before team seats.
 
 A Hetzner AX52 at $79/month handles this with room to spare, running Next.js with `next start` behind Nginx, with PM2 for process management and zero-downtime deploys via `pm2 reload`.
+
+![Decision panel: when Vercel wins — small teams, spiky traffic, prototyping, Vercel-specific features, budgets under $50/month — versus when its billing model breaks your budget, walking through a 500K-visitor example that reaches $900/month in function costs alone](/images/blog/aws-vultr-vercel-decision.svg)
 
 ### The Self-Hosted Next.js Setup That Actually Works in Production
 
@@ -197,6 +205,8 @@ Zero-downtime deploy: `git pull && npm run build && pm2 reload nextjs-app`
 
 Total deploy time: 45-90 seconds depending on build complexity. No Vercel. No platform fees. No cold starts.
 
+![Self-hosted Next.js production stack: Nginx serving cached static assets and proxying dynamic routes to a PM2 cluster running one Next.js process per CPU core, with zero-downtime deploys in 45-90 seconds and no cold starts](/images/blog/aws-vultr-nextjs-stack-architecture.svg)
+
 ---
 
 ## Scaling — Where Dedicated Servers Require More Thought
@@ -214,6 +224,8 @@ This is a 10-15 minute operation if you have your automation in order. If you do
 **The practical answer:** For workloads with predictable traffic patterns, dedicated servers win on economics. For workloads where you genuinely cannot predict when you will need 10x capacity in 5 minutes, managed cloud auto-scaling (AWS, GCP) earns its premium.
 
 Most B2B SaaS applications are in the first category. Most viral consumer apps are in the second.
+
+![Scaling compared: AWS adds an instance to an ALB target group in about 3 minutes via Terraform, while Hetzner/Vultr's 4-step manual provisioning takes 10-15 minutes with automation in order or a 45-minute scramble without it](/images/blog/aws-vultr-scaling-comparison.svg)
 
 ---
 
@@ -250,6 +262,8 @@ Are you running stateless workloads (web servers, APIs)?
   YES → Hetzner/Vultr dedicated or VPS — strong economic case
   NO  → Evaluate per workload (databases: Hetzner Managed DB; storage: S3)
 ```
+
+![Decision framework flowchart: four gated questions on traffic predictability, dedicated DevOps, monthly compute spend, and workload statelessness routing to managed cloud, Vercel, or Hetzner/Vultr dedicated servers](/images/blog/aws-vultr-decision-framework-flowchart.svg)
 
 ---
 
