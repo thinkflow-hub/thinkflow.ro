@@ -24,10 +24,20 @@ export async function generateMetadata({ params }: { params: Promise<{ slug: str
   if (!post) return { title: t("blog.postNotFound") };
 
   const ogUrl = post.meta.image;
+  const canonicalPath = locale === routing.defaultLocale ? `/blog/${slug}` : `/${locale}/blog/${slug}`;
 
   return {
     title: post.meta.title,
     description: post.meta.description,
+    alternates: {
+      canonical: `https://thinkflow.ro${canonicalPath}`,
+      languages: Object.fromEntries(
+        routing.locales.map((l) => [
+          l,
+          `https://thinkflow.ro${l === routing.defaultLocale ? `/blog/${slug}` : `/${l}/blog/${slug}`}`,
+        ])
+      ),
+    },
     openGraph: {
       title: post.meta.title,
       description: post.meta.description,

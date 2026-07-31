@@ -1,21 +1,57 @@
-import { getAllPosts } from "@/lib/posts";
+import { getAllPosts, getPost } from "@/lib/posts";
 import { routing } from "@/i18n/routing";
 
 const SITE = "https://thinkflow.ro";
 
-export async function GET() {
-  const posts = getAllPosts(routing.defaultLocale);
+function localizedBlogPath(locale: string, slug: string): string {
+  return locale === routing.defaultLocale ? `/blog/${slug}` : `/${locale}/blog/${slug}`;
+}
 
-  const urls = posts
-    .filter((p) => p.image)
+function extractInlineImages(html: string): { src: string; alt: string }[] {
+  const matches = [...html.matchAll(/<img[^>]+src="([^"]+)"[^>]*alt="([^"]*)"/g)];
+  const seen = new Set<string>();
+  const out: { src: string; alt: string }[] = [];
+  for (const m of matches) {
+    if (!m[1].startsWith("/") || seen.has(m[1])) continue;
+    seen.add(m[1]);
+    out.push({ src: m[1], alt: m[2] });
+  }
+  return out;
+}
+
+export async function GET() {
+  const entries: { loc: string; images: { src: string; caption: string }[] }[] = [];
+
+  for (const locale of routing.locales) {
+    const posts = getAllPosts(locale);
+    for (const p of posts) {
+      const full = await getPost(p.slug, locale);
+      if (!full) continue;
+
+      const images: { src: string; caption: string }[] = [];
+      if (p.image) images.push({ src: p.image, caption: p.title });
+      for (const img of extractInlineImages(full.content)) {
+        images.push({ src: img.src, caption: img.alt || p.title });
+      }
+      if (!images.length) continue;
+
+      entries.push({ loc: `${SITE}${localizedBlogPath(locale, p.slug)}`, images });
+    }
+  }
+
+  const urls = entries
     .map(
-      (p) => `
+      (e) => `
   <url>
-    <loc>${SITE}/blog/${p.slug}</loc>
-    <image:image>
-      <image:loc>${SITE}${p.image}</image:loc>
-      <image:caption>${escapeXml(p.title)}</image:caption>
-    </image:image>
+    <loc>${e.loc}</loc>
+${e.images
+  .map(
+    (img) => `    <image:image>
+      <image:loc>${SITE}${img.src}</image:loc>
+      <image:caption>${escapeXml(img.caption)}</image:caption>
+    </image:image>`
+  )
+  .join("\n")}
   </url>`
     )
     .join("");

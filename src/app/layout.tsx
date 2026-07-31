@@ -3,6 +3,8 @@ import { Geist_Mono, Montserrat } from "next/font/google";
 import localFont from "next/font/local";
 import { getLocale } from "next-intl/server";
 import PlausibleAnalytics from "@/components/PlausibleAnalytics";
+import { Analytics } from "@vercel/analytics/next";
+import { SpeedInsights } from "@vercel/speed-insights/next";
 import "./globals.css";
 
 const montserrat = Montserrat({
@@ -83,7 +85,11 @@ export default async function RootLayout({
           }}
         />
       </head>
-      <body className="flex min-h-full flex-col">{children}</body>
+      <body className="flex min-h-full flex-col">
+        {children}
+        <Analytics />
+        <SpeedInsights />
+      </body>
     </html>
   );
 }
