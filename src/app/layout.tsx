@@ -1,6 +1,7 @@
 import type { Metadata } from "next";
 import { Geist_Mono, Montserrat } from "next/font/google";
 import localFont from "next/font/local";
+import { getLocale } from "next-intl/server";
 import PlausibleAnalytics from "@/components/PlausibleAnalytics";
 import "./globals.css";
 
@@ -47,14 +48,15 @@ export const metadata: Metadata = {
   },
 };
 
-export default function RootLayout({
+export default async function RootLayout({
   children,
 }: Readonly<{
   children: React.ReactNode;
 }>) {
+  const locale = await getLocale();
   return (
     <html
-      lang="en"
+      lang={locale}
       className={`${montserrat.variable} ${geistMono.variable} ${blackSignature.variable} h-full antialiased`}
     >
       <head>

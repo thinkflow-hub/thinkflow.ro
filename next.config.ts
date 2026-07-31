@@ -8,7 +8,7 @@ const nextConfig: NextConfig = {
     unoptimized: true,
   },
   turbopack: {
-    root: "D:\\WebDev\\thinkflow.ro",
+    root: __dirname,
   },
   // Rewrites/redirects removed — news pages use next-intl locale prefix.
   // Internal navigation via @/i18n/navigation Link handles locale automatically.
