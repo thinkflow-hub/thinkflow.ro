@@ -1,7 +1,22 @@
 {
   "date": "2026-07-29",
-  "generated_at": "2026-08-01T05:00:04.412554+00:00",
+  "generated_at": "2026-08-01T09:40:47.785771+00:00",
   "results": {
+    "hn_show_ai_7d": {
+      "verification_status": "verified",
+      "sources_count": 2,
+      "sources": [
+        "Show HN AI 7d",
+        "ArXiv cs.CL (Computation and Language / NLP)"
+      ]
+    },
+    "arxiv_cs_cl": {
+      "verification_status": "unconfirmed",
+      "sources_count": 1,
+      "sources": [
+        "ArXiv cs.CL (Computation and Language / NLP)"
+      ]
+    },
     "openai_blog": {
       "verification_status": "unconfirmed",
       "sources_count": 1,
@@ -42,13 +57,6 @@
       "sources_count": 1,
       "sources": [
         "ggml/llama.cpp releases"
-      ]
-    },
-    "arxiv_cs_cl": {
-      "verification_status": "unconfirmed",
-      "sources_count": 1,
-      "sources": [
-        "ArXiv cs.CL (Computation and Language / NLP)"
       ]
     }
   }
