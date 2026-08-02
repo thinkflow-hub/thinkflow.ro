@@ -1,6 +1,6 @@
 {
   "date": "2026-07-28",
-  "generated_at": "2026-08-01T17:00:07.422987+00:00",
+  "generated_at": "2026-08-01T21:00:09.230149+00:00",
   "results": {
     "deepmind_blog": {
       "verification_status": "unconfirmed",
@@ -10,53 +10,10 @@
       ]
     },
     "trending_agent": {
-      "verification_status": "verified",
-      "sources_count": 2,
-      "sources": [
-        "GitHub Trending — AI Agents",
-        "Google AI Blog"
-      ]
-    },
-    "google_ai_blog": {
       "verification_status": "unconfirmed",
       "sources_count": 1,
       "sources": [
-        "Google AI Blog"
-      ]
-    },
-    "openai_blog": {
-      "verification_status": "unconfirmed",
-      "sources_count": 1,
-      "sources": [
-        "OpenAI Blog"
-      ]
-    },
-    "hn_llm_24h": {
-      "verification_status": "unconfirmed",
-      "sources_count": 1,
-      "sources": [
-        "HN top LLM 24h"
-      ]
-    },
-    "hn_ai_24h": {
-      "verification_status": "unconfirmed",
-      "sources_count": 1,
-      "sources": [
-        "HN top AI 24h"
-      ]
-    },
-    "latent_space": {
-      "verification_status": "unconfirmed",
-      "sources_count": 1,
-      "sources": [
-        "Latent Space (Substack)"
-      ]
-    },
-    "ggml_releases": {
-      "verification_status": "unconfirmed",
-      "sources_count": 1,
-      "sources": [
-        "ggml/llama.cpp releases"
+        "GitHub Trending — AI Agents"
       ]
     }
   }

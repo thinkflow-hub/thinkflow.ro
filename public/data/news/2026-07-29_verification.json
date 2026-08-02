@@ -1,20 +1,12 @@
 {
   "date": "2026-07-29",
-  "generated_at": "2026-08-01T17:00:07.422987+00:00",
+  "generated_at": "2026-08-01T21:00:09.230149+00:00",
   "results": {
     "hn_show_ai_7d": {
-      "verification_status": "verified",
-      "sources_count": 2,
-      "sources": [
-        "ArXiv cs.CL (Computation and Language / NLP)",
-        "Show HN AI 7d"
-      ]
-    },
-    "arxiv_cs_cl": {
       "verification_status": "unconfirmed",
       "sources_count": 1,
       "sources": [
-        "ArXiv cs.CL (Computation and Language / NLP)"
+        "Show HN AI 7d"
       ]
     },
     "openai_blog": {
