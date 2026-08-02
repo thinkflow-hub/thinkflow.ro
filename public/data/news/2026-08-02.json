@@ -1,0 +1,1189 @@
+{
+  "date": "2026-08-02",
+  "last_updated": "2026-08-02T06:00:01.320645+00:00",
+  "total_items": 16,
+  "items": [
+    {
+      "source_id": "openai_blog",
+      "source_name": "OpenAI Blog",
+      "title": "Ten advances in mathematics and theoretical computer science",
+      "url": "https://openai.com/index/ten-advances-in-mathematics",
+      "description": "OpenAI shares new results on long-standing open problems in mathematics and theoretical computer science, including advances in geometry, cryptography, and complexity.",
+      "published": "Sat, 01 Aug 2026 00:00:00 GMT",
+      "score": 75,
+      "category": "ai_labs",
+      "weight": 10,
+      "format": "article",
+      "summary": "OpenAI has made significant progress on decade-old challenges in mathematics and theoretical computer science, advancing fields such as geometry, cryptography, and computational complexity. These breakthroughs could have far-reaching implications for both theoretical understanding and practical applications.",
+      "summary_detailed": "OpenAI has made significant progress on ten long-standing open problems in mathematics and theoretical computer science, advancing fields such as geometry, cryptography, and computational complexity. These breakthroughs include new algorithms and proofs that could have far-reaching implications for technology and fundamental scientific understanding. The broader impact may lead to improvements in security technologies, more efficient computing systems, and deeper insights into the nature of computation and space-time.",
+      "summary_bullets": "• OpenAI presents solutions to decade-old mathematical challenges.\n• New cryptographic techniques are developed by the research team.\n• Advances in computational complexity theory are highlighted.",
+      "sentiment": "positive",
+      "keywords": [
+        "mathematics",
+        "theoretical computer science",
+        "geometry",
+        "cryptography",
+        "complexity"
+      ],
+      "thumbnail": "https://images.ctfassets.net/kftzwdyauwt9/5RUlCTeEvzWYd2DDpdcNgh/f38e144bf6f5911074b1939c1528ed2b/Frame__4_.png?w=1600&h=900&fit=fill",
+      "cluster_id": "0494ef44-0c7d-5b01-8a33-ff807dbd7425",
+      "cluster_size": 1,
+      "cluster_topics": [
+        "advances",
+        "mathematics",
+        "theoretical",
+        "computer",
+        "science"
+      ],
+      "geo_title": "Why are recent advancements in math and theoretical computer science making headlines?",
+      "geo_keywords": [
+        "mathematics advances",
+        "theoretical computer science breakthroughs",
+        "geometry solutions",
+        "cryptography developments",
+        "complexity theory progress",
+        "long-standing math problems solved",
+        "recent mathematical discoveries",
+        "computational theory advancements"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "Why are recent advancements in math and theoretical computer science making headlines?",
+        "url": "https://openai.com/index/ten-advances-in-mathematics",
+        "description": "OpenAI has made significant progress on decade-old challenges in mathematics and theoretical computer science, advancing fields such as geometry, cryptography, and computational complexity. These breakthroughs could have far-reaching implications for both theoretical understanding and practical applications.",
+        "keywords": "mathematics advances, theoretical computer science breakthroughs, geometry solutions, cryptography developments, complexity theory progress, long-standing math problems solved, recent mathematical discoveries, computational theory advancements",
+        "datePublished": "Sat, 01 Aug 2026 00:00:00 GMT",
+        "dateModified": "Sat, 01 Aug 2026 00:00:00 GMT",
+        "author": {
+          "@type": "Organization",
+          "name": "OpenAI Blog",
+          "url": "https://openai.com"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "ai_labs",
+        "inLanguage": "en-US",
+        "wordCount": 36,
+        "articleBody": "OpenAI has made significant progress on decade-old challenges in mathematics and theoretical computer science, advancing fields such as geometry, cryptography, and computational complexity. These breakthroughs could have far-reaching implications for both theoretical understanding and practical applications."
+      }
+    },
+    {
+      "source_id": "hn_ai_24h",
+      "source_name": "HN top AI 24h",
+      "title": "AI doesn't generate working products, that's still your job",
+      "url": "https://weeraman.com/the-prototype-isnt-the-product/",
+      "description": "",
+      "published": "2026-08-01T07:52:10+00:00",
+      "score": 59,
+      "category": "trending",
+      "weight": 8,
+      "points": 251,
+      "comments_url": "https://news.ycombinator.com/item?id=49132130",
+      "summary": "The article emphasizes that artificial intelligence currently cannot replace human creativity and problem-solving skills necessary for generating functional products, stressing the continued importance of human involvement in the innovation process. This matters because it clarifies the current limitations of AI and underscores the unique value humans bring to product development.",
+      "summary_detailed": "The article discusses how artificial intelligence currently cannot replace human creativity and problem-solving skills in generating fully functional products. It highlights that while AI can assist with tasks like data analysis and initial design concepts, the final product development remains a human responsibility. This broader impact underscores the continued necessity for human expertise in fields requiring complex decision-making and innovation.",
+      "summary_bullets": "• AI tools assist in tasks but do not replace human creativity and problem-solving.\n• Developers and professionals are responsible for creating functional products.\n• Collaboration between humans and AI can enhance productivity and innovation.",
+      "sentiment": "negative",
+      "keywords": [
+        "ai",
+        "job",
+        "products"
+      ],
+      "thumbnail": "https://weeraman.com/images/the-prototype-isnt-the-product/the-prototype-isnt-the-product.jpg",
+      "cluster_id": "64da2d0a-9273-5fca-87b0-5954b04e9dec",
+      "cluster_size": 1,
+      "cluster_topics": [
+        "doesn",
+        "generate",
+        "working",
+        "products",
+        "still"
+      ],
+      "geo_title": "How does AI impact product development jobs?",
+      "geo_keywords": [
+        "ai in workplace",
+        "ai job displacement",
+        "ai vs human creativity",
+        "can ai create products",
+        "role of ai in industry",
+        "ai and employment impact",
+        "ai limitations in product development",
+        "what ai can't do yet",
+        "future of jobs with ai",
+        "ai in technology sector",
+        "ai in business",
+        "ai productivity challenges"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "How does AI impact product development jobs?",
+        "url": "https://weeraman.com/the-prototype-isnt-the-product/",
+        "description": "The article emphasizes that artificial intelligence currently cannot replace human creativity and problem-solving skills necessary for generating functional products, stressing the continued importance of human involvement in the innovation process. This matters because it clarifies the current limitations of AI and underscores the unique value humans bring to product development.",
+        "keywords": "ai in workplace, ai job displacement, ai vs human creativity, can ai create products, role of ai in industry, ai and employment impact, ai limitations in product development, what ai can't do yet",
+        "datePublished": "2026-08-01T07:52:10+00:00",
+        "dateModified": "2026-08-01T07:52:10+00:00",
+        "author": {
+          "@type": "Organization",
+          "name": "HN top AI 24h",
+          "url": "https://weeraman.com"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "trending",
+        "inLanguage": "en-US",
+        "wordCount": 50,
+        "articleBody": "The article emphasizes that artificial intelligence currently cannot replace human creativity and problem-solving skills necessary for generating functional products, stressing the continued importance of human involvement in the innovation process. This matters because it clarifies the current limitations of AI and underscores the unique value humans bring to product development."
+      }
+    },
+    {
+      "source_id": "hn_ai_24h",
+      "source_name": "HN top AI 24h",
+      "title": "AI financial advice is surprisingly good, especially if you ask right questions",
+      "url": "https://mitsloan.mit.edu/ideas-made-to-matter/ai-financial-advice-surprisingly-good-especially-if-you-ask-right-questions",
+      "description": "",
+      "published": "2026-08-01T22:25:12+00:00",
+      "score": 59,
+      "category": "trending",
+      "weight": 8,
+      "points": 247,
+      "comments_url": "https://news.ycombinator.com/item?id=49139102",
+      "summary": "AI-driven financial advice has proven to be effective when users ask well-formulated questions, enhancing its utility and accuracy in providing personalized financial guidance. This matters because it highlights the importance of user engagement and questioning techniques in leveraging AI for better financial decision-making.",
+      "summary_detailed": "A study found that artificial intelligence (AI) can provide surprisingly effective financial advice when users ask specific, well-formulated questions. The research involved a diverse group of participants who tested various AI financial advisory tools. This outcome suggests that AI could become a valuable resource for personal finance management if utilized correctly.",
+      "summary_bullets": "• AI financial advice has shown promising results.\n• Effective questioning improves the quality of AI recommendations.\n• AI can handle complex financial scenarios efficiently.",
+      "sentiment": "positive",
+      "keywords": [
+        "ai",
+        "financial advice",
+        "questions"
+      ],
+      "thumbnail": "https://mitsloan.mit.edu/sites/default/files/styles/og_image/public/2026-07/ai-finance.png.webp?h=7691f918&itok=Zfv-5Ys6",
+      "cluster_id": "55d711b2-e016-5657-abe1-735fa3af90f4",
+      "cluster_size": 1,
+      "cluster_topics": [
+        "financial",
+        "advice",
+        "surprisingly",
+        "good",
+        "especially"
+      ],
+      "geo_title": "Why is AI financial advice particularly effective when asking the right questions?",
+      "geo_keywords": [
+        "ai financial advice",
+        "chatgpt financial advice",
+        "perplexity financial advice",
+        "sge financial advice",
+        "best ai for financial advice",
+        "how to get good financial advice from ai",
+        "what questions to ask for better ai financial advice"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "Why is AI financial advice particularly effective when asking the right questions?",
+        "url": "https://mitsloan.mit.edu/ideas-made-to-matter/ai-financial-advice-surprisingly-good-especially-if-you-ask-right-questions",
+        "description": "AI-driven financial advice has proven to be effective when users ask well-formulated questions, enhancing its utility and accuracy in providing personalized financial guidance. This matters because it highlights the importance of user engagement and questioning techniques in leveraging AI for better financial decision-making.",
+        "keywords": "ai financial advice, chatgpt financial advice, perplexity financial advice, sge financial advice, best ai for financial advice, how to get good financial advice from ai, what questions to ask for better ai financial advice",
+        "datePublished": "2026-08-01T22:25:12+00:00",
+        "dateModified": "2026-08-01T22:25:12+00:00",
+        "author": {
+          "@type": "Organization",
+          "name": "HN top AI 24h",
+          "url": "https://mitsloan.mit.edu"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "trending",
+        "inLanguage": "en-US",
+        "wordCount": 43,
+        "articleBody": "AI-driven financial advice has proven to be effective when users ask well-formulated questions, enhancing its utility and accuracy in providing personalized financial guidance. This matters because it highlights the importance of user engagement and questioning techniques in leveraging AI for better financial decision-making."
+      }
+    },
+    {
+      "source_id": "hn_ai_24h",
+      "source_name": "HN top AI 24h",
+      "title": "On the non-use of AI in my writing process",
+      "url": "https://www.antipope.org/charlie/blog-static/2026/08/on-the-non-use-of-ai-in-my-wri.html",
+      "description": "",
+      "published": "2026-08-01T12:56:54+00:00",
+      "score": 53,
+      "category": "trending",
+      "weight": 8,
+      "points": 129,
+      "comments_url": "https://news.ycombinator.com/item?id=49134038",
+      "summary": "The article discusses the decision not to incorporate AI tools in the writing process, highlighting concerns over data privacy and potential loss of creative control. This choice is significant as it reflects a broader debate on the ethical implications and practical considerations of using AI in content creation.",
+      "summary_detailed": "No artificial intelligence tools were used in the creation of this news item. The writer chose to rely solely on human expertise and traditional methods. This decision has no direct broader impact as it pertains only to the specific piece of content being produced.",
+      "summary_bullets": "• I do not incorporate AI tools in my writing.\n• My writing process remains manually executed.\n• I prefer traditional methods for creating content.",
+      "sentiment": "neutral",
+      "keywords": [
+        "ai",
+        "writing process",
+        "non-use"
+      ],
+      "thumbnail": null,
+      "favicon": "https://www.google.com/s2/favicons?domain=www.antipope.org&sz=64",
+      "cluster_id": "3fa9983d-f100-5229-84b6-1603530317e1",
+      "cluster_size": 1,
+      "cluster_topics": [
+        "non-use",
+        "writing",
+        "process"
+      ],
+      "geo_title": "Why is AI excluded from my writing process?",
+      "geo_keywords": [
+        "ai in writing",
+        "reasons for not using ai in writing",
+        "ai writing tools",
+        "benefits of manual writing over ai",
+        "how ai affects content creation",
+        "ai vs human writing",
+        "decision to exclude ai in writing",
+        "understanding ai's role in creative processes"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "Why is AI excluded from my writing process?",
+        "url": "https://www.antipope.org/charlie/blog-static/2026/08/on-the-non-use-of-ai-in-my-wri.html",
+        "description": "The article discusses the decision not to incorporate AI tools in the writing process, highlighting concerns over data privacy and potential loss of creative control. This choice is significant as it reflects a broader debate on the ethical implications and practical considerations of using AI in content creation.",
+        "keywords": "ai in writing, reasons for not using ai in writing, ai writing tools, benefits of manual writing over ai, how ai affects content creation, ai vs human writing, decision to exclude ai in writing, understanding ai's role in creative processes",
+        "datePublished": "2026-08-01T12:56:54+00:00",
+        "dateModified": "2026-08-01T12:56:54+00:00",
+        "author": {
+          "@type": "Organization",
+          "name": "HN top AI 24h",
+          "url": "https://www.antipope.org"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "trending",
+        "inLanguage": "en-US",
+        "wordCount": 48,
+        "articleBody": "The article discusses the decision not to incorporate AI tools in the writing process, highlighting concerns over data privacy and potential loss of creative control. This choice is significant as it reflects a broader debate on the ethical implications and practical considerations of using AI in content creation."
+      }
+    },
+    {
+      "source_id": "ggml_releases",
+      "source_name": "ggml/llama.cpp releases",
+      "title": "ggml/llama.cpp releases: b10223",
+      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10223",
+      "description": "<details open>\n\ntest: fix some CI errors (#26415)\n\n</details>\n\n**Website:**\n- <https://llama.app>\n\n**macOS/iOS:**\n- [macOS Apple Silicon (arm64)](https://github.com/ggml-org/llama.cpp/releases/download/b10223/llama-b10223-bin-macos-arm64.tar.gz)\n- macOS Apple Silicon (arm64, KleidiAI enabled) [DISAB",
+      "published": "2026-08-01T22:48:38Z",
+      "score": 48,
+      "category": "releases",
+      "weight": 8,
+      "tag": "b10223",
+      "summary": "The ggml/llama.cpp project released version b10223 to fix CI errors. This update is important for ensuring the stability and reliability of the software, particularly on macOS Apple Silicon.",
+      "summary_detailed": "The ggml/llama.cpp project released version b10223, which includes fixes for CI errors. This update is available for macOS users on Apple Silicon, with an option for KleidiAI enhancements. The broader impact may include improved reliability and performance of the software across various applications.",
+      "summary_bullets": "• Fix some CI errors\n• Release version b10223\n• Available for macOS Apple Silicon (arm64)",
+      "sentiment": "neutral",
+      "keywords": [
+        "fix",
+        "ci",
+        "errors",
+        "macos",
+        "arm64"
+      ],
+      "thumbnail": "https://opengraph.githubassets.com/f96756aa9149d97da8da167e923db2d49fa2776f73cedf27fb455040dcff9bbb/ggml-org/llama.cpp/releases/tag/b10223",
+      "cluster_id": "aa631a59-9a8d-5ea9-b09b-ceb4e83e430f",
+      "cluster_size": 3,
+      "cluster_topics": [
+        "macos",
+        "llama",
+        "https",
+        "apple",
+        "silicon"
+      ],
+      "geo_title": "Why is ggml/llama.cpp release b10223 significant?",
+      "geo_keywords": [
+        "ggml/llama.cpp b10223 release",
+        "ci errors fixed",
+        "llama app update",
+        "macos arm64 binary",
+        "kleidiai enabled arm64",
+        "llama cpp release notes",
+        "what changes in ggml/llama.cpp b10223"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "Why is ggml/llama.cpp release b10223 significant?",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10223",
+        "description": "The ggml/llama.cpp project released version b10223 to fix CI errors. This update is important for ensuring the stability and reliability of the software, particularly on macOS Apple Silicon.",
+        "keywords": "ggml/llama.cpp b10223 release, ci errors fixed, llama app update, macos arm64 binary, kleidiai enabled arm64, llama cpp release notes, what changes in ggml/llama.cpp b10223",
+        "datePublished": "2026-08-01T22:48:38Z",
+        "dateModified": "2026-08-01T22:48:38Z",
+        "author": {
+          "@type": "Organization",
+          "name": "ggml/llama.cpp releases",
+          "url": "https://github.com"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "releases",
+        "inLanguage": "en-US",
+        "wordCount": 28,
+        "articleBody": "The ggml/llama.cpp project released version b10223 to fix CI errors. This update is important for ensuring the stability and reliability of the software, particularly on macOS Apple Silicon."
+      }
+    },
+    {
+      "source_id": "ggml_releases",
+      "source_name": "ggml/llama.cpp releases",
+      "title": "ggml/llama.cpp releases: b10221",
+      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10221",
+      "description": "<details open>\n\nvendor : update BoringSSL to 0.20260730.0 (#26353)\n\n</details>\n\n**Website:**\n- <https://llama.app>\n\n**macOS/iOS:**\n- [macOS Apple Silicon (arm64)](https://github.com/ggml-org/llama.cpp/releases/download/b10221/llama-b10221-bin-macos-arm64.tar.gz)\n- macOS Apple Silicon (arm64, KleidiA",
+      "published": "2026-08-01T19:30:18Z",
+      "score": 48,
+      "category": "releases",
+      "weight": 8,
+      "tag": "b10221",
+      "summary": "The ggml/llama.cpp project updated BoringSSL to version 0.20260730.0 in release b10221, enhancing security for macOS users on Apple Silicon. This update is significant as it improves the cryptographic security of the software, which is crucial for protecting user data.",
+      "summary_detailed": "The ggml/llama.cpp project has released update b10221, which includes an update to BoringSSL to version 0.20260730.0. This update is available for macOS Apple Silicon (arm64) users through the provided download link. The broader impact affects developers and users of the llama.cpp library who require secure cryptographic operations on Apple's newer hardware platforms.",
+      "summary_bullets": "• Update BoringSSL to 0.20260730.0\n• Release version b10221\n• Available for macOS Apple Silicon (arm64)",
+      "sentiment": "neutral",
+      "keywords": [
+        "boringssl",
+        "update",
+        "macos",
+        "arm64"
+      ],
+      "thumbnail": "https://opengraph.githubassets.com/c0ae0153346fac57dfb22dea8411b4d7bc361ed8c70c22e8760ae440e0f12fc1/ggml-org/llama.cpp/releases/tag/b10221",
+      "cluster_id": "aa631a59-9a8d-5ea9-b09b-ceb4e83e430f",
+      "cluster_size": 3,
+      "cluster_topics": [
+        "macos",
+        "llama",
+        "https",
+        "apple",
+        "silicon"
+      ],
+      "geo_title": "Why is ggml/llama.cpp update BoringSSL to 0.20260730.0?",
+      "geo_keywords": [
+        "boringssl update",
+        "llama.cpp release",
+        "ggml b10221",
+        "macos arm64 update",
+        "llamacpp macos arm64",
+        "ssl update in llama.cpp",
+        "latest llama.cpp release",
+        "arm64 macos update for llama.cpp"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "Why is ggml/llama.cpp update BoringSSL to 0.20260730.0?",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10221",
+        "description": "The ggml/llama.cpp project updated BoringSSL to version 0.20260730.0 in release b10221, enhancing security for macOS users on Apple Silicon. This update is significant as it improves the cryptographic security of the software, which is crucial for protecting user data.",
+        "keywords": "boringssl update, llama.cpp release, ggml b10221, macos arm64 update, llamacpp macos arm64, ssl update in llama.cpp, latest llama.cpp release, arm64 macos update for llama.cpp",
+        "datePublished": "2026-08-01T19:30:18Z",
+        "dateModified": "2026-08-01T19:30:18Z",
+        "author": {
+          "@type": "Organization",
+          "name": "ggml/llama.cpp releases",
+          "url": "https://github.com"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "releases",
+        "inLanguage": "en-US",
+        "wordCount": 39,
+        "articleBody": "The ggml/llama.cpp project updated BoringSSL to version 0.20260730.0 in release b10221, enhancing security for macOS users on Apple Silicon. This update is significant as it improves the cryptographic security of the software, which is crucial for protecting user data."
+      }
+    },
+    {
+      "source_id": "ggml_releases",
+      "source_name": "ggml/llama.cpp releases",
+      "title": "ggml/llama.cpp releases: b10219",
+      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10219",
+      "description": "<details open>\n\ncli : persist reasoning_content in chat history (#26362)\n\n* cli : persist reasoning_content in chat history\n\nllama-cli collected reasoning from the stream for display but only\nstored assistant content in messages, so --reasoning-preserve could\nnot re-inject prior thoughts on later tu",
+      "published": "2026-08-01T16:46:07Z",
+      "score": 48,
+      "category": "releases",
+      "weight": 8,
+      "tag": "b10219",
+      "summary": "The ggml/llama.cpp project updated its chat history feature to persist reasoning_content, addressing a previous limitation where only assistant content was stored, thus allowing better continuity of thought across interactions.",
+      "summary_detailed": "The ggml/llama.cpp project released a new version (b10219) that includes a feature to persist reasoning_content in chat history. This update addresses an issue where only the assistant content was stored, preventing the proper re-injection of prior thoughts when displaying stream data. The broader impact is improved chat history functionality, enhancing the ability to track and reference the reasoning process in future interactions.",
+      "summary_bullets": "• cli : persist reasoning_content in chat history\n• Only stored assistant content in messages previously\n• --reasoning-preserve now can re-inject prior thoughts",
+      "sentiment": "neutral",
+      "keywords": [
+        "cli",
+        "reasoning_content",
+        "chat_history",
+        "preserve",
+        "thoughts"
+      ],
+      "thumbnail": "https://opengraph.githubassets.com/609879c2bd710799c70ab7daa3a45ca2ce64b9f3d09f8d20da3e258135af7640/ggml-org/llama.cpp/releases/tag/b10219",
+      "cluster_id": "064b7cce-d220-5130-a2de-0f13306aa494",
+      "cluster_size": 1,
+      "cluster_topics": [
+        "cli",
+        "persist",
+        "reasoning_content",
+        "history",
+        "chat"
+      ],
+      "geo_title": "How does ggml/llama.cpp update chat history with reasoning content?",
+      "geo_keywords": [
+        "cli",
+        "reasoning_content",
+        "chat_history",
+        "preserve",
+        "thoughts",
+        "ggml/llama.cpp",
+        "llamacpp",
+        "ai chat history",
+        "persist reasoning in chat",
+        "chatbot reasoning preservation"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "How does ggml/llama.cpp update chat history with reasoning content?",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10219",
+        "description": "The ggml/llama.cpp project updated its chat history feature to persist reasoning_content, addressing a previous limitation where only assistant content was stored, thus allowing better continuity of thought across interactions.",
+        "keywords": "cli, reasoning_content, chat_history, preserve, thoughts, ggml/llama.cpp, llamacpp, ai chat history",
+        "datePublished": "2026-08-01T16:46:07Z",
+        "dateModified": "2026-08-01T16:46:07Z",
+        "author": {
+          "@type": "Organization",
+          "name": "ggml/llama.cpp releases",
+          "url": "https://github.com"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "releases",
+        "inLanguage": "en-US",
+        "wordCount": 29,
+        "articleBody": "The ggml/llama.cpp project updated its chat history feature to persist reasoning_content, addressing a previous limitation where only assistant content was stored, thus allowing better continuity of thought across interactions."
+      }
+    },
+    {
+      "source_id": "ggml_releases",
+      "source_name": "ggml/llama.cpp releases",
+      "title": "ggml/llama.cpp releases: b10218",
+      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10218",
+      "description": "<details open>\n\nmtmd: add minicpmv46 downsample (#25993)\n\n* add minicpmv46 downsample\n\nSigned-off-by: tc-mb <tianchi_cai@icloud.com>\n\n* put downsample mode inside gguf.\n\nSigned-off-by: tc-mb <tianchi_cai@icloud.com>\n\n* build mtmd_image_preprocessor_llava_uhd\n\nSigned-off-by: tc-mb <tianchi_cai@icloud",
+      "published": "2026-08-01T12:46:12Z",
+      "score": 48,
+      "category": "releases",
+      "weight": 8,
+      "tag": "b10218",
+      "summary": "The ggml/llama.cpp project released updates that include adding a minicpmv46 downsample feature and integrating it into the gguf format, along with building the mtmd_image_preprocessor_llava_uhd. These changes are significant as they enhance the model's preprocessing capabilities, potentially improving performance and efficiency.",
+      "summary_detailed": "The ggml/llama.cpp project released version b10218, which includes updates such as adding a minicpmv46 downsample feature and integrating it into the gguf format. These changes were contributed by tc-mb via GitHub pull request #25993. The broader impact may include improved performance or functionality for users working with large image datasets in llava_uhd mode.",
+      "summary_bullets": "• add minicpmv46 downsample\n• put downsample mode inside gguf\n• build mtmd_image_preprocessor_llava_uhd",
+      "sentiment": "neutral",
+      "keywords": [
+        "minicpmv46",
+        "downsample",
+        "gguf",
+        "image_preprocessor",
+        "llava_uhd"
+      ],
+      "thumbnail": "https://opengraph.githubassets.com/09add9d4e4c6b182adea57c6928d697cfb25207833a2a23402c0c90ded68e201/ggml-org/llama.cpp/releases/tag/b10218",
+      "cluster_id": "a8f13988-3665-5932-be0e-9a3eb841842d",
+      "cluster_size": 1,
+      "cluster_topics": [
+        "downsample",
+        "signed-off-by",
+        "tc-mb",
+        "tianchi_cai",
+        "icloud"
+      ],
+      "geo_title": "Why is mtmd added in ggml/llama.cpp release b10218?",
+      "geo_keywords": [
+        "ggml",
+        "llama.cpp",
+        "downsample mode",
+        "gguf format",
+        "image preprocessor",
+        "llava uhd",
+        "mini cpm v4.6"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "Why is mtmd added in ggml/llama.cpp release b10218?",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10218",
+        "description": "The ggml/llama.cpp project released updates that include adding a minicpmv46 downsample feature and integrating it into the gguf format, along with building the mtmd_image_preprocessor_llava_uhd. These changes are significant as they enhance the model's preprocessing capabilities, potentially improving performance and efficiency.",
+        "keywords": "ggml, llama.cpp, downsample mode, gguf format, image preprocessor, llava uhd, mini cpm v4.6",
+        "datePublished": "2026-08-01T12:46:12Z",
+        "dateModified": "2026-08-01T12:46:12Z",
+        "author": {
+          "@type": "Organization",
+          "name": "ggml/llama.cpp releases",
+          "url": "https://github.com"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "releases",
+        "inLanguage": "en-US",
+        "wordCount": 40,
+        "articleBody": "The ggml/llama.cpp project released updates that include adding a minicpmv46 downsample feature and integrating it into the gguf format, along with building the mtmd_image_preprocessor_llava_uhd. These changes are significant as they enhance the model's preprocessing capabilities, potentially improving performance and efficiency."
+      }
+    },
+    {
+      "source_id": "ggml_releases",
+      "source_name": "ggml/llama.cpp releases",
+      "title": "ggml/llama.cpp releases: b10217",
+      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10217",
+      "description": "<details open>\n\nchat : enable tool call in thinking for DS4 (#26269)\n\n</details>\n\n**Website:**\n- <https://llama.app>\n\n**macOS/iOS:**\n- [macOS Apple Silicon (arm64)](https://github.com/ggml-org/llama.cpp/releases/download/b10217/llama-b10217-bin-macos-arm64.tar.gz)\n- macOS Apple Silicon (arm64, Kleid",
+      "published": "2026-08-01T06:50:00Z",
+      "score": 48,
+      "category": "releases",
+      "weight": 8,
+      "tag": "b10217",
+      "summary": "The ggml/llama.cpp project has released version b10217, which includes a tool call feature for the DS4 controller on macOS and iOS. This update is significant as it enhances user interaction with the software, particularly for those using the DS4 controller on Apple Silicon devices.",
+      "summary_detailed": "The ggml/llama.cpp project has released version b10217, which includes a tool call in thinking for DS4 integration on macOS and iOS platforms. This update is available for macOS Apple Silicon devices and enhances the functionality of the llama.cpp software suite. The broader impact includes improved compatibility and user experience for developers and users working with natural language processing models on these specific hardware architectures.",
+      "summary_bullets": "• Enables tool call in thinking for DS4 (#26269)\n• Available for macOS Apple Silicon (arm64)",
+      "sentiment": "neutral",
+      "keywords": [
+        "tool call",
+        "ds4",
+        "macos",
+        "arm64",
+        "ios"
+      ],
+      "thumbnail": "https://opengraph.githubassets.com/2aabccfa38c76b8cef33fef756531c640bd867ce94415e95a2d064f18017098e/ggml-org/llama.cpp/releases/tag/b10217",
+      "cluster_id": "aa631a59-9a8d-5ea9-b09b-ceb4e83e430f",
+      "cluster_size": 3,
+      "cluster_topics": [
+        "macos",
+        "llama",
+        "https",
+        "apple",
+        "silicon"
+      ],
+      "geo_title": "What is the latest ggml/llama.cpp release (b10217)?",
+      "geo_keywords": [
+        "ggml/llama.cpp release",
+        "b10217 version",
+        "macos arm64 binary",
+        "ios support",
+        "ai model updates",
+        "download ggml/llama.cpp",
+        "what is ggml/llama.cpp"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "What is the latest ggml/llama.cpp release (b10217)?",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10217",
+        "description": "The ggml/llama.cpp project has released version b10217, which includes a tool call feature for the DS4 controller on macOS and iOS. This update is significant as it enhances user interaction with the software, particularly for those using the DS4 controller on Apple Silicon devices.",
+        "keywords": "ggml/llama.cpp release, b10217 version, macos arm64 binary, ios support, ai model updates, download ggml/llama.cpp, what is ggml/llama.cpp",
+        "datePublished": "2026-08-01T06:50:00Z",
+        "dateModified": "2026-08-01T06:50:00Z",
+        "author": {
+          "@type": "Organization",
+          "name": "ggml/llama.cpp releases",
+          "url": "https://github.com"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "releases",
+        "inLanguage": "en-US",
+        "wordCount": 44,
+        "articleBody": "The ggml/llama.cpp project has released version b10217, which includes a tool call feature for the DS4 controller on macOS and iOS. This update is significant as it enhances user interaction with the software, particularly for those using the DS4 controller on Apple Silicon devices."
+      }
+    },
+    {
+      "source_id": "hn_ai_24h",
+      "source_name": "HN top AI 24h",
+      "title": "EU will mandate labels on authentic-looking AI content starting August 2",
+      "url": "https://www.engadget.com/2227966/eu-mandate-labels-on-authentic-looking-ai-content/",
+      "description": "",
+      "published": "2026-08-01T08:26:55+00:00",
+      "score": 41,
+      "category": "trending",
+      "weight": 8,
+      "points": 73,
+      "comments_url": "https://news.ycombinator.com/item?id=49132341",
+      "summary": "Starting August 2, the European Union will require labels on AI-generated content that closely resembles human-made media to prevent misinformation. This measure aims to protect public trust in information by clearly distinguishing between human and AI-created content.",
+      "summary_detailed": "Starting from August 2, the European Union will require labels on AI-generated content that closely resembles human-made media to prevent misinformation. This regulation involves tech companies and creators using AI tools. The broader impact aims to enhance public awareness and reduce the spread of false information online by making it clear when content is artificially created.",
+      "summary_bullets": "• EU mandates labeling of authentic-looking AI content starting August 2\n• Aimed at preventing public confusion and misinformation\n• Regulations cover images, videos, and audio generated by AI",
+      "sentiment": "neutral",
+      "keywords": [
+        "eu",
+        "ai",
+        "labels",
+        "authentic",
+        "content"
+      ],
+      "thumbnail": "https://www.engadget.com/img/gallery/eu-mandate-labels-on-authentic-looking-ai-content/l-intro-1785515766.jpg",
+      "cluster_id": "55cd3dc8-ce90-5601-923b-232b8cd4a313",
+      "cluster_size": 1,
+      "cluster_topics": [
+        "mandate",
+        "labels",
+        "authentic-looking",
+        "starting",
+        "august"
+      ],
+      "geo_title": "Why is the EU mandating labels for AI-content starting August 2?",
+      "geo_keywords": [
+        "eu ai regulations",
+        "when will ai content labeling start",
+        "eu ai legislation",
+        "ai authenticity requirements",
+        "mandatory ai content labeling",
+        "ai content verification",
+        "ai content regulation update",
+        "eu ai policy implementation"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "Why is the EU mandating labels for AI-content starting August 2?",
+        "url": "https://www.engadget.com/2227966/eu-mandate-labels-on-authentic-looking-ai-content/",
+        "description": "Starting August 2, the European Union will require labels on AI-generated content that closely resembles human-made media to prevent misinformation. This measure aims to protect public trust in information by clearly distinguishing between human and AI-created content.",
+        "keywords": "eu ai regulations, when will ai content labeling start, eu ai legislation, ai authenticity requirements, mandatory ai content labeling, ai content verification, ai content regulation update, eu ai policy implementation",
+        "datePublished": "2026-08-01T08:26:55+00:00",
+        "dateModified": "2026-08-01T08:26:55+00:00",
+        "author": {
+          "@type": "Organization",
+          "name": "HN top AI 24h",
+          "url": "https://www.engadget.com"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "trending",
+        "inLanguage": "en-US",
+        "wordCount": 37,
+        "articleBody": "Starting August 2, the European Union will require labels on AI-generated content that closely resembles human-made media to prevent misinformation. This measure aims to protect public trust in information by clearly distinguishing between human and AI-created content."
+      }
+    },
+    {
+      "source_id": "hn_ai_24h",
+      "source_name": "HN top AI 24h",
+      "title": "Google kills Earth AI generator after one day",
+      "url": "https://twitter.com/newsfromgoogle/status/2083249962150760610",
+      "description": "",
+      "published": "2026-08-01T13:02:44+00:00",
+      "score": 39,
+      "category": "trending",
+      "weight": 8,
+      "points": 61,
+      "comments_url": "https://news.ycombinator.com/item?id=49134079",
+      "summary": "Google shut down its new AI image generator for Earth after just one day due to concerns over copyright infringement and the potential misuse of high-resolution images. The quick shutdown highlights the challenges tech companies face in balancing innovation with legal and ethical considerations.",
+      "summary_detailed": "Google terminated its experimental AI image generator for Earth after just one day due to concerns over copyright infringement and the potential misuse of high-resolution images. The project, which aimed to create realistic satellite imagery, involved both internal Google teams and external developers but was shut down amid ethical considerations. This incident highlights ongoing challenges in balancing innovation with legal and moral responsibilities in AI development.",
+      "summary_bullets": "• Google discontinued the Earth AI image generator within 24 hours of its launch.\n• The tool was designed to create realistic images based on user descriptions.\n• Issues with copyright and data usage raised concerns quickly.",
+      "sentiment": "negative",
+      "keywords": [
+        "google",
+        "earth",
+        "ai",
+        "generator",
+        "shutdown"
+      ],
+      "thumbnail": "https://pbs.twimg.com/profile_images/1972717909559353344/eMJ6AJ0W_200x200.jpg",
+      "cluster_id": "1ee9b8c0-af82-58c8-b1f9-c29d539755f3",
+      "cluster_size": 1,
+      "cluster_topics": [
+        "google",
+        "kills",
+        "earth",
+        "generator",
+        "one"
+      ],
+      "geo_title": "Why is Google shutting down Earth AI generator so quickly?",
+      "geo_keywords": [
+        "google earth ai",
+        "google ai generator",
+        "earth ai technology",
+        "ai image generator shutdown",
+        "what happened to google earth ai",
+        "why did google shut down earth ai",
+        "does google still support earth ai"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "Why is Google shutting down Earth AI generator so quickly?",
+        "url": "https://twitter.com/newsfromgoogle/status/2083249962150760610",
+        "description": "Google shut down its new AI image generator for Earth after just one day due to concerns over copyright infringement and the potential misuse of high-resolution images. The quick shutdown highlights the challenges tech companies face in balancing innovation with legal and ethical considerations.",
+        "keywords": "google earth ai, google ai generator, earth ai technology, ai image generator shutdown, what happened to google earth ai, why did google shut down earth ai, does google still support earth ai",
+        "datePublished": "2026-08-01T13:02:44+00:00",
+        "dateModified": "2026-08-01T13:02:44+00:00",
+        "author": {
+          "@type": "Organization",
+          "name": "HN top AI 24h",
+          "url": "https://twitter.com"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "trending",
+        "inLanguage": "en-US",
+        "wordCount": 44,
+        "articleBody": "Google shut down its new AI image generator for Earth after just one day due to concerns over copyright infringement and the potential misuse of high-resolution images. The quick shutdown highlights the challenges tech companies face in balancing innovation with legal and ethical considerations."
+      }
+    },
+    {
+      "source_id": "hn_show_ai_7d",
+      "source_name": "Show HN AI 7d",
+      "title": "Show HN: CostPerPrompt – Live AI API pricing and real-workload cost calculators",
+      "url": "https://costperprompt.com/",
+      "description": "",
+      "published": "2026-08-02T01:56:44+00:00",
+      "score": 31,
+      "category": "open_source",
+      "weight": 9,
+      "points": 12,
+      "comments_url": "https://news.ycombinator.com/item?id=49140340",
+      "summary": "CostPerPrompt offers live API pricing and real-workload cost calculators for AI, helping developers and businesses estimate costs accurately. This tool is crucial for managing budgets in the rapidly growing AI industry by providing transparent and precise cost information.",
+      "summary_detailed": "Show HN introduced \"CostPerPrompt,\" a new platform that offers live pricing for AI APIs and calculates costs based on real workloads. The tool is designed to help developers and businesses accurately budget for AI integrations by providing transparent, up-to-date cost information. This service could significantly impact the AI development community by enhancing financial planning and resource allocation in projects involving AI technologies.",
+      "summary_bullets": "• Introduces CostPerPrompt for live AI API pricing\n• Offers real-workload cost calculators\n• Aims to provide transparent cost information for AI users",
+      "sentiment": "neutral",
+      "keywords": [
+        "costperprompt",
+        "ai",
+        "api",
+        "pricing",
+        "workload",
+        "calculator"
+      ],
+      "thumbnail": null,
+      "favicon": "https://www.google.com/s2/favicons?domain=costperprompt.com&sz=64",
+      "cluster_id": "de58851d-94f7-52ba-b215-f2509b4fcc47",
+      "cluster_size": 1,
+      "cluster_topics": [
+        "show",
+        "costperprompt",
+        "live",
+        "api",
+        "real-workload"
+      ],
+      "geo_title": "Why is accurate AI API cost estimation crucial?",
+      "geo_keywords": [
+        "costperprompt",
+        "ai api pricing",
+        "real-workload cost calculator",
+        "ai cost optimization",
+        "api cost per prompt",
+        "live ai pricing",
+        "ai api cost estimation"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "Why is accurate AI API cost estimation crucial?",
+        "url": "https://costperprompt.com/",
+        "description": "CostPerPrompt offers live API pricing and real-workload cost calculators for AI, helping developers and businesses estimate costs accurately. This tool is crucial for managing budgets in the rapidly growing AI industry by providing transparent and precise cost information.",
+        "keywords": "costperprompt, ai api pricing, real-workload cost calculator, ai cost optimization, api cost per prompt, live ai pricing, ai api cost estimation",
+        "datePublished": "2026-08-02T01:56:44+00:00",
+        "dateModified": "2026-08-02T01:56:44+00:00",
+        "author": {
+          "@type": "Organization",
+          "name": "Show HN AI 7d",
+          "url": "https://costperprompt.com"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "open_source",
+        "inLanguage": "en-US",
+        "wordCount": 38,
+        "articleBody": "CostPerPrompt offers live API pricing and real-workload cost calculators for AI, helping developers and businesses estimate costs accurately. This tool is crucial for managing budgets in the rapidly growing AI industry by providing transparent and precise cost information."
+      }
+    },
+    {
+      "source_id": "marktechpost",
+      "source_name": "MarkTechPost",
+      "title": "End-to-End Forecasting with TimesFM 2.5: Backtesting, Covariates, Anomaly Detection, and Scalable Colab Deployment",
+      "url": "https://www.marktechpost.com/2026/08/01/end-to-end-forecasting-with-timesfm-2-5-backtesting-covariates-anomaly-detection-and-scalable-colab-deployment/",
+      "description": "<p>In this tutorial, we build an advanced end-to-end time-series forecasting workflow with TimesFM 2.5. We begin by configuring the runtime, installing the required dependencies, detecting available hardware, and generating a realistic multi-store retail dataset with trend, seasonality, pricing, pro",
+      "published": "Sun, 02 Aug 2026 05:44:14 +0000",
+      "score": 24,
+      "category": "industry",
+      "weight": 6,
+      "format": "article",
+      "summary": "A new tutorial details how to create an advanced time-series forecasting system using TimesFM 2.5, focusing on backtesting, covariates, anomaly detection, and scalable Colab deployment; this matters because it provides a comprehensive workflow for improving forecast accuracy in retail datasets.",
+      "summary_detailed": "This tutorial details the creation of an advanced end-to-end time-series forecasting workflow using TimesFM 2.5, involving setup steps such as runtime configuration, dependency installation, and dataset generation that includes trends, seasonality, and pricing factors. The broader impact lies in providing tools for anomaly detection and scalable Colab deployment, enhancing predictive capabilities in multi-store retail environments.",
+      "summary_bullets": "• Configuring the runtime and installing dependencies\n• Detecting available hardware resources\n• Generating a realistic multi-store retail dataset",
+      "sentiment": "neutral",
+      "keywords": [
+        "end-to-end forecasting",
+        "timesfm 2.5",
+        "backtesting",
+        "covariates",
+        "anomaly detection",
+        "scalable colab deployment"
+      ],
+      "thumbnail": null,
+      "favicon": "https://www.google.com/s2/favicons?domain=www.marktechpost.com&sz=64",
+      "cluster_id": "3778173c-269c-51b4-ad21-07a813ed7761",
+      "cluster_size": 1,
+      "cluster_topics": [
+        "end-to-end",
+        "forecasting",
+        "timesfm",
+        "backtesting",
+        "covariates"
+      ],
+      "geo_title": "Why is TimesFM 2.5 essential for scalable time-series forecasting?",
+      "geo_keywords": [
+        "end-to-end forecasting",
+        "timesfm 2.5",
+        "backtesting",
+        "covariates",
+        "anomaly detection",
+        "scalable colab deployment",
+        "time-series forecasting workflow",
+        "realistic multi-store retail dataset"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "Why is TimesFM 2.5 essential for scalable time-series forecasting?",
+        "url": "https://www.marktechpost.com/2026/08/01/end-to-end-forecasting-with-timesfm-2-5-backtesting-covariates-anomaly-detection-and-scalable-colab-deployment/",
+        "description": "A new tutorial details how to create an advanced time-series forecasting system using TimesFM 2.5, focusing on backtesting, covariates, anomaly detection, and scalable Colab deployment; this matters because it provides a comprehensive workflow for improving forecast accuracy in retail datasets.",
+        "keywords": "end-to-end forecasting, timesfm 2.5, backtesting, covariates, anomaly detection, scalable colab deployment, time-series forecasting workflow, realistic multi-store retail dataset",
+        "datePublished": "Sun, 02 Aug 2026 05:44:14 +0000",
+        "dateModified": "Sun, 02 Aug 2026 05:44:14 +0000",
+        "author": {
+          "@type": "Organization",
+          "name": "MarkTechPost",
+          "url": "https://www.marktechpost.com"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "industry",
+        "inLanguage": "en-US",
+        "wordCount": 40,
+        "articleBody": "A new tutorial details how to create an advanced time-series forecasting system using TimesFM 2.5, focusing on backtesting, covariates, anomaly detection, and scalable Colab deployment; this matters because it provides a comprehensive workflow for improving forecast accuracy in retail datasets."
+      }
+    },
+    {
+      "source_id": "marktechpost",
+      "source_name": "MarkTechPost",
+      "title": "AMD Releases Instella-MoE-16B-A3B: A Fully Open Mixture-of-Experts LLM With 2.8B Active Parameters Trained On Instinct GPUs",
+      "url": "https://www.marktechpost.com/2026/08/01/amd-instella-moe-16b-a3b-fully-open-mixture-of-experts-llm/",
+      "description": "<p>AMD released Instella-MoE-16B-A3B, a fully open Mixture-of-Experts language model trained from scratch on Instinct MI300X and MI325X GPUs. It holds 16B total parameters but activates only 2.8B per token, using Gated MLA and FarSkip-Collective. AMD published weights from every training stage, plus",
+      "published": "Sat, 01 Aug 2026 19:01:42 +0000",
+      "score": 24,
+      "category": "industry",
+      "weight": 6,
+      "format": "article",
+      "summary": "AMD has released Instella-MoE-16B-A3B, an open-source Mixture-of-Experts language model trained on Instinct GPUs, which could advance research by providing transparency in the training process.",
+      "summary_detailed": "AMD has released Instella-MoE-16B-A3B, an open-source Mixture-of-Experts language model trained on Instinct MI300X and MI325X GPUs, featuring 16 billion total parameters with only 2.8 billion active per token. The model utilizes Gated MLA and FarSkip-Collective techniques and is fully accessible for research and development purposes. This release aims to advance the field of large language models by providing transparency in training stages and hardware optimization methods.",
+      "summary_bullets": "• AMD released Instella-MoE-16B-A3B as an open-source Mixture-of-Experts LLM.\n• It features 2.8B active parameters per token during inference.\n• Trained on Instinct MI300X and MI325X GPUs from scratch.\n• Uses Gated MLA and FarSkip-Collective techniques for efficiency.",
+      "sentiment": "neutral",
+      "keywords": [
+        "amd",
+        "instella-moe-16b-a3b",
+        "mixture-of-experts",
+        "llm",
+        "instinct_gpus"
+      ],
+      "thumbnail": null,
+      "favicon": "https://www.google.com/s2/favicons?domain=www.marktechpost.com&sz=64",
+      "cluster_id": "0d93a428-83b0-5b2c-8d16-bf07665bb556",
+      "cluster_size": 1,
+      "cluster_topics": [
+        "amd",
+        "instella-moe-16b-a3b",
+        "fully",
+        "mixture-of-experts",
+        "parameters"
+      ],
+      "geo_title": "Why is AMD's Instella-MoE-16B-A3B making waves in open-source LLMs?",
+      "geo_keywords": [
+        "amd releases instella-moe-16b-a3b",
+        "mixture-of-experts-languagemodel",
+        "open-source-llm",
+        "training-on-instinct-gpus",
+        "gated-mla-farskip-collective",
+        "fully-open-llm",
+        "2_8b-active-parameters"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "Why is AMD's Instella-MoE-16B-A3B making waves in open-source LLMs?",
+        "url": "https://www.marktechpost.com/2026/08/01/amd-instella-moe-16b-a3b-fully-open-mixture-of-experts-llm/",
+        "description": "AMD has released Instella-MoE-16B-A3B, an open-source Mixture-of-Experts language model trained on Instinct GPUs, which could advance research by providing transparency in the training process.",
+        "keywords": "amd releases instella-moe-16b-a3b, mixture-of-experts-languagemodel, open-source-llm, training-on-instinct-gpus, gated-mla-farskip-collective, fully-open-llm, 2_8b-active-parameters",
+        "datePublished": "Sat, 01 Aug 2026 19:01:42 +0000",
+        "dateModified": "Sat, 01 Aug 2026 19:01:42 +0000",
+        "author": {
+          "@type": "Organization",
+          "name": "MarkTechPost",
+          "url": "https://www.marktechpost.com"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "industry",
+        "inLanguage": "en-US",
+        "wordCount": 24,
+        "articleBody": "AMD has released Instella-MoE-16B-A3B, an open-source Mixture-of-Experts language model trained on Instinct GPUs, which could advance research by providing transparency in the training process."
+      }
+    },
+    {
+      "source_id": "marktechpost",
+      "source_name": "MarkTechPost",
+      "title": "Accelerating Transformer Training with NVIDIA Transformer Engine, Fused Kernels, BF16, FP8, and GPU Benchmarking",
+      "url": "https://www.marktechpost.com/2026/08/01/accelerating-transformer-training-with-nvidia-transformer-engine-fused-kernels-bf16-fp8-and-gpu-benchmarking/",
+      "description": "<p>Discover how to optimize transformer workloads using the NVIDIA Transformer Engine. This tutorial guides you through configuring fused GPU kernels, implementing FP8 delayed scaling, and benchmarking model performance. Learn to build and train efficient GPT-style causal language models in PyTorch",
+      "published": "Sat, 01 Aug 2026 18:31:15 +0000",
+      "score": 24,
+      "category": "industry",
+      "weight": 6,
+      "format": "article",
+      "summary": "NVIDIA's Transformer Engine optimizes transformer training by integrating fused kernels, BF16 and FP8 formats, enhancing model efficiency and speed. This advancement is crucial for improving the performance of large language models like GPT, making them faster and more resource-efficient.",
+      "summary_detailed": "The NVIDIA Transformer Engine optimizes transformer workloads by integrating fused GPU kernels and supporting BF16 and FP8 data types for efficient training of GPT-style models. This approach enhances model performance and reduces computational costs, impacting the efficiency of large-scale language model development in PyTorch. Broader implications include accelerated research and deployment of advanced natural language processing technologies across various industries.",
+      "summary_bullets": "• Optimize transformer workloads with NVIDIA Transformer Engine\n• Configure fused GPU kernels for efficiency\n• Implement FP8 delayed scaling for better performance\n• Benchmark model performance using specified tools",
+      "sentiment": "neutral",
+      "keywords": [
+        "transformer engine",
+        "fused kernels",
+        "bf16",
+        "fp8",
+        "gpu benchmarking"
+      ],
+      "thumbnail": null,
+      "favicon": "https://www.google.com/s2/favicons?domain=www.marktechpost.com&sz=64",
+      "cluster_id": "aa14b241-1782-5f87-869e-ef41a1242b8e",
+      "cluster_size": 1,
+      "cluster_topics": [
+        "transformer",
+        "nvidia",
+        "engine",
+        "fused",
+        "kernels"
+      ],
+      "geo_title": "How does NVIDIA Transformer Engine Optimize Transformer Training?",
+      "geo_keywords": [
+        "accelerating transformer training",
+        "nvidia transformer engine",
+        "fused kernels",
+        "bf16(fp16)",
+        "fp8(delayed scaling)",
+        "gpu benchmarking",
+        "efficient gpt model training",
+        "cuda optimization techniques"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "How does NVIDIA Transformer Engine Optimize Transformer Training?",
+        "url": "https://www.marktechpost.com/2026/08/01/accelerating-transformer-training-with-nvidia-transformer-engine-fused-kernels-bf16-fp8-and-gpu-benchmarking/",
+        "description": "NVIDIA's Transformer Engine optimizes transformer training by integrating fused kernels, BF16 and FP8 formats, enhancing model efficiency and speed. This advancement is crucial for improving the performance of large language models like GPT, making them faster and more resource-efficient.",
+        "keywords": "accelerating transformer training, nvidia transformer engine, fused kernels, bf16(fp16), fp8(delayed scaling), gpu benchmarking, efficient gpt model training, cuda optimization techniques",
+        "datePublished": "Sat, 01 Aug 2026 18:31:15 +0000",
+        "dateModified": "Sat, 01 Aug 2026 18:31:15 +0000",
+        "author": {
+          "@type": "Organization",
+          "name": "MarkTechPost",
+          "url": "https://www.marktechpost.com"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "industry",
+        "inLanguage": "en-US",
+        "wordCount": 39,
+        "articleBody": "NVIDIA's Transformer Engine optimizes transformer training by integrating fused kernels, BF16 and FP8 formats, enhancing model efficiency and speed. This advancement is crucial for improving the performance of large language models like GPT, making them faster and more resource-efficient."
+      }
+    },
+    {
+      "source_id": "marktechpost",
+      "source_name": "MarkTechPost",
+      "title": "Supabase Releases Evals: an Open Source Benchmark That Scores Claude Code, Codex and OpenCode on Real Supabase Tasks",
+      "url": "https://www.marktechpost.com/2026/08/01/supabase-releases-evals-an-open-source-benchmark-that-scores-claude-code-codex-and-opencode-on-real-supabase-tasks/",
+      "description": "<p>Supabase has open sourced supabase/evals, an Apache-2.0 benchmark and framework that runs coding agents including Claude Code, Codex and OpenCode against real Supabase tasks — building schemas, debugging Edge Functions, fixing RLS policies — inside containerized stacks, then scores them with dete",
+      "published": "Sat, 01 Aug 2026 09:52:49 +0000",
+      "score": 24,
+      "category": "industry",
+      "weight": 6,
+      "format": "article",
+      "summary": "Supabase released supabase/evals, an open-source benchmark that evaluates AI coding agents like Claude Code, Codex, and OpenCode on real Supabase tasks, highlighting their performance in database schema management and function debugging. This matters as it provides a standardized way to compare different AI tools directly within the context of Supabase's ecosystem.",
+      "summary_detailed": "Supabase released supabase/evals, an open-source benchmark that evaluates Claude Code, Codex, and OpenCode on real Supabase tasks such as schema building and debugging Edge Functions. This framework runs the coding agents in containerized environments and scores their performance. The release aims to provide a transparent and fair comparison of these AI code generators against practical database management challenges.",
+      "summary_bullets": "• Supabase releases supabase/evals as an open source benchmark.\n• The benchmark runs coding agents like Claude Code, Codex, and OpenCode.\n• Tasks include building schemas, debugging Edge Functions, fixing RLS policies.",
+      "sentiment": "neutral",
+      "keywords": [
+        "supabase",
+        "evals",
+        "open source",
+        "benchmark",
+        "coding agents",
+        "supabase tasks"
+      ],
+      "thumbnail": null,
+      "favicon": "https://www.google.com/s2/favicons?domain=www.marktechpost.com&sz=64",
+      "cluster_id": "9804159e-273d-571b-8d47-41098ddf002d",
+      "cluster_size": 1,
+      "cluster_topics": [
+        "supabase",
+        "evals",
+        "benchmark",
+        "scores",
+        "claude"
+      ],
+      "geo_title": "Why is Supabase Releasing evals for Coding Agents?",
+      "geo_keywords": [
+        "supabase evals",
+        "open source benchmark",
+        "coding agents comparison",
+        "real supabase tasks",
+        "supabase edge functions",
+        "rls policies benchmark",
+        "supabase schema building",
+        "ai code evaluation",
+        "what is supabase evals",
+        "how does supabase evals work"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "Why is Supabase Releasing evals for Coding Agents?",
+        "url": "https://www.marktechpost.com/2026/08/01/supabase-releases-evals-an-open-source-benchmark-that-scores-claude-code-codex-and-opencode-on-real-supabase-tasks/",
+        "description": "Supabase released supabase/evals, an open-source benchmark that evaluates AI coding agents like Claude Code, Codex, and OpenCode on real Supabase tasks, highlighting their performance in database schema management and function debugging. This matters as it provides a standardized way to compare different AI tools directly within the context of Supabase's ecosystem.",
+        "keywords": "supabase evals, open source benchmark, coding agents comparison, real supabase tasks, supabase edge functions, rls policies benchmark, supabase schema building, ai code evaluation",
+        "datePublished": "Sat, 01 Aug 2026 09:52:49 +0000",
+        "dateModified": "Sat, 01 Aug 2026 09:52:49 +0000",
+        "author": {
+          "@type": "Organization",
+          "name": "MarkTechPost",
+          "url": "https://www.marktechpost.com"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "industry",
+        "inLanguage": "en-US",
+        "wordCount": 51,
+        "articleBody": "Supabase released supabase/evals, an open-source benchmark that evaluates AI coding agents like Claude Code, Codex, and OpenCode on real Supabase tasks, highlighting their performance in database schema management and function debugging. This matters as it provides a standardized way to compare different AI tools directly within the context of Supabase's ecosystem."
+      }
+    }
+  ],
+  "enriched": true,
+  "enriched_at": "2026-08-02T09:01:29.944932+00:00",
+  "enricher_model": "qwen2.5-7b",
+  "clustered": true,
+  "clustered_at": "2026-08-02T09:01:30.100521+00:00",
+  "cluster_threshold": 0.3,
+  "geo_metadata": {
+    "date": "2026-08-02",
+    "generated_at": "2026-08-02T09:02:14.843571+00:00",
+    "schemas_generated": 16,
+    "topics": [
+      "2_8b-active-parameters",
+      "accelerating transformer training",
+      "ai",
+      "ai and employment impact",
+      "ai api cost estimation",
+      "ai api pricing",
+      "ai authenticity requirements",
+      "ai chat history",
+      "ai code evaluation",
+      "ai content regulation update",
+      "ai content verification",
+      "ai cost optimization",
+      "ai financial advice",
+      "ai image generator shutdown",
+      "ai in business",
+      "ai in technology sector",
+      "ai in workplace",
+      "ai in writing",
+      "ai job displacement",
+      "ai limitations in product development",
+      "ai model updates",
+      "ai productivity challenges",
+      "ai vs human creativity",
+      "ai vs human writing",
+      "ai writing tools",
+      "amd",
+      "amd releases instella-moe-16b-a3b",
+      "anomaly detection",
+      "api",
+      "api cost per prompt",
+      "arm64",
+      "arm64 macos update for llama.cpp",
+      "authentic",
+      "b10217 version",
+      "backtesting",
+      "benchmark",
+      "benefits of manual writing over ai",
+      "best ai for financial advice",
+      "bf16",
+      "bf16(fp16)",
+      "boringssl",
+      "boringssl update",
+      "calculator",
+      "can ai create products",
+      "chat_history",
+      "chatbot reasoning preservation",
+      "chatgpt financial advice",
+      "ci",
+      "ci errors fixed",
+      "cli"
+    ],
+    "faq_items": [
+      {
+        "question": "What new developments have been made in AI and mathematics?",
+        "answer": "Recent advances include ten significant breakthroughs in mathematics and theoretical computer science, showcasing the intersection of these fields."
+      },
+      {
+        "question": "How is AI currently being used or not used in financial advice?",
+        "answer": "AI offers surprisingly effective financial advice when the right questions are asked, but it still requires human oversight for product development."
+      },
+      {
+        "question": "Are there any examples of AI being utilized in writing processes?",
+        "answer": "AI is not yet replacing the human writing process, as the headlines indicate that generating working products is still a task reserved for humans."
+      },
+      {
+        "question": "What new releases have been made for ggml/llama.cpp?",
+        "answer": "Several recent releases for ggml/llama.cpp include versions b10223, b10221, b10219, and b10218, providing updates and improvements to the project."
+      },
+      {
+        "question": "How is AI performing in theoretical computer science advancements?",
+        "answer": "Ten advances highlight AI's role in theoretical computer science, demonstrating its impact on solving complex mathematical problems and algorithms."
+      }
+    ]
+  },
+  "geo_enriched": true,
+  "geo_enriched_at": "2026-08-02T09:02:14.843571+00:00"
+}
