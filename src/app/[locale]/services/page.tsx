@@ -2,6 +2,7 @@ import type { Metadata } from "next";
 import { getTranslations } from "next-intl/server";
 import { Link } from "@/i18n/navigation";
 import PageHeader from "@/components/PageHeader";
+import TrackedLink from "@/components/TrackedLink";
 
 export async function generateMetadata({ params }: { params: Promise<{ locale: string }> }): Promise<Metadata> {
   const { locale } = await params;
@@ -39,15 +40,18 @@ export default async function ServicesPage({ params }: { params: Promise<{ local
               <h2 className="mb-1 text-lg font-montserrat-bold group-hover:text-[#3b82f6] transition-colors">{t(`services.list.${s.slug}.title`)}</h2>
               <p className="mb-3 text-sm text-[#3b82f6] font-montserrat-bold">{t(`services.list.${s.slug}.price`)}</p>
               <p className="mb-4 text-sm text-white/50 font-montserrat-regular">{t(`services.list.${s.slug}.desc`)}</p>
-              {"external" in s ? (
-                <a
+              {"external" in s && s.external ? (
+                <TrackedLink
                   href={s.external}
+                  external
+                  kind="fiverr_click"
+                  slug={s.slug}
                   target="_blank"
                   rel="noopener noreferrer sponsored nofollow"
                   className="text-sm text-[#3b82f6] underline font-montserrat-bold"
                 >
                   {t("services.viewOnFiverr")}
-                </a>
+                </TrackedLink>
               ) : (
                 <Link href={`/services/${s.slug}`} className="text-sm text-[#3b82f6] underline font-montserrat-bold">
                   {t("services.learnMore")}

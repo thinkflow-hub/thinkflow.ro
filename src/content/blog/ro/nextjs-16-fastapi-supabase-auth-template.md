@@ -113,7 +113,7 @@ Ultimul punct contează mai mult decât pare: `getSession()` citește orice scri
 
 ## Repository-ul Template
 
-Starter-ul complet (acest middleware, ambii clienți Supabase, serviciul FastAPI și o rută de chat funcțională, legată cap-coadă) e disponibil ca template repo pe GitHub. Cere acces timpuriu la template și ți-l trimitem: [ia legătura](https://thinkflow.ro/ro/contact).
+Starter-ul complet (acest middleware, ambii clienți Supabase, serviciul FastAPI și o rută de chat funcțională, legată cap-coadă) e disponibil ca template repo pe GitHub. Cere acces timpuriu la template și ți-l trimitem: [ia legătura](https://thinkflow.ro/ro/contact?src=nextjs-16-fastapi-supabase-auth-template).
 
 ---
 
@@ -261,4 +261,4 @@ Costul total de pornire pentru acest stack e $0. Prima factură reală apare câ
 
 ---
 
-Dacă echipa ta are nevoie ca acest stack să fie legat corect din prima (autentificare, retrieval și separarea backend-ului făcute cum trebuie), [ia legătura](https://thinkflow.ro/ro/contact).
+Dacă echipa ta are nevoie ca acest stack să fie legat corect din prima (autentificare, retrieval și separarea backend-ului făcute cum trebuie), [ia legătura](https://thinkflow.ro/ro/contact?src=nextjs-16-fastapi-supabase-auth-template).

@@ -3,21 +3,28 @@ import { getSupabase } from "@/lib/supabase";
 
 export async function POST(request: Request) {
   try {
-    const { slug, locale, referrer } = await request.json();
+    const { slug, locale, referrer, kind } = await request.json();
 
     if (!slug) {
       return NextResponse.json({ error: "Slug is required." }, { status: 400 });
     }
 
-    await getSupabase().from("blog_views").insert({
+    const { error } = await getSupabase().from("blog_views").insert({
       slug,
       locale: locale || "en",
       referrer: referrer || null,
+      kind: kind || "view",
       user_agent: request.headers.get("user-agent") || null,
     } as never);
 
+    if (error) {
+      console.error("blog_views insert error:", error);
+      return NextResponse.json({ success: false, error: error.message });
+    }
+
     return NextResponse.json({ success: true });
-  } catch {
+  } catch (e) {
+    console.error("blog_views insert threw:", e);
     return NextResponse.json({ success: false });
   }
 }

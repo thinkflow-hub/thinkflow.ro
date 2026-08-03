@@ -2,7 +2,7 @@ import type { Metadata } from "next";
 import { Geist_Mono, Montserrat } from "next/font/google";
 import localFont from "next/font/local";
 import { getLocale } from "next-intl/server";
-import PlausibleAnalytics from "@/components/PlausibleAnalytics";
+import { AttributionProvider } from "@/lib/attribution";
 import { Analytics } from "@vercel/analytics/next";
 import { SpeedInsights } from "@vercel/speed-insights/next";
 import "./globals.css";
@@ -62,7 +62,6 @@ export default async function RootLayout({
       className={`${montserrat.variable} ${geistMono.variable} ${blackSignature.variable} h-full antialiased`}
     >
       <head>
-        <PlausibleAnalytics />
         <link rel="alternate" type="application/atom+xml" title="ThinkFLOW Blog Feed" href="https://thinkflow.ro/feed.xml" />
         <link rel="icon" type="image/svg+xml" href="/icon.svg" />
         <script
@@ -86,7 +85,7 @@ export default async function RootLayout({
         />
       </head>
       <body className="flex min-h-full flex-col">
-        {children}
+        <AttributionProvider>{children}</AttributionProvider>
         <Analytics />
         <SpeedInsights />
       </body>

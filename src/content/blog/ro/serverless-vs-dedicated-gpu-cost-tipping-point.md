@@ -173,4 +173,4 @@ Trafic constant și previzibil de la o lună la alta?
 
 Singurul input care contează aici e volumul de cereri și distribuția lui pe parcursul zilei — nu mărimea echipei, nu stadiul de finanțare, nu ce rulează un competitor.
 
-Dacă echipa ta se lovește de pereții de cost ai serverless-ului, noi proiectăm și construim arhitectura hibridă care îi elimină — [ia legătura](https://thinkflow.ro/ro/contact).
+Dacă echipa ta se lovește de pereții de cost ai serverless-ului, noi proiectăm și construim arhitectura hibridă care îi elimină — [ia legătura](https://thinkflow.ro/ro/contact?src=serverless-vs-dedicated-gpu-cost-tipping-point).

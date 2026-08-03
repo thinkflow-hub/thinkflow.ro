@@ -113,7 +113,7 @@ That last point matters more than it looks: `getSession()` reads whatever the co
 
 ## Template Repository
 
-The full starter — this middleware, both Supabase clients, the FastAPI service, and a working chat route wired end to end — is available as a GitHub template repo. Request early access to the template and we'll send it to you: [get in touch](https://thinkflow.ro/contact).
+The full starter — this middleware, both Supabase clients, the FastAPI service, and a working chat route wired end to end — is available as a GitHub template repo. Request early access to the template and we'll send it to you: [get in touch](https://thinkflow.ro/contact?src=nextjs-16-fastapi-supabase-auth-template).
 
 ---
 
@@ -261,4 +261,4 @@ The total starting cost for this stack is $0. The first real bill shows up when 
 
 ---
 
-If your team needs this stack wired correctly the first time — auth, retrieval, and the backend split done right — [get in touch](https://thinkflow.ro/contact).
+If your team needs this stack wired correctly the first time — auth, retrieval, and the backend split done right — [get in touch](https://thinkflow.ro/contact?src=nextjs-16-fastapi-supabase-auth-template).

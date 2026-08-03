@@ -1,6 +1,7 @@
 import type { Metadata } from "next";
 import { getTranslations } from "next-intl/server";
 import { Link } from "@/i18n/navigation";
+import TrackedLink from "@/components/TrackedLink";
 
 const SLUG_TO_KEY: Record<string, string> = {
   "private-ai-infrastructure": "privateAi",
@@ -93,12 +94,14 @@ export default async function ServicePage({ params }: { params: Promise<{ slug: 
       </div>
 
       <div className="mt-8 text-center">
-        <Link
+        <TrackedLink
           href="/contact"
+          kind="cta_click"
+          slug={slug}
           className="glass-button inline-flex items-center gap-2 px-10 py-4 text-white font-montserrat-bold text-sm uppercase tracking-[0.25em]"
         >
           {t("services.detail.inquireCta")}
-        </Link>
+        </TrackedLink>
       </div>
     </div>
   );

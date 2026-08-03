@@ -214,4 +214,4 @@ Costul de hosting al backend-ului FastAPI stă complet în afara acestui calcul 
 
 ---
 
-Dacă echipa ta conectează LLM-uri la sisteme interne și vrea ca gateway-ul și backend-ul să fie construite corect din prima — [ia legătura](https://thinkflow.ro/ro/contact).
+Dacă echipa ta conectează LLM-uri la sisteme interne și vrea ca gateway-ul și backend-ul să fie construite corect din prima — [ia legătura](https://thinkflow.ro/ro/contact?src=mcp-server-cloudflare-workers-fastapi).

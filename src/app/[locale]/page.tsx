@@ -4,6 +4,7 @@ import { useTranslations } from "next-intl";
 import { Link } from "@/i18n/navigation";
 import { useScrollReveal } from "@/hooks/useScrollReveal";
 import { useCountUp } from "@/hooks/useCountUp";
+import { track } from "@/lib/track";
 
 const services = [
   { slug: "private-ai-infrastructure", href: "/services/private-ai-infrastructure" },
@@ -375,11 +376,6 @@ export default function HomePage() {
                 {t("home.auditButton")}
               </p>
               <div className="space-y-4">
-                <input
-                  type="email"
-                  placeholder={t("home.auditEmailPlaceholder")}
-                  className="w-full px-8 py-5 bg-black/40 border border-white/5 rounded-2xl text-xs font-bold uppercase tracking-widest focus:outline-none focus:border-[#3b82f6]/40 focus:ring-1 focus:ring-[#3b82f6]/10 transition-all placeholder:text-white/10"
-                />
                 <ShimmerButton href="/contact">{t("home.auditButtonAlt")}</ShimmerButton>
               </div>
               <p className="mt-8 text-[8px] font-montserrat-regular text-white/10 leading-relaxed uppercase tracking-[0.3em]">
@@ -420,6 +416,7 @@ export default function HomePage() {
                       target="_blank"
                       rel="noopener noreferrer sponsored nofollow"
                       className="text-sm text-[#3b82f6] underline font-montserrat-bold"
+                      onClick={() => track("fiverr_click", s.slug)}
                     >
                       {t("services.viewOnFiverr")}
                     </a>

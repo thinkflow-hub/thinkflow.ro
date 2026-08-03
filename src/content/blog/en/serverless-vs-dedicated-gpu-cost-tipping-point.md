@@ -173,4 +173,4 @@ Traffic flat and forecastable month over month?
 
 The only input that matters here is request volume and its distribution across the day — not team size, not funding stage, not what a competitor is running.
 
-If your team is hitting serverless cost walls, we design and build the hybrid architecture that eliminates them — [get in touch](https://thinkflow.ro/contact).
+If your team is hitting serverless cost walls, we design and build the hybrid architecture that eliminates them — [get in touch](https://thinkflow.ro/contact?src=serverless-vs-dedicated-gpu-cost-tipping-point).

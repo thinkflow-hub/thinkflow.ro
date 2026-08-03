@@ -487,4 +487,4 @@ In July 2026, a Hetzner GEX44 at €232/month delivers better inference performa
 
 The migration is not free. It costs 3–4 weeks of engineering time, requires Docker/Terraform discipline, and demands a rollback plan. At $28K/year in savings, ROI pays back in under two weeks.
 
-If the AWS GPU line item on the monthly bill looks familiar, we run this exact audit as a fixed-fee engagement: [Cloud Cost & Migration Audit →](https://thinkflow.ro/services/cloud-cost-migration-audit) — a line-item review of your bill, a benchmarked migration plan, and projected savings backed by real numbers, not a vendor slide. Prefer to just talk first? [Contact us](https://thinkflow.ro/contact).
+If the AWS GPU line item on the monthly bill looks familiar, we run this exact audit as a fixed-fee engagement: [Cloud Cost & Migration Audit →](https://thinkflow.ro/services/cloud-cost-migration-audit) — a line-item review of your bill, a benchmarked migration plan, and projected savings backed by real numbers, not a vendor slide. Prefer to just talk first? [Contact us](https://thinkflow.ro/contact?src=2026-cloud-exit-guide-aws-hetzner).
