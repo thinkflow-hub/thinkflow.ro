@@ -8,7 +8,11 @@ const BREVO_API_URL = "https://api.brevo.com/v3/smtp/email";
 const SENDER = { name: "ThinkFLOW", email: process.env.BREVO_SENDER_EMAIL || "contact@thinkflow.ro" };
 
 export async function POST(request: Request) {
-  const { name, email, subject, message: rawMessage, consent } = await request.json().catch(() => ({}));
+  const { name, email, subject, message: rawMessage, consent, locale: rawLocale } =
+    await request.json().catch(() => ({}));
+
+  // Only ever store a locale the site actually serves; anything else is client input.
+  const locale = rawLocale === "ro" ? "ro" : "en";
 
   if (!name || !email || !rawMessage) {
     return NextResponse.json({ error: "Name, email, and message are required." }, { status: 400 });
@@ -25,7 +29,7 @@ export async function POST(request: Request) {
       subject: subject || null,
       message: rawMessage,
       consent,
-      locale: "en",
+      locale,
       source: "contact_form",
     } as never);
     dbOk = !dbError;
