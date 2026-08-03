@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 440" font-family="Montserrat, Arial, sans-serif">
+  <rect x="0" y="0" width="900" height="440" fill="#0a0a0f" rx="12"/>
+  <text x="450" y="36" text-anchor="middle" fill="rgba(255,255,255,0.6)" font-size="13" font-weight="700" letter-spacing="1.5">FINDING BAD VALUES WITHOUT KNOWING THE RIGHT ANSWER</text>
+
+  <rect x="60" y="76" width="360" height="112" rx="8" fill="rgba(239,68,68,0.08)" stroke="rgba(239,68,68,0.35)" stroke-width="1.2"/>
+  <text x="240" y="102" text-anchor="middle" fill="#fca5a5" font-size="13.5" font-weight="700">Range check alone</text>
+  <text x="240" y="128" text-anchor="middle" fill="rgba(255,255,255,0.55)" font-size="12">flag everything under €250</text>
+  <text x="240" y="152" text-anchor="middle" fill="rgba(255,255,255,0.4)" font-size="11.5">catches truncated rows — and every</text>
+  <text x="240" y="170" text-anchor="middle" fill="rgba(255,255,255,0.4)" font-size="11.5">legitimately cheap listing with them</text>
+
+  <rect x="480" y="76" width="360" height="112" rx="8" fill="rgba(34,197,94,0.08)" stroke="rgba(34,197,94,0.4)" stroke-width="1.2"/>
+  <text x="660" y="102" text-anchor="middle" fill="#86efac" font-size="13.5" font-weight="700">Cross-reference the source</text>
+  <text x="660" y="128" text-anchor="middle" fill="rgba(255,255,255,0.55)" font-size="12">is the stored price present in the raw text?</text>
+  <text x="660" y="152" text-anchor="middle" fill="rgba(255,255,255,0.4)" font-size="11.5">the description is written once and never</text>
+  <text x="660" y="170" text-anchor="middle" fill="rgba(255,255,255,0.4)" font-size="11.5">updated — it still holds the original</text>
+
+  <rect x="60" y="216" width="780" height="86" rx="8" fill="rgba(255,255,255,0.04)" stroke="rgba(255,255,255,0.14)" stroke-width="1"/>
+  <text x="82" y="242" fill="rgba(255,255,255,0.75)" font-size="12.5" font-weight="700">stored</text>
+  <text x="82" y="268" fill="#fca5a5" font-family="Consolas, monospace" font-size="16" font-weight="700">230</text>
+  <text x="200" y="242" fill="rgba(255,255,255,0.75)" font-size="12.5" font-weight="700">amounts found in description</text>
+  <text x="200" y="268" fill="#86efac" font-family="Consolas, monospace" font-size="16" font-weight="700">{ 1230 }</text>
+  <text x="470" y="268" fill="rgba(255,255,255,0.5)" font-size="13">→ stored value is not among them</text>
+  <text x="710" y="268" fill="#fca5a5" font-size="13" font-weight="700">SUSPECT</text>
+
+  <rect x="60" y="322" width="780" height="56" rx="8" fill="rgba(59,130,246,0.10)" stroke="rgba(59,130,246,0.4)" stroke-width="1.2"/>
+  <text x="450" y="346" text-anchor="middle" fill="#93c5fd" font-size="13.5" font-weight="700">Tighten the predicate until false positives reach zero</text>
+  <text x="450" y="367" text-anchor="middle" fill="rgba(255,255,255,0.55)" font-size="12">first pass (value not in description): 25 rows, some legitimate · strict rule (stored == real % 1000): 9 rows, 0 false</text>
+
+  <text x="450" y="412" text-anchor="middle" fill="rgba(255,255,255,0.42)" font-size="12.5">A repair script that is 60% correct creates a second generation of corruption with no original left to compare against.</text>
+</svg>

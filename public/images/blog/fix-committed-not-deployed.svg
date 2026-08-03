@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 450" font-family="Montserrat, Arial, sans-serif">
+  <rect x="0" y="0" width="900" height="450" fill="#0a0a0f" rx="12"/>
+  <text x="450" y="36" text-anchor="middle" fill="rgba(255,255,255,0.6)" font-size="13" font-weight="700" letter-spacing="1.5">A FIX THAT IS NOT DEPLOYED IS NOT A FIX</text>
+
+  <line x1="90" y1="212" x2="810" y2="212" stroke="rgba(255,255,255,0.14)" stroke-width="2"/>
+
+  <g font-size="11.5">
+    <line x1="150" y1="200" x2="150" y2="224" stroke="rgba(239,68,68,0.7)" stroke-width="2"/>
+    <text x="150" y="244" text-anchor="middle" fill="rgba(255,255,255,0.5)">Jul 25</text>
+    <text x="150" y="182" text-anchor="middle" fill="#fca5a5" font-size="12.5" font-weight="700">first bad row</text>
+
+    <line x1="330" y1="200" x2="330" y2="224" stroke="rgba(34,197,94,0.8)" stroke-width="2.5"/>
+    <text x="330" y="244" text-anchor="middle" fill="rgba(255,255,255,0.5)">Jul 26</text>
+    <text x="330" y="164" text-anchor="middle" fill="#86efac" font-size="12.5" font-weight="700">regex fixed</text>
+    <text x="330" y="147" text-anchor="middle" fill="rgba(255,255,255,0.4)" font-size="11">14:44 · committed, tests green</text>
+
+    <line x1="510" y1="200" x2="510" y2="224" stroke="rgba(239,68,68,0.7)" stroke-width="2"/>
+    <text x="510" y="244" text-anchor="middle" fill="rgba(255,255,255,0.5)">Jul 27</text>
+    <text x="510" y="182" text-anchor="middle" fill="#fca5a5" font-size="12.5" font-weight="700">six more bad rows</text>
+
+    <line x1="690" y1="200" x2="690" y2="224" stroke="rgba(59,130,246,0.85)" stroke-width="2.5"/>
+    <text x="690" y="244" text-anchor="middle" fill="rgba(255,255,255,0.5)">Jul 28</text>
+    <text x="690" y="164" text-anchor="middle" fill="#93c5fd" font-size="12.5" font-weight="700">restarted by accident</text>
+    <text x="690" y="131" text-anchor="middle" fill="rgba(255,255,255,0.4)" font-size="11">21:59 · a watchdog bug spawned</text>
+    <text x="690" y="147" text-anchor="middle" fill="rgba(255,255,255,0.4)" font-size="11">fresh copies of every service</text>
+  </g>
+
+  <rect x="150" y="272" width="360" height="30" rx="4" fill="rgba(239,68,68,0.16)" stroke="rgba(239,68,68,0.5)" stroke-width="1.2"/>
+  <text x="330" y="292" text-anchor="middle" fill="#fca5a5" font-size="12.5" font-weight="700">9 rows corrupted</text>
+
+  <rect x="330" y="314" width="360" height="28" rx="4" fill="rgba(255,255,255,0.05)" stroke="rgba(255,255,255,0.18)" stroke-width="1"/>
+  <text x="510" y="333" text-anchor="middle" fill="rgba(255,255,255,0.55)" font-size="12">correct code on disk · old bytecode in memory</text>
+
+  <text x="450" y="374" text-anchor="middle" fill="rgba(255,255,255,0.75)" font-size="13.5" font-weight="700">Six of the nine were written the day after the fix was committed.</text>
+  <text x="450" y="400" text-anchor="middle" fill="rgba(255,255,255,0.45)" font-size="12.5">CI was green. The commit was in. Every tool said done.</text>
+  <text x="450" y="424" text-anchor="middle" fill="rgba(255,255,255,0.45)" font-size="12.5">The long-running process had imported the module once, at startup, and never looked again.</text>
+</svg>

@@ -1,0 +1,67 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 440" font-family="Montserrat, Arial, sans-serif">
+  <rect x="0" y="0" width="900" height="440" fill="#0a0a0f" rx="12"/>
+  <text x="450" y="36" text-anchor="middle" fill="rgba(255,255,255,0.6)" font-size="13" font-weight="700" letter-spacing="1.5">THE CORRUPTION WAS NOT RANDOM — IT MOVED PREMIUM INTO CHEAP</text>
+
+  <text x="96" y="92" fill="rgba(255,255,255,0.5)" font-size="11.5" font-weight="700">REAL PRICE</text>
+  <text x="96" y="254" fill="rgba(255,255,255,0.5)" font-size="11.5" font-weight="700">STORED PRICE</text>
+
+  <defs>
+    <marker id="ar" markerWidth="7" markerHeight="7" refX="5" refY="3" orient="auto">
+      <path d="M0,0 L6,3 L0,6 z" fill="rgba(239,68,68,0.6)"/>
+    </marker>
+  </defs>
+
+  <g font-family="Consolas, monospace" font-size="12.5">
+    <rect x="190" y="72" width="76" height="30" rx="4" fill="rgba(148,163,184,0.12)" stroke="rgba(148,163,184,0.35)" stroke-width="1"/>
+    <text x="228" y="92" text-anchor="middle" fill="rgba(255,255,255,0.8)">€1,050</text>
+    <rect x="274" y="72" width="76" height="30" rx="4" fill="rgba(148,163,184,0.12)" stroke="rgba(148,163,184,0.35)" stroke-width="1"/>
+    <text x="312" y="92" text-anchor="middle" fill="rgba(255,255,255,0.8)">€1,100</text>
+    <rect x="358" y="72" width="76" height="30" rx="4" fill="rgba(148,163,184,0.12)" stroke="rgba(148,163,184,0.35)" stroke-width="1"/>
+    <text x="396" y="92" text-anchor="middle" fill="rgba(255,255,255,0.8)">€1,230</text>
+    <rect x="442" y="72" width="76" height="30" rx="4" fill="rgba(148,163,184,0.12)" stroke="rgba(148,163,184,0.35)" stroke-width="1"/>
+    <text x="480" y="92" text-anchor="middle" fill="rgba(255,255,255,0.8)">€1,399</text>
+    <rect x="526" y="72" width="76" height="30" rx="4" fill="rgba(148,163,184,0.12)" stroke="rgba(148,163,184,0.35)" stroke-width="1"/>
+    <text x="564" y="92" text-anchor="middle" fill="rgba(255,255,255,0.8)">€1,449</text>
+    <rect x="610" y="72" width="76" height="30" rx="4" fill="rgba(148,163,184,0.12)" stroke="rgba(148,163,184,0.35)" stroke-width="1"/>
+    <text x="648" y="92" text-anchor="middle" fill="rgba(255,255,255,0.8)">€1,500</text>
+    <rect x="694" y="72" width="76" height="30" rx="4" fill="rgba(148,163,184,0.12)" stroke="rgba(148,163,184,0.35)" stroke-width="1"/>
+    <text x="732" y="92" text-anchor="middle" fill="rgba(255,255,255,0.8)">€1,600</text>
+  </g>
+
+  <text x="312" y="118" text-anchor="middle" fill="rgba(255,255,255,0.38)" font-size="10.5">seen 3×</text>
+
+  <g stroke="rgba(239,68,68,0.45)" stroke-width="1.6">
+    <line x1="228" y1="126" x2="228" y2="236" marker-end="url(#ar)"/>
+    <line x1="312" y1="126" x2="312" y2="236" marker-end="url(#ar)"/>
+    <line x1="396" y1="126" x2="396" y2="236" marker-end="url(#ar)"/>
+    <line x1="480" y1="126" x2="480" y2="236" marker-end="url(#ar)"/>
+    <line x1="564" y1="126" x2="564" y2="236" marker-end="url(#ar)"/>
+    <line x1="648" y1="126" x2="648" y2="236" marker-end="url(#ar)"/>
+    <line x1="732" y1="126" x2="732" y2="236" marker-end="url(#ar)"/>
+  </g>
+  <text x="800" y="186" fill="rgba(239,68,68,0.7)" font-size="11.5" font-weight="700">last 3 digits</text>
+
+  <g font-family="Consolas, monospace" font-size="12.5">
+    <rect x="190" y="242" width="76" height="30" rx="4" fill="rgba(239,68,68,0.16)" stroke="rgba(239,68,68,0.5)" stroke-width="1"/>
+    <text x="228" y="262" text-anchor="middle" fill="#fca5a5">€50</text>
+    <rect x="274" y="242" width="76" height="30" rx="4" fill="rgba(239,68,68,0.16)" stroke="rgba(239,68,68,0.5)" stroke-width="1"/>
+    <text x="312" y="262" text-anchor="middle" fill="#fca5a5">€100</text>
+    <rect x="358" y="242" width="76" height="30" rx="4" fill="rgba(239,68,68,0.16)" stroke="rgba(239,68,68,0.5)" stroke-width="1"/>
+    <text x="396" y="262" text-anchor="middle" fill="#fca5a5">€230</text>
+    <rect x="442" y="242" width="76" height="30" rx="4" fill="rgba(239,68,68,0.16)" stroke="rgba(239,68,68,0.5)" stroke-width="1"/>
+    <text x="480" y="262" text-anchor="middle" fill="#fca5a5">€399</text>
+    <rect x="526" y="242" width="76" height="30" rx="4" fill="rgba(239,68,68,0.16)" stroke="rgba(239,68,68,0.5)" stroke-width="1"/>
+    <text x="564" y="262" text-anchor="middle" fill="#fca5a5">€449</text>
+    <rect x="610" y="242" width="76" height="30" rx="4" fill="rgba(239,68,68,0.16)" stroke="rgba(239,68,68,0.5)" stroke-width="1"/>
+    <text x="648" y="262" text-anchor="middle" fill="#fca5a5">€500</text>
+    <rect x="694" y="242" width="76" height="30" rx="4" fill="rgba(239,68,68,0.16)" stroke="rgba(239,68,68,0.5)" stroke-width="1"/>
+    <text x="732" y="262" text-anchor="middle" fill="#fca5a5">€600</text>
+  </g>
+
+  <rect x="120" y="300" width="660" height="64" rx="8" fill="rgba(59,130,246,0.10)" stroke="rgba(59,130,246,0.4)" stroke-width="1.2"/>
+  <text x="450" y="326" text-anchor="middle" fill="#93c5fd" font-size="14" font-weight="700">Every corrupted row landed in the &quot;cheapest first&quot; results</text>
+  <text x="450" y="348" text-anchor="middle" fill="rgba(255,255,255,0.6)" font-size="12">A filter for &quot;under €500&quot; returned seven apartments that were never under €500.</text>
+
+  <text x="450" y="398" text-anchor="middle" fill="rgba(255,255,255,0.75)" font-size="13.5" font-weight="700">The corruption surfaced at the exact moment of a decision — and always as an opportunity.</text>
+  <text x="450" y="422" text-anchor="middle" fill="rgba(255,255,255,0.4)" font-size="12">9 rows out of 999. Under 1%. Every one of them a premium listing.</text>
+</svg>

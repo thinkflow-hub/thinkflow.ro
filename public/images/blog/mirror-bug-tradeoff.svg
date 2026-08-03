@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 430" font-family="Montserrat, Arial, sans-serif">
+  <rect x="0" y="0" width="900" height="430" fill="#0a0a0f" rx="12"/>
+  <text x="450" y="36" text-anchor="middle" fill="rgba(255,255,255,0.6)" font-size="13" font-weight="700" letter-spacing="1.5">ONE CHARACTER APART: DROPPED DIGITS vs INVENTED DIGITS</text>
+
+  <rect x="56" y="76" width="384" height="164" rx="8" fill="rgba(239,68,68,0.08)" stroke="rgba(239,68,68,0.38)" stroke-width="1.2"/>
+  <text x="248" y="102" text-anchor="middle" fill="#fca5a5" font-size="13.5" font-weight="700">Without NBSP in the class</text>
+  <text x="248" y="134" text-anchor="middle" fill="rgba(255,255,255,0.85)" font-family="Consolas, monospace" font-size="16">1&#160;600 €</text>
+  <text x="248" y="156" text-anchor="middle" fill="rgba(255,255,255,0.35)" font-size="11">(non-breaking space, as the site emits it)</text>
+  <text x="248" y="192" text-anchor="middle" fill="#fca5a5" font-family="Consolas, monospace" font-size="24" font-weight="800">→ 600</text>
+  <text x="248" y="220" text-anchor="middle" fill="rgba(255,255,255,0.5)" font-size="12">digits dropped · undercounts by 1,000</text>
+
+  <rect x="460" y="76" width="384" height="164" rx="8" fill="rgba(251,146,60,0.08)" stroke="rgba(251,146,60,0.4)" stroke-width="1.2"/>
+  <text x="652" y="102" text-anchor="middle" fill="#fdba74" font-size="13.5" font-weight="700">With ASCII space in the class</text>
+  <text x="652" y="134" text-anchor="middle" fill="rgba(255,255,255,0.85)" font-family="Consolas, monospace" font-size="16">1 / 13 500 €</text>
+  <text x="652" y="156" text-anchor="middle" fill="rgba(255,255,255,0.35)" font-size="11">(photo counter glued to price in card text)</text>
+  <text x="652" y="192" text-anchor="middle" fill="#fdba74" font-family="Consolas, monospace" font-size="24" font-weight="800">→ 13,500</text>
+  <text x="652" y="220" text-anchor="middle" fill="rgba(255,255,255,0.5)" font-size="12">digits invented · overcounts by 27×</text>
+
+  <rect x="150" y="272" width="600" height="72" rx="8" fill="rgba(34,197,94,0.09)" stroke="rgba(34,197,94,0.42)" stroke-width="1.2"/>
+  <text x="450" y="298" text-anchor="middle" fill="#86efac" font-size="13.5" font-weight="700">The resolution: ask what each character means, not what it looks like</text>
+  <text x="450" y="322" text-anchor="middle" fill="rgba(255,255,255,0.6)" font-size="12">NBSP is typographic — sites emit it inside a price, deliberately. A plain space comes from prose and concatenated DOM text.</text>
+
+  <text x="450" y="378" text-anchor="middle" fill="rgba(255,255,255,0.85)" font-family="Consolas, monospace" font-size="15" font-weight="700">_THOUSANDS_SEP = ".,   "</text>
+  <text x="450" y="402" text-anchor="middle" fill="rgba(255,255,255,0.4)" font-size="11.5">NBSP · narrow NBSP · thin space — and deliberately no ASCII space</text>
+</svg>
