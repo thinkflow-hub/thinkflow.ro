@@ -1,12 +1,33 @@
 {
   "date": "2026-08-02",
-  "generated_at": "2026-08-03T05:00:08.469934+00:00",
+  "generated_at": "2026-08-03T09:03:52.059817+00:00",
   "results": {
     "hn_show_ai_7d": {
       "verification_status": "unconfirmed",
       "sources_count": 1,
       "sources": [
         "Show HN AI 7d"
+      ]
+    },
+    "hn_ai_24h": {
+      "verification_status": "unconfirmed",
+      "sources_count": 1,
+      "sources": [
+        "HN top AI 24h"
+      ]
+    },
+    "ggml_releases": {
+      "verification_status": "unconfirmed",
+      "sources_count": 1,
+      "sources": [
+        "ggml/llama.cpp releases"
+      ]
+    },
+    "hn_llm_24h": {
+      "verification_status": "unconfirmed",
+      "sources_count": 1,
+      "sources": [
+        "HN top LLM 24h"
       ]
     },
     "marktechpost": {

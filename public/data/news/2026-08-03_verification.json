@@ -1,14 +1,7 @@
 {
-  "date": "2026-08-01",
+  "date": "2026-08-03",
   "generated_at": "2026-08-03T09:03:52.059817+00:00",
   "results": {
-    "openai_blog": {
-      "verification_status": "unconfirmed",
-      "sources_count": 1,
-      "sources": [
-        "OpenAI Blog"
-      ]
-    },
     "hn_ai_24h": {
       "verification_status": "unconfirmed",
       "sources_count": 1,
@@ -23,18 +16,11 @@
         "ggml/llama.cpp releases"
       ]
     },
-    "marktechpost": {
+    "arxiv_cs_cl": {
       "verification_status": "unconfirmed",
       "sources_count": 1,
       "sources": [
-        "MarkTechPost"
-      ]
-    },
-    "latent_space": {
-      "verification_status": "unconfirmed",
-      "sources_count": 1,
-      "sources": [
-        "Latent Space (Substack)"
+        "ArXiv cs.CL (Computation and Language / NLP)"
       ]
     }
   }
