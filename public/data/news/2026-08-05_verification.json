@@ -1,19 +1,12 @@
 {
-  "date": "2026-08-02",
+  "date": "2026-08-05",
   "generated_at": "2026-08-05T09:03:23.045981+00:00",
   "results": {
-    "hn_show_ai_7d": {
+    "latent_space": {
       "verification_status": "unconfirmed",
       "sources_count": 1,
       "sources": [
-        "Show HN AI 7d"
-      ]
-    },
-    "hn_ai_24h": {
-      "verification_status": "unconfirmed",
-      "sources_count": 1,
-      "sources": [
-        "HN top AI 24h"
+        "Latent Space (Substack)"
       ]
     },
     "ggml_releases": {
@@ -23,11 +16,11 @@
         "ggml/llama.cpp releases"
       ]
     },
-    "hn_llm_24h": {
+    "arxiv_cs_cl": {
       "verification_status": "unconfirmed",
       "sources_count": 1,
       "sources": [
-        "HN top LLM 24h"
+        "ArXiv cs.CL (Computation and Language / NLP)"
       ]
     }
   }

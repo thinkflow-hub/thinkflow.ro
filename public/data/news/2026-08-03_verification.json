@@ -1,7 +1,23 @@
 {
   "date": "2026-08-03",
-  "generated_at": "2026-08-05T05:00:09.202772+00:00",
+  "generated_at": "2026-08-05T09:03:23.044979+00:00",
   "results": {
+    "google_ai_blog": {
+      "verification_status": "verified",
+      "sources_count": 2,
+      "sources": [
+        "HN top LLM 24h",
+        "Google AI Blog"
+      ]
+    },
+    "hn_llm_24h": {
+      "verification_status": "verified",
+      "sources_count": 2,
+      "sources": [
+        "HN top LLM 24h",
+        "HN top AI 24h"
+      ]
+    },
     "openai_blog": {
       "verification_status": "unconfirmed",
       "sources_count": 1,
@@ -13,14 +29,6 @@
       "verification_status": "unconfirmed",
       "sources_count": 1,
       "sources": [
-        "HN top AI 24h"
-      ]
-    },
-    "hn_llm_24h": {
-      "verification_status": "verified",
-      "sources_count": 2,
-      "sources": [
-        "HN top LLM 24h",
         "HN top AI 24h"
       ]
     },
