@@ -1,7 +1,21 @@
 {
   "date": "2026-08-04",
-  "generated_at": "2026-08-06T05:00:08.304884+00:00",
+  "generated_at": "2026-08-06T09:28:18.278646+00:00",
   "results": {
+    "ollama_releases": {
+      "verification_status": "unconfirmed",
+      "sources_count": 1,
+      "sources": [
+        "Ollama releases"
+      ]
+    },
+    "hn_ai_24h": {
+      "verification_status": "unconfirmed",
+      "sources_count": 1,
+      "sources": [
+        "HN top AI 24h"
+      ]
+    },
     "openai_blog": {
       "verification_status": "verified",
       "sources_count": 2,
@@ -29,20 +43,6 @@
       "sources_count": 1,
       "sources": [
         "Hugging Face Blog"
-      ]
-    },
-    "hn_ai_24h": {
-      "verification_status": "unconfirmed",
-      "sources_count": 1,
-      "sources": [
-        "HN top AI 24h"
-      ]
-    },
-    "ollama_releases": {
-      "verification_status": "unconfirmed",
-      "sources_count": 1,
-      "sources": [
-        "Ollama releases"
       ]
     },
     "ggml_releases": {

@@ -1,33 +1,12 @@
 {
-  "date": "2026-08-05",
+  "date": "2026-08-06",
   "generated_at": "2026-08-06T09:28:18.278646+00:00",
   "results": {
-    "trending_agent": {
+    "latent_space": {
       "verification_status": "unconfirmed",
       "sources_count": 1,
       "sources": [
-        "GitHub Trending — AI Agents"
-      ]
-    },
-    "trending_ai": {
-      "verification_status": "unconfirmed",
-      "sources_count": 1,
-      "sources": [
-        "GitHub Trending — AI"
-      ]
-    },
-    "hn_llm_24h": {
-      "verification_status": "unconfirmed",
-      "sources_count": 1,
-      "sources": [
-        "HN top LLM 24h"
-      ]
-    },
-    "hn_ai_24h": {
-      "verification_status": "unconfirmed",
-      "sources_count": 1,
-      "sources": [
-        "HN top AI 24h"
+        "Latent Space (Substack)"
       ]
     },
     "ggml_releases": {
@@ -37,11 +16,11 @@
         "ggml/llama.cpp releases"
       ]
     },
-    "latent_space": {
+    "hn_llm_24h": {
       "verification_status": "unconfirmed",
       "sources_count": 1,
       "sources": [
-        "Latent Space (Substack)"
+        "HN top LLM 24h"
       ]
     },
     "arxiv_cs_cl": {
