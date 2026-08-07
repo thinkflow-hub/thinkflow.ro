@@ -1,62 +1,12 @@
 {
   "date": "2026-08-03",
-  "generated_at": "2026-08-07T05:00:07.914879+00:00",
+  "generated_at": "2026-08-07T09:03:45.257795+00:00",
   "results": {
     "google_ai_blog": {
-      "verification_status": "verified",
-      "sources_count": 2,
-      "sources": [
-        "Google AI Blog",
-        "HN top LLM 24h"
-      ]
-    },
-    "hn_llm_24h": {
       "verification_status": "unconfirmed",
       "sources_count": 1,
       "sources": [
-        "HN top LLM 24h"
-      ]
-    },
-    "openai_blog": {
-      "verification_status": "unconfirmed",
-      "sources_count": 1,
-      "sources": [
-        "OpenAI Blog"
-      ]
-    },
-    "nousresearch_releases": {
-      "verification_status": "unconfirmed",
-      "sources_count": 1,
-      "sources": [
-        "NousResearch releases"
-      ]
-    },
-    "hn_ai_24h": {
-      "verification_status": "unconfirmed",
-      "sources_count": 1,
-      "sources": [
-        "HN top AI 24h"
-      ]
-    },
-    "hn_show_ai_7d": {
-      "verification_status": "unconfirmed",
-      "sources_count": 1,
-      "sources": [
-        "Show HN AI 7d"
-      ]
-    },
-    "latent_space": {
-      "verification_status": "unconfirmed",
-      "sources_count": 1,
-      "sources": [
-        "Latent Space (Substack)"
-      ]
-    },
-    "import_ai": {
-      "verification_status": "unconfirmed",
-      "sources_count": 1,
-      "sources": [
-        "Import AI (Jack Clark)"
+        "Google AI Blog"
       ]
     }
   }

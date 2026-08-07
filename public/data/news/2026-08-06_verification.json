@@ -1,12 +1,33 @@
 {
   "date": "2026-08-06",
-  "generated_at": "2026-08-07T05:00:07.914879+00:00",
+  "generated_at": "2026-08-07T09:03:45.256794+00:00",
   "results": {
-    "latent_space": {
+    "openai_blog": {
       "verification_status": "unconfirmed",
       "sources_count": 1,
       "sources": [
-        "Latent Space (Substack)"
+        "OpenAI Blog"
+      ]
+    },
+    "deepmind_blog": {
+      "verification_status": "unconfirmed",
+      "sources_count": 1,
+      "sources": [
+        "DeepMind Blog"
+      ]
+    },
+    "hn_llm_24h": {
+      "verification_status": "unconfirmed",
+      "sources_count": 1,
+      "sources": [
+        "HN top LLM 24h"
+      ]
+    },
+    "hn_ai_24h": {
+      "verification_status": "unconfirmed",
+      "sources_count": 1,
+      "sources": [
+        "HN top AI 24h"
       ]
     },
     "ggml_releases": {
@@ -16,11 +37,11 @@
         "ggml/llama.cpp releases"
       ]
     },
-    "hn_llm_24h": {
+    "latent_space": {
       "verification_status": "unconfirmed",
       "sources_count": 1,
       "sources": [
-        "HN top LLM 24h"
+        "Latent Space (Substack)"
       ]
     },
     "arxiv_cs_cl": {

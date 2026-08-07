@@ -1,6 +1,6 @@
 {
   "date": "2026-08-04",
-  "generated_at": "2026-08-07T05:00:07.914879+00:00",
+  "generated_at": "2026-08-07T09:03:45.256794+00:00",
   "results": {
     "ollama_releases": {
       "verification_status": "unconfirmed",
@@ -20,14 +20,15 @@
       "verification_status": "verified",
       "sources_count": 2,
       "sources": [
-        "Latent Space (Substack)",
-        "OpenAI Blog"
+        "OpenAI Blog",
+        "Latent Space (Substack)"
       ]
     },
     "latent_space": {
-      "verification_status": "unconfirmed",
-      "sources_count": 1,
+      "verification_status": "verified",
+      "sources_count": 2,
       "sources": [
+        "OpenAI Blog",
         "Latent Space (Substack)"
       ]
     },
@@ -57,13 +58,6 @@
       "sources_count": 1,
       "sources": [
         "HN top LLM 24h"
-      ]
-    },
-    "arxiv_cs_cl": {
-      "verification_status": "unconfirmed",
-      "sources_count": 1,
-      "sources": [
-        "ArXiv cs.CL (Computation and Language / NLP)"
       ]
     }
   }
