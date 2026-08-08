@@ -1,6 +1,6 @@
 {
   "date": "2026-08-07",
-  "generated_at": "2026-08-08T09:03:00.681780+00:00",
+  "generated_at": "2026-08-08T13:00:07.115912+00:00",
   "results": {
     "openai_blog": {
       "verification_status": "unconfirmed",
@@ -34,8 +34,8 @@
       "verification_status": "verified",
       "sources_count": 2,
       "sources": [
-        "ggml/llama.cpp releases",
-        "Latent Space (Substack)"
+        "Latent Space (Substack)",
+        "ggml/llama.cpp releases"
       ]
     },
     "hn_llm_24h": {
