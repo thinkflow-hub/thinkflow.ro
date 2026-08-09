@@ -1,7 +1,28 @@
 {
   "date": "2026-08-08",
-  "generated_at": "2026-08-09T05:00:04.778654+00:00",
+  "generated_at": "2026-08-09T13:01:43.342571+00:00",
   "results": {
+    "hn_ai_24h": {
+      "verification_status": "unconfirmed",
+      "sources_count": 1,
+      "sources": [
+        "HN top AI 24h"
+      ]
+    },
+    "ggml_releases": {
+      "verification_status": "unconfirmed",
+      "sources_count": 1,
+      "sources": [
+        "ggml/llama.cpp releases"
+      ]
+    },
+    "marktechpost": {
+      "verification_status": "unconfirmed",
+      "sources_count": 1,
+      "sources": [
+        "MarkTechPost"
+      ]
+    },
     "trending_agent": {
       "verification_status": "unconfirmed",
       "sources_count": 1,
@@ -14,13 +35,6 @@
       "sources_count": 1,
       "sources": [
         "Latent Space (Substack)"
-      ]
-    },
-    "marktechpost": {
-      "verification_status": "unconfirmed",
-      "sources_count": 1,
-      "sources": [
-        "MarkTechPost"
       ]
     }
   }
