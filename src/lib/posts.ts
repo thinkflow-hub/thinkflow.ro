@@ -60,6 +60,7 @@ function buildMeta(slug: string, data: Record<string, unknown>, content: string,
   const category = (data.category as string) || CATEGORY_FALLBACK[resolvedLocale] || CATEGORY_FALLBACK.en;
   const tags = (data.tags as string[]) || [];
   const affiliatePrograms = (data.affiliatePrograms as string[]) || [];
+  const customImage = (data.image as string) || "";
   return {
     slug,
     title,
@@ -69,7 +70,7 @@ function buildMeta(slug: string, data: Record<string, unknown>, content: string,
     tags,
     affiliatePrograms,
     readingTime: Math.max(1, Math.ceil(wordCount / 200)),
-    image: buildOgImageUrl({ title, category, tags, affiliatePrograms }),
+    image: customImage || buildOgImageUrl({ title, category, tags, affiliatePrograms }),
     verification: parseVerification(data.verification),
   };
 }
