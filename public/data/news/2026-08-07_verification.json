@@ -1,6 +1,6 @@
 {
   "date": "2026-08-07",
-  "generated_at": "2026-08-10T05:00:04.734562+00:00",
+  "generated_at": "2026-08-10T09:04:02.203631+00:00",
   "results": {
     "hn_show_ai_7d": {
       "verification_status": "unconfirmed",
@@ -37,14 +37,6 @@
         "ggml/llama.cpp releases"
       ]
     },
-    "latent_space": {
-      "verification_status": "verified",
-      "sources_count": 2,
-      "sources": [
-        "ggml/llama.cpp releases",
-        "Latent Space (Substack)"
-      ]
-    },
     "hn_llm_24h": {
       "verification_status": "unconfirmed",
       "sources_count": 1,
@@ -64,13 +56,6 @@
       "sources_count": 1,
       "sources": [
         "MarkTechPost"
-      ]
-    },
-    "arxiv_cs_cl": {
-      "verification_status": "unconfirmed",
-      "sources_count": 1,
-      "sources": [
-        "ArXiv cs.CL (Computation and Language / NLP)"
       ]
     }
   }
