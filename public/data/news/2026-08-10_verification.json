@@ -1,12 +1,73 @@
 {
   "date": "2026-08-10",
-  "generated_at": "2026-08-11T05:00:04.960952+00:00",
+  "generated_at": "2026-08-11T09:03:38.867052+00:00",
   "results": {
+    "openai_blog": {
+      "verification_status": "verified",
+      "sources_count": 2,
+      "sources": [
+        "OpenAI Blog",
+        "ArXiv cs.CL (Computation and Language / NLP)"
+      ]
+    },
+    "hn_ai_24h": {
+      "verification_status": "verified",
+      "sources_count": 2,
+      "sources": [
+        "ArXiv cs.CL (Computation and Language / NLP)",
+        "HN top AI 24h"
+      ]
+    },
     "arxiv_cs_cl": {
       "verification_status": "unconfirmed",
       "sources_count": 1,
       "sources": [
         "ArXiv cs.CL (Computation and Language / NLP)"
+      ]
+    },
+    "google_ai_blog": {
+      "verification_status": "verified",
+      "sources_count": 2,
+      "sources": [
+        "Google AI Blog",
+        "ArXiv cs.CL (Computation and Language / NLP)"
+      ]
+    },
+    "huggingface_blog": {
+      "verification_status": "verified",
+      "sources_count": 2,
+      "sources": [
+        "ArXiv cs.CL (Computation and Language / NLP)",
+        "Hugging Face Blog"
+      ]
+    },
+    "hn_llm_24h": {
+      "verification_status": "verified",
+      "sources_count": 2,
+      "sources": [
+        "ArXiv cs.CL (Computation and Language / NLP)",
+        "HN top LLM 24h"
+      ]
+    },
+    "ollama_releases": {
+      "verification_status": "unconfirmed",
+      "sources_count": 1,
+      "sources": [
+        "Ollama releases"
+      ]
+    },
+    "import_ai": {
+      "verification_status": "unconfirmed",
+      "sources_count": 1,
+      "sources": [
+        "Import AI (Jack Clark)"
+      ]
+    },
+    "ggml_releases": {
+      "verification_status": "unconfirmed",
+      "sources_count": 1,
+      "sources": [
+        "ggml/llama.cpp releases"
       ]
     },
     "hn_show_ai_7d": {
