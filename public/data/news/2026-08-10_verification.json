@@ -1,21 +1,21 @@
 {
   "date": "2026-08-10",
-  "generated_at": "2026-08-11T21:00:07.530108+00:00",
+  "generated_at": "2026-08-12T01:00:04.867709+00:00",
   "results": {
     "openai_blog": {
       "verification_status": "verified",
       "sources_count": 2,
       "sources": [
-        "ArXiv cs.CL (Computation and Language / NLP)",
-        "OpenAI Blog"
+        "OpenAI Blog",
+        "ArXiv cs.CL (Computation and Language / NLP)"
       ]
     },
     "hn_ai_24h": {
       "verification_status": "verified",
       "sources_count": 2,
       "sources": [
-        "ArXiv cs.CL (Computation and Language / NLP)",
-        "HN top AI 24h"
+        "HN top AI 24h",
+        "ArXiv cs.CL (Computation and Language / NLP)"
       ]
     },
     "arxiv_cs_cl": {
