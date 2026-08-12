@@ -1,12 +1,12 @@
 {
-  "date": "2026-08-09",
-  "generated_at": "2026-08-12T09:03:52.937079+00:00",
+  "date": "2026-08-12",
+  "generated_at": "2026-08-12T09:03:52.936083+00:00",
   "results": {
-    "hn_llm_24h": {
+    "hn_ai_24h": {
       "verification_status": "unconfirmed",
       "sources_count": 1,
       "sources": [
-        "HN top LLM 24h"
+        "HN top AI 24h"
       ]
     },
     "ggml_releases": {
@@ -16,18 +16,11 @@
         "ggml/llama.cpp releases"
       ]
     },
-    "hn_ai_24h": {
+    "arxiv_cs_cl": {
       "verification_status": "unconfirmed",
       "sources_count": 1,
       "sources": [
-        "HN top AI 24h"
-      ]
-    },
-    "hn_show_ai_7d": {
-      "verification_status": "unconfirmed",
-      "sources_count": 1,
-      "sources": [
-        "Show HN AI 7d"
+        "ArXiv cs.CL (Computation and Language / NLP)"
       ]
     }
   }
