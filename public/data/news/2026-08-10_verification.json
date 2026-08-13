@@ -1,6 +1,6 @@
 {
   "date": "2026-08-10",
-  "generated_at": "2026-08-13T01:00:05.072912+00:00",
+  "generated_at": "2026-08-13T05:00:05.359400+00:00",
   "results": {
     "openai_blog": {
       "verification_status": "verified",
@@ -14,8 +14,8 @@
       "verification_status": "verified",
       "sources_count": 2,
       "sources": [
-        "HN top AI 24h",
-        "ArXiv cs.CL (Computation and Language / NLP)"
+        "ArXiv cs.CL (Computation and Language / NLP)",
+        "HN top AI 24h"
       ]
     },
     "arxiv_cs_cl": {
@@ -29,24 +29,24 @@
       "verification_status": "verified",
       "sources_count": 2,
       "sources": [
-        "Google AI Blog",
-        "ArXiv cs.CL (Computation and Language / NLP)"
+        "ArXiv cs.CL (Computation and Language / NLP)",
+        "Google AI Blog"
       ]
     },
     "huggingface_blog": {
       "verification_status": "verified",
       "sources_count": 2,
       "sources": [
-        "ArXiv cs.CL (Computation and Language / NLP)",
-        "Hugging Face Blog"
+        "Hugging Face Blog",
+        "ArXiv cs.CL (Computation and Language / NLP)"
       ]
     },
     "hn_llm_24h": {
       "verification_status": "verified",
       "sources_count": 2,
       "sources": [
-        "ArXiv cs.CL (Computation and Language / NLP)",
-        "HN top LLM 24h"
+        "HN top LLM 24h",
+        "ArXiv cs.CL (Computation and Language / NLP)"
       ]
     },
     "ollama_releases": {
