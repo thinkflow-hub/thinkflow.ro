@@ -25,8 +25,8 @@
   <text x="505" y="200" fill="#fca5a5" font-size="10.3" font-family="monospace">insufficient_balance"</text>
   <text x="505" y="230" fill="rgba(255,255,255,0.5)" font-size="10">signature valid, request correctly</text>
   <text x="505" y="248" fill="rgba(255,255,255,0.5)" font-size="10">formed &#8212; payer simply had no funds</text>
-  <text x="505" y="280" fill="rgba(255,255,255,0.5)" font-size="10">fund the account &#8594; this becomes a</text>
-  <text x="505" y="298" fill="rgba(255,255,255,0.5)" font-size="10">200 OK + payment-response receipt</text>
+  <text x="505" y="280" fill="rgba(255,255,255,0.5)" font-size="10">funded in round 3 &#8594; same request</text>
+  <text x="505" y="298" fill="rgba(255,255,255,0.5)" font-size="10">returned 200 OK, settled on-chain</text>
   <text x="505" y="349" fill="#86efac" font-size="11" font-weight="700">Response: 402 (still &#8212; correctly)</text>
 
   <text x="450" y="470" text-anchor="middle" fill="rgba(255,255,255,0.35)" font-size="10.5">The protocol worked exactly as designed &#8212; this is the failure everyone hits first</text>

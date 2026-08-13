@@ -52,8 +52,8 @@
 
   <!-- alt path note -->
   <rect x="365" y="446" width="440" height="56" rx="6" fill="rgba(255,255,255,0.03)" stroke="rgba(255,255,255,0.1)" stroke-dasharray="3 3"/>
-  <text x="585" y="466" text-anchor="middle" fill="rgba(255,255,255,0.5)" font-size="11" font-weight="600">If the agent's wallet were funded:</text>
-  <text x="585" y="484" text-anchor="middle" fill="rgba(255,255,255,0.4)" font-size="10">200 OK + payment-response settlement receipt, instead of a second 402</text>
+  <text x="585" y="466" text-anchor="middle" fill="rgba(255,255,255,0.5)" font-size="11" font-weight="600">ROUND 3 &#8212; same request, wallet funded (also captured):</text>
+  <text x="585" y="484" text-anchor="middle" fill="rgba(255,255,255,0.4)" font-size="10">200 OK + payment-response receipt &#183; settled on-chain via transferWithAuthorization</text>
 
   <!-- footer -->
   <text x="450" y="540" text-anchor="middle" fill="rgba(255,255,255,0.25)" font-size="10" letter-spacing="1">CAPTURED FROM A LIVE x402==2.16.0 SERVER · BASE SEPOLIA TESTNET</text>

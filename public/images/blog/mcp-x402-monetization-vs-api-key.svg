@@ -27,8 +27,9 @@
 
   <rect x="50" y="404" width="800" height="80" rx="6" fill="rgba(59,130,246,0.12)" stroke="rgba(59,130,246,0.5)" stroke-width="1"/>
   <text x="70" y="428" fill="#93c5fd" font-size="12.5" font-weight="800">TRUST</text>
-  <text x="70" y="448" fill="rgba(255,255,255,0.6)" font-size="11">tradeoff is real: settlement adds latency, inherits chain-level failure modes</text>
-  <text x="70" y="468" fill="rgba(255,255,255,0.4)" font-size="10">good trade at $0.01/call &#8212; at a hundredth of a cent, batch instead</text>
+  <text x="70" y="448" fill="rgba(255,255,255,0.6)" font-size="11">an API key is a long-lived secret to store, rotate and eventually leak</text>
+  <text x="70" y="468" fill="rgba(255,255,255,0.4)" font-size="10">a per-call payment carries no standing credential at all</text>
+  <text x="70" y="502" fill="rgba(255,255,255,0.35)" font-size="9.5">Tradeoff: settlement adds latency and chain-level failure modes &#183; good trade at $0.01/call, batch below a cent</text>
 
   <g transform="translate(24,503) scale(0.36)">
     <path d="M-285 602C-279 603 -273 604 -266 606C-238 613 -203 620 -161 627C-119 634 -77 637 -33 636C-24 636 -16 640 -10 649C-5 658 -3 668 -5 679C126 707 258 730 393 749C379 728 365 709 354 693C338 671 322 649 307 627C292 605 276 579 257 548C237 516 213 472 184 416C156 359 126 295 96 224C65 152 45 79 34 5C24 -70 30 -122 54 -152C77 -175 107 -183 143 -176C162 -170 173 -160 175 -144C176 -129 168 -118 149 -112C143 -111 138 -110 134 -110C128 -111 124 -110 120 -109C116 -107 113 -103 110 -97C106 -86 104 -72 103 -57C103 -42 104 -28 105 -16C122 94 162 211 225 335C287 459 353 568 421 664C423 666 425 669 427 672L453 708C464 722 474 735 485 746C495 758 504 764 511 765L623 779C697 788 766 796 831 801C896 806 975 808 1068 806C1075 806 1081 806 1088 805C1094 804 1101 803 1107 803C1122 804 1133 808 1141 817C1148 826 1151 835 1149 845C1147 856 1139 863 1125 868C1095 876 1048 879 984 876C920 874 854 870 784 863C715 857 658 851 613 846C599 844 588 843 579 842C580 866 573 880 557 884C542 888 527 886 512 877C497 867 487 857 479 847C474 841 469 836 464 832C458 827 452 825 444 824C396 817 320 806 216 788C112 771 9 751 -92 728C-194 706 -265 683 -306 660C-323 647 -329 634 -324 619C-319 605 -306 599 -285 602Z" fill="#ededed" transform="translate(0.00, 60) scale(0.05217391, -0.05217391)"/>

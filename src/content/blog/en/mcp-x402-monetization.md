@@ -27,7 +27,7 @@ Everything below comes from a real endpoint: a FastAPI server wrapped in the off
 `x402` Python package (v2.16.0), running against its default public facilitator
 (`x402.org/facilitator`) on Base Sepolia testnet. Full runnable code is linked at the end.
 
-## The two round trips
+## Two round trips, three captures
 
 ![x402 sequence diagram: agent, MCP server, and facilitator exchanging the 402 demand and the payment proof](/images/blog/mcp-x402-monetization-sequence.svg)
 
