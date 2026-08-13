@@ -11,7 +11,13 @@ Site multi-page (Next.js 16.2.10) cu blog, contact form (Nodemailer), servicii, 
 
 ## Domain
 - thinkflow.ro → Vercel DNS, SSL activ
-- news.thinkflow.ro → Vercel DNS, live (122 pagini)
+- news.thinkflow.ro → **retras 2026-08-13**: redirect 308 permanent către `thinkflow.ro/news`.
+  Era un proiect Vercel separat (`prj_XruJR276KEHBpxrVqfRUcsx1xORw`), ultimul deploy
+  2026-07-07, servea conținut înghețat iar `/trending` + `/releases` dădeau 404 — între timp
+  pipeline-ul de știri se mutase în app-ul principal. Domeniul a fost reatribuit proiectului
+  `thinkflow-ro`; redirectul e în `next.config.ts` (`has: [{ type: 'host' }]`, rulează înaintea
+  middleware-ului next-intl). Vechiul proiect a rămas, fără domeniu, accesibil doar la
+  `newsthinkflowro.vercel.app` — se poate șterge după ce te asiguri că nu mai trebuie.
 
 ## Architecture
 
