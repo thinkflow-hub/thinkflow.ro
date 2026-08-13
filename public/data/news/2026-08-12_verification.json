@@ -1,12 +1,63 @@
 {
   "date": "2026-08-12",
-  "generated_at": "2026-08-13T05:00:05.359400+00:00",
+  "generated_at": "2026-08-13T09:03:54.180351+00:00",
   "results": {
+    "openai_blog": {
+      "verification_status": "unconfirmed",
+      "sources_count": 1,
+      "sources": [
+        "OpenAI Blog"
+      ]
+    },
+    "deepmind_blog": {
+      "verification_status": "unconfirmed",
+      "sources_count": 1,
+      "sources": [
+        "DeepMind Blog"
+      ]
+    },
+    "huggingface_blog": {
+      "verification_status": "unconfirmed",
+      "sources_count": 1,
+      "sources": [
+        "Hugging Face Blog"
+      ]
+    },
+    "hn_llm_24h": {
+      "verification_status": "unconfirmed",
+      "sources_count": 1,
+      "sources": [
+        "HN top LLM 24h"
+      ]
+    },
     "hn_ai_24h": {
       "verification_status": "unconfirmed",
       "sources_count": 1,
       "sources": [
         "HN top AI 24h"
+      ]
+    },
+    "ollama_releases": {
+      "verification_status": "unconfirmed",
+      "sources_count": 1,
+      "sources": [
+        "Ollama releases"
+      ]
+    },
+    "pod_lex_fridman": {
+      "verification_status": "verified",
+      "sources_count": 2,
+      "sources": [
+        "HN top AI 24h",
+        "Lex Fridman Podcast"
+      ]
+    },
+    "latent_space": {
+      "verification_status": "verified",
+      "sources_count": 2,
+      "sources": [
+        "Latent Space (Substack)",
+        "ggml/llama.cpp releases"
       ]
     },
     "ggml_releases": {

@@ -1,6 +1,6 @@
 {
   "date": "2026-08-11",
-  "generated_at": "2026-08-13T05:00:05.359400+00:00",
+  "generated_at": "2026-08-13T09:03:54.180351+00:00",
   "results": {
     "openai_blog": {
       "verification_status": "unconfirmed",
@@ -20,8 +20,8 @@
       "verification_status": "verified",
       "sources_count": 2,
       "sources": [
-        "HN top LLM 24h",
-        "ggml/llama.cpp releases"
+        "ggml/llama.cpp releases",
+        "HN top LLM 24h"
       ]
     },
     "ggml_releases": {
