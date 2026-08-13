@@ -1,52 +1,40 @@
 {
   "date": "2026-08-10",
-  "generated_at": "2026-08-13T09:03:54.180351+00:00",
+  "generated_at": "2026-08-13T13:00:05.571416+00:00",
   "results": {
     "openai_blog": {
-      "verification_status": "verified",
-      "sources_count": 2,
+      "verification_status": "unconfirmed",
+      "sources_count": 1,
       "sources": [
-        "ArXiv cs.CL (Computation and Language / NLP)",
         "OpenAI Blog"
       ]
     },
     "hn_ai_24h": {
-      "verification_status": "verified",
-      "sources_count": 2,
-      "sources": [
-        "ArXiv cs.CL (Computation and Language / NLP)",
-        "HN top AI 24h"
-      ]
-    },
-    "arxiv_cs_cl": {
       "verification_status": "unconfirmed",
       "sources_count": 1,
       "sources": [
-        "ArXiv cs.CL (Computation and Language / NLP)"
+        "HN top AI 24h"
       ]
     },
     "google_ai_blog": {
-      "verification_status": "verified",
-      "sources_count": 2,
+      "verification_status": "unconfirmed",
+      "sources_count": 1,
       "sources": [
-        "ArXiv cs.CL (Computation and Language / NLP)",
         "Google AI Blog"
       ]
     },
     "huggingface_blog": {
-      "verification_status": "verified",
-      "sources_count": 2,
+      "verification_status": "unconfirmed",
+      "sources_count": 1,
       "sources": [
-        "ArXiv cs.CL (Computation and Language / NLP)",
         "Hugging Face Blog"
       ]
     },
     "hn_llm_24h": {
-      "verification_status": "verified",
-      "sources_count": 2,
+      "verification_status": "unconfirmed",
+      "sources_count": 1,
       "sources": [
-        "HN top LLM 24h",
-        "ArXiv cs.CL (Computation and Language / NLP)"
+        "HN top LLM 24h"
       ]
     },
     "ollama_releases": {
@@ -68,20 +56,6 @@
       "sources_count": 1,
       "sources": [
         "ggml/llama.cpp releases"
-      ]
-    },
-    "hn_show_ai_7d": {
-      "verification_status": "unconfirmed",
-      "sources_count": 1,
-      "sources": [
-        "Show HN AI 7d"
-      ]
-    },
-    "arxiv_cs_ai": {
-      "verification_status": "unconfirmed",
-      "sources_count": 1,
-      "sources": [
-        "ArXiv cs.AI"
       ]
     }
   }
