@@ -1,7 +1,29 @@
 {
   "date": "2026-08-12",
-  "generated_at": "2026-08-14T05:00:05.920731+00:00",
+  "generated_at": "2026-08-14T09:03:49.107564+00:00",
   "results": {
+    "trending_agent": {
+      "verification_status": "verified",
+      "sources_count": 2,
+      "sources": [
+        "GitHub Trending — AI Agents",
+        "HN top AI 24h"
+      ]
+    },
+    "hn_ai_24h": {
+      "verification_status": "unconfirmed",
+      "sources_count": 1,
+      "sources": [
+        "HN top AI 24h"
+      ]
+    },
+    "ollama_releases": {
+      "verification_status": "unconfirmed",
+      "sources_count": 1,
+      "sources": [
+        "Ollama releases"
+      ]
+    },
     "openai_blog": {
       "verification_status": "unconfirmed",
       "sources_count": 1,
@@ -30,20 +52,6 @@
         "HN top LLM 24h"
       ]
     },
-    "hn_ai_24h": {
-      "verification_status": "unconfirmed",
-      "sources_count": 1,
-      "sources": [
-        "HN top AI 24h"
-      ]
-    },
-    "ollama_releases": {
-      "verification_status": "unconfirmed",
-      "sources_count": 1,
-      "sources": [
-        "Ollama releases"
-      ]
-    },
     "pod_lex_fridman": {
       "verification_status": "verified",
       "sources_count": 2,
@@ -56,8 +64,8 @@
       "verification_status": "verified",
       "sources_count": 2,
       "sources": [
-        "Latent Space (Substack)",
-        "ggml/llama.cpp releases"
+        "ggml/llama.cpp releases",
+        "Latent Space (Substack)"
       ]
     },
     "ggml_releases": {
