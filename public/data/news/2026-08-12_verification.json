@@ -1,6 +1,6 @@
 {
   "date": "2026-08-12",
-  "generated_at": "2026-08-13T21:00:05.622493+00:00",
+  "generated_at": "2026-08-14T01:00:09.734264+00:00",
   "results": {
     "openai_blog": {
       "verification_status": "unconfirmed",
@@ -48,16 +48,16 @@
       "verification_status": "verified",
       "sources_count": 2,
       "sources": [
-        "HN top AI 24h",
-        "Lex Fridman Podcast"
+        "Lex Fridman Podcast",
+        "HN top AI 24h"
       ]
     },
     "latent_space": {
       "verification_status": "verified",
       "sources_count": 2,
       "sources": [
-        "Latent Space (Substack)",
-        "ggml/llama.cpp releases"
+        "ggml/llama.cpp releases",
+        "Latent Space (Substack)"
       ]
     },
     "ggml_releases": {
