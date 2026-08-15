@@ -1,0 +1,1892 @@
+{
+  "date": "2026-08-15",
+  "last_updated": "2026-08-15T06:00:02.094818+00:00",
+  "total_items": 26,
+  "items": [
+    {
+      "source_id": "hn_ai_24h",
+      "source_name": "HN top AI 24h",
+      "title": "Google is making private AI practical with homomorphic encryption",
+      "url": "https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption/",
+      "description": "",
+      "published": "2026-08-14T15:43:10+00:00",
+      "score": 59,
+      "category": "trending",
+      "weight": 8,
+      "points": 341,
+      "comments_url": "https://news.ycombinator.com/item?id=49300314",
+      "summary": "Google has developed a method to make AI more privacy-friendly by using homomorphic encryption, allowing data to remain encrypted throughout its processing by AI models. This breakthrough could significantly enhance user privacy in AI applications by preventing companies from accessing sensitive information during analysis.",
+      "summary_detailed": "Google has developed a method to make artificial intelligence more secure by integrating homomorphic encryption, allowing for computations on encrypted data without decrypting it first. This advancement involves both Google's research team and the broader tech industry, as it could enhance privacy in AI applications across various sectors including finance and healthcare. The impact extends beyond security measures, potentially enabling new use cases where sensitive data can be processed directly while remaining confidential.",
+      "summary_bullets": "• Google introduces homomorphic encryption to enhance privacy in AI models\n• This technology allows AI computations on encrypted data without decryption\n• It enables secure collaboration between parties holding sensitive data\n• Homomorphic encryption could revolutionize how businesses and researchers use AI safely",
+      "sentiment": "positive",
+      "keywords": [
+        "google",
+        "ai",
+        "homomorphic encryption",
+        "practical",
+        "privacy"
+      ],
+      "thumbnail": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Untitled_design_10_p3wN1dg.width-1300.png",
+      "cluster_id": "0494ef44-0c7d-5b01-8a33-ff807dbd7425",
+      "cluster_size": 1,
+      "cluster_topics": [
+        "google",
+        "practical",
+        "homomorphic",
+        "encryption",
+        "private"
+      ],
+      "geo_title": "How does Google make private AI practical with homomorphic encryption?",
+      "geo_keywords": [
+        "google ai",
+        "homomorphic encryption",
+        "privacy preserving ai",
+        "practical ai",
+        "secure ai computation",
+        "privacy in ai",
+        "how does homomorphic encryption work with ai",
+        "what is homomorphic encryption for ai",
+        "can ai be made private",
+        "privacy and ai technology",
+        "ai privacy solutions",
+        "homomorphic encryption and ai"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "How does Google make private AI practical with homomorphic encryption?",
+        "url": "https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption/",
+        "description": "Google has developed a method to make AI more privacy-friendly by using homomorphic encryption, allowing data to remain encrypted throughout its processing by AI models. This breakthrough could significantly enhance user privacy in AI applications by preventing companies from accessing sensitive information during analysis.",
+        "keywords": "google ai, homomorphic encryption, privacy preserving ai, practical ai, secure ai computation, privacy in ai, how does homomorphic encryption work with ai, what is homomorphic encryption for ai",
+        "datePublished": "2026-08-14T15:43:10+00:00",
+        "dateModified": "2026-08-14T15:43:10+00:00",
+        "author": {
+          "@type": "Organization",
+          "name": "HN top AI 24h",
+          "url": "https://blog.google"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "trending",
+        "inLanguage": "en-US",
+        "wordCount": 44,
+        "articleBody": "Google has developed a method to make AI more privacy-friendly by using homomorphic encryption, allowing data to remain encrypted throughout its processing by AI models. This breakthrough could significantly enhance user privacy in AI applications by preventing companies from accessing sensitive information during analysis."
+      }
+    },
+    {
+      "source_id": "hn_ai_24h",
+      "source_name": "HN top AI 24h",
+      "title": "AI by Hand",
+      "url": "https://www.byhand.ai/",
+      "description": "",
+      "published": "2026-08-14T15:58:59+00:00",
+      "score": 59,
+      "category": "trending",
+      "weight": 8,
+      "points": 257,
+      "comments_url": "https://news.ycombinator.com/item?id=49300568",
+      "summary": "The article discusses a new approach to artificial intelligence development that emphasizes manual craftsmanship over automated processes, aiming to enhance creativity and control in AI creation. This method matters because it could lead to more personalized and innovative AI applications, addressing concerns about uniformity and loss of human touch in technology.",
+      "summary_detailed": "A new exhibition showcases hand-drawn illustrations that explore the intersection of human creativity and artificial intelligence, involving artists and AI technology. The exhibit aims to highlight how humans can guide AI in artistic processes, potentially broadening the scope of what is considered creative output and fostering a deeper understanding between art and technology communities.",
+      "summary_bullets": "• The article discusses the integration of artificial intelligence in manual labor tasks.\n• Experts predict significant changes in employment due to AI advancements.\n• Collaboration between humans and AI systems is highlighted as key.",
+      "sentiment": "neutral",
+      "keywords": [
+        "ai",
+        "hand",
+        "technology"
+      ],
+      "thumbnail": "https://substackcdn.com/image/fetch/$s_!uug6!,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Faibyhand.substack.com%2Ftwitter%2Fsubscribe-card.jpg%3Fv%3D-636237388%26version%3D9",
+      "cluster_id": "64da2d0a-9273-5fca-87b0-5954b04e9dec",
+      "cluster_size": 1,
+      "cluster_topics": [
+        "hand"
+      ],
+      "geo_title": "Why is manual creation of AI content important?",
+      "geo_keywords": [
+        "ai technology",
+        "how ai is developed by hand",
+        "ai and manual processes",
+        "ai innovation techniques",
+        "ai development methods",
+        "ai creation by human hands",
+        "ai handmade technology",
+        "what does ai by hand mean",
+        "how are ai models created",
+        "manual ai development process"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "Why is manual creation of AI content important?",
+        "url": "https://www.byhand.ai/",
+        "description": "The article discusses a new approach to artificial intelligence development that emphasizes manual craftsmanship over automated processes, aiming to enhance creativity and control in AI creation. This method matters because it could lead to more personalized and innovative AI applications, addressing concerns about uniformity and loss of human touch in technology.",
+        "keywords": "ai technology, how ai is developed by hand, ai and manual processes, ai innovation techniques, ai development methods, ai creation by human hands, ai handmade technology, what does ai by hand mean",
+        "datePublished": "2026-08-14T15:58:59+00:00",
+        "dateModified": "2026-08-14T15:58:59+00:00",
+        "author": {
+          "@type": "Organization",
+          "name": "HN top AI 24h",
+          "url": "https://www.byhand.ai"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "trending",
+        "inLanguage": "en-US",
+        "wordCount": 51,
+        "articleBody": "The article discusses a new approach to artificial intelligence development that emphasizes manual craftsmanship over automated processes, aiming to enhance creativity and control in AI creation. This method matters because it could lead to more personalized and innovative AI applications, addressing concerns about uniformity and loss of human touch in technology."
+      }
+    },
+    {
+      "source_id": "hn_ai_24h",
+      "source_name": "HN top AI 24h",
+      "title": "Dear people who work at the airport",
+      "url": "https://life-after-ssri.bearblog.dev/dear-people-who-work-at-the-airport/",
+      "description": "",
+      "published": "2026-08-14T12:23:22+00:00",
+      "score": 59,
+      "category": "trending",
+      "weight": 8,
+      "points": 196,
+      "comments_url": "https://news.ycombinator.com/item?id=49297801",
+      "summary": "The article advises airport workers about safety protocols and passenger interactions, emphasizing the importance of clear communication and adherence to guidelines to ensure a smooth and secure travel experience. This matters as it directly impacts passenger satisfaction and overall airport operations during potentially high-stress situations.",
+      "summary_detailed": "A group of workers at an unspecified airport wrote an open letter to their colleagues addressing concerns about safety protocols and workplace conditions. The letter, circulated among employees, highlights issues such as understaffing and inadequate protective equipment during the pandemic. This internal communication has sparked broader discussions on worker rights and safety measures in the aviation industry.",
+      "summary_bullets": "• Improvements to passenger experience are needed.\n• Increased efficiency in baggage handling is essential.\n• Staff training for better customer service is required.\n• Security measures need to be enhanced.",
+      "sentiment": "neutral",
+      "keywords": [
+        "airport",
+        "workers",
+        "travel",
+        "safety",
+        "logistics"
+      ],
+      "thumbnail": null,
+      "favicon": "https://www.google.com/s2/favicons?domain=life-after-ssri.bearblog.dev&sz=64",
+      "cluster_id": "55d711b2-e016-5657-abe1-735fa3af90f4",
+      "cluster_size": 1,
+      "cluster_topics": [
+        "dear",
+        "people",
+        "work",
+        "airport"
+      ],
+      "geo_title": "A look at issues faced by airport workers",
+      "geo_keywords": [
+        "airport operations",
+        "airport technology",
+        "airline logistics",
+        "airport worker challenges",
+        "airport safety measures",
+        "travel logistics optimization",
+        "automation in airports",
+        "worker concerns in aviation industry",
+        "what are the main issues faced by airport workers",
+        "how does technology improve airport efficiency",
+        "what technologies are used in modern airports",
+        "are there new safety protocols for airport workers"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "A look at issues faced by airport workers",
+        "url": "https://life-after-ssri.bearblog.dev/dear-people-who-work-at-the-airport/",
+        "description": "The article advises airport workers about safety protocols and passenger interactions, emphasizing the importance of clear communication and adherence to guidelines to ensure a smooth and secure travel experience. This matters as it directly impacts passenger satisfaction and overall airport operations during potentially high-stress situations.",
+        "keywords": "airport operations, airport technology, airline logistics, airport worker challenges, airport safety measures, travel logistics optimization, automation in airports, worker concerns in aviation industry",
+        "datePublished": "2026-08-14T12:23:22+00:00",
+        "dateModified": "2026-08-14T12:23:22+00:00",
+        "author": {
+          "@type": "Organization",
+          "name": "HN top AI 24h",
+          "url": "https://life-after-ssri.bearblog.dev"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "trending",
+        "inLanguage": "en-US",
+        "wordCount": 45,
+        "articleBody": "The article advises airport workers about safety protocols and passenger interactions, emphasizing the importance of clear communication and adherence to guidelines to ensure a smooth and secure travel experience. This matters as it directly impacts passenger satisfaction and overall airport operations during potentially high-stress situations."
+      }
+    },
+    {
+      "source_id": "hn_ai_24h",
+      "source_name": "HN top AI 24h",
+      "title": "When Genius Fails: The Intellectual Arrogance of the AI Labs",
+      "url": "https://weightythoughts.com/p/when-genius-failsthe-intellectual",
+      "description": "",
+      "published": "2026-08-14T14:34:49+00:00",
+      "score": 59,
+      "category": "trending",
+      "weight": 8,
+      "points": 171,
+      "comments_url": "https://news.ycombinator.com/item?id=49299282",
+      "summary": "A major tech company's AI lab faced criticism after one of its projects failed spectacularly, highlighting issues of intellectual arrogance within the industry. This incident underscores the dangers of overconfidence in AI development and the need for more rigorous testing and humility among researchers.",
+      "summary_detailed": "In a recent incident, researchers at an advanced AI lab made a critical error in their algorithm, leading to unexpected results that highlighted the limitations of their work. This event involved top-tier scientists and engineers from multiple prestigious institutions. The broader impact includes renewed calls for humility in the tech industry and increased scrutiny on the reliability of cutting-edge artificial intelligence systems.",
+      "summary_bullets": "• Researchers at leading AI labs overestimated their models' capabilities.\n• Misaligned incentives drove some scientists to prioritize publication speed.\n• Ethical guidelines were often overlooked in pursuit of breakthroughs.",
+      "sentiment": "negative",
+      "keywords": [
+        "genius",
+        "intellectual arrogance",
+        "ai labs"
+      ],
+      "thumbnail": "https://substackcdn.com/image/fetch/$s_!PLI0!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6a3790af-8609-45cc-bb7b-e4f006e27538_1536x1024.jpeg",
+      "cluster_id": "3fa9983d-f100-5229-84b6-1603530317e1",
+      "cluster_size": 1,
+      "cluster_topics": [
+        "genius",
+        "fails",
+        "intellectual",
+        "arrogance",
+        "labs"
+      ],
+      "geo_title": "Why Is Intellectual Arrogance in AI Labs a Concern?",
+      "geo_keywords": [
+        "ai lab failure",
+        "intellectual arrogance in ai",
+        "ai development challenges",
+        "when geniuses fail",
+        "ai technology limitations",
+        "ethical ai practices",
+        "overcoming ai biases",
+        "ai decision making failures"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "Why Is Intellectual Arrogance in AI Labs a Concern?",
+        "url": "https://weightythoughts.com/p/when-genius-failsthe-intellectual",
+        "description": "A major tech company's AI lab faced criticism after one of its projects failed spectacularly, highlighting issues of intellectual arrogance within the industry. This incident underscores the dangers of overconfidence in AI development and the need for more rigorous testing and humility among researchers.",
+        "keywords": "ai lab failure, intellectual arrogance in ai, ai development challenges, when geniuses fail, ai technology limitations, ethical ai practices, overcoming ai biases, ai decision making failures",
+        "datePublished": "2026-08-14T14:34:49+00:00",
+        "dateModified": "2026-08-14T14:34:49+00:00",
+        "author": {
+          "@type": "Organization",
+          "name": "HN top AI 24h",
+          "url": "https://weightythoughts.com"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "trending",
+        "inLanguage": "en-US",
+        "wordCount": 44,
+        "articleBody": "A major tech company's AI lab faced criticism after one of its projects failed spectacularly, highlighting issues of intellectual arrogance within the industry. This incident underscores the dangers of overconfidence in AI development and the need for more rigorous testing and humility among researchers."
+      }
+    },
+    {
+      "source_id": "ollama_releases",
+      "source_name": "Ollama releases",
+      "title": "Ollama releases: v0.32.13",
+      "url": "https://github.com/ollama/ollama/releases/tag/v0.32.13",
+      "description": "## What's Changed\r\n* qwen3.8: support developer instructions \r\n\r\n\r\n**Full Changelog**: https://github.com/ollama/ollama/compare/v0.32.12...v0.32.13",
+      "published": "2026-08-14T19:16:07Z",
+      "score": 54,
+      "category": "releases",
+      "weight": 9,
+      "tag": "v0.32.13",
+      "summary": "Ollama released version 0.32.13, which includes support for developer instructions in qwen3.8. This update matters as it enhances the functionality for developers using the software.",
+      "summary_detailed": "Ollama released version v0.32.13, which includes updates to support developer instructions in qwen3.8. This update is part of the ongoing development of Ollama's language model and aims to enhance functionality for developers. The changes are detailed in the full changelog available on GitHub.",
+      "summary_bullets": "• qwen3.8 now supports developer instructions  \n• Update version number to v0.32.13",
+      "sentiment": "neutral",
+      "keywords": [
+        "qwen3.8",
+        "developer instructions",
+        "changelog"
+      ],
+      "thumbnail": "https://opengraph.githubassets.com/108067ee26a582e1f21e720b485283047ede35b34521e10c7a850385d4ea0c16/ollama/ollama/releases/tag/v0.32.13",
+      "cluster_id": "5bf6abe9-e273-556e-8879-d34cc049d0b1",
+      "cluster_size": 2,
+      "cluster_topics": [
+        "ollama",
+        "qwen",
+        "qwen3",
+        "https",
+        "com"
+      ],
+      "geo_title": "Why is Ollama releasing v0.32.13 with qwen3.8 updates?",
+      "geo_keywords": [
+        "ollama v0.32.13 release",
+        "qwen3.8 updates",
+        "developer instruction support",
+        "ollama changelog",
+        "ai software update"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "Why is Ollama releasing v0.32.13 with qwen3.8 updates?",
+        "url": "https://github.com/ollama/ollama/releases/tag/v0.32.13",
+        "description": "Ollama released version 0.32.13, which includes support for developer instructions in qwen3.8. This update matters as it enhances the functionality for developers using the software.",
+        "keywords": "ollama v0.32.13 release, qwen3.8 updates, developer instruction support, ollama changelog, ai software update",
+        "datePublished": "2026-08-14T19:16:07Z",
+        "dateModified": "2026-08-14T19:16:07Z",
+        "author": {
+          "@type": "Organization",
+          "name": "Ollama releases",
+          "url": "https://github.com"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "releases",
+        "inLanguage": "en-US",
+        "wordCount": 25,
+        "articleBody": "Ollama released version 0.32.13, which includes support for developer instructions in qwen3.8. This update matters as it enhances the functionality for developers using the software."
+      }
+    },
+    {
+      "source_id": "ollama_releases",
+      "source_name": "Ollama releases",
+      "title": "Ollama releases: v0.32.12",
+      "url": "https://github.com/ollama/ollama/releases/tag/v0.32.12",
+      "description": "<img width=\"600\" alt=\"ollama and qwen capybara\" src=\"https://github.com/user-attachments/assets/5fa5e93b-d48b-4a6a-b72a-25379ab9429c\" />\r\n\r\n## Qwen 3.8 27B\r\n\r\nThis release adds the support of [Qwen 3.8 27B](https://ollama.com/library/qwen3.8). Qwen3.8 delivers substantial gains across coding, profes",
+      "published": "2026-08-14T16:37:00Z",
+      "score": 54,
+      "category": "releases",
+      "weight": 9,
+      "tag": "v0.32.12",
+      "summary": "Ollama released version v0.32.12, which includes support for Qwen 3.8 27B, enhancing coding capabilities and other professional functionalities. This update is significant as it improves the software's performance in technical tasks.",
+      "summary_detailed": "Ollama released version v0.32.12, which includes support for Qwen 3.8 27B, enhancing coding and professional capabilities. This update impacts users looking to improve their AI-driven coding tools. The broader impact is seen in the tech community, as it provides more robust options for developers and professionals working with advanced AI models.",
+      "summary_bullets": "• Ollama releases v0.32.12\n• Supports Qwen 3.8 27B\n• Enhances coding and professional capabilities",
+      "sentiment": "neutral",
+      "keywords": [
+        "qwen",
+        "3.8",
+        "27b",
+        "ollama",
+        "release"
+      ],
+      "thumbnail": "https://opengraph.githubassets.com/2133626da06c0989bd219e685c4b18fb963942fbc4521c5e2a0a9d36821d4984/ollama/ollama/releases/tag/v0.32.12",
+      "cluster_id": "5bf6abe9-e273-556e-8879-d34cc049d0b1",
+      "cluster_size": 2,
+      "cluster_topics": [
+        "ollama",
+        "qwen",
+        "qwen3",
+        "https",
+        "com"
+      ],
+      "geo_title": "Why is Ollama Releasing v0.32.12 with Qwen 3.8?",
+      "geo_keywords": [
+        "qwen 3.8 27b release",
+        "ollama v0.32.12",
+        "qwen 3.8 capabilities",
+        "ollama qwen update",
+        "coding with qwen 3.8",
+        "ollama release notes",
+        "what is qwen 3.8",
+        "qwen 3.8 performance"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "Why is Ollama Releasing v0.32.12 with Qwen 3.8?",
+        "url": "https://github.com/ollama/ollama/releases/tag/v0.32.12",
+        "description": "Ollama released version v0.32.12, which includes support for Qwen 3.8 27B, enhancing coding capabilities and other professional functionalities. This update is significant as it improves the software's performance in technical tasks.",
+        "keywords": "qwen 3.8 27b release, ollama v0.32.12, qwen 3.8 capabilities, ollama qwen update, coding with qwen 3.8, ollama release notes, what is qwen 3.8, qwen 3.8 performance",
+        "datePublished": "2026-08-14T16:37:00Z",
+        "dateModified": "2026-08-14T16:37:00Z",
+        "author": {
+          "@type": "Organization",
+          "name": "Ollama releases",
+          "url": "https://github.com"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "releases",
+        "inLanguage": "en-US",
+        "wordCount": 31,
+        "articleBody": "Ollama released version v0.32.12, which includes support for Qwen 3.8 27B, enhancing coding capabilities and other professional functionalities. This update is significant as it improves the software's performance in technical tasks."
+      }
+    },
+    {
+      "source_id": "ggml_releases",
+      "source_name": "ggml/llama.cpp releases",
+      "title": "ggml/llama.cpp releases: b10437",
+      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10437",
+      "description": "<details open>\n\nmodel : add support for MiniMaxText01ForCausalLM and MiniMaxM1ForCausalLM (#27018)\n\n* llama : support for MiniMax-Text-01 model\n\n* chore : renames to match the other MiniMax models\n\n* model : add logits mask as MiniMax-Text-01 embeddings tensor has zero-valued embeddings for tokens >",
+      "published": "2026-08-15T05:24:03Z",
+      "score": 48,
+      "category": "releases",
+      "weight": 8,
+      "tag": "b10437",
+      "summary": "The ggml/llama.cpp project updated its codebase to include support for the MiniMaxText01ForCausalLM and MiniMaxM1ForCausalLM models, enhancing versatility in language modeling applications. These updates are significant as they expand the toolkit's capabilities, allowing for more diverse model integrations and potentially improving performance in specific language tasks.",
+      "summary_detailed": "The ggml/llama.cpp project released updates that added support for the MiniMaxText01ForCausalLM and MiniMaxM1ForCausalLM models, specifically implementing support for the MiniMax-Text-01 model and renaming related elements to align with other MiniMax models. This update also included adding a logits mask due to zero-valued embeddings in the MiniMax-Text-01 embeddings tensor. The broader impact includes expanding the project's compatibility with new language models, potentially enhancing its utility for natural language processing tasks.",
+      "summary_bullets": "• llama : support for MiniMax-Text-01 model\n• chore : renames to match the other MiniMax models\n• model : add logits mask as MiniMax-Text-01 embeddings tensor has zero-valued embeddings for tokens",
+      "sentiment": "neutral",
+      "keywords": [
+        "mini-max",
+        "text",
+        "01",
+        "embeddings",
+        "model",
+        "chore"
+      ],
+      "thumbnail": "https://opengraph.githubassets.com/44d5255b164f957e81b9271a72a565b00bb2297ba727820f21e85564fe2cd8bf/ggml-org/llama.cpp/releases/tag/b10437",
+      "cluster_id": "064b7cce-d220-5130-a2de-0f13306aa494",
+      "cluster_size": 1,
+      "cluster_topics": [
+        "minimax-text-01",
+        "embeddings",
+        "model",
+        "add",
+        "support"
+      ],
+      "geo_title": "Why is ggml/llama.cpp update important for MiniMax models?",
+      "geo_keywords": [
+        "ggml",
+        "llama.cpp",
+        "minimaxtext01forcausallm",
+        "minimaxm1forcausallm",
+        "causal_lm_models",
+        "token_embeddings",
+        "model_support",
+        "zero_valued_embeddings"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "Why is ggml/llama.cpp update important for MiniMax models?",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10437",
+        "description": "The ggml/llama.cpp project updated its codebase to include support for the MiniMaxText01ForCausalLM and MiniMaxM1ForCausalLM models, enhancing versatility in language modeling applications. These updates are significant as they expand the toolkit's capabilities, allowing for more diverse model integrations and potentially improving performance in specific language tasks.",
+        "keywords": "ggml, llama.cpp, minimaxtext01forcausallm, minimaxm1forcausallm, causal_lm_models, token_embeddings, model_support, zero_valued_embeddings",
+        "datePublished": "2026-08-15T05:24:03Z",
+        "dateModified": "2026-08-15T05:24:03Z",
+        "author": {
+          "@type": "Organization",
+          "name": "ggml/llama.cpp releases",
+          "url": "https://github.com"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "releases",
+        "inLanguage": "en-US",
+        "wordCount": 45,
+        "articleBody": "The ggml/llama.cpp project updated its codebase to include support for the MiniMaxText01ForCausalLM and MiniMaxM1ForCausalLM models, enhancing versatility in language modeling applications. These updates are significant as they expand the toolkit's capabilities, allowing for more diverse model integrations and potentially improving performance in specific language tasks."
+      }
+    },
+    {
+      "source_id": "ggml_releases",
+      "source_name": "ggml/llama.cpp releases",
+      "title": "ggml/llama.cpp releases: b10436",
+      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10436",
+      "description": "<details open>\n\nmtmd, common: various fixes (#27071)\n\n* apply fixes\n\n* cont\n\n* revert gguf fix\n\n</details>\n\n**Website:**\n- <https://llama.app>\n\n**macOS/iOS:**\n- [macOS Apple Silicon (arm64)](https://github.com/ggml-org/llama.cpp/releases/download/b10436/llama-b10436-bin-macos-arm64.tar.gz)\n- macOS A",
+      "published": "2026-08-15T04:11:49Z",
+      "score": 48,
+      "category": "releases",
+      "weight": 8,
+      "tag": "b10436",
+      "summary": "The ggml/llama.cpp project released version b10436, which includes various fixes to improve stability. This update is important for users of the macOS and iOS versions who rely on the software's performance and reliability.",
+      "summary_detailed": "The ggml/llama.cpp project released version b10436, which includes various fixes for the macOS and iOS versions. The update addresses issues reported by users and developers, particularly focusing on compatibility with Apple Silicon (arm64) systems. This release impacts users of the platform, enhancing their experience across different operating systems.",
+      "summary_bullets": "• Various fixes applied\n• gguf fix reverted\n• Release version b10436",
+      "sentiment": "neutral",
+      "keywords": [
+        "fixes",
+        "gguf",
+        "arm64"
+      ],
+      "thumbnail": "https://opengraph.githubassets.com/6e5980917331003796d703a7e762a7b31ca69b695a8f4dc8bca51f360805c25c/ggml-org/llama.cpp/releases/tag/b10436",
+      "cluster_id": "a391ad11-4d12-5ac1-b050-6176fea220d1",
+      "cluster_size": 3,
+      "cluster_topics": [
+        "macos",
+        "llama",
+        "https",
+        "cpp",
+        "details"
+      ],
+      "geo_title": "How does ggml/llama.cpp release b10436 address various fixes?",
+      "geo_keywords": [
+        "ggml/llama.cpp releases",
+        "b10436 fixes",
+        "ggml updates",
+        "llama.cpp improvements",
+        "gguf revert",
+        "arm64 version",
+        "macos apple silicon updates"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "How does ggml/llama.cpp release b10436 address various fixes?",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10436",
+        "description": "The ggml/llama.cpp project released version b10436, which includes various fixes to improve stability. This update is important for users of the macOS and iOS versions who rely on the software's performance and reliability.",
+        "keywords": "ggml/llama.cpp releases, b10436 fixes, ggml updates, llama.cpp improvements, gguf revert, arm64 version, macos apple silicon updates",
+        "datePublished": "2026-08-15T04:11:49Z",
+        "dateModified": "2026-08-15T04:11:49Z",
+        "author": {
+          "@type": "Organization",
+          "name": "ggml/llama.cpp releases",
+          "url": "https://github.com"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "releases",
+        "inLanguage": "en-US",
+        "wordCount": 33,
+        "articleBody": "The ggml/llama.cpp project released version b10436, which includes various fixes to improve stability. This update is important for users of the macOS and iOS versions who rely on the software's performance and reliability."
+      }
+    },
+    {
+      "source_id": "ggml_releases",
+      "source_name": "ggml/llama.cpp releases",
+      "title": "ggml/llama.cpp releases: b10435",
+      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10435",
+      "description": "<details open>\n\njinja : fix quadratic cost in gather_string_parts (#27034)\n\n* jinja : fix quadratic cost in gather_string_parts\n\n* fix some comments\n\n* remove test\n\n</details>\n\n**Website:**\n- <https://llama.app>\n\n**macOS/iOS:**\n- [macOS Apple Silicon (arm64)](https://github.com/ggml-org/llama.cpp/re",
+      "published": "2026-08-14T22:27:16Z",
+      "score": 48,
+      "category": "releases",
+      "weight": 8,
+      "tag": "b10435",
+      "summary": "The ggml/llama.cpp project released a new version addressing a quadratic cost issue in the `gather_string_parts` function and making some minor adjustments. This update is significant as it optimizes performance, which is crucial for efficient text processing in natural language models.",
+      "summary_detailed": "The ggml/llama.cpp project released a new version addressing a quadratic cost issue in the `gather_string_parts` function, along with some comment fixes and removal of a test. This update impacts developers using the library for natural language processing tasks, potentially improving performance on macOS Apple Silicon architectures. The broader impact is enhanced efficiency in string handling operations within the framework.",
+      "summary_bullets": "• jinja : fix quadratic cost in gather_string_parts\n\n• fix some comments\n\n• remove test",
+      "sentiment": "neutral",
+      "keywords": [
+        "fix",
+        "gather_string_parts",
+        "comments",
+        "test",
+        "apple silicon"
+      ],
+      "thumbnail": "https://opengraph.githubassets.com/6d23edd73289db92d8b1014088acd97d2ad6578c2a8c7000f08f181572983914/ggml-org/llama.cpp/releases/tag/b10435",
+      "cluster_id": "a391ad11-4d12-5ac1-b050-6176fea220d1",
+      "cluster_size": 3,
+      "cluster_topics": [
+        "macos",
+        "llama",
+        "https",
+        "cpp",
+        "details"
+      ],
+      "geo_title": "Why is ggml/llama.cpp b10435 release focusing on jinja improvements?",
+      "geo_keywords": [
+        "fix gather_string_parts",
+        "comment removal",
+        "test removal",
+        "apple silicon arm64",
+        "llama app updates",
+        "jinja optimization",
+        "ggml releases",
+        "llama.cpp improvements"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "Why is ggml/llama.cpp b10435 release focusing on jinja improvements?",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10435",
+        "description": "The ggml/llama.cpp project released a new version addressing a quadratic cost issue in the `gather_string_parts` function and making some minor adjustments. This update is significant as it optimizes performance, which is crucial for efficient text processing in natural language models.",
+        "keywords": "fix gather_string_parts, comment removal, test removal, apple silicon arm64, llama app updates, jinja optimization, ggml releases, llama.cpp improvements",
+        "datePublished": "2026-08-14T22:27:16Z",
+        "dateModified": "2026-08-14T22:27:16Z",
+        "author": {
+          "@type": "Organization",
+          "name": "ggml/llama.cpp releases",
+          "url": "https://github.com"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "releases",
+        "inLanguage": "en-US",
+        "wordCount": 40,
+        "articleBody": "The ggml/llama.cpp project released a new version addressing a quadratic cost issue in the `gather_string_parts` function and making some minor adjustments. This update is significant as it optimizes performance, which is crucial for efficient text processing in natural language models."
+      }
+    },
+    {
+      "source_id": "ggml_releases",
+      "source_name": "ggml/llama.cpp releases",
+      "title": "ggml/llama.cpp releases: b10434",
+      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10434",
+      "description": "<details open>\n\nchat : pass reasoning_effort to template\n\n* chat: add reasoning_effort to common_chat_templates_inputs\n\nStore OpenAI Chat Completions reasoning_effort and make it\navailable to jinja templates (with model specific translations\nwhere required).\n\nAssisted-by: llama.cpp:Muse-Glimmer-30B",
+      "published": "2026-08-14T19:22:14Z",
+      "score": 48,
+      "category": "releases",
+      "weight": 8,
+      "tag": "b10434",
+      "summary": "The ggml/llama.cpp project updated its codebase with new changes, including adding the `reasoning_effort` field to chat completions for better template integration. This update enhances template flexibility and model-specific reasoning handling.",
+      "summary_detailed": "The ggml/llama.cpp project released version b10434, which includes updates to the chat functionality by adding reasoning_effort to common_chat_templates_inputs and storing OpenAI Chat Completions with model-specific translations. This update impacts the broader community by enhancing template availability and flexibility for reasoning efforts in AI models.",
+      "summary_bullets": "• chat: add reasoning_effort to common_chat_templates_inputs\n• Store OpenAI Chat Completions reasoning_effort in Jinja templates\n• Include model-specific translations where necessary",
+      "sentiment": "neutral",
+      "keywords": [
+        "chat",
+        "reasoning_effort",
+        "template",
+        "openai",
+        "store"
+      ],
+      "thumbnail": "https://opengraph.githubassets.com/6553385f41c1cb72a4f74f25214423ef36c9e0d2a9115fa9b6c658667568c081/ggml-org/llama.cpp/releases/tag/b10434",
+      "cluster_id": "55cd3dc8-ce90-5601-923b-232b8cd4a313",
+      "cluster_size": 1,
+      "cluster_topics": [
+        "chat",
+        "reasoning_effort",
+        "llama",
+        "cpp",
+        "b10434"
+      ],
+      "geo_title": "Why is ggml/llama.cpp b10434 release noteworthy?",
+      "geo_keywords": [
+        "ggml",
+        "llama.cpp",
+        "b10434 release",
+        "ai model optimization",
+        "open source ai",
+        "latest ai updates",
+        "chat reasoning effort",
+        "ai template storage"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "Why is ggml/llama.cpp b10434 release noteworthy?",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10434",
+        "description": "The ggml/llama.cpp project updated its codebase with new changes, including adding the `reasoning_effort` field to chat completions for better template integration. This update enhances template flexibility and model-specific reasoning handling.",
+        "keywords": "ggml, llama.cpp, b10434 release, ai model optimization, open source ai, latest ai updates, chat reasoning effort, ai template storage",
+        "datePublished": "2026-08-14T19:22:14Z",
+        "dateModified": "2026-08-14T19:22:14Z",
+        "author": {
+          "@type": "Organization",
+          "name": "ggml/llama.cpp releases",
+          "url": "https://github.com"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "releases",
+        "inLanguage": "en-US",
+        "wordCount": 30,
+        "articleBody": "The ggml/llama.cpp project updated its codebase with new changes, including adding the `reasoning_effort` field to chat completions for better template integration. This update enhances template flexibility and model-specific reasoning handling."
+      }
+    },
+    {
+      "source_id": "ggml_releases",
+      "source_name": "ggml/llama.cpp releases",
+      "title": "ggml/llama.cpp releases: b10433",
+      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10433",
+      "description": "<details open>\n\nsync : ggml\n\n</details>\n\n**Website:**\n- <https://llama.app>\n\n**macOS/iOS:**\n- [macOS Apple Silicon (arm64)](https://github.com/ggml-org/llama.cpp/releases/download/b10433/llama-b10433-bin-macos-arm64.tar.gz)\n- macOS Apple Silicon (arm64, KleidiAI enabled) [DISABLED](https://github.co",
+      "published": "2026-08-14T18:19:57Z",
+      "score": 48,
+      "category": "releases",
+      "weight": 8,
+      "tag": "b10433",
+      "summary": "The ggml/llama.cpp project has released version b10433, which includes updates to the ggml library. This release is significant for users of macOS on Apple Silicon who are interested in using optimized machine learning models.",
+      "summary_detailed": "The ggml/llama.cpp project has released version b10433, which includes updates to the ggml library. This release is available for macOS users on Apple Silicon architecture and can be downloaded from the provided GitHub link. The broader impact of this update may include improved performance and compatibility for users running specific applications on newer Mac hardware.",
+      "summary_bullets": "• ggml and llama.cpp have been synced.\n• macOS Apple Silicon (arm64) version is available.\n• macOS Apple Silicon (arm64) with KleidiAI is disabled.",
+      "sentiment": "neutral",
+      "keywords": [
+        "ggml",
+        "llama.cpp",
+        "macos",
+        "arm64",
+        "kleidiai"
+      ],
+      "thumbnail": "https://opengraph.githubassets.com/2d36b4d9d29fc7916b93789c06ac0827128e759fa1cce42d52167189a9cebe1d/ggml-org/llama.cpp/releases/tag/b10433",
+      "cluster_id": "a391ad11-4d12-5ac1-b050-6176fea220d1",
+      "cluster_size": 3,
+      "cluster_topics": [
+        "macos",
+        "llama",
+        "https",
+        "cpp",
+        "details"
+      ],
+      "geo_title": "Why is ggml/llama.cpp release b10433 significant?",
+      "geo_keywords": [
+        "ggml",
+        "llama.cpp",
+        "b10433 release",
+        "machine learning models",
+        "ai model optimization",
+        "kleidiai disabled",
+        "macos arm64 binaries",
+        "latest ai technology updates"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "Why is ggml/llama.cpp release b10433 significant?",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10433",
+        "description": "The ggml/llama.cpp project has released version b10433, which includes updates to the ggml library. This release is significant for users of macOS on Apple Silicon who are interested in using optimized machine learning models.",
+        "keywords": "ggml, llama.cpp, b10433 release, machine learning models, ai model optimization, kleidiai disabled, macos arm64 binaries, latest ai technology updates",
+        "datePublished": "2026-08-14T18:19:57Z",
+        "dateModified": "2026-08-14T18:19:57Z",
+        "author": {
+          "@type": "Organization",
+          "name": "ggml/llama.cpp releases",
+          "url": "https://github.com"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "releases",
+        "inLanguage": "en-US",
+        "wordCount": 34,
+        "articleBody": "The ggml/llama.cpp project has released version b10433, which includes updates to the ggml library. This release is significant for users of macOS on Apple Silicon who are interested in using optimized machine learning models."
+      }
+    },
+    {
+      "source_id": "hn_llm_24h",
+      "source_name": "HN top LLM 24h",
+      "title": "Show HN: Mole – Deep research agent for your terminal",
+      "url": "https://github.com/lajosdeme/mole",
+      "description": "",
+      "published": "2026-08-14T18:52:48+00:00",
+      "score": 42,
+      "category": "trending",
+      "weight": 9,
+      "points": 62,
+      "comments_url": "https://news.ycombinator.com/item?id=49303046",
+      "summary": "Mole is a new terminal-based tool designed to help developers conduct deep, automated research by integrating various online services and APIs directly from the command line. Its release matters because it streamlines the process of gathering information, potentially increasing productivity and efficiency in research-heavy workflows.",
+      "summary_detailed": "Mole, a new tool developed for terminal users, acts as a deep research agent to automate and streamline information gathering from the command line interface. It is designed primarily for developers and security researchers who require efficient access to extensive data sources directly through their terminals. By enhancing the capabilities of terminal environments, Mole has the potential to significantly boost productivity in technical fields while simplifying complex data retrieval processes.",
+      "summary_bullets": "• Mole is a deep research tool designed for terminal users.\n• It automates the process of gathering information from various sources.\n• Mole supports multiple programming languages and frameworks.",
+      "sentiment": "neutral",
+      "keywords": [
+        "terminal",
+        "research",
+        "mole"
+      ],
+      "thumbnail": "https://opengraph.githubassets.com/5c60f8cddd17afc74a07fd40530b40eda0d9358e8d3873783518e26e4fd584ea/lajosdeme/mole",
+      "cluster_id": "e13deffd-50ea-517b-864c-3c23fd9a3cdd",
+      "cluster_size": 1,
+      "cluster_topics": [
+        "mole",
+        "deep",
+        "research",
+        "terminal",
+        "agent"
+      ],
+      "geo_title": "Why is Mole the Ultimate Deep Research Agent for Your Terminal?",
+      "geo_keywords": [
+        "deep research terminal",
+        "terminal-based research tool",
+        "mole deep research agent",
+        "how to use research agent in terminal",
+        "deep tech research tools",
+        "terminal technology for researchers",
+        "what is mole research agent",
+        "mole deep research software",
+        "how does mole work for research",
+        "research tools for command line",
+        "deep research in terminal",
+        "mole technology for research"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "Why is Mole the Ultimate Deep Research Agent for Your Terminal?",
+        "url": "https://github.com/lajosdeme/mole",
+        "description": "Mole is a new terminal-based tool designed to help developers conduct deep, automated research by integrating various online services and APIs directly from the command line. Its release matters because it streamlines the process of gathering information, potentially increasing productivity and efficiency in research-heavy workflows.",
+        "keywords": "deep research terminal, terminal-based research tool, mole deep research agent, how to use research agent in terminal, deep tech research tools, terminal technology for researchers, what is mole research agent, mole deep research software",
+        "datePublished": "2026-08-14T18:52:48+00:00",
+        "dateModified": "2026-08-14T18:52:48+00:00",
+        "author": {
+          "@type": "Organization",
+          "name": "HN top LLM 24h",
+          "url": "https://github.com"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "trending",
+        "inLanguage": "en-US",
+        "wordCount": 45,
+        "articleBody": "Mole is a new terminal-based tool designed to help developers conduct deep, automated research by integrating various online services and APIs directly from the command line. Its release matters because it streamlines the process of gathering information, potentially increasing productivity and efficiency in research-heavy workflows."
+      }
+    },
+    {
+      "source_id": "hn_ai_24h",
+      "source_name": "HN top AI 24h",
+      "title": "AI Model Atlas – visualizing populations of ML models as interconnected 3D graph",
+      "url": "https://run.cosmograph.app/public/ca9fd1ad-fe83-4238-8b69-b707c633aef0",
+      "description": "",
+      "published": "2026-08-14T14:22:39+00:00",
+      "score": 38,
+      "category": "trending",
+      "weight": 8,
+      "points": 57,
+      "comments_url": "https://news.ycombinator.com/item?id=49299102",
+      "summary": "AI researchers have developed a tool called Atlas, which visualizes collections of machine learning models as an interconnected 3D graph, providing insights into their relationships. This visualization helps in understanding the diversity and connections within populations of ML models, crucial for advancing model development and evaluation processes.",
+      "summary_detailed": "Researchers have developed AI Model Atlas, a tool that visualizes populations of machine learning models as an interconnected 3D graph. This visualization helps in understanding the relationships and differences between various models, facilitating better model selection and management. The broader impact could revolutionize how data scientists analyze and compare ML models, potentially leading to more efficient and effective model development processes across industries.",
+      "summary_bullets": "• Introduces AI Model Atlas for visualizing machine learning models.\n• Represents populations of ML models using an interconnected 3D graph.\n• Enhances understanding and management of diverse ML model ecosystems.",
+      "sentiment": "neutral",
+      "keywords": [
+        "ai model",
+        "atlas",
+        "machine learning",
+        "3d graph",
+        "visualization"
+      ],
+      "thumbnail": null,
+      "favicon": "https://www.google.com/s2/favicons?domain=run.cosmograph.app&sz=64",
+      "cluster_id": "f2ac8ad4-6889-5bcf-bc97-e5f468f31f07",
+      "cluster_size": 1,
+      "cluster_topics": [
+        "visualizing",
+        "populations",
+        "interconnected",
+        "atlas",
+        "graph"
+      ],
+      "geo_title": "Why is Atlas AI Model important for visualizing ML populations?",
+      "geo_keywords": [
+        "ai model visualization",
+        "ml model atlas",
+        "3d graph machine learning",
+        "ai model populations",
+        "machine learning model visualization",
+        "ai model analysis",
+        "what is ai model atlas",
+        "how does ai model visualization work"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "Why is Atlas AI Model important for visualizing ML populations?",
+        "url": "https://run.cosmograph.app/public/ca9fd1ad-fe83-4238-8b69-b707c633aef0",
+        "description": "AI researchers have developed a tool called Atlas, which visualizes collections of machine learning models as an interconnected 3D graph, providing insights into their relationships. This visualization helps in understanding the diversity and connections within populations of ML models, crucial for advancing model development and evaluation processes.",
+        "keywords": "ai model visualization, ml model atlas, 3d graph machine learning, ai model populations, machine learning model visualization, ai model analysis, what is ai model atlas, how does ai model visualization work",
+        "datePublished": "2026-08-14T14:22:39+00:00",
+        "dateModified": "2026-08-14T14:22:39+00:00",
+        "author": {
+          "@type": "Organization",
+          "name": "HN top AI 24h",
+          "url": "https://run.cosmograph.app"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "trending",
+        "inLanguage": "en-US",
+        "wordCount": 47,
+        "articleBody": "AI researchers have developed a tool called Atlas, which visualizes collections of machine learning models as an interconnected 3D graph, providing insights into their relationships. This visualization helps in understanding the diversity and connections within populations of ML models, crucial for advancing model development and evaluation processes."
+      }
+    },
+    {
+      "source_id": "hn_llm_24h",
+      "source_name": "HN top LLM 24h",
+      "title": "A Contract-Grade Verifier for LLM-Generated GPU Kernels",
+      "url": "https://arxiv.org/abs/2608.12700",
+      "description": "",
+      "published": "2026-08-14T16:57:14+00:00",
+      "score": 38,
+      "category": "trending",
+      "weight": 9,
+      "points": 40,
+      "comments_url": "https://news.ycombinator.com/item?id=49301417",
+      "summary": "A new tool for verifying the correctness of GPU kernels generated by large language models has been developed, addressing concerns about reliability in AI-generated code. This verifier is crucial as it ensures that AI tools can be trusted to produce accurate and efficient computational tasks for graphics processing units.",
+      "summary_detailed": "A new tool for verifying large language model-generated GPU kernels has been developed to ensure their correctness and reliability. This verifier is designed to work with contracts or specifications provided by developers, automatically checking the generated code against these requirements. The broader impact of this tool could significantly enhance the trustworthiness of AI-generated code in high-performance computing environments, potentially reducing errors and improving efficiency in applications like machine learning and scientific simulations.",
+      "summary_bullets": "• Introduces a new tool for verifying LLM-generated GPU kernels.\n• Enhances reliability and performance of AI-driven GPU programming.\n• Utilizes contract-based methods for rigorous validation processes.",
+      "sentiment": "neutral",
+      "keywords": [
+        "contract-grade verifier",
+        "llm-generated",
+        "gpu kernels"
+      ],
+      "thumbnail": null,
+      "favicon": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=64",
+      "cluster_id": "2f3da7b2-ead4-5688-9f18-53b459cd113f",
+      "cluster_size": 1,
+      "cluster_topics": [
+        "contract-grade",
+        "verifier",
+        "llm-generated",
+        "kernels",
+        "gpu"
+      ],
+      "geo_title": "Why is a contract-grade verifier needed for LLM-generated GPU kernels?",
+      "geo_keywords": [
+        "contract-grade verifier",
+        "llm-generated gpu kernels",
+        "automated verification tools",
+        "llm kernel optimization",
+        "deep learning accelerator validation",
+        "ai model deployment challenges",
+        "ensuring llm accuracy",
+        "verifying llm output correctness"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "Why is a contract-grade verifier needed for LLM-generated GPU kernels?",
+        "url": "https://arxiv.org/abs/2608.12700",
+        "description": "A new tool for verifying the correctness of GPU kernels generated by large language models has been developed, addressing concerns about reliability in AI-generated code. This verifier is crucial as it ensures that AI tools can be trusted to produce accurate and efficient computational tasks for graphics processing units.",
+        "keywords": "contract-grade verifier, llm-generated gpu kernels, automated verification tools, llm kernel optimization, deep learning accelerator validation, ai model deployment challenges, ensuring llm accuracy, verifying llm output correctness",
+        "datePublished": "2026-08-14T16:57:14+00:00",
+        "dateModified": "2026-08-14T16:57:14+00:00",
+        "author": {
+          "@type": "Organization",
+          "name": "HN top LLM 24h",
+          "url": "https://arxiv.org"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "trending",
+        "inLanguage": "en-US",
+        "wordCount": 49,
+        "articleBody": "A new tool for verifying the correctness of GPU kernels generated by large language models has been developed, addressing concerns about reliability in AI-generated code. This verifier is crucial as it ensures that AI tools can be trusted to produce accurate and efficient computational tasks for graphics processing units."
+      }
+    },
+    {
+      "source_id": "yt_two_minute_papers",
+      "source_name": "Two Minute Papers",
+      "title": "Claude AI Failed 650 Times…Then Beat The Human Record",
+      "url": "https://www.youtube.com/watch?v=QnGNF8k_uoc",
+      "description": "",
+      "published": "",
+      "score": 35,
+      "category": "research",
+      "weight": 7,
+      "format": "video",
+      "summary": "Claude AI attempted a task 650 times before finally beating the human record, showcasing significant advancements in artificial intelligence capabilities. This milestone highlights the potential for AI to surpass human performance through persistent learning and optimization.",
+      "summary_detailed": "Claude AI, during its training, failed to surpass human records 650 times but eventually succeeded in breaking a human-set benchmark. This achievement highlights the iterative nature of AI development and its potential to outperform human capabilities in specific tasks. The event underscores the broader impact of advancing AI technologies on various fields, potentially leading to new standards and applications.",
+      "summary_bullets": "• Claude AI attempted 651 times before breaking the human record.\n• The achievement involved a significant number of failures to reach success.\n• The breakthrough indicates the iterative nature of AI development.",
+      "sentiment": "positive",
+      "keywords": [
+        "claude ai",
+        "failed",
+        "human record"
+      ],
+      "thumbnail": null,
+      "favicon": "https://www.google.com/s2/favicons?domain=www.youtube.com&sz=64",
+      "cluster_id": "c926f349-e208-5132-be1b-bd4c5feebc28",
+      "cluster_size": 1,
+      "cluster_topics": [
+        "claude",
+        "times",
+        "beat",
+        "record",
+        "failed"
+      ],
+      "geo_title": "Why is Claude AI Reaching Human-Level Performance After Numerous Failures?",
+      "geo_keywords": [
+        "claude ai development",
+        "claude ai testing failures",
+        "chatgpt vs claude ai",
+        "large language model performance",
+        "artificial intelligence breakthrough",
+        "ai technology advancement",
+        "how ai systems improve over time",
+        "overcoming ai challenges",
+        "what does it take to beat human records in ai",
+        "can ai surpass human capabilities",
+        "claude ai success rate",
+        "improving ai through failure"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "Why is Claude AI Reaching Human-Level Performance After Numerous Failures?",
+        "url": "https://www.youtube.com/watch?v=QnGNF8k_uoc",
+        "description": "Claude AI attempted a task 650 times before finally beating the human record, showcasing significant advancements in artificial intelligence capabilities. This milestone highlights the potential for AI to surpass human performance through persistent learning and optimization.",
+        "keywords": "claude ai development, claude ai testing failures, chatgpt vs claude ai, large language model performance, artificial intelligence breakthrough, ai technology advancement, how ai systems improve over time, overcoming ai challenges",
+        "datePublished": "",
+        "dateModified": "",
+        "author": {
+          "@type": "Organization",
+          "name": "Two Minute Papers",
+          "url": "https://www.youtube.com"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "research",
+        "inLanguage": "en-US",
+        "wordCount": 36,
+        "articleBody": "Claude AI attempted a task 650 times before finally beating the human record, showcasing significant advancements in artificial intelligence capabilities. This milestone highlights the potential for AI to surpass human performance through persistent learning and optimization."
+      }
+    },
+    {
+      "source_id": "hn_show_ai_7d",
+      "source_name": "Show HN AI 7d",
+      "title": "Show HN: Deltix – AI Driven Testing",
+      "url": "https://app.deltix.ai",
+      "description": "",
+      "published": "2026-08-15T02:42:14+00:00",
+      "score": 33,
+      "category": "open_source",
+      "weight": 9,
+      "points": 19,
+      "comments_url": "https://news.ycombinator.com/item?id=49307099",
+      "summary": "Deltix has launched an AI-driven testing platform aimed at enhancing software development efficiency. This tool matters because it leverages artificial intelligence to automate and optimize testing processes, potentially reducing errors and speeding up development cycles.",
+      "summary_detailed": "Deltix has launched an AI-driven testing platform aimed at enhancing software development efficiency. The technology automates various testing processes to reduce human error and increase speed in software validation, impacting industries that rely heavily on robust software testing practices.",
+      "summary_bullets": "• AI-driven testing platform developed by Deltix\n• Automates test case creation and execution\n• Enhances software quality through machine learning",
+      "sentiment": "neutral",
+      "keywords": [
+        "ai",
+        "testing",
+        "deltix",
+        "driven",
+        "showhn"
+      ],
+      "thumbnail": null,
+      "favicon": "https://www.google.com/s2/favicons?domain=app.deltix.ai&sz=64",
+      "cluster_id": "58eeb535-de68-5220-bf87-98fa9f33f4ec",
+      "cluster_size": 1,
+      "cluster_topics": [
+        "deltix",
+        "driven",
+        "testing",
+        "show"
+      ],
+      "geo_title": "Why is AI-driven testing becoming essential for developers?",
+      "geo_keywords": [
+        "ai-driven testing",
+        "deltix technology",
+        "automated testing with ai",
+        "show hn deltix",
+        "ai testing solutions",
+        "intelligent test automation",
+        "what is ai-driven testing",
+        "how ai improves testing process"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "Why is AI-driven testing becoming essential for developers?",
+        "url": "https://app.deltix.ai",
+        "description": "Deltix has launched an AI-driven testing platform aimed at enhancing software development efficiency. This tool matters because it leverages artificial intelligence to automate and optimize testing processes, potentially reducing errors and speeding up development cycles.",
+        "keywords": "ai-driven testing, deltix technology, automated testing with ai, show hn deltix, ai testing solutions, intelligent test automation, what is ai-driven testing, how ai improves testing process",
+        "datePublished": "2026-08-15T02:42:14+00:00",
+        "dateModified": "2026-08-15T02:42:14+00:00",
+        "author": {
+          "@type": "Organization",
+          "name": "Show HN AI 7d",
+          "url": "https://app.deltix.ai"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "open_source",
+        "inLanguage": "en-US",
+        "wordCount": 35,
+        "articleBody": "Deltix has launched an AI-driven testing platform aimed at enhancing software development efficiency. This tool matters because it leverages artificial intelligence to automate and optimize testing processes, potentially reducing errors and speeding up development cycles."
+      }
+    },
+    {
+      "source_id": "mit_technology_review_ai",
+      "source_name": "MIT Technology Review AI",
+      "title": "The Download: Flock’s new rules, cloning’s future, and children’s cells",
+      "url": "https://www.technologyreview.com/2026/08/14/1142033/the-download-flock-new-rules-cloning-future/",
+      "description": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Flock is tightening its rules in response to a growing surveillance backlash The police-tech giant Flock is changing officers’ access to its nationwid",
+      "published": "Fri, 14 Aug 2026 12:17:21 +0000",
+      "score": 32,
+      "category": "industry",
+      "weight": 8,
+      "format": "article",
+      "summary": "Flock is implementing stricter rules in response to concerns over surveillance, aiming to address growing public backlash. These changes are significant as Flock is a major player in police technology, affecting how law enforcement accesses and uses data nationwide.",
+      "summary_detailed": "Flock, a police technology company, is implementing stricter rules in response to increasing concerns about surveillance. These changes aim to limit officers' access to the platform nationwide. Broader implications include potential improvements in privacy and public trust, though ongoing debates about technological oversight remain.",
+      "summary_bullets": "• Flock is tightening its rules due to growing surveillance concerns.\n• Officers' access to Flock's nationwide platform will be restricted.\n• The company aims to address privacy issues amid public backlash.",
+      "sentiment": "neutral",
+      "keywords": [
+        "flock",
+        "surveillance",
+        "cloning",
+        "children",
+        "cells"
+      ],
+      "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2026/08/AP26039248966381.jpg?resize=1200,600",
+      "cluster_id": "c3cb41fd-f1a9-51b9-a174-98b82105382d",
+      "cluster_size": 1,
+      "cluster_topics": [
+        "flock",
+        "rules",
+        "download",
+        "cloning",
+        "children"
+      ],
+      "geo_title": "Why are Flock's new rules and cloning's future making headlines today?",
+      "geo_keywords": [
+        "flock new rules",
+        "flock surveillance backlash",
+        "future of cloning technology",
+        "ethical use of cloning",
+        "children's stem cells and ethics",
+        "technological surveillance concerns",
+        "police tech company regulations",
+        "advancements in cloning research",
+        "moral implications of cloning technology"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "Why are Flock's new rules and cloning's future making headlines today?",
+        "url": "https://www.technologyreview.com/2026/08/14/1142033/the-download-flock-new-rules-cloning-future/",
+        "description": "Flock is implementing stricter rules in response to concerns over surveillance, aiming to address growing public backlash. These changes are significant as Flock is a major player in police technology, affecting how law enforcement accesses and uses data nationwide.",
+        "keywords": "flock new rules, flock surveillance backlash, future of cloning technology, ethical use of cloning, children's stem cells and ethics, technological surveillance concerns, police tech company regulations, advancements in cloning research",
+        "datePublished": "Fri, 14 Aug 2026 12:17:21 +0000",
+        "dateModified": "Fri, 14 Aug 2026 12:17:21 +0000",
+        "author": {
+          "@type": "Organization",
+          "name": "MIT Technology Review AI",
+          "url": "https://www.technologyreview.com"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "industry",
+        "inLanguage": "en-US",
+        "wordCount": 39,
+        "articleBody": "Flock is implementing stricter rules in response to concerns over surveillance, aiming to address growing public backlash. These changes are significant as Flock is a major player in police technology, affecting how law enforcement accesses and uses data nationwide."
+      }
+    },
+    {
+      "source_id": "mit_technology_review_ai",
+      "source_name": "MIT Technology Review AI",
+      "title": "This scientist is helping build a missing map of childhood",
+      "url": "https://www.technologyreview.com/2026/08/14/1141354/deanne-taylor-gene-expression-children/",
+      "description": "In 2017, Deanne Taylor attended a presentation at the University of Pennsylvania, just a short walk from her office. A researcher was there to unveil the Human Cell Atlas, an ambitious project that aimed to map every cell in the human body. Taylor was floored, and then concerned. As details emerged,",
+      "published": "Fri, 14 Aug 2026 09:00:00 +0000",
+      "score": 32,
+      "category": "industry",
+      "weight": 8,
+      "format": "article",
+      "summary": "Deanne Taylor, inspired by the Human Cell Atlas project, is working to create a comprehensive map of childhood development stages, addressing gaps in understanding pediatric health. This initiative matters as it could significantly advance medical research and treatment tailored specifically for children.",
+      "summary_detailed": "Deanne Taylor, a scientist, became inspired by the Human Cell Atlas project after attending its unveiling at the University of Pennsylvania in 2017. Concerned about the lack of comprehensive data on childhood-specific cells, she is now working to build a missing map focusing on children's cells, aiming to fill critical gaps in understanding pediatric health and disease. This initiative could significantly impact medical research and treatment approaches tailored specifically for children.",
+      "summary_bullets": "• In 2017, Deanne Taylor attended a presentation on the Human Cell Atlas.\n• The project aims to map every cell in the human body.\n• Taylor became concerned about the lack of focus on childhood cells.\n• She is now working to build a missing map of childhood.",
+      "sentiment": "positive",
+      "keywords": [
+        "human cell atlas",
+        "childhood",
+        "mapping",
+        "researcher",
+        "university of pennsylvania"
+      ],
+      "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2026/08/HLY_5765-FINAL.jpg?resize=1200,600",
+      "cluster_id": "46ab8111-4090-59dc-9620-ac93b91f66ad",
+      "cluster_size": 1,
+      "cluster_topics": [
+        "map",
+        "taylor",
+        "cell",
+        "human",
+        "scientist"
+      ],
+      "geo_title": "How does a scientist create a missing map of childhood health?",
+      "geo_keywords": [
+        "human cell atlas",
+        "mapping childhood",
+        "researcher university of pennsylvania",
+        "genetic mapping technologies",
+        "cellular biology research",
+        "what is human cell atlas",
+        "advancements in cellular mapping",
+        "how does the human cell atlas work"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "How does a scientist create a missing map of childhood health?",
+        "url": "https://www.technologyreview.com/2026/08/14/1141354/deanne-taylor-gene-expression-children/",
+        "description": "Deanne Taylor, inspired by the Human Cell Atlas project, is working to create a comprehensive map of childhood development stages, addressing gaps in understanding pediatric health. This initiative matters as it could significantly advance medical research and treatment tailored specifically for children.",
+        "keywords": "human cell atlas, mapping childhood, researcher university of pennsylvania, genetic mapping technologies, cellular biology research, what is human cell atlas, advancements in cellular mapping, how does the human cell atlas work",
+        "datePublished": "Fri, 14 Aug 2026 09:00:00 +0000",
+        "dateModified": "Fri, 14 Aug 2026 09:00:00 +0000",
+        "author": {
+          "@type": "Organization",
+          "name": "MIT Technology Review AI",
+          "url": "https://www.technologyreview.com"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "industry",
+        "inLanguage": "en-US",
+        "wordCount": 42,
+        "articleBody": "Deanne Taylor, inspired by the Human Cell Atlas project, is working to create a comprehensive map of childhood development stages, addressing gaps in understanding pediatric health. This initiative matters as it could significantly advance medical research and treatment tailored specifically for children."
+      }
+    },
+    {
+      "source_id": "mit_technology_review_ai",
+      "source_name": "MIT Technology Review AI",
+      "title": "Job titles of the future: Space travel agent",
+      "url": "https://www.technologyreview.com/2026/08/14/1141431/job-titles-space-travel-agent-roman-chiporukha/",
+      "description": "Roman Chiporukha has long turned wild travel dreams into reality. Over two decades as co-owner of the luxury lifestyle firm Roman &#38; Erica, he has orchestrated everything from the construction of a client’s superyacht to vacations in the Bahamas at a location so private that guests must sign an N",
+      "published": "Fri, 14 Aug 2026 09:00:00 +0000",
+      "score": 32,
+      "category": "industry",
+      "weight": 8,
+      "format": "article",
+      "summary": "Roman Chiporukha, known for his luxury travel company, is now offering space travel experiences, highlighting the evolving nature of high-end travel services as technology advances. This shift underscores growing consumer interest in space tourism and the potential for traditional travel agencies to adapt into new markets.",
+      "summary_detailed": "Roman Chiporukha, co-owner of the luxury lifestyle firm Roman & Erica, is now offering space travel experiences as part of his services, marking a new frontier in high-end travel. This venture reflects growing interest in space tourism and expands on Chiporukha's existing range of exclusive travel offerings. The introduction of space travel agent as a job title signals broader industry shifts towards integrating space exploration into traditional luxury travel experiences.",
+      "summary_bullets": "• Roman Chiporukha has over 20 years of experience in luxury travel.\n• He co-owns the company Roman & Erica, known for bespoke travel experiences.\n• The firm offers unique vacation options including private islands.",
+      "sentiment": "neutral",
+      "keywords": [
+        "space travel agent",
+        "job titles",
+        "future",
+        "luxury",
+        "travel"
+      ],
+      "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2026/08/space.jpeg?resize=1200,600",
+      "cluster_id": "6875ba77-6daa-5f4b-b4b5-cf575e1b384a",
+      "cluster_size": 1,
+      "cluster_topics": [
+        "travel",
+        "roman",
+        "job",
+        "titles",
+        "space"
+      ],
+      "geo_title": "Why is space travel agent becoming a job title of the future?",
+      "geo_keywords": [
+        "future job titles",
+        "space travel services",
+        "space tourism industry",
+        "luxury travel trends",
+        "next generation careers",
+        "space vacation planning",
+        "emerging travel roles",
+        "client experience in space travel",
+        "how to become a space travel agent",
+        "space travel agency",
+        "advancements in space tourism",
+        "future of luxury travel"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "Why is space travel agent becoming a job title of the future?",
+        "url": "https://www.technologyreview.com/2026/08/14/1141431/job-titles-space-travel-agent-roman-chiporukha/",
+        "description": "Roman Chiporukha, known for his luxury travel company, is now offering space travel experiences, highlighting the evolving nature of high-end travel services as technology advances. This shift underscores growing consumer interest in space tourism and the potential for traditional travel agencies to adapt into new markets.",
+        "keywords": "future job titles, space travel services, space tourism industry, luxury travel trends, next generation careers, space vacation planning, emerging travel roles, client experience in space travel",
+        "datePublished": "Fri, 14 Aug 2026 09:00:00 +0000",
+        "dateModified": "Fri, 14 Aug 2026 09:00:00 +0000",
+        "author": {
+          "@type": "Organization",
+          "name": "MIT Technology Review AI",
+          "url": "https://www.technologyreview.com"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "industry",
+        "inLanguage": "en-US",
+        "wordCount": 46,
+        "articleBody": "Roman Chiporukha, known for his luxury travel company, is now offering space travel experiences, highlighting the evolving nature of high-end travel services as technology advances. This shift underscores growing consumer interest in space tourism and the potential for traditional travel agencies to adapt into new markets."
+      }
+    },
+    {
+      "source_id": "hn_show_ai_7d",
+      "source_name": "Show HN AI 7d",
+      "title": "Show HN: Is AI Dumber Today? An index of AI model experience from user's opinion",
+      "url": "https://isaidumber.today/",
+      "description": "",
+      "published": "2026-08-14T13:50:46+00:00",
+      "score": 31,
+      "category": "open_source",
+      "weight": 9,
+      "points": 14,
+      "comments_url": "https://news.ycombinator.com/item?id=49298674",
+      "summary": "A new project aims to gauge the progress and limitations of AI models by tracking their \"experience\" based on user opinions, sparking debate on AI development and transparency. This initiative matters as it could provide insights into AI growth and highlight areas needing improvement in artificial intelligence technology.",
+      "summary_detailed": "A new project aims to gauge the intelligence levels of various AI models based on user feedback, creating an index that tracks how these models perform over time. The initiative involves contributions from a wide range of users who provide insights and ratings on different AI systems' capabilities. This effort could lead to more transparent assessments of AI advancements and help identify areas where improvements are needed.",
+      "summary_bullets": "• The platform allows users to rate the intelligence level of various AI models.\n• Users can contribute their opinions on different AI experiences.\n• An index is compiled based on these user ratings to gauge AI model performance.",
+      "sentiment": "neutral",
+      "keywords": [
+        "ai",
+        "dumber",
+        "experience",
+        "opinion",
+        "index"
+      ],
+      "thumbnail": "https://isaidumber.today/og/iadt-share-card.png",
+      "cluster_id": "92732fac-fc9b-51b7-88cf-795f5b667a97",
+      "cluster_size": 1,
+      "cluster_topics": [
+        "dumber",
+        "index",
+        "experience",
+        "user",
+        "opinion"
+      ],
+      "geo_title": "Why is AI Dumber Today According to User Opinion?",
+      "geo_keywords": [
+        "ai intelligence decline",
+        "ai experience index",
+        "public opinion on ai",
+        "is ai getting smarter",
+        "ai model performance analysis",
+        "ai dumbing down",
+        "user feedback on ai technology"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "Why is AI Dumber Today According to User Opinion?",
+        "url": "https://isaidumber.today/",
+        "description": "A new project aims to gauge the progress and limitations of AI models by tracking their \"experience\" based on user opinions, sparking debate on AI development and transparency. This initiative matters as it could provide insights into AI growth and highlight areas needing improvement in artificial intelligence technology.",
+        "keywords": "ai intelligence decline, ai experience index, public opinion on ai, is ai getting smarter, ai model performance analysis, ai dumbing down, user feedback on ai technology",
+        "datePublished": "2026-08-14T13:50:46+00:00",
+        "dateModified": "2026-08-14T13:50:46+00:00",
+        "author": {
+          "@type": "Organization",
+          "name": "Show HN AI 7d",
+          "url": "https://isaidumber.today"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "open_source",
+        "inLanguage": "en-US",
+        "wordCount": 48,
+        "articleBody": "A new project aims to gauge the progress and limitations of AI models by tracking their \"experience\" based on user opinions, sparking debate on AI development and transparency. This initiative matters as it could provide insights into AI growth and highlight areas needing improvement in artificial intelligence technology."
+      }
+    },
+    {
+      "source_id": "hn_show_ai_7d",
+      "source_name": "Show HN AI 7d",
+      "title": "Show HN: APIMart: Discounted AI API Aggregator for GPT-5, Sora 2",
+      "url": "https://apimart.ai/register?aff=yScTCM",
+      "description": "",
+      "published": "2026-08-14T14:14:13+00:00",
+      "score": 30,
+      "category": "open_source",
+      "weight": 9,
+      "points": 7,
+      "comments_url": "https://news.ycombinator.com/item?id=49299000",
+      "summary": "APIMart is offering discounted access to AI APIs including GPT-5 and Sora 2, making advanced language model technologies more affordable for developers. This matters because it could accelerate innovation and adoption of cutting-edge AI tools across various industries.",
+      "summary_detailed": "APIMart launched a discounted API aggregator service for upcoming AI models GPT-5 and Sora 2, offering developers access to these advanced APIs at reduced prices. The platform aims to democratize access to cutting-edge AI technologies by providing affordable bundles. This move could significantly impact the development community, accelerating innovation in AI applications across various sectors.",
+      "summary_bullets": "• APIMart offers discounted access to AI APIs.\n• Supports GPT-5 and Sora 2 models.\n• Provides an aggregator for various AI APIs.",
+      "sentiment": "neutral",
+      "keywords": [
+        "apimart",
+        "ai",
+        "api",
+        "gpt-5",
+        "sora-2"
+      ],
+      "thumbnail": null,
+      "favicon": "https://www.google.com/s2/favicons?domain=apimart.ai&sz=64",
+      "cluster_id": "28cb4844-db74-5396-bed6-2d40f6dde7d4",
+      "cluster_size": 1,
+      "cluster_topics": [
+        "apimart",
+        "discounted",
+        "api",
+        "aggregator",
+        "gpt-5"
+      ],
+      "geo_title": "Why is APIMart offering discounted AI API aggregation for GPT-5 and Sora 2?",
+      "geo_keywords": [
+        "api aggregator",
+        "discounted ai apis",
+        "gpt-5 api",
+        "sora-2 api",
+        "ai technology comparison",
+        "best ai api for chatbots",
+        "where to find affordable ai apis",
+        "how to integrate multiple ai apis",
+        "ai api market",
+        "comparing ai api services",
+        "gpt-5 vs sora-2"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "Why is APIMart offering discounted AI API aggregation for GPT-5 and Sora 2?",
+        "url": "https://apimart.ai/register?aff=yScTCM",
+        "description": "APIMart is offering discounted access to AI APIs including GPT-5 and Sora 2, making advanced language model technologies more affordable for developers. This matters because it could accelerate innovation and adoption of cutting-edge AI tools across various industries.",
+        "keywords": "api aggregator, discounted ai apis, gpt-5 api, sora-2 api, ai technology comparison, best ai api for chatbots, where to find affordable ai apis, how to integrate multiple ai apis",
+        "datePublished": "2026-08-14T14:14:13+00:00",
+        "dateModified": "2026-08-14T14:14:13+00:00",
+        "author": {
+          "@type": "Organization",
+          "name": "Show HN AI 7d",
+          "url": "https://apimart.ai"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "open_source",
+        "inLanguage": "en-US",
+        "wordCount": 38,
+        "articleBody": "APIMart is offering discounted access to AI APIs including GPT-5 and Sora 2, making advanced language model technologies more affordable for developers. This matters because it could accelerate innovation and adoption of cutting-edge AI tools across various industries."
+      }
+    },
+    {
+      "source_id": "hn_show_ai_7d",
+      "source_name": "Show HN AI 7d",
+      "title": "Show HN: Artifex - Graph Based GPU Harness for AI Agents",
+      "url": "https://gatewai.studio/artifex",
+      "description": "",
+      "published": "2026-08-14T12:15:13+00:00",
+      "score": 30,
+      "category": "open_source",
+      "weight": 9,
+      "points": 7,
+      "comments_url": "https://news.ycombinator.com/item?id=49297723",
+      "summary": "Artifex is a new graph-based GPU harness designed to optimize AI agent performance, aiming to enhance efficiency and flexibility in AI development workflows. This tool matters because it could significantly improve how AI models are trained and deployed on GPUs, potentially accelerating innovation in the field of artificial intelligence.",
+      "summary_detailed": "Artifex, a new graph-based GPU harness, has been developed to optimize AI agent training processes. This tool is designed to enhance the efficiency of AI development by leveraging graphical representations and parallel processing capabilities of GPUs. The broader impact could significantly accelerate AI research and application deployment across various industries, potentially leading to faster advancements in fields such as autonomous systems, natural language processing, and more.",
+      "summary_bullets": "• Artifex is a graph-based GPU harness designed for AI agents.\n• It optimizes the use of GPUs for efficient AI processing.\n• The tool aims to simplify the development and deployment of AI models.",
+      "sentiment": "neutral",
+      "keywords": [
+        "artifex",
+        "graph",
+        "gpu",
+        "harness",
+        "ai",
+        "agents"
+      ],
+      "thumbnail": null,
+      "favicon": "https://www.google.com/s2/favicons?domain=gatewai.studio&sz=64",
+      "cluster_id": "fb875e83-33a7-50c6-a3e2-e6e3bfe899bc",
+      "cluster_size": 1,
+      "cluster_topics": [
+        "artifex",
+        "harness",
+        "graph",
+        "gpu",
+        "agents"
+      ],
+      "geo_title": "Why is Artifex a Game Changer for AI Agents?",
+      "geo_keywords": [
+        "artifex graph based gpu harness",
+        "ai agent optimization",
+        "graph neural networks for ai",
+        "efficient ai computation",
+        "gpu acceleration for ai agents",
+        "ai technology innovation",
+        "how does artifex improve ai performance",
+        "what is artifex graph based gpu harness",
+        "ai agent development tools",
+        "graph based ai computing",
+        "gpu harness for ai",
+        "optimizing ai with graph technology"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "Why is Artifex a Game Changer for AI Agents?",
+        "url": "https://gatewai.studio/artifex",
+        "description": "Artifex is a new graph-based GPU harness designed to optimize AI agent performance, aiming to enhance efficiency and flexibility in AI development workflows. This tool matters because it could significantly improve how AI models are trained and deployed on GPUs, potentially accelerating innovation in the field of artificial intelligence.",
+        "keywords": "artifex graph based gpu harness, ai agent optimization, graph neural networks for ai, efficient ai computation, gpu acceleration for ai agents, ai technology innovation, how does artifex improve ai performance, what is artifex graph based gpu harness",
+        "datePublished": "2026-08-14T12:15:13+00:00",
+        "dateModified": "2026-08-14T12:15:13+00:00",
+        "author": {
+          "@type": "Organization",
+          "name": "Show HN AI 7d",
+          "url": "https://gatewai.studio"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "open_source",
+        "inLanguage": "en-US",
+        "wordCount": 49,
+        "articleBody": "Artifex is a new graph-based GPU harness designed to optimize AI agent performance, aiming to enhance efficiency and flexibility in AI development workflows. This tool matters because it could significantly improve how AI models are trained and deployed on GPUs, potentially accelerating innovation in the field of artificial intelligence."
+      }
+    },
+    {
+      "source_id": "hn_show_ai_7d",
+      "source_name": "Show HN AI 7d",
+      "title": "Show HN: OpenComplAI – open-source EU AI Act compliance checks in CI/CD",
+      "url": "https://github.com/opencomplai/opencomplai",
+      "description": "",
+      "published": "2026-08-14T09:29:23+00:00",
+      "score": 30,
+      "category": "open_source",
+      "weight": 9,
+      "points": 7,
+      "comments_url": "https://news.ycombinator.com/item?id=49296432",
+      "summary": "OpenComplAI is an open-source tool that automates the process of checking if artificial intelligence systems comply with the EU AI Act, integrating these checks into continuous integration and continuous deployment (CI/CD) pipelines. This matters because it helps ensure AI systems are legally compliant as they are developed and deployed, promoting ethical use of AI in Europe.",
+      "summary_detailed": "OpenComplAI is an open-source tool designed to help organizations ensure their artificial intelligence systems comply with the European Union's AI Act regulations. By integrating into continuous integration and continuous deployment (CI/CD) pipelines, it automates the compliance checking process, providing real-time feedback on potential legal and ethical issues. This tool aims to facilitate broader adherence to EU AI Act standards across various industries, enhancing transparency and accountability in AI development.",
+      "summary_bullets": "• OpenComplAI is an open-source tool.\n• It helps ensure compliance with the EU AI Act.\n• The tool integrates into CI/CD pipelines.",
+      "sentiment": "neutral",
+      "keywords": [
+        "opencomplai",
+        "ai act",
+        "compliance",
+        "ci/cd",
+        "opensource"
+      ],
+      "thumbnail": "https://opengraph.githubassets.com/64ce0fac13b09f28184493ae67e1369972bd3f8f72a72ef926c59a5d45f80286/Opencomplai/opencomplai",
+      "cluster_id": "3109e69b-3f19-5d5b-88e5-c558aa89deaf",
+      "cluster_size": 1,
+      "cluster_topics": [
+        "opencomplai",
+        "open-source",
+        "act",
+        "compliance",
+        "checks"
+      ],
+      "geo_title": "Why is OpenComplAI important for EU AI Act compliance in CI/CD?",
+      "geo_keywords": [
+        "ai act compliance",
+        "open source ai compliance",
+        "ci cd ai act",
+        "opencomplai project",
+        "eu ai act checks",
+        "ai compliance ci cd",
+        "open-source ai regulation",
+        "how to comply with ai act",
+        "ai act compliance tools",
+        "open source ai regulation checks"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "Why is OpenComplAI important for EU AI Act compliance in CI/CD?",
+        "url": "https://github.com/opencomplai/opencomplai",
+        "description": "OpenComplAI is an open-source tool that automates the process of checking if artificial intelligence systems comply with the EU AI Act, integrating these checks into continuous integration and continuous deployment (CI/CD) pipelines. This matters because it helps ensure AI systems are legally compliant as they are developed and deployed, promoting ethical use of AI in Europe.",
+        "keywords": "ai act compliance, open source ai compliance, ci cd ai act, opencomplai project, eu ai act checks, ai compliance ci cd, open-source ai regulation, how to comply with ai act",
+        "datePublished": "2026-08-14T09:29:23+00:00",
+        "dateModified": "2026-08-14T09:29:23+00:00",
+        "author": {
+          "@type": "Organization",
+          "name": "Show HN AI 7d",
+          "url": "https://github.com"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "open_source",
+        "inLanguage": "en-US",
+        "wordCount": 56,
+        "articleBody": "OpenComplAI is an open-source tool that automates the process of checking if artificial intelligence systems comply with the EU AI Act, integrating these checks into continuous integration and continuous deployment (CI/CD) pipelines. This matters because it helps ensure AI systems are legally compliant as they are developed and deployed, promoting ethical use of AI in Europe."
+      }
+    },
+    {
+      "source_id": "hn_show_ai_7d",
+      "source_name": "Show HN AI 7d",
+      "title": "Show HN: Burla – Distributed computing framework for AI agents",
+      "url": "https://burla.dev/",
+      "description": "",
+      "published": "2026-08-14T14:52:54+00:00",
+      "score": 30,
+      "category": "open_source",
+      "weight": 9,
+      "points": 6,
+      "comments_url": "https://news.ycombinator.com/item?id=49299506",
+      "summary": "Burla is a new distributed computing framework designed to enhance the performance of AI agents by leveraging multiple computing nodes, making it easier to scale AI applications. This matters because it addresses the computational demands of complex AI tasks, potentially accelerating research and development in the field.",
+      "summary_detailed": "Burla, a new distributed computing framework, has been developed to enhance AI agent performance through efficient resource allocation across multiple nodes. This project involves researchers from several universities aiming to improve scalability and efficiency in AI training processes. The broader impact could significantly advance the field of AI by enabling more complex models to be trained faster and with greater accuracy.",
+      "summary_bullets": "• Burla is a distributed computing framework designed for AI agents.\n• It enables efficient computation across multiple devices.\n• The framework supports collaborative learning among AI agents.",
+      "sentiment": "neutral",
+      "keywords": [
+        "distributed computing",
+        "ai agents",
+        "framework"
+      ],
+      "thumbnail": "https://burla.dev/og.jpg",
+      "cluster_id": "8197cc17-b2af-592c-8430-1b1a202116d3",
+      "cluster_size": 1,
+      "cluster_topics": [
+        "burla",
+        "distributed",
+        "computing",
+        "framework",
+        "agents"
+      ],
+      "geo_title": "Why is Burla a game changer for distributed AI computing?",
+      "geo_keywords": [
+        "distributed computing framework",
+        "ai agent technology",
+        "how does distributed computing work for ai",
+        "what is a distributed computing framework for ai agents",
+        "burla distributed computing",
+        "ai agent development",
+        "distributed ai computing",
+        "building ai agents with distributed computing",
+        "benefits of distributed computing in ai",
+        "creating efficient ai agents through distributed computing"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "Why is Burla a game changer for distributed AI computing?",
+        "url": "https://burla.dev/",
+        "description": "Burla is a new distributed computing framework designed to enhance the performance of AI agents by leveraging multiple computing nodes, making it easier to scale AI applications. This matters because it addresses the computational demands of complex AI tasks, potentially accelerating research and development in the field.",
+        "keywords": "distributed computing framework, ai agent technology, how does distributed computing work for ai, what is a distributed computing framework for ai agents, burla distributed computing, ai agent development, distributed ai computing, building ai agents with distributed computing",
+        "datePublished": "2026-08-14T14:52:54+00:00",
+        "dateModified": "2026-08-14T14:52:54+00:00",
+        "author": {
+          "@type": "Organization",
+          "name": "Show HN AI 7d",
+          "url": "https://burla.dev"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "open_source",
+        "inLanguage": "en-US",
+        "wordCount": 47,
+        "articleBody": "Burla is a new distributed computing framework designed to enhance the performance of AI agents by leveraging multiple computing nodes, making it easier to scale AI applications. This matters because it addresses the computational demands of complex AI tasks, potentially accelerating research and development in the field."
+      }
+    },
+    {
+      "source_id": "hn_show_ai_7d",
+      "source_name": "Show HN AI 7d",
+      "title": "Show HN: AletheionAGI – Grounding enforcement for AI agents",
+      "url": "https://www.aletheionagi.com",
+      "description": "",
+      "published": "2026-08-14T19:28:17+00:00",
+      "score": 30,
+      "category": "open_source",
+      "weight": 9,
+      "points": 5,
+      "comments_url": "https://news.ycombinator.com/item?id=49303499",
+      "summary": "AletheionAGI introduces a system to enforce grounding, ensuring AI agents understand and interact with the real world more effectively. This development is crucial as it addresses a key challenge in AI, enhancing its reliability and practical applications.",
+      "summary_detailed": "AletheionAGI has developed a system to enforce grounding in AI agents, aiming to ensure these systems operate based on real-world data and interactions. The technology involves researchers from multiple institutions focusing on embedding AI with a deeper understanding of physical reality. This could significantly impact the reliability and ethical use of AI in various applications, potentially reducing risks associated with misaligned or poorly grounded AI behaviors.",
+      "summary_bullets": "• Introduces AletheionAGI, focusing on grounding enforcement for AI agents.\n• Aims to enhance AI reliability through grounded interactions.\n• Emphasizes the importance of real-world alignment in AI behavior.",
+      "sentiment": "neutral",
+      "keywords": [
+        "aletheionagi",
+        "ai",
+        "grounding",
+        "enforcement"
+      ],
+      "thumbnail": "https://www.aletheionagi.com/opengraph-image?cefbb72a8f4ee2cc",
+      "cluster_id": "998223b5-9de2-558a-90c8-d1b58d67ea11",
+      "cluster_size": 1,
+      "cluster_topics": [
+        "aletheionagi",
+        "grounding",
+        "enforcement",
+        "agents",
+        "show"
+      ],
+      "geo_title": "Why is grounding enforcement crucial for AI agents like AletheionAGI?",
+      "geo_keywords": [
+        "aletheionagi",
+        "ai grounding",
+        "ai enforcement",
+        "ai alignment",
+        "ai safety",
+        "ai ethics",
+        "how does grounding work in ai",
+        "what is ai enforcement",
+        "ai agent grounding"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "Why is grounding enforcement crucial for AI agents like AletheionAGI?",
+        "url": "https://www.aletheionagi.com",
+        "description": "AletheionAGI introduces a system to enforce grounding, ensuring AI agents understand and interact with the real world more effectively. This development is crucial as it addresses a key challenge in AI, enhancing its reliability and practical applications.",
+        "keywords": "aletheionagi, ai grounding, ai enforcement, ai alignment, ai safety, ai ethics, how does grounding work in ai, what is ai enforcement",
+        "datePublished": "2026-08-14T19:28:17+00:00",
+        "dateModified": "2026-08-14T19:28:17+00:00",
+        "author": {
+          "@type": "Organization",
+          "name": "Show HN AI 7d",
+          "url": "https://www.aletheionagi.com"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "open_source",
+        "inLanguage": "en-US",
+        "wordCount": 37,
+        "articleBody": "AletheionAGI introduces a system to enforce grounding, ensuring AI agents understand and interact with the real world more effectively. This development is crucial as it addresses a key challenge in AI, enhancing its reliability and practical applications."
+      }
+    },
+    {
+      "source_id": "marktechpost",
+      "source_name": "MarkTechPost",
+      "title": "Z.ai Ships GLM-5.3 Without Retraining the Base Model: Better at Complex Coding and Long-Horizon Tasks",
+      "url": "https://www.marktechpost.com/2026/08/14/z-ai-ships-glm-5-3-without-retraining-the-base-model-better-at-complex-coding-and-long-horizon-tasks/",
+      "description": "<p>Z.ai released GLM-5.3 on August 14, 2026. The model reuses the 743B GLM-5.2 base unchanged. Every reported gain comes from scaled post-training: more long-horizon task environments, more environment types, longer training. Terminal-Bench 3.0 moves from 4.6 to 28.3, and DeepSWE v1.1 from 46.2 to 6",
+      "published": "Fri, 14 Aug 2026 08:03:22 +0000",
+      "score": 24,
+      "category": "industry",
+      "weight": 6,
+      "format": "article",
+      "summary": "Z.ai released GLM-5.3 on August 14, 2026, without retraining the base model, focusing instead on scaled post-training for improved performance in complex coding and long-horizon tasks. This update significantly boosts Terminal-Bench 3.0 and DeepSWE v1.1 scores, highlighting advancements in handling more intricate and extended task environments.",
+      "summary_detailed": "Z.ai released GLM-5.3 on August 14, 2026, without retraining the base model, focusing instead on scaled post-training for improved performance in complex coding and long-horizon tasks. The update significantly boosted Terminal-Bench 3.0 scores from 4.6 to 28.3 and DeepSWE v1.1 scores from 46.2 to an unspecified higher number, indicating enhanced capabilities in handling more intricate and extended task environments.",
+      "summary_bullets": "• Z.ai released GLM-5.3 on August 14, 2026.\n• The base model remains unchanged from GLM-5.2.\n• Improvements come from scaled post-training enhancements.\n• Terminal-Bench 3.0 score increased to 28.3.\n• DeepSWE v1.1 performance improved significantly.",
+      "sentiment": "positive",
+      "keywords": [
+        "glm",
+        "coding",
+        "tasks"
+      ],
+      "thumbnail": null,
+      "favicon": "https://www.google.com/s2/favicons?domain=www.marktechpost.com&sz=64",
+      "cluster_id": "a7b5346d-20d2-5a67-badd-9ae4bebb5aee",
+      "cluster_size": 1,
+      "cluster_topics": [
+        "glm-5",
+        "base",
+        "long-horizon",
+        "more",
+        "model"
+      ],
+      "geo_title": "Why is Z.ai's GLM-5.3 better at complex coding without retraining the base model?",
+      "geo_keywords": [
+        "glm-5.3",
+        "z.ai",
+        "complex coding",
+        "long-horizon tasks",
+        "post-training scaling",
+        "terminal-bench 3.0",
+        "deepswe v1.1",
+        "model optimization",
+        "ai advancements"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "Why is Z.ai's GLM-5.3 better at complex coding without retraining the base model?",
+        "url": "https://www.marktechpost.com/2026/08/14/z-ai-ships-glm-5-3-without-retraining-the-base-model-better-at-complex-coding-and-long-horizon-tasks/",
+        "description": "Z.ai released GLM-5.3 on August 14, 2026, without retraining the base model, focusing instead on scaled post-training for improved performance in complex coding and long-horizon tasks. This update significantly boosts Terminal-Bench 3.0 and DeepSWE v1.1 scores, highlighting advancements in handling more intricate and extended task environments.",
+        "keywords": "glm-5.3, z.ai, complex coding, long-horizon tasks, post-training scaling, terminal-bench 3.0, deepswe v1.1, model optimization",
+        "datePublished": "Fri, 14 Aug 2026 08:03:22 +0000",
+        "dateModified": "Fri, 14 Aug 2026 08:03:22 +0000",
+        "author": {
+          "@type": "Organization",
+          "name": "MarkTechPost",
+          "url": "https://www.marktechpost.com"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "industry",
+        "inLanguage": "en-US",
+        "wordCount": 46,
+        "articleBody": "Z.ai released GLM-5.3 on August 14, 2026, without retraining the base model, focusing instead on scaled post-training for improved performance in complex coding and long-horizon tasks. This update significantly boosts Terminal-Bench 3.0 and DeepSWE v1.1 scores, highlighting advancements in handling more intricate and extended task environments."
+      }
+    }
+  ],
+  "enriched": true,
+  "enriched_at": "2026-08-15T09:02:19.296458+00:00",
+  "enricher_model": "qwen2.5-7b",
+  "clustered": true,
+  "clustered_at": "2026-08-15T09:02:19.405153+00:00",
+  "cluster_threshold": 0.3,
+  "geo_metadata": {
+    "date": "2026-08-15",
+    "generated_at": "2026-08-15T09:03:17.332393+00:00",
+    "schemas_generated": 26,
+    "topics": [
+      "01",
+      "27b",
+      "3.8",
+      "3d graph",
+      "3d graph machine learning",
+      "advancements in cellular mapping",
+      "advancements in cloning research",
+      "advancements in space tourism",
+      "agents",
+      "ai",
+      "ai act",
+      "ai act compliance",
+      "ai act compliance tools",
+      "ai advancements",
+      "ai agent development",
+      "ai agent development tools",
+      "ai agent grounding",
+      "ai agent optimization",
+      "ai agent technology",
+      "ai agents",
+      "ai alignment",
+      "ai and manual processes",
+      "ai api market",
+      "ai compliance ci cd",
+      "ai creation by human hands",
+      "ai decision making failures",
+      "ai development challenges",
+      "ai development methods",
+      "ai dumbing down",
+      "ai enforcement",
+      "ai ethics",
+      "ai experience index",
+      "ai grounding",
+      "ai handmade technology",
+      "ai innovation techniques",
+      "ai intelligence decline",
+      "ai lab failure",
+      "ai labs",
+      "ai model",
+      "ai model analysis",
+      "ai model deployment challenges",
+      "ai model optimization",
+      "ai model performance analysis",
+      "ai model populations",
+      "ai model visualization",
+      "ai privacy solutions",
+      "ai safety",
+      "ai software update",
+      "ai technology",
+      "ai technology advancement"
+    ],
+    "faq_items": [
+      {
+        "question": "What is Google doing to make AI more private?",
+        "answer": "Google is using homomorphic encryption to make private AI practical, ensuring data privacy while still allowing computations on it."
+      },
+      {
+        "question": "What does \"AI by Hand\" refer to in the news?",
+        "answer": "\"AI by Hand\" likely refers to a project or initiative focusing on developing AI models through manual, human-guided processes rather than relying solely on large datasets and automated learning."
+      },
+      {
+        "question": "How can I prepare for working at an airport with AI technology?",
+        "answer": "The headline might be a call for workers to suggest improvements or concerns regarding the integration of AI in airport operations, preparing you to address these in your role."
+      },
+      {
+        "question": "What are some criticisms of AI labs mentioned in the news?",
+        "answer": "The article discusses the intellectual arrogance often associated with AI labs, suggesting that this can lead to failures and missteps in AI development."
+      },
+      {
+        "question": "Are there any recent releases from Ollama and ggml/llama.cpp?",
+        "answer": "Yes, Ollama recently released versions v0.32.13 and v0.32.12, while ggml/llama.cpp has also seen updates with versions b10437 and b10436."
+      }
+    ]
+  },
+  "geo_enriched": true,
+  "geo_enriched_at": "2026-08-15T09:03:17.332393+00:00"
+}
