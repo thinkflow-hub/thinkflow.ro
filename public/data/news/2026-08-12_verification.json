@@ -1,6 +1,6 @@
 {
   "date": "2026-08-12",
-  "generated_at": "2026-08-15T09:03:24.413844+00:00",
+  "generated_at": "2026-08-15T13:00:08.267661+00:00",
   "results": {
     "trending_agent": {
       "verification_status": "verified",
@@ -53,18 +53,16 @@
       ]
     },
     "pod_lex_fridman": {
-      "verification_status": "verified",
-      "sources_count": 2,
+      "verification_status": "unconfirmed",
+      "sources_count": 1,
       "sources": [
-        "HN top AI 24h",
         "Lex Fridman Podcast"
       ]
     },
     "latent_space": {
-      "verification_status": "verified",
-      "sources_count": 2,
+      "verification_status": "unconfirmed",
+      "sources_count": 1,
       "sources": [
-        "ggml/llama.cpp releases",
         "Latent Space (Substack)"
       ]
     },
@@ -73,13 +71,6 @@
       "sources_count": 1,
       "sources": [
         "ggml/llama.cpp releases"
-      ]
-    },
-    "arxiv_cs_cl": {
-      "verification_status": "unconfirmed",
-      "sources_count": 1,
-      "sources": [
-        "ArXiv cs.CL (Computation and Language / NLP)"
       ]
     }
   }
