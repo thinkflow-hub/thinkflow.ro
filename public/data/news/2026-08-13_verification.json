@@ -1,6 +1,6 @@
 {
   "date": "2026-08-13",
-  "generated_at": "2026-08-15T17:00:04.715175+00:00",
+  "generated_at": "2026-08-15T21:00:07.794719+00:00",
   "results": {
     "openai_blog": {
       "verification_status": "unconfirmed",
@@ -27,8 +27,8 @@
       "verification_status": "verified",
       "sources_count": 2,
       "sources": [
-        "DeepMind Blog",
-        "HN top AI 24h"
+        "HN top AI 24h",
+        "DeepMind Blog"
       ]
     },
     "huggingface_blog": {
