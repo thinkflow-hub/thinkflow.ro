@@ -1,7 +1,14 @@
 {
   "date": "2026-08-14",
-  "generated_at": "2026-08-16T05:00:05.651214+00:00",
+  "generated_at": "2026-08-16T09:06:31.956093+00:00",
   "results": {
+    "hn_show_ai_7d": {
+      "verification_status": "unconfirmed",
+      "sources_count": 1,
+      "sources": [
+        "Show HN AI 7d"
+      ]
+    },
     "hn_ai_24h": {
       "verification_status": "unconfirmed",
       "sources_count": 1,
@@ -35,13 +42,6 @@
       "sources_count": 1,
       "sources": [
         "MIT Technology Review AI"
-      ]
-    },
-    "hn_show_ai_7d": {
-      "verification_status": "unconfirmed",
-      "sources_count": 1,
-      "sources": [
-        "Show HN AI 7d"
       ]
     },
     "marktechpost": {
