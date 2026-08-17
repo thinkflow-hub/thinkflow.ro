@@ -1,19 +1,19 @@
 {
   "date": "2026-08-15",
-  "generated_at": "2026-08-17T05:00:09.169580+00:00",
+  "generated_at": "2026-08-17T09:03:54.410753+00:00",
   "results": {
-    "hn_ai_24h": {
-      "verification_status": "unconfirmed",
-      "sources_count": 1,
-      "sources": [
-        "HN top AI 24h"
-      ]
-    },
     "ollama_releases": {
       "verification_status": "unconfirmed",
       "sources_count": 1,
       "sources": [
         "Ollama releases"
+      ]
+    },
+    "hn_ai_24h": {
+      "verification_status": "unconfirmed",
+      "sources_count": 1,
+      "sources": [
+        "HN top AI 24h"
       ]
     },
     "latent_space": {

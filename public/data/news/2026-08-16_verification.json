@@ -1,12 +1,19 @@
 {
-  "date": "2026-08-14",
+  "date": "2026-08-16",
   "generated_at": "2026-08-17T09:03:54.410753+00:00",
   "results": {
-    "hn_show_ai_7d": {
+    "hn_llm_24h": {
       "verification_status": "unconfirmed",
       "sources_count": 1,
       "sources": [
-        "Show HN AI 7d"
+        "HN top LLM 24h"
+      ]
+    },
+    "nousresearch_releases": {
+      "verification_status": "unconfirmed",
+      "sources_count": 1,
+      "sources": [
+        "NousResearch releases"
       ]
     },
     "hn_ai_24h": {
@@ -16,13 +23,6 @@
         "HN top AI 24h"
       ]
     },
-    "ollama_releases": {
-      "verification_status": "unconfirmed",
-      "sources_count": 1,
-      "sources": [
-        "Ollama releases"
-      ]
-    },
     "ggml_releases": {
       "verification_status": "unconfirmed",
       "sources_count": 1,
@@ -30,25 +30,11 @@
         "ggml/llama.cpp releases"
       ]
     },
-    "hn_llm_24h": {
+    "hn_show_ai_7d": {
       "verification_status": "unconfirmed",
       "sources_count": 1,
       "sources": [
-        "HN top LLM 24h"
-      ]
-    },
-    "mit_technology_review_ai": {
-      "verification_status": "unconfirmed",
-      "sources_count": 1,
-      "sources": [
-        "MIT Technology Review AI"
-      ]
-    },
-    "marktechpost": {
-      "verification_status": "unconfirmed",
-      "sources_count": 1,
-      "sources": [
-        "MarkTechPost"
+        "Show HN AI 7d"
       ]
     }
   }
