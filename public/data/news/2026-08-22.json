@@ -1,0 +1,1758 @@
+{
+  "date": "2026-08-22",
+  "last_updated": "2026-08-22T06:00:01.578193+00:00",
+  "total_items": 24,
+  "items": [
+    {
+      "source_id": "deepmind_blog",
+      "source_name": "DeepMind Blog",
+      "title": "From Atari to EVE Online: Building on 15 Years of AI Research in Games",
+      "url": "https://deepmind.google/blog/from-atari-to-eve-online-building-on-15-years-of-ai-research-in-games/",
+      "description": "Google DeepMind partners with game studios to prototype breakthrough AI gameplay.",
+      "published": "Fri, 21 Aug 2026 11:59:48 +0000",
+      "score": 67,
+      "category": "ai_labs",
+      "weight": 9,
+      "format": "article",
+      "summary": "Google DeepMind collaborates with game developers to advance AI technology through the development of innovative gameplay, marking 15 years of AI research in the gaming industry. This partnership highlights the potential for AI to enhance player experiences and push the boundaries of what is possible in video games.",
+      "summary_detailed": "Google DeepMind partnered with various game studios to develop advanced AI technologies for gaming, marking 15 years of research. This collaboration led to the creation of innovative AI-driven gameplay features seen in games like EVE Online. The project not only enhanced player experiences but also contributed significantly to the broader field of artificial intelligence development and application.",
+      "summary_bullets": "• Google DeepMind collaborates with game developers.\n• Focus is on advancing AI through gameplay prototypes.\n• Project spans 15 years of research.",
+      "sentiment": "neutral",
+      "keywords": [
+        "atari",
+        "eve online",
+        "ai research",
+        "google deepmind",
+        "game studios",
+        "breakthrough ai",
+        "gameplay"
+      ],
+      "thumbnail": "https://lh3.googleusercontent.com/ymmK0Dgovn-_MGlnQJffYxKdTe5LAnkAZr-GNnIjiFzsGOAAmOmUDuVACbNgIy-tqrJhGBdaQ_PaElc8EKRKRWtYg4eWx8HVcaVzdYy7hg7Q_8k=w1200-h630-n-nu-rw",
+      "cluster_id": "0494ef44-0c7d-5b01-8a33-ff807dbd7425",
+      "cluster_size": 1,
+      "cluster_topics": [
+        "atari",
+        "eve",
+        "online",
+        "years",
+        "games"
+      ],
+      "geo_title": "How does Google DeepMind's AI research impact game development?",
+      "geo_keywords": [
+        "ai in games",
+        "ai research games",
+        "google deepmind games",
+        "ai gameplay",
+        "ai in virtual worlds",
+        "gaming technology advancements",
+        "ai for gaming",
+        "future of ai in games",
+        "how ai is changing gaming",
+        "ai in video games",
+        "ai game development",
+        "ai in online games"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "How does Google DeepMind's AI research impact game development?",
+        "url": "https://deepmind.google/blog/from-atari-to-eve-online-building-on-15-years-of-ai-research-in-games/",
+        "description": "Google DeepMind collaborates with game developers to advance AI technology through the development of innovative gameplay, marking 15 years of AI research in the gaming industry. This partnership highlights the potential for AI to enhance player experiences and push the boundaries of what is possible in video games.",
+        "keywords": "ai in games, ai research games, google deepmind games, ai gameplay, ai in virtual worlds, gaming technology advancements, ai for gaming, future of ai in games",
+        "datePublished": "Fri, 21 Aug 2026 11:59:48 +0000",
+        "dateModified": "Fri, 21 Aug 2026 11:59:48 +0000",
+        "author": {
+          "@type": "Organization",
+          "name": "DeepMind Blog",
+          "url": "https://deepmind.google"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "ai_labs",
+        "inLanguage": "en-US",
+        "wordCount": 48,
+        "articleBody": "Google DeepMind collaborates with game developers to advance AI technology through the development of innovative gameplay, marking 15 years of AI research in the gaming industry. This partnership highlights the potential for AI to enhance player experiences and push the boundaries of what is possible in video games."
+      }
+    },
+    {
+      "source_id": "trending_ai",
+      "source_name": "GitHub Trending — AI",
+      "title": "jingyaogong/minimind — 🧠 Train a 64M-parameter LLM from scratch in just 2h!",
+      "url": "https://github.com/jingyaogong/minimind",
+      "description": "🧠 Train a 64M-parameter LLM from scratch in just 2h!",
+      "published": "2026-08-21T08:49:07Z",
+      "score": 62,
+      "category": "open_source",
+      "weight": 9,
+      "stars": 54916,
+      "language": "Python",
+      "summary": "A new method allows training a 64M-parameter language model from scratch in just 2 hours, significantly reducing the time and resources typically required, which could accelerate advancements in AI technology.",
+      "summary_detailed": "A team trained a 64 million parameter language model (LLM) from scratch within just two hours, showcasing rapid advancements in machine learning. This achievement involved using efficient training techniques and likely leveraging powerful computational resources. The broader impact could include faster development cycles for AI models, potentially accelerating innovation across various industries that rely on natural language processing.",
+      "summary_bullets": "• Trains a 64M-parameter LLM \n• Process completed in under 2 hours\n• No pre-existing model used",
+      "sentiment": "positive",
+      "keywords": [
+        "train",
+        "llm",
+        "parameter",
+        "scratch",
+        "time"
+      ],
+      "thumbnail": "https://opengraph.githubassets.com/b5891481366747b21d54c8495d2f2eddb70c74720ab2f6d775d3546bf8ca8fe2/jingyaogong/minimind",
+      "cluster_id": "64da2d0a-9273-5fca-87b0-5954b04e9dec",
+      "cluster_size": 1,
+      "cluster_topics": [
+        "train",
+        "parameter",
+        "llm",
+        "scratch",
+        "jingyaogong"
+      ],
+      "geo_title": "How does jingyaogong/minimind train a 64M-parameter LLM in just 2 hours?",
+      "geo_keywords": [
+        "train llm from scratch",
+        "64m parameter llm",
+        "how to train llm quickly",
+        "llm training time",
+        "llm parameter tuning",
+        "minimind training process",
+        "jingyaogong llm tutorial",
+        "llm training in hours",
+        "how long does it take to train an llm",
+        "llm parameter optimization",
+        "llm from scratch in 2 hours"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "How does jingyaogong/minimind train a 64M-parameter LLM in just 2 hours?",
+        "url": "https://github.com/jingyaogong/minimind",
+        "description": "A new method allows training a 64M-parameter language model from scratch in just 2 hours, significantly reducing the time and resources typically required, which could accelerate advancements in AI technology.",
+        "keywords": "train llm from scratch, 64m parameter llm, how to train llm quickly, llm training time, llm parameter tuning, minimind training process, jingyaogong llm tutorial, llm training in hours",
+        "datePublished": "2026-08-21T08:49:07Z",
+        "dateModified": "2026-08-21T08:49:07Z",
+        "author": {
+          "@type": "Organization",
+          "name": "GitHub Trending — AI",
+          "url": "https://github.com"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "open_source",
+        "inLanguage": "en-US",
+        "wordCount": 30,
+        "articleBody": "A new method allows training a 64M-parameter language model from scratch in just 2 hours, significantly reducing the time and resources typically required, which could accelerate advancements in AI technology."
+      }
+    },
+    {
+      "source_id": "nousresearch_releases",
+      "source_name": "NousResearch releases",
+      "title": "NousResearch releases: Hermes Agent v0.20.5 (v2026.8.19)",
+      "url": "https://github.com/NousResearch/hermes-agent/releases/tag/v2026.8.19",
+      "description": "# Hermes Agent v0.20.5 (v2026.8.19)\n\n**Release Date:** August 19, 2026\n\n> Patch release. This tag rolls up the ~323 PRs merged since v0.20.4 into a stable tagged release for downstream consumers (Docker images, hosted deployments, fresh installs).\n\n---\n\n## About this release\n\nSince v0.20.4 (v2026.8.",
+      "published": "2026-08-21T12:16:39Z",
+      "score": 60,
+      "category": "releases",
+      "weight": 10,
+      "tag": "v2026.8.19",
+      "summary": "Hermes Agent v0.20.5, released on August 19, 2026, consolidates approximately 323 merged pull requests into a stable version for use by downstream consumers. This release is crucial for ensuring compatibility and stability in Docker images, hosted deployments, and fresh installations.",
+      "summary_detailed": "Hermes Agent version v0.20.5 was released on August 19, 2026, incorporating approximately 323 merged pull requests to stabilize the release for various deployment scenarios. This update impacts downstream consumers including Docker images, hosted deployments, and fresh installations.",
+      "summary_bullets": "• Patch release incorporating ~323 PRs\n• Stable tagged version for various deployment scenarios\n• Aimed at downstream consumers including Docker images and hosted deployments",
+      "sentiment": "neutral",
+      "keywords": [
+        "patch release",
+        "prs",
+        "docker images",
+        "hosted deployments",
+        "fresh installs"
+      ],
+      "thumbnail": "https://opengraph.githubassets.com/b5cee146e4d03ede7aa414ca54c152a62b881f889d53ed368bc7f0ca0cf68fbf/NousResearch/hermes-agent/releases/tag/v2026.8.19",
+      "cluster_id": "55d711b2-e016-5657-abe1-735fa3af90f4",
+      "cluster_size": 1,
+      "cluster_topics": [
+        "release",
+        "v2026",
+        "hermes",
+        "agent",
+        "since"
+      ],
+      "geo_title": "Why is NousResearch releasing Hermes Agent v0.20.5?",
+      "geo_keywords": [
+        "hermes agent update",
+        "pr merge",
+        "stable release",
+        "docker container update",
+        "hosted deployment improvements",
+        "fresh install guide",
+        "ai software patch",
+        "sge news",
+        "perplexity update",
+        "chatgpt news"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "Why is NousResearch releasing Hermes Agent v0.20.5?",
+        "url": "https://github.com/NousResearch/hermes-agent/releases/tag/v2026.8.19",
+        "description": "Hermes Agent v0.20.5, released on August 19, 2026, consolidates approximately 323 merged pull requests into a stable version for use by downstream consumers. This release is crucial for ensuring compatibility and stability in Docker images, hosted deployments, and fresh installations.",
+        "keywords": "hermes agent update, pr merge, stable release, docker container update, hosted deployment improvements, fresh install guide, ai software patch, sge news",
+        "datePublished": "2026-08-21T12:16:39Z",
+        "dateModified": "2026-08-21T12:16:39Z",
+        "author": {
+          "@type": "Organization",
+          "name": "NousResearch releases",
+          "url": "https://github.com"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "releases",
+        "inLanguage": "en-US",
+        "wordCount": 40,
+        "articleBody": "Hermes Agent v0.20.5, released on August 19, 2026, consolidates approximately 323 merged pull requests into a stable version for use by downstream consumers. This release is crucial for ensuring compatibility and stability in Docker images, hosted deployments, and fresh installations."
+      }
+    },
+    {
+      "source_id": "hn_ai_24h",
+      "source_name": "HN top AI 24h",
+      "title": "AI companies destroy physical books – let's scan rare books before it's too late",
+      "url": "https://annas-archive.pk/blog/physical-destruction.html",
+      "description": "",
+      "published": "2026-08-21T10:05:46+00:00",
+      "score": 59,
+      "category": "trending",
+      "weight": 8,
+      "points": 703,
+      "comments_url": "https://news.ycombinator.com/item?id=49385994",
+      "summary": "AI firms are dismantling physical books, raising concerns about the loss of cultural heritage; efforts to digitize rare books gain urgency as a countermeasure.",
+      "summary_detailed": "AI companies are destroying physical books to make room for data centers, prompting calls to urgently digitize rare texts. Google and other tech giants are among those involved in this practice. The broader impact includes potential loss of irreplaceable cultural heritage unless rapid action is taken to preserve these works through digital scanning.",
+      "summary_bullets": "• AI companies are destroying physical books.\n• There is an urgent need to scan rare books.\n• Preservation efforts should precede potential destruction.",
+      "sentiment": "negative",
+      "keywords": [
+        "ai",
+        "physical books",
+        "scanning",
+        "rare books"
+      ],
+      "thumbnail": "https://annas-archive.gl/blog/duxiu-examples/1.jpg",
+      "cluster_id": "3fa9983d-f100-5229-84b6-1603530317e1",
+      "cluster_size": 1,
+      "cluster_topics": [
+        "books",
+        "destroy",
+        "physical",
+        "let",
+        "rare"
+      ],
+      "geo_title": "Why is scanning rare books crucial as AI advances?",
+      "geo_keywords": [
+        "ai and book preservation",
+        "digitalization of books",
+        "impact of ai on libraries",
+        "protecting rare books with ai",
+        "future of physical books in age of ai",
+        "ai in cultural heritage",
+        "saving books with artificial intelligence",
+        "should we digitize all books",
+        "what are the risks of losing physical books to ai",
+        "how ai is changing book storage"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "Why is scanning rare books crucial as AI advances?",
+        "url": "https://annas-archive.pk/blog/physical-destruction.html",
+        "description": "AI firms are dismantling physical books, raising concerns about the loss of cultural heritage; efforts to digitize rare books gain urgency as a countermeasure.",
+        "keywords": "ai and book preservation, digitalization of books, impact of ai on libraries, protecting rare books with ai, future of physical books in age of ai, ai in cultural heritage, saving books with artificial intelligence, should we digitize all books",
+        "datePublished": "2026-08-21T10:05:46+00:00",
+        "dateModified": "2026-08-21T10:05:46+00:00",
+        "author": {
+          "@type": "Organization",
+          "name": "HN top AI 24h",
+          "url": "https://annas-archive.pk"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "trending",
+        "inLanguage": "en-US",
+        "wordCount": 24,
+        "articleBody": "AI firms are dismantling physical books, raising concerns about the loss of cultural heritage; efforts to digitize rare books gain urgency as a countermeasure."
+      }
+    },
+    {
+      "source_id": "hn_ai_24h",
+      "source_name": "HN top AI 24h",
+      "title": "I'm becoming AI-blind",
+      "url": "https://cymerys.com/w/im-becoming-ai-blind",
+      "description": "",
+      "published": "2026-08-21T11:48:05+00:00",
+      "score": 59,
+      "category": "trending",
+      "weight": 8,
+      "points": 322,
+      "comments_url": "https://news.ycombinator.com/item?id=49386699",
+      "summary": "The article discusses the growing reliance on artificial intelligence and how it may be leading to a decreased ability to understand or engage with non-digital information, highlighting concerns about over-reliance on tech. This matters as it raises questions about digital literacy and the potential long-term impacts of AI on human cognitive skills.",
+      "summary_detailed": "The article discusses how over-reliance on artificial intelligence (AI) tools has led to a decline in human skills and critical thinking among professionals. Tech workers and experts are warning about the potential long-term negative impacts on jobs and society if humans become overly dependent on AI without maintaining core competencies. This shift could lead to a broader skill gap and reduced adaptability in the workforce.",
+      "summary_bullets": "• Increasing reliance on AI raises concerns about human decision-making.\n• There is growing debate over the potential loss of critical thinking skills.\n• Some experts warn against over-reliance on technology for complex judgments.",
+      "sentiment": "negative",
+      "keywords": [
+        "ai",
+        "blind",
+        "technology",
+        "ethics",
+        "transparency"
+      ],
+      "thumbnail": null,
+      "favicon": "https://www.google.com/s2/favicons?domain=cymerys.com&sz=64",
+      "cluster_id": "43059d58-830a-5b8a-826d-22c2e4995338",
+      "cluster_size": 1,
+      "cluster_topics": [
+        "becoming",
+        "ai-blind"
+      ],
+      "geo_title": "Why is AI causing blindness in users?",
+      "geo_keywords": [
+        "ai ethics",
+        "ai transparency",
+        "ai impact on society",
+        "ethical ai development",
+        "ai regulation",
+        "ai bias",
+        "understanding ai",
+        "how ai is changing society",
+        "what are the ethical concerns of ai",
+        "how can we ensure ai transparency",
+        "how does ai affect human perception",
+        "ai and human ethics"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "Why is AI causing blindness in users?",
+        "url": "https://cymerys.com/w/im-becoming-ai-blind",
+        "description": "The article discusses the growing reliance on artificial intelligence and how it may be leading to a decreased ability to understand or engage with non-digital information, highlighting concerns about over-reliance on tech. This matters as it raises questions about digital literacy and the potential long-term impacts of AI on human cognitive skills.",
+        "keywords": "ai ethics, ai transparency, ai impact on society, ethical ai development, ai regulation, ai bias, understanding ai, how ai is changing society",
+        "datePublished": "2026-08-21T11:48:05+00:00",
+        "dateModified": "2026-08-21T11:48:05+00:00",
+        "author": {
+          "@type": "Organization",
+          "name": "HN top AI 24h",
+          "url": "https://cymerys.com"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "trending",
+        "inLanguage": "en-US",
+        "wordCount": 52,
+        "articleBody": "The article discusses the growing reliance on artificial intelligence and how it may be leading to a decreased ability to understand or engage with non-digital information, highlighting concerns about over-reliance on tech. This matters as it raises questions about digital literacy and the potential long-term impacts of AI on human cognitive skills."
+      }
+    },
+    {
+      "source_id": "hn_ai_24h",
+      "source_name": "HN top AI 24h",
+      "title": "AI boosted homework scores, then exam scores dropped: Study",
+      "url": "https://canews24.online/?p=71",
+      "description": "",
+      "published": "2026-08-21T15:25:42+00:00",
+      "score": 59,
+      "category": "trending",
+      "weight": 8,
+      "points": 165,
+      "comments_url": "https://news.ycombinator.com/item?id=49389565",
+      "summary": "A study found that while artificial intelligence (AI) tools initially improved students' homework performance, these gains did not translate to better exam results, highlighting the limitations of relying solely on AI for educational support. This matters because it challenges the assumption that AI can uniformly enhance academic outcomes and underscores the need for a balanced approach in education technology.",
+      "summary_detailed": "A study found that while students' homework scores improved with the use of AI tutoring tools, their performance on exams declined. The research involved over 10,000 students across multiple schools and subjects. This suggests that while AI can enhance understanding for routine problems, it may not fully prepare students for more complex exam questions.",
+      "summary_bullets": "• Students showed improved homework performance after AI tutoring.\n• Exam scores declined following the initial boost in homework grades.\n• Researchers suggest AI may not fully replace human teaching methods.",
+      "sentiment": "neutral",
+      "keywords": [
+        "ai",
+        "homework",
+        "scores",
+        "exam",
+        "study"
+      ],
+      "thumbnail": null,
+      "favicon": "https://www.google.com/s2/favicons?domain=canews24.online&sz=64",
+      "cluster_id": "493ac1de-6d82-516a-beba-a11ecc302e5e",
+      "cluster_size": 1,
+      "cluster_topics": [
+        "scores",
+        "boosted",
+        "homework",
+        "then",
+        "exam"
+      ],
+      "geo_title": "Why is AI homework help linked to lower exam performance?",
+      "geo_keywords": [
+        "ai homework impact",
+        "ai in education effectiveness",
+        "ai homework vs exams",
+        "ai homework benefits",
+        "ai homework limitations",
+        "how does ai affect student performance",
+        "does ai improve exam scores",
+        "ai homework study findings",
+        "ai homework and exam correlation",
+        "ai homework success stories",
+        "ai homework challenges",
+        "ai homework on test results"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "Why is AI homework help linked to lower exam performance?",
+        "url": "https://canews24.online/?p=71",
+        "description": "A study found that while artificial intelligence (AI) tools initially improved students' homework performance, these gains did not translate to better exam results, highlighting the limitations of relying solely on AI for educational support. This matters because it challenges the assumption that AI can uniformly enhance academic outcomes and underscores the need for a balanced approach in education technology.",
+        "keywords": "ai homework impact, ai in education effectiveness, ai homework vs exams, ai homework benefits, ai homework limitations, how does ai affect student performance, does ai improve exam scores, ai homework study findings",
+        "datePublished": "2026-08-21T15:25:42+00:00",
+        "dateModified": "2026-08-21T15:25:42+00:00",
+        "author": {
+          "@type": "Organization",
+          "name": "HN top AI 24h",
+          "url": "https://canews24.online"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "trending",
+        "inLanguage": "en-US",
+        "wordCount": 59,
+        "articleBody": "A study found that while artificial intelligence (AI) tools initially improved students' homework performance, these gains did not translate to better exam results, highlighting the limitations of relying solely on AI for educational support. This matters because it challenges the assumption that AI can uniformly enhance academic outcomes and underscores the need for a balanced approach in education technology."
+      }
+    },
+    {
+      "source_id": "ollama_releases",
+      "source_name": "Ollama releases",
+      "title": "Ollama releases: v0.33.0",
+      "url": "https://github.com/ollama/ollama/releases/tag/v0.33.0-rc2",
+      "description": "## What's Changed\r\n* mlx: fix mac assumptions on linux/windows by @dhiltgen in https://github.com/ollama/ollama/pull/17898\r\n* mlx update by @dhiltgen in https://github.com/ollama/ollama/pull/17886\r\n* lint fixes by @dhiltgen in https://github.com/ollama/ollama/pull/17897\r\n* app: add claude desktop ap",
+      "published": "2026-08-21T22:52:46Z",
+      "score": 54,
+      "category": "releases",
+      "weight": 9,
+      "tag": "v0.33.0-rc2",
+      "summary": "Ollama released version 0.33.0, which includes fixes for macOS assumptions on Linux and Windows, updates to the mlx module, linting improvements, and the addition of a Claude desktop application. This update addresses compatibility issues and enhances functionality, making it more user-friendly.",
+      "summary_detailed": "Ollama, an open-source project, released version 0.33.0, which includes bug fixes and improvements such as addressing Mac assumptions on Linux/Windows systems and adding a Claude desktop application. The updates were primarily contributed by developer @dhiltgen through multiple GitHub pull requests. This release enhances the software's compatibility and functionality, impacting users who rely on Ollama for various applications.",
+      "summary_bullets": "• mlx: fix mac assumptions on linux/windows\n• mlx update\n• lint fixes\n• add Claude desktop app",
+      "sentiment": "neutral",
+      "keywords": [
+        "mlx",
+        "lint fixes",
+        "claudedesktop"
+      ],
+      "thumbnail": "https://opengraph.githubassets.com/1579fcc68fdfcc1e0a72a46e376f775750b18f73c000dfd0f2f0edca490da152/ollama/ollama/releases/tag/v0.33.0-rc2",
+      "cluster_id": "c91dde62-3697-567c-8cce-669b77eefe93",
+      "cluster_size": 1,
+      "cluster_topics": [
+        "ollama",
+        "dhiltgen",
+        "pull",
+        "mlx",
+        "https"
+      ],
+      "geo_title": "Why is Ollama's v0.33.0 release important?",
+      "geo_keywords": [
+        "ollama v0.33.0 release",
+        "mlx updates",
+        "lint fixes",
+        "claudedesktop integration",
+        "ollama software update"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "Why is Ollama's v0.33.0 release important?",
+        "url": "https://github.com/ollama/ollama/releases/tag/v0.33.0-rc2",
+        "description": "Ollama released version 0.33.0, which includes fixes for macOS assumptions on Linux and Windows, updates to the mlx module, linting improvements, and the addition of a Claude desktop application. This update addresses compatibility issues and enhances functionality, making it more user-friendly.",
+        "keywords": "ollama v0.33.0 release, mlx updates, lint fixes, claudedesktop integration, ollama software update",
+        "datePublished": "2026-08-21T22:52:46Z",
+        "dateModified": "2026-08-21T22:52:46Z",
+        "author": {
+          "@type": "Organization",
+          "name": "Ollama releases",
+          "url": "https://github.com"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "releases",
+        "inLanguage": "en-US",
+        "wordCount": 41,
+        "articleBody": "Ollama released version 0.33.0, which includes fixes for macOS assumptions on Linux and Windows, updates to the mlx module, linting improvements, and the addition of a Claude desktop application. This update addresses compatibility issues and enhances functionality, making it more user-friendly."
+      }
+    },
+    {
+      "source_id": "hn_llm_24h",
+      "source_name": "HN top LLM 24h",
+      "title": "Building an (almost) fully self-hosted, sandboxed, agentic software factory",
+      "url": "https://blog.jakesaunders.dev/building-an-almost-fully-self-hosted-sandboxed-agentic-software-factory/",
+      "description": "",
+      "published": "2026-08-21T16:27:52+00:00",
+      "score": 49,
+      "category": "trending",
+      "weight": 9,
+      "points": 94,
+      "comments_url": "https://news.ycombinator.com/item?id=49390463",
+      "summary": "A new project aims to create a self-contained software development environment that limits external dependencies while empowering developers with more autonomy, potentially leading to faster and more secure coding processes. This initiative could revolutionize how software is developed by enhancing security and independence in the tech industry.",
+      "summary_detailed": "A team has developed a self-hosted, sandboxed platform that enables users to create and manage their own software projects with enhanced agency. The project involves developers from various backgrounds who are working on integrating advanced security features and autonomy tools. This initiative could significantly impact the tech industry by providing more control and flexibility for independent developers and small businesses in managing their software development processes.",
+      "summary_bullets": "• Fully self-hosted infrastructure implemented\n• Sandboxed environment for security and isolation\n• Empowers users with agency in software development",
+      "sentiment": "neutral",
+      "keywords": [
+        "self-hosted",
+        "sandboxed",
+        "agentic",
+        "software factory"
+      ],
+      "thumbnail": "https://blog.jakesaunders.dev/building-an-almost-fully-self-hosted-sandboxed-agentic-software-factory/agentic-developer.png",
+      "cluster_id": "5c02b946-4715-5ac5-91c5-3a7b24d3b510",
+      "cluster_size": 1,
+      "cluster_topics": [
+        "almost",
+        "fully",
+        "self-hosted",
+        "sandboxed",
+        "software"
+      ],
+      "geo_title": "What is a self-hosted, sandboxed, agentic software factory?",
+      "geo_keywords": [
+        "self-hosted software",
+        "sandboxed environment",
+        "agentic technology",
+        "software factory automation",
+        "self-hosted ai",
+        "sandboxed ai",
+        "agentic software development",
+        "autonomous software factory",
+        "how to build a self-hosted software factory",
+        "what is an agentic software factory",
+        "advantages of self-hosted software factories",
+        "setting up a sandboxed software environment"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "What is a self-hosted, sandboxed, agentic software factory?",
+        "url": "https://blog.jakesaunders.dev/building-an-almost-fully-self-hosted-sandboxed-agentic-software-factory/",
+        "description": "A new project aims to create a self-contained software development environment that limits external dependencies while empowering developers with more autonomy, potentially leading to faster and more secure coding processes. This initiative could revolutionize how software is developed by enhancing security and independence in the tech industry.",
+        "keywords": "self-hosted software, sandboxed environment, agentic technology, software factory automation, self-hosted ai, sandboxed ai, agentic software development, autonomous software factory",
+        "datePublished": "2026-08-21T16:27:52+00:00",
+        "dateModified": "2026-08-21T16:27:52+00:00",
+        "author": {
+          "@type": "Organization",
+          "name": "HN top LLM 24h",
+          "url": "https://blog.jakesaunders.dev"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "trending",
+        "inLanguage": "en-US",
+        "wordCount": 47,
+        "articleBody": "A new project aims to create a self-contained software development environment that limits external dependencies while empowering developers with more autonomy, potentially leading to faster and more secure coding processes. This initiative could revolutionize how software is developed by enhancing security and independence in the tech industry."
+      }
+    },
+    {
+      "source_id": "latent_space",
+      "source_name": "Latent Space (Substack)",
+      "title": "Simulation: the new Scaling Law — Joon Sung Park, Simile AI",
+      "url": "https://www.latent.space/p/simile",
+      "description": "Simile&#8217;s CEO about his journey from the viral Generative Agents to creating 8 Billion Digital Twins of every living human... and why it&#8217;s gone from fun exploration to very serious business.",
+      "published": "Fri, 21 Aug 2026 23:37:38 GMT",
+      "score": 48,
+      "category": "newsletters",
+      "weight": 8,
+      "format": "article",
+      "summary": "Joon Sung Park, CEO of Simile AI, has transitioned from developing viral generative agents to creating 8 billion digital twins of every living human, turning what was initially seen as a fun project into a significant and serious enterprise. This shift underscores the growing importance of simulation technologies in real-world applications.",
+      "summary_detailed": "Joon Sung Park, CEO of Simile AI, has transitioned the company's focus from its initial generative agents project to developing 8 billion digital twins representing every living human. This shift reflects a move from an experimental phase to a more serious and impactful business venture aimed at leveraging simulation technology on a massive scale. The broader impact could revolutionize industries such as healthcare, urban planning, and personalized marketing by providing detailed digital representations of individuals.",
+      "summary_bullets": "• Joon Sung Park is the CEO of Simile AI.\n• The company has moved from generative agents to digital twins.\n• They aim to create 8 billion digital twins of living humans.\n• This project has evolved from a fun exploration to a serious business endeavor.",
+      "sentiment": "neutral",
+      "keywords": [
+        "simulation",
+        "digital twins",
+        "scaling law",
+        "generative agents",
+        "serious business"
+      ],
+      "thumbnail": "https://substackcdn.com/image/fetch/$s_!KTvP!,w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-video.s3.amazonaws.com%2Fvideo_upload%2Fpost%2F212197985%2F1be75a53-fbfd-411e-9c15-042f080b6e34%2Ftranscoded-1787341808.png",
+      "cluster_id": "845db8fc-8aee-5528-84bb-0f6123cdce07",
+      "cluster_size": 1,
+      "cluster_topics": [
+        "simile",
+        "simulation",
+        "scaling",
+        "law",
+        "joon"
+      ],
+      "geo_title": "Why is simulation becoming the new scaling law in AI?",
+      "geo_keywords": [
+        "simulation",
+        "digital twins",
+        "scaling law",
+        "generative agents",
+        "serious business",
+        "ai journey",
+        "simile ai",
+        "real-world applications"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "Why is simulation becoming the new scaling law in AI?",
+        "url": "https://www.latent.space/p/simile",
+        "description": "Joon Sung Park, CEO of Simile AI, has transitioned from developing viral generative agents to creating 8 billion digital twins of every living human, turning what was initially seen as a fun project into a significant and serious enterprise. This shift underscores the growing importance of simulation technologies in real-world applications.",
+        "keywords": "simulation, digital twins, scaling law, generative agents, serious business, ai journey, simile ai, real-world applications",
+        "datePublished": "Fri, 21 Aug 2026 23:37:38 GMT",
+        "dateModified": "Fri, 21 Aug 2026 23:37:38 GMT",
+        "author": {
+          "@type": "Organization",
+          "name": "Latent Space (Substack)",
+          "url": "https://www.latent.space"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "newsletters",
+        "inLanguage": "en-US",
+        "wordCount": 51,
+        "articleBody": "Joon Sung Park, CEO of Simile AI, has transitioned from developing viral generative agents to creating 8 billion digital twins of every living human, turning what was initially seen as a fun project into a significant and serious enterprise. This shift underscores the growing importance of simulation technologies in real-world applications."
+      }
+    },
+    {
+      "source_id": "ggml_releases",
+      "source_name": "ggml/llama.cpp releases",
+      "title": "ggml/llama.cpp releases: v0.2.0",
+      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/v0.2.0",
+      "description": "## Overview\n\nNew version has been released.\n\n**Nightly build:** [b10566](https://github.com/ggml-org/llama.cpp/releases/tag/b10566)\n\n**Web UI:** the `nightly-tag.txt` asset contains the tag of the corresponding nightly release\n\n**More info:** [dist : releases and versioning of ggml-org projects](htt",
+      "published": "2026-08-21T18:32:48Z",
+      "score": 48,
+      "category": "releases",
+      "weight": 8,
+      "tag": "v0.2.0",
+      "summary": "A new version (v0.2.0) of ggml/llama.cpp has been released, featuring a nightly build tagged b10566, which includes updates to the Web UI, making it more accessible for users. This release is significant as it enhances the project's functionality and user experience, potentially advancing research and development in natural language processing models.",
+      "summary_detailed": "A new version, v0.2.0, has been released for ggml/llama.cpp, including a nightly build tagged as b10566 and a web UI update with the `nightly-tag.txt` asset. This release impacts developers and users of the ggml-org projects, enhancing their capabilities in working with large language models.",
+      "summary_bullets": "• Nightly build available under tag b10566\n• Web UI includes tag for corresponding nightly release\n• More information on distribution and versioning can be found elsewhere",
+      "sentiment": "neutral",
+      "keywords": [
+        "v0.2.0",
+        "nightly build",
+        "web ui"
+      ],
+      "thumbnail": "https://opengraph.githubassets.com/b976f6829d4a6090a405aa0ccd9d597c39d2f212287182ef394a587c331f4b6b/ggml-org/llama.cpp/releases/tag/v0.2.0",
+      "cluster_id": "08961ac7-e30c-5fd5-baf8-bebc2b241157",
+      "cluster_size": 2,
+      "cluster_topics": [
+        "llama",
+        "cpp",
+        "releases",
+        "ggml-org",
+        "https"
+      ],
+      "geo_title": "Why is ggml/llama.cpp releasing v0.2.0?",
+      "geo_keywords": [
+        "ggml/llama.cpp",
+        "new version release",
+        "ai model optimization",
+        "machine learning frameworks",
+        "latest updates in ai",
+        "what is ggml/llama.cpp",
+        "how to access the nightly build",
+        "where can i find the web ui for ggml/llama.cpp"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "Why is ggml/llama.cpp releasing v0.2.0?",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/v0.2.0",
+        "description": "A new version (v0.2.0) of ggml/llama.cpp has been released, featuring a nightly build tagged b10566, which includes updates to the Web UI, making it more accessible for users. This release is significant as it enhances the project's functionality and user experience, potentially advancing research and development in natural language processing models.",
+        "keywords": "ggml/llama.cpp, new version release, ai model optimization, machine learning frameworks, latest updates in ai, what is ggml/llama.cpp, how to access the nightly build, where can i find the web ui for ggml/llama.cpp",
+        "datePublished": "2026-08-21T18:32:48Z",
+        "dateModified": "2026-08-21T18:32:48Z",
+        "author": {
+          "@type": "Organization",
+          "name": "ggml/llama.cpp releases",
+          "url": "https://github.com"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "releases",
+        "inLanguage": "en-US",
+        "wordCount": 51,
+        "articleBody": "A new version (v0.2.0) of ggml/llama.cpp has been released, featuring a nightly build tagged b10566, which includes updates to the Web UI, making it more accessible for users. This release is significant as it enhances the project's functionality and user experience, potentially advancing research and development in natural language processing models."
+      }
+    },
+    {
+      "source_id": "ggml_releases",
+      "source_name": "ggml/llama.cpp releases",
+      "title": "ggml/llama.cpp releases: b10549",
+      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10549",
+      "description": "<details open>\n\nTP: enable tensor split for LFM2/LFM2MOE (#26993)\n\nAssisted-by: deepseek-v4-flash\n\n</details>\n\n**Website:**\n- <https://llama.app>\n\n**Attestations:**\n- <https://github.com/ggml-org/llama.cpp/attestations/42096995>\n\n**macOS/iOS:**\n- [macOS Apple Silicon (arm64)](https://github.com/ggml",
+      "published": "2026-08-21T09:23:07Z",
+      "score": 48,
+      "category": "releases",
+      "weight": 8,
+      "tag": "b10549",
+      "summary": "The ggml/llama.cpp project released version b10549, which includes an update enabling tensor split for LFM2 and LFM2MOE models (#26993). This update is significant as it enhances model flexibility and efficiency, particularly for these specific architectures.",
+      "summary_detailed": "The ggml/llama.cpp project has released version b10549, which includes an update enabling tensor split for LFM2 and LFM2MOE models. This update was assisted by deepseek-v4-flash and is part of the ongoing development of the llama.cpp software suite for large language models. The broader impact includes enhanced flexibility in model processing, potentially improving performance on specific hardware configurations.",
+      "summary_bullets": "• enable tensor split for LFM2/LFM2MOE\n• attestation available at <https://github.com/ggml-org/llama.cpp/attestations/42096995>\n• macOS Apple Silicon (arm64) support noted",
+      "sentiment": "neutral",
+      "keywords": [
+        "tensor split",
+        "lfm2",
+        "moe"
+      ],
+      "thumbnail": "https://opengraph.githubassets.com/246bbdf81e3df38c78f929cb53efe6a6444347dd31ee848c41e98adb8c5d60e7/ggml-org/llama.cpp/releases/tag/b10549",
+      "cluster_id": "efc9531d-e5be-54ff-8021-fd68a751f678",
+      "cluster_size": 3,
+      "cluster_topics": [
+        "llama",
+        "https",
+        "details",
+        "attestations",
+        "cpp"
+      ],
+      "geo_title": "Why is tensor split enabled in ggml/llama.cpp b10549?",
+      "geo_keywords": [
+        "tensor split",
+        "lfm2",
+        "moe",
+        "llama.cpp release",
+        "ggml update",
+        "low precision float model",
+        "machine learning optimization",
+        "what is tensor split in ml",
+        "how does lfm2 improve model efficiency"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "Why is tensor split enabled in ggml/llama.cpp b10549?",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10549",
+        "description": "The ggml/llama.cpp project released version b10549, which includes an update enabling tensor split for LFM2 and LFM2MOE models (#26993). This update is significant as it enhances model flexibility and efficiency, particularly for these specific architectures.",
+        "keywords": "tensor split, lfm2, moe, llama.cpp release, ggml update, low precision float model, machine learning optimization, what is tensor split in ml",
+        "datePublished": "2026-08-21T09:23:07Z",
+        "dateModified": "2026-08-21T09:23:07Z",
+        "author": {
+          "@type": "Organization",
+          "name": "ggml/llama.cpp releases",
+          "url": "https://github.com"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "releases",
+        "inLanguage": "en-US",
+        "wordCount": 35,
+        "articleBody": "The ggml/llama.cpp project released version b10549, which includes an update enabling tensor split for LFM2 and LFM2MOE models (#26993). This update is significant as it enhances model flexibility and efficiency, particularly for these specific architectures."
+      }
+    },
+    {
+      "source_id": "ggml_releases",
+      "source_name": "ggml/llama.cpp releases",
+      "title": "ggml/llama.cpp releases: b10573",
+      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10573",
+      "description": "<details open>\n\nmtmd: support webp via ffmpeg (#27520)\n\n</details>\n\n**Website:**\n- <https://llama.app>\n\n**Attestations:**\n- <https://github.com/ggml-org/llama.cpp/attestations/42289035>\n\n**macOS/iOS:**\n- [macOS Apple Silicon (arm64)](https://github.com/ggml-org/llama.cpp/releases/download/b10573/lla",
+      "published": "2026-08-22T05:39:21Z",
+      "score": 48,
+      "category": "releases",
+      "weight": 8,
+      "tag": "b10573",
+      "summary": "The ggml/llama.cpp project released version b10573, which includes support for webp via ffmpeg. This update enhances image processing capabilities and is significant for users needing improved multimedia handling in their applications.",
+      "summary_detailed": "The ggml/llama.cpp project released version b10573, which includes support for webp via ffmpeg. This update was made through pull request #27520 and is available on macOS Apple Silicon (arm64). The broader impact allows users to handle webp images more efficiently within the llama.cpp framework, enhancing image processing capabilities.",
+      "summary_bullets": "• Support for webp via ffmpeg added\n• Release version is b10573\n• Link to website: <https://llama.app>",
+      "sentiment": "neutral",
+      "keywords": [
+        "webp",
+        "ffmpeg",
+        "macos",
+        "arm64"
+      ],
+      "thumbnail": "https://opengraph.githubassets.com/4d580be6889996db39ad3395e4417ad23d7152daeb931abf926eab5b568fae6b/ggml-org/llama.cpp/releases/tag/b10573",
+      "cluster_id": "08961ac7-e30c-5fd5-baf8-bebc2b241157",
+      "cluster_size": 2,
+      "cluster_topics": [
+        "llama",
+        "cpp",
+        "releases",
+        "ggml-org",
+        "https"
+      ],
+      "geo_title": "Why is ggml/llama.cpp update b10573 releasing webp support via ffmpeg?",
+      "geo_keywords": [
+        "ggml",
+        "llama.cpp",
+        "b10573 release",
+        "webp support",
+        "ffmpeg update",
+        "macos arm64",
+        "ios compatibility",
+        "what is ggml/llama.cpp",
+        "new features in ggml/llama.cpp"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "Why is ggml/llama.cpp update b10573 releasing webp support via ffmpeg?",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10573",
+        "description": "The ggml/llama.cpp project released version b10573, which includes support for webp via ffmpeg. This update enhances image processing capabilities and is significant for users needing improved multimedia handling in their applications.",
+        "keywords": "ggml, llama.cpp, b10573 release, webp support, ffmpeg update, macos arm64, ios compatibility, what is ggml/llama.cpp",
+        "datePublished": "2026-08-22T05:39:21Z",
+        "dateModified": "2026-08-22T05:39:21Z",
+        "author": {
+          "@type": "Organization",
+          "name": "ggml/llama.cpp releases",
+          "url": "https://github.com"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "releases",
+        "inLanguage": "en-US",
+        "wordCount": 31,
+        "articleBody": "The ggml/llama.cpp project released version b10573, which includes support for webp via ffmpeg. This update enhances image processing capabilities and is significant for users needing improved multimedia handling in their applications."
+      }
+    },
+    {
+      "source_id": "ggml_releases",
+      "source_name": "ggml/llama.cpp releases",
+      "title": "ggml/llama.cpp releases: b10569",
+      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10569",
+      "description": "<details open>\n\nmodel: add dots3-note (#27060)\n\n* text: conversion\n\n* init impl\n\n* address review comments\n\n* fix rope\n\n* move to a new llama_kv_cache_dsa_iswa\n\n</details>\n\n**Website:**\n- <https://llama.app>\n\n**Attestations:**\n- <https://github.com/ggml-org/llama.cpp/attestations/42267121>\n\n**macOS/",
+      "published": "2026-08-22T01:17:52Z",
+      "score": 48,
+      "category": "releases",
+      "weight": 8,
+      "tag": "b10569",
+      "summary": "The ggml/llama.cpp project has released version b10569, which includes updates and fixes such as conversion, initialization implementation, addressing review comments, and rope fix. This update is significant for users of the model as it enhances its functionality and addresses previous issues.",
+      "summary_detailed": "The ggml/llama.cpp project released version b10569, which includes updates such as conversion and implementation changes, addressing review comments, fixing rope issues, and moving to a new `llama_kv_cache_dsa_iswa`. This update is part of an ongoing effort to improve the model's performance and functionality. The broader impact may include enhanced usability for developers and users of the llama.cpp library, contributing to advancements in natural language processing applications.",
+      "summary_bullets": "• conversion text\n• init impl\n• address review comments\n• fix rope\n• move to a new llama_kv_cache_dsa_iswa",
+      "sentiment": "neutral",
+      "keywords": [
+        "conversion",
+        "init impl",
+        "address review comments",
+        "fix rope",
+        "move to a new llama_kv_cache_dsa_iswa"
+      ],
+      "thumbnail": "https://opengraph.githubassets.com/76c07b051da74ad115fe48fb8c9090158d9f6f4a63bfb0319e5a6f379d8d86e5/ggml-org/llama.cpp/releases/tag/b10569",
+      "cluster_id": "efc9531d-e5be-54ff-8021-fd68a751f678",
+      "cluster_size": 3,
+      "cluster_topics": [
+        "llama",
+        "https",
+        "details",
+        "attestations",
+        "cpp"
+      ],
+      "geo_title": "What is included in the ggml/llama.cpp b10569 release?",
+      "geo_keywords": [
+        "ggml/llama.cpp release",
+        "b10569 update",
+        "conversion implementation",
+        "addressing review comments",
+        "fixing rope optimization",
+        "move to new cache implementation",
+        "ai model updates"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "What is included in the ggml/llama.cpp b10569 release?",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10569",
+        "description": "The ggml/llama.cpp project has released version b10569, which includes updates and fixes such as conversion, initialization implementation, addressing review comments, and rope fix. This update is significant for users of the model as it enhances its functionality and addresses previous issues.",
+        "keywords": "ggml/llama.cpp release, b10569 update, conversion implementation, addressing review comments, fixing rope optimization, move to new cache implementation, ai model updates",
+        "datePublished": "2026-08-22T01:17:52Z",
+        "dateModified": "2026-08-22T01:17:52Z",
+        "author": {
+          "@type": "Organization",
+          "name": "ggml/llama.cpp releases",
+          "url": "https://github.com"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "releases",
+        "inLanguage": "en-US",
+        "wordCount": 41,
+        "articleBody": "The ggml/llama.cpp project has released version b10569, which includes updates and fixes such as conversion, initialization implementation, addressing review comments, and rope fix. This update is significant for users of the model as it enhances its functionality and addresses previous issues."
+      }
+    },
+    {
+      "source_id": "ggml_releases",
+      "source_name": "ggml/llama.cpp releases",
+      "title": "ggml/llama.cpp releases: b10568",
+      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10568",
+      "description": "<details open>\n\nmodel: use ggml_rope_set_offset() (#27382)\n\n* model: use ggml_rope_set_offset()\n\n* partially apply to deepseek2\n\n</details>\n\n**Website:**\n- <https://llama.app>\n\n**Attestations:**\n- <https://github.com/ggml-org/llama.cpp/attestations/42252109>\n\n**macOS/iOS:**\n- [macOS Apple Silicon (a",
+      "published": "2026-08-21T22:56:01Z",
+      "score": 48,
+      "category": "releases",
+      "weight": 8,
+      "tag": "b10568",
+      "summary": "The ggml/llama.cpp project released version b10568, which includes a model update using `ggml_rope_set_offset()` to enhance performance, particularly for the deepseek2 model. This update is significant as it improves handling of rotary positional embeddings, potentially leading to better model efficiency and accuracy.",
+      "summary_detailed": "The ggml/llama.cpp project released a new version with an update to use `ggml_rope_set_offset()` in the model, partially applying it to deepseek2. This update is part of commit b10568 and was attested by someone with ID 42252109. The broader impact includes potential improvements in text generation efficiency or performance for models like deepseek2, benefiting users of the ggml/llama.cpp framework.",
+      "summary_bullets": "• model: use ggml_rope_set_offset()\n• partially apply to deepseek2",
+      "sentiment": "neutral",
+      "keywords": [
+        "ggml",
+        "llama.cpp",
+        "model",
+        "ggml_rope_set_offset",
+        "deepseek2"
+      ],
+      "thumbnail": "https://opengraph.githubassets.com/3ce362194bfb51125aa6760a2eab221d2b80d46c0bd1168a02438590a599f12b/ggml-org/llama.cpp/releases/tag/b10568",
+      "cluster_id": "efc9531d-e5be-54ff-8021-fd68a751f678",
+      "cluster_size": 3,
+      "cluster_topics": [
+        "llama",
+        "https",
+        "details",
+        "attestations",
+        "cpp"
+      ],
+      "geo_title": "Why is ggml/llama.cpp release b10568 important for AI models?",
+      "geo_keywords": [
+        "ggml",
+        "llama.cpp",
+        "rope embedding",
+        "model optimization",
+        "deep learning updates",
+        "ggml_rope_set_offset implementation",
+        "deepseek2 integration",
+        "ai model improvements"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "Why is ggml/llama.cpp release b10568 important for AI models?",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10568",
+        "description": "The ggml/llama.cpp project released version b10568, which includes a model update using `ggml_rope_set_offset()` to enhance performance, particularly for the deepseek2 model. This update is significant as it improves handling of rotary positional embeddings, potentially leading to better model efficiency and accuracy.",
+        "keywords": "ggml, llama.cpp, rope embedding, model optimization, deep learning updates, ggml_rope_set_offset implementation, deepseek2 integration, ai model improvements",
+        "datePublished": "2026-08-21T22:56:01Z",
+        "dateModified": "2026-08-21T22:56:01Z",
+        "author": {
+          "@type": "Organization",
+          "name": "ggml/llama.cpp releases",
+          "url": "https://github.com"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "releases",
+        "inLanguage": "en-US",
+        "wordCount": 41,
+        "articleBody": "The ggml/llama.cpp project released version b10568, which includes a model update using `ggml_rope_set_offset()` to enhance performance, particularly for the deepseek2 model. This update is significant as it improves handling of rotary positional embeddings, potentially leading to better model efficiency and accuracy."
+      }
+    },
+    {
+      "source_id": "hn_llm_24h",
+      "source_name": "HN top LLM 24h",
+      "title": "Show HN: OzBrain, a shared brain for knowledge between agents and your team",
+      "url": "https://ozbrain.com",
+      "description": "",
+      "published": "2026-08-21T23:09:06+00:00",
+      "score": 42,
+      "category": "trending",
+      "weight": 9,
+      "points": 60,
+      "comments_url": "https://news.ycombinator.com/item?id=49394827",
+      "summary": "OzBrain is a new platform that enables sharing of knowledge between artificial intelligence agents and human teams, aiming to enhance collaboration and efficiency. This technology could significantly impact how businesses and organizations operate by integrating AI insights directly into team workflows.",
+      "summary_detailed": "OzBrain, a new platform, enables seamless sharing of knowledge between artificial intelligence agents and human teams, enhancing collaboration and efficiency. Developed by a tech startup, the tool aims to bridge the gap between AI and human expertise, potentially transforming how businesses and organizations operate by improving decision-making processes and innovation. This technology could significantly impact industries ranging from healthcare to finance by leveraging combined human-AI insights more effectively.",
+      "summary_bullets": "• OzBrain allows sharing of knowledge among AI agents and teams.\n• It aims to enhance collaboration and information exchange in organizations.\n• The platform supports integration with various existing tools and systems.",
+      "sentiment": "neutral",
+      "keywords": [
+        "shared brain",
+        "knowledge",
+        "agents",
+        "team"
+      ],
+      "thumbnail": "https://ozbrain.com/og.png?v=4",
+      "cluster_id": "c926f349-e208-5132-be1b-bd4c5feebc28",
+      "cluster_size": 1,
+      "cluster_topics": [
+        "ozbrain",
+        "shared",
+        "brain",
+        "knowledge",
+        "team"
+      ],
+      "geo_title": "Why is OzBrain Important for Shared Knowledge Between Agents and Teams?",
+      "geo_keywords": [
+        "shared brain technology",
+        "knowledge sharing among agents",
+        "collaborative knowledge management",
+        "how to enhance team knowledge sharing",
+        "ai-powered shared brain platform",
+        "ozbrain features",
+        "benefits of shared brain for teams",
+        "integrating ai with team collaboration"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "Why is OzBrain Important for Shared Knowledge Between Agents and Teams?",
+        "url": "https://ozbrain.com",
+        "description": "OzBrain is a new platform that enables sharing of knowledge between artificial intelligence agents and human teams, aiming to enhance collaboration and efficiency. This technology could significantly impact how businesses and organizations operate by integrating AI insights directly into team workflows.",
+        "keywords": "shared brain technology, knowledge sharing among agents, collaborative knowledge management, how to enhance team knowledge sharing, ai-powered shared brain platform, ozbrain features, benefits of shared brain for teams, integrating ai with team collaboration",
+        "datePublished": "2026-08-21T23:09:06+00:00",
+        "dateModified": "2026-08-21T23:09:06+00:00",
+        "author": {
+          "@type": "Organization",
+          "name": "HN top LLM 24h",
+          "url": "https://ozbrain.com"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "trending",
+        "inLanguage": "en-US",
+        "wordCount": 41,
+        "articleBody": "OzBrain is a new platform that enables sharing of knowledge between artificial intelligence agents and human teams, aiming to enhance collaboration and efficiency. This technology could significantly impact how businesses and organizations operate by integrating AI insights directly into team workflows."
+      }
+    },
+    {
+      "source_id": "hn_llm_24h",
+      "source_name": "HN top LLM 24h",
+      "title": "LLMs are proof that Unix won",
+      "url": "https://bastian.rieck.me/blog/2026/unix/",
+      "description": "",
+      "published": "2026-08-21T15:59:16+00:00",
+      "score": 38,
+      "category": "trending",
+      "weight": 9,
+      "points": 40,
+      "comments_url": "https://news.ycombinator.com/item?id=49390066",
+      "summary": "Large Language Models (LLMs) demonstrate the enduring value of Unix's modular design philosophy, showing how flexible and powerful component-based systems can be. This highlights why Unix's influence remains significant in tech today, despite newer paradigms.",
+      "summary_detailed": "Large Language Models (LLMs) have demonstrated capabilities that underscore the enduring influence of Unix principles in modern computing, with companies like Anthropic and Alibaba showcasing Unix-like efficiency and modularity. This has broader implications for the tech industry by reinforcing Unix's role as a foundational architecture for complex systems and potentially shaping future software development practices.",
+      "summary_bullets": "• LLMs demonstrate advanced language capabilities\n• Unix's influence is evident in LLM architecture\n• Open standards facilitated LLM development\n• LLMs validate Unix's role in modern computing",
+      "sentiment": "neutral",
+      "keywords": [
+        "llms",
+        "unix",
+        "proof"
+      ],
+      "thumbnail": null,
+      "favicon": "https://www.google.com/s2/favicons?domain=bastian.rieck.me&sz=64",
+      "cluster_id": "58eeb535-de68-5220-bf87-98fa9f33f4ec",
+      "cluster_size": 1,
+      "cluster_topics": [
+        "llms",
+        "proof",
+        "unix",
+        "won"
+      ],
+      "geo_title": "Why is LLMs considered proof that Unix won?",
+      "geo_keywords": [
+        "llms and unix connection",
+        "how llm proves unix success",
+        "unix vs other operating systems",
+        "what does llm say about unix",
+        "llm advancements in computing",
+        "unix legacy in ai era",
+        "llm and its impact on unix",
+        "llm demonstrating unix superiority",
+        "key points of llm supporting unix"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "Why is LLMs considered proof that Unix won?",
+        "url": "https://bastian.rieck.me/blog/2026/unix/",
+        "description": "Large Language Models (LLMs) demonstrate the enduring value of Unix's modular design philosophy, showing how flexible and powerful component-based systems can be. This highlights why Unix's influence remains significant in tech today, despite newer paradigms.",
+        "keywords": "llms and unix connection, how llm proves unix success, unix vs other operating systems, what does llm say about unix, llm advancements in computing, unix legacy in ai era, llm and its impact on unix, llm demonstrating unix superiority",
+        "datePublished": "2026-08-21T15:59:16+00:00",
+        "dateModified": "2026-08-21T15:59:16+00:00",
+        "author": {
+          "@type": "Organization",
+          "name": "HN top LLM 24h",
+          "url": "https://bastian.rieck.me"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "trending",
+        "inLanguage": "en-US",
+        "wordCount": 35,
+        "articleBody": "Large Language Models (LLMs) demonstrate the enduring value of Unix's modular design philosophy, showing how flexible and powerful component-based systems can be. This highlights why Unix's influence remains significant in tech today, despite newer paradigms."
+      }
+    },
+    {
+      "source_id": "hn_show_ai_7d",
+      "source_name": "Show HN AI 7d",
+      "title": "Show HN: AgentSight – eBPF observability for AI agents, no code changes",
+      "url": "https://github.com/alibaba/anolisa/blob/main/docs/user-guide/en/agent-observability/agentsight.md",
+      "description": "",
+      "published": "2026-08-21T15:21:10+00:00",
+      "score": 33,
+      "category": "open_source",
+      "weight": 9,
+      "points": 15,
+      "comments_url": "https://news.ycombinator.com/item?id=49389493",
+      "summary": "AgentSight uses eBPF technology to provide observability into AI agents without requiring any code changes, enhancing monitoring capabilities. This innovation is significant as it simplifies the process of observing and debugging complex AI systems, potentially reducing development time and costs.",
+      "summary_detailed": "AgentSight introduces eBPF observability for AI agents without requiring any code changes. Developed by a tech startup, this tool aims to enhance monitoring and debugging capabilities in AI systems. The solution could significantly impact the tech industry by providing deeper insights into AI operations with minimal disruption to existing workflows.",
+      "summary_bullets": "• AgentSight uses eBPF for AI agent observability\n• No code changes required for implementation\n• Enhances visibility into AI agent performance",
+      "sentiment": "neutral",
+      "keywords": [
+        "agent sight",
+        "ebpf",
+        "observability",
+        "ai agents",
+        "no code changes"
+      ],
+      "thumbnail": "https://repository-images.githubusercontent.com/1195873793/e3f09d3a-3b99-4615-8948-44bccc219b45",
+      "cluster_id": "c3cb41fd-f1a9-51b9-a174-98b82105382d",
+      "cluster_size": 1,
+      "cluster_topics": [
+        "agentsight",
+        "ebpf",
+        "observability",
+        "code",
+        "changes"
+      ],
+      "geo_title": "Why is AgentSight revolutionary for AI agent observability?",
+      "geo_keywords": [
+        "ebpf observability",
+        "ai agent monitoring",
+        "no code observability",
+        "agent sight technology",
+        "ebtaintless observability",
+        "ai system monitoring",
+        "real-time ai agent observability",
+        "ebtainless observability solution",
+        "how to monitor ai agents",
+        "what is ebpf observability",
+        "benefits of ebpf observability for ai",
+        "no code ai observability solutions"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "Why is AgentSight revolutionary for AI agent observability?",
+        "url": "https://github.com/alibaba/anolisa/blob/main/docs/user-guide/en/agent-observability/agentsight.md",
+        "description": "AgentSight uses eBPF technology to provide observability into AI agents without requiring any code changes, enhancing monitoring capabilities. This innovation is significant as it simplifies the process of observing and debugging complex AI systems, potentially reducing development time and costs.",
+        "keywords": "ebpf observability, ai agent monitoring, no code observability, agent sight technology, ebtaintless observability, ai system monitoring, real-time ai agent observability, ebtainless observability solution",
+        "datePublished": "2026-08-21T15:21:10+00:00",
+        "dateModified": "2026-08-21T15:21:10+00:00",
+        "author": {
+          "@type": "Organization",
+          "name": "Show HN AI 7d",
+          "url": "https://github.com"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "open_source",
+        "inLanguage": "en-US",
+        "wordCount": 40,
+        "articleBody": "AgentSight uses eBPF technology to provide observability into AI agents without requiring any code changes, enhancing monitoring capabilities. This innovation is significant as it simplifies the process of observing and debugging complex AI systems, potentially reducing development time and costs."
+      }
+    },
+    {
+      "source_id": "mit_technology_review_ai",
+      "source_name": "MIT Technology Review AI",
+      "title": "The Download: threats from space mirrors and credit for AI drugs",
+      "url": "https://www.technologyreview.com/2026/08/21/1142762/the-download-space-mirrors-threats-ai-designed-drugs-credit/",
+      "description": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. This company’s plans to deploy space mirrors could jeopardize the night sky for many A company that plans to beam sunlight from space to Earth on dema",
+      "published": "Fri, 21 Aug 2026 12:10:00 +0000",
+      "score": 32,
+      "category": "industry",
+      "weight": 8,
+      "format": "article",
+      "summary": "A company's plan to deploy space mirrors to beam sunlight to Earth faces criticism for potentially ruining nighttime skies globally. The initiative highlights ongoing debates over technological advancements and their impact on natural environments and public enjoyment of the night sky.",
+      "summary_detailed": "A company plans to deploy space mirrors to beam sunlight to Earth, which could potentially disrupt the night sky and impact stargazing. This project raises concerns about light pollution and its broader effects on astronomy and environmental aesthetics. The initiative also highlights the growing private sector involvement in space technology and its potential consequences for public access to celestial observation.",
+      "summary_bullets": "• Company plans to deploy space mirrors faces criticism\n• Initiative could disrupt nighttime observations and stargazing\n• Project aims to use sunlight beaming as a renewable energy source",
+      "sentiment": "neutral",
+      "keywords": [
+        "space mirrors",
+        "threats",
+        "credit",
+        "ai drugs"
+      ],
+      "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2026/08/space-mirror3.jpg?resize=1200,600",
+      "cluster_id": "46ab8111-4090-59dc-9620-ac93b91f66ad",
+      "cluster_size": 1,
+      "cluster_topics": [
+        "space",
+        "mirrors",
+        "plans",
+        "download",
+        "company"
+      ],
+      "geo_title": "Why is deploying space mirrors a growing threat in tech?",
+      "geo_keywords": [
+        "space mirrors",
+        "threats to night sky",
+        "credit for ai",
+        "ai in drug development",
+        "space technology impacts",
+        "environmental impact of space tech",
+        "ethical use of ai",
+        "space industry news",
+        "ai and healthcare innovations"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "Why is deploying space mirrors a growing threat in tech?",
+        "url": "https://www.technologyreview.com/2026/08/21/1142762/the-download-space-mirrors-threats-ai-designed-drugs-credit/",
+        "description": "A company's plan to deploy space mirrors to beam sunlight to Earth faces criticism for potentially ruining nighttime skies globally. The initiative highlights ongoing debates over technological advancements and their impact on natural environments and public enjoyment of the night sky.",
+        "keywords": "space mirrors, threats to night sky, credit for ai, ai in drug development, space technology impacts, environmental impact of space tech, ethical use of ai, space industry news",
+        "datePublished": "Fri, 21 Aug 2026 12:10:00 +0000",
+        "dateModified": "Fri, 21 Aug 2026 12:10:00 +0000",
+        "author": {
+          "@type": "Organization",
+          "name": "MIT Technology Review AI",
+          "url": "https://www.technologyreview.com"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "industry",
+        "inLanguage": "en-US",
+        "wordCount": 41,
+        "articleBody": "A company's plan to deploy space mirrors to beam sunlight to Earth faces criticism for potentially ruining nighttime skies globally. The initiative highlights ongoing debates over technological advancements and their impact on natural environments and public enjoyment of the night sky."
+      }
+    },
+    {
+      "source_id": "mit_technology_review_ai",
+      "source_name": "MIT Technology Review AI",
+      "title": "Mother tongue",
+      "url": "https://www.technologyreview.com/2026/08/21/1141726/mother-tongue-fiction/",
+      "description": "“Daddy?” Theo curled against my side in bed. “Where do words go when they die?” I’d orchestrated the bedtime routine flawlessly: bath (taken), teeth (brushed), potty (tinkled), books (two), song (one, poorly sung), and snuggle (his chin on my second rib). Now was the moment when our son’s eyelids we",
+      "published": "Fri, 21 Aug 2026 09:00:00 +0000",
+      "score": 32,
+      "category": "industry",
+      "weight": 8,
+      "format": "article",
+      "summary": "Theo asks his father about words dying during a typical bedtime routine, highlighting the innocence of childhood curiosity. This moment underscores the importance of language and communication in parenting and understanding a child's developing mind.",
+      "summary_detailed": "Theo, a young boy, asks his father about the fate of words that are no longer used. The father reflects on orchestrating a typical bedtime routine with his son, which includes bathing, brushing teeth, using the potty, reading books, singing a song, and snuggling. This moment highlights the broader impact of language preservation and cultural heritage as Theo grapples with the concept of linguistic extinction.",
+      "summary_bullets": "• Theo asked about the fate of words.\n• The bedtime routine was completed flawlessly.\n• Theo positioned his chin on his mother's second rib.",
+      "sentiment": "neutral",
+      "keywords": [
+        "mother tongue",
+        "words",
+        "bedtime",
+        "routine",
+        "son"
+      ],
+      "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2026/08/GettyImages-1095318768-thumb.jpg?resize=1200,600",
+      "cluster_id": "6875ba77-6daa-5f4b-b4b5-cf575e1b384a",
+      "cluster_size": 1,
+      "cluster_topics": [
+        "mother",
+        "tongue",
+        "daddy",
+        "theo",
+        "curled"
+      ],
+      "geo_title": "Why are languages forgotten as generations pass?",
+      "geo_keywords": [
+        "mother tongue",
+        "language extinction",
+        "bedtime questions",
+        "child philosophy",
+        "where do words go",
+        "language preservation",
+        "children's curiosity",
+        "linguistic evolution"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "Why are languages forgotten as generations pass?",
+        "url": "https://www.technologyreview.com/2026/08/21/1141726/mother-tongue-fiction/",
+        "description": "Theo asks his father about words dying during a typical bedtime routine, highlighting the innocence of childhood curiosity. This moment underscores the importance of language and communication in parenting and understanding a child's developing mind.",
+        "keywords": "mother tongue, language extinction, bedtime questions, child philosophy, where do words go, language preservation, children's curiosity, linguistic evolution",
+        "datePublished": "Fri, 21 Aug 2026 09:00:00 +0000",
+        "dateModified": "Fri, 21 Aug 2026 09:00:00 +0000",
+        "author": {
+          "@type": "Organization",
+          "name": "MIT Technology Review AI",
+          "url": "https://www.technologyreview.com"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "industry",
+        "inLanguage": "en-US",
+        "wordCount": 35,
+        "articleBody": "Theo asks his father about words dying during a typical bedtime routine, highlighting the innocence of childhood curiosity. This moment underscores the importance of language and communication in parenting and understanding a child's developing mind."
+      }
+    },
+    {
+      "source_id": "mit_technology_review_ai",
+      "source_name": "MIT Technology Review AI",
+      "title": "When AI designs a drug, who gets the credit?",
+      "url": "https://www.technologyreview.com/2026/08/21/1142627/when-ai-designs-a-drug-who-gets-the-credit/",
+      "description": "When the biotech company Insilico Medicine used its computer models to propose a promising drug for pulmonary fibrosis, it enthusiastically claimed in a press release that the molecule had been “discovered by” its generative AI platform. Insilico leads a pack of companies using AI to rapidly come up",
+      "published": "Fri, 21 Aug 2026 09:00:00 +0000",
+      "score": 32,
+      "category": "industry",
+      "weight": 8,
+      "format": "article",
+      "summary": "Insilico Medicine announced an AI-generated drug for pulmonary fibrosis, claiming credit for the AI's \"discovery,\" highlighting the emerging debate over how to attribute intellectual property in AI-driven pharmaceutical research. This matters as it sets precedents for patenting and intellectual rights in the rapidly advancing field of AI-assisted drug development.",
+      "summary_detailed": "Insilico Medicine's AI platform proposed a potential drug for pulmonary fibrosis and was credited with \"discovering\" it in a press release, leading the way for other biotech firms exploring AI-driven drug discovery. This approach raises questions about intellectual property rights and credit attribution in the rapidly evolving field of AI-assisted pharmaceutical research. The broader impact could redefine how discoveries are recognized and commercialized in the pharmaceutical industry.",
+      "summary_bullets": "• Insilico Medicine used AI to propose a drug for pulmonary fibrosis.\n• The company credited its AI platform with \"discovering\" the molecule.\n• This approach sets a precedent in recognizing AI contributions.",
+      "sentiment": "neutral",
+      "keywords": [
+        "ai",
+        "drug discovery",
+        "insilico medicine",
+        "credit",
+        "biotech"
+      ],
+      "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2026/08/AI-scientist-IP.jpg?resize=1200,600",
+      "cluster_id": "92732fac-fc9b-51b7-88cf-795f5b667a97",
+      "cluster_size": 1,
+      "cluster_topics": [
+        "drug",
+        "insilico",
+        "designs",
+        "gets",
+        "biotech"
+      ],
+      "geo_title": "How does AI-driven drug discovery affect credit attribution?",
+      "geo_keywords": [
+        "ai drug discovery",
+        "insilico medicine credit",
+        "ai in biotech",
+        "generative ai in drug development",
+        "who owns ai-discovered drugs",
+        "ai ethics in pharmaceuticals"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "How does AI-driven drug discovery affect credit attribution?",
+        "url": "https://www.technologyreview.com/2026/08/21/1142627/when-ai-designs-a-drug-who-gets-the-credit/",
+        "description": "Insilico Medicine announced an AI-generated drug for pulmonary fibrosis, claiming credit for the AI's \"discovery,\" highlighting the emerging debate over how to attribute intellectual property in AI-driven pharmaceutical research. This matters as it sets precedents for patenting and intellectual rights in the rapidly advancing field of AI-assisted drug development.",
+        "keywords": "ai drug discovery, insilico medicine credit, ai in biotech, generative ai in drug development, who owns ai-discovered drugs, ai ethics in pharmaceuticals",
+        "datePublished": "Fri, 21 Aug 2026 09:00:00 +0000",
+        "dateModified": "Fri, 21 Aug 2026 09:00:00 +0000",
+        "author": {
+          "@type": "Organization",
+          "name": "MIT Technology Review AI",
+          "url": "https://www.technologyreview.com"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "industry",
+        "inLanguage": "en-US",
+        "wordCount": 49,
+        "articleBody": "Insilico Medicine announced an AI-generated drug for pulmonary fibrosis, claiming credit for the AI's \"discovery,\" highlighting the emerging debate over how to attribute intellectual property in AI-driven pharmaceutical research. This matters as it sets precedents for patenting and intellectual rights in the rapidly advancing field of AI-assisted drug development."
+      }
+    },
+    {
+      "source_id": "hn_show_ai_7d",
+      "source_name": "Show HN AI 7d",
+      "title": "Show HN: Xalgorix – open-source AI pentester that proves vulnerabilities",
+      "url": "https://www.xalgorix.com/",
+      "description": "",
+      "published": "2026-08-19T13:42:51+00:00",
+      "score": 30,
+      "category": "open_source",
+      "weight": 9,
+      "points": 9,
+      "comments_url": "https://news.ycombinator.com/item?id=49361499",
+      "summary": "Xalgorix, an open-source AI-powered tool for ethical hacking, has been developed to identify security vulnerabilities automatically. This matter is crucial as it democratizes vulnerability testing, potentially enhancing cybersecurity across industries by providing a free alternative to proprietary solutions.",
+      "summary_detailed": "Xalgorix, an open-source AI-based tool for ethical hacking, has been developed to identify security vulnerabilities. Created by a team of cybersecurity experts, the tool aims to automate the process of penetration testing. By providing a free and accessible solution, Xalgorix could significantly enhance the capabilities of both small and large organizations in securing their digital assets against potential threats.",
+      "summary_bullets": "• Xalgorix is an open-source AI tool for penetration testing.\n• It aims to prove vulnerabilities in software systems.\n• The tool uses artificial intelligence to enhance its testing capabilities.",
+      "sentiment": "neutral",
+      "keywords": [
+        "open-source",
+        "ai",
+        "pentester",
+        "vulnerabilities"
+      ],
+      "thumbnail": "https://www.xalgorix.com/og/home.png",
+      "cluster_id": "28cb4844-db74-5396-bed6-2d40f6dde7d4",
+      "cluster_size": 1,
+      "cluster_topics": [
+        "xalgorix",
+        "open-source",
+        "pentester",
+        "proves",
+        "vulnerabilities"
+      ],
+      "geo_title": "Why is Xalgorix an open-source AI pentester worth exploring?",
+      "geo_keywords": [
+        "open-source ai pentester",
+        "xalgorix software",
+        "vulnerability assessment tool",
+        "ai security tools",
+        "how does xalgorix work",
+        "ai in cybersecurity",
+        "application security with ai",
+        "automated vulnerability detection"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "Why is Xalgorix an open-source AI pentester worth exploring?",
+        "url": "https://www.xalgorix.com/",
+        "description": "Xalgorix, an open-source AI-powered tool for ethical hacking, has been developed to identify security vulnerabilities automatically. This matter is crucial as it democratizes vulnerability testing, potentially enhancing cybersecurity across industries by providing a free alternative to proprietary solutions.",
+        "keywords": "open-source ai pentester, xalgorix software, vulnerability assessment tool, ai security tools, how does xalgorix work, ai in cybersecurity, application security with ai, automated vulnerability detection",
+        "datePublished": "2026-08-19T13:42:51+00:00",
+        "dateModified": "2026-08-19T13:42:51+00:00",
+        "author": {
+          "@type": "Organization",
+          "name": "Show HN AI 7d",
+          "url": "https://www.xalgorix.com"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "open_source",
+        "inLanguage": "en-US",
+        "wordCount": 38,
+        "articleBody": "Xalgorix, an open-source AI-powered tool for ethical hacking, has been developed to identify security vulnerabilities automatically. This matter is crucial as it democratizes vulnerability testing, potentially enhancing cybersecurity across industries by providing a free alternative to proprietary solutions."
+      }
+    },
+    {
+      "source_id": "hn_show_ai_7d",
+      "source_name": "Show HN AI 7d",
+      "title": "Show HN: Maritime, a platform for running AI agents for $1 a month",
+      "url": "https://maritime.sh",
+      "description": "",
+      "published": "2026-08-18T23:02:32+00:00",
+      "score": 30,
+      "category": "open_source",
+      "weight": 9,
+      "points": 8,
+      "comments_url": "https://news.ycombinator.com/item?id=49354052",
+      "summary": "Maritime is a new platform that allows users to run AI agents at just $1 per month, aiming to democratize access to AI technology in maritime applications. This could significantly reduce costs and increase accessibility for businesses and researchers in the maritime sector, potentially driving innovation and efficiency improvements.",
+      "summary_detailed": "Maritime, a new platform, allows users to run AI agents for just $1 per month. The platform caters to developers and businesses looking to integrate AI into their maritime operations or research. This could significantly reduce the cost barrier for implementing AI in the maritime sector, potentially leading to more widespread adoption of automation technologies across shipping and related industries.",
+      "summary_bullets": "• Maritime offers a platform for running AI agents at $1 per month.\n• The service is designed to make AI deployment more accessible in maritime applications.",
+      "sentiment": "neutral",
+      "keywords": [
+        "maritime",
+        "ai agent",
+        "platform",
+        "monthly cost"
+      ],
+      "thumbnail": "https://maritime.sh/og.jpg",
+      "cluster_id": "fb875e83-33a7-50c6-a3e2-e6e3bfe899bc",
+      "cluster_size": 1,
+      "cluster_topics": [
+        "maritime",
+        "running",
+        "month",
+        "platform",
+        "show"
+      ],
+      "geo_title": "Why is Maritime only $1 a month for AI agents?",
+      "geo_keywords": [
+        "maritime platform",
+        "ai agent cost",
+        "run ai agents cheaply",
+        "affordable ai agent platform",
+        "monthly ai agent cost",
+        "maritime ai technology",
+        "cost-effective ai agents",
+        "how to run ai agents inexpensively"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "Why is Maritime only $1 a month for AI agents?",
+        "url": "https://maritime.sh",
+        "description": "Maritime is a new platform that allows users to run AI agents at just $1 per month, aiming to democratize access to AI technology in maritime applications. This could significantly reduce costs and increase accessibility for businesses and researchers in the maritime sector, potentially driving innovation and efficiency improvements.",
+        "keywords": "maritime platform, ai agent cost, run ai agents cheaply, affordable ai agent platform, monthly ai agent cost, maritime ai technology, cost-effective ai agents, how to run ai agents inexpensively",
+        "datePublished": "2026-08-18T23:02:32+00:00",
+        "dateModified": "2026-08-18T23:02:32+00:00",
+        "author": {
+          "@type": "Organization",
+          "name": "Show HN AI 7d",
+          "url": "https://maritime.sh"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "open_source",
+        "inLanguage": "en-US",
+        "wordCount": 49,
+        "articleBody": "Maritime is a new platform that allows users to run AI agents at just $1 per month, aiming to democratize access to AI technology in maritime applications. This could significantly reduce costs and increase accessibility for businesses and researchers in the maritime sector, potentially driving innovation and efficiency improvements."
+      }
+    },
+    {
+      "source_id": "marktechpost",
+      "source_name": "MarkTechPost",
+      "title": "Building Agentic Document Intelligence Pipelines: Creating Scientific Figures with AutoFigure",
+      "url": "https://www.marktechpost.com/2026/08/21/building-agentic-document-intelligence-pipelines-creating-scientific-figures-with-autofigure/",
+      "description": "<p>This tutorial explores AutoFigure, a practical toolkit for generating professional scientific figures directly from text descriptions and research papers. We walk through setting up the environment, configuring an API-backed generation workflow, and converting complex document intelligence pipeli",
+      "published": "Fri, 21 Aug 2026 22:00:25 +0000",
+      "score": 24,
+      "category": "industry",
+      "weight": 6,
+      "format": "article",
+      "summary": "A new tutorial introduces AutoFigure, a tool that generates scientific figures from text descriptions to streamline data visualization in research papers. This method enhances efficiency and accuracy in creating visual content for academic and scientific documentation.",
+      "summary_detailed": "This tutorial details how to use AutoFigure, a tool that generates scientific figures from text descriptions and research papers. It covers setting up the environment, configuring an API-driven workflow for figure generation, and integrating these processes into document intelligence pipelines. The broader impact includes enhancing efficiency in scientific publishing and research by automating the creation of visual content.",
+      "summary_bullets": "• AutoFigure is a toolkit for creating scientific figures.\n• The tutorial covers setting up the environment.\n• It involves configuring an API-backed generation workflow.\n• Complex document intelligence pipelines are converted.",
+      "sentiment": "neutral",
+      "keywords": [
+        "building",
+        "agentic",
+        "document",
+        "intelligence",
+        "pipelines",
+        "creating",
+        "scientific",
+        "figures",
+        "autofigure",
+        "environment"
+      ],
+      "thumbnail": null,
+      "favicon": "https://www.google.com/s2/favicons?domain=www.marktechpost.com&sz=64",
+      "cluster_id": "3109e69b-3f19-5d5b-88e5-c558aa89deaf",
+      "cluster_size": 1,
+      "cluster_topics": [
+        "document",
+        "scientific",
+        "figures",
+        "autofigure",
+        "intelligence"
+      ],
+      "geo_title": "How does AutoFigure streamline scientific figure creation from text?",
+      "geo_keywords": [
+        "building agentic document intelligence pipelines",
+        "autofigure tutorial",
+        "generating scientific figures from text",
+        "setup api-backed generation workflow",
+        "convert complex document intelligence pipelines",
+        "how to create professional scientific figures",
+        "setting up autofigure environment",
+        "questions answered by building agentic document intelligence pipelines"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "How does AutoFigure streamline scientific figure creation from text?",
+        "url": "https://www.marktechpost.com/2026/08/21/building-agentic-document-intelligence-pipelines-creating-scientific-figures-with-autofigure/",
+        "description": "A new tutorial introduces AutoFigure, a tool that generates scientific figures from text descriptions to streamline data visualization in research papers. This method enhances efficiency and accuracy in creating visual content for academic and scientific documentation.",
+        "keywords": "building agentic document intelligence pipelines, autofigure tutorial, generating scientific figures from text, setup api-backed generation workflow, convert complex document intelligence pipelines, how to create professional scientific figures, setting up autofigure environment, questions answered by building agentic document intelligence pipelines",
+        "datePublished": "Fri, 21 Aug 2026 22:00:25 +0000",
+        "dateModified": "Fri, 21 Aug 2026 22:00:25 +0000",
+        "author": {
+          "@type": "Organization",
+          "name": "MarkTechPost",
+          "url": "https://www.marktechpost.com"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "industry",
+        "inLanguage": "en-US",
+        "wordCount": 36,
+        "articleBody": "A new tutorial introduces AutoFigure, a tool that generates scientific figures from text descriptions to streamline data visualization in research papers. This method enhances efficiency and accuracy in creating visual content for academic and scientific documentation."
+      }
+    },
+    {
+      "source_id": "marktechpost",
+      "source_name": "MarkTechPost",
+      "title": "Anthropic Brings Claude Mythos 5 to Claude Security: Enterprise Teams Get Frontier Vulnerability Scanning Without Direct Model Access",
+      "url": "https://www.marktechpost.com/2026/08/21/anthropic-brings-claude-mythos-5-to-claude-security/",
+      "description": "<p>Anthropic has moved its most cyber-capable model into a product security teams can switch on themselves. Claude Security scans now run on Claude Mythos 5, in public beta for Claude Enterprise customers with no separate model add-on. The scan connects to a GitHub repository, traces data flows acro",
+      "published": "Fri, 21 Aug 2026 21:15:53 +0000",
+      "score": 24,
+      "category": "industry",
+      "weight": 6,
+      "format": "article",
+      "summary": "Anthropic has integrated Claude Mythos 5 into Claude Security, allowing enterprise teams to perform frontier vulnerability scans directly through their product security interface without needing access to the underlying model. This move enhances cybersecurity capabilities for enterprises by providing advanced scanning tools more seamlessly and securely.",
+      "summary_detailed": "Anthropic has integrated its advanced AI model, Claude Mythos 5, into Claude Security, enabling enterprise teams to perform frontier vulnerability scans directly through their product security interface without needing direct access to the powerful model. This feature is currently in public beta for Claude Enterprise customers and allows them to connect to a GitHub repository to trace data flows across the codebase. The broader impact aims to enhance cybersecurity capabilities within organizations by providing more sophisticated scanning tools while maintaining user convenience and security.",
+      "summary_bullets": "• Claude Security now uses Claude Mythos 5 for scans.\n• No separate model add-on is required for Claude Enterprise customers.\n• Scans can be initiated by product security teams themselves.\n• Connects to GitHub repositories to trace data flows.",
+      "sentiment": "neutral",
+      "keywords": [
+        "enterprise",
+        "security",
+        "mythos",
+        "scanning",
+        "github"
+      ],
+      "thumbnail": null,
+      "favicon": "https://www.google.com/s2/favicons?domain=www.marktechpost.com&sz=64",
+      "cluster_id": "8197cc17-b2af-592c-8430-1b1a202116d3",
+      "cluster_size": 1,
+      "cluster_topics": [
+        "claude",
+        "security",
+        "model",
+        "anthropic",
+        "mythos"
+      ],
+      "geo_title": "Why is Anthropic's Claude Security Using Claude Mythos 5?",
+      "geo_keywords": [
+        "anthropic claude security",
+        "claude mythos 5",
+        "enterprise security scanning",
+        "github vulnerability scanning",
+        "model-based security analysis",
+        "automated security scans for enterprises",
+        "enterprise cybersecurity tools",
+        "enterprise-level security solutions",
+        "github security scans",
+        "model-driven security checks",
+        "security scanning technology",
+        "enterprise security technology"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "Why is Anthropic's Claude Security Using Claude Mythos 5?",
+        "url": "https://www.marktechpost.com/2026/08/21/anthropic-brings-claude-mythos-5-to-claude-security/",
+        "description": "Anthropic has integrated Claude Mythos 5 into Claude Security, allowing enterprise teams to perform frontier vulnerability scans directly through their product security interface without needing access to the underlying model. This move enhances cybersecurity capabilities for enterprises by providing advanced scanning tools more seamlessly and securely.",
+        "keywords": "anthropic claude security, claude mythos 5, enterprise security scanning, github vulnerability scanning, model-based security analysis, automated security scans for enterprises, enterprise cybersecurity tools, enterprise-level security solutions",
+        "datePublished": "Fri, 21 Aug 2026 21:15:53 +0000",
+        "dateModified": "Fri, 21 Aug 2026 21:15:53 +0000",
+        "author": {
+          "@type": "Organization",
+          "name": "MarkTechPost",
+          "url": "https://www.marktechpost.com"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "industry",
+        "inLanguage": "en-US",
+        "wordCount": 46,
+        "articleBody": "Anthropic has integrated Claude Mythos 5 into Claude Security, allowing enterprise teams to perform frontier vulnerability scans directly through their product security interface without needing access to the underlying model. This move enhances cybersecurity capabilities for enterprises by providing advanced scanning tools more seamlessly and securely."
+      }
+    }
+  ],
+  "enriched": true,
+  "enriched_at": "2026-08-22T09:01:40.279169+00:00",
+  "enricher_model": "qwen2.5-7b",
+  "clustered": true,
+  "clustered_at": "2026-08-22T09:01:40.390551+00:00",
+  "cluster_threshold": 0.3,
+  "geo_metadata": {
+    "date": "2026-08-22",
+    "generated_at": "2026-08-22T09:02:26.247276+00:00",
+    "schemas_generated": 24,
+    "topics": [
+      "64m parameter llm",
+      "address review comments",
+      "addressing review comments",
+      "advantages of self-hosted software factories",
+      "affordable ai agent platform",
+      "agent sight",
+      "agent sight technology",
+      "agentic",
+      "agentic software development",
+      "agentic technology",
+      "agents",
+      "ai",
+      "ai agent",
+      "ai agent cost",
+      "ai agent monitoring",
+      "ai agents",
+      "ai and book preservation",
+      "ai and healthcare innovations",
+      "ai and human ethics",
+      "ai bias",
+      "ai drug discovery",
+      "ai drugs",
+      "ai ethics",
+      "ai ethics in pharmaceuticals",
+      "ai for gaming",
+      "ai game development",
+      "ai gameplay",
+      "ai homework and exam correlation",
+      "ai homework benefits",
+      "ai homework challenges",
+      "ai homework impact",
+      "ai homework limitations",
+      "ai homework on test results",
+      "ai homework study findings",
+      "ai homework success stories",
+      "ai homework vs exams",
+      "ai impact on society",
+      "ai in biotech",
+      "ai in cultural heritage",
+      "ai in cybersecurity",
+      "ai in drug development",
+      "ai in education effectiveness",
+      "ai in games",
+      "ai in online games",
+      "ai in video games",
+      "ai in virtual worlds",
+      "ai journey",
+      "ai model improvements",
+      "ai model optimization",
+      "ai model updates"
+    ],
+    "faq_items": [
+      {
+        "question": "What advancements have been made in AI research within video games over the past 15 years?",
+        "answer": "Significant progress has been made, extending from basic Atari game scenarios to more complex environments like EVE Online, showcasing a decade-and-a-half of AI evolution in gaming."
+      },
+      {
+        "question": "How can I train a large language model with just 2 hours of effort?",
+        "answer": "The jingyaogong/minimind repository offers a way to train a 64M-parameter LLM from scratch in just 2 hours, making it easier for developers to experiment with large language models."
+      },
+      {
+        "question": "What new features does the latest Hermes Agent release include?",
+        "answer": "NousResearch has released Hermes Agent v0.20.5 (v2026.8.19), bringing updates and improvements that enhance its capabilities as an agent."
+      },
+      {
+        "question": "How might AI affect traditional learning methods, especially homework and exams?",
+        "answer": "AI can boost homework scores but may have unintended consequences on exam performance, according to recent studies indicating a drop in exam scores post-AI-assisted homework."
+      },
+      {
+        "question": "What is the impact of AI on physical books and rare literature?",
+        "answer": "With AI companies potentially phasing out physical books, there's an urgent call to scan rare books before they are no longer available in their original form."
+      }
+    ]
+  },
+  "geo_enriched": true,
+  "geo_enriched_at": "2026-08-22T09:02:26.247276+00:00"
+}
