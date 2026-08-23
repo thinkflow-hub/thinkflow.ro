@@ -1,7 +1,14 @@
 {
   "date": "2026-08-21",
-  "generated_at": "2026-08-23T05:00:07.186183+00:00",
+  "generated_at": "2026-08-23T09:02:03.791746+00:00",
   "results": {
+    "hn_show_ai_7d": {
+      "verification_status": "unconfirmed",
+      "sources_count": 1,
+      "sources": [
+        "Show HN AI 7d"
+      ]
+    },
     "deepmind_blog": {
       "verification_status": "unconfirmed",
       "sources_count": 1,
@@ -56,13 +63,6 @@
       "sources_count": 1,
       "sources": [
         "ggml/llama.cpp releases"
-      ]
-    },
-    "hn_show_ai_7d": {
-      "verification_status": "unconfirmed",
-      "sources_count": 1,
-      "sources": [
-        "Show HN AI 7d"
       ]
     },
     "mit_technology_review_ai": {
