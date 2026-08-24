@@ -1,40 +1,12 @@
 {
   "date": "2026-08-18",
-  "generated_at": "2026-08-24T05:00:04.925647+00:00",
+  "generated_at": "2026-08-24T09:03:13.656584+00:00",
   "results": {
     "hn_show_ai_7d": {
       "verification_status": "unconfirmed",
       "sources_count": 1,
       "sources": [
         "Show HN AI 7d"
-      ]
-    },
-    "openai_blog": {
-      "verification_status": "unconfirmed",
-      "sources_count": 1,
-      "sources": [
-        "OpenAI Blog"
-      ]
-    },
-    "huggingface_blog": {
-      "verification_status": "unconfirmed",
-      "sources_count": 1,
-      "sources": [
-        "Hugging Face Blog"
-      ]
-    },
-    "nousresearch_releases": {
-      "verification_status": "unconfirmed",
-      "sources_count": 1,
-      "sources": [
-        "NousResearch releases"
-      ]
-    },
-    "latent_space": {
-      "verification_status": "unconfirmed",
-      "sources_count": 1,
-      "sources": [
-        "Latent Space (Substack)"
       ]
     }
   }

@@ -1,0 +1,27 @@
+{
+  "date": "2026-08-24",
+  "generated_at": "2026-08-24T09:03:13.655491+00:00",
+  "results": {
+    "trending_agent": {
+      "verification_status": "unconfirmed",
+      "sources_count": 1,
+      "sources": [
+        "GitHub Trending — AI Agents"
+      ]
+    },
+    "arxiv_cs_cl": {
+      "verification_status": "unconfirmed",
+      "sources_count": 1,
+      "sources": [
+        "ArXiv cs.CL (Computation and Language / NLP)"
+      ]
+    },
+    "arxiv_cs_ai": {
+      "verification_status": "unconfirmed",
+      "sources_count": 1,
+      "sources": [
+        "ArXiv cs.AI"
+      ]
+    }
+  }
+}

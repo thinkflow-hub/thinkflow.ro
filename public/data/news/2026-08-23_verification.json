@@ -1,7 +1,14 @@
 {
   "date": "2026-08-23",
-  "generated_at": "2026-08-24T05:00:04.924648+00:00",
+  "generated_at": "2026-08-24T09:03:13.655491+00:00",
   "results": {
+    "ggml_releases": {
+      "verification_status": "unconfirmed",
+      "sources_count": 1,
+      "sources": [
+        "ggml/llama.cpp releases"
+      ]
+    },
     "trending_agent": {
       "verification_status": "unconfirmed",
       "sources_count": 1,
