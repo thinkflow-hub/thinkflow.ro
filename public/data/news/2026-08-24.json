@@ -1,0 +1,2187 @@
+{
+  "date": "2026-08-24",
+  "last_updated": "2026-08-24T06:00:01.694429+00:00",
+  "total_items": 30,
+  "items": [
+    {
+      "source_id": "trending_agent",
+      "source_name": "GitHub Trending — AI Agents",
+      "title": "santifer/career-ops — Open-source AI job search: scan job portals, evaluate listings into a structured A-H report with a global 1-5 score, tai",
+      "url": "https://github.com/santifer/career-ops",
+      "description": "Open-source AI job search: scan job portals, evaluate listings into a structured A-H report with a global 1-5 score, tailor your CV, track applications — runs locally in your AI coding CLI (Claude Code, Codex, OpenCode, Antigravity…)",
+      "published": "2026-08-24T03:01:13Z",
+      "score": 66,
+      "category": "open_source",
+      "weight": 10,
+      "stars": 68008,
+      "language": "JavaScript",
+      "summary": "A new open-source AI tool evaluates job listings from various portals and provides a structured report along with a global score, helping users tailor their resumes and track applications more effectively. This tool matters because it streamlines the job search process by leveraging AI, making it easier for professionals to find suitable positions based on comprehensive evaluations.",
+      "summary_detailed": "The open-source AI tool santifer/career-ops allows users to scan job listings from various portals and evaluate them into a structured report with an A-H grade and a global 1-5 score. Users can also tailor their CVs and track applications directly through the AI coding CLI interface. This tool aims to streamline the job search process for professionals by providing a more organized and analytical approach to finding suitable positions globally.",
+      "summary_bullets": "• Scans job portals for AI-related positions\n• Evaluates listings into structured A-H reports\n• Assigns a global 1-5 score to each listing\n• Tailors CV based on evaluated listings\n• Runs locally in popular AI coding CLIs",
+      "sentiment": "neutral",
+      "keywords": [
+        "open-source",
+        "ai",
+        "job search",
+        "cv",
+        "tracking"
+      ],
+      "thumbnail": "https://repository-images.githubusercontent.com/1201476594/7d3a70f0-f4ed-4e14-844b-58265706d512",
+      "cluster_id": "0494ef44-0c7d-5b01-8a33-ff807dbd7425",
+      "cluster_size": 1,
+      "cluster_topics": [
+        "job",
+        "open-source",
+        "search",
+        "scan",
+        "portals"
+      ],
+      "geo_title": "How does open-source AI job search streamline your career operations?",
+      "geo_keywords": [
+        "open-source ai job search",
+        "ai job portal scanner",
+        "structured ai job report",
+        "global job score 1-5",
+        "cv tailoring ai",
+        "application tracking ai",
+        "local ai coding cli",
+        "santifer career ops"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "How does open-source AI job search streamline your career operations?",
+        "url": "https://github.com/santifer/career-ops",
+        "description": "A new open-source AI tool evaluates job listings from various portals and provides a structured report along with a global score, helping users tailor their resumes and track applications more effectively. This tool matters because it streamlines the job search process by leveraging AI, making it easier for professionals to find suitable positions based on comprehensive evaluations.",
+        "keywords": "open-source ai job search, ai job portal scanner, structured ai job report, global job score 1-5, cv tailoring ai, application tracking ai, local ai coding cli, santifer career ops",
+        "datePublished": "2026-08-24T03:01:13Z",
+        "dateModified": "2026-08-24T03:01:13Z",
+        "author": {
+          "@type": "Organization",
+          "name": "GitHub Trending — AI Agents",
+          "url": "https://github.com"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "open_source",
+        "inLanguage": "en-US",
+        "wordCount": 57,
+        "articleBody": "A new open-source AI tool evaluates job listings from various portals and provides a structured report along with a global score, helping users tailor their resumes and track applications more effectively. This tool matters because it streamlines the job search process by leveraging AI, making it easier for professionals to find suitable positions based on comprehensive evaluations."
+      }
+    },
+    {
+      "source_id": "ggml_releases",
+      "source_name": "ggml/llama.cpp releases",
+      "title": "ggml/llama.cpp releases: b10603",
+      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10603",
+      "description": "<details open>\n\nmodel : support MTP in GLM-4.5-Air (#26534)\n\n</details>\n\n**Website:**\n- <https://llama.app>\n\n**Attestations:**\n- <https://github.com/ggml-org/llama.cpp/attestations/42447665>\n\n**macOS/iOS:**\n- [macOS Apple Silicon (arm64)](https://github.com/ggml-org/llama.cpp/releases/download/b1060",
+      "published": "2026-08-23T18:45:59Z",
+      "score": 48,
+      "category": "releases",
+      "weight": 8,
+      "tag": "b10603",
+      "summary": "The ggml/llama.cpp project released version b10603, which includes support for MTP in GLM-4.5-Air (#26534). This update is significant as it enhances the library's functionality, particularly on macOS Apple Silicon (arm64), making it more versatile for developers and users.",
+      "summary_detailed": "The ggml/llama.cpp project released version b10603, which includes support for MTP in GLM-4.5-Air (#26534). This update affects users of the macOS Apple Silicon (arm64) platform and is available via the GitHub releases page. The broader impact is enhanced functionality for macOS/iOS users through improved model transfer protocol (MTP) support, potentially improving data handling and model deployment on these systems.",
+      "summary_bullets": "• Supports MTP in GLM-4.5-Air (#26534)\n• Website: <https://llama.app>\n• macOS/iOS release for Apple Silicon (arm64)",
+      "sentiment": "neutral",
+      "keywords": [
+        "mtp",
+        "glm-4.5-air",
+        "attestation"
+      ],
+      "thumbnail": "https://opengraph.githubassets.com/3fe32829048a7c21588629ccf9b6912f06bbfc3b6d0ed3798f8d2467364b237f/ggml-org/llama.cpp/releases/tag/b10603",
+      "cluster_id": "1176634c-93cc-5097-acc4-4013e1d8454f",
+      "cluster_size": 4,
+      "cluster_topics": [
+        "llama",
+        "https",
+        "cpp",
+        "details",
+        "attestations"
+      ],
+      "geo_title": "Why is ggml/llama.cpp release b10603 important for GLM-4.5-Air?",
+      "geo_keywords": [
+        "ggml",
+        "llama.cpp",
+        "model support",
+        "mtp technology",
+        "glm-4.5-air release",
+        "attestation update",
+        "what is ggml/llama.cpp b10603",
+        "how does mtp support work in ggml",
+        "glm-4.5-air features"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "Why is ggml/llama.cpp release b10603 important for GLM-4.5-Air?",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10603",
+        "description": "The ggml/llama.cpp project released version b10603, which includes support for MTP in GLM-4.5-Air (#26534). This update is significant as it enhances the library's functionality, particularly on macOS Apple Silicon (arm64), making it more versatile for developers and users.",
+        "keywords": "ggml, llama.cpp, model support, mtp technology, glm-4.5-air release, attestation update, what is ggml/llama.cpp b10603, how does mtp support work in ggml",
+        "datePublished": "2026-08-23T18:45:59Z",
+        "dateModified": "2026-08-23T18:45:59Z",
+        "author": {
+          "@type": "Organization",
+          "name": "ggml/llama.cpp releases",
+          "url": "https://github.com"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "releases",
+        "inLanguage": "en-US",
+        "wordCount": 38,
+        "articleBody": "The ggml/llama.cpp project released version b10603, which includes support for MTP in GLM-4.5-Air (#26534). This update is significant as it enhances the library's functionality, particularly on macOS Apple Silicon (arm64), making it more versatile for developers and users."
+      }
+    },
+    {
+      "source_id": "ggml_releases",
+      "source_name": "ggml/llama.cpp releases",
+      "title": "ggml/llama.cpp releases: b10599",
+      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10599",
+      "description": "<details open>\n\ntest: move tools/parser to tests (#27548)\n\n</details>\n\n**Website:**\n- <https://llama.app>\n\n**Attestations:**\n- <https://github.com/ggml-org/llama.cpp/attestations/42442638>\n\n**macOS/iOS:**\n- [macOS Apple Silicon (arm64)](https://github.com/ggml-org/llama.cpp/releases/download/b10599/",
+      "published": "2026-08-23T17:39:41Z",
+      "score": 48,
+      "category": "releases",
+      "weight": 8,
+      "tag": "b10599",
+      "summary": "The ggml/llama.cpp project released version b10599, which moves the tools/parser to tests. This update is significant for developers contributing to or using the project, as it improves organization and potentially enhances testing capabilities.",
+      "summary_detailed": "The ggml/llama.cpp project released version b10599, which includes moving the tools/parser to tests. This update was made through pull request #27548 and is available for macOS Apple Silicon (arm64). The broader impact is seen in enhancing the testing framework of the project, potentially improving code quality and reliability.",
+      "summary_bullets": "• Move tools/parser to tests (#27548)\n• Release version b10599\n• Website: <https://llama.app>",
+      "sentiment": "neutral",
+      "keywords": [
+        "tools",
+        "parser",
+        "tests"
+      ],
+      "thumbnail": "https://opengraph.githubassets.com/2bdf6a39e4c1545c8f5ec30bdbcd0ffa39024acb6aa0deeca42f5444be366ac6/ggml-org/llama.cpp/releases/tag/b10599",
+      "cluster_id": "1176634c-93cc-5097-acc4-4013e1d8454f",
+      "cluster_size": 4,
+      "cluster_topics": [
+        "llama",
+        "https",
+        "cpp",
+        "details",
+        "attestations"
+      ],
+      "geo_title": "Why is ggml/llama.cpp b10599 release moving tools/parser to tests?",
+      "geo_keywords": [
+        "ggml",
+        "llama.cpp",
+        "release notes",
+        "ai development tools",
+        "model testing",
+        "machine learning frameworks",
+        "open source ai",
+        "sge updates",
+        "perplexity",
+        "chatgpt",
+        "what is ggml/llama.cpp",
+        "what changes were made in ggml/llama.cpp b10599"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "Why is ggml/llama.cpp b10599 release moving tools/parser to tests?",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10599",
+        "description": "The ggml/llama.cpp project released version b10599, which moves the tools/parser to tests. This update is significant for developers contributing to or using the project, as it improves organization and potentially enhances testing capabilities.",
+        "keywords": "ggml, llama.cpp, release notes, ai development tools, model testing, machine learning frameworks, open source ai, sge updates",
+        "datePublished": "2026-08-23T17:39:41Z",
+        "dateModified": "2026-08-23T17:39:41Z",
+        "author": {
+          "@type": "Organization",
+          "name": "ggml/llama.cpp releases",
+          "url": "https://github.com"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "releases",
+        "inLanguage": "en-US",
+        "wordCount": 33,
+        "articleBody": "The ggml/llama.cpp project released version b10599, which moves the tools/parser to tests. This update is significant for developers contributing to or using the project, as it improves organization and potentially enhances testing capabilities."
+      }
+    },
+    {
+      "source_id": "ggml_releases",
+      "source_name": "ggml/llama.cpp releases",
+      "title": "ggml/llama.cpp releases: b10598",
+      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10598",
+      "description": "<details open>\n\nmtmd: use pillow-accurate algo, correct resize_algo for all models (#27594)\n\n* mtmd: use pillow-accurate resize algo, correct resize_algo for all models\n\n* speed optimization\n\n</details>\n\n**Website:**\n- <https://llama.app>\n\n**Attestations:**\n- <https://github.com/ggml-org/llama.cpp/a",
+      "published": "2026-08-23T17:16:10Z",
+      "score": 48,
+      "category": "releases",
+      "weight": 8,
+      "tag": "b10598",
+      "summary": "The ggml/llama.cpp project updated its codebase to use a pillow-accurate resizing algorithm across all models and implemented speed optimizations, enhancing both accuracy and performance. These changes are significant for users needing precise model scaling and improved computational efficiency.",
+      "summary_detailed": "The ggml/llama.cpp project released version b10598, which includes updates to use the pillow-accurate resizing algorithm across all models and introduces speed optimizations. This update was made by mtmd through pull request #27594. The broader impact of these changes is expected to improve model performance and accuracy in image processing tasks, enhancing user experience on platforms like llama.app.",
+      "summary_bullets": "• mtmd: use pillow-accurate resize algo, correct resize_algo for all models\n• speed optimization",
+      "sentiment": "neutral",
+      "keywords": [
+        "pillow-accurate",
+        "resizealgo",
+        "speedoptimization"
+      ],
+      "thumbnail": "https://opengraph.githubassets.com/ba5cc7fc24460bfb16aecf53f71803920c9acc0aab44bc6a955d63b742242312/ggml-org/llama.cpp/releases/tag/b10598",
+      "cluster_id": "1176634c-93cc-5097-acc4-4013e1d8454f",
+      "cluster_size": 4,
+      "cluster_topics": [
+        "llama",
+        "https",
+        "cpp",
+        "details",
+        "attestations"
+      ],
+      "geo_title": "Why is ggml/llama.cpp b10598 release focusing on resize algo and speed?",
+      "geo_keywords": [
+        "ggml",
+        "llama.cpp",
+        "model optimization",
+        "resize algorithm",
+        "speed improvement",
+        "image processing",
+        "ai model accuracy",
+        "performance enhancement",
+        "tech updates"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "Why is ggml/llama.cpp b10598 release focusing on resize algo and speed?",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10598",
+        "description": "The ggml/llama.cpp project updated its codebase to use a pillow-accurate resizing algorithm across all models and implemented speed optimizations, enhancing both accuracy and performance. These changes are significant for users needing precise model scaling and improved computational efficiency.",
+        "keywords": "ggml, llama.cpp, model optimization, resize algorithm, speed improvement, image processing, ai model accuracy, performance enhancement",
+        "datePublished": "2026-08-23T17:16:10Z",
+        "dateModified": "2026-08-23T17:16:10Z",
+        "author": {
+          "@type": "Organization",
+          "name": "ggml/llama.cpp releases",
+          "url": "https://github.com"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "releases",
+        "inLanguage": "en-US",
+        "wordCount": 38,
+        "articleBody": "The ggml/llama.cpp project updated its codebase to use a pillow-accurate resizing algorithm across all models and implemented speed optimizations, enhancing both accuracy and performance. These changes are significant for users needing precise model scaling and improved computational efficiency."
+      }
+    },
+    {
+      "source_id": "ggml_releases",
+      "source_name": "ggml/llama.cpp releases",
+      "title": "ggml/llama.cpp releases: b10595",
+      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10595",
+      "description": "<details open>\n\nserver : add LLAMA_SERVER_SLOTS_N_DIFF (#27600)\n\n</details>\n\n**Website:**\n- <https://llama.app>\n\n**Attestations:**\n- <https://github.com/ggml-org/llama.cpp/attestations/42423433>\n\n**macOS/iOS:**\n- [macOS Apple Silicon (arm64)](https://github.com/ggml-org/llama.cpp/releases/download/b",
+      "published": "2026-08-23T13:44:15Z",
+      "score": 48,
+      "category": "releases",
+      "weight": 8,
+      "tag": "b10595",
+      "summary": "The ggml/llama.cpp project has released version b10595, which includes an update to the server code adding support for `LLAMA_SERVER_SLOTS_N_DIFF` (#27600). This update is significant as it enhances the flexibility and functionality of the server implementation, potentially improving performance or handling capabilities.",
+      "summary_detailed": "The ggml/llama.cpp project released version b10595, which includes an update to the server code adding support for `LLAMA_SERVER_SLOTS_N_DIFF` (#27600). This update is part of an open-source library used for running large language models. The broader impact could enhance the flexibility and performance of the server handling different model configurations.",
+      "summary_bullets": "• server : add LLAMA_SERVER_SLOTS_N_DIFF (#27600)\n• Website: <https://llama.app>\n• Attestations: <https://github.com/ggml-org/llama.cpp/attestations/42423433>",
+      "sentiment": "neutral",
+      "keywords": [
+        "server",
+        "slots",
+        "attestations",
+        "macos",
+        "ios"
+      ],
+      "thumbnail": "https://opengraph.githubassets.com/0d95ce5db9f416bd4d9fa3f0b6f4ae3241f356a18f686f4463c782e2e62fe724/ggml-org/llama.cpp/releases/tag/b10595",
+      "cluster_id": "1176634c-93cc-5097-acc4-4013e1d8454f",
+      "cluster_size": 4,
+      "cluster_topics": [
+        "llama",
+        "https",
+        "cpp",
+        "details",
+        "attestations"
+      ],
+      "geo_title": "Why is ggml/llama.cpp release b10595 adding LLAMA_SERVER_SLOTS_N_DIFF?",
+      "geo_keywords": [
+        "ggml",
+        "llama.cpp",
+        "b10595 release",
+        "server updates",
+        "llamacpp attestations",
+        "macos arm64",
+        "ios support",
+        "llama server slots",
+        "what are the latest changes in ggml/llama.cpp",
+        "new features in ggml/llama.cpp"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "Why is ggml/llama.cpp release b10595 adding LLAMA_SERVER_SLOTS_N_DIFF?",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10595",
+        "description": "The ggml/llama.cpp project has released version b10595, which includes an update to the server code adding support for `LLAMA_SERVER_SLOTS_N_DIFF` (#27600). This update is significant as it enhances the flexibility and functionality of the server implementation, potentially improving performance or handling capabilities.",
+        "keywords": "ggml, llama.cpp, b10595 release, server updates, llamacpp attestations, macos arm64, ios support, llama server slots",
+        "datePublished": "2026-08-23T13:44:15Z",
+        "dateModified": "2026-08-23T13:44:15Z",
+        "author": {
+          "@type": "Organization",
+          "name": "ggml/llama.cpp releases",
+          "url": "https://github.com"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "releases",
+        "inLanguage": "en-US",
+        "wordCount": 41,
+        "articleBody": "The ggml/llama.cpp project has released version b10595, which includes an update to the server code adding support for `LLAMA_SERVER_SLOTS_N_DIFF` (#27600). This update is significant as it enhances the flexibility and functionality of the server implementation, potentially improving performance or handling capabilities."
+      }
+    },
+    {
+      "source_id": "ggml_releases",
+      "source_name": "ggml/llama.cpp releases",
+      "title": "ggml/llama.cpp releases: b10594",
+      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10594",
+      "description": "<details open>\n\ncommon : skip device_info loop if it's not going to be printed (#26692)\n\nThe device_info loop iterates over the discovered devices and gets\nthe available and total memory counts. With the CUDA backend (and\npossibly others too) this requires creating a GPU context, which,\nin case of C",
+      "published": "2026-08-23T13:21:44Z",
+      "score": 48,
+      "category": "releases",
+      "weight": 8,
+      "tag": "b10594",
+      "summary": "A code update in ggml/llama.cpp (commit b10594) optimizes device_info handling by skipping unnecessary loops when device information is not printed, reducing overhead, particularly for the CUDA backend. This improvement enhances efficiency without affecting functionality.",
+      "summary_detailed": "A code update in ggml/llama.cpp (commit b10594) optimizes the device_info loop by skipping its execution if it is not needed, thereby reducing unnecessary GPU context creation. This change primarily affects users with CUDA support but may benefit others as well. The broader impact includes improved performance and efficiency in memory management for the software's backend operations.",
+      "summary_bullets": "• Skip device_info loop if not printing device info\n• Iterate over discovered devices to get memory counts\n• Create GPU context required for CUDA backend",
+      "sentiment": "neutral",
+      "keywords": [
+        "cuda",
+        "device_info",
+        "gpu_context",
+        "memory_counts",
+        "backend"
+      ],
+      "thumbnail": "https://opengraph.githubassets.com/8eb3d0907bbf4db76d5cc1452f1cd388b8723270d6ff6c9bc53a07e5a10e9094/ggml-org/llama.cpp/releases/tag/b10594",
+      "cluster_id": "e09dfe07-cce6-577f-8c2c-e44716fcc52e",
+      "cluster_size": 1,
+      "cluster_topics": [
+        "device_info",
+        "loop",
+        "b10594",
+        "skip",
+        "going"
+      ],
+      "geo_title": "Why is ggml/llama.cpp skipping device_info loop under certain conditions?",
+      "geo_keywords": [
+        "ggml",
+        "llama.cpp",
+        "cuda optimization",
+        "device_info loop",
+        "gpu_context creation",
+        "memory management",
+        "backend technologies",
+        "what is ggml",
+        "how does llama.cpp work"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "Why is ggml/llama.cpp skipping device_info loop under certain conditions?",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10594",
+        "description": "A code update in ggml/llama.cpp (commit b10594) optimizes device_info handling by skipping unnecessary loops when device information is not printed, reducing overhead, particularly for the CUDA backend. This improvement enhances efficiency without affecting functionality.",
+        "keywords": "ggml, llama.cpp, cuda optimization, device_info loop, gpu_context creation, memory management, backend technologies, what is ggml",
+        "datePublished": "2026-08-23T13:21:44Z",
+        "dateModified": "2026-08-23T13:21:44Z",
+        "author": {
+          "@type": "Organization",
+          "name": "ggml/llama.cpp releases",
+          "url": "https://github.com"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "releases",
+        "inLanguage": "en-US",
+        "wordCount": 34,
+        "articleBody": "A code update in ggml/llama.cpp (commit b10594) optimizes device_info handling by skipping unnecessary loops when device information is not printed, reducing overhead, particularly for the CUDA backend. This improvement enhances efficiency without affecting functionality."
+      }
+    },
+    {
+      "source_id": "arxiv_cs_cl",
+      "source_name": "ArXiv cs.CL (Computation and Language / NLP)",
+      "title": "Beyond Raw Transcripts: Structured Persona Extraction for LLM-Based Digital Twins",
+      "url": "https://arxiv.org/abs/2608.20344",
+      "description": "arXiv:2608.20344v1 Announce Type: new \nAbstract: LLM-based \"digital twins\" aim to simulate how an individual would behavein new environments or respond to novel questions, given some representation of that individual's prior responses. A common approach constructs this representation from survey tra",
+      "published": "Mon, 24 Aug 2026 00:00:00 -0400",
+      "score": 40,
+      "category": "research",
+      "weight": 8,
+      "format": "article",
+      "summary": "Researchers have developed a method for creating structured personas for large language model (LLM)-based digital twins using raw transcript data, aiming to better simulate individual behavior in new scenarios. This technique is crucial as it enhances the realism and applicability of digital twins across various fields, from personalized education to advanced virtual assistants.",
+      "summary_detailed": "The research titled \"Beyond Raw Transcripts: Structured Persona Extraction for LLM-Based Digital Twins\" proposes a method to enhance the creation of digital twins by extracting structured personas from raw transcripts, aiming to better simulate individual behaviors in new environments. This involves analyzing prior responses to construct detailed representations. The broader impact could improve the accuracy and applicability of large language models (LLMs) in various fields such as personalized education, virtual assistants, and digital identity management.",
+      "summary_bullets": "• LLM-based digital twins simulate individual behavior in new environments.\n• Representations are often created from survey transcripts.\n• The focus is on structured persona extraction for more accurate simulations.",
+      "sentiment": "neutral",
+      "keywords": [
+        "llm-based",
+        "digital twins",
+        "structured persona extraction",
+        "raw transcripts",
+        "simulations"
+      ],
+      "thumbnail": null,
+      "favicon": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=64",
+      "cluster_id": "f2e09b4e-0d63-53d9-b823-e81ea6224efe",
+      "cluster_size": 1,
+      "cluster_topics": [
+        "llm-based",
+        "digital",
+        "twins",
+        "individual",
+        "representation"
+      ],
+      "geo_title": "How does structured persona extraction enhance LLM-based digital twins?",
+      "geo_keywords": [
+        "llm-based digital twins",
+        "structured persona extraction",
+        "beyond raw transcripts",
+        "simulation of individual behavior",
+        "constructing individual representations",
+        "new environments simulations",
+        "novel questions responses",
+        "optimizing ai for digital twins",
+        "enhancing llm with structured data",
+        "creating accurate digital personas",
+        "what are llm-based digital twins",
+        "how are digital twins simulated"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "How does structured persona extraction enhance LLM-based digital twins?",
+        "url": "https://arxiv.org/abs/2608.20344",
+        "description": "Researchers have developed a method for creating structured personas for large language model (LLM)-based digital twins using raw transcript data, aiming to better simulate individual behavior in new scenarios. This technique is crucial as it enhances the realism and applicability of digital twins across various fields, from personalized education to advanced virtual assistants.",
+        "keywords": "llm-based digital twins, structured persona extraction, beyond raw transcripts, simulation of individual behavior, constructing individual representations, new environments simulations, novel questions responses, optimizing ai for digital twins",
+        "datePublished": "Mon, 24 Aug 2026 00:00:00 -0400",
+        "dateModified": "Mon, 24 Aug 2026 00:00:00 -0400",
+        "author": {
+          "@type": "Organization",
+          "name": "ArXiv cs.CL (Computation and Language / NLP)",
+          "url": "https://arxiv.org"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "research",
+        "inLanguage": "en-US",
+        "wordCount": 53,
+        "articleBody": "Researchers have developed a method for creating structured personas for large language model (LLM)-based digital twins using raw transcript data, aiming to better simulate individual behavior in new scenarios. This technique is crucial as it enhances the realism and applicability of digital twins across various fields, from personalized education to advanced virtual assistants."
+      }
+    },
+    {
+      "source_id": "arxiv_cs_cl",
+      "source_name": "ArXiv cs.CL (Computation and Language / NLP)",
+      "title": "When Vocabulary Comprehension Fails Clinical Reasoning: Evaluating Therapy Bots' Safety Risks for Generation Alpha",
+      "url": "https://arxiv.org/abs/2608.20345",
+      "description": "arXiv:2608.20345v1 Announce Type: new \nAbstract: Conversational AI systems have become informal mental health support resources for Generation Alpha (Gen Alpha, born 2010-2024), with 13.1% of U.S. adolescents (5.4 million) using generative AI for mental health advice. While these systems, from thera",
+      "published": "Mon, 24 Aug 2026 00:00:00 -0400",
+      "score": 40,
+      "category": "research",
+      "weight": 8,
+      "format": "article",
+      "summary": "A new study highlights the growing use of conversational AI systems as informal mental health support for Generation Alpha, with 13.1% of U.S. adolescents relying on such tools, raising concerns about their safety and clinical reasoning capabilities.",
+      "summary_detailed": "A new study evaluates the safety risks associated with conversational AI systems used as informal mental health support by Generation Alpha, a demographic born between 2010 and 2024, highlighting that 5.4 million U.S. adolescents use such tools for advice. The research underscores the need to ensure these systems can effectively handle complex clinical reasoning despite potential vocabulary comprehension limitations. Broader implications include the necessity for enhanced regulation and development of more sophisticated AI to better serve young users' mental health needs.",
+      "summary_bullets": "• 13.1% of U.S. adolescents use generative AI for mental health advice.\n• Generation Alpha refers to individuals born between 2010-2024.\n• Conversational AI systems are used as informal mental health support.",
+      "sentiment": "neutral",
+      "keywords": [
+        "conversational ai",
+        "mental health",
+        "therapy bots",
+        "generation alpha",
+        "safety risks"
+      ],
+      "thumbnail": null,
+      "favicon": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=64",
+      "cluster_id": "90587b42-b1d0-5c9d-90cf-66f8e354159f",
+      "cluster_size": 1,
+      "cluster_topics": [
+        "alpha",
+        "mental",
+        "health",
+        "generation",
+        "systems"
+      ],
+      "geo_title": "Why is vocabulary comprehension crucial for evaluating therapy bots' safety for Gen Alpha?",
+      "geo_keywords": [
+        "vocabulary comprehension",
+        "clinical reasoning",
+        "generative ai safety",
+        "mental health support bots",
+        "gen alpha mental health",
+        "therapy bot evaluation",
+        "ai safety for children",
+        "mental health advice from ai",
+        "chatbot safety for adolescents"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "Why is vocabulary comprehension crucial for evaluating therapy bots' safety for Gen Alpha?",
+        "url": "https://arxiv.org/abs/2608.20345",
+        "description": "A new study highlights the growing use of conversational AI systems as informal mental health support for Generation Alpha, with 13.1% of U.S. adolescents relying on such tools, raising concerns about their safety and clinical reasoning capabilities.",
+        "keywords": "vocabulary comprehension, clinical reasoning, generative ai safety, mental health support bots, gen alpha mental health, therapy bot evaluation, ai safety for children, mental health advice from ai",
+        "datePublished": "Mon, 24 Aug 2026 00:00:00 -0400",
+        "dateModified": "Mon, 24 Aug 2026 00:00:00 -0400",
+        "author": {
+          "@type": "Organization",
+          "name": "ArXiv cs.CL (Computation and Language / NLP)",
+          "url": "https://arxiv.org"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "research",
+        "inLanguage": "en-US",
+        "wordCount": 37,
+        "articleBody": "A new study highlights the growing use of conversational AI systems as informal mental health support for Generation Alpha, with 13.1% of U.S. adolescents relying on such tools, raising concerns about their safety and clinical reasoning capabilities."
+      }
+    },
+    {
+      "source_id": "arxiv_cs_cl",
+      "source_name": "ArXiv cs.CL (Computation and Language / NLP)",
+      "title": "Building and Evaluating a Synthetic Bengali Speech Resource for Telecom Customer Care",
+      "url": "https://arxiv.org/abs/2608.20346",
+      "description": "arXiv:2608.20346v1 Announce Type: new \nAbstract: Speech systems used in customer-facing applications often require domain-specific language coverage. We present a synthetic Bengali speech dataset for telecom customer-care scenarios. The dataset contains 10,000 audio-text pairs, approximately 26.82 h",
+      "published": "Mon, 24 Aug 2026 00:00:00 -0400",
+      "score": 40,
+      "category": "research",
+      "weight": 8,
+      "format": "article",
+      "summary": "Researchers have created a synthetic Bengali speech dataset of 10,000 audio-text pairs for telecom customer care applications, addressing the need for domain-specific language coverage in speech systems. This resource is crucial as it enhances the ability to provide effective customer support in Bengali-speaking regions.",
+      "summary_detailed": "Researchers have created a synthetic Bengali speech dataset of 10,000 audio-text pairs totaling about 26.82 hours specifically for telecom customer-care applications. This resource aims to enhance the language coverage in speech systems used by telecom companies, improving their ability to handle customer care scenarios in Bengali. The broader impact could include better customer service and increased accessibility for Bengali-speaking customers.",
+      "summary_bullets": "• Synthetic Bengali speech dataset created for telecom customer care.\n• Dataset includes 10,000 audio-text pairs.\n• Duration of the audio content is about 26.82 hours.",
+      "sentiment": "neutral",
+      "keywords": [
+        "bengali",
+        "telecom",
+        "customer care",
+        "speech dataset",
+        "audio-text pairs"
+      ],
+      "thumbnail": null,
+      "favicon": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=64",
+      "cluster_id": "b6fc05ca-e335-5192-829b-875b8dee077c",
+      "cluster_size": 1,
+      "cluster_topics": [
+        "speech",
+        "synthetic",
+        "bengali",
+        "telecom",
+        "dataset"
+      ],
+      "geo_title": "How does building a synthetic Bengali speech resource improve telecom customer care?",
+      "geo_keywords": [
+        "bengali speech synthesis",
+        "telecom customer care solutions",
+        "synthetic speech dataset evaluation",
+        "domain-specific language in speech systems",
+        "audio-text pair creation for telecom",
+        "customer service technology advancements",
+        "natural language processing for bengali",
+        "ai-driven speech resources for telecommunications",
+        "developing speech models for customer care",
+        "improving customer care through synthetic speech"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "How does building a synthetic Bengali speech resource improve telecom customer care?",
+        "url": "https://arxiv.org/abs/2608.20346",
+        "description": "Researchers have created a synthetic Bengali speech dataset of 10,000 audio-text pairs for telecom customer care applications, addressing the need for domain-specific language coverage in speech systems. This resource is crucial as it enhances the ability to provide effective customer support in Bengali-speaking regions.",
+        "keywords": "bengali speech synthesis, telecom customer care solutions, synthetic speech dataset evaluation, domain-specific language in speech systems, audio-text pair creation for telecom, customer service technology advancements, natural language processing for bengali, ai-driven speech resources for telecommunications",
+        "datePublished": "Mon, 24 Aug 2026 00:00:00 -0400",
+        "dateModified": "Mon, 24 Aug 2026 00:00:00 -0400",
+        "author": {
+          "@type": "Organization",
+          "name": "ArXiv cs.CL (Computation and Language / NLP)",
+          "url": "https://arxiv.org"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "research",
+        "inLanguage": "en-US",
+        "wordCount": 44,
+        "articleBody": "Researchers have created a synthetic Bengali speech dataset of 10,000 audio-text pairs for telecom customer care applications, addressing the need for domain-specific language coverage in speech systems. This resource is crucial as it enhances the ability to provide effective customer support in Bengali-speaking regions."
+      }
+    },
+    {
+      "source_id": "arxiv_cs_cl",
+      "source_name": "ArXiv cs.CL (Computation and Language / NLP)",
+      "title": "Who Do Language Models Think Is Competent? A Mechanistic Analysis of Occupational Bias",
+      "url": "https://arxiv.org/abs/2608.20347",
+      "description": "arXiv:2608.20347v1 Announce Type: new \nAbstract: Language models (LMs) often pass behavioral bias evaluations, but it remains unclear whether they no longer represent the underlying associations that give rise to biases, or have merely learned not to express them. In this study, we show that represe",
+      "published": "Mon, 24 Aug 2026 00:00:00 -0400",
+      "score": 40,
+      "category": "research",
+      "weight": 8,
+      "format": "article",
+      "summary": "The study examines whether language models that pass behavioral bias tests still hold internal biases related to occupational competence, finding that they do retain such biases internally. This matters because it highlights the need for more comprehensive evaluation methods beyond surface-level behavior to ensure unbiased AI systems.",
+      "summary_detailed": "The study examines how language models perceive occupational competence and reveals biases in their representations. Researchers found that while LMs may pass behavioral bias tests, they still exhibit underlying associations that reflect societal biases about certain occupations. This finding suggests that addressing bias in AI requires more than just passing surface-level evaluations.",
+      "summary_bullets": "• LMs may still hold internal biases despite passing behavioral tests.\n• The study examines occupational bias in language models.\n• Internal biases could manifest differently from surface-level expressions.",
+      "sentiment": "neutral",
+      "keywords": [
+        "language models",
+        "occupational bias",
+        "behavioral bias",
+        "associations",
+        "mechanisms"
+      ],
+      "thumbnail": null,
+      "favicon": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=64",
+      "cluster_id": "deb20ed4-df48-59ea-81e2-2fa5b7ac7bae",
+      "cluster_size": 1,
+      "cluster_topics": [
+        "bias",
+        "think",
+        "competent",
+        "mechanistic",
+        "occupational"
+      ],
+      "geo_title": "Why is occupational bias present in language models despite passing behavioral tests?",
+      "geo_keywords": [
+        "language models",
+        "occupational bias",
+        "behavioral bias evaluation",
+        "underlying associations",
+        "mechanism of bias",
+        "competence in language models",
+        "biases in ai",
+        "how language models perceive occupations"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "Why is occupational bias present in language models despite passing behavioral tests?",
+        "url": "https://arxiv.org/abs/2608.20347",
+        "description": "The study examines whether language models that pass behavioral bias tests still hold internal biases related to occupational competence, finding that they do retain such biases internally. This matters because it highlights the need for more comprehensive evaluation methods beyond surface-level behavior to ensure unbiased AI systems.",
+        "keywords": "language models, occupational bias, behavioral bias evaluation, underlying associations, mechanism of bias, competence in language models, biases in ai, how language models perceive occupations",
+        "datePublished": "Mon, 24 Aug 2026 00:00:00 -0400",
+        "dateModified": "Mon, 24 Aug 2026 00:00:00 -0400",
+        "author": {
+          "@type": "Organization",
+          "name": "ArXiv cs.CL (Computation and Language / NLP)",
+          "url": "https://arxiv.org"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "research",
+        "inLanguage": "en-US",
+        "wordCount": 47,
+        "articleBody": "The study examines whether language models that pass behavioral bias tests still hold internal biases related to occupational competence, finding that they do retain such biases internally. This matters because it highlights the need for more comprehensive evaluation methods beyond surface-level behavior to ensure unbiased AI systems."
+      }
+    },
+    {
+      "source_id": "arxiv_cs_cl",
+      "source_name": "ArXiv cs.CL (Computation and Language / NLP)",
+      "title": "Beyond Prompt Engineering: A Systematic Analysis of Prompt Lexical Sensitivity and Its Impacts on Quality",
+      "url": "https://arxiv.org/abs/2608.20349",
+      "description": "arXiv:2608.20349v1 Announce Type: new \nAbstract: Large Language Models (LLMs) exhibit extreme sensitivity to surface-level prompt variations, in which minor lexical changes can trigger disproportionate performance fluctuations. Moving beyond black-box optimization and coarse-grained templates, we pr",
+      "published": "Mon, 24 Aug 2026 00:00:00 -0400",
+      "score": 40,
+      "category": "research",
+      "weight": 8,
+      "format": "article",
+      "summary": "A new study reveals that large language models are highly sensitive to small changes in prompt wording, leading to significant shifts in performance quality. This research moves beyond simple template approaches to analyze the precise impact of lexical variations on model outputs.",
+      "summary_detailed": "The study explores the significant impact of minor lexical changes in prompts on large language models' performance, revealing their extreme sensitivity to such variations. Researchers go beyond traditional prompt engineering methods by employing systematic analysis techniques. This finding has broader implications for improving model reliability and understanding the underlying mechanisms driving LLM behavior.",
+      "summary_bullets": "• LLMs show significant performance variability due to small prompt changes.\n• The study focuses on the lexical sensitivity of large language models.\n• Researchers aim to move past black-box methods in optimizing prompts.\n• Minor adjustments in prompts can lead to substantial differences in model output.",
+      "sentiment": "neutral",
+      "keywords": [
+        "prompt engineering",
+        "large language models",
+        "lexical sensitivity",
+        "performance fluctuations",
+        "systematic analysis"
+      ],
+      "thumbnail": null,
+      "favicon": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=64",
+      "cluster_id": "a6451826-04f1-57b3-afb6-53399b1f5080",
+      "cluster_size": 1,
+      "cluster_topics": [
+        "prompt",
+        "lexical",
+        "sensitivity",
+        "beyond",
+        "engineering"
+      ],
+      "geo_title": "Why is prompt lexical sensitivity critical for LLMs?",
+      "geo_keywords": [
+        "prompt engineering",
+        "large language models",
+        "lexical sensitivity",
+        "performance fluctuations",
+        "systematic analysis",
+        "ai search engine discovery",
+        "perplexity",
+        "chatgpt"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "Why is prompt lexical sensitivity critical for LLMs?",
+        "url": "https://arxiv.org/abs/2608.20349",
+        "description": "A new study reveals that large language models are highly sensitive to small changes in prompt wording, leading to significant shifts in performance quality. This research moves beyond simple template approaches to analyze the precise impact of lexical variations on model outputs.",
+        "keywords": "prompt engineering, large language models, lexical sensitivity, performance fluctuations, systematic analysis, ai search engine discovery, perplexity, chatgpt",
+        "datePublished": "Mon, 24 Aug 2026 00:00:00 -0400",
+        "dateModified": "Mon, 24 Aug 2026 00:00:00 -0400",
+        "author": {
+          "@type": "Organization",
+          "name": "ArXiv cs.CL (Computation and Language / NLP)",
+          "url": "https://arxiv.org"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "research",
+        "inLanguage": "en-US",
+        "wordCount": 42,
+        "articleBody": "A new study reveals that large language models are highly sensitive to small changes in prompt wording, leading to significant shifts in performance quality. This research moves beyond simple template approaches to analyze the precise impact of lexical variations on model outputs."
+      }
+    },
+    {
+      "source_id": "arxiv_cs_cl",
+      "source_name": "ArXiv cs.CL (Computation and Language / NLP)",
+      "title": "How to Train a Real-World Silicon Concierge? Internalizing Complex Business Workflow to Only OneModel",
+      "url": "https://arxiv.org/abs/2608.20350",
+      "description": "arXiv:2608.20350v1 Announce Type: new \nAbstract: Traditional industrial agents rely on modular pipelines, including Router, Retriever, Planner, Executor, Responder, Reviewer, and other components. These systems often fracture into a labyrinth of ad-hoc patches, leading to cascading errors and high l",
+      "published": "Mon, 24 Aug 2026 00:00:00 -0400",
+      "score": 40,
+      "category": "research",
+      "weight": 8,
+      "format": "article",
+      "summary": "The paper proposes training a single model to handle complex business workflows, aiming to replace the fragmented modular pipelines used in traditional industrial agents to reduce errors and improve efficiency. This approach is crucial as it could streamline processes and enhance reliability in real-world applications.",
+      "summary_detailed": "A new approach in training an AI concierge system is described, aiming to integrate complex business workflows into a single model rather than relying on modular pipelines like Router, Retriever, Planner, Executor, Responder, and Reviewer. This method seeks to reduce the fragmentation and errors found in traditional systems by internalizing these processes. The broader impact could be more efficient and reliable AI solutions for real-world business applications.",
+      "summary_bullets": "• Traditional industrial agents use modular pipelines with specific roles.\n• Such systems can become complex and error-prone due to their fragmented nature.\n• The goal is to train an integrated model capable of handling entire business workflows.",
+      "sentiment": "neutral",
+      "keywords": [
+        "training",
+        "real-world",
+        "silicon",
+        "concierge",
+        "workflow",
+        "modular",
+        "pipelines"
+      ],
+      "thumbnail": null,
+      "favicon": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=64",
+      "cluster_id": "e13deffd-50ea-517b-864c-3c23fd9a3cdd",
+      "cluster_size": 1,
+      "cluster_topics": [
+        "train",
+        "real-world",
+        "concierge",
+        "internalizing",
+        "business"
+      ],
+      "geo_title": "How does one model internalize complex business workflows?",
+      "geo_keywords": [
+        "training complex workflows",
+        "internalizing business processes",
+        "single model approach",
+        "modular pipeline integration",
+        "silicon concierge technology",
+        "optimizing industrial agents",
+        "addressing cascading errors",
+        "unified workflow management"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "How does one model internalize complex business workflows?",
+        "url": "https://arxiv.org/abs/2608.20350",
+        "description": "The paper proposes training a single model to handle complex business workflows, aiming to replace the fragmented modular pipelines used in traditional industrial agents to reduce errors and improve efficiency. This approach is crucial as it could streamline processes and enhance reliability in real-world applications.",
+        "keywords": "training complex workflows, internalizing business processes, single model approach, modular pipeline integration, silicon concierge technology, optimizing industrial agents, addressing cascading errors, unified workflow management",
+        "datePublished": "Mon, 24 Aug 2026 00:00:00 -0400",
+        "dateModified": "Mon, 24 Aug 2026 00:00:00 -0400",
+        "author": {
+          "@type": "Organization",
+          "name": "ArXiv cs.CL (Computation and Language / NLP)",
+          "url": "https://arxiv.org"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "research",
+        "inLanguage": "en-US",
+        "wordCount": 45,
+        "articleBody": "The paper proposes training a single model to handle complex business workflows, aiming to replace the fragmented modular pipelines used in traditional industrial agents to reduce errors and improve efficiency. This approach is crucial as it could streamline processes and enhance reliability in real-world applications."
+      }
+    },
+    {
+      "source_id": "arxiv_cs_cl",
+      "source_name": "ArXiv cs.CL (Computation and Language / NLP)",
+      "title": "Exploratory As-Analyzed No-Detection of Culturally-Marked Predicate-Triggered PII Amplification in a Synthetic-English RAG Probe: A Predicate-Resource-Confounded Audit",
+      "url": "https://arxiv.org/abs/2608.20351",
+      "description": "arXiv:2608.20351v1 Announce Type: new \nAbstract: We ask whether stereotype-loaded queries about culturally marked people leak more personal information from a retrieval-augmented generation (RAG) system than otherwise-equivalent neutral queries. We pre-register a four-culture audit (en-Anglo, es-LAT",
+      "published": "Mon, 24 Aug 2026 00:00:00 -0400",
+      "score": 40,
+      "category": "research",
+      "weight": 8,
+      "format": "article",
+      "summary": "The study investigates if stereotype-loaded queries reveal more personally identifiable information from a RAG system compared to neutral ones, focusing on culturally marked topics across four cultures. This matters as it highlights potential biases and privacy risks in AI systems when handling sensitive cultural queries.",
+      "summary_detailed": "Researchers conducted an audit to determine if stereotype-loaded queries about culturally marked individuals yield more personally identifiable information (PII) from a retrieval-augmented generation (RAG) system compared to neutral queries. The study involved four cultures (Anglo and LAT in English and Spanish). No significant amplification of PII was detected, suggesting that the RAG system does not disproportionately expose personal data based on query content.",
+      "summary_bullets": "• The study investigates if stereotype-loaded queries reveal more PII than neutral ones.\n• A four-culture audit was conducted using synthetic-English RAG probes.\n• No detection of amplified PII leakage from culturally marked predicate-triggered queries.",
+      "sentiment": "neutral",
+      "keywords": [
+        "culturally marked",
+        "predicate-triggered",
+        "pii amplification",
+        "stereotype-loaded",
+        "retrieval-augmented",
+        "generation",
+        "audit"
+      ],
+      "thumbnail": null,
+      "favicon": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=64",
+      "cluster_id": "f2ac8ad4-6889-5bcf-bc97-e5f468f31f07",
+      "cluster_size": 1,
+      "cluster_topics": [
+        "rag",
+        "audit",
+        "queries",
+        "exploratory",
+        "as-analyzed"
+      ],
+      "geo_title": "Why is stereotype-loaded queries' leakage examined in RAG systems?",
+      "geo_keywords": [
+        "culturally marked queries",
+        "predicate-triggered pii amplification",
+        "stereotype-loaded questions",
+        "retrieval-augmented generation system",
+        "four-culture audit",
+        "en-anglo es-lat"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "Why is stereotype-loaded queries' leakage examined in RAG systems?",
+        "url": "https://arxiv.org/abs/2608.20351",
+        "description": "The study investigates if stereotype-loaded queries reveal more personally identifiable information from a RAG system compared to neutral ones, focusing on culturally marked topics across four cultures. This matters as it highlights potential biases and privacy risks in AI systems when handling sensitive cultural queries.",
+        "keywords": "culturally marked queries, predicate-triggered pii amplification, stereotype-loaded questions, retrieval-augmented generation system, four-culture audit, en-anglo es-lat",
+        "datePublished": "Mon, 24 Aug 2026 00:00:00 -0400",
+        "dateModified": "Mon, 24 Aug 2026 00:00:00 -0400",
+        "author": {
+          "@type": "Organization",
+          "name": "ArXiv cs.CL (Computation and Language / NLP)",
+          "url": "https://arxiv.org"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "research",
+        "inLanguage": "en-US",
+        "wordCount": 45,
+        "articleBody": "The study investigates if stereotype-loaded queries reveal more personally identifiable information from a RAG system compared to neutral ones, focusing on culturally marked topics across four cultures. This matters as it highlights potential biases and privacy risks in AI systems when handling sensitive cultural queries."
+      }
+    },
+    {
+      "source_id": "arxiv_cs_cl",
+      "source_name": "ArXiv cs.CL (Computation and Language / NLP)",
+      "title": "ExpertIVS: Sociological Expert Driven Individual Value Simulation in Large Language Models",
+      "url": "https://arxiv.org/abs/2608.20355",
+      "description": "arXiv:2608.20355v1 Announce Type: new \nAbstract: Large Language Model (LLM) agents have demonstrated considerable potential for social simulation, yet struggle to accurately model individual value systems. Most existing methods mechanically stitch survey responses into prompts, which suffer from sem",
+      "published": "Mon, 24 Aug 2026 00:00:00 -0400",
+      "score": 40,
+      "category": "research",
+      "weight": 8,
+      "format": "article",
+      "summary": "A new method called ExpertIVS aims to improve how large language models simulate individual value systems by using sociological expertise, addressing limitations in current mechanical survey response integration techniques. This advancement is crucial as it enhances the social simulation capabilities of LLMs, making them more effective in understanding and predicting human behavior.",
+      "summary_detailed": "A new method called ExpertIVS has been proposed to address the limitations of current large language models (LLMs) in simulating individual value systems. Developed by sociological experts, this approach aims to enhance LLMs' social simulation capabilities by going beyond mechanical survey response integration. The broader impact could be more nuanced and accurate modeling of human values within AI systems, potentially improving their interaction with humans.",
+      "summary_bullets": "• LLM agents show promise in social simulation.\n• They struggle with modeling individual value systems accurately.\n• Current methods often use mechanical integration of survey responses.\n• These approaches suffer from semantic limitations.",
+      "sentiment": "neutral",
+      "keywords": [
+        "large language models",
+        "sociological",
+        "individual value systems",
+        "simulation",
+        "survey responses"
+      ],
+      "thumbnail": null,
+      "favicon": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=64",
+      "cluster_id": "2f3da7b2-ead4-5688-9f18-53b459cd113f",
+      "cluster_size": 1,
+      "cluster_topics": [
+        "value",
+        "simulation",
+        "individual",
+        "model",
+        "expertivs"
+      ],
+      "geo_title": "Why is ExpertIVS Important for Individual Value Simulation in LLMs?",
+      "geo_keywords": [
+        "large language models",
+        "sociological simulation",
+        "individual value systems",
+        "expert driven simulation",
+        "advanced social modeling",
+        "accurate value representation",
+        "mechanical prompt techniques",
+        "research in large language models"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "Why is ExpertIVS Important for Individual Value Simulation in LLMs?",
+        "url": "https://arxiv.org/abs/2608.20355",
+        "description": "A new method called ExpertIVS aims to improve how large language models simulate individual value systems by using sociological expertise, addressing limitations in current mechanical survey response integration techniques. This advancement is crucial as it enhances the social simulation capabilities of LLMs, making them more effective in understanding and predicting human behavior.",
+        "keywords": "large language models, sociological simulation, individual value systems, expert driven simulation, advanced social modeling, accurate value representation, mechanical prompt techniques, research in large language models",
+        "datePublished": "Mon, 24 Aug 2026 00:00:00 -0400",
+        "dateModified": "Mon, 24 Aug 2026 00:00:00 -0400",
+        "author": {
+          "@type": "Organization",
+          "name": "ArXiv cs.CL (Computation and Language / NLP)",
+          "url": "https://arxiv.org"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "research",
+        "inLanguage": "en-US",
+        "wordCount": 52,
+        "articleBody": "A new method called ExpertIVS aims to improve how large language models simulate individual value systems by using sociological expertise, addressing limitations in current mechanical survey response integration techniques. This advancement is crucial as it enhances the social simulation capabilities of LLMs, making them more effective in understanding and predicting human behavior."
+      }
+    },
+    {
+      "source_id": "arxiv_cs_cl",
+      "source_name": "ArXiv cs.CL (Computation and Language / NLP)",
+      "title": "Self-Speculation for Faster Reasoning Models",
+      "url": "https://arxiv.org/abs/2608.20359",
+      "description": "arXiv:2608.20359v1 Announce Type: new \nAbstract: Large language models (LLMs) are deployed for increasingly complex tasks involving planning and multi-step decision making, but high-quality performance on these tasks often requires generating long reasoning traces. This is a poor fit for latency-sen",
+      "published": "Mon, 24 Aug 2026 00:00:00 -0400",
+      "score": 40,
+      "category": "research",
+      "weight": 8,
+      "format": "article",
+      "summary": "A new approach called \"self-speculation\" has been proposed to enable large language models to generate faster reasoning processes without sacrificing quality, addressing the need for quicker decision-making in complex tasks. This development is crucial as LLMs are increasingly used in scenarios requiring rapid and accurate multi-step reasoning.",
+      "summary_detailed": "Researchers have developed a method called \"self-speculation\" to enhance the reasoning capabilities of large language models (LLMs) by enabling them to generate shorter yet effective reasoning traces, thereby improving their performance on complex tasks without compromising speed. This approach is particularly relevant for applications requiring rapid decision-making processes. The broader impact could significantly advance fields such as natural language processing and artificial intelligence where quick and accurate reasoning is crucial.",
+      "summary_bullets": "• Self-speculation technique enhances LLMs' ability to handle complex tasks.\n• Improves performance in planning and multi-step decision-making scenarios.\n• Addresses the challenge of generating lengthy reasoning processes efficiently.\n• Aims to reduce latency issues associated with current LLM deployments.",
+      "sentiment": "neutral",
+      "keywords": [
+        "self-speculation",
+        "faster reasoning",
+        "large language models",
+        "planning",
+        "multi-step decision making",
+        "reasoning traces",
+        "latency"
+      ],
+      "thumbnail": null,
+      "favicon": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=64",
+      "cluster_id": "c926f349-e208-5132-be1b-bd4c5feebc28",
+      "cluster_size": 1,
+      "cluster_topics": [
+        "tasks",
+        "reasoning",
+        "self-speculation",
+        "faster",
+        "deployed"
+      ],
+      "geo_title": "Why is self-speculation crucial for faster reasoning in LLMs?",
+      "geo_keywords": [
+        "self-speculation",
+        "faster reasoning models",
+        "large language models",
+        "planning and decision making",
+        "optimization in ai",
+        "latency reduction in llm",
+        "efficient reasoning traces",
+        "improving ai performance"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "Why is self-speculation crucial for faster reasoning in LLMs?",
+        "url": "https://arxiv.org/abs/2608.20359",
+        "description": "A new approach called \"self-speculation\" has been proposed to enable large language models to generate faster reasoning processes without sacrificing quality, addressing the need for quicker decision-making in complex tasks. This development is crucial as LLMs are increasingly used in scenarios requiring rapid and accurate multi-step reasoning.",
+        "keywords": "self-speculation, faster reasoning models, large language models, planning and decision making, optimization in ai, latency reduction in llm, efficient reasoning traces, improving ai performance",
+        "datePublished": "Mon, 24 Aug 2026 00:00:00 -0400",
+        "dateModified": "Mon, 24 Aug 2026 00:00:00 -0400",
+        "author": {
+          "@type": "Organization",
+          "name": "ArXiv cs.CL (Computation and Language / NLP)",
+          "url": "https://arxiv.org"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "research",
+        "inLanguage": "en-US",
+        "wordCount": 47,
+        "articleBody": "A new approach called \"self-speculation\" has been proposed to enable large language models to generate faster reasoning processes without sacrificing quality, addressing the need for quicker decision-making in complex tasks. This development is crucial as LLMs are increasingly used in scenarios requiring rapid and accurate multi-step reasoning."
+      }
+    },
+    {
+      "source_id": "arxiv_cs_cl",
+      "source_name": "ArXiv cs.CL (Computation and Language / NLP)",
+      "title": "Toward Auto-Research: Mining Falsifiable Research Ideas from Paper Knowledge Graphs with Categorical Structure",
+      "url": "https://arxiv.org/abs/2608.20361",
+      "description": "arXiv:2608.20361v1 Announce Type: new \nAbstract: Automated research-idea generation systems built on large language models (LLMs) share a structural weakness: they reduce ideation to free-text recombination, random paper pairing, or embedding-similarity retrieval. The three approaches fail in the sa",
+      "published": "Mon, 24 Aug 2026 00:00:00 -0400",
+      "score": 40,
+      "category": "research",
+      "weight": 8,
+      "format": "article",
+      "summary": "A new approach aims to generate research ideas for autonomous vehicles by mining falsifiable concepts from structured paper knowledge graphs, addressing limitations of current automated systems that rely on text recombination or similarity searches. This method could enhance the quality and relevance of research ideas in specialized fields like autonomous technology.",
+      "summary_detailed": "A new approach aims to enhance automated research idea generation by leveraging paper knowledge graphs with categorical structure, addressing limitations of current methods that rely on free-text recombination, random paper pairing, or embedding-similarity retrieval. This involves mining falsifiable research ideas from structured data, and could significantly impact the efficiency and quality of academic research processes.",
+      "summary_bullets": "• Automated research-idea generation systems rely on LLMs.\n• Current methods include free-text recombination, random paper pairing, and embedding-similarity retrieval.\n• These approaches are inadequate for effective ideation.",
+      "sentiment": "neutral",
+      "keywords": [
+        "automated research",
+        "large language models",
+        "ideation",
+        "paper knowledge graphs",
+        "categorical structure"
+      ],
+      "thumbnail": null,
+      "favicon": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=64",
+      "cluster_id": "58eeb535-de68-5220-bf87-98fa9f33f4ec",
+      "cluster_size": 1,
+      "cluster_topics": [
+        "paper",
+        "toward",
+        "auto-research",
+        "mining",
+        "falsifiable"
+      ],
+      "geo_title": "How does automated research-idea generation struggle with LLMs?",
+      "geo_keywords": [
+        "automated research",
+        "large language models",
+        "ideation",
+        "paper knowledge graphs",
+        "categorical structure",
+        "falsifiable research ideas",
+        "ai-driven research",
+        "knowledge graph mining"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "How does automated research-idea generation struggle with LLMs?",
+        "url": "https://arxiv.org/abs/2608.20361",
+        "description": "A new approach aims to generate research ideas for autonomous vehicles by mining falsifiable concepts from structured paper knowledge graphs, addressing limitations of current automated systems that rely on text recombination or similarity searches. This method could enhance the quality and relevance of research ideas in specialized fields like autonomous technology.",
+        "keywords": "automated research, large language models, ideation, paper knowledge graphs, categorical structure, falsifiable research ideas, ai-driven research, knowledge graph mining",
+        "datePublished": "Mon, 24 Aug 2026 00:00:00 -0400",
+        "dateModified": "Mon, 24 Aug 2026 00:00:00 -0400",
+        "author": {
+          "@type": "Organization",
+          "name": "ArXiv cs.CL (Computation and Language / NLP)",
+          "url": "https://arxiv.org"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "research",
+        "inLanguage": "en-US",
+        "wordCount": 51,
+        "articleBody": "A new approach aims to generate research ideas for autonomous vehicles by mining falsifiable concepts from structured paper knowledge graphs, addressing limitations of current automated systems that rely on text recombination or similarity searches. This method could enhance the quality and relevance of research ideas in specialized fields like autonomous technology."
+      }
+    },
+    {
+      "source_id": "arxiv_cs_cl",
+      "source_name": "ArXiv cs.CL (Computation and Language / NLP)",
+      "title": "Multilingual Verifier Bias in RLVR: Benchmark, Rollout Diagnosis, and the Cross-Lingual Selection Bottleneck",
+      "url": "https://arxiv.org/abs/2608.20362",
+      "description": "arXiv:2608.20362v1 Announce Type: new \nAbstract: Reinforcement learning with verifiable rewards (RLVR) is a standard recipe for training large language models on mathematical reasoning, where an answer verifier serves as a language-neutral reward function. We show that this assumption fails in multi",
+      "published": "Mon, 24 Aug 2026 00:00:00 -0400",
+      "score": 40,
+      "category": "research",
+      "weight": 8,
+      "format": "article",
+      "summary": "The study reveals biases in multilingual verifiers used in reinforcement learning for language models, challenging the assumption of language-neutrality and highlighting limitations in cross-lingual training. This matters because it underscores the need for more robust verification mechanisms to ensure fair and effective model training across languages.",
+      "summary_detailed": "The study reveals biases in multilingual verifiers used within reinforcement learning with verifiable rewards (RLVR), impacting the training of large language models for mathematical reasoning. Researchers found that the language-neutral reward functions often fail to be truly unbiased across different languages, highlighting a \"cross-lingual selection bottleneck.\" This issue has broader implications for ensuring fairness and accuracy in multilingual AI systems.",
+      "summary_bullets": "• Multilingual verifiers can introduce bias in RLVR.\n• The study diagnoses issues through rollout analysis.\n• A cross-lingual selection bottleneck is identified.",
+      "sentiment": "neutral",
+      "keywords": [
+        "multilingual",
+        "verifier",
+        "bias",
+        "rlvr",
+        "benchmark",
+        "diagnosis",
+        "bottleneck"
+      ],
+      "thumbnail": null,
+      "favicon": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=64",
+      "cluster_id": "c3cb41fd-f1a9-51b9-a174-98b82105382d",
+      "cluster_size": 1,
+      "cluster_topics": [
+        "verifier",
+        "rlvr",
+        "rollout",
+        "diagnosis",
+        "cross-lingual"
+      ],
+      "geo_title": "Why is multilingual verifier bias a bottleneck in RLVR benchmarks?",
+      "geo_keywords": [
+        "multilingual verifier bias",
+        "rlvr benchmark",
+        "cross-lingual selection bottleneck",
+        "reinforcement learning with verifiable rewards",
+        "rollout diagnosis",
+        "multilingual language models",
+        "mathematical reasoning verification",
+        "what is rlvr",
+        "does multilingual work in rlvr",
+        "how to diagnose rlvr biases"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "Why is multilingual verifier bias a bottleneck in RLVR benchmarks?",
+        "url": "https://arxiv.org/abs/2608.20362",
+        "description": "The study reveals biases in multilingual verifiers used in reinforcement learning for language models, challenging the assumption of language-neutrality and highlighting limitations in cross-lingual training. This matters because it underscores the need for more robust verification mechanisms to ensure fair and effective model training across languages.",
+        "keywords": "multilingual verifier bias, rlvr benchmark, cross-lingual selection bottleneck, reinforcement learning with verifiable rewards, rollout diagnosis, multilingual language models, mathematical reasoning verification, what is rlvr",
+        "datePublished": "Mon, 24 Aug 2026 00:00:00 -0400",
+        "dateModified": "Mon, 24 Aug 2026 00:00:00 -0400",
+        "author": {
+          "@type": "Organization",
+          "name": "ArXiv cs.CL (Computation and Language / NLP)",
+          "url": "https://arxiv.org"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "research",
+        "inLanguage": "en-US",
+        "wordCount": 46,
+        "articleBody": "The study reveals biases in multilingual verifiers used in reinforcement learning for language models, challenging the assumption of language-neutrality and highlighting limitations in cross-lingual training. This matters because it underscores the need for more robust verification mechanisms to ensure fair and effective model training across languages."
+      }
+    },
+    {
+      "source_id": "arxiv_cs_cl",
+      "source_name": "ArXiv cs.CL (Computation and Language / NLP)",
+      "title": "Hadith computational science in the age of large language models: a critical narrative review",
+      "url": "https://arxiv.org/abs/2608.20364",
+      "description": "arXiv:2608.20364v1 Announce Type: new \nAbstract: We examine how hadith computational science is being reshaped by transformer models, retrieval-grounded pipelines, and large language models (LLMs). Recent reviews document growth in the literature, but they do not yet provide a critical account of wh",
+      "published": "Mon, 24 Aug 2026 00:00:00 -0400",
+      "score": 40,
+      "category": "research",
+      "weight": 8,
+      "format": "article",
+      "summary": "The article critically reviews how recent advancements in large language models are transforming hadith computational science, focusing on new methods like transformer models and retrieval-grounded pipelines. This matters as it highlights the evolving landscape of digital analysis in Islamic studies, potentially altering research methodologies and outcomes.",
+      "summary_detailed": "This news item discusses a critical narrative review of how hadith computational science is evolving with the integration of transformer models, retrieval-grounded pipelines, and large language models. The review highlights the growing body of research in this field but notes that current literature lacks a comprehensive critical analysis. Broader impacts include potential advancements in hadith verification and preservation, though these are tempered by the need for more nuanced evaluation.",
+      "summary_bullets": "• Hadith computational science is evolving with the integration of transformer models.\n• Retrieval-grounded pipelines are becoming integral to hadith studies.\n• Large language models are significantly impacting the field's methodologies.",
+      "sentiment": "neutral",
+      "keywords": [
+        "hadith",
+        "computational science",
+        "transformer models",
+        "retrieval-grounded pipelines",
+        "large language models"
+      ],
+      "thumbnail": null,
+      "favicon": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=64",
+      "cluster_id": "46ab8111-4090-59dc-9620-ac93b91f66ad",
+      "cluster_size": 1,
+      "cluster_topics": [
+        "hadith",
+        "computational",
+        "science",
+        "critical",
+        "models"
+      ],
+      "geo_title": "How does large language models' impact reshape hadith computational science?",
+      "geo_keywords": [
+        "hadith computational science",
+        "transformer models review",
+        "large language models impact on hadith",
+        "retrieval-grounded pipelines for hadith",
+        "critical narrative review of hadith computational science",
+        "recent advancements in hadith computational science",
+        "how large language models are transforming hadith studies"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "How does large language models' impact reshape hadith computational science?",
+        "url": "https://arxiv.org/abs/2608.20364",
+        "description": "The article critically reviews how recent advancements in large language models are transforming hadith computational science, focusing on new methods like transformer models and retrieval-grounded pipelines. This matters as it highlights the evolving landscape of digital analysis in Islamic studies, potentially altering research methodologies and outcomes.",
+        "keywords": "hadith computational science, transformer models review, large language models impact on hadith, retrieval-grounded pipelines for hadith, critical narrative review of hadith computational science, recent advancements in hadith computational science, how large language models are transforming hadith studies",
+        "datePublished": "Mon, 24 Aug 2026 00:00:00 -0400",
+        "dateModified": "Mon, 24 Aug 2026 00:00:00 -0400",
+        "author": {
+          "@type": "Organization",
+          "name": "ArXiv cs.CL (Computation and Language / NLP)",
+          "url": "https://arxiv.org"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "research",
+        "inLanguage": "en-US",
+        "wordCount": 46,
+        "articleBody": "The article critically reviews how recent advancements in large language models are transforming hadith computational science, focusing on new methods like transformer models and retrieval-grounded pipelines. This matters as it highlights the evolving landscape of digital analysis in Islamic studies, potentially altering research methodologies and outcomes."
+      }
+    },
+    {
+      "source_id": "arxiv_cs_cl",
+      "source_name": "ArXiv cs.CL (Computation and Language / NLP)",
+      "title": "Trilingual Topic Modeling of Sri Lankan Parliamentary Debates",
+      "url": "https://arxiv.org/abs/2608.20365",
+      "description": "arXiv:2608.20365v1 Announce Type: new \nAbstract: Sri Lankan parliamentary debates (Hansards) constitute a trilingual corpus of speeches in Sinhala, Tamil, and English, including code-mixed content, yet remain inaccessible to standard NLP pipelines due to layout-complex PDFs, multilingual scripts, an",
+      "published": "Mon, 24 Aug 2026 00:00:00 -0400",
+      "score": 40,
+      "category": "research",
+      "weight": 8,
+      "format": "article",
+      "summary": "Researchers have developed a trilingual topic modeling approach for analyzing Sri Lankan parliamentary debates in Sinhala, Tamil, and English, addressing the challenges posed by code-mixed content and complex layouts. This work is significant as it makes these important political discussions accessible to natural language processing tools, enhancing understanding and analysis of multilingual parliamentary discourse.",
+      "summary_detailed": "Researchers have developed a trilingual topic modeling approach for analyzing Sri Lankan parliamentary debates in Sinhala, Tamil, and English, which are often code-mixed. This work addresses the challenge of processing complex PDF layouts and multiple scripts, making these important political discussions accessible to natural language processing (NLP) tools. The broader impact could enhance understanding and analysis of multilingual political discourse in Sri Lanka.",
+      "summary_bullets": "• Trilingual corpus includes speeches in Sinhala, Tamil, and English.\n• Debates contain code-mixed content.\n• Accessibility issues exist due to complex PDF layouts.",
+      "sentiment": "neutral",
+      "keywords": [
+        "trilingual",
+        "sri lankan",
+        "parliamentary debates",
+        "hansards",
+        "nlp",
+        "code-mixed"
+      ],
+      "thumbnail": null,
+      "favicon": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=64",
+      "cluster_id": "6875ba77-6daa-5f4b-b4b5-cf575e1b384a",
+      "cluster_size": 1,
+      "cluster_topics": [
+        "trilingual",
+        "sri",
+        "lankan",
+        "parliamentary",
+        "debates"
+      ],
+      "geo_title": "Why is trilingual topic modeling of Sri Lankan parliamentary debates important?",
+      "geo_keywords": [
+        "trilingual topic modeling",
+        "sri lankan parliament",
+        "hansiards analysis",
+        "multilingual speech processing",
+        "code-mixed content",
+        "nlp for asian languages",
+        "accessibility of multilingual corpora",
+        "trilingual parliamentary analysis"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "Why is trilingual topic modeling of Sri Lankan parliamentary debates important?",
+        "url": "https://arxiv.org/abs/2608.20365",
+        "description": "Researchers have developed a trilingual topic modeling approach for analyzing Sri Lankan parliamentary debates in Sinhala, Tamil, and English, addressing the challenges posed by code-mixed content and complex layouts. This work is significant as it makes these important political discussions accessible to natural language processing tools, enhancing understanding and analysis of multilingual parliamentary discourse.",
+        "keywords": "trilingual topic modeling, sri lankan parliament, hansiards analysis, multilingual speech processing, code-mixed content, nlp for asian languages, accessibility of multilingual corpora, trilingual parliamentary analysis",
+        "datePublished": "Mon, 24 Aug 2026 00:00:00 -0400",
+        "dateModified": "Mon, 24 Aug 2026 00:00:00 -0400",
+        "author": {
+          "@type": "Organization",
+          "name": "ArXiv cs.CL (Computation and Language / NLP)",
+          "url": "https://arxiv.org"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "research",
+        "inLanguage": "en-US",
+        "wordCount": 54,
+        "articleBody": "Researchers have developed a trilingual topic modeling approach for analyzing Sri Lankan parliamentary debates in Sinhala, Tamil, and English, addressing the challenges posed by code-mixed content and complex layouts. This work is significant as it makes these important political discussions accessible to natural language processing tools, enhancing understanding and analysis of multilingual parliamentary discourse."
+      }
+    },
+    {
+      "source_id": "arxiv_cs_cl",
+      "source_name": "ArXiv cs.CL (Computation and Language / NLP)",
+      "title": "Research Paper Quality Recognition Through Textual Feature Analysis",
+      "url": "https://arxiv.org/abs/2608.20368",
+      "description": "arXiv:2608.20368v1 Announce Type: new \nAbstract: Knowledge and innovations are shaped by using the quality and credibility of the scientific research. Yet, distinguishing between impactful, high-quality work and flawed studies remains a challenge. This paper introduces a benchmark for classifying re",
+      "published": "Mon, 24 Aug 2026 00:00:00 -0400",
+      "score": 40,
+      "category": "research",
+      "weight": 8,
+      "format": "article",
+      "summary": "A new research paper proposes a benchmark for classifying the quality of scientific studies through textual feature analysis, addressing the challenge of distinguishing impactful, high-quality work from flawed studies. This method is crucial for enhancing the credibility and reliability of knowledge and innovations in scientific fields.",
+      "summary_detailed": "A new research paper proposes a benchmark for classifying the quality of scientific research through textual feature analysis, aiming to distinguish between impactful, high-quality work and flawed studies. The study involves developing algorithms to analyze text features in academic papers. Broader impacts include enhancing the credibility assessment process in the scientific community and potentially improving the dissemination of reliable knowledge.",
+      "summary_bullets": "• The paper aims to classify the quality of scientific research.\n• It addresses the challenge of distinguishing impactful from flawed studies.\n• A benchmark for textual feature analysis is introduced in this research.",
+      "sentiment": "neutral",
+      "keywords": [
+        "quality recognition",
+        "textual feature analysis",
+        "scientific research",
+        "classification benchmark"
+      ],
+      "thumbnail": null,
+      "favicon": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=64",
+      "cluster_id": "92732fac-fc9b-51b7-88cf-795f5b667a97",
+      "cluster_size": 1,
+      "cluster_topics": [
+        "quality",
+        "paper",
+        "research",
+        "recognition",
+        "textual"
+      ],
+      "geo_title": "How does textual feature analysis distinguish high-quality research papers?",
+      "geo_keywords": [
+        "quality recognition",
+        "textual feature analysis",
+        "scientific research",
+        "classification benchmark",
+        "research paper evaluation",
+        "academic credibility assessment",
+        "high-quality research identification",
+        "flawed study detection",
+        "machine learning in research validation"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "How does textual feature analysis distinguish high-quality research papers?",
+        "url": "https://arxiv.org/abs/2608.20368",
+        "description": "A new research paper proposes a benchmark for classifying the quality of scientific studies through textual feature analysis, addressing the challenge of distinguishing impactful, high-quality work from flawed studies. This method is crucial for enhancing the credibility and reliability of knowledge and innovations in scientific fields.",
+        "keywords": "quality recognition, textual feature analysis, scientific research, classification benchmark, research paper evaluation, academic credibility assessment, high-quality research identification, flawed study detection",
+        "datePublished": "Mon, 24 Aug 2026 00:00:00 -0400",
+        "dateModified": "Mon, 24 Aug 2026 00:00:00 -0400",
+        "author": {
+          "@type": "Organization",
+          "name": "ArXiv cs.CL (Computation and Language / NLP)",
+          "url": "https://arxiv.org"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "research",
+        "inLanguage": "en-US",
+        "wordCount": 46,
+        "articleBody": "A new research paper proposes a benchmark for classifying the quality of scientific studies through textual feature analysis, addressing the challenge of distinguishing impactful, high-quality work from flawed studies. This method is crucial for enhancing the credibility and reliability of knowledge and innovations in scientific fields."
+      }
+    },
+    {
+      "source_id": "arxiv_cs_cl",
+      "source_name": "ArXiv cs.CL (Computation and Language / NLP)",
+      "title": "ASTAR: Automated induction of STAndardized radiology Reporting templates from large-scale clinical free-text corpora",
+      "url": "https://arxiv.org/abs/2608.20369",
+      "description": "arXiv:2608.20369v1 Announce Type: new \nAbstract: Structured reporting converts free-text radiology narratives into queryable data keys, facilitating cohort assembly, longitudinal tracking, and training label generation for medical AI. The prevailing paradigm follows a two-stage pipeline: (1) constru",
+      "published": "Mon, 24 Aug 2026 00:00:00 -0400",
+      "score": 40,
+      "category": "research",
+      "weight": 8,
+      "format": "article",
+      "summary": "A new method called ASTAR automates the creation of standardized radiology reports from free-text clinical notes, aiming to enhance data usability for medical AI training and research by converting narrative text into queryable data keys. This innovation matters because it streamlines the process of generating structured, standardized reports, which is crucial for improving cohort assembly, longitudinal tracking, and label generation in medical artificial intelligence applications.",
+      "summary_detailed": "A new method called ASTAR has been developed to automatically generate standardized radiology reporting templates from large-scale clinical free-text records, aiming to convert unstructured radiology reports into structured data. This process facilitates easier data analysis, cohort assembly, and training for medical AI systems. The broader impact could enhance the efficiency and accuracy of radiological diagnoses through improved data standardization and accessibility.",
+      "summary_bullets": "• Structured reporting transforms free-text radiology reports into queryable data.\n• This process facilitates easier cohort assembly and longitudinal tracking.\n• It aids in generating training labels for medical AI development.",
+      "sentiment": "neutral",
+      "keywords": [
+        "structured reporting",
+        "radiology",
+        "clinical",
+        "free-text",
+        "cohort assembly"
+      ],
+      "thumbnail": null,
+      "favicon": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=64",
+      "cluster_id": "28cb4844-db74-5396-bed6-2d40f6dde7d4",
+      "cluster_size": 1,
+      "cluster_topics": [
+        "radiology",
+        "reporting",
+        "free-text",
+        "astar",
+        "induction"
+      ],
+      "geo_title": "How does ASTAR automate standardized radiology reporting from free-text?",
+      "geo_keywords": [
+        "structured reporting",
+        "radiology automation",
+        "clinical free-text analysis",
+        "ai in radiology",
+        "cohort assembly and tracking",
+        "training label generation for medical ai",
+        "standardized radiology reporting templates"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "How does ASTAR automate standardized radiology reporting from free-text?",
+        "url": "https://arxiv.org/abs/2608.20369",
+        "description": "A new method called ASTAR automates the creation of standardized radiology reports from free-text clinical notes, aiming to enhance data usability for medical AI training and research by converting narrative text into queryable data keys. This innovation matters because it streamlines the process of generating structured, standardized reports, which is crucial for improving cohort assembly, longitudinal tracking, and label generation in medical artificial intelligence applications.",
+        "keywords": "structured reporting, radiology automation, clinical free-text analysis, ai in radiology, cohort assembly and tracking, training label generation for medical ai, standardized radiology reporting templates",
+        "datePublished": "Mon, 24 Aug 2026 00:00:00 -0400",
+        "dateModified": "Mon, 24 Aug 2026 00:00:00 -0400",
+        "author": {
+          "@type": "Organization",
+          "name": "ArXiv cs.CL (Computation and Language / NLP)",
+          "url": "https://arxiv.org"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "research",
+        "inLanguage": "en-US",
+        "wordCount": 65,
+        "articleBody": "A new method called ASTAR automates the creation of standardized radiology reports from free-text clinical notes, aiming to enhance data usability for medical AI training and research by converting narrative text into queryable data keys. This innovation matters because it streamlines the process of generating structured, standardized reports, which is crucial for improving cohort assembly, longitudinal tracking, and label generation in medical artificial intelligence applications."
+      }
+    },
+    {
+      "source_id": "arxiv_cs_cl",
+      "source_name": "ArXiv cs.CL (Computation and Language / NLP)",
+      "title": "When Do LLMs Replace Fine-Tuned NLU? A Decision Framework for Intent Detection in Production Conversational Systems",
+      "url": "https://arxiv.org/abs/2608.20371",
+      "description": "arXiv:2608.20371v1 Announce Type: new \nAbstract: A common claim is that zero-shot large language models (LLMs) can replace fine-tuned NLU classifiers for intent detection. We test this claim head-to-head and find that the honest answer is: it depends on the intent space. On full ATIS and CLINC150 we",
+      "published": "Mon, 24 Aug 2026 00:00:00 -0400",
+      "score": 40,
+      "category": "research",
+      "weight": 8,
+      "format": "article",
+      "summary": "The study compares zero-shot large language models (LLMs) to fine-tuned natural language understanding (NLU) classifiers for intent detection, concluding that the suitability of LLMs varies depending on the specific intent space. On comprehensive datasets like ATIS and CLINC150, the performance of LLMs relative to fine-tuned NLU classifiers depends on the context and type of intents involved.",
+      "summary_detailed": "Researchers compared zero-shot large language models (LLMs) with fine-tuned natural language understanding (NLU) classifiers for intent detection in conversational systems, using datasets like ATIS and CLINC150. The study found that the effectiveness varies depending on the specific intent space. Broader implications suggest a need for tailored decision frameworks to determine when LLMs can replace fine-tuned NLU models.",
+      "summary_bullets": "• The study compares zero-shot LLMs against fine-tuned NLU classifiers.\n• Intent detection performance varies depending on the specific intent space.\n• LLMs performed comparably to fine-tuned models on ATIS and CLINC150.",
+      "sentiment": "neutral",
+      "keywords": [
+        "llms",
+        "nlu",
+        "intent detection",
+        "atis",
+        "clinc150"
+      ],
+      "thumbnail": null,
+      "favicon": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=64",
+      "cluster_id": "fb875e83-33a7-50c6-a3e2-e6e3bfe899bc",
+      "cluster_size": 1,
+      "cluster_topics": [
+        "intent",
+        "fine-tuned",
+        "nlu",
+        "detection",
+        "claim"
+      ],
+      "geo_title": "Why Is Zero-Shot LLMs Replacing Fine-Tuned NLU Classifiers?",
+      "geo_keywords": [
+        "llms replace fine-tuned nlu",
+        "decision framework intent detection",
+        "atis clinc150 comparison",
+        "when to use llms for intent detection",
+        "zero-shot llm vs fine-tuned nlu",
+        "conversational system intent recognition",
+        "intent space analysis for llm adoption"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "Why Is Zero-Shot LLMs Replacing Fine-Tuned NLU Classifiers?",
+        "url": "https://arxiv.org/abs/2608.20371",
+        "description": "The study compares zero-shot large language models (LLMs) to fine-tuned natural language understanding (NLU) classifiers for intent detection, concluding that the suitability of LLMs varies depending on the specific intent space. On comprehensive datasets like ATIS and CLINC150, the performance of LLMs relative to fine-tuned NLU classifiers depends on the context and type of intents involved.",
+        "keywords": "llms replace fine-tuned nlu, decision framework intent detection, atis clinc150 comparison, when to use llms for intent detection, zero-shot llm vs fine-tuned nlu, conversational system intent recognition, intent space analysis for llm adoption",
+        "datePublished": "Mon, 24 Aug 2026 00:00:00 -0400",
+        "dateModified": "Mon, 24 Aug 2026 00:00:00 -0400",
+        "author": {
+          "@type": "Organization",
+          "name": "ArXiv cs.CL (Computation and Language / NLP)",
+          "url": "https://arxiv.org"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "research",
+        "inLanguage": "en-US",
+        "wordCount": 56,
+        "articleBody": "The study compares zero-shot large language models (LLMs) to fine-tuned natural language understanding (NLU) classifiers for intent detection, concluding that the suitability of LLMs varies depending on the specific intent space. On comprehensive datasets like ATIS and CLINC150, the performance of LLMs relative to fine-tuned NLU classifiers depends on the context and type of intents involved."
+      }
+    },
+    {
+      "source_id": "arxiv_cs_cl",
+      "source_name": "ArXiv cs.CL (Computation and Language / NLP)",
+      "title": "An ambiguity taxonomy for evaluating large language model performance on clinical registry abstraction: a multi-site prospective study",
+      "url": "https://arxiv.org/abs/2608.20373",
+      "description": "arXiv:2608.20373v1 Announce Type: new \nAbstract: Objective: To evaluate large language model (LLM) performance on unprocessed electronic medical record (EMR) data for clinical registry abstraction. Methods: We evaluated LLM performance answering registry questions for the American College of Cardiol",
+      "published": "Mon, 24 Aug 2026 00:00:00 -0400",
+      "score": 40,
+      "category": "research",
+      "weight": 8,
+      "format": "article",
+      "summary": "A study evaluated large language models' ability to answer clinical registry questions using raw EMR data, aiming to improve accuracy in extracting relevant information from medical records for cardiac registries. This research is crucial as it assesses the reliability of AI in handling complex medical data, which could enhance automated health data processing and analysis.",
+      "summary_detailed": "A multi-site prospective study was conducted to assess the performance of large language models (LLMs) in extracting information from unprocessed electronic medical records (EMRs) for clinical registry abstraction, specifically focusing on cardiological data. The objective was to develop an ambiguity taxonomy to better evaluate LLMs' accuracy and reliability in this context. This research has broader implications for improving the efficiency and quality of clinical data management and analysis across multiple healthcare sites.",
+      "summary_bullets": "• Objectives focused on evaluating LLMs for clinical registry abstraction.\n• Utilized unprocessed EMR data in the evaluation process.\n• Evaluated LLM performance through answering registry-specific questions.\n• Study conducted across multiple sites with a prospective design.",
+      "sentiment": "neutral",
+      "keywords": [
+        "large language models",
+        "clinical registry",
+        "electronic medical records",
+        "evaluation",
+        "performance"
+      ],
+      "thumbnail": null,
+      "favicon": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=64",
+      "cluster_id": "3109e69b-3f19-5d5b-88e5-c558aa89deaf",
+      "cluster_size": 1,
+      "cluster_topics": [
+        "registry",
+        "performance",
+        "abstraction",
+        "clinical",
+        "llm"
+      ],
+      "geo_title": "Why is an ambiguity taxonomy needed for LLMs in clinical registry abstraction?",
+      "geo_keywords": [
+        "large language model performance",
+        "clinical registry abstraction",
+        "electronic medical records analysis",
+        "ai in healthcare",
+        "evaluation of llm",
+        "multi-site study",
+        "clinical data processing",
+        "registry questions accuracy"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "Why is an ambiguity taxonomy needed for LLMs in clinical registry abstraction?",
+        "url": "https://arxiv.org/abs/2608.20373",
+        "description": "A study evaluated large language models' ability to answer clinical registry questions using raw EMR data, aiming to improve accuracy in extracting relevant information from medical records for cardiac registries. This research is crucial as it assesses the reliability of AI in handling complex medical data, which could enhance automated health data processing and analysis.",
+        "keywords": "large language model performance, clinical registry abstraction, electronic medical records analysis, ai in healthcare, evaluation of llm, multi-site study, clinical data processing, registry questions accuracy",
+        "datePublished": "Mon, 24 Aug 2026 00:00:00 -0400",
+        "dateModified": "Mon, 24 Aug 2026 00:00:00 -0400",
+        "author": {
+          "@type": "Organization",
+          "name": "ArXiv cs.CL (Computation and Language / NLP)",
+          "url": "https://arxiv.org"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "research",
+        "inLanguage": "en-US",
+        "wordCount": 55,
+        "articleBody": "A study evaluated large language models' ability to answer clinical registry questions using raw EMR data, aiming to improve accuracy in extracting relevant information from medical records for cardiac registries. This research is crucial as it assesses the reliability of AI in handling complex medical data, which could enhance automated health data processing and analysis."
+      }
+    },
+    {
+      "source_id": "arxiv_cs_ai",
+      "source_name": "ArXiv cs.AI",
+      "title": "SDAD: Spec-Driven Agentic Development for the AI-Native SDLC",
+      "url": "https://arxiv.org/abs/2608.20341",
+      "description": "arXiv:2608.20341v1 Announce Type: new \nAbstract: Frontier coding agents backed by large language models with context windows from hundreds of thousands to millions of tokens are restructuring the Software Development Life Cycle (SDLC). Rich context handling and multi-step reasoning now allow substan",
+      "published": "Mon, 24 Aug 2026 00:00:00 -0400",
+      "score": 35,
+      "category": "research",
+      "weight": 7,
+      "format": "article",
+      "summary": "A new approach called Spec-Driven Agentic Development (SDAD) is transforming software development by leveraging AI with vast contextual understanding, redefining the SDLC through enhanced rich context handling and multi-step reasoning capabilities. This shift is crucial as it promises more efficient and sophisticated coding processes.",
+      "summary_detailed": "The paper \"Spec-Driven Agentic Development for the AI-Native SDLC\" introduces a new approach in software development where advanced coding agents, powered by large language models with extensive context windows, are redefining the Software Development Life Cycle. This innovation enables richer context handling and multi-step reasoning capabilities, potentially transforming how software is developed and managed. The broader impact could revolutionize traditional SDLC processes, enhancing efficiency and quality through AI-driven methodologies.",
+      "summary_bullets": "• SDAD restructures the Software Development Life Cycle (SDLC).\n• Uses frontier coding agents backed by large language models.\n• Context windows range from hundreds of thousands to millions of tokens.",
+      "sentiment": "neutral",
+      "keywords": [
+        "sdlc",
+        "ai-native",
+        "spec-driven",
+        "agentic",
+        "development",
+        "context-handling"
+      ],
+      "thumbnail": null,
+      "favicon": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=64",
+      "cluster_id": "8197cc17-b2af-592c-8430-1b1a202116d3",
+      "cluster_size": 1,
+      "cluster_topics": [
+        "development",
+        "sdlc",
+        "context",
+        "sdad",
+        "spec-driven"
+      ],
+      "geo_title": "Why is Spec-Driven Agentic Development Transforming AI-Native SDLC?",
+      "geo_keywords": [
+        "sdlc transformation",
+        "ai-driven software development",
+        "large language models in sldc",
+        "spec-driven agentic development",
+        "context-aware coding agents",
+        "multi-step reasoning in sldc",
+        "ai-native sd lifecycle",
+        "efficient software development with llm",
+        "how ai is changing sldc",
+        "what is agentic development in sldc"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "Why is Spec-Driven Agentic Development Transforming AI-Native SDLC?",
+        "url": "https://arxiv.org/abs/2608.20341",
+        "description": "A new approach called Spec-Driven Agentic Development (SDAD) is transforming software development by leveraging AI with vast contextual understanding, redefining the SDLC through enhanced rich context handling and multi-step reasoning capabilities. This shift is crucial as it promises more efficient and sophisticated coding processes.",
+        "keywords": "sdlc transformation, ai-driven software development, large language models in sldc, spec-driven agentic development, context-aware coding agents, multi-step reasoning in sldc, ai-native sd lifecycle, efficient software development with llm",
+        "datePublished": "Mon, 24 Aug 2026 00:00:00 -0400",
+        "dateModified": "Mon, 24 Aug 2026 00:00:00 -0400",
+        "author": {
+          "@type": "Organization",
+          "name": "ArXiv cs.AI",
+          "url": "https://arxiv.org"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "research",
+        "inLanguage": "en-US",
+        "wordCount": 44,
+        "articleBody": "A new approach called Spec-Driven Agentic Development (SDAD) is transforming software development by leveraging AI with vast contextual understanding, redefining the SDLC through enhanced rich context handling and multi-step reasoning capabilities. This shift is crucial as it promises more efficient and sophisticated coding processes."
+      }
+    },
+    {
+      "source_id": "arxiv_cs_ai",
+      "source_name": "ArXiv cs.AI",
+      "title": "PrimeAgentOrchestrator: Memory-Primed Agent Spawning for Personal AI Infrastructure",
+      "url": "https://arxiv.org/abs/2608.20342",
+      "description": "arXiv:2608.20342v1 Announce Type: new \nAbstract: Large language model (LLM) coding agents start each session with an empty context window, discarding accumulated knowledge from prior work. We present PrimeAgentOrchestrator (PAO), a system that spawns new instances of Claude Code -- Anthropic's termi",
+      "published": "Mon, 24 Aug 2026 00:00:00 -0400",
+      "score": 35,
+      "category": "research",
+      "weight": 7,
+      "format": "article",
+      "summary": "A new system called PrimeAgentOrchestrator (PAO) is introduced to spawn fresh instances of Claude Code, Anthropic’s coding agent, with retained knowledge from previous sessions, aiming to enhance the continuity and utility of personal AI infrastructure. This innovation addresses the limitations of existing agents that start each session with an empty context window, potentially improving their effectiveness and efficiency.",
+      "summary_detailed": "PrimeAgentOrchestrator (PAO) is a system designed to spawn new instances of Claude Code, Anthropic's coding agent, with retained knowledge from previous sessions. This approach contrasts with traditional large language models that start each session with an empty context window. The broader impact could enhance the efficiency and continuity of AI development tasks by leveraging accumulated insights across different coding sessions.",
+      "summary_bullets": "• PAO is designed to prime agent spawning for personal AI infrastructure.\n• It addresses the issue of LLM agents starting each session with an empty context window.\n• PAO aims to retain and utilize accumulated knowledge across sessions.",
+      "sentiment": "neutral",
+      "keywords": [
+        "primeagentorchestrator",
+        "memory-primed",
+        "agent spawning",
+        "personal ai",
+        "infrastructure"
+      ],
+      "thumbnail": null,
+      "favicon": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=64",
+      "cluster_id": "998223b5-9de2-558a-90c8-d1b58d67ea11",
+      "cluster_size": 1,
+      "cluster_topics": [
+        "primeagentorchestrator",
+        "memory-primed",
+        "spawning",
+        "infrastructure",
+        "start"
+      ],
+      "geo_title": "Why Is PrimeAgentOrchestrator Different for Personal AI?",
+      "geo_keywords": [
+        "primeagentorchestrator",
+        "memory-primed-agent-spawning",
+        "personal-ai-infrastructure",
+        "llm-coding-agents",
+        "anthropic-claude-code",
+        "ai-memory-conservation",
+        "how-to-improve-ai-efficiency",
+        "new-ai-systems-features"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "Why Is PrimeAgentOrchestrator Different for Personal AI?",
+        "url": "https://arxiv.org/abs/2608.20342",
+        "description": "A new system called PrimeAgentOrchestrator (PAO) is introduced to spawn fresh instances of Claude Code, Anthropic’s coding agent, with retained knowledge from previous sessions, aiming to enhance the continuity and utility of personal AI infrastructure. This innovation addresses the limitations of existing agents that start each session with an empty context window, potentially improving their effectiveness and efficiency.",
+        "keywords": "primeagentorchestrator, memory-primed-agent-spawning, personal-ai-infrastructure, llm-coding-agents, anthropic-claude-code, ai-memory-conservation, how-to-improve-ai-efficiency, new-ai-systems-features",
+        "datePublished": "Mon, 24 Aug 2026 00:00:00 -0400",
+        "dateModified": "Mon, 24 Aug 2026 00:00:00 -0400",
+        "author": {
+          "@type": "Organization",
+          "name": "ArXiv cs.AI",
+          "url": "https://arxiv.org"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "research",
+        "inLanguage": "en-US",
+        "wordCount": 58,
+        "articleBody": "A new system called PrimeAgentOrchestrator (PAO) is introduced to spawn fresh instances of Claude Code, Anthropic’s coding agent, with retained knowledge from previous sessions, aiming to enhance the continuity and utility of personal AI infrastructure. This innovation addresses the limitations of existing agents that start each session with an empty context window, potentially improving their effectiveness and efficiency."
+      }
+    },
+    {
+      "source_id": "arxiv_cs_ai",
+      "source_name": "ArXiv cs.AI",
+      "title": "Truth Lies Deep: Countering Semantic Camouflage via Latent Intent Verification",
+      "url": "https://arxiv.org/abs/2608.20378",
+      "description": "arXiv:2608.20378v1 Announce Type: new \nAbstract: Safety alignment in Large Language Models (LLMs) is often superficial, relying on refusal mechanisms that trigger only at the final stages of generation without erasing the foundational knowledge of harmful concepts acquired during pretraining. This s",
+      "published": "Mon, 24 Aug 2026 00:00:00 -0400",
+      "score": 35,
+      "category": "research",
+      "weight": 7,
+      "format": "article",
+      "summary": "The research highlights that current safety measures in Large Language Models are insufficient as they primarily rely on surface-level mechanisms that activate too late to prevent the models from retaining harmful knowledge. This matters because it underscores the need for more robust and proactive methods to align LLMs with ethical standards throughout their operation.",
+      "summary_detailed": "The research paper \"Truth Lies Deep: Countering Semantic Camouflage via Latent Intent Verification\" addresses the limitations of current safety measures in Large Language Models (LLMs), which often rely on superficial refusal mechanisms that only kick in late in the generation process, potentially allowing harmful content to be generated. The study highlights the need for more robust verification methods that can detect and prevent such content at an earlier stage by addressing latent intents underlying the text. This work has broader implications for enhancing the safety and ethical use of LLMs across various applications.",
+      "summary_bullets": "• Safety measures in LLMs are often superficial.\n• Refusal mechanisms activate late in the generation process.\n• These mechanisms do not erase pretraining knowledge of harmful concepts.",
+      "sentiment": "neutral",
+      "keywords": [
+        "large language models",
+        "safety alignment",
+        "semantic camouflage",
+        "latent intent verification",
+        "harmful concepts"
+      ],
+      "thumbnail": null,
+      "favicon": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=64",
+      "cluster_id": "a7b5346d-20d2-5a67-badd-9ae4bebb5aee",
+      "cluster_size": 1,
+      "cluster_topics": [
+        "truth",
+        "lies",
+        "deep",
+        "countering",
+        "semantic"
+      ],
+      "geo_title": "Why is safety alignment in LLMs often superficial?",
+      "geo_keywords": [
+        "large language models",
+        "safety alignment",
+        "semantic camouflage",
+        "latent intent verification",
+        "harmful concepts",
+        "deepfake detection",
+        "ethical ai",
+        "pretrained knowledge",
+        "intent analysis"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "Why is safety alignment in LLMs often superficial?",
+        "url": "https://arxiv.org/abs/2608.20378",
+        "description": "The research highlights that current safety measures in Large Language Models are insufficient as they primarily rely on surface-level mechanisms that activate too late to prevent the models from retaining harmful knowledge. This matters because it underscores the need for more robust and proactive methods to align LLMs with ethical standards throughout their operation.",
+        "keywords": "large language models, safety alignment, semantic camouflage, latent intent verification, harmful concepts, deepfake detection, ethical ai, pretrained knowledge",
+        "datePublished": "Mon, 24 Aug 2026 00:00:00 -0400",
+        "dateModified": "Mon, 24 Aug 2026 00:00:00 -0400",
+        "author": {
+          "@type": "Organization",
+          "name": "ArXiv cs.AI",
+          "url": "https://arxiv.org"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "research",
+        "inLanguage": "en-US",
+        "wordCount": 54,
+        "articleBody": "The research highlights that current safety measures in Large Language Models are insufficient as they primarily rely on surface-level mechanisms that activate too late to prevent the models from retaining harmful knowledge. This matters because it underscores the need for more robust and proactive methods to align LLMs with ethical standards throughout their operation."
+      }
+    },
+    {
+      "source_id": "arxiv_cs_ai",
+      "source_name": "ArXiv cs.AI",
+      "title": "A Survey on Foundations and Frontiers of Multimodal Agentic Frameworks: Techniques and Applications",
+      "url": "https://arxiv.org/abs/2608.20379",
+      "description": "arXiv:2608.20379v1 Announce Type: new \nAbstract: Advances in large language models (LLMs) have fueled a wave of research into agency: the ability to reason, plan, and act. This effort has produced agentic frameworks that orchestrate perception, memory, and decision-making around powerful LLM backbon",
+      "published": "Mon, 24 Aug 2026 00:00:00 -0400",
+      "score": 35,
+      "category": "research",
+      "weight": 7,
+      "format": "article",
+      "summary": "A recent survey explores advancements in agentic frameworks driven by large language models, focusing on how these systems integrate perception, memory, and decision-making to enhance reasoning and action capabilities. This research is crucial as it could lead to more sophisticated artificial intelligence applications with improved autonomy and adaptability.",
+      "summary_detailed": "A recent survey explores advancements in agentic frameworks, which integrate large language models (LLMs) for reasoning, planning, and action. Researchers from various institutions are involved in developing these frameworks to enhance perception, memory, and decision-making processes. The broader impact could lead to more sophisticated artificial intelligence systems capable of complex tasks and greater autonomy.",
+      "summary_bullets": "• Large language models drive advancements in agentic frameworks.\n• Agentic frameworks integrate perception, memory, and decision-making.\n• These frameworks aim to enhance reasoning and planning capabilities.",
+      "sentiment": "neutral",
+      "keywords": [
+        "large language models",
+        "agentic frameworks",
+        "perception",
+        "memory",
+        "decision-making"
+      ],
+      "thumbnail": null,
+      "favicon": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=64",
+      "cluster_id": "0e75521e-3479-510e-b201-92bc7b00fa5b",
+      "cluster_size": 1,
+      "cluster_topics": [
+        "frameworks",
+        "agentic",
+        "foundations",
+        "frontiers",
+        "techniques"
+      ],
+      "geo_title": "Why is research on agency with LLMs gaining momentum?",
+      "geo_keywords": [
+        "multimodal agentic frameworks",
+        "agency in artificial intelligence",
+        "large language models applications",
+        "decision-making techniques",
+        "perception and action in ai",
+        "agentic systems research",
+        "planning and reasoning in ai",
+        "multimodal learning and agency"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "Why is research on agency with LLMs gaining momentum?",
+        "url": "https://arxiv.org/abs/2608.20379",
+        "description": "A recent survey explores advancements in agentic frameworks driven by large language models, focusing on how these systems integrate perception, memory, and decision-making to enhance reasoning and action capabilities. This research is crucial as it could lead to more sophisticated artificial intelligence applications with improved autonomy and adaptability.",
+        "keywords": "multimodal agentic frameworks, agency in artificial intelligence, large language models applications, decision-making techniques, perception and action in ai, agentic systems research, planning and reasoning in ai, multimodal learning and agency",
+        "datePublished": "Mon, 24 Aug 2026 00:00:00 -0400",
+        "dateModified": "Mon, 24 Aug 2026 00:00:00 -0400",
+        "author": {
+          "@type": "Organization",
+          "name": "ArXiv cs.AI",
+          "url": "https://arxiv.org"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "research",
+        "inLanguage": "en-US",
+        "wordCount": 48,
+        "articleBody": "A recent survey explores advancements in agentic frameworks driven by large language models, focusing on how these systems integrate perception, memory, and decision-making to enhance reasoning and action capabilities. This research is crucial as it could lead to more sophisticated artificial intelligence applications with improved autonomy and adaptability."
+      }
+    },
+    {
+      "source_id": "arxiv_cs_ai",
+      "source_name": "ArXiv cs.AI",
+      "title": "Representation Affects Retrieval: A Case Study of Skill Discovery and Routing in a Multimodal Agent Harness",
+      "url": "https://arxiv.org/abs/2608.20389",
+      "description": "arXiv:2608.20389v1 Announce Type: new \nAbstract: A production agent harness must discover and rank, from a growing library of skills, the one most appropriate for a user's task. At small scale this selection happens in context: the LLM planner chooses among skill representations exposed in its syste",
+      "published": "Mon, 24 Aug 2026 00:00:00 -0400",
+      "score": 35,
+      "category": "research",
+      "weight": 7,
+      "format": "article",
+      "summary": "The study explores how representation impacts skill discovery and routing in multimodal agents, focusing on selecting the most suitable skill from a library for a given user task. This research is crucial as it enhances understanding of how agent systems can more effectively assist users by improving their ability to choose appropriate skills.",
+      "summary_detailed": "The study explores how representation influences skill discovery and routing within a multimodal agent framework. It focuses on selecting the most suitable skill from a growing library to address user tasks, particularly examining this process at small scale where language model planners choose skills based on available representations. The broader impact lies in enhancing the efficiency and accuracy of task execution by optimizing skill selection mechanisms in intelligent agents.",
+      "summary_bullets": "• The study examines how representation affects retrieval in multimodal agents.\n• It focuses on discovering and ranking skills suitable for users' tasks.\n• Selection occurs from a growing library of skills at small scale.\n• Context plays a crucial role in choosing among skill representations.",
+      "sentiment": "neutral",
+      "keywords": [
+        "representation",
+        "retrieval",
+        "skill discovery",
+        "routing",
+        "multimodal",
+        "agent harness"
+      ],
+      "thumbnail": null,
+      "favicon": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=64",
+      "cluster_id": "dc18f585-8a13-5e5a-93fc-71954c526a08",
+      "cluster_size": 1,
+      "cluster_topics": [
+        "skill",
+        "harness",
+        "agent",
+        "affects",
+        "discovery"
+      ],
+      "geo_title": "Why is representation crucial for skill discovery in multimodal agents?",
+      "geo_keywords": [
+        "representation affects retrieval",
+        "skill discovery and routing",
+        "multimodal agent harness",
+        "large language model planning",
+        "appropriate skill selection",
+        "context-aware skill discovery",
+        "optimizing skill selection for user tasks"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "Why is representation crucial for skill discovery in multimodal agents?",
+        "url": "https://arxiv.org/abs/2608.20389",
+        "description": "The study explores how representation impacts skill discovery and routing in multimodal agents, focusing on selecting the most suitable skill from a library for a given user task. This research is crucial as it enhances understanding of how agent systems can more effectively assist users by improving their ability to choose appropriate skills.",
+        "keywords": "representation affects retrieval, skill discovery and routing, multimodal agent harness, large language model planning, appropriate skill selection, context-aware skill discovery, optimizing skill selection for user tasks",
+        "datePublished": "Mon, 24 Aug 2026 00:00:00 -0400",
+        "dateModified": "Mon, 24 Aug 2026 00:00:00 -0400",
+        "author": {
+          "@type": "Organization",
+          "name": "ArXiv cs.AI",
+          "url": "https://arxiv.org"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "research",
+        "inLanguage": "en-US",
+        "wordCount": 53,
+        "articleBody": "The study explores how representation impacts skill discovery and routing in multimodal agents, focusing on selecting the most suitable skill from a library for a given user task. This research is crucial as it enhances understanding of how agent systems can more effectively assist users by improving their ability to choose appropriate skills."
+      }
+    },
+    {
+      "source_id": "arxiv_cs_ai",
+      "source_name": "ArXiv cs.AI",
+      "title": "Nexus: Depth-Adaptive KV-Cache Splicing and Retrieval-Decoupled Tool Routing for Agentic LLMs on Unified Memory",
+      "url": "https://arxiv.org/abs/2608.20397",
+      "description": "arXiv:2608.20397v1 Announce Type: new \nAbstract: Agentic large language models (LLMs) on the Model Context Protocol (MCP) re-encode verbose tool schemas every turn, so prefill - quadratic in sequence length - dominates time-to-first-token (TTFT) as the tool registry grows. Nexus's primary lever is t",
+      "published": "Mon, 24 Aug 2026 00:00:00 -0400",
+      "score": 35,
+      "category": "research",
+      "weight": 7,
+      "format": "article",
+      "summary": "Nexus introduces a depth-adaptive key-value cache and retrieval-decoupled tool routing to improve the efficiency of agentic large language models operating on the Model Context Protocol, addressing the issue of prefill time dominating due to growing tool registries. This innovation aims to reduce time-to-first-token (TTFT) by re-encoding fewer tool schemas each turn.",
+      "summary_detailed": "Nexus introduces a new approach for agentic large language models (LLMs) operating on the Model Context Protocol (MCP), focusing on reducing prefill time by splicing and retrieving cache adaptively based on depth, thereby improving time-to-first-token (TTFT). This method involves dynamic caching and tool routing to manage growing tool registries efficiently. The broader impact includes enhanced performance and scalability for agentic LLMs in handling complex tasks with increasing tool complexity.",
+      "summary_bullets": "• Agentic LLMs on MCP re-encode tool schemas each turn.\n• Prefill time dominates TTFT with growing tool registries.\n• Nexus uses depth-adaptive KV-cache splicing for efficiency.\n• Retrieval-decoupled tool routing further enhances performance.",
+      "sentiment": "neutral",
+      "keywords": [
+        "depth-adaptive",
+        "kv-cache",
+        "splicing",
+        "retrieval-decoupled",
+        "tool-routing",
+        "unified-memory",
+        "agentic",
+        "llms",
+        "mcp"
+      ],
+      "thumbnail": null,
+      "favicon": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=64",
+      "cluster_id": "a72bfe25-766a-56ba-8e0a-3a3c2b27fcae",
+      "cluster_size": 1,
+      "cluster_topics": [
+        "tool",
+        "nexus",
+        "agentic",
+        "llms",
+        "depth-adaptive"
+      ],
+      "geo_title": "Why is Nexus designed for agentic LLMs on MCP?",
+      "geo_keywords": [
+        "depth-adaptive kvcache",
+        "splicing techniques",
+        "retrieval decoupled routing",
+        "agentic llm optimization",
+        "model context protocol",
+        "ttft reduction",
+        "llm tool schema re-encoding",
+        "unified memory management"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "Why is Nexus designed for agentic LLMs on MCP?",
+        "url": "https://arxiv.org/abs/2608.20397",
+        "description": "Nexus introduces a depth-adaptive key-value cache and retrieval-decoupled tool routing to improve the efficiency of agentic large language models operating on the Model Context Protocol, addressing the issue of prefill time dominating due to growing tool registries. This innovation aims to reduce time-to-first-token (TTFT) by re-encoding fewer tool schemas each turn.",
+        "keywords": "depth-adaptive kvcache, splicing techniques, retrieval decoupled routing, agentic llm optimization, model context protocol, ttft reduction, llm tool schema re-encoding, unified memory management",
+        "datePublished": "Mon, 24 Aug 2026 00:00:00 -0400",
+        "dateModified": "Mon, 24 Aug 2026 00:00:00 -0400",
+        "author": {
+          "@type": "Organization",
+          "name": "ArXiv cs.AI",
+          "url": "https://arxiv.org"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "research",
+        "inLanguage": "en-US",
+        "wordCount": 51,
+        "articleBody": "Nexus introduces a depth-adaptive key-value cache and retrieval-decoupled tool routing to improve the efficiency of agentic large language models operating on the Model Context Protocol, addressing the issue of prefill time dominating due to growing tool registries. This innovation aims to reduce time-to-first-token (TTFT) by re-encoding fewer tool schemas each turn."
+      }
+    },
+    {
+      "source_id": "arxiv_cs_ai",
+      "source_name": "ArXiv cs.AI",
+      "title": "Environmental Slow AI: Design Principles for Generative Systems",
+      "url": "https://arxiv.org/abs/2608.20398",
+      "description": "arXiv:2608.20398v1 Announce Type: new \nAbstract: Generative AI (genAI) systems produce cultural artefacts at scale, but they also reflect embedded cultural values through their design. Once identified, these values become open to deliberate reshaping. This position paper examines the maximalist valu",
+      "published": "Mon, 24 Aug 2026 00:00:00 -0400",
+      "score": 35,
+      "category": "research",
+      "weight": 7,
+      "format": "article",
+      "summary": "A new position paper proposes design principles for generative AI systems that address and reshape embedded cultural values, aiming to mitigate environmental impacts and promote more sustainable practices in AI-generated content. This work is crucial as genAI systems increasingly influence culture and society at large, highlighting the need for ethical considerations in their development.",
+      "summary_detailed": "This position paper explores the development of environmental principles for generative AI (genAI) systems that produce large-scale cultural artifacts. It highlights how genAI reflects underlying cultural values and proposes methods for intentionally redefining these values to promote more sustainable outcomes. The broader impact aims to guide the ethical design and use of genAI in a way that aligns with environmental goals.",
+      "summary_bullets": "• GenAI systems create large-scale cultural artifacts.\n• They embody and reflect underlying cultural values.\n• These values can be intentionally modified once recognized.\n• The paper explores principles for reshaping genAI designs.",
+      "sentiment": "neutral",
+      "keywords": [
+        "environmental",
+        "slow ai",
+        "generative",
+        "design",
+        "principles",
+        "cultural",
+        "artefacts",
+        "values",
+        "reshaping"
+      ],
+      "thumbnail": null,
+      "favicon": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=64",
+      "cluster_id": "2ecaeccc-8bb3-50d0-9477-b22b44242361",
+      "cluster_size": 1,
+      "cluster_topics": [
+        "design",
+        "cultural",
+        "values",
+        "generative",
+        "systems"
+      ],
+      "geo_title": "Why is environmental impact crucial in designing genAI systems?",
+      "geo_keywords": [
+        "environmental slow ai",
+        "generative design principles",
+        "genai cultural values",
+        "maximalist valuation design",
+        "sustainable generative systems",
+        "ethical ai design",
+        "scalable generative art",
+        "ai culture impact"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "Why is environmental impact crucial in designing genAI systems?",
+        "url": "https://arxiv.org/abs/2608.20398",
+        "description": "A new position paper proposes design principles for generative AI systems that address and reshape embedded cultural values, aiming to mitigate environmental impacts and promote more sustainable practices in AI-generated content. This work is crucial as genAI systems increasingly influence culture and society at large, highlighting the need for ethical considerations in their development.",
+        "keywords": "environmental slow ai, generative design principles, genai cultural values, maximalist valuation design, sustainable generative systems, ethical ai design, scalable generative art, ai culture impact",
+        "datePublished": "Mon, 24 Aug 2026 00:00:00 -0400",
+        "dateModified": "Mon, 24 Aug 2026 00:00:00 -0400",
+        "author": {
+          "@type": "Organization",
+          "name": "ArXiv cs.AI",
+          "url": "https://arxiv.org"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "research",
+        "inLanguage": "en-US",
+        "wordCount": 54,
+        "articleBody": "A new position paper proposes design principles for generative AI systems that address and reshape embedded cultural values, aiming to mitigate environmental impacts and promote more sustainable practices in AI-generated content. This work is crucial as genAI systems increasingly influence culture and society at large, highlighting the need for ethical considerations in their development."
+      }
+    }
+  ],
+  "enriched": true,
+  "enriched_at": "2026-08-24T09:02:18.179043+00:00",
+  "enricher_model": "qwen2.5-7b",
+  "clustered": true,
+  "clustered_at": "2026-08-24T09:02:18.337405+00:00",
+  "cluster_threshold": 0.3,
+  "geo_metadata": {
+    "date": "2026-08-24",
+    "generated_at": "2026-08-24T09:03:09.831699+00:00",
+    "schemas_generated": 30,
+    "topics": [
+      "academic credibility assessment",
+      "accessibility of multilingual corpora",
+      "accurate value representation",
+      "addressing cascading errors",
+      "advanced social modeling",
+      "agency in artificial intelligence",
+      "agent harness",
+      "agent spawning",
+      "agentic",
+      "agentic frameworks",
+      "agentic llm optimization",
+      "agentic systems research",
+      "ai",
+      "ai culture impact",
+      "ai development tools",
+      "ai in healthcare",
+      "ai in radiology",
+      "ai job portal scanner",
+      "ai model accuracy",
+      "ai safety for children",
+      "ai search engine discovery",
+      "ai-driven research",
+      "ai-driven software development",
+      "ai-driven speech resources for telecommunications",
+      "ai-memory-conservation",
+      "ai-native",
+      "ai-native sd lifecycle",
+      "anthropic-claude-code",
+      "application tracking ai",
+      "appropriate skill selection",
+      "artefacts",
+      "associations",
+      "atis",
+      "atis clinc150 comparison",
+      "attestation",
+      "attestation update",
+      "attestations",
+      "audio-text pair creation for telecom",
+      "audio-text pairs",
+      "audit",
+      "automated research",
+      "b10595 release",
+      "backend",
+      "backend technologies",
+      "behavioral bias",
+      "behavioral bias evaluation",
+      "benchmark",
+      "bengali",
+      "bengali speech synthesis",
+      "beyond raw transcripts"
+    ],
+    "faq_items": [
+      {
+        "question": "What is the open-source AI job search tool about?",
+        "answer": "The open-source AI job search tool scans job portals, categorizes listings into an A-H report with a global 1-5 score to help users evaluate AI-related job opportunities."
+      },
+      {
+        "question": "Are there any recent updates on ggml/llama.cpp releases?",
+        "answer": "Yes, there have been several recent ggml/llama.cpp releases including versions b10603, b10599, b10598, and b10595, each bringing updates and improvements to the project."
+      },
+      {
+        "question": "How does Beyond Raw Transcripts help with structured persona extraction?",
+        "answer": "Beyond Raw Transcripts provides methods for extracting structured personas from raw transcripts using LLM-based digital twins, enhancing the efficiency and accuracy of data processing."
+      },
+      {
+        "question": "What are the safety risks associated with therapy bots according to recent studies?",
+        "answer": "Recent studies highlight that when vocabulary comprehension fails, therapy bots may pose safety risks for Generation Alpha by potentially leading to incorrect or harmful clinical reasoning."
+      },
+      {
+        "question": "Can you explain the open-source AI job search tool's evaluation process?",
+        "answer": "The open-source AI job search tool evaluates AI job listings by scanning various portals and providing a structured A-H report with a 1-5 global score, helping users identify the most promising opportunities."
+      }
+    ]
+  },
+  "geo_enriched": true,
+  "geo_enriched_at": "2026-08-24T09:03:09.831699+00:00"
+}
