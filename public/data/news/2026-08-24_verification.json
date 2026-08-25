@@ -1,12 +1,56 @@
 {
   "date": "2026-08-24",
-  "generated_at": "2026-08-25T05:00:08.564101+00:00",
+  "generated_at": "2026-08-25T09:03:03.657311+00:00",
   "results": {
+    "openai_blog": {
+      "verification_status": "verified",
+      "sources_count": 2,
+      "sources": [
+        "OpenAI Blog",
+        "GitHub Trending — AI Agents"
+      ]
+    },
     "trending_agent": {
+      "verification_status": "verified",
+      "sources_count": 2,
+      "sources": [
+        "OpenAI Blog",
+        "GitHub Trending — AI Agents"
+      ]
+    },
+    "hn_ai_24h": {
       "verification_status": "unconfirmed",
       "sources_count": 1,
       "sources": [
-        "GitHub Trending — AI Agents"
+        "HN top AI 24h"
+      ]
+    },
+    "hn_llm_24h": {
+      "verification_status": "unconfirmed",
+      "sources_count": 1,
+      "sources": [
+        "HN top LLM 24h"
+      ]
+    },
+    "mistral_blog": {
+      "verification_status": "unconfirmed",
+      "sources_count": 1,
+      "sources": [
+        "Mistral AI"
+      ]
+    },
+    "import_ai": {
+      "verification_status": "unconfirmed",
+      "sources_count": 1,
+      "sources": [
+        "Import AI (Jack Clark)"
+      ]
+    },
+    "ggml_releases": {
+      "verification_status": "unconfirmed",
+      "sources_count": 1,
+      "sources": [
+        "ggml/llama.cpp releases"
       ]
     },
     "arxiv_cs_cl": {

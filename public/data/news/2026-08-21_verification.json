@@ -1,42 +1,7 @@
 {
   "date": "2026-08-21",
-  "generated_at": "2026-08-25T05:00:08.564101+00:00",
+  "generated_at": "2026-08-25T09:03:03.658310+00:00",
   "results": {
-    "hn_show_ai_7d": {
-      "verification_status": "unconfirmed",
-      "sources_count": 1,
-      "sources": [
-        "Show HN AI 7d"
-      ]
-    },
-    "deepmind_blog": {
-      "verification_status": "unconfirmed",
-      "sources_count": 1,
-      "sources": [
-        "DeepMind Blog"
-      ]
-    },
-    "trending_ai": {
-      "verification_status": "unconfirmed",
-      "sources_count": 1,
-      "sources": [
-        "GitHub Trending — AI"
-      ]
-    },
-    "nousresearch_releases": {
-      "verification_status": "unconfirmed",
-      "sources_count": 1,
-      "sources": [
-        "NousResearch releases"
-      ]
-    },
-    "hn_ai_24h": {
-      "verification_status": "unconfirmed",
-      "sources_count": 1,
-      "sources": [
-        "HN top AI 24h"
-      ]
-    },
     "ollama_releases": {
       "verification_status": "unconfirmed",
       "sources_count": 1,
@@ -44,39 +9,11 @@
         "Ollama releases"
       ]
     },
-    "hn_llm_24h": {
+    "hn_show_ai_7d": {
       "verification_status": "unconfirmed",
       "sources_count": 1,
       "sources": [
-        "HN top LLM 24h"
-      ]
-    },
-    "latent_space": {
-      "verification_status": "unconfirmed",
-      "sources_count": 1,
-      "sources": [
-        "Latent Space (Substack)"
-      ]
-    },
-    "ggml_releases": {
-      "verification_status": "unconfirmed",
-      "sources_count": 1,
-      "sources": [
-        "ggml/llama.cpp releases"
-      ]
-    },
-    "mit_technology_review_ai": {
-      "verification_status": "unconfirmed",
-      "sources_count": 1,
-      "sources": [
-        "MIT Technology Review AI"
-      ]
-    },
-    "marktechpost": {
-      "verification_status": "unconfirmed",
-      "sources_count": 1,
-      "sources": [
-        "MarkTechPost"
+        "Show HN AI 7d"
       ]
     }
   }
