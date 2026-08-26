@@ -1,6 +1,6 @@
 {
   "date": "2026-08-25",
-  "generated_at": "2026-08-26T09:03:09.820420+00:00",
+  "generated_at": "2026-08-26T13:00:07.145134+00:00",
   "results": {
     "openai_blog": {
       "verification_status": "unconfirmed",
@@ -41,16 +41,16 @@
       "verification_status": "verified",
       "sources_count": 2,
       "sources": [
-        "HN top LLM 24h",
-        "Latent Space (Substack)"
+        "Latent Space (Substack)",
+        "HN top LLM 24h"
       ]
     },
     "latent_space": {
       "verification_status": "verified",
       "sources_count": 2,
       "sources": [
-        "HN top LLM 24h",
-        "Latent Space (Substack)"
+        "Latent Space (Substack)",
+        "HN top LLM 24h"
       ]
     },
     "ggml_releases": {
