@@ -1,47 +1,12 @@
 {
   "date": "2026-08-20",
-  "generated_at": "2026-08-24T05:00:04.925647+00:00",
+  "generated_at": "2026-08-27T09:02:57.063270+00:00",
   "results": {
     "openai_blog": {
       "verification_status": "unconfirmed",
       "sources_count": 1,
       "sources": [
         "OpenAI Blog"
-      ]
-    },
-    "trending_agent": {
-      "verification_status": "unconfirmed",
-      "sources_count": 1,
-      "sources": [
-        "GitHub Trending — AI Agents"
-      ]
-    },
-    "hn_llm_24h": {
-      "verification_status": "unconfirmed",
-      "sources_count": 1,
-      "sources": [
-        "HN top LLM 24h"
-      ]
-    },
-    "hn_ai_24h": {
-      "verification_status": "unconfirmed",
-      "sources_count": 1,
-      "sources": [
-        "HN top AI 24h"
-      ]
-    },
-    "mistral_blog": {
-      "verification_status": "unconfirmed",
-      "sources_count": 1,
-      "sources": [
-        "Mistral AI"
-      ]
-    },
-    "latent_space": {
-      "verification_status": "unconfirmed",
-      "sources_count": 1,
-      "sources": [
-        "Latent Space (Substack)"
       ]
     }
   }
