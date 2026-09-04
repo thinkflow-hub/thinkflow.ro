@@ -80,15 +80,14 @@ export default function HomePage() {
   const [pipelineRef, pipelineVisible] = useScrollReveal(0.1);
   const [statsRef, statsVisible] = useScrollReveal(0.3);
 
-  // Real numbers, not placeholders -- verified 2026-07-28 against
-  // public/data/news/*.json (1,826 items summed across 69 daily archives)
-  // and news_graph.json (376 edges, live knowledge graph). Update these
-  // periodically as the archive grows; do not restore round/invented figures.
+  // Banda de dovezi: doar cifre verificabile public, toate din studiul de caz
+  // publicat (blog/2026-cloud-exit-guide-aws-hetzner) sau numărabile pe site.
+  // Nu introduce cifre rotunde/inventate — regula B5 din criteriile de conținut.
   const stats = [
-    { value: 1826, suffix: "+", label: t("home.statsOps") },
-    { value: 4, prefix: "2-", suffix: " weeks", label: t("home.statsDelivery") },
-    { value: 376, suffix: "+", label: t("home.statsSpeed") },
-    { value: 100, suffix: "%", label: t("home.statsSovereignty") },
+    { value: 86, suffix: "%", label: t("home.proofBill") },
+    { value: 377, prefix: "$", suffix: t("home.proofPerMonth"), label: t("home.proofAfter") },
+    { value: 145, suffix: " ms", label: t("home.proofLatency") },
+    { value: 15, suffix: "+", label: t("home.proofArticles") },
   ];
 
   return (
