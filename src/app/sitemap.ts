@@ -7,6 +7,15 @@ const staticRoutes = [
   "", "/about", "/contact", "/terms", "/privacy",
   "/affiliate-disclosure", "/media-kit", "/services", "/blog", "/news",
   "/raport-site",
+  // Paginile de detaliu ale serviciilor ACTIVE lipseau complet din sitemap
+  // (gol istoric, găsit 04.09). Doar catalogul curent — paginile delistate
+  // rămân live dar nu le mai promovăm la indexare.
+  "/services/cloud-cost-migration-audit",
+  "/services/website-care",
+  "/services/clipping",
+  "/services/python-automation",
+  "/services/fiverr-automation",
+  "/services/ai-voice-agent",
 ];
 
 // localePrefix "as-needed": the default locale (en) has no prefix, every
