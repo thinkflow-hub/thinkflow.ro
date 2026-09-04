@@ -2,6 +2,7 @@ import type { Metadata } from "next";
 import { getTranslations, getLocale } from "next-intl/server";
 import { getAllPosts, getCategories } from "@/lib/posts";
 import BlogContent from "@/components/BlogContent";
+import { localeAlternates } from "@/lib/seo";
 
 export async function generateMetadata({ params }: { params: Promise<{ locale: string }> }): Promise<Metadata> {
   const { locale } = await params;
@@ -9,6 +10,7 @@ export async function generateMetadata({ params }: { params: Promise<{ locale: s
   return {
     title: t("blog.title"),
     description: t("blog.description"),
+    alternates: localeAlternates(locale, "/blog"),
   };
 }
 

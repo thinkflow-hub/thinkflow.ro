@@ -2,11 +2,16 @@ import type { Metadata } from "next";
 import { getTranslations } from "next-intl/server";
 import PageHeader from "@/components/PageHeader";
 import SiteReportForm from "@/components/SiteReportForm";
+import { localeAlternates } from "@/lib/seo";
 
 export async function generateMetadata({ params }: { params: Promise<{ locale: string }> }): Promise<Metadata> {
   const { locale } = await params;
   const t = await getTranslations({ locale });
-  return { title: t("siteReport.title"), description: t("siteReport.description") };
+  return {
+    title: t("siteReport.title"),
+    description: t("siteReport.description"),
+    alternates: localeAlternates(locale, "/raport-site"),
+  };
 }
 
 export default async function SiteReportPage({ params }: { params: Promise<{ locale: string }> }) {

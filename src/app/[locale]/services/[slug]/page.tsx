@@ -2,6 +2,7 @@ import type { Metadata } from "next";
 import { getTranslations } from "next-intl/server";
 import { Link } from "@/i18n/navigation";
 import TrackedLink from "@/components/TrackedLink";
+import { localeAlternates } from "@/lib/seo";
 
 const SLUG_TO_KEY: Record<string, string> = {
   "private-ai-infrastructure": "privateAi",
@@ -26,7 +27,11 @@ export async function generateMetadata({ params }: { params: Promise<{ slug: str
   const t = await getTranslations({ locale });
   const key = SLUG_TO_KEY[slug];
   if (!key) return { title: t("services.notFound.title") };
-  return { title: t(`services.detail.${key}.title`), description: t(`services.detail.${key}.desc`) };
+  return {
+    title: t(`services.detail.${key}.title`),
+    description: t(`services.detail.${key}.desc`),
+    alternates: localeAlternates(locale, `/services/${slug}`),
+  };
 }
 
 export default async function ServicePage({ params }: { params: Promise<{ slug: string; locale: string }> }) {

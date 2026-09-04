@@ -3,11 +3,12 @@ import { getTranslations } from "next-intl/server";
 import { Link } from "@/i18n/navigation";
 import PageHeader from "@/components/PageHeader";
 import TrackedLink from "@/components/TrackedLink";
+import { localeAlternates } from "@/lib/seo";
 
 export async function generateMetadata({ params }: { params: Promise<{ locale: string }> }): Promise<Metadata> {
   const { locale } = await params;
   const t = await getTranslations({ locale });
-  return { title: t("services.title") };
+  return { title: t("services.title"), alternates: localeAlternates(locale, "/services") };
 }
 
 // Catalogul restrâns la cele 5 servicii active + agentul vocal (decizie operator 2026-09-04).
