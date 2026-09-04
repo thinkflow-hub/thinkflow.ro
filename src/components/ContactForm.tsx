@@ -1,6 +1,6 @@
 "use client";
 
-import { useState, FormEvent } from "react";
+import { useState, useEffect, FormEvent } from "react";
 import { useLocale, useTranslations } from "next-intl";
 import { Link } from "@/i18n/navigation";
 import { useAttribution } from "@/lib/attribution";
@@ -10,6 +10,15 @@ export default function ContactForm() {
   const locale = useLocale();
   const attribution = useAttribution();
   const [status, setStatus] = useState<"idle" | "sending" | "success" | "error">("idle");
+  const [subject, setSubject] = useState("");
+
+  // Paginile de serviciu trimit ?subject=<numele serviciului>, ca fiecare cerere
+  // să fie atribuibilă unui serviciu în Supabase. Citit după mount, nu la SSR —
+  // pagina rămâne statică și nu există mismatch de hidratare.
+  useEffect(() => {
+    const fromUrl = new URLSearchParams(window.location.search).get("subject");
+    if (fromUrl) setSubject(fromUrl);
+  }, []);
 
   async function handleSubmit(e: FormEvent<HTMLFormElement>) {
     e.preventDefault();
@@ -86,6 +95,8 @@ export default function ContactForm() {
           id="subject"
           name="subject"
           required
+          value={subject}
+          onChange={(e) => setSubject(e.target.value)}
           className="w-full border border-white/10 bg-white/5 px-4 py-3 text-sm text-white placeholder-zinc-600 font-montserrat-regular outline-none transition-colors focus:border-[#3b82f6]"
           placeholder={t("contact.subjectPlaceholder")}
         />

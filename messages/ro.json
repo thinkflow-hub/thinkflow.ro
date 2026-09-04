@@ -754,5 +754,42 @@
     "en": "EN",
     "ro": "RO",
     "minutes": "{n} min"
+  },
+  "siteReport": {
+    "title": "Raport gratuit: starea tehnică a site-ului tău",
+    "badge": "GRATUIT · FĂRĂ OBLIGAȚII",
+    "description": "Ne dai adresa site-ului și primești în 24 de ore lucrătoare un raport scurt și concret: viteza pe mobil, securitatea, problemele vizibile — și ce se poate repara ușor. Fără jargon, fără vânzare deghizată în diagnostic.",
+    "checkTitle": "Ce verificăm",
+    "checkItems": [
+      "Viteza de încărcare pe mobil (nota ta Google PageSpeed)",
+      "Certificatul de securitate — valid, aproape de expirare sau lipsă",
+      "Versiunea platformei și dacă expune riscuri cunoscute",
+      "Erori vizibile: elemente stricate, conținut încărcat nesigur, probleme de afișare"
+    ],
+    "getTitle": "Ce primești",
+    "getItems": [
+      "3-4 constatări concrete, pe limba ta",
+      "Pentru fiecare: cât e de gravă și cum se repară",
+      "Livrat pe email în cel mult 24 de ore lucrătoare"
+    ],
+    "notTitle": "Ce NU facem",
+    "notItems": [
+      "Nu instalăm nimic și nu cerem parole",
+      "Ne uităm doar la ce e public vizibil — ca orice vizitator",
+      "Nu te sunăm dacă nu ne ceri tu"
+    ],
+    "formName": "Numele tău",
+    "formNamePlaceholder": "Prenume și nume",
+    "formEmail": "Email",
+    "formEmailPlaceholder": "Unde trimitem raportul",
+    "formSite": "Adresa site-ului",
+    "formSitePlaceholder": "ex. www.firma-ta.ro",
+    "cta": "Trimite-mi raportul",
+    "sending": "Se trimite...",
+    "success": "Am primit cererea. Raportul ajunge în inboxul tău în cel mult 24 de ore lucrătoare.",
+    "successHint": "Verifică și spam-ul, pentru orice eventualitate — expeditorul e contact@thinkflow.ro.",
+    "error": "Ceva n-a mers. Mai încearcă o dată sau scrie-ne la contact@thinkflow.ro.",
+    "subjectPrefix": "Raport gratuit site",
+    "messagePrefix": "Cerere de raport de sănătate pentru site-ul"
   }
 }

@@ -6,6 +6,7 @@ import { routing } from "@/i18n/routing";
 const staticRoutes = [
   "", "/about", "/contact", "/terms", "/privacy",
   "/affiliate-disclosure", "/media-kit", "/services", "/blog", "/news",
+  "/raport-site",
 ];
 
 // localePrefix "as-needed": the default locale (en) has no prefix, every

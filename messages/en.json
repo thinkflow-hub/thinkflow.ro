@@ -754,5 +754,42 @@
     "en": "EN",
     "ro": "RO",
     "minutes": "{n} min"
+  },
+  "siteReport": {
+    "title": "Free report: the technical health of your website",
+    "badge": "FREE · NO STRINGS",
+    "description": "Give us your website address and within 24 working hours you get a short, concrete report: mobile speed, security, visible problems — and what can be fixed easily. No jargon, no sales pitch dressed up as a diagnosis.",
+    "checkTitle": "What we check",
+    "checkItems": [
+      "Mobile loading speed (your Google PageSpeed score)",
+      "Security certificate — valid, expiring, or missing",
+      "Platform version and whether it exposes known risks",
+      "Visible errors: broken elements, insecurely loaded content, layout issues"
+    ],
+    "getTitle": "What you get",
+    "getItems": [
+      "3-4 concrete findings, in plain language",
+      "For each one: how serious it is and how it gets fixed",
+      "Delivered by email within 24 working hours"
+    ],
+    "notTitle": "What we don't do",
+    "notItems": [
+      "We don't install anything and we don't ask for passwords",
+      "We only look at what's publicly visible — like any visitor",
+      "We don't call you unless you ask us to"
+    ],
+    "formName": "Your name",
+    "formNamePlaceholder": "First and last name",
+    "formEmail": "Email",
+    "formEmailPlaceholder": "Where we send the report",
+    "formSite": "Website address",
+    "formSitePlaceholder": "e.g. www.yourcompany.com",
+    "cta": "Send me the report",
+    "sending": "Sending...",
+    "success": "Request received. The report lands in your inbox within 24 working hours.",
+    "successHint": "Check spam too, just in case — the sender is contact@thinkflow.ro.",
+    "error": "Something went wrong. Please try again, or write to contact@thinkflow.ro.",
+    "subjectPrefix": "Free site report",
+    "messagePrefix": "Site health report request for"
   }
 }

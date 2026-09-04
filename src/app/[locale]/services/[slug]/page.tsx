@@ -98,7 +98,7 @@ export default async function ServicePage({ params }: { params: Promise<{ slug: 
 
       <div className="mt-8 text-center">
         <TrackedLink
-          href="/contact"
+          href={`/contact?subject=${encodeURIComponent(title)}`}
           kind="cta_click"
           slug={slug}
           className="glass-button inline-flex items-center gap-2 px-10 py-4 text-white font-montserrat-bold text-sm uppercase tracking-[0.25em]"
