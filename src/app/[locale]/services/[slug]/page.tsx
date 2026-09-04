@@ -12,6 +12,9 @@ const SLUG_TO_KEY: Record<string, string> = {
   "copywriting-b2b": "copywritingB2b",
   "fiverr-automation": "fiverrAutomation",
   "python-automation": "pythonAutomation",
+  "website-care": "websiteCare",
+  "clipping": "clipping",
+  "ai-voice-agent": "aiVoiceAgent",
 };
 
 export function generateStaticParams() {

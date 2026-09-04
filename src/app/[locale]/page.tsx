@@ -6,15 +6,14 @@ import { useScrollReveal } from "@/hooks/useScrollReveal";
 import { useCountUp } from "@/hooks/useCountUp";
 import { track } from "@/lib/track";
 
+// Catalogul restrâns la cele 5 servicii active + agentul vocal (decizie operator 2026-09-04).
 const services = [
-  { slug: "private-ai-infrastructure", href: "/services/private-ai-infrastructure" },
-  { slug: "web-development", href: "/services/web-development" },
-  { slug: "technical-consulting", href: "/services/technical-consulting" },
   { slug: "cloud-cost-migration-audit", href: "/services/cloud-cost-migration-audit" },
-  { slug: "seo-geo-content", href: "/services/seo-geo-content" },
-  { slug: "copywriting-b2b", href: "/services/copywriting-b2b" },
+  { slug: "website-care", href: "/services/website-care" },
+  { slug: "clipping", href: "/services/clipping" },
   { slug: "python-automation", href: "/services/python-automation" },
   { slug: "fiverr-automation", href: "https://fiverr.com/thinkflow_ro", external: true },
+  { slug: "ai-voice-agent", href: "/services/ai-voice-agent" },
 ];
 
 const archNodeSlugs = ["router", "analyzer", "strategist", "writer", "memory", "reviewer"] as const;
@@ -76,7 +75,7 @@ export default function HomePage() {
     desc: t(`home.archNodes.${slug}.desc`),
     subtitle: t(`home.archNodes.${slug}.subtitle`),
   }));
-  const [heroRef, heroVisible] = useScrollReveal(0.01);
+  const [heroRef] = useScrollReveal(0.01);
   const [servicesRef, servicesVisible] = useScrollReveal(0.1);
   const [pipelineRef, pipelineVisible] = useScrollReveal(0.1);
   const [statsRef, statsVisible] = useScrollReveal(0.3);
@@ -104,7 +103,9 @@ export default function HomePage() {
       >
         <div className="absolute w-[800px] h-[800px] top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 rounded-full opacity-15 bg-[radial-gradient(circle,#3b82f6,transparent_70%)] blur-[160px] animate-pulse pointer-events-none" />
         <div className="max-w-7xl w-full flex flex-col items-center">
-          <div className={`text-4xl md:text-6xl lg:text-[85px] font-montserrat-bold tracking-tighter leading-[0.85] mb-12 uppercase flex flex-col items-center ${heroVisible ? "animate-fade-in-up" : "opacity-0"}`}>
+          {/* Hero-ul e mereu deasupra fold-ului: animația pornește din CSS la load,
+              fără să aștepte hidratarea + IntersectionObserver (LCP-ul era blocat în opacity-0). */}
+          <div className="text-4xl md:text-6xl lg:text-[85px] font-montserrat-bold tracking-tighter leading-[0.85] mb-12 uppercase flex flex-col items-center animate-fade-in-up">
             {t("home.heroTitle").split("\n").map((line, li) => (
               <div key={li} className="flex flex-wrap justify-center gap-x-[0.3em] py-2">
                 {line.split(" ").map((word, wi) => (
@@ -122,12 +123,12 @@ export default function HomePage() {
               </div>
             ))}
           </div>
-          <div className={`max-w-2xl mx-auto mb-[54px] ${heroVisible ? "animate-fade-in-up" : "opacity-0"}`} style={{ animationDelay: "0.2s" }}>
+          <div className="max-w-2xl mx-auto mb-[54px] animate-fade-in-up" style={{ animationDelay: "0.2s" }}>
             <p className="text-base md:text-xl text-white/50 font-montserrat-bold uppercase tracking-widest leading-[1.6]">
               {t("home.heroSubtitle")}
             </p>
           </div>
-          <div className={`flex flex-col sm:flex-row gap-6 justify-center ${heroVisible ? "animate-fade-in-up" : "opacity-0"}`} style={{ animationDelay: "0.3s" }}>
+          <div className="flex flex-col sm:flex-row gap-6 justify-center animate-fade-in-up" style={{ animationDelay: "0.3s" }}>
             <ShimmerButton href="/contact">{t("home.cta")}</ShimmerButton>
             <OutlineButton href="#architecture">{t("home.ctaAlt")}</OutlineButton>
           </div>

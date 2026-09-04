@@ -14,13 +14,13 @@
     "contact": "Contact"
   },
   "header": {
-    "sota": "SOTA",
-    "tagline": "PREMIUM AI INFRASTRUCTURE",
+    "sota": "SYSTEMS",
+    "tagline": "BUILT ONCE. WORKING DAILY.",
     "toggleMenu": "Toggle menu"
   },
   "home": {
-    "heroTitle": "YOUR TIME IS FINITE.\nYOUR INFRASTRUCTURE IS LIMITLESS.",
-    "heroSubtitle": "Move beyond hourly billing to delivery through autonomous systems. We sell private code, not generic chatbots.",
+    "heroTitle": "YOUR TIME IS FINITE.\nYOUR SYSTEMS SHOULDN'T SLEEP.",
+    "heroSubtitle": "Cloud cost audits, website care, short-form clipping and Python automation — delivered by systems, with one accountable person you can actually reach.",
     "cta": "Check Eligibility",
     "ctaAlt": "Explore Architecture",
     "coreMaterial": "THE CORE MATERIAL.",
@@ -229,6 +229,21 @@
         "title": "Fiverr Automation",
         "price": "EUR 50-500/gig",
         "desc": "Listed on Fiverr with 2-5 day delivery. Web scraping, API integrations, browser automation."
+      },
+      "website-care": {
+        "title": "Website Creation & Care",
+        "price": "From EUR 1,500 · care from EUR 60/mo",
+        "desc": "Fast site builds plus monthly care: updates, restore-tested backups, daily monitoring, plain-language reports."
+      },
+      "clipping": {
+        "title": "Short-Form Clipping",
+        "price": "Pilot $75 one-time (3 clips) · plans from $290/mo",
+        "desc": "Ready-to-post clips from your long episodes — captions, hooks, per-platform formats. First sample batch free."
+      },
+      "ai-voice-agent": {
+        "title": "AI Voice Agent",
+        "price": "Early access",
+        "desc": "A phone agent that calls and answers in natural Romanian. In development — waitlist open."
       }
     },
     "list": {
@@ -271,6 +286,21 @@
         "title": "Fiverr Automation Services",
         "price": "EUR 50-500/gig",
         "desc": "Listed on Fiverr with 2-5 day delivery. Web scraping, API integrations, browser automation, data cleaning, and custom Python scripts."
+      },
+      "website-care": {
+        "title": "Website Creation & Care",
+        "price": "Builds from EUR 1,500 · care plans from EUR 60/mo",
+        "desc": "We build fast sites, then keep them healthy: updates, restore-tested backups, daily monitoring, a monthly report in plain language. For companies without an in-house web person."
+      },
+      "clipping": {
+        "title": "Short-Form Clipping",
+        "price": "Pilot $75 one-time (3 clips) · plans from $290/mo",
+        "desc": "You publish long episodes; we deliver ready-to-post clips with captions and hooks, formatted per platform, on a monthly cadence. The first sample batch is free."
+      },
+      "ai-voice-agent": {
+        "title": "AI Voice Agent",
+        "price": "Early access",
+        "desc": "A phone agent that makes and takes calls in natural Romanian — qualification, scheduling, follow-up. In development: join the waitlist and shape the pilot with us."
       }
     },
     "detail": {
@@ -416,7 +446,58 @@
       },
       "inquireCta": "Inquire About This Service",
       "whatYouGet": "What You Get",
-      "whoThisIsFor": "Who This Is For"
+      "whoThisIsFor": "Who This Is For",
+      "websiteCare": {
+        "title": "Website Creation & Care",
+        "price": "Builds from EUR 1,500 · care from EUR 60/mo",
+        "desc": "We build fast WordPress and Next.js sites, then keep them healthy month after month. One accountable person for your website, not a ticket queue.",
+        "details": [
+          "Weekly updates for WordPress sites (core, theme, plugins) — or dependency and framework updates for custom Next.js builds — with a backup taken first, every time",
+          "Backups that are restore-tested, not just created",
+          "Daily uptime and error monitoring, with same-day reaction",
+          "A monthly report in plain language: what changed, what we fixed, what we recommend",
+          "Small content changes included in your plan; bigger work is quoted before we touch anything"
+        ],
+        "audiences": [
+          "Companies whose site was built by someone who has since disappeared",
+          "Businesses losing leads to a slow, broken or outdated site",
+          "Anyone who wants one accountable person for their website"
+        ]
+      },
+      "clipping": {
+        "title": "Short-Form Clipping",
+        "price": "Pilot $75 one-time (3 clips) · plans from $290/mo",
+        "desc": "Done-for-you clipping for podcasters and YouTubers: you keep publishing episodes exactly as you do now, we take on the editing overhead.",
+        "details": [
+          "3 clips one-time with the Pilot, or 10-24 clips/month on Starter/Pro, cut from your existing episodes",
+          "Captions, hooks and per-platform formatting (TikTok, Shorts, Reels) included",
+          "One revision round per clip, included",
+          "You own everything — we only do the editing",
+          "A free sample batch from one of your episodes before any money changes hands"
+        ],
+        "audiences": [
+          "Podcasters and YouTubers with 20-100K views per episode and no short-form presence",
+          "Creators who tried clips, then quit because the editing overhead wasn't worth their time",
+          "Teams that want a monthly cadence without hiring an editor"
+        ]
+      },
+      "aiVoiceAgent": {
+        "title": "AI Voice Agent",
+        "price": "Early access — waitlist open",
+        "desc": "A phone agent that calls and answers in natural Romanian: it qualifies leads, handles objections and books meetings into your calendar. In development — the first agents get built together with a handful of early clients.",
+        "details": [
+          "Waitlist is open — no payment, no commitment",
+          "Pilot program: limited slots, built hands-on with each early client",
+          "Target: outbound and inbound calls in natural-sounding Romanian",
+          "Every call will start with a clear, honest AI disclosure — EU AI Act compliant by design",
+          "Target: qualifies leads, handles objections, books meetings straight into your calendar"
+        ],
+        "audiences": [
+          "Romanian businesses where the phone rings more often than the inbox pings",
+          "Real estate, clinics and service firms where a missed call is a lost client",
+          "Teams that want to see what a voice agent can do before committing budget"
+        ]
+      }
     },
     "notFound": {
       "title": "Service Not Found",

@@ -29,13 +29,13 @@ export const metadata: Metadata = {
   metadataBase: new URL("https://thinkflow.ro"),
   title: {
     template: "%s | ThinkFLOW",
-    default: "ThinkFLOW — Private AI Infrastructure & Web Development",
+    default: "ThinkFLOW — Cloud Cost Audits, Website Care & Automation",
   },
   description:
-    "Private AI infrastructure, web development, and technical consulting. Custom LLM deployment, RAG pipelines, agent orchestration.",
+    "Fixed-fee cloud cost audits, website creation and care, short-form clipping and Python automation. Real case study: 86% cloud bill cut, methodology public.",
   openGraph: {
-    title: "ThinkFLOW — Private AI Infrastructure",
-    description: "Custom AI infrastructure, web development, and technical consulting.",
+    title: "ThinkFLOW — Cloud Cost Audits, Website Care & Automation",
+    description: "Fixed-fee cloud cost audits, website creation and care, short-form clipping and Python automation.",
     url: "https://thinkflow.ro",
     siteName: "ThinkFLOW",
     locale: "en_US",
@@ -73,7 +73,7 @@ export default async function RootLayout({
               name: "ThinkFLOW",
               url: "https://thinkflow.ro",
               logo: "https://thinkflow.ro/logo.svg",
-              description: "Private AI infrastructure and web development services.",
+              description: "Fixed-fee cloud cost audits, website creation and care, short-form clipping and Python automation.",
               contactPoint: {
                 "@type": "ContactPoint",
                 email: "contact@thinkflow.ro",

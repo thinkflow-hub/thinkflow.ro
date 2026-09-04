@@ -10,15 +10,15 @@ export async function generateMetadata({ params }: { params: Promise<{ locale: s
   return { title: t("services.title") };
 }
 
+// Catalogul restrâns la cele 5 servicii active + agentul vocal (decizie operator 2026-09-04).
+// Paginile serviciilor delistate rămân live pe URL-urile lor — doar nu mai apar în listă.
 const services = [
-  { slug: "private-ai-infrastructure" },
-  { slug: "web-development" },
-  { slug: "technical-consulting" },
   { slug: "cloud-cost-migration-audit" },
-  { slug: "seo-geo-content" },
-  { slug: "copywriting-b2b" },
+  { slug: "website-care" },
+  { slug: "clipping" },
   { slug: "python-automation" },
   { slug: "fiverr-automation", external: "https://fiverr.com/thinkflow_ro" },
+  { slug: "ai-voice-agent" },
 ];
 
 export default async function ServicesPage({ params }: { params: Promise<{ locale: string }> }) {

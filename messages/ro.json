@@ -14,13 +14,13 @@
     "contact": "Contact"
   },
   "header": {
-    "sota": "SOTA",
-    "tagline": "INFRASTRUCTURĂ AI DE TOP",
+    "sota": "SISTEME",
+    "tagline": "CONSTRUITE O DATĂ. LUCREAZĂ ZILNIC.",
     "toggleMenu": "Comutare meniu"
   },
   "home": {
-    "heroTitle": "TIMPUL TĂU E FINIT.\nINFRASTRUCTURA TA E FĂRĂ LIMITĂ.",
-    "heroSubtitle": "Treceți de facturarea pe oră la livrare prin sisteme autonome. Vindem cod privat, nu chatboți generici.",
+    "heroTitle": "TIMPUL TĂU E FINIT.\nSISTEMELE TALE NU DORM.",
+    "heroSubtitle": "Audit de costuri cloud, administrare de site-uri, clipuri short-form și automatizări Python — livrate prin sisteme, cu un singur om responsabil pe care chiar îl poți contacta.",
     "cta": "Verifică Eligibilitatea",
     "ctaAlt": "Explorează Arhitectura",
     "coreMaterial": "MATERIALUL DE BAZĂ.",
@@ -229,6 +229,21 @@
         "title": "Automatizare Fiverr",
         "price": "EUR 50-500/gig",
         "desc": "Listat pe Fiverr, livrare în 2-5 zile. Web scraping, integrări API, automatizare browser."
+      },
+      "website-care": {
+        "title": "Creare și administrare site-uri",
+        "price": "De la 1.500 EUR · administrare de la 300 lei/lună",
+        "desc": "Site-uri rapide plus grijă lunară: update-uri, backup verificat, monitorizare zilnică, raport pe înțelesul tuturor."
+      },
+      "clipping": {
+        "title": "Clipuri short-form",
+        "price": "Pilot 75 $ o singură dată (3 clipuri) · abonamente de la 290 $/lună",
+        "desc": "Clipuri gata de postat din episoadele tale lungi — subtitrări, hook-uri, formate per platformă. Primul set de probă e gratuit."
+      },
+      "ai-voice-agent": {
+        "title": "Agent vocal AI",
+        "price": "Early access",
+        "desc": "Un agent telefonic care sună și răspunde în română naturală. În dezvoltare — lista de așteptare e deschisă."
       }
     },
     "list": {
@@ -271,6 +286,21 @@
         "title": "Servicii de Automatizare Fiverr",
         "price": "EUR 50-500/gig",
         "desc": "Listat pe Fiverr, livrare în 2-5 zile. Web scraping, integrări API, automatizare de browser, curățare de date și scripturi Python custom."
+      },
+      "website-care": {
+        "title": "Creare și administrare site-uri",
+        "price": "Creare de la 1.500 EUR · administrare de la 300 lei/lună",
+        "desc": "Construim site-uri rapide și le ținem sănătoase: update-uri, backup verificat că se restaurează, monitorizare zilnică, raport lunar pe înțelesul tuturor. Pentru firme fără om de web intern."
+      },
+      "clipping": {
+        "title": "Clipuri short-form din episoadele tale",
+        "price": "Pilot 75 $ o singură dată (3 clipuri) · abonamente de la 290 $/lună",
+        "desc": "Tu publici episoadele lungi; noi livrăm clipuri gata de postat, cu subtitrări și hook-uri, formatate pentru fiecare platformă, în ritm lunar. Primul set de probă e gratuit."
+      },
+      "ai-voice-agent": {
+        "title": "Agent vocal AI",
+        "price": "Early access — listă de așteptare",
+        "desc": "Un agent telefonic care sună și răspunde în română naturală: califică, programează, revine. În dezvoltare — înscrie-te pe listă și construim pilotul împreună."
       }
     },
     "detail": {
@@ -416,7 +446,58 @@
       },
       "inquireCta": "Întreabă Despre Acest Serviciu",
       "whatYouGet": "Ce Primești",
-      "whoThisIsFor": "Pentru Cine Este"
+      "whoThisIsFor": "Pentru Cine Este",
+      "websiteCare": {
+        "title": "Creare și administrare site-uri",
+        "price": "Creare de la 1.500 EUR · administrare de la 300 lei/lună",
+        "desc": "Construim site-uri rapide pe WordPress sau Next.js, apoi le ținem sănătoase lună de lună. Un singur om responsabil de site-ul tău, nu un sistem de tichete.",
+        "details": [
+          "Update-uri săptămânale pentru site-uri WordPress (core, temă, plugin-uri) — sau update-uri de dependențe și framework pentru site-urile Next.js custom — cu backup făcut înainte, de fiecare dată",
+          "Backup-uri testate că se pot restaura, nu doar create",
+          "Monitorizare zilnică de disponibilitate și erori, cu reacție în aceeași zi",
+          "Raport lunar pe limba ta: ce s-a schimbat, ce am reparat, ce recomandăm",
+          "Modificările mici sunt incluse în abonament; lucrările mari primesc ofertă înainte să atingem ceva"
+        ],
+        "audiences": [
+          "Firme al căror site a fost făcut de cineva care între timp a dispărut",
+          "Afaceri care pierd clienți din cauza unui site lent, stricat sau neactualizat",
+          "Oricine vrea un singur om responsabil de site-ul lui"
+        ]
+      },
+      "clipping": {
+        "title": "Clipuri short-form din episoadele tale",
+        "price": "Pilot 75 $ o singură dată (3 clipuri) · abonamente de la 290 $/lună",
+        "desc": "Clipping făcut de noi, cap-coadă: tu continui să publici episoadele exact ca acum, noi preluăm toată munca de editare.",
+        "details": [
+          "3 clipuri o singură dată cu Pilot, sau 10-24 de clipuri/lună cu Starter/Pro, tăiate din episoadele tale existente",
+          "Subtitrări, hook-uri și formatare per platformă (TikTok, Shorts, Reels) incluse",
+          "O rundă de revizii per clip, inclusă",
+          "Totul îți aparține — noi facem doar editarea",
+          "Un set de probă gratuit dintr-un episod al tău, înainte de orice discuție despre bani"
+        ],
+        "audiences": [
+          "Podcasteri și YouTuberi cu 20-100K vizualizări pe episod și fără prezență short-form",
+          "Creatori care au încercat clipurile și au renunțat pentru că editarea le mânca timpul",
+          "Echipe care vor ritm lunar fără să angajeze un editor"
+        ]
+      },
+      "aiVoiceAgent": {
+        "title": "Agent vocal AI",
+        "price": "Early access — listă de așteptare",
+        "desc": "Un agent telefonic care sună și răspunde în română naturală: califică lead-uri, tratează obiecții și programează întâlniri direct în calendarul tău. În dezvoltare — primii agenți se construiesc împreună cu câțiva clienți timpurii.",
+        "details": [
+          "Lista de așteptare e deschisă — fără plată, fără obligații",
+          "Program pilot: locuri limitate, construit mână în mână cu fiecare client timpuriu",
+          "Obiectiv: apeluri outbound și inbound în română care sună natural",
+          "Fiecare apel va începe cu prezentarea onestă ca AI — conform EU AI Act din proiectare",
+          "Obiectiv: califică lead-uri, tratează obiecții, programează întâlniri direct în calendar"
+        ],
+        "audiences": [
+          "Firme românești unde telefonul sună mai des decât vine emailul",
+          "Imobiliare, clinici, servicii — unde un apel pierdut e un client pierdut",
+          "Echipe care vor să vadă ce poate un agent vocal înainte să aloce buget"
+        ]
+      }
     },
     "notFound": {
       "title": "Serviciu Negăsit",
