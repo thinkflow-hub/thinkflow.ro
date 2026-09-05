@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-04T17:00:05.843185+00:00",
+  "generated_at": "2026-09-04T21:00:07.211384+00:00",
   "days": 7,
   "nodes": [
     {
@@ -91,18 +91,18 @@
       "source": "Ollama releases"
     },
     {
-      "id": "source:ollama_releases",
-      "label": "Ollama Releases",
-      "type": "entity",
-      "weight": 4,
-      "category": "",
-      "source": ""
-    },
-    {
       "id": "category:releases",
       "label": "Releases",
       "type": "entity",
       "weight": 40,
+      "category": "",
+      "source": ""
+    },
+    {
+      "id": "source:ollama_releases",
+      "label": "Ollama Releases",
+      "type": "entity",
+      "weight": 4,
       "category": "",
       "source": ""
     },
@@ -131,18 +131,18 @@
       "source": "Latent Space (Substack)"
     },
     {
-      "id": "source:latent_space_(substack)",
-      "label": "Latent Space (Substack)",
-      "type": "entity",
-      "weight": 8,
-      "category": "",
-      "source": ""
-    },
-    {
       "id": "category:newsletters",
       "label": "Newsletters",
       "type": "entity",
       "weight": 10,
+      "category": "",
+      "source": ""
+    },
+    {
+      "id": "source:latent_space_(substack)",
+      "label": "Latent Space (Substack)",
+      "type": "entity",
+      "weight": 8,
       "category": "",
       "source": ""
     },
@@ -235,18 +235,18 @@
       "source": "Two Minute Papers"
     },
     {
-      "id": "category:research",
-      "label": "Research",
-      "type": "entity",
-      "weight": 61,
-      "category": "",
-      "source": ""
-    },
-    {
       "id": "source:two_minute_papers",
       "label": "Two Minute Papers",
       "type": "entity",
       "weight": 2,
+      "category": "",
+      "source": ""
+    },
+    {
+      "id": "category:research",
+      "label": "Research",
+      "type": "entity",
+      "weight": 61,
       "category": "",
       "source": ""
     },
@@ -259,18 +259,18 @@
       "source": "MIT Technology Review AI"
     },
     {
-      "id": "source:mit_technology_review_ai",
-      "label": "Mit Technology Review Ai",
-      "type": "entity",
-      "weight": 1,
-      "category": "",
-      "source": ""
-    },
-    {
       "id": "category:industry",
       "label": "Industry",
       "type": "entity",
       "weight": 6,
+      "category": "",
+      "source": ""
+    },
+    {
+      "id": "source:mit_technology_review_ai",
+      "label": "Mit Technology Review Ai",
+      "type": "entity",
+      "weight": 1,
       "category": "",
       "source": ""
     },
@@ -1491,8 +1491,8 @@
       "source": "OpenAI Blog"
     },
     {
-      "id": "daybreak",
-      "label": "Daybreak",
+      "id": "support",
+      "label": "Support",
       "type": "entity",
       "weight": 1,
       "category": "",
@@ -1515,24 +1515,8 @@
       "source": ""
     },
     {
-      "id": "essential services",
-      "label": "Essential Services",
-      "type": "entity",
-      "weight": 1,
-      "category": "",
-      "source": ""
-    },
-    {
-      "id": "essential",
-      "label": "Essential",
-      "type": "entity",
-      "weight": 1,
-      "category": "",
-      "source": ""
-    },
-    {
-      "id": "support",
-      "label": "Support",
+      "id": "services",
+      "label": "Services",
       "type": "entity",
       "weight": 1,
       "category": "",
@@ -1547,6 +1531,14 @@
       "source": ""
     },
     {
+      "id": "essential services",
+      "label": "Essential Services",
+      "type": "entity",
+      "weight": 1,
+      "category": "",
+      "source": ""
+    },
+    {
       "id": "cyber ai",
       "label": "Cyber Ai",
       "type": "entity",
@@ -1555,8 +1547,16 @@
       "source": ""
     },
     {
-      "id": "services",
-      "label": "Services",
+      "id": "essential",
+      "label": "Essential",
+      "type": "entity",
+      "weight": 1,
+      "category": "",
+      "source": ""
+    },
+    {
+      "id": "daybreak",
+      "label": "Daybreak",
       "type": "entity",
       "weight": 1,
       "category": "",
@@ -1571,8 +1571,8 @@
       "source": "OpenAI Blog"
     },
     {
-      "id": "financial review",
-      "label": "Financial Review",
+      "id": "legora",
+      "label": "Legora",
       "type": "entity",
       "weight": 1,
       "category": "",
@@ -1587,14 +1587,6 @@
       "source": ""
     },
     {
-      "id": "document review",
-      "label": "Document Review",
-      "type": "entity",
-      "weight": 1,
-      "category": "",
-      "source": ""
-    },
-    {
       "id": "performance improvement",
       "label": "Performance Improvement",
       "type": "entity",
@@ -1603,16 +1595,24 @@
       "source": ""
     },
     {
-      "id": "legora",
-      "label": "Legora",
+      "id": "astra",
+      "label": "Astra",
+      "type": "entity",
+      "weight": 6,
+      "category": "",
+      "source": ""
+    },
+    {
+      "id": "financial review",
+      "label": "Financial Review",
       "type": "entity",
       "weight": 1,
       "category": "",
       "source": ""
     },
     {
-      "id": "documents",
-      "label": "Documents",
+      "id": "document review",
+      "label": "Document Review",
       "type": "entity",
       "weight": 1,
       "category": "",
@@ -1635,18 +1635,18 @@
       "source": ""
     },
     {
-      "id": "astra",
-      "label": "Astra",
+      "id": "gpt-6",
+      "label": "Gpt-6",
       "type": "entity",
       "weight": 6,
       "category": "",
       "source": ""
     },
     {
-      "id": "gpt-6",
-      "label": "Gpt-6",
+      "id": "documents",
+      "label": "Documents",
       "type": "entity",
-      "weight": 6,
+      "weight": 1,
       "category": "",
       "source": ""
     },
@@ -1659,40 +1659,8 @@
       "source": "OpenAI Blog"
     },
     {
-      "id": "playco",
-      "label": "Playco",
-      "type": "entity",
-      "weight": 1,
-      "category": "",
-      "source": ""
-    },
-    {
-      "id": "manual",
-      "label": "Manual",
-      "type": "entity",
-      "weight": 1,
-      "category": "",
-      "source": ""
-    },
-    {
-      "id": "grey box",
-      "label": "Grey Box",
-      "type": "entity",
-      "weight": 1,
-      "category": "",
-      "source": ""
-    },
-    {
       "id": "manual fixes",
       "label": "Manual Fixes",
-      "type": "entity",
-      "weight": 1,
-      "category": "",
-      "source": ""
-    },
-    {
-      "id": "prototyping",
-      "label": "Prototyping",
       "type": "entity",
       "weight": 1,
       "category": "",
@@ -1707,6 +1675,38 @@
       "source": ""
     },
     {
+      "id": "prototyping",
+      "label": "Prototyping",
+      "type": "entity",
+      "weight": 1,
+      "category": "",
+      "source": ""
+    },
+    {
+      "id": "manual",
+      "label": "Manual",
+      "type": "entity",
+      "weight": 1,
+      "category": "",
+      "source": ""
+    },
+    {
+      "id": "playco",
+      "label": "Playco",
+      "type": "entity",
+      "weight": 1,
+      "category": "",
+      "source": ""
+    },
+    {
+      "id": "grey box",
+      "label": "Grey Box",
+      "type": "entity",
+      "weight": 1,
+      "category": "",
+      "source": ""
+    },
+    {
       "id": "article:https://openai.com/index/safety-overview-gpt-6-astra",
       "label": "Safety overview: GPT-6 Astra",
       "type": "article",
@@ -1715,8 +1715,8 @@
       "source": "OpenAI Blog"
     },
     {
-      "id": "overview",
-      "label": "Overview",
+      "id": "preparedness framework",
+      "label": "Preparedness Framework",
       "type": "entity",
       "weight": 1,
       "category": "",
@@ -1731,16 +1731,16 @@
       "source": ""
     },
     {
-      "id": "cybersecurity",
-      "label": "Cybersecurity",
+      "id": "overview",
+      "label": "Overview",
       "type": "entity",
       "weight": 1,
       "category": "",
       "source": ""
     },
     {
-      "id": "preparedness framework",
-      "label": "Preparedness Framework",
+      "id": "cybersecurity",
+      "label": "Cybersecurity",
       "type": "entity",
       "weight": 1,
       "category": "",
@@ -1763,40 +1763,16 @@
       "source": "DeepMind Blog"
     },
     {
+      "id": "introducing",
+      "label": "Introducing",
+      "type": "entity",
+      "weight": 1,
+      "category": "",
+      "source": ""
+    },
+    {
       "id": "weathernext",
       "label": "Weathernext",
-      "type": "entity",
-      "weight": 1,
-      "category": "",
-      "source": ""
-    },
-    {
-      "id": "accuracy",
-      "label": "Accuracy",
-      "type": "entity",
-      "weight": 1,
-      "category": "",
-      "source": ""
-    },
-    {
-      "id": "model",
-      "label": "Model",
-      "type": "entity",
-      "weight": 2,
-      "category": "",
-      "source": ""
-    },
-    {
-      "id": "accurate",
-      "label": "Accurate",
-      "type": "entity",
-      "weight": 1,
-      "category": "",
-      "source": ""
-    },
-    {
-      "id": "weather",
-      "label": "Weather",
       "type": "entity",
       "weight": 1,
       "category": "",
@@ -1811,10 +1787,34 @@
       "source": ""
     },
     {
-      "id": "introducing",
-      "label": "Introducing",
+      "id": "accurate",
+      "label": "Accurate",
       "type": "entity",
       "weight": 1,
+      "category": "",
+      "source": ""
+    },
+    {
+      "id": "accuracy",
+      "label": "Accuracy",
+      "type": "entity",
+      "weight": 1,
+      "category": "",
+      "source": ""
+    },
+    {
+      "id": "weather",
+      "label": "Weather",
+      "type": "entity",
+      "weight": 1,
+      "category": "",
+      "source": ""
+    },
+    {
+      "id": "model",
+      "label": "Model",
+      "type": "entity",
+      "weight": 2,
       "category": "",
       "source": ""
     },
@@ -1827,8 +1827,8 @@
       "source": "Hugging Face Blog"
     },
     {
-      "id": "structured",
-      "label": "Structured",
+      "id": "better",
+      "label": "Better",
       "type": "entity",
       "weight": 1,
       "category": "",
@@ -1843,24 +1843,8 @@
       "source": ""
     },
     {
-      "id": "steps",
-      "label": "Steps",
-      "type": "entity",
-      "weight": 1,
-      "category": "",
-      "source": ""
-    },
-    {
-      "id": "fine-tuning",
-      "label": "Fine-Tuning",
-      "type": "entity",
-      "weight": 1,
-      "category": "",
-      "source": ""
-    },
-    {
-      "id": "better",
-      "label": "Better",
+      "id": "structured",
+      "label": "Structured",
       "type": "entity",
       "weight": 1,
       "category": "",
@@ -1883,6 +1867,22 @@
       "source": ""
     },
     {
+      "id": "steps",
+      "label": "Steps",
+      "type": "entity",
+      "weight": 1,
+      "category": "",
+      "source": ""
+    },
+    {
+      "id": "fine-tuning",
+      "label": "Fine-Tuning",
+      "type": "entity",
+      "weight": 1,
+      "category": "",
+      "source": ""
+    },
+    {
       "id": "article:https://huggingface.co/blog/funes",
       "label": "Give Your Coding Agents a Memory You Own",
       "type": "article",
@@ -1891,8 +1891,16 @@
       "source": "Hugging Face Blog"
     },
     {
-      "id": "own",
-      "label": "Own",
+      "id": "agents",
+      "label": "Agents",
+      "type": "entity",
+      "weight": 4,
+      "category": "",
+      "source": ""
+    },
+    {
+      "id": "ownership",
+      "label": "Ownership",
       "type": "entity",
       "weight": 1,
       "category": "",
@@ -1907,26 +1915,26 @@
       "source": ""
     },
     {
+      "id": "coding",
+      "label": "Coding",
+      "type": "entity",
+      "weight": 2,
+      "category": "",
+      "source": ""
+    },
+    {
+      "id": "own",
+      "label": "Own",
+      "type": "entity",
+      "weight": 1,
+      "category": "",
+      "source": ""
+    },
+    {
       "id": "coding agents",
       "label": "Coding Agents",
       "type": "entity",
       "weight": 1,
-      "category": "",
-      "source": ""
-    },
-    {
-      "id": "ownership",
-      "label": "Ownership",
-      "type": "entity",
-      "weight": 1,
-      "category": "",
-      "source": ""
-    },
-    {
-      "id": "agents",
-      "label": "Agents",
-      "type": "entity",
-      "weight": 4,
       "category": "",
       "source": ""
     },
@@ -1939,14 +1947,6 @@
       "source": ""
     },
     {
-      "id": "coding",
-      "label": "Coding",
-      "type": "entity",
-      "weight": 2,
-      "category": "",
-      "source": ""
-    },
-    {
       "id": "article:https://huggingface.co/blog/train-to-paint-with-code",
       "label": "Training a coding model to paint watercolours with TRL and O",
       "type": "article",
@@ -1955,40 +1955,8 @@
       "source": "Hugging Face Blog"
     },
     {
-      "id": "watercolours",
-      "label": "Watercolours",
-      "type": "entity",
-      "weight": 1,
-      "category": "",
-      "source": ""
-    },
-    {
-      "id": "training",
-      "label": "Training",
-      "type": "entity",
-      "weight": 2,
-      "category": "",
-      "source": ""
-    },
-    {
       "id": "trl",
       "label": "Trl",
-      "type": "entity",
-      "weight": 1,
-      "category": "",
-      "source": ""
-    },
-    {
-      "id": "coding model",
-      "label": "Coding Model",
-      "type": "entity",
-      "weight": 1,
-      "category": "",
-      "source": ""
-    },
-    {
-      "id": "openenv",
-      "label": "Openenv",
       "type": "entity",
       "weight": 1,
       "category": "",
@@ -2003,12 +1971,76 @@
       "source": ""
     },
     {
+      "id": "training",
+      "label": "Training",
+      "type": "entity",
+      "weight": 2,
+      "category": "",
+      "source": ""
+    },
+    {
+      "id": "coding model",
+      "label": "Coding Model",
+      "type": "entity",
+      "weight": 1,
+      "category": "",
+      "source": ""
+    },
+    {
+      "id": "watercolours",
+      "label": "Watercolours",
+      "type": "entity",
+      "weight": 1,
+      "category": "",
+      "source": ""
+    },
+    {
+      "id": "openenv",
+      "label": "Openenv",
+      "type": "entity",
+      "weight": 1,
+      "category": "",
+      "source": ""
+    },
+    {
       "id": "article:https://babyloniantwins.com/blog/porting-a-1993-amiga-game-to-godot/",
       "label": "Porting my 1993 Amiga game to Godot, with an LLM reading the",
       "type": "article",
       "weight": 62,
       "category": "trending",
       "source": "HN top LLM 24h"
+    },
+    {
+      "id": "reading",
+      "label": "Reading",
+      "type": "entity",
+      "weight": 1,
+      "category": "",
+      "source": ""
+    },
+    {
+      "id": "assembly",
+      "label": "Assembly",
+      "type": "entity",
+      "weight": 1,
+      "category": "",
+      "source": ""
+    },
+    {
+      "id": "godot",
+      "label": "Godot",
+      "type": "entity",
+      "weight": 1,
+      "category": "",
+      "source": ""
+    },
+    {
+      "id": "amiga",
+      "label": "Amiga",
+      "type": "entity",
+      "weight": 1,
+      "category": "",
+      "source": ""
     },
     {
       "id": "llm",
@@ -2027,38 +2059,6 @@
       "source": ""
     },
     {
-      "id": "reading",
-      "label": "Reading",
-      "type": "entity",
-      "weight": 1,
-      "category": "",
-      "source": ""
-    },
-    {
-      "id": "amiga",
-      "label": "Amiga",
-      "type": "entity",
-      "weight": 1,
-      "category": "",
-      "source": ""
-    },
-    {
-      "id": "godot",
-      "label": "Godot",
-      "type": "entity",
-      "weight": 1,
-      "category": "",
-      "source": ""
-    },
-    {
-      "id": "assembly",
-      "label": "Assembly",
-      "type": "entity",
-      "weight": 1,
-      "category": "",
-      "source": ""
-    },
-    {
       "id": "article:https://news.ycombinator.com/item?id=49551096",
       "label": "Ask HN: Why were OpenAI, Claude, and Grok simultaneously dow",
       "type": "article",
@@ -2067,24 +2067,8 @@
       "source": "HN top AI 24h"
     },
     {
-      "id": "claude",
-      "label": "Claude",
-      "type": "entity",
-      "weight": 1,
-      "category": "",
-      "source": ""
-    },
-    {
-      "id": "openai",
-      "label": "Openai",
-      "type": "entity",
-      "weight": 3,
-      "category": "",
-      "source": ""
-    },
-    {
-      "id": "simultaneously",
-      "label": "Simultaneously",
+      "id": "ask hn",
+      "label": "Ask Hn",
       "type": "entity",
       "weight": 1,
       "category": "",
@@ -2099,6 +2083,22 @@
       "source": ""
     },
     {
+      "id": "claude",
+      "label": "Claude",
+      "type": "entity",
+      "weight": 1,
+      "category": "",
+      "source": ""
+    },
+    {
+      "id": "simultaneously",
+      "label": "Simultaneously",
+      "type": "entity",
+      "weight": 1,
+      "category": "",
+      "source": ""
+    },
+    {
       "id": "ask",
       "label": "Ask",
       "type": "entity",
@@ -2107,16 +2107,16 @@
       "source": ""
     },
     {
-      "id": "downtime",
-      "label": "Downtime",
+      "id": "openai",
+      "label": "Openai",
       "type": "entity",
-      "weight": 1,
+      "weight": 3,
       "category": "",
       "source": ""
     },
     {
-      "id": "ask hn",
-      "label": "Ask Hn",
+      "id": "downtime",
+      "label": "Downtime",
       "type": "entity",
       "weight": 1,
       "category": "",
@@ -2131,16 +2131,16 @@
       "source": "HN top AI 24h"
     },
     {
-      "id": "rolling",
-      "label": "Rolling",
+      "id": "begins",
+      "label": "Begins",
       "type": "entity",
       "weight": 1,
       "category": "",
       "source": ""
     },
     {
-      "id": "begins",
-      "label": "Begins",
+      "id": "rolling",
+      "label": "Rolling",
       "type": "entity",
       "weight": 1,
       "category": "",
@@ -2155,8 +2155,24 @@
       "source": "HN top AI 24h"
     },
     {
+      "id": "tokens/s",
+      "label": "Tokens/S",
+      "type": "entity",
+      "weight": 1,
+      "category": "",
+      "source": ""
+    },
+    {
       "id": "tokens",
       "label": "Tokens",
+      "type": "entity",
+      "weight": 1,
+      "category": "",
+      "source": ""
+    },
+    {
+      "id": "available",
+      "label": "Available",
       "type": "entity",
       "weight": 1,
       "category": "",
@@ -2179,22 +2195,6 @@
       "source": ""
     },
     {
-      "id": "tokens/s",
-      "label": "Tokens/S",
-      "type": "entity",
-      "weight": 1,
-      "category": "",
-      "source": ""
-    },
-    {
-      "id": "available",
-      "label": "Available",
-      "type": "entity",
-      "weight": 1,
-      "category": "",
-      "source": ""
-    },
-    {
       "id": "article:https://github.com/ollama/ollama/releases/tag/v0.33.3",
       "label": "Ollama releases: v0.33.3",
       "type": "article",
@@ -2203,80 +2203,8 @@
       "source": "Ollama releases"
     },
     {
-      "id": "gemma4",
-      "label": "Gemma4",
-      "type": "entity",
-      "weight": 1,
-      "category": "",
-      "source": ""
-    },
-    {
-      "id": "gguf model",
-      "label": "Gguf Model",
-      "type": "entity",
-      "weight": 1,
-      "category": "",
-      "source": ""
-    },
-    {
-      "id": "mlx",
-      "label": "Mlx",
-      "type": "entity",
-      "weight": 1,
-      "category": "",
-      "source": ""
-    },
-    {
-      "id": "images",
-      "label": "Images",
-      "type": "entity",
-      "weight": 1,
-      "category": "",
-      "source": ""
-    },
-    {
-      "id": "mlx-c",
-      "label": "Mlx-C",
-      "type": "entity",
-      "weight": 1,
-      "category": "",
-      "source": ""
-    },
-    {
       "id": "supports",
       "label": "Supports",
-      "type": "entity",
-      "weight": 1,
-      "category": "",
-      "source": ""
-    },
-    {
-      "id": "llama.cpp",
-      "label": "Llama.Cpp",
-      "type": "entity",
-      "weight": 1,
-      "category": "",
-      "source": ""
-    },
-    {
-      "id": "changed",
-      "label": "Changed",
-      "type": "entity",
-      "weight": 1,
-      "category": "",
-      "source": ""
-    },
-    {
-      "id": "ollama",
-      "label": "Ollama",
-      "type": "entity",
-      "weight": 1,
-      "category": "",
-      "source": ""
-    },
-    {
-      "id": "report cached prompt tokens",
-      "label": "Report Cached Prompt Tokens",
       "type": "entity",
       "weight": 1,
       "category": "",
@@ -2291,8 +2219,80 @@
       "source": ""
     },
     {
+      "id": "mlx",
+      "label": "Mlx",
+      "type": "entity",
+      "weight": 1,
+      "category": "",
+      "source": ""
+    },
+    {
       "id": "default parameters",
       "label": "Default Parameters",
+      "type": "entity",
+      "weight": 1,
+      "category": "",
+      "source": ""
+    },
+    {
+      "id": "llama.cpp",
+      "label": "Llama.Cpp",
+      "type": "entity",
+      "weight": 1,
+      "category": "",
+      "source": ""
+    },
+    {
+      "id": "report cached prompt tokens",
+      "label": "Report Cached Prompt Tokens",
+      "type": "entity",
+      "weight": 1,
+      "category": "",
+      "source": ""
+    },
+    {
+      "id": "gguf model",
+      "label": "Gguf Model",
+      "type": "entity",
+      "weight": 1,
+      "category": "",
+      "source": ""
+    },
+    {
+      "id": "gemma4",
+      "label": "Gemma4",
+      "type": "entity",
+      "weight": 1,
+      "category": "",
+      "source": ""
+    },
+    {
+      "id": "mlx-c",
+      "label": "Mlx-C",
+      "type": "entity",
+      "weight": 1,
+      "category": "",
+      "source": ""
+    },
+    {
+      "id": "ollama",
+      "label": "Ollama",
+      "type": "entity",
+      "weight": 1,
+      "category": "",
+      "source": ""
+    },
+    {
+      "id": "images",
+      "label": "Images",
+      "type": "entity",
+      "weight": 1,
+      "category": "",
+      "source": ""
+    },
+    {
+      "id": "changed",
+      "label": "Changed",
       "type": "entity",
       "weight": 1,
       "category": "",
@@ -2315,48 +2315,16 @@
       "source": "Latent Space (Substack)"
     },
     {
-      "id": "monitoring",
-      "label": "Monitoring",
-      "type": "entity",
-      "weight": 1,
-      "category": "",
-      "source": ""
-    },
-    {
-      "id": "sota",
-      "label": "Sota",
-      "type": "entity",
-      "weight": 1,
-      "category": "",
-      "source": ""
-    },
-    {
-      "id": "pricing",
-      "label": "Pricing",
-      "type": "entity",
-      "weight": 1,
-      "category": "",
-      "source": ""
-    },
-    {
-      "id": "ainews",
-      "label": "Ainews",
-      "type": "entity",
-      "weight": 1,
-      "category": "",
-      "source": ""
-    },
-    {
-      "id": "launch",
-      "label": "Launch",
-      "type": "entity",
-      "weight": 1,
-      "category": "",
-      "source": ""
-    },
-    {
       "id": "success",
       "label": "Success",
+      "type": "entity",
+      "weight": 1,
+      "category": "",
+      "source": ""
+    },
+    {
+      "id": "monitoring",
+      "label": "Monitoring",
       "type": "entity",
       "weight": 1,
       "category": "",
@@ -2371,8 +2339,40 @@
       "source": ""
     },
     {
+      "id": "pricing",
+      "label": "Pricing",
+      "type": "entity",
+      "weight": 1,
+      "category": "",
+      "source": ""
+    },
+    {
       "id": "biggest",
       "label": "Biggest",
+      "type": "entity",
+      "weight": 1,
+      "category": "",
+      "source": ""
+    },
+    {
+      "id": "ainews",
+      "label": "Ainews",
+      "type": "entity",
+      "weight": 1,
+      "category": "",
+      "source": ""
+    },
+    {
+      "id": "sota",
+      "label": "Sota",
+      "type": "entity",
+      "weight": 1,
+      "category": "",
+      "source": ""
+    },
+    {
+      "id": "launch",
+      "label": "Launch",
       "type": "entity",
       "weight": 1,
       "category": "",
@@ -2387,16 +2387,24 @@
       "source": "Latent Space (Substack)"
     },
     {
-      "id": "ai engineer",
-      "label": "Ai Engineer",
+      "id": "automation",
+      "label": "Automation",
       "type": "entity",
       "weight": 1,
       "category": "",
       "source": ""
     },
     {
-      "id": "automation",
-      "label": "Automation",
+      "id": "hire",
+      "label": "Hire",
+      "type": "entity",
+      "weight": 1,
+      "category": "",
+      "source": ""
+    },
+    {
+      "id": "ai engineer",
+      "label": "Ai Engineer",
       "type": "entity",
       "weight": 1,
       "category": "",
@@ -2419,14 +2427,6 @@
       "source": ""
     },
     {
-      "id": "hire",
-      "label": "Hire",
-      "type": "entity",
-      "weight": 1,
-      "category": "",
-      "source": ""
-    },
-    {
       "id": "engineer",
       "label": "Engineer",
       "type": "entity",
@@ -2443,14 +2443,6 @@
       "source": "ggml/llama.cpp releases"
     },
     {
-      "id": "nemotron",
-      "label": "Nemotron",
-      "type": "entity",
-      "weight": 1,
-      "category": "",
-      "source": ""
-    },
-    {
       "id": "fuse",
       "label": "Fuse",
       "type": "entity",
@@ -2459,16 +2451,8 @@
       "source": ""
     },
     {
-      "id": "function",
-      "label": "Function",
-      "type": "entity",
-      "weight": 2,
-      "category": "",
-      "source": ""
-    },
-    {
-      "id": "add",
-      "label": "Add",
+      "id": "src",
+      "label": "Src",
       "type": "entity",
       "weight": 2,
       "category": "",
@@ -2491,8 +2475,24 @@
       "source": ""
     },
     {
-      "id": "src",
-      "label": "Src",
+      "id": "add",
+      "label": "Add",
+      "type": "entity",
+      "weight": 2,
+      "category": "",
+      "source": ""
+    },
+    {
+      "id": "nemotron",
+      "label": "Nemotron",
+      "type": "entity",
+      "weight": 1,
+      "category": "",
+      "source": ""
+    },
+    {
+      "id": "function",
+      "label": "Function",
       "type": "entity",
       "weight": 2,
       "category": "",
@@ -2547,6 +2547,14 @@
       "source": "ggml/llama.cpp releases"
     },
     {
+      "id": "llama",
+      "label": "Llama",
+      "type": "entity",
+      "weight": 3,
+      "category": "",
+      "source": ""
+    },
+    {
       "id": "cpp",
       "label": "Cpp",
       "type": "entity",
@@ -2555,16 +2563,16 @@
       "source": ""
     },
     {
-      "id": "https",
-      "label": "Https",
+      "id": "global var",
+      "label": "Global Var",
       "type": "entity",
-      "weight": 3,
+      "weight": 1,
       "category": "",
       "source": ""
     },
     {
-      "id": "attestation",
-      "label": "Attestation",
+      "id": "mkl",
+      "label": "Mkl",
       "type": "entity",
       "weight": 1,
       "category": "",
@@ -2579,14 +2587,6 @@
       "source": ""
     },
     {
-      "id": "llama",
-      "label": "Llama",
-      "type": "entity",
-      "weight": 3,
-      "category": "",
-      "source": ""
-    },
-    {
       "id": "attestations",
       "label": "Attestations",
       "type": "entity",
@@ -2595,10 +2595,10 @@
       "source": ""
     },
     {
-      "id": "mkl",
-      "label": "Mkl",
+      "id": "https",
+      "label": "Https",
       "type": "entity",
-      "weight": 1,
+      "weight": 3,
       "category": "",
       "source": ""
     },
@@ -2611,8 +2611,8 @@
       "source": ""
     },
     {
-      "id": "global var",
-      "label": "Global Var",
+      "id": "attestation",
+      "label": "Attestation",
       "type": "entity",
       "weight": 1,
       "category": "",
@@ -2643,16 +2643,16 @@
       "source": ""
     },
     {
-      "id": "commit",
-      "label": "Commit",
+      "id": "rebuild",
+      "label": "Rebuild",
       "type": "entity",
       "weight": 1,
       "category": "",
       "source": ""
     },
     {
-      "id": "rebuild",
-      "label": "Rebuild",
+      "id": "commit",
+      "label": "Commit",
       "type": "entity",
       "weight": 1,
       "category": "",
@@ -2667,16 +2667,16 @@
       "source": "ggml/llama.cpp releases"
     },
     {
-      "id": "grammar",
-      "label": "Grammar",
+      "id": "schema",
+      "label": "Schema",
       "type": "entity",
       "weight": 1,
       "category": "",
       "source": ""
     },
     {
-      "id": "schema",
-      "label": "Schema",
+      "id": "grammar",
+      "label": "Grammar",
       "type": "entity",
       "weight": 1,
       "category": "",
@@ -2689,14 +2689,6 @@
       "weight": 40,
       "category": "research",
       "source": "ArXiv cs.CL (Computation and Language / NLP)"
-    },
-    {
-      "id": "budget-splitting trap",
-      "label": "Budget-Splitting Trap",
-      "type": "entity",
-      "weight": 1,
-      "category": "",
-      "source": ""
     },
     {
       "id": "frozen large language models",
@@ -2715,8 +2707,8 @@
       "source": ""
     },
     {
-      "id": "harness optimization",
-      "label": "Harness Optimization",
+      "id": "localized gains",
+      "label": "Localized Gains",
       "type": "entity",
       "weight": 1,
       "category": "",
@@ -2739,16 +2731,8 @@
       "source": ""
     },
     {
-      "id": "value",
-      "label": "Value",
-      "type": "entity",
-      "weight": 1,
-      "category": "",
-      "source": ""
-    },
-    {
-      "id": "localized gains",
-      "label": "Localized Gains",
+      "id": "harness optimization",
+      "label": "Harness Optimization",
       "type": "entity",
       "weight": 1,
       "category": "",
@@ -2763,20 +2747,28 @@
       "source": ""
     },
     {
+      "id": "budget-splitting trap",
+      "label": "Budget-Splitting Trap",
+      "type": "entity",
+      "weight": 1,
+      "category": "",
+      "source": ""
+    },
+    {
+      "id": "value",
+      "label": "Value",
+      "type": "entity",
+      "weight": 1,
+      "category": "",
+      "source": ""
+    },
+    {
       "id": "article:https://arxiv.org/abs/2609.02890",
       "label": "Bounded Personas Match Retrieval on Classification but Not R",
       "type": "article",
       "weight": 40,
       "category": "research",
       "source": "ArXiv cs.CL (Computation and Language / NLP)"
-    },
-    {
-      "id": "agent",
-      "label": "Agent",
-      "type": "entity",
-      "weight": 1,
-      "category": "",
-      "source": ""
     },
     {
       "id": "bounded",
@@ -2795,8 +2787,8 @@
       "source": ""
     },
     {
-      "id": "user",
-      "label": "User",
+      "id": "retrieval",
+      "label": "Retrieval",
       "type": "entity",
       "weight": 1,
       "category": "",
@@ -2811,16 +2803,16 @@
       "source": ""
     },
     {
-      "id": "retrieval",
-      "label": "Retrieval",
+      "id": "inference",
+      "label": "Inference",
       "type": "entity",
       "weight": 1,
       "category": "",
       "source": ""
     },
     {
-      "id": "inference",
-      "label": "Inference",
+      "id": "agent",
+      "label": "Agent",
       "type": "entity",
       "weight": 1,
       "category": "",
@@ -2837,6 +2829,14 @@
     {
       "id": "personas",
       "label": "Personas",
+      "type": "entity",
+      "weight": 1,
+      "category": "",
+      "source": ""
+    },
+    {
+      "id": "user",
+      "label": "User",
       "type": "entity",
       "weight": 1,
       "category": "",
@@ -2867,14 +2867,6 @@
       "source": ""
     },
     {
-      "id": "counterexamples",
-      "label": "Counterexamples",
-      "type": "entity",
-      "weight": 1,
-      "category": "",
-      "source": ""
-    },
-    {
       "id": "cegis",
       "label": "Cegis",
       "type": "entity",
@@ -2899,6 +2891,14 @@
       "source": ""
     },
     {
+      "id": "counterexamples",
+      "label": "Counterexamples",
+      "type": "entity",
+      "weight": 1,
+      "category": "",
+      "source": ""
+    },
+    {
       "id": "article:https://arxiv.org/abs/2609.02893",
       "label": "Probe Generalization as Subspace Selection for OOD Deception",
       "type": "article",
@@ -2907,24 +2907,8 @@
       "source": "ArXiv cs.CL (Computation and Language / NLP)"
     },
     {
-      "id": "deception",
-      "label": "Deception",
-      "type": "entity",
-      "weight": 1,
-      "category": "",
-      "source": ""
-    },
-    {
-      "id": "generalization",
-      "label": "Generalization",
-      "type": "entity",
-      "weight": 1,
-      "category": "",
-      "source": ""
-    },
-    {
-      "id": "subspace",
-      "label": "Subspace",
+      "id": "probes",
+      "label": "Probes",
       "type": "entity",
       "weight": 1,
       "category": "",
@@ -2947,8 +2931,8 @@
       "source": ""
     },
     {
-      "id": "probes",
-      "label": "Probes",
+      "id": "deception",
+      "label": "Deception",
       "type": "entity",
       "weight": 1,
       "category": "",
@@ -2957,6 +2941,22 @@
     {
       "id": "out-of-distribution",
       "label": "Out-Of-Distribution",
+      "type": "entity",
+      "weight": 1,
+      "category": "",
+      "source": ""
+    },
+    {
+      "id": "subspace",
+      "label": "Subspace",
+      "type": "entity",
+      "weight": 1,
+      "category": "",
+      "source": ""
+    },
+    {
+      "id": "generalization",
+      "label": "Generalization",
       "type": "entity",
       "weight": 1,
       "category": "",
@@ -2979,46 +2979,6 @@
       "source": "ArXiv cs.CL (Computation and Language / NLP)"
     },
     {
-      "id": "adapter",
-      "label": "Adapter",
-      "type": "entity",
-      "weight": 1,
-      "category": "",
-      "source": ""
-    },
-    {
-      "id": "r$^{2}$adapter",
-      "label": "R$^{2}$Adapter",
-      "type": "entity",
-      "weight": 1,
-      "category": "",
-      "source": ""
-    },
-    {
-      "id": "retrieval-augmented generation",
-      "label": "Retrieval-Augmented Generation",
-      "type": "entity",
-      "weight": 1,
-      "category": "",
-      "source": ""
-    },
-    {
-      "id": "rewriting",
-      "label": "Rewriting",
-      "type": "entity",
-      "weight": 1,
-      "category": "",
-      "source": ""
-    },
-    {
-      "id": "efficient",
-      "label": "Efficient",
-      "type": "entity",
-      "weight": 1,
-      "category": "",
-      "source": ""
-    },
-    {
       "id": "rag",
       "label": "Rag",
       "type": "entity",
@@ -3027,8 +2987,8 @@
       "source": ""
     },
     {
-      "id": "routing",
-      "label": "Routing",
+      "id": "adapter",
+      "label": "Adapter",
       "type": "entity",
       "weight": 1,
       "category": "",
@@ -3043,8 +3003,48 @@
       "source": ""
     },
     {
+      "id": "rewriting",
+      "label": "Rewriting",
+      "type": "entity",
+      "weight": 1,
+      "category": "",
+      "source": ""
+    },
+    {
+      "id": "retrieval-augmented generation",
+      "label": "Retrieval-Augmented Generation",
+      "type": "entity",
+      "weight": 1,
+      "category": "",
+      "source": ""
+    },
+    {
+      "id": "efficient",
+      "label": "Efficient",
+      "type": "entity",
+      "weight": 1,
+      "category": "",
+      "source": ""
+    },
+    {
+      "id": "routing",
+      "label": "Routing",
+      "type": "entity",
+      "weight": 1,
+      "category": "",
+      "source": ""
+    },
+    {
       "id": "large language models",
       "label": "Large Language Models",
+      "type": "entity",
+      "weight": 1,
+      "category": "",
+      "source": ""
+    },
+    {
+      "id": "r$^{2}$adapter",
+      "label": "R$^{2}$Adapter",
       "type": "entity",
       "weight": 1,
       "category": "",
@@ -3059,8 +3059,8 @@
       "source": "ArXiv cs.CL (Computation and Language / NLP)"
     },
     {
-      "id": "training-free",
-      "label": "Training-Free",
+      "id": "margins",
+      "label": "Margins",
       "type": "entity",
       "weight": 1,
       "category": "",
@@ -3075,32 +3075,16 @@
       "source": ""
     },
     {
-      "id": "speculative",
-      "label": "Speculative",
+      "id": "windows",
+      "label": "Windows",
       "type": "entity",
       "weight": 1,
       "category": "",
       "source": ""
     },
     {
-      "id": "speculative decoding",
-      "label": "Speculative Decoding",
-      "type": "entity",
-      "weight": 1,
-      "category": "",
-      "source": ""
-    },
-    {
-      "id": "eagle-3",
-      "label": "Eagle-3",
-      "type": "entity",
-      "weight": 1,
-      "category": "",
-      "source": ""
-    },
-    {
-      "id": "token-match verification",
-      "label": "Token-Match Verification",
+      "id": "training-free",
+      "label": "Training-Free",
       "type": "entity",
       "weight": 1,
       "category": "",
@@ -3115,6 +3099,30 @@
       "source": ""
     },
     {
+      "id": "speculative decoding",
+      "label": "Speculative Decoding",
+      "type": "entity",
+      "weight": 1,
+      "category": "",
+      "source": ""
+    },
+    {
+      "id": "token-match verification",
+      "label": "Token-Match Verification",
+      "type": "entity",
+      "weight": 1,
+      "category": "",
+      "source": ""
+    },
+    {
+      "id": "eagle-3",
+      "label": "Eagle-3",
+      "type": "entity",
+      "weight": 1,
+      "category": "",
+      "source": ""
+    },
+    {
       "id": "tree-attention",
       "label": "Tree-Attention",
       "type": "entity",
@@ -3123,16 +3131,8 @@
       "source": ""
     },
     {
-      "id": "windows",
-      "label": "Windows",
-      "type": "entity",
-      "weight": 1,
-      "category": "",
-      "source": ""
-    },
-    {
-      "id": "margins",
-      "label": "Margins",
+      "id": "speculative",
+      "label": "Speculative",
       "type": "entity",
       "weight": 1,
       "category": "",
@@ -3147,40 +3147,16 @@
       "source": "ArXiv cs.CL (Computation and Language / NLP)"
     },
     {
-      "id": "transfer",
-      "label": "Transfer",
-      "type": "entity",
-      "weight": 1,
-      "category": "",
-      "source": ""
-    },
-    {
-      "id": "bert",
-      "label": "Bert",
-      "type": "entity",
-      "weight": 1,
-      "category": "",
-      "source": ""
-    },
-    {
-      "id": "distilled",
-      "label": "Distilled",
-      "type": "entity",
-      "weight": 1,
-      "category": "",
-      "source": ""
-    },
-    {
-      "id": "embedding",
-      "label": "Embedding",
-      "type": "entity",
-      "weight": 1,
-      "category": "",
-      "source": ""
-    },
-    {
       "id": "deployment",
       "label": "Deployment",
+      "type": "entity",
+      "weight": 1,
+      "category": "",
+      "source": ""
+    },
+    {
+      "id": "parameter-efficient",
+      "label": "Parameter-Efficient",
       "type": "entity",
       "weight": 1,
       "category": "",
@@ -3195,6 +3171,14 @@
       "source": ""
     },
     {
+      "id": "bert",
+      "label": "Bert",
+      "type": "entity",
+      "weight": 1,
+      "category": "",
+      "source": ""
+    },
+    {
       "id": "nlp",
       "label": "Nlp",
       "type": "entity",
@@ -3203,16 +3187,32 @@
       "source": ""
     },
     {
-      "id": "efficiency",
-      "label": "Efficiency",
+      "id": "embedding",
+      "label": "Embedding",
       "type": "entity",
       "weight": 1,
       "category": "",
       "source": ""
     },
     {
-      "id": "parameter-efficient",
-      "label": "Parameter-Efficient",
+      "id": "transfer",
+      "label": "Transfer",
+      "type": "entity",
+      "weight": 1,
+      "category": "",
+      "source": ""
+    },
+    {
+      "id": "distilled",
+      "label": "Distilled",
+      "type": "entity",
+      "weight": 1,
+      "category": "",
+      "source": ""
+    },
+    {
+      "id": "efficiency",
+      "label": "Efficiency",
       "type": "entity",
       "weight": 1,
       "category": "",
@@ -3235,22 +3235,6 @@
       "source": ""
     },
     {
-      "id": "contamination",
-      "label": "Contamination",
-      "type": "entity",
-      "weight": 1,
-      "category": "",
-      "source": ""
-    },
-    {
-      "id": "reliability",
-      "label": "Reliability",
-      "type": "entity",
-      "weight": 1,
-      "category": "",
-      "source": ""
-    },
-    {
       "id": "inflates",
       "label": "Inflates",
       "type": "entity",
@@ -3259,24 +3243,16 @@
       "source": ""
     },
     {
+      "id": "contamination",
+      "label": "Contamination",
+      "type": "entity",
+      "weight": 1,
+      "category": "",
+      "source": ""
+    },
+    {
       "id": "leaderboard",
       "label": "Leaderboard",
-      "type": "entity",
-      "weight": 1,
-      "category": "",
-      "source": ""
-    },
-    {
-      "id": "testing",
-      "label": "Testing",
-      "type": "entity",
-      "weight": 1,
-      "category": "",
-      "source": ""
-    },
-    {
-      "id": "large",
-      "label": "Large",
       "type": "entity",
       "weight": 1,
       "category": "",
@@ -3299,6 +3275,30 @@
       "source": ""
     },
     {
+      "id": "reliability",
+      "label": "Reliability",
+      "type": "entity",
+      "weight": 1,
+      "category": "",
+      "source": ""
+    },
+    {
+      "id": "large",
+      "label": "Large",
+      "type": "entity",
+      "weight": 1,
+      "category": "",
+      "source": ""
+    },
+    {
+      "id": "testing",
+      "label": "Testing",
+      "type": "entity",
+      "weight": 1,
+      "category": "",
+      "source": ""
+    },
+    {
       "id": "article:https://arxiv.org/abs/2609.02901",
       "label": "Dual-Form ASR: Semantics-Aware Inverse Text Normalization fo",
       "type": "article",
@@ -3307,16 +3307,8 @@
       "source": "ArXiv cs.CL (Computation and Language / NLP)"
     },
     {
-      "id": "inverse",
-      "label": "Inverse",
-      "type": "entity",
-      "weight": 1,
-      "category": "",
-      "source": ""
-    },
-    {
-      "id": "chinese",
-      "label": "Chinese",
+      "id": "normalization",
+      "label": "Normalization",
       "type": "entity",
       "weight": 1,
       "category": "",
@@ -3331,30 +3323,6 @@
       "source": ""
     },
     {
-      "id": "normalization",
-      "label": "Normalization",
-      "type": "entity",
-      "weight": 1,
-      "category": "",
-      "source": ""
-    },
-    {
-      "id": "text",
-      "label": "Text",
-      "type": "entity",
-      "weight": 1,
-      "category": "",
-      "source": ""
-    },
-    {
-      "id": "semantics-aware",
-      "label": "Semantics-Aware",
-      "type": "entity",
-      "weight": 1,
-      "category": "",
-      "source": ""
-    },
-    {
       "id": "speech",
       "label": "Speech",
       "type": "entity",
@@ -3363,8 +3331,8 @@
       "source": ""
     },
     {
-      "id": "inverse text normalization",
-      "label": "Inverse Text Normalization",
+      "id": "inverse",
+      "label": "Inverse",
       "type": "entity",
       "weight": 1,
       "category": "",
@@ -3379,28 +3347,44 @@
       "source": ""
     },
     {
+      "id": "text",
+      "label": "Text",
+      "type": "entity",
+      "weight": 1,
+      "category": "",
+      "source": ""
+    },
+    {
+      "id": "chinese",
+      "label": "Chinese",
+      "type": "entity",
+      "weight": 1,
+      "category": "",
+      "source": ""
+    },
+    {
+      "id": "semantics-aware",
+      "label": "Semantics-Aware",
+      "type": "entity",
+      "weight": 1,
+      "category": "",
+      "source": ""
+    },
+    {
+      "id": "inverse text normalization",
+      "label": "Inverse Text Normalization",
+      "type": "entity",
+      "weight": 1,
+      "category": "",
+      "source": ""
+    },
+    {
       "id": "article:https://arxiv.org/abs/2609.02902",
       "label": "RL-ADA: A World-Feedback Framework for Adversarially Robust ",
       "type": "article",
       "weight": 40,
       "category": "research",
       "source": "ArXiv cs.CL (Computation and Language / NLP)"
-    },
-    {
-      "id": "enterprise",
-      "label": "Enterprise",
-      "type": "entity",
-      "weight": 1,
-      "category": "",
-      "source": ""
-    },
-    {
-      "id": "robust",
-      "label": "Robust",
-      "type": "entity",
-      "weight": 1,
-      "category": "",
-      "source": ""
     },
     {
       "id": "dialogue",
@@ -3419,8 +3403,24 @@
       "source": ""
     },
     {
+      "id": "enterprise",
+      "label": "Enterprise",
+      "type": "entity",
+      "weight": 1,
+      "category": "",
+      "source": ""
+    },
+    {
       "id": "adversarially",
       "label": "Adversarially",
+      "type": "entity",
+      "weight": 1,
+      "category": "",
+      "source": ""
+    },
+    {
+      "id": "robust",
+      "label": "Robust",
       "type": "entity",
       "weight": 1,
       "category": "",
@@ -3470,12 +3470,12 @@
     },
     {
       "source": "article:https://github.com/ollama/ollama/releases/tag/v0.33.2",
-      "target": "source:ollama_releases",
+      "target": "category:releases",
       "weight": 1
     },
     {
       "source": "article:https://github.com/ollama/ollama/releases/tag/v0.33.2",
-      "target": "category:releases",
+      "target": "source:ollama_releases",
       "weight": 1
     },
     {
@@ -3490,16 +3490,11 @@
     },
     {
       "source": "article:https://www.latent.space/p/ainews-openai-shuts-off-cursor",
-      "target": "source:latent_space_(substack)",
+      "target": "category:newsletters",
       "weight": 1
     },
     {
       "source": "article:https://www.latent.space/p/ainews-openai-shuts-off-cursor",
-      "target": "category:newsletters",
-      "weight": 1
-    },
-    {
-      "source": "article:https://www.latent.space/p/ainews-openai-to-reach-agi-bar-by",
       "target": "source:latent_space_(substack)",
       "weight": 1
     },
@@ -3509,8 +3504,8 @@
       "weight": 1
     },
     {
-      "source": "article:https://importai.substack.com/p/import-ai-463-self-improving-robots",
-      "target": "category:newsletters",
+      "source": "article:https://www.latent.space/p/ainews-openai-to-reach-agi-bar-by",
+      "target": "source:latent_space_(substack)",
       "weight": 1
     },
     {
@@ -3519,6 +3514,11 @@
       "weight": 1
     },
     {
+      "source": "article:https://importai.substack.com/p/import-ai-463-self-improving-robots",
+      "target": "category:newsletters",
+      "weight": 1
+    },
+    {
       "source": "article:https://github.com/ggml-org/llama.cpp/releases/tag/b10679",
       "target": "category:releases",
       "weight": 1
@@ -3576,11 +3576,6 @@
     {
       "source": "article:https://github.com/stemdeckapp/stemdeck",
       "target": "category:trending",
-      "weight": 1
-    },
-    {
-      "source": "article:https://www.youtube.com/watch?v=LBiNcdGNgrg",
-      "target": "category:research",
       "weight": 1
     },
     {
@@ -3589,16 +3584,21 @@
       "weight": 1
     },
     {
+      "source": "article:https://www.youtube.com/watch?v=LBiNcdGNgrg",
+      "target": "category:research",
+      "weight": 1
+    },
+    {
+      "source": "article:https://www.technologyreview.com/2026/08/28/1143113/the-download-antiaging-drug-joining-virtual-power-plants/",
+      "target": "category:industry",
+      "weight": 1
+    },
+    {
       "source": "article:https://www.technologyreview.com/2026/08/28/1143113/the-download-antiaging-drug-joining-virtual-power-plants/",
       "target": "source:mit_technology_review_ai",
       "weight": 1
     },
     {
-      "source": "article:https://www.technologyreview.com/2026/08/28/1143113/the-download-antiaging-drug-joining-virtual-power-plants/",
-      "target": "category:industry",
-      "weight": 1
-    },
-    {
       "source": "article:https://talos-agent.ch/",
       "target": "source:show_hn_ai_7d",
       "weight": 1
@@ -3666,6 +3666,11 @@
     {
       "source": "article:https://www.marktechpost.com/2026/08/28/vercel-vgpu-webgpu-library-open-source/",
       "target": "source:marktechpost",
+      "weight": 1
+    },
+    {
+      "source": "article:https://www.youtube.com/watch?v=KL9_1GbmCic",
+      "target": "category:ai_labs",
       "weight": 1
     },
     {
@@ -3674,11 +3679,6 @@
       "weight": 1
     },
     {
-      "source": "article:https://www.youtube.com/watch?v=KL9_1GbmCic",
-      "target": "category:ai_labs",
-      "weight": 1
-    },
-    {
       "source": "article:https://lwn.net/Articles/1091231/",
       "target": "source:hn_top_ai_24h",
       "weight": 1
@@ -3810,16 +3810,11 @@
     },
     {
       "source": "article:https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-june-2026/",
-      "target": "category:ai_labs",
+      "target": "source:google_ai_blog",
       "weight": 1
     },
     {
       "source": "article:https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-june-2026/",
-      "target": "source:google_ai_blog",
-      "weight": 1
-    },
-    {
-      "source": "article:https://blog.google/products-and-platforms/products/education/nyc-ai-summit/",
       "target": "category:ai_labs",
       "weight": 1
     },
@@ -3829,13 +3824,18 @@
       "weight": 1
     },
     {
-      "source": "article:https://blog.google/company-news/inside-google/around-the-globe/google-europe/united-kingdom/unlocking-britains-next-era-of-productivity-building-a-nation-of-ai-trailblazers/",
+      "source": "article:https://blog.google/products-and-platforms/products/education/nyc-ai-summit/",
       "target": "category:ai_labs",
       "weight": 1
     },
     {
       "source": "article:https://blog.google/company-news/inside-google/around-the-globe/google-europe/united-kingdom/unlocking-britains-next-era-of-productivity-building-a-nation-of-ai-trailblazers/",
       "target": "source:google_ai_blog",
+      "weight": 1
+    },
+    {
+      "source": "article:https://blog.google/company-news/inside-google/around-the-globe/google-europe/united-kingdom/unlocking-britains-next-era-of-productivity-building-a-nation-of-ai-trailblazers/",
+      "target": "category:ai_labs",
       "weight": 1
     },
     {
@@ -4096,16 +4096,16 @@
     {
       "source": "article:https://www.abc.net.au/news/2026-08-29/fair-work-commission-condemns-ai-legal-advice/107089766",
       "target": "category:trending",
-      "weight": 1
-    },
-    {
-      "source": "article:https://arxiv.org/abs/2608.27507",
-      "target": "category:research",
       "weight": 1
     },
     {
       "source": "article:https://arxiv.org/abs/2608.27507",
       "target": "source:arxiv_cs.lg_(machine_learning)",
+      "weight": 1
+    },
+    {
+      "source": "article:https://arxiv.org/abs/2608.27507",
+      "target": "category:research",
       "weight": 1
     },
     {
@@ -4170,22 +4170,22 @@
     },
     {
       "source": "article:https://www.latent.space/p/ainews-fals-h3-max-live-breaks-the",
-      "target": "source:latent_space_(substack)",
+      "target": "category:newsletters",
       "weight": 1
     },
     {
       "source": "article:https://www.latent.space/p/ainews-fals-h3-max-live-breaks-the",
-      "target": "category:newsletters",
-      "weight": 1
-    },
-    {
-      "source": "article:https://importai.substack.com/p/import-ai-471-why-hugging-face-worries",
-      "target": "category:newsletters",
+      "target": "source:latent_space_(substack)",
       "weight": 1
     },
     {
       "source": "article:https://importai.substack.com/p/import-ai-471-why-hugging-face-worries",
       "target": "source:import_ai_(jack_clark)",
+      "weight": 1
+    },
+    {
+      "source": "article:https://importai.substack.com/p/import-ai-471-why-hugging-face-worries",
+      "target": "category:newsletters",
       "weight": 1
     },
     {
@@ -4450,11 +4450,16 @@
     },
     {
       "source": "article:https://blog.google/innovation-and-ai/technology/google-ai-updates-august-2026/",
-      "target": "category:ai_labs",
+      "target": "source:google_ai_blog",
       "weight": 1
     },
     {
       "source": "article:https://blog.google/innovation-and-ai/technology/google-ai-updates-august-2026/",
+      "target": "category:ai_labs",
+      "weight": 1
+    },
+    {
+      "source": "article:https://blog.google/products-and-platforms/products/workspace/google-pics/",
       "target": "source:google_ai_blog",
       "weight": 1
     },
@@ -4464,8 +4469,8 @@
       "weight": 1
     },
     {
-      "source": "article:https://blog.google/products-and-platforms/products/workspace/google-pics/",
-      "target": "source:google_ai_blog",
+      "source": "article:https://deepmind.google/blog/introducing-agentic-video-in-gemini/",
+      "target": "category:ai_labs",
       "weight": 1
     },
     {
@@ -4474,7 +4479,7 @@
       "weight": 1
     },
     {
-      "source": "article:https://deepmind.google/blog/introducing-agentic-video-in-gemini/",
+      "source": "article:https://huggingface.co/blog/allenai/benchmirt",
       "target": "category:ai_labs",
       "weight": 1
     },
@@ -4484,18 +4489,13 @@
       "weight": 1
     },
     {
-      "source": "article:https://huggingface.co/blog/allenai/benchmirt",
+      "source": "article:https://huggingface.co/blog/webgpu-kernels",
       "target": "category:ai_labs",
       "weight": 1
     },
     {
       "source": "article:https://huggingface.co/blog/webgpu-kernels",
       "target": "source:hugging_face_blog",
-      "weight": 1
-    },
-    {
-      "source": "article:https://huggingface.co/blog/webgpu-kernels",
-      "target": "category:ai_labs",
       "weight": 1
     },
     {
@@ -4570,12 +4570,12 @@
     },
     {
       "source": "article:https://github.com/ollama/ollama/releases/tag/v0.33.3-rc0",
-      "target": "source:ollama_releases",
+      "target": "category:releases",
       "weight": 1
     },
     {
       "source": "article:https://github.com/ollama/ollama/releases/tag/v0.33.3-rc0",
-      "target": "category:releases",
+      "target": "source:ollama_releases",
       "weight": 1
     },
     {
@@ -4590,12 +4590,12 @@
     },
     {
       "source": "article:https://www.latent.space/p/pr-not-welcome",
-      "target": "source:latent_space_(substack)",
+      "target": "category:newsletters",
       "weight": 1
     },
     {
       "source": "article:https://www.latent.space/p/pr-not-welcome",
-      "target": "category:newsletters",
+      "target": "source:latent_space_(substack)",
       "weight": 1
     },
     {
@@ -4715,11 +4715,6 @@
     },
     {
       "source": "article:https://openai.com/index/atv-big-air-tour",
-      "target": "category:ai_labs",
-      "weight": 1
-    },
-    {
-      "source": "article:https://blog.google/innovation-and-ai/technology/safety-security/fairwind-program/",
       "target": "category:ai_labs",
       "weight": 1
     },
@@ -4729,8 +4724,8 @@
       "weight": 1
     },
     {
-      "source": "article:https://deepmind.google/blog/introducing-gemini-3-8-flash-and-38-flash-cyber/",
-      "target": "source:deepmind_blog",
+      "source": "article:https://blog.google/innovation-and-ai/technology/safety-security/fairwind-program/",
+      "target": "category:ai_labs",
       "weight": 1
     },
     {
@@ -4739,6 +4734,11 @@
       "weight": 1
     },
     {
+      "source": "article:https://deepmind.google/blog/introducing-gemini-3-8-flash-and-38-flash-cyber/",
+      "target": "source:deepmind_blog",
+      "weight": 1
+    },
+    {
       "source": "article:https://trellner.com/reports/manufactured-sources-behind-ai-recommendations/",
       "target": "source:hn_top_ai_24h",
       "weight": 1
@@ -4796,6 +4796,11 @@
     {
       "source": "article:https://aisle.com/blog/aisle-discovered-six-curl-cves-after-openai-and-anthropic-found-zero",
       "target": "category:trending",
+      "weight": 1
+    },
+    {
+      "source": "article:https://github.com/ollama/ollama/releases/tag/v0.33.3-rc2",
+      "target": "category:releases",
       "weight": 1
     },
     {
@@ -4804,11 +4809,6 @@
       "weight": 1
     },
     {
-      "source": "article:https://github.com/ollama/ollama/releases/tag/v0.33.3-rc2",
-      "target": "category:releases",
-      "weight": 1
-    },
-    {
       "source": "article:https://github.com/mlc-ai/web-llm",
       "target": "source:hn_top_llm_24h",
       "weight": 1
@@ -4830,22 +4830,22 @@
     },
     {
       "source": "article:https://www.latent.space/p/ainews-muse-spark-13-matches-gpt",
-      "target": "source:latent_space_(substack)",
+      "target": "category:newsletters",
       "weight": 1
     },
     {
       "source": "article:https://www.latent.space/p/ainews-muse-spark-13-matches-gpt",
-      "target": "category:newsletters",
-      "weight": 1
-    },
-    {
-      "source": "article:https://www.latent.space/p/ainews-claude-fablemythos-51-new",
       "target": "source:latent_space_(substack)",
       "weight": 1
     },
     {
       "source": "article:https://www.latent.space/p/ainews-claude-fablemythos-51-new",
       "target": "category:newsletters",
+      "weight": 1
+    },
+    {
+      "source": "article:https://www.latent.space/p/ainews-claude-fablemythos-51-new",
+      "target": "source:latent_space_(substack)",
       "weight": 1
     },
     {
@@ -5006,41 +5006,6 @@
     {
       "source": "article:https://arxiv.org/abs/2609.01846",
       "target": "category:research",
-      "weight": 1
-    },
-    {
-      "source": "article:https://openai.com/index/daybreak-for-frontline-defenders",
-      "target": "source:openai_blog",
-      "weight": 1
-    },
-    {
-      "source": "article:https://openai.com/index/daybreak-for-frontline-defenders",
-      "target": "daybreak",
-      "weight": 1
-    },
-    {
-      "source": "article:https://openai.com/index/daybreak-for-frontline-defenders",
-      "target": "frontline defenders",
-      "weight": 1
-    },
-    {
-      "source": "article:https://openai.com/index/daybreak-for-frontline-defenders",
-      "target": "category:ai_labs",
-      "weight": 1
-    },
-    {
-      "source": "article:https://openai.com/index/daybreak-for-frontline-defenders",
-      "target": "defenders",
-      "weight": 1
-    },
-    {
-      "source": "article:https://openai.com/index/daybreak-for-frontline-defenders",
-      "target": "essential services",
-      "weight": 1
-    },
-    {
-      "source": "article:https://openai.com/index/daybreak-for-frontline-defenders",
-      "target": "essential",
       "weight": 1
     },
     {
@@ -5050,7 +5015,32 @@
     },
     {
       "source": "article:https://openai.com/index/daybreak-for-frontline-defenders",
+      "target": "frontline defenders",
+      "weight": 1
+    },
+    {
+      "source": "article:https://openai.com/index/daybreak-for-frontline-defenders",
+      "target": "defenders",
+      "weight": 1
+    },
+    {
+      "source": "article:https://openai.com/index/daybreak-for-frontline-defenders",
+      "target": "services",
+      "weight": 1
+    },
+    {
+      "source": "article:https://openai.com/index/daybreak-for-frontline-defenders",
       "target": "frontline",
+      "weight": 1
+    },
+    {
+      "source": "article:https://openai.com/index/daybreak-for-frontline-defenders",
+      "target": "source:openai_blog",
+      "weight": 1
+    },
+    {
+      "source": "article:https://openai.com/index/daybreak-for-frontline-defenders",
+      "target": "essential services",
       "weight": 1
     },
     {
@@ -5060,37 +5050,17 @@
     },
     {
       "source": "article:https://openai.com/index/daybreak-for-frontline-defenders",
-      "target": "services",
-      "weight": 1
-    },
-    {
-      "source": "article:https://openai.com/index/legora-financial-statement-review-with-astra",
-      "target": "financial review",
-      "weight": 1
-    },
-    {
-      "source": "article:https://openai.com/index/legora-financial-statement-review-with-astra",
-      "target": "source:openai_blog",
-      "weight": 1
-    },
-    {
-      "source": "article:https://openai.com/index/legora-financial-statement-review-with-astra",
       "target": "category:ai_labs",
       "weight": 1
     },
     {
-      "source": "article:https://openai.com/index/legora-financial-statement-review-with-astra",
-      "target": "minutes",
+      "source": "article:https://openai.com/index/daybreak-for-frontline-defenders",
+      "target": "essential",
       "weight": 1
     },
     {
-      "source": "article:https://openai.com/index/legora-financial-statement-review-with-astra",
-      "target": "document review",
-      "weight": 1
-    },
-    {
-      "source": "article:https://openai.com/index/legora-financial-statement-review-with-astra",
-      "target": "performance improvement",
+      "source": "article:https://openai.com/index/daybreak-for-frontline-defenders",
+      "target": "daybreak",
       "weight": 1
     },
     {
@@ -5100,12 +5070,42 @@
     },
     {
       "source": "article:https://openai.com/index/legora-financial-statement-review-with-astra",
-      "target": "documents",
+      "target": "minutes",
+      "weight": 1
+    },
+    {
+      "source": "article:https://openai.com/index/legora-financial-statement-review-with-astra",
+      "target": "performance improvement",
+      "weight": 1
+    },
+    {
+      "source": "article:https://openai.com/index/legora-financial-statement-review-with-astra",
+      "target": "source:openai_blog",
+      "weight": 1
+    },
+    {
+      "source": "article:https://openai.com/index/legora-financial-statement-review-with-astra",
+      "target": "astra",
+      "weight": 1
+    },
+    {
+      "source": "article:https://openai.com/index/legora-financial-statement-review-with-astra",
+      "target": "financial review",
+      "weight": 1
+    },
+    {
+      "source": "article:https://openai.com/index/legora-financial-statement-review-with-astra",
+      "target": "document review",
       "weight": 1
     },
     {
       "source": "article:https://openai.com/index/legora-financial-statement-review-with-astra",
       "target": "gpt-6 astra",
+      "weight": 1
+    },
+    {
+      "source": "article:https://openai.com/index/legora-financial-statement-review-with-astra",
+      "target": "category:ai_labs",
       "weight": 1
     },
     {
@@ -5115,37 +5115,12 @@
     },
     {
       "source": "article:https://openai.com/index/legora-financial-statement-review-with-astra",
-      "target": "astra",
-      "weight": 1
-    },
-    {
-      "source": "article:https://openai.com/index/legora-financial-statement-review-with-astra",
       "target": "gpt-6",
       "weight": 1
     },
     {
-      "source": "article:https://openai.com/index/playco-game-prototyping-with-astra",
-      "target": "source:openai_blog",
-      "weight": 1
-    },
-    {
-      "source": "article:https://openai.com/index/playco-game-prototyping-with-astra",
-      "target": "playco",
-      "weight": 1
-    },
-    {
-      "source": "article:https://openai.com/index/playco-game-prototyping-with-astra",
-      "target": "manual",
-      "weight": 1
-    },
-    {
-      "source": "article:https://openai.com/index/playco-game-prototyping-with-astra",
-      "target": "category:ai_labs",
-      "weight": 1
-    },
-    {
-      "source": "article:https://openai.com/index/playco-game-prototyping-with-astra",
-      "target": "grey box",
+      "source": "article:https://openai.com/index/legora-financial-statement-review-with-astra",
+      "target": "documents",
       "weight": 1
     },
     {
@@ -5155,12 +5130,22 @@
     },
     {
       "source": "article:https://openai.com/index/playco-game-prototyping-with-astra",
+      "target": "source:openai_blog",
+      "weight": 1
+    },
+    {
+      "source": "article:https://openai.com/index/playco-game-prototyping-with-astra",
+      "target": "fixes",
+      "weight": 1
+    },
+    {
+      "source": "article:https://openai.com/index/playco-game-prototyping-with-astra",
       "target": "prototyping",
       "weight": 1
     },
     {
       "source": "article:https://openai.com/index/playco-game-prototyping-with-astra",
-      "target": "gpt-6 astra",
+      "target": "manual",
       "weight": 1
     },
     {
@@ -5170,12 +5155,27 @@
     },
     {
       "source": "article:https://openai.com/index/playco-game-prototyping-with-astra",
+      "target": "category:ai_labs",
+      "weight": 1
+    },
+    {
+      "source": "article:https://openai.com/index/playco-game-prototyping-with-astra",
+      "target": "gpt-6 astra",
+      "weight": 1
+    },
+    {
+      "source": "article:https://openai.com/index/playco-game-prototyping-with-astra",
+      "target": "playco",
+      "weight": 1
+    },
+    {
+      "source": "article:https://openai.com/index/playco-game-prototyping-with-astra",
       "target": "gpt-6",
       "weight": 1
     },
     {
       "source": "article:https://openai.com/index/playco-game-prototyping-with-astra",
-      "target": "fixes",
+      "target": "grey box",
       "weight": 1
     },
     {
@@ -5185,12 +5185,12 @@
     },
     {
       "source": "article:https://openai.com/index/safety-overview-gpt-6-astra",
-      "target": "category:ai_labs",
+      "target": "preparedness framework",
       "weight": 1
     },
     {
       "source": "article:https://openai.com/index/safety-overview-gpt-6-astra",
-      "target": "overview",
+      "target": "astra",
       "weight": 1
     },
     {
@@ -5205,7 +5205,12 @@
     },
     {
       "source": "article:https://openai.com/index/safety-overview-gpt-6-astra",
-      "target": "astra",
+      "target": "category:ai_labs",
+      "weight": 1
+    },
+    {
+      "source": "article:https://openai.com/index/safety-overview-gpt-6-astra",
+      "target": "overview",
       "weight": 1
     },
     {
@@ -5215,7 +5220,7 @@
     },
     {
       "source": "article:https://openai.com/index/safety-overview-gpt-6-astra",
-      "target": "preparedness framework",
+      "target": "capable",
       "weight": 1
     },
     {
@@ -5224,33 +5229,8 @@
       "weight": 1
     },
     {
-      "source": "article:https://openai.com/index/safety-overview-gpt-6-astra",
-      "target": "capable",
-      "weight": 1
-    },
-    {
       "source": "article:https://deepmind.google/blog/introducing-weathernext-3-our-most-advanced-and-accurate-global-weather-ai-model/",
-      "target": "category:ai_labs",
-      "weight": 1
-    },
-    {
-      "source": "article:https://deepmind.google/blog/introducing-weathernext-3-our-most-advanced-and-accurate-global-weather-ai-model/",
-      "target": "weathernext",
-      "weight": 1
-    },
-    {
-      "source": "article:https://deepmind.google/blog/introducing-weathernext-3-our-most-advanced-and-accurate-global-weather-ai-model/",
-      "target": "accuracy",
-      "weight": 1
-    },
-    {
-      "source": "article:https://deepmind.google/blog/introducing-weathernext-3-our-most-advanced-and-accurate-global-weather-ai-model/",
-      "target": "model",
-      "weight": 1
-    },
-    {
-      "source": "article:https://deepmind.google/blog/introducing-weathernext-3-our-most-advanced-and-accurate-global-weather-ai-model/",
-      "target": "accurate",
+      "target": "introducing",
       "weight": 1
     },
     {
@@ -5260,7 +5240,7 @@
     },
     {
       "source": "article:https://deepmind.google/blog/introducing-weathernext-3-our-most-advanced-and-accurate-global-weather-ai-model/",
-      "target": "weather",
+      "target": "weathernext",
       "weight": 1
     },
     {
@@ -5270,12 +5250,37 @@
     },
     {
       "source": "article:https://deepmind.google/blog/introducing-weathernext-3-our-most-advanced-and-accurate-global-weather-ai-model/",
-      "target": "introducing",
+      "target": "accurate",
+      "weight": 1
+    },
+    {
+      "source": "article:https://deepmind.google/blog/introducing-weathernext-3-our-most-advanced-and-accurate-global-weather-ai-model/",
+      "target": "category:ai_labs",
+      "weight": 1
+    },
+    {
+      "source": "article:https://deepmind.google/blog/introducing-weathernext-3-our-most-advanced-and-accurate-global-weather-ai-model/",
+      "target": "accuracy",
+      "weight": 1
+    },
+    {
+      "source": "article:https://deepmind.google/blog/introducing-weathernext-3-our-most-advanced-and-accurate-global-weather-ai-model/",
+      "target": "weather",
+      "weight": 1
+    },
+    {
+      "source": "article:https://deepmind.google/blog/introducing-weathernext-3-our-most-advanced-and-accurate-global-weather-ai-model/",
+      "target": "model",
       "weight": 1
     },
     {
       "source": "article:https://huggingface.co/blog/grpo-with-trl-ifstruct",
-      "target": "category:ai_labs",
+      "target": "better",
+      "weight": 1
+    },
+    {
+      "source": "article:https://huggingface.co/blog/grpo-with-trl-ifstruct",
+      "target": "outputs",
       "weight": 1
     },
     {
@@ -5285,7 +5290,12 @@
     },
     {
       "source": "article:https://huggingface.co/blog/grpo-with-trl-ifstruct",
-      "target": "outputs",
+      "target": "structured outputs",
+      "weight": 1
+    },
+    {
+      "source": "article:https://huggingface.co/blog/grpo-with-trl-ifstruct",
+      "target": "grpo",
       "weight": 1
     },
     {
@@ -5300,7 +5310,7 @@
     },
     {
       "source": "article:https://huggingface.co/blog/grpo-with-trl-ifstruct",
-      "target": "model",
+      "target": "category:ai_labs",
       "weight": 1
     },
     {
@@ -5310,22 +5320,27 @@
     },
     {
       "source": "article:https://huggingface.co/blog/grpo-with-trl-ifstruct",
-      "target": "better",
-      "weight": 1
-    },
-    {
-      "source": "article:https://huggingface.co/blog/grpo-with-trl-ifstruct",
-      "target": "structured outputs",
-      "weight": 1
-    },
-    {
-      "source": "article:https://huggingface.co/blog/grpo-with-trl-ifstruct",
-      "target": "grpo",
+      "target": "model",
       "weight": 1
     },
     {
       "source": "article:https://huggingface.co/blog/funes",
-      "target": "own",
+      "target": "agents",
+      "weight": 1
+    },
+    {
+      "source": "article:https://huggingface.co/blog/funes",
+      "target": "ownership",
+      "weight": 1
+    },
+    {
+      "source": "article:https://huggingface.co/blog/funes",
+      "target": "memory",
+      "weight": 1
+    },
+    {
+      "source": "article:https://huggingface.co/blog/funes",
+      "target": "coding",
       "weight": 1
     },
     {
@@ -5335,7 +5350,7 @@
     },
     {
       "source": "article:https://huggingface.co/blog/funes",
-      "target": "memory",
+      "target": "own",
       "weight": 1
     },
     {
@@ -5350,42 +5365,7 @@
     },
     {
       "source": "article:https://huggingface.co/blog/funes",
-      "target": "ownership",
-      "weight": 1
-    },
-    {
-      "source": "article:https://huggingface.co/blog/funes",
-      "target": "agents",
-      "weight": 1
-    },
-    {
-      "source": "article:https://huggingface.co/blog/funes",
       "target": "give",
-      "weight": 1
-    },
-    {
-      "source": "article:https://huggingface.co/blog/funes",
-      "target": "coding",
-      "weight": 1
-    },
-    {
-      "source": "article:https://huggingface.co/blog/train-to-paint-with-code",
-      "target": "category:ai_labs",
-      "weight": 1
-    },
-    {
-      "source": "article:https://huggingface.co/blog/train-to-paint-with-code",
-      "target": "watercolours",
-      "weight": 1
-    },
-    {
-      "source": "article:https://huggingface.co/blog/train-to-paint-with-code",
-      "target": "source:hugging_face_blog",
-      "weight": 1
-    },
-    {
-      "source": "article:https://huggingface.co/blog/train-to-paint-with-code",
-      "target": "training",
       "weight": 1
     },
     {
@@ -5395,12 +5375,12 @@
     },
     {
       "source": "article:https://huggingface.co/blog/train-to-paint-with-code",
-      "target": "coding model",
+      "target": "paint",
       "weight": 1
     },
     {
       "source": "article:https://huggingface.co/blog/train-to-paint-with-code",
-      "target": "openenv",
+      "target": "training",
       "weight": 1
     },
     {
@@ -5410,17 +5390,27 @@
     },
     {
       "source": "article:https://huggingface.co/blog/train-to-paint-with-code",
-      "target": "paint",
+      "target": "coding model",
       "weight": 1
     },
     {
-      "source": "article:https://babyloniantwins.com/blog/porting-a-1993-amiga-game-to-godot/",
-      "target": "llm",
+      "source": "article:https://huggingface.co/blog/train-to-paint-with-code",
+      "target": "category:ai_labs",
       "weight": 1
     },
     {
-      "source": "article:https://babyloniantwins.com/blog/porting-a-1993-amiga-game-to-godot/",
-      "target": "porting",
+      "source": "article:https://huggingface.co/blog/train-to-paint-with-code",
+      "target": "source:hugging_face_blog",
+      "weight": 1
+    },
+    {
+      "source": "article:https://huggingface.co/blog/train-to-paint-with-code",
+      "target": "watercolours",
+      "weight": 1
+    },
+    {
+      "source": "article:https://huggingface.co/blog/train-to-paint-with-code",
+      "target": "openenv",
       "weight": 1
     },
     {
@@ -5430,12 +5420,7 @@
     },
     {
       "source": "article:https://babyloniantwins.com/blog/porting-a-1993-amiga-game-to-godot/",
-      "target": "amiga",
-      "weight": 1
-    },
-    {
-      "source": "article:https://babyloniantwins.com/blog/porting-a-1993-amiga-game-to-godot/",
-      "target": "source:hn_top_llm_24h",
+      "target": "assembly",
       "weight": 1
     },
     {
@@ -5450,27 +5435,27 @@
     },
     {
       "source": "article:https://babyloniantwins.com/blog/porting-a-1993-amiga-game-to-godot/",
-      "target": "assembly",
+      "target": "source:hn_top_llm_24h",
+      "weight": 1
+    },
+    {
+      "source": "article:https://babyloniantwins.com/blog/porting-a-1993-amiga-game-to-godot/",
+      "target": "amiga",
+      "weight": 1
+    },
+    {
+      "source": "article:https://babyloniantwins.com/blog/porting-a-1993-amiga-game-to-godot/",
+      "target": "llm",
+      "weight": 1
+    },
+    {
+      "source": "article:https://babyloniantwins.com/blog/porting-a-1993-amiga-game-to-godot/",
+      "target": "porting",
       "weight": 1
     },
     {
       "source": "article:https://news.ycombinator.com/item?id=49551096",
-      "target": "source:hn_top_ai_24h",
-      "weight": 1
-    },
-    {
-      "source": "article:https://news.ycombinator.com/item?id=49551096",
-      "target": "claude",
-      "weight": 1
-    },
-    {
-      "source": "article:https://news.ycombinator.com/item?id=49551096",
-      "target": "openai",
-      "weight": 1
-    },
-    {
-      "source": "article:https://news.ycombinator.com/item?id=49551096",
-      "target": "simultaneously",
+      "target": "ask hn",
       "weight": 1
     },
     {
@@ -5480,12 +5465,17 @@
     },
     {
       "source": "article:https://news.ycombinator.com/item?id=49551096",
-      "target": "ask",
+      "target": "claude",
       "weight": 1
     },
     {
       "source": "article:https://news.ycombinator.com/item?id=49551096",
-      "target": "downtime",
+      "target": "simultaneously",
+      "weight": 1
+    },
+    {
+      "source": "article:https://news.ycombinator.com/item?id=49551096",
+      "target": "source:hn_top_ai_24h",
       "weight": 1
     },
     {
@@ -5495,27 +5485,17 @@
     },
     {
       "source": "article:https://news.ycombinator.com/item?id=49551096",
-      "target": "ask hn",
+      "target": "ask",
       "weight": 1
     },
     {
-      "source": "article:https://www.cnbc.com/2026/09/03/open-ai-astra-gpt-6-cyber.html",
-      "target": "source:hn_top_ai_24h",
-      "weight": 1
-    },
-    {
-      "source": "article:https://www.cnbc.com/2026/09/03/open-ai-astra-gpt-6-cyber.html",
-      "target": "rolling",
-      "weight": 1
-    },
-    {
-      "source": "article:https://www.cnbc.com/2026/09/03/open-ai-astra-gpt-6-cyber.html",
+      "source": "article:https://news.ycombinator.com/item?id=49551096",
       "target": "openai",
       "weight": 1
     },
     {
-      "source": "article:https://www.cnbc.com/2026/09/03/open-ai-astra-gpt-6-cyber.html",
-      "target": "astra",
+      "source": "article:https://news.ycombinator.com/item?id=49551096",
+      "target": "downtime",
       "weight": 1
     },
     {
@@ -5525,7 +5505,17 @@
     },
     {
       "source": "article:https://www.cnbc.com/2026/09/03/open-ai-astra-gpt-6-cyber.html",
-      "target": "gpt-6",
+      "target": "rolling",
+      "weight": 1
+    },
+    {
+      "source": "article:https://www.cnbc.com/2026/09/03/open-ai-astra-gpt-6-cyber.html",
+      "target": "source:hn_top_ai_24h",
+      "weight": 1
+    },
+    {
+      "source": "article:https://www.cnbc.com/2026/09/03/open-ai-astra-gpt-6-cyber.html",
+      "target": "astra",
       "weight": 1
     },
     {
@@ -5534,23 +5524,13 @@
       "weight": 1
     },
     {
-      "source": "article:https://inference-docs.cerebras.ai/models/overview",
-      "target": "source:hn_top_ai_24h",
+      "source": "article:https://www.cnbc.com/2026/09/03/open-ai-astra-gpt-6-cyber.html",
+      "target": "openai",
       "weight": 1
     },
     {
-      "source": "article:https://inference-docs.cerebras.ai/models/overview",
-      "target": "tokens",
-      "weight": 1
-    },
-    {
-      "source": "article:https://inference-docs.cerebras.ai/models/overview",
-      "target": "cerebras",
-      "weight": 1
-    },
-    {
-      "source": "article:https://inference-docs.cerebras.ai/models/overview",
-      "target": "qwen",
+      "source": "article:https://www.cnbc.com/2026/09/03/open-ai-astra-gpt-6-cyber.html",
+      "target": "gpt-6",
       "weight": 1
     },
     {
@@ -5560,7 +5540,22 @@
     },
     {
       "source": "article:https://inference-docs.cerebras.ai/models/overview",
+      "target": "tokens",
+      "weight": 1
+    },
+    {
+      "source": "article:https://inference-docs.cerebras.ai/models/overview",
       "target": "available",
+      "weight": 1
+    },
+    {
+      "source": "article:https://inference-docs.cerebras.ai/models/overview",
+      "target": "cerebras",
+      "weight": 1
+    },
+    {
+      "source": "article:https://inference-docs.cerebras.ai/models/overview",
+      "target": "source:hn_top_ai_24h",
       "weight": 1
     },
     {
@@ -5569,28 +5564,8 @@
       "weight": 1
     },
     {
-      "source": "article:https://github.com/ollama/ollama/releases/tag/v0.33.3",
-      "target": "gemma4",
-      "weight": 1
-    },
-    {
-      "source": "article:https://github.com/ollama/ollama/releases/tag/v0.33.3",
-      "target": "gguf model",
-      "weight": 1
-    },
-    {
-      "source": "article:https://github.com/ollama/ollama/releases/tag/v0.33.3",
-      "target": "mlx",
-      "weight": 1
-    },
-    {
-      "source": "article:https://github.com/ollama/ollama/releases/tag/v0.33.3",
-      "target": "images",
-      "weight": 1
-    },
-    {
-      "source": "article:https://github.com/ollama/ollama/releases/tag/v0.33.3",
-      "target": "mlx-c",
+      "source": "article:https://inference-docs.cerebras.ai/models/overview",
+      "target": "qwen",
       "weight": 1
     },
     {
@@ -5600,37 +5575,12 @@
     },
     {
       "source": "article:https://github.com/ollama/ollama/releases/tag/v0.33.3",
-      "target": "llama.cpp",
-      "weight": 1
-    },
-    {
-      "source": "article:https://github.com/ollama/ollama/releases/tag/v0.33.3",
-      "target": "changed",
-      "weight": 1
-    },
-    {
-      "source": "article:https://github.com/ollama/ollama/releases/tag/v0.33.3",
-      "target": "ollama",
-      "weight": 1
-    },
-    {
-      "source": "article:https://github.com/ollama/ollama/releases/tag/v0.33.3",
-      "target": "source:ollama_releases",
-      "weight": 1
-    },
-    {
-      "source": "article:https://github.com/ollama/ollama/releases/tag/v0.33.3",
-      "target": "category:releases",
-      "weight": 1
-    },
-    {
-      "source": "article:https://github.com/ollama/ollama/releases/tag/v0.33.3",
-      "target": "report cached prompt tokens",
-      "weight": 1
-    },
-    {
-      "source": "article:https://github.com/ollama/ollama/releases/tag/v0.33.3",
       "target": "new contributors",
+      "weight": 1
+    },
+    {
+      "source": "article:https://github.com/ollama/ollama/releases/tag/v0.33.3",
+      "target": "mlx",
       "weight": 1
     },
     {
@@ -5640,57 +5590,57 @@
     },
     {
       "source": "article:https://github.com/ollama/ollama/releases/tag/v0.33.3",
+      "target": "llama.cpp",
+      "weight": 1
+    },
+    {
+      "source": "article:https://github.com/ollama/ollama/releases/tag/v0.33.3",
+      "target": "source:ollama_releases",
+      "weight": 1
+    },
+    {
+      "source": "article:https://github.com/ollama/ollama/releases/tag/v0.33.3",
+      "target": "report cached prompt tokens",
+      "weight": 1
+    },
+    {
+      "source": "article:https://github.com/ollama/ollama/releases/tag/v0.33.3",
+      "target": "gguf model",
+      "weight": 1
+    },
+    {
+      "source": "article:https://github.com/ollama/ollama/releases/tag/v0.33.3",
+      "target": "category:releases",
+      "weight": 1
+    },
+    {
+      "source": "article:https://github.com/ollama/ollama/releases/tag/v0.33.3",
+      "target": "gemma4",
+      "weight": 1
+    },
+    {
+      "source": "article:https://github.com/ollama/ollama/releases/tag/v0.33.3",
+      "target": "mlx-c",
+      "weight": 1
+    },
+    {
+      "source": "article:https://github.com/ollama/ollama/releases/tag/v0.33.3",
+      "target": "ollama",
+      "weight": 1
+    },
+    {
+      "source": "article:https://github.com/ollama/ollama/releases/tag/v0.33.3",
+      "target": "images",
+      "weight": 1
+    },
+    {
+      "source": "article:https://github.com/ollama/ollama/releases/tag/v0.33.3",
+      "target": "changed",
+      "weight": 1
+    },
+    {
+      "source": "article:https://github.com/ollama/ollama/releases/tag/v0.33.3",
       "target": "audio",
-      "weight": 1
-    },
-    {
-      "source": "article:https://www.latent.space/p/ainews-gpt-6-astra-openais-biggest",
-      "target": "llm",
-      "weight": 1
-    },
-    {
-      "source": "article:https://www.latent.space/p/ainews-gpt-6-astra-openais-biggest",
-      "target": "source:latent_space_(substack)",
-      "weight": 1
-    },
-    {
-      "source": "article:https://www.latent.space/p/ainews-gpt-6-astra-openais-biggest",
-      "target": "monitoring",
-      "weight": 1
-    },
-    {
-      "source": "article:https://www.latent.space/p/ainews-gpt-6-astra-openais-biggest",
-      "target": "sota",
-      "weight": 1
-    },
-    {
-      "source": "article:https://www.latent.space/p/ainews-gpt-6-astra-openais-biggest",
-      "target": "pricing",
-      "weight": 1
-    },
-    {
-      "source": "article:https://www.latent.space/p/ainews-gpt-6-astra-openais-biggest",
-      "target": "category:newsletters",
-      "weight": 1
-    },
-    {
-      "source": "article:https://www.latent.space/p/ainews-gpt-6-astra-openais-biggest",
-      "target": "openai",
-      "weight": 1
-    },
-    {
-      "source": "article:https://www.latent.space/p/ainews-gpt-6-astra-openais-biggest",
-      "target": "ainews",
-      "weight": 1
-    },
-    {
-      "source": "article:https://www.latent.space/p/ainews-gpt-6-astra-openais-biggest",
-      "target": "astra",
-      "weight": 1
-    },
-    {
-      "source": "article:https://www.latent.space/p/ainews-gpt-6-astra-openais-biggest",
-      "target": "launch",
       "weight": 1
     },
     {
@@ -5700,7 +5650,7 @@
     },
     {
       "source": "article:https://www.latent.space/p/ainews-gpt-6-astra-openais-biggest",
-      "target": "gpt-6",
+      "target": "monitoring",
       "weight": 1
     },
     {
@@ -5710,37 +5660,62 @@
     },
     {
       "source": "article:https://www.latent.space/p/ainews-gpt-6-astra-openais-biggest",
+      "target": "pricing",
+      "weight": 1
+    },
+    {
+      "source": "article:https://www.latent.space/p/ainews-gpt-6-astra-openais-biggest",
       "target": "biggest",
       "weight": 1
     },
     {
-      "source": "article:https://www.latent.space/p/astra",
+      "source": "article:https://www.latent.space/p/ainews-gpt-6-astra-openais-biggest",
+      "target": "astra",
+      "weight": 1
+    },
+    {
+      "source": "article:https://www.latent.space/p/ainews-gpt-6-astra-openais-biggest",
+      "target": "ainews",
+      "weight": 1
+    },
+    {
+      "source": "article:https://www.latent.space/p/ainews-gpt-6-astra-openais-biggest",
+      "target": "category:newsletters",
+      "weight": 1
+    },
+    {
+      "source": "article:https://www.latent.space/p/ainews-gpt-6-astra-openais-biggest",
       "target": "source:latent_space_(substack)",
       "weight": 1
     },
     {
-      "source": "article:https://www.latent.space/p/astra",
-      "target": "ai engineer",
+      "source": "article:https://www.latent.space/p/ainews-gpt-6-astra-openais-biggest",
+      "target": "openai",
+      "weight": 1
+    },
+    {
+      "source": "article:https://www.latent.space/p/ainews-gpt-6-astra-openais-biggest",
+      "target": "llm",
+      "weight": 1
+    },
+    {
+      "source": "article:https://www.latent.space/p/ainews-gpt-6-astra-openais-biggest",
+      "target": "sota",
+      "weight": 1
+    },
+    {
+      "source": "article:https://www.latent.space/p/ainews-gpt-6-astra-openais-biggest",
+      "target": "launch",
+      "weight": 1
+    },
+    {
+      "source": "article:https://www.latent.space/p/ainews-gpt-6-astra-openais-biggest",
+      "target": "gpt-6",
       "weight": 1
     },
     {
       "source": "article:https://www.latent.space/p/astra",
       "target": "automation",
-      "weight": 1
-    },
-    {
-      "source": "article:https://www.latent.space/p/astra",
-      "target": "cost",
-      "weight": 1
-    },
-    {
-      "source": "article:https://www.latent.space/p/astra",
-      "target": "category:newsletters",
-      "weight": 1
-    },
-    {
-      "source": "article:https://www.latent.space/p/astra",
-      "target": "automated",
       "weight": 1
     },
     {
@@ -5755,7 +5730,22 @@
     },
     {
       "source": "article:https://www.latent.space/p/astra",
-      "target": "gpt-6",
+      "target": "ai engineer",
+      "weight": 1
+    },
+    {
+      "source": "article:https://www.latent.space/p/astra",
+      "target": "source:latent_space_(substack)",
+      "weight": 1
+    },
+    {
+      "source": "article:https://www.latent.space/p/astra",
+      "target": "cost",
+      "weight": 1
+    },
+    {
+      "source": "article:https://www.latent.space/p/astra",
+      "target": "automated",
       "weight": 1
     },
     {
@@ -5764,28 +5754,13 @@
       "weight": 1
     },
     {
-      "source": "article:https://github.com/ggml-org/llama.cpp/releases/tag/b10796",
-      "target": "nemotron",
+      "source": "article:https://www.latent.space/p/astra",
+      "target": "category:newsletters",
       "weight": 1
     },
     {
-      "source": "article:https://github.com/ggml-org/llama.cpp/releases/tag/b10796",
-      "target": "fuse",
-      "weight": 1
-    },
-    {
-      "source": "article:https://github.com/ggml-org/llama.cpp/releases/tag/b10796",
-      "target": "function",
-      "weight": 1
-    },
-    {
-      "source": "article:https://github.com/ggml-org/llama.cpp/releases/tag/b10796",
-      "target": "add",
-      "weight": 1
-    },
-    {
-      "source": "article:https://github.com/ggml-org/llama.cpp/releases/tag/b10796",
-      "target": "expert_used_max",
+      "source": "article:https://www.latent.space/p/astra",
+      "target": "gpt-6",
       "weight": 1
     },
     {
@@ -5795,7 +5770,7 @@
     },
     {
       "source": "article:https://github.com/ggml-org/llama.cpp/releases/tag/b10796",
-      "target": "n_expert_used_max",
+      "target": "fuse",
       "weight": 1
     },
     {
@@ -5805,7 +5780,37 @@
     },
     {
       "source": "article:https://github.com/ggml-org/llama.cpp/releases/tag/b10796",
+      "target": "expert_used_max",
+      "weight": 1
+    },
+    {
+      "source": "article:https://github.com/ggml-org/llama.cpp/releases/tag/b10796",
+      "target": "n_expert_used_max",
+      "weight": 1
+    },
+    {
+      "source": "article:https://github.com/ggml-org/llama.cpp/releases/tag/b10796",
+      "target": "add",
+      "weight": 1
+    },
+    {
+      "source": "article:https://github.com/ggml-org/llama.cpp/releases/tag/b10796",
+      "target": "nemotron",
+      "weight": 1
+    },
+    {
+      "source": "article:https://github.com/ggml-org/llama.cpp/releases/tag/b10796",
       "target": "source:ggml/llama.cpp_releases",
+      "weight": 1
+    },
+    {
+      "source": "article:https://github.com/ggml-org/llama.cpp/releases/tag/b10796",
+      "target": "function",
+      "weight": 1
+    },
+    {
+      "source": "article:https://github.com/ggml-org/llama.cpp/releases/tag/b10795",
+      "target": "category:releases",
       "weight": 1
     },
     {
@@ -5815,7 +5820,22 @@
     },
     {
       "source": "article:https://github.com/ggml-org/llama.cpp/releases/tag/b10795",
-      "target": "sycl",
+      "target": "src",
+      "weight": 1
+    },
+    {
+      "source": "article:https://github.com/ggml-org/llama.cpp/releases/tag/b10795",
+      "target": "expert_used_max",
+      "weight": 1
+    },
+    {
+      "source": "article:https://github.com/ggml-org/llama.cpp/releases/tag/b10795",
+      "target": "source:ggml/llama.cpp_releases",
+      "weight": 1
+    },
+    {
+      "source": "article:https://github.com/ggml-org/llama.cpp/releases/tag/b10795",
+      "target": "add",
       "weight": 1
     },
     {
@@ -5825,7 +5845,7 @@
     },
     {
       "source": "article:https://github.com/ggml-org/llama.cpp/releases/tag/b10795",
-      "target": "add",
+      "target": "sycl",
       "weight": 1
     },
     {
@@ -5840,52 +5860,7 @@
     },
     {
       "source": "article:https://github.com/ggml-org/llama.cpp/releases/tag/b10795",
-      "target": "expert_used_max",
-      "weight": 1
-    },
-    {
-      "source": "article:https://github.com/ggml-org/llama.cpp/releases/tag/b10795",
-      "target": "category:releases",
-      "weight": 1
-    },
-    {
-      "source": "article:https://github.com/ggml-org/llama.cpp/releases/tag/b10795",
-      "target": "src",
-      "weight": 1
-    },
-    {
-      "source": "article:https://github.com/ggml-org/llama.cpp/releases/tag/b10795",
-      "target": "source:ggml/llama.cpp_releases",
-      "weight": 1
-    },
-    {
-      "source": "article:https://github.com/ggml-org/llama.cpp/releases/tag/b10795",
       "target": "ggml",
-      "weight": 1
-    },
-    {
-      "source": "article:https://github.com/ggml-org/llama.cpp/releases/tag/b10794",
-      "target": "cpp",
-      "weight": 1
-    },
-    {
-      "source": "article:https://github.com/ggml-org/llama.cpp/releases/tag/b10794",
-      "target": "https",
-      "weight": 1
-    },
-    {
-      "source": "article:https://github.com/ggml-org/llama.cpp/releases/tag/b10794",
-      "target": "attestation",
-      "weight": 1
-    },
-    {
-      "source": "article:https://github.com/ggml-org/llama.cpp/releases/tag/b10794",
-      "target": "sycl",
-      "weight": 1
-    },
-    {
-      "source": "article:https://github.com/ggml-org/llama.cpp/releases/tag/b10794",
-      "target": "macos",
       "weight": 1
     },
     {
@@ -5895,7 +5870,12 @@
     },
     {
       "source": "article:https://github.com/ggml-org/llama.cpp/releases/tag/b10794",
-      "target": "attestations",
+      "target": "cpp",
+      "weight": 1
+    },
+    {
+      "source": "article:https://github.com/ggml-org/llama.cpp/releases/tag/b10794",
+      "target": "global var",
       "weight": 1
     },
     {
@@ -5910,17 +5890,42 @@
     },
     {
       "source": "article:https://github.com/ggml-org/llama.cpp/releases/tag/b10794",
-      "target": "refactoring",
+      "target": "macos",
       "weight": 1
     },
     {
       "source": "article:https://github.com/ggml-org/llama.cpp/releases/tag/b10794",
-      "target": "global var",
+      "target": "attestations",
       "weight": 1
     },
     {
       "source": "article:https://github.com/ggml-org/llama.cpp/releases/tag/b10794",
       "target": "source:ggml/llama.cpp_releases",
+      "weight": 1
+    },
+    {
+      "source": "article:https://github.com/ggml-org/llama.cpp/releases/tag/b10794",
+      "target": "https",
+      "weight": 1
+    },
+    {
+      "source": "article:https://github.com/ggml-org/llama.cpp/releases/tag/b10794",
+      "target": "sycl",
+      "weight": 1
+    },
+    {
+      "source": "article:https://github.com/ggml-org/llama.cpp/releases/tag/b10794",
+      "target": "refactoring",
+      "weight": 1
+    },
+    {
+      "source": "article:https://github.com/ggml-org/llama.cpp/releases/tag/b10794",
+      "target": "attestation",
+      "weight": 1
+    },
+    {
+      "source": "article:https://github.com/ggml-org/llama.cpp/releases/tag/b10793",
+      "target": "llama",
       "weight": 1
     },
     {
@@ -5940,32 +5945,7 @@
     },
     {
       "source": "article:https://github.com/ggml-org/llama.cpp/releases/tag/b10793",
-      "target": "macos",
-      "weight": 1
-    },
-    {
-      "source": "article:https://github.com/ggml-org/llama.cpp/releases/tag/b10793",
-      "target": "llama",
-      "weight": 1
-    },
-    {
-      "source": "article:https://github.com/ggml-org/llama.cpp/releases/tag/b10793",
-      "target": "attestations",
-      "weight": 1
-    },
-    {
-      "source": "article:https://github.com/ggml-org/llama.cpp/releases/tag/b10793",
       "target": "category:releases",
-      "weight": 1
-    },
-    {
-      "source": "article:https://github.com/ggml-org/llama.cpp/releases/tag/b10793",
-      "target": "commit",
-      "weight": 1
-    },
-    {
-      "source": "article:https://github.com/ggml-org/llama.cpp/releases/tag/b10793",
-      "target": "https",
       "weight": 1
     },
     {
@@ -5975,7 +5955,32 @@
     },
     {
       "source": "article:https://github.com/ggml-org/llama.cpp/releases/tag/b10793",
+      "target": "commit",
+      "weight": 1
+    },
+    {
+      "source": "article:https://github.com/ggml-org/llama.cpp/releases/tag/b10793",
+      "target": "attestations",
+      "weight": 1
+    },
+    {
+      "source": "article:https://github.com/ggml-org/llama.cpp/releases/tag/b10793",
+      "target": "macos",
+      "weight": 1
+    },
+    {
+      "source": "article:https://github.com/ggml-org/llama.cpp/releases/tag/b10793",
       "target": "source:ggml/llama.cpp_releases",
+      "weight": 1
+    },
+    {
+      "source": "article:https://github.com/ggml-org/llama.cpp/releases/tag/b10793",
+      "target": "https",
+      "weight": 1
+    },
+    {
+      "source": "article:https://github.com/ggml-org/llama.cpp/releases/tag/b10792",
+      "target": "llama",
       "weight": 1
     },
     {
@@ -5985,7 +5990,17 @@
     },
     {
       "source": "article:https://github.com/ggml-org/llama.cpp/releases/tag/b10792",
+      "target": "schema",
+      "weight": 1
+    },
+    {
+      "source": "article:https://github.com/ggml-org/llama.cpp/releases/tag/b10792",
       "target": "cpp",
+      "weight": 1
+    },
+    {
+      "source": "article:https://github.com/ggml-org/llama.cpp/releases/tag/b10792",
+      "target": "category:releases",
       "weight": 1
     },
     {
@@ -6000,27 +6015,7 @@
     },
     {
       "source": "article:https://github.com/ggml-org/llama.cpp/releases/tag/b10792",
-      "target": "llama",
-      "weight": 1
-    },
-    {
-      "source": "article:https://github.com/ggml-org/llama.cpp/releases/tag/b10792",
       "target": "attestations",
-      "weight": 1
-    },
-    {
-      "source": "article:https://github.com/ggml-org/llama.cpp/releases/tag/b10792",
-      "target": "category:releases",
-      "weight": 1
-    },
-    {
-      "source": "article:https://github.com/ggml-org/llama.cpp/releases/tag/b10792",
-      "target": "https",
-      "weight": 1
-    },
-    {
-      "source": "article:https://github.com/ggml-org/llama.cpp/releases/tag/b10792",
-      "target": "schema",
       "weight": 1
     },
     {
@@ -6029,8 +6024,13 @@
       "weight": 1
     },
     {
+      "source": "article:https://github.com/ggml-org/llama.cpp/releases/tag/b10792",
+      "target": "https",
+      "weight": 1
+    },
+    {
       "source": "article:https://arxiv.org/abs/2609.02889",
-      "target": "budget-splitting trap",
+      "target": "agents",
       "weight": 1
     },
     {
@@ -6045,22 +6045,7 @@
     },
     {
       "source": "article:https://arxiv.org/abs/2609.02889",
-      "target": "category:research",
-      "weight": 1
-    },
-    {
-      "source": "article:https://arxiv.org/abs/2609.02889",
-      "target": "source:arxiv_cs.cl_(computation_and_language_/_nlp)",
-      "weight": 1
-    },
-    {
-      "source": "article:https://arxiv.org/abs/2609.02889",
-      "target": "agents",
-      "weight": 1
-    },
-    {
-      "source": "article:https://arxiv.org/abs/2609.02889",
-      "target": "harness optimization",
+      "target": "localized gains",
       "weight": 1
     },
     {
@@ -6075,12 +6060,17 @@
     },
     {
       "source": "article:https://arxiv.org/abs/2609.02889",
-      "target": "value",
+      "target": "harness optimization",
       "weight": 1
     },
     {
       "source": "article:https://arxiv.org/abs/2609.02889",
-      "target": "localized gains",
+      "target": "source:arxiv_cs.cl_(computation_and_language_/_nlp)",
+      "weight": 1
+    },
+    {
+      "source": "article:https://arxiv.org/abs/2609.02889",
+      "target": "category:research",
       "weight": 1
     },
     {
@@ -6089,8 +6079,13 @@
       "weight": 1
     },
     {
-      "source": "article:https://arxiv.org/abs/2609.02890",
-      "target": "agent",
+      "source": "article:https://arxiv.org/abs/2609.02889",
+      "target": "budget-splitting trap",
+      "weight": 1
+    },
+    {
+      "source": "article:https://arxiv.org/abs/2609.02889",
+      "target": "value",
       "weight": 1
     },
     {
@@ -6105,32 +6100,7 @@
     },
     {
       "source": "article:https://arxiv.org/abs/2609.02890",
-      "target": "user",
-      "weight": 1
-    },
-    {
-      "source": "article:https://arxiv.org/abs/2609.02890",
-      "target": "category:research",
-      "weight": 1
-    },
-    {
-      "source": "article:https://arxiv.org/abs/2609.02890",
-      "target": "regression",
-      "weight": 1
-    },
-    {
-      "source": "article:https://arxiv.org/abs/2609.02890",
       "target": "retrieval",
-      "weight": 1
-    },
-    {
-      "source": "article:https://arxiv.org/abs/2609.02890",
-      "target": "inference",
-      "weight": 1
-    },
-    {
-      "source": "article:https://arxiv.org/abs/2609.02890",
-      "target": "classification",
       "weight": 1
     },
     {
@@ -6140,7 +6110,42 @@
     },
     {
       "source": "article:https://arxiv.org/abs/2609.02890",
+      "target": "regression",
+      "weight": 1
+    },
+    {
+      "source": "article:https://arxiv.org/abs/2609.02890",
+      "target": "inference",
+      "weight": 1
+    },
+    {
+      "source": "article:https://arxiv.org/abs/2609.02890",
+      "target": "agent",
+      "weight": 1
+    },
+    {
+      "source": "article:https://arxiv.org/abs/2609.02890",
+      "target": "category:research",
+      "weight": 1
+    },
+    {
+      "source": "article:https://arxiv.org/abs/2609.02890",
+      "target": "classification",
+      "weight": 1
+    },
+    {
+      "source": "article:https://arxiv.org/abs/2609.02890",
       "target": "personas",
+      "weight": 1
+    },
+    {
+      "source": "article:https://arxiv.org/abs/2609.02890",
+      "target": "user",
+      "weight": 1
+    },
+    {
+      "source": "article:https://arxiv.org/abs/2609.02892",
+      "target": "agents",
       "weight": 1
     },
     {
@@ -6155,22 +6160,7 @@
     },
     {
       "source": "article:https://arxiv.org/abs/2609.02892",
-      "target": "category:research",
-      "weight": 1
-    },
-    {
-      "source": "article:https://arxiv.org/abs/2609.02892",
-      "target": "counterexamples",
-      "weight": 1
-    },
-    {
-      "source": "article:https://arxiv.org/abs/2609.02892",
       "target": "source:arxiv_cs.cl_(computation_and_language_/_nlp)",
-      "weight": 1
-    },
-    {
-      "source": "article:https://arxiv.org/abs/2609.02892",
-      "target": "agents",
       "weight": 1
     },
     {
@@ -6189,23 +6179,18 @@
       "weight": 1
     },
     {
-      "source": "article:https://arxiv.org/abs/2609.02893",
-      "target": "deception",
-      "weight": 1
-    },
-    {
-      "source": "article:https://arxiv.org/abs/2609.02893",
-      "target": "generalization",
-      "weight": 1
-    },
-    {
-      "source": "article:https://arxiv.org/abs/2609.02893",
-      "target": "subspace",
-      "weight": 1
-    },
-    {
-      "source": "article:https://arxiv.org/abs/2609.02893",
+      "source": "article:https://arxiv.org/abs/2609.02892",
       "target": "category:research",
+      "weight": 1
+    },
+    {
+      "source": "article:https://arxiv.org/abs/2609.02892",
+      "target": "counterexamples",
+      "weight": 1
+    },
+    {
+      "source": "article:https://arxiv.org/abs/2609.02893",
+      "target": "probes",
       "weight": 1
     },
     {
@@ -6220,12 +6205,12 @@
     },
     {
       "source": "article:https://arxiv.org/abs/2609.02893",
-      "target": "source:arxiv_cs.cl_(computation_and_language_/_nlp)",
+      "target": "deception",
       "weight": 1
     },
     {
       "source": "article:https://arxiv.org/abs/2609.02893",
-      "target": "probes",
+      "target": "source:arxiv_cs.cl_(computation_and_language_/_nlp)",
       "weight": 1
     },
     {
@@ -6235,42 +6220,22 @@
     },
     {
       "source": "article:https://arxiv.org/abs/2609.02893",
-      "target": "selection",
-      "weight": 1
-    },
-    {
-      "source": "article:https://arxiv.org/abs/2609.02894",
-      "target": "adapter",
-      "weight": 1
-    },
-    {
-      "source": "article:https://arxiv.org/abs/2609.02894",
-      "target": "r$^{2}$adapter",
-      "weight": 1
-    },
-    {
-      "source": "article:https://arxiv.org/abs/2609.02894",
-      "target": "retrieval-augmented generation",
-      "weight": 1
-    },
-    {
-      "source": "article:https://arxiv.org/abs/2609.02894",
-      "target": "rewriting",
-      "weight": 1
-    },
-    {
-      "source": "article:https://arxiv.org/abs/2609.02894",
       "target": "category:research",
       "weight": 1
     },
     {
-      "source": "article:https://arxiv.org/abs/2609.02894",
-      "target": "efficient",
+      "source": "article:https://arxiv.org/abs/2609.02893",
+      "target": "subspace",
       "weight": 1
     },
     {
-      "source": "article:https://arxiv.org/abs/2609.02894",
-      "target": "source:arxiv_cs.cl_(computation_and_language_/_nlp)",
+      "source": "article:https://arxiv.org/abs/2609.02893",
+      "target": "generalization",
+      "weight": 1
+    },
+    {
+      "source": "article:https://arxiv.org/abs/2609.02893",
+      "target": "selection",
       "weight": 1
     },
     {
@@ -6280,7 +6245,7 @@
     },
     {
       "source": "article:https://arxiv.org/abs/2609.02894",
-      "target": "routing",
+      "target": "adapter",
       "weight": 1
     },
     {
@@ -6290,12 +6255,47 @@
     },
     {
       "source": "article:https://arxiv.org/abs/2609.02894",
+      "target": "source:arxiv_cs.cl_(computation_and_language_/_nlp)",
+      "weight": 1
+    },
+    {
+      "source": "article:https://arxiv.org/abs/2609.02894",
+      "target": "rewriting",
+      "weight": 1
+    },
+    {
+      "source": "article:https://arxiv.org/abs/2609.02894",
+      "target": "retrieval-augmented generation",
+      "weight": 1
+    },
+    {
+      "source": "article:https://arxiv.org/abs/2609.02894",
+      "target": "efficient",
+      "weight": 1
+    },
+    {
+      "source": "article:https://arxiv.org/abs/2609.02894",
+      "target": "routing",
+      "weight": 1
+    },
+    {
+      "source": "article:https://arxiv.org/abs/2609.02894",
       "target": "large language models",
       "weight": 1
     },
     {
+      "source": "article:https://arxiv.org/abs/2609.02894",
+      "target": "category:research",
+      "weight": 1
+    },
+    {
+      "source": "article:https://arxiv.org/abs/2609.02894",
+      "target": "r$^{2}$adapter",
+      "weight": 1
+    },
+    {
       "source": "article:https://arxiv.org/abs/2609.02897",
-      "target": "training-free",
+      "target": "margins",
       "weight": 1
     },
     {
@@ -6305,27 +6305,22 @@
     },
     {
       "source": "article:https://arxiv.org/abs/2609.02897",
-      "target": "speculative",
+      "target": "windows",
       "weight": 1
     },
     {
       "source": "article:https://arxiv.org/abs/2609.02897",
-      "target": "speculative decoding",
+      "target": "training-free",
       "weight": 1
     },
     {
       "source": "article:https://arxiv.org/abs/2609.02897",
-      "target": "eagle-3",
+      "target": "source:arxiv_cs.cl_(computation_and_language_/_nlp)",
       "weight": 1
     },
     {
       "source": "article:https://arxiv.org/abs/2609.02897",
       "target": "category:research",
-      "weight": 1
-    },
-    {
-      "source": "article:https://arxiv.org/abs/2609.02897",
-      "target": "token-match verification",
       "weight": 1
     },
     {
@@ -6335,42 +6330,27 @@
     },
     {
       "source": "article:https://arxiv.org/abs/2609.02897",
+      "target": "speculative decoding",
+      "weight": 1
+    },
+    {
+      "source": "article:https://arxiv.org/abs/2609.02897",
+      "target": "token-match verification",
+      "weight": 1
+    },
+    {
+      "source": "article:https://arxiv.org/abs/2609.02897",
+      "target": "eagle-3",
+      "weight": 1
+    },
+    {
+      "source": "article:https://arxiv.org/abs/2609.02897",
       "target": "tree-attention",
       "weight": 1
     },
     {
       "source": "article:https://arxiv.org/abs/2609.02897",
-      "target": "source:arxiv_cs.cl_(computation_and_language_/_nlp)",
-      "weight": 1
-    },
-    {
-      "source": "article:https://arxiv.org/abs/2609.02897",
-      "target": "windows",
-      "weight": 1
-    },
-    {
-      "source": "article:https://arxiv.org/abs/2609.02897",
-      "target": "margins",
-      "weight": 1
-    },
-    {
-      "source": "article:https://arxiv.org/abs/2609.02898",
-      "target": "transfer",
-      "weight": 1
-    },
-    {
-      "source": "article:https://arxiv.org/abs/2609.02898",
-      "target": "bert",
-      "weight": 1
-    },
-    {
-      "source": "article:https://arxiv.org/abs/2609.02898",
-      "target": "distilled",
-      "weight": 1
-    },
-    {
-      "source": "article:https://arxiv.org/abs/2609.02898",
-      "target": "embedding",
+      "target": "speculative",
       "weight": 1
     },
     {
@@ -6380,12 +6360,27 @@
     },
     {
       "source": "article:https://arxiv.org/abs/2609.02898",
+      "target": "parameter-efficient",
+      "weight": 1
+    },
+    {
+      "source": "article:https://arxiv.org/abs/2609.02898",
       "target": "biomedical",
       "weight": 1
     },
     {
       "source": "article:https://arxiv.org/abs/2609.02898",
+      "target": "source:arxiv_cs.cl_(computation_and_language_/_nlp)",
+      "weight": 1
+    },
+    {
+      "source": "article:https://arxiv.org/abs/2609.02898",
       "target": "category:research",
+      "weight": 1
+    },
+    {
+      "source": "article:https://arxiv.org/abs/2609.02898",
+      "target": "bert",
       "weight": 1
     },
     {
@@ -6395,17 +6390,22 @@
     },
     {
       "source": "article:https://arxiv.org/abs/2609.02898",
-      "target": "source:arxiv_cs.cl_(computation_and_language_/_nlp)",
+      "target": "embedding",
+      "weight": 1
+    },
+    {
+      "source": "article:https://arxiv.org/abs/2609.02898",
+      "target": "transfer",
+      "weight": 1
+    },
+    {
+      "source": "article:https://arxiv.org/abs/2609.02898",
+      "target": "distilled",
       "weight": 1
     },
     {
       "source": "article:https://arxiv.org/abs/2609.02898",
       "target": "efficiency",
-      "weight": 1
-    },
-    {
-      "source": "article:https://arxiv.org/abs/2609.02898",
-      "target": "parameter-efficient",
       "weight": 1
     },
     {
@@ -6415,12 +6415,7 @@
     },
     {
       "source": "article:https://arxiv.org/abs/2609.02899",
-      "target": "category:research",
-      "weight": 1
-    },
-    {
-      "source": "article:https://arxiv.org/abs/2609.02899",
-      "target": "training",
+      "target": "inflates",
       "weight": 1
     },
     {
@@ -6430,12 +6425,7 @@
     },
     {
       "source": "article:https://arxiv.org/abs/2609.02899",
-      "target": "reliability",
-      "weight": 1
-    },
-    {
-      "source": "article:https://arxiv.org/abs/2609.02899",
-      "target": "inflates",
+      "target": "training",
       "weight": 1
     },
     {
@@ -6445,17 +6435,12 @@
     },
     {
       "source": "article:https://arxiv.org/abs/2609.02899",
-      "target": "testing",
-      "weight": 1
-    },
-    {
-      "source": "article:https://arxiv.org/abs/2609.02899",
-      "target": "large",
-      "weight": 1
-    },
-    {
-      "source": "article:https://arxiv.org/abs/2609.02899",
       "target": "source:arxiv_cs.cl_(computation_and_language_/_nlp)",
+      "weight": 1
+    },
+    {
+      "source": "article:https://arxiv.org/abs/2609.02899",
+      "target": "category:research",
       "weight": 1
     },
     {
@@ -6469,18 +6454,18 @@
       "weight": 1
     },
     {
-      "source": "article:https://arxiv.org/abs/2609.02901",
-      "target": "inverse",
+      "source": "article:https://arxiv.org/abs/2609.02899",
+      "target": "reliability",
       "weight": 1
     },
     {
-      "source": "article:https://arxiv.org/abs/2609.02901",
-      "target": "chinese",
+      "source": "article:https://arxiv.org/abs/2609.02899",
+      "target": "large",
       "weight": 1
     },
     {
-      "source": "article:https://arxiv.org/abs/2609.02901",
-      "target": "dual-form",
+      "source": "article:https://arxiv.org/abs/2609.02899",
+      "target": "testing",
       "weight": 1
     },
     {
@@ -6490,22 +6475,7 @@
     },
     {
       "source": "article:https://arxiv.org/abs/2609.02901",
-      "target": "text",
-      "weight": 1
-    },
-    {
-      "source": "article:https://arxiv.org/abs/2609.02901",
-      "target": "category:research",
-      "weight": 1
-    },
-    {
-      "source": "article:https://arxiv.org/abs/2609.02901",
-      "target": "source:arxiv_cs.cl_(computation_and_language_/_nlp)",
-      "weight": 1
-    },
-    {
-      "source": "article:https://arxiv.org/abs/2609.02901",
-      "target": "semantics-aware",
+      "target": "dual-form",
       "weight": 1
     },
     {
@@ -6515,7 +6485,17 @@
     },
     {
       "source": "article:https://arxiv.org/abs/2609.02901",
-      "target": "inverse text normalization",
+      "target": "source:arxiv_cs.cl_(computation_and_language_/_nlp)",
+      "weight": 1
+    },
+    {
+      "source": "article:https://arxiv.org/abs/2609.02901",
+      "target": "category:research",
+      "weight": 1
+    },
+    {
+      "source": "article:https://arxiv.org/abs/2609.02901",
+      "target": "inverse",
       "weight": 1
     },
     {
@@ -6524,18 +6504,28 @@
       "weight": 1
     },
     {
-      "source": "article:https://arxiv.org/abs/2609.02902",
-      "target": "enterprise",
+      "source": "article:https://arxiv.org/abs/2609.02901",
+      "target": "text",
+      "weight": 1
+    },
+    {
+      "source": "article:https://arxiv.org/abs/2609.02901",
+      "target": "chinese",
+      "weight": 1
+    },
+    {
+      "source": "article:https://arxiv.org/abs/2609.02901",
+      "target": "semantics-aware",
+      "weight": 1
+    },
+    {
+      "source": "article:https://arxiv.org/abs/2609.02901",
+      "target": "inverse text normalization",
       "weight": 1
     },
     {
       "source": "article:https://arxiv.org/abs/2609.02902",
-      "target": "robust",
-      "weight": 1
-    },
-    {
-      "source": "article:https://arxiv.org/abs/2609.02902",
-      "target": "category:research",
+      "target": "agents",
       "weight": 1
     },
     {
@@ -6545,12 +6535,22 @@
     },
     {
       "source": "article:https://arxiv.org/abs/2609.02902",
+      "target": "rl-ada",
+      "weight": 1
+    },
+    {
+      "source": "article:https://arxiv.org/abs/2609.02902",
       "target": "source:arxiv_cs.cl_(computation_and_language_/_nlp)",
       "weight": 1
     },
     {
       "source": "article:https://arxiv.org/abs/2609.02902",
-      "target": "rl-ada",
+      "target": "category:research",
+      "weight": 1
+    },
+    {
+      "source": "article:https://arxiv.org/abs/2609.02902",
+      "target": "enterprise",
       "weight": 1
     },
     {
@@ -6560,7 +6560,7 @@
     },
     {
       "source": "article:https://arxiv.org/abs/2609.02902",
-      "target": "agents",
+      "target": "robust",
       "weight": 1
     }
   ],
