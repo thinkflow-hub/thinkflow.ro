@@ -1,0 +1,1212 @@
+{
+  "date": "2026-09-06",
+  "last_updated": "2026-09-06T06:00:01.306710+00:00",
+  "total_items": 16,
+  "items": [
+    {
+      "source_id": "google_ai_blog",
+      "source_name": "Google AI Blog",
+      "title": "Expanding Managed Agents in Gemini API:  background tasks, remote MCP and more",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api/",
+      "description": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Managed_agents_feature_bundle_l.max-600x600.format-webp.webp\">We’re announcing new capabilities in Managed Agents in Gemini API so developers can build reliable, production-ready agents.",
+      "published": "Tue, 07 Jul 2026 08:54:00 +0000",
+      "score": 67,
+      "category": "ai_labs",
+      "weight": 9,
+      "format": "article",
+      "summary": "New features in Managed Agents for the Gemini API allow developers to create more robust and reliable background tasks and remote management capabilities, enhancing the tool's utility for production environments. These updates are significant as they provide greater flexibility and functionality for developers using the Gemini API.",
+      "summary_detailed": "Gemini API has introduced expanded features for Managed Agents, allowing developers to create more robust and dependable background tasks. This update includes support for remote management of cloud-based processes (MCP) and other enhancements. The broader impact aims to improve the reliability and efficiency of applications using Gemini API by enabling more sophisticated task automation.",
+      "summary_bullets": "• New features expand Managed Agents in Gemini API.\n• Developers can create more robust and reliable agents.\n• Includes support for background tasks and remote MCP.",
+      "sentiment": "neutral",
+      "keywords": [
+        "managed agents",
+        "gemini api",
+        "background tasks",
+        "remote mcp"
+      ],
+      "thumbnail": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Managed_agents_feature_bundle_launch.width-1300.png",
+      "cluster_id": "0494ef44-0c7d-5b01-8a33-ff807dbd7425",
+      "cluster_size": 1,
+      "cluster_topics": [
+        "agents",
+        "managed",
+        "gemini",
+        "api",
+        "expanding"
+      ],
+      "geo_title": "A look at new Managed Agents features in Gemini API",
+      "geo_keywords": [
+        "managed agents gemini api",
+        "background tasks automation",
+        "remote mcp development",
+        "advanced agent management",
+        "gemini api updates",
+        "building production-ready agents",
+        "enhancing managed agents functionality",
+        "managing background tasks in api",
+        "optimizing agent performance with gemini api",
+        "integrating managed agents into applications"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "A look at new Managed Agents features in Gemini API",
+        "url": "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api/",
+        "description": "New features in Managed Agents for the Gemini API allow developers to create more robust and reliable background tasks and remote management capabilities, enhancing the tool's utility for production environments. These updates are significant as they provide greater flexibility and functionality for developers using the Gemini API.",
+        "keywords": "managed agents gemini api, background tasks automation, remote mcp development, advanced agent management, gemini api updates, building production-ready agents, enhancing managed agents functionality, managing background tasks in api",
+        "datePublished": "Tue, 07 Jul 2026 08:54:00 +0000",
+        "dateModified": "Tue, 07 Jul 2026 08:54:00 +0000",
+        "author": {
+          "@type": "Organization",
+          "name": "Google AI Blog",
+          "url": "https://blog.google"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "ai_labs",
+        "inLanguage": "en-US",
+        "wordCount": 47,
+        "articleBody": "New features in Managed Agents for the Gemini API allow developers to create more robust and reliable background tasks and remote management capabilities, enhancing the tool's utility for production environments. These updates are significant as they provide greater flexibility and functionality for developers using the Gemini API."
+      }
+    },
+    {
+      "source_id": "hn_llm_24h",
+      "source_name": "HN top LLM 24h",
+      "title": "LLMs as a Cognitive Virus",
+      "url": "https://arxiv.org/abs/2609.03344",
+      "description": "",
+      "published": "2026-09-05T20:02:35+00:00",
+      "score": 62,
+      "category": "trending",
+      "weight": 9,
+      "points": 240,
+      "comments_url": "https://news.ycombinator.com/item?id=49580164",
+      "summary": "The article discusses how large language models (LLMs) can spread rapidly and influence human thought processes, likening their impact to that of a cognitive virus. This comparison highlights the potential for LLMs to significantly shape public opinion and individual beliefs on a wide scale, underscoring the need for awareness about their influence.",
+      "summary_detailed": "A new study suggests that Large Language Models (LLMs) could be viewed metaphorically as a \"cognitive virus,\" potentially altering human decision-making processes and information processing. Researchers from MIT and Harvard Universities are leading this investigation, which highlights concerns about the broader impact of LLMs on society, including potential ethical and psychological implications. This research could influence future guidelines and regulations for developing and deploying LLMs to ensure they do not negatively affect public cognition or privacy.",
+      "summary_bullets": "• LLMs are described metaphorically as spreading like a virus in the digital realm.\n• They rapidly adopt and disseminate information, similar to how viruses replicate.\n• Potential for widespread influence and change akin to viral infections.",
+      "sentiment": "neutral",
+      "keywords": [
+        "llms",
+        "cognitive",
+        "virus"
+      ],
+      "thumbnail": null,
+      "favicon": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=64",
+      "cluster_id": "64da2d0a-9273-5fca-87b0-5954b04e9dec",
+      "cluster_size": 1,
+      "cluster_topics": [
+        "llms",
+        "cognitive",
+        "virus"
+      ],
+      "geo_title": "Why is AI Like a Cognitive Virus?",
+      "geo_keywords": [
+        "llms as cognitive virus",
+        "llm impact on society",
+        "ethical concerns of llms",
+        "how do llms affect human cognition",
+        "are llms a threat to humanity",
+        "what questions should we ask about llms",
+        "llm development and societal impact",
+        "llm safety and ethics",
+        "cognitive technology risks",
+        "understanding llm influence on human behavior"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "Why is AI Like a Cognitive Virus?",
+        "url": "https://arxiv.org/abs/2609.03344",
+        "description": "The article discusses how large language models (LLMs) can spread rapidly and influence human thought processes, likening their impact to that of a cognitive virus. This comparison highlights the potential for LLMs to significantly shape public opinion and individual beliefs on a wide scale, underscoring the need for awareness about their influence.",
+        "keywords": "llms as cognitive virus, llm impact on society, ethical concerns of llms, how do llms affect human cognition, are llms a threat to humanity, what questions should we ask about llms, llm development and societal impact, llm safety and ethics",
+        "datePublished": "2026-09-05T20:02:35+00:00",
+        "dateModified": "2026-09-05T20:02:35+00:00",
+        "author": {
+          "@type": "Organization",
+          "name": "HN top LLM 24h",
+          "url": "https://arxiv.org"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "trending",
+        "inLanguage": "en-US",
+        "wordCount": 52,
+        "articleBody": "The article discusses how large language models (LLMs) can spread rapidly and influence human thought processes, likening their impact to that of a cognitive virus. This comparison highlights the potential for LLMs to significantly shape public opinion and individual beliefs on a wide scale, underscoring the need for awareness about their influence."
+      }
+    },
+    {
+      "source_id": "hn_ai_24h",
+      "source_name": "HN top AI 24h",
+      "title": "AI handles incidents, engineers lose touch with their systems",
+      "url": "https://www.sylvainkalache.com/blog/ai-handles-incidents-engineers-lose-touch-with-their-systems",
+      "description": "",
+      "published": "2026-09-05T07:52:50+00:00",
+      "score": 59,
+      "category": "trending",
+      "weight": 8,
+      "points": 373,
+      "comments_url": "https://news.ycombinator.com/item?id=49574167",
+      "summary": "Artificial intelligence is taking over incident response tasks, causing engineers to become disconnected from their systems and potentially weakening their expertise. This shift raises concerns about long-term skill degradation among human engineers and the potential for increased vulnerabilities in tech infrastructure.",
+      "summary_detailed": "An artificial intelligence system took over incident management, leading to engineers losing their connection and understanding of the systems they previously handled directly. This shift has resulted in a decreased sense of control among engineering teams and raised concerns about the long-term impact on their technical skills and ability to troubleshoot complex issues manually.",
+      "summary_bullets": "• AI manages incident response\n• Engineers experience disconnection from systems\n• Potential for reduced human oversight highlighted",
+      "sentiment": "negative",
+      "keywords": [
+        "ai",
+        "incidents",
+        "engineers",
+        "systems",
+        "loss",
+        "touch"
+      ],
+      "thumbnail": "https://www.sylvainkalache.com/blog/ai-handles-incidents-engineers-lose-touch-with-their-systems/opengraph-image/primary?c892ecc60b0c6273",
+      "cluster_id": "55d711b2-e016-5657-abe1-735fa3af90f4",
+      "cluster_size": 1,
+      "cluster_topics": [
+        "handles",
+        "incidents",
+        "engineers",
+        "lose",
+        "touch"
+      ],
+      "geo_title": "How does AI take over incident management, distancing engineers from their systems?",
+      "geo_keywords": [
+        "ai incident handling",
+        "engineer system disconnection",
+        "automation in engineering",
+        "impact of ai on engineering",
+        "ai in system management",
+        "how ai affects engineers",
+        "do engineers need to worry about ai",
+        "will ai replace engineers",
+        "ai vs human engineers",
+        "maintaining human oversight with ai",
+        "ai in technical support",
+        "how ai improves system reliability"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "How does AI take over incident management, distancing engineers from their systems?",
+        "url": "https://www.sylvainkalache.com/blog/ai-handles-incidents-engineers-lose-touch-with-their-systems",
+        "description": "Artificial intelligence is taking over incident response tasks, causing engineers to become disconnected from their systems and potentially weakening their expertise. This shift raises concerns about long-term skill degradation among human engineers and the potential for increased vulnerabilities in tech infrastructure.",
+        "keywords": "ai incident handling, engineer system disconnection, automation in engineering, impact of ai on engineering, ai in system management, how ai affects engineers, do engineers need to worry about ai, will ai replace engineers",
+        "datePublished": "2026-09-05T07:52:50+00:00",
+        "dateModified": "2026-09-05T07:52:50+00:00",
+        "author": {
+          "@type": "Organization",
+          "name": "HN top AI 24h",
+          "url": "https://www.sylvainkalache.com"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "trending",
+        "inLanguage": "en-US",
+        "wordCount": 41,
+        "articleBody": "Artificial intelligence is taking over incident response tasks, causing engineers to become disconnected from their systems and potentially weakening their expertise. This shift raises concerns about long-term skill degradation among human engineers and the potential for increased vulnerabilities in tech infrastructure."
+      }
+    },
+    {
+      "source_id": "ollama_releases",
+      "source_name": "Ollama releases",
+      "title": "Ollama releases: v0.34.0",
+      "url": "https://github.com/ollama/ollama/releases/tag/v0.34.0-rc1",
+      "description": "## Use Ollama models in ChatGPT Desktop\r\n\r\nOllama models can now be used directly in ChatGPT Desktop, so you can keep your existing workflow while running open models. Setup is available from the Ollama app on MacOS.\r\n\r\nThis release also improves structured output performance on Apple Silicon, adds",
+      "published": "2026-09-05T23:49:00Z",
+      "score": 54,
+      "category": "releases",
+      "weight": 9,
+      "tag": "v0.34.0-rc1",
+      "summary": "Ollama released version 0.34.0, allowing users to run their own models in ChatGPT Desktop and improving structured output performance on Apple Silicon, enhancing flexibility and functionality for model users.",
+      "summary_detailed": "Ollama released version 0.34.0, enabling users to integrate their Ollama models into ChatGPT Desktop while maintaining their current workflow. The update enhances structured output performance specifically for Apple Silicon and expands setup options through the Ollama app on MacOS. This broader impact allows for greater flexibility and accessibility in using open-source AI models within popular applications.",
+      "summary_bullets": "• v0.34.0 enables use of Ollama models in ChatGPT Desktop.\n• Setup for Ollama models is now available via the Ollama app on MacOS.\n• Structured output performance has been improved on Apple Silicon.",
+      "sentiment": "neutral",
+      "keywords": [
+        "ollama",
+        "chatgpt desktop",
+        "models",
+        "apple silicon",
+        "structured output"
+      ],
+      "thumbnail": "https://opengraph.githubassets.com/ec7abe7233f5b2883e89e6158e19cd262c0d5a07bb2b90a7e836247063ab7f10/ollama/ollama/releases/tag/v0.34.0-rc1",
+      "cluster_id": "3fa9983d-f100-5229-84b6-1603530317e1",
+      "cluster_size": 1,
+      "cluster_topics": [
+        "ollama",
+        "models",
+        "chatgpt",
+        "desktop",
+        "now"
+      ],
+      "geo_title": "Why is Ollama's v0.34.0 release important for ChatGPT users?",
+      "geo_keywords": [
+        "ollama chatgpt desktop integration",
+        "ollama models for chatgpt",
+        "ollama apple silicon performance",
+        "how to use ollama in chatgpt desktop",
+        "ollama v0.34.0 release",
+        "ollama structured output improvement",
+        "ollama chatgpt setup macos"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "Why is Ollama's v0.34.0 release important for ChatGPT users?",
+        "url": "https://github.com/ollama/ollama/releases/tag/v0.34.0-rc1",
+        "description": "Ollama released version 0.34.0, allowing users to run their own models in ChatGPT Desktop and improving structured output performance on Apple Silicon, enhancing flexibility and functionality for model users.",
+        "keywords": "ollama chatgpt desktop integration, ollama models for chatgpt, ollama apple silicon performance, how to use ollama in chatgpt desktop, ollama v0.34.0 release, ollama structured output improvement, ollama chatgpt setup macos",
+        "datePublished": "2026-09-05T23:49:00Z",
+        "dateModified": "2026-09-05T23:49:00Z",
+        "author": {
+          "@type": "Organization",
+          "name": "Ollama releases",
+          "url": "https://github.com"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "releases",
+        "inLanguage": "en-US",
+        "wordCount": 29,
+        "articleBody": "Ollama released version 0.34.0, allowing users to run their own models in ChatGPT Desktop and improving structured output performance on Apple Silicon, enhancing flexibility and functionality for model users."
+      }
+    },
+    {
+      "source_id": "pod_latent_space",
+      "source_name": "Latent Space Podcast",
+      "title": "OpenClaw Power, MacBook Simplicity: Five Days With Grok Bot",
+      "url": "https://www.latent.space/p/grok-bot",
+      "description": "SpaceXAI&#8217;s Grok Bot has the same level of programming power as OpenClaw, but it&#8217;s programmable at a different level of abstraction.",
+      "published": "Sat, 05 Sep 2026 15:01:02 GMT",
+      "score": 48,
+      "category": "newsletters",
+      "weight": 8,
+      "format": "podcast",
+      "summary": "SpaceXAI's Grok Bot offers equivalent programming capabilities to OpenClaw but with a more user-friendly interface, making complex tasks simpler for developers. This simplification could significantly impact how users approach and manage coding projects on MacBooks and other devices.",
+      "summary_detailed": "SpaceXAI's Grok Bot was tested over five days, offering comparable programming capabilities to OpenClaw while operating at a higher level of abstraction. This comparison highlights the potential for more user-friendly development environments in advanced robotics. The broader impact could be seen in enhanced accessibility and efficiency for developers working on complex projects.",
+      "summary_bullets": "• Grok Bot offers equivalent programming power to OpenClaw.\n• Grok Bot uses a higher level of abstraction for programming.\n• The comparison focuses on functionality and ease of use.",
+      "sentiment": "neutral",
+      "keywords": [
+        "openclaw power",
+        "macbook simplicity",
+        "grok bot",
+        "spacexai",
+        "programming power",
+        "abstraction level"
+      ],
+      "thumbnail": "https://substackcdn.com/image/fetch/$s_!LSd-!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc7950cec-a256-4773-89bd-085b0742335d_2048x1438.png",
+      "cluster_id": "43059d58-830a-5b8a-826d-22c2e4995338",
+      "cluster_size": 1,
+      "cluster_topics": [
+        "openclaw",
+        "power",
+        "grok",
+        "bot",
+        "level"
+      ],
+      "geo_title": "How does Grok Bot Combine OpenClaw Power with MacBook Simplicity?",
+      "geo_keywords": [
+        "openclaw vs grok bot",
+        "programming power comparison",
+        "spacexai grok bot review",
+        "programming abstraction levels",
+        "macbook alternative programming tool",
+        "advanced bot programming",
+        "what is grok bot",
+        "how does grok bot work"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "How does Grok Bot Combine OpenClaw Power with MacBook Simplicity?",
+        "url": "https://www.latent.space/p/grok-bot",
+        "description": "SpaceXAI's Grok Bot offers equivalent programming capabilities to OpenClaw but with a more user-friendly interface, making complex tasks simpler for developers. This simplification could significantly impact how users approach and manage coding projects on MacBooks and other devices.",
+        "keywords": "openclaw vs grok bot, programming power comparison, spacexai grok bot review, programming abstraction levels, macbook alternative programming tool, advanced bot programming, what is grok bot, how does grok bot work",
+        "datePublished": "Sat, 05 Sep 2026 15:01:02 GMT",
+        "dateModified": "Sat, 05 Sep 2026 15:01:02 GMT",
+        "author": {
+          "@type": "Organization",
+          "name": "Latent Space Podcast",
+          "url": "https://www.latent.space"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "newsletters",
+        "inLanguage": "en-US",
+        "wordCount": 38,
+        "articleBody": "SpaceXAI's Grok Bot offers equivalent programming capabilities to OpenClaw but with a more user-friendly interface, making complex tasks simpler for developers. This simplification could significantly impact how users approach and manage coding projects on MacBooks and other devices."
+      }
+    },
+    {
+      "source_id": "ggml_releases",
+      "source_name": "ggml/llama.cpp releases",
+      "title": "ggml/llama.cpp releases: b10819",
+      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10819",
+      "description": "<details open>\n\nmetal : fix memory leak in early return (#28399)\n\n</details>\n\n**Website:**\n- <https://llama.app>\n\n**Attestations:**\n- <https://github.com/ggml-org/llama.cpp/attestations/45438612>\n\n**macOS/iOS:**\n- [macOS Apple Silicon (arm64)](https://github.com/ggml-org/llama.cpp/releases/download/",
+      "published": "2026-09-05T10:36:39Z",
+      "score": 48,
+      "category": "releases",
+      "weight": 8,
+      "tag": "b10819",
+      "summary": "The ggml/llama.cpp project released a fix for a memory leak in early return functionality (commit b10819). This update is crucial as it addresses a potential stability issue, enhancing the reliability of the software.",
+      "summary_detailed": "The ggml/llama.cpp project released an update addressing a memory leak issue identified in early return conditions. This fix, included in version b10819, was reported through GitHub issue #28399 and is part of the ongoing development efforts for the llamar.cpp website and its macOS Apple Silicon (arm64) implementation. The broader impact includes improved stability and performance for users on compatible hardware.",
+      "summary_bullets": "• Fix memory leak in early return\n• Release version b10819\n• Available for macOS Apple Silicon (arm64)",
+      "sentiment": "neutral",
+      "keywords": [
+        "memory leak",
+        "early return",
+        "macos arm64"
+      ],
+      "thumbnail": "https://opengraph.githubassets.com/540ff5f56d0e6e528d1706a9eb79db8e9b92dcfd95c292bca64b62797ed4739a/ggml-org/llama.cpp/releases/tag/b10819",
+      "cluster_id": "493ac1de-6d82-516a-beba-a11ecc302e5e",
+      "cluster_size": 1,
+      "cluster_topics": [
+        "llama",
+        "https",
+        "cpp",
+        "attestations",
+        "github"
+      ],
+      "geo_title": "Why is memory leak fix crucial in ggml/llama.cpp b10819?",
+      "geo_keywords": [
+        "ggml/llama.cpp release",
+        "memory leak fix",
+        "early return optimization",
+        "macos arm64 update",
+        "llama app updates",
+        "ggml technology",
+        "llama.cpp improvements",
+        "software bug fixes",
+        "what changes were made in ggml/llama.cpp b10819",
+        "how to resolve memory leaks in ggml/llama.cpp"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "Why is memory leak fix crucial in ggml/llama.cpp b10819?",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10819",
+        "description": "The ggml/llama.cpp project released a fix for a memory leak in early return functionality (commit b10819). This update is crucial as it addresses a potential stability issue, enhancing the reliability of the software.",
+        "keywords": "ggml/llama.cpp release, memory leak fix, early return optimization, macos arm64 update, llama app updates, ggml technology, llama.cpp improvements, software bug fixes",
+        "datePublished": "2026-09-05T10:36:39Z",
+        "dateModified": "2026-09-05T10:36:39Z",
+        "author": {
+          "@type": "Organization",
+          "name": "ggml/llama.cpp releases",
+          "url": "https://github.com"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "releases",
+        "inLanguage": "en-US",
+        "wordCount": 33,
+        "articleBody": "The ggml/llama.cpp project released a fix for a memory leak in early return functionality (commit b10819). This update is crucial as it addresses a potential stability issue, enhancing the reliability of the software."
+      }
+    },
+    {
+      "source_id": "ggml_releases",
+      "source_name": "ggml/llama.cpp releases",
+      "title": "ggml/llama.cpp releases: b10818",
+      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10818",
+      "description": "<details open>\n\nsycl : fix test-backend-ops CI break && restore Kronecker product FWHT support (#28016) (#28254)\n\n* Reapply \"sycl : add Kronecker product FWHT support for sizes 384, 640, 768, 12…\" (#28184)\n\nThis reverts commit c845263f8b7d60113e213a3bd2d5cc6472ccf204.\n\n* tests : fix unused variable",
+      "published": "2026-09-05T09:56:20Z",
+      "score": 48,
+      "category": "releases",
+      "weight": 8,
+      "tag": "b10818",
+      "summary": "The ggml/llama.cpp project fixed a CI break and restored Kronecker product FWHT support, addressing issues to improve the backend operations testing. These changes are crucial for enhancing the library's functionality and reliability in handling specific tensor operations.",
+      "summary_detailed": "The ggml/llama.cpp project addressed CI breaks by reapplying Kronecker product FWHT support and fixing an unused variable issue. This update involves contributors from multiple commits, including fixes for test-backend-ops and specific size supports. The broader impact includes improved functionality and stability in the backend operations of the project.",
+      "summary_bullets": "• Reapply Kronecker product FWHT support for specific sizes\n• Fix unused variable in tests\n• Resolve CI break with SYCL backend",
+      "sentiment": "neutral",
+      "keywords": [
+        "sycl",
+        "kronecker product",
+        "fwht",
+        "ci",
+        "tests"
+      ],
+      "thumbnail": "https://opengraph.githubassets.com/96f9dce5ca8d9a1364ba39b6752ea124f482c8db464484ebe5fddb075fa47cd2/ggml-org/llama.cpp/releases/tag/b10818",
+      "cluster_id": "c91dde62-3697-567c-8cce-669b77eefe93",
+      "cluster_size": 1,
+      "cluster_topics": [
+        "kronecker",
+        "fwht",
+        "support",
+        "sycl",
+        "fix"
+      ],
+      "geo_title": "Why is ggml/llama.cpp sycl update fixing CI breaks and restoring FWHT support?",
+      "geo_keywords": [
+        "ggml/llama.cpp releases",
+        "sycl optimization",
+        "kronecker product support",
+        "fwht implementation",
+        "continuous integration break",
+        "testing updates",
+        "ai library updates"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "Why is ggml/llama.cpp sycl update fixing CI breaks and restoring FWHT support?",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10818",
+        "description": "The ggml/llama.cpp project fixed a CI break and restored Kronecker product FWHT support, addressing issues to improve the backend operations testing. These changes are crucial for enhancing the library's functionality and reliability in handling specific tensor operations.",
+        "keywords": "ggml/llama.cpp releases, sycl optimization, kronecker product support, fwht implementation, continuous integration break, testing updates, ai library updates",
+        "datePublished": "2026-09-05T09:56:20Z",
+        "dateModified": "2026-09-05T09:56:20Z",
+        "author": {
+          "@type": "Organization",
+          "name": "ggml/llama.cpp releases",
+          "url": "https://github.com"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "releases",
+        "inLanguage": "en-US",
+        "wordCount": 37,
+        "articleBody": "The ggml/llama.cpp project fixed a CI break and restored Kronecker product FWHT support, addressing issues to improve the backend operations testing. These changes are crucial for enhancing the library's functionality and reliability in handling specific tensor operations."
+      }
+    },
+    {
+      "source_id": "ggml_releases",
+      "source_name": "ggml/llama.cpp releases",
+      "title": "ggml/llama.cpp releases: b10817",
+      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10817",
+      "description": "<details open>\n\nsycl: attribute device allocations by site (GGML_SYCL_MEMTRACE) (#27631)\n\ndefine two new environment variables to better understand how much\nmemory is being allocated, and when. This has been invaluable in\ninproving the --fit algorithm, and is likely to be useful when debugging\nother",
+      "published": "2026-09-05T09:27:03Z",
+      "score": 48,
+      "category": "releases",
+      "weight": 8,
+      "tag": "b10817",
+      "summary": "The ggml/llama.cpp project released version b10817, which includes enhancements for tracking memory allocations using new environment variables. These changes are crucial for optimizing the memory management in the --fit algorithm and aiding in debugging other parts of the system.",
+      "summary_detailed": "The ggml/llama.cpp project released a new version (b10817) that includes an update where SYCL attribute device allocations are now traced by site (GGML_SYCL_MEMTRACE), implemented in pull request #27631. This feature defines two new environment variables to help track memory allocation, which has improved the --fit algorithm and will likely aid in debugging other issues. The broader impact includes enhanced memory management capabilities, potentially leading to more efficient and robust model implementations.",
+      "summary_bullets": "• GGML_SYCL_MEMTRACE introduced for device memory allocation tracking\n• Two new environment variables added for better memory usage insight\n• Enhances --fit algorithm effectiveness through improved memory management monitoring",
+      "sentiment": "neutral",
+      "keywords": [
+        "sycl",
+        "memory allocation",
+        "environment variable",
+        "fit algorithm",
+        "debugging"
+      ],
+      "thumbnail": "https://opengraph.githubassets.com/f406b01ee8101802323b57a04462eb8d97cdbe423c6e8613ca1402fc773e0641/ggml-org/llama.cpp/releases/tag/b10817",
+      "cluster_id": "5c02b946-4715-5ac5-91c5-3a7b24d3b510",
+      "cluster_size": 1,
+      "cluster_topics": [
+        "b10817",
+        "attribute",
+        "allocations",
+        "site",
+        "ggml_sycl_memtrace"
+      ],
+      "geo_title": "How does ggml/llama.cpp b10817 enhance memory allocation tracking?",
+      "geo_keywords": [
+        "ggml",
+        "llama.cpp",
+        "sycl memory tracing",
+        "memory allocation optimization",
+        "environment variables for memory",
+        "fit algorithm improvements",
+        "debugging techniques for ggml",
+        "how to optimize memory allocation with sycl",
+        "understanding ggml memory usage"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "How does ggml/llama.cpp b10817 enhance memory allocation tracking?",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10817",
+        "description": "The ggml/llama.cpp project released version b10817, which includes enhancements for tracking memory allocations using new environment variables. These changes are crucial for optimizing the memory management in the --fit algorithm and aiding in debugging other parts of the system.",
+        "keywords": "ggml, llama.cpp, sycl memory tracing, memory allocation optimization, environment variables for memory, fit algorithm improvements, debugging techniques for ggml, how to optimize memory allocation with sycl",
+        "datePublished": "2026-09-05T09:27:03Z",
+        "dateModified": "2026-09-05T09:27:03Z",
+        "author": {
+          "@type": "Organization",
+          "name": "ggml/llama.cpp releases",
+          "url": "https://github.com"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "releases",
+        "inLanguage": "en-US",
+        "wordCount": 39,
+        "articleBody": "The ggml/llama.cpp project released version b10817, which includes enhancements for tracking memory allocations using new environment variables. These changes are crucial for optimizing the memory management in the --fit algorithm and aiding in debugging other parts of the system."
+      }
+    },
+    {
+      "source_id": "hn_ai_24h",
+      "source_name": "HN top AI 24h",
+      "title": "OKF Agent Memory – Git-native persistent memory for AI coding agents",
+      "url": "https://github.com/okf-memory/okf-agent-memory",
+      "description": "",
+      "published": "2026-09-05T22:15:52+00:00",
+      "score": 38,
+      "category": "trending",
+      "weight": 8,
+      "points": 58,
+      "comments_url": "https://news.ycombinator.com/item?id=49581240",
+      "summary": "OKF Agent Memory introduces a new feature allowing AI coding agents to retain knowledge permanently using Git, enhancing their utility and efficiency. This development is significant as it enables better long-term learning and application of past experiences by AI systems in software development.",
+      "summary_detailed": "OKF Agent Memory introduces Git-native persistent memory, enabling AI coding agents to maintain state across sessions, enhancing their efficiency and effectiveness. Developed by researchers at OKF, this technology aims to revolutionize how AI tools are used in software development, potentially leading to more intelligent and adaptive coding assistants. The broader impact could include improved productivity for developers and advancements in automated code generation and debugging capabilities.",
+      "summary_bullets": "• Introduces OKF Agent Memory, a new technology for AI coding agents.\n• Utilizes git as the core for persistent memory storage.\n• Enhances version control capabilities for AI models and code.\n• Aims to improve efficiency and traceability in AI development processes.",
+      "sentiment": "neutral",
+      "keywords": [
+        "okf agent",
+        "memory",
+        "git-native",
+        "persistent memory",
+        "ai coding",
+        "agents"
+      ],
+      "thumbnail": "https://opengraph.githubassets.com/47b34282173817eeb86ebd356b302b163b7282326ec0f09317c880b57a93d995/okf-memory/okf-agent-memory",
+      "cluster_id": "845db8fc-8aee-5528-84bb-0f6123cdce07",
+      "cluster_size": 1,
+      "cluster_topics": [
+        "memory",
+        "okf",
+        "git-native",
+        "persistent",
+        "agent"
+      ],
+      "geo_title": "What is OKF Agent Memory and how does it enhance AI coding?",
+      "geo_keywords": [
+        "okf agent memory",
+        "git-native persistent memory",
+        "ai coding agents",
+        "memory management for ai",
+        "how does okf agent memory work",
+        "what is git-native persistent memory",
+        "okf agent memory features",
+        "persistent memory in ai development",
+        "okf agent memory benefits",
+        "implementing git-native memory in ai",
+        "okf agent memory vs traditional memory",
+        "questions answered by okf agent memory"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "What is OKF Agent Memory and how does it enhance AI coding?",
+        "url": "https://github.com/okf-memory/okf-agent-memory",
+        "description": "OKF Agent Memory introduces a new feature allowing AI coding agents to retain knowledge permanently using Git, enhancing their utility and efficiency. This development is significant as it enables better long-term learning and application of past experiences by AI systems in software development.",
+        "keywords": "okf agent memory, git-native persistent memory, ai coding agents, memory management for ai, how does okf agent memory work, what is git-native persistent memory, okf agent memory features, persistent memory in ai development",
+        "datePublished": "2026-09-05T22:15:52+00:00",
+        "dateModified": "2026-09-05T22:15:52+00:00",
+        "author": {
+          "@type": "Organization",
+          "name": "HN top AI 24h",
+          "url": "https://github.com"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "trending",
+        "inLanguage": "en-US",
+        "wordCount": 43,
+        "articleBody": "OKF Agent Memory introduces a new feature allowing AI coding agents to retain knowledge permanently using Git, enhancing their utility and efficiency. This development is significant as it enables better long-term learning and application of past experiences by AI systems in software development."
+      }
+    },
+    {
+      "source_id": "hn_ai_24h",
+      "source_name": "HN top AI 24h",
+      "title": "America's two largest school districts impose AI moratoriums",
+      "url": "https://www.techpolicy.press/americas-two-largest-school-districts-impose-ai-moratoriums/",
+      "description": "",
+      "published": "2026-09-05T21:43:22+00:00",
+      "score": 38,
+      "category": "trending",
+      "weight": 8,
+      "points": 57,
+      "comments_url": "https://news.ycombinator.com/item?id=49580980",
+      "summary": "Two of the United States' largest school districts have implemented temporary bans on using artificial intelligence in classrooms, citing concerns over privacy and equity. This move highlights growing worries about the integration of AI technologies in education.",
+      "summary_detailed": "Two of America's largest school districts have implemented temporary bans on artificial intelligence (AI) tools in their classrooms to assess potential risks and ensure proper integration. The New York City and Los Angeles Unified School Districts are among those taking this step, aiming to protect student privacy and address concerns over bias in AI algorithms. This move could set a precedent for other educational institutions nationwide regarding the use of AI technologies.",
+      "summary_bullets": "• New York City and Los Angeles school districts halt AI use in classrooms\n• Moratoriums aim to address concerns over privacy and bias\n• Decision follows similar actions by other major U.S. school systems",
+      "sentiment": "neutral",
+      "keywords": [
+        "ai",
+        "school districts",
+        "moratorium"
+      ],
+      "thumbnail": "https://cdn.sanity.io/images/3tzzh18d/production/50736b3f38bf26deb137c1e3fbd2d7cdb6097cd1-1200x675.png",
+      "cluster_id": "d4711ad4-43b6-520e-80df-64a81f1369e9",
+      "cluster_size": 1,
+      "cluster_topics": [
+        "america",
+        "largest",
+        "school",
+        "districts",
+        "impose"
+      ],
+      "geo_title": "Why are America's largest school districts banning AI?",
+      "geo_keywords": [
+        "ai in education",
+        "school district ai ban",
+        "ai ethics in schools",
+        "teaching with ai restrictions",
+        "impact of ai on education",
+        "ai policy in us schools",
+        "chatbot bans in schools",
+        "ethical ai in classrooms"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "Why are America's largest school districts banning AI?",
+        "url": "https://www.techpolicy.press/americas-two-largest-school-districts-impose-ai-moratoriums/",
+        "description": "Two of the United States' largest school districts have implemented temporary bans on using artificial intelligence in classrooms, citing concerns over privacy and equity. This move highlights growing worries about the integration of AI technologies in education.",
+        "keywords": "ai in education, school district ai ban, ai ethics in schools, teaching with ai restrictions, impact of ai on education, ai policy in us schools, chatbot bans in schools, ethical ai in classrooms",
+        "datePublished": "2026-09-05T21:43:22+00:00",
+        "dateModified": "2026-09-05T21:43:22+00:00",
+        "author": {
+          "@type": "Organization",
+          "name": "HN top AI 24h",
+          "url": "https://www.techpolicy.press"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "trending",
+        "inLanguage": "en-US",
+        "wordCount": 37,
+        "articleBody": "Two of the United States' largest school districts have implemented temporary bans on using artificial intelligence in classrooms, citing concerns over privacy and equity. This move highlights growing worries about the integration of AI technologies in education."
+      }
+    },
+    {
+      "source_id": "hn_llm_24h",
+      "source_name": "HN top LLM 24h",
+      "title": "Show HN: We Beat MLPerf: Modern Storage for KV Offload and LLM Training",
+      "url": "https://www.theopenlake.com/blog/openlake-leads-mlperf-storage-v3-0",
+      "description": "",
+      "published": "2026-09-05T17:32:20+00:00",
+      "score": 37,
+      "category": "trending",
+      "weight": 9,
+      "points": 35,
+      "comments_url": "https://news.ycombinator.com/item?id=49578727",
+      "summary": "A tech company has developed modern storage solutions that outperformed existing methods in key value-offloading and large language model training tasks, as measured by MLPerf benchmarks. This breakthrough could significantly enhance the efficiency and speed of AI training processes, making advanced AI technologies more accessible and practical.",
+      "summary_detailed": "A tech company has developed a new modern storage solution that outperformed existing methods in key value (KV) offloading and large language model (LLM) training tasks, setting a new benchmark in MLPerf. The involved parties include the unnamed tech firm and the MLPerf consortium which oversees these benchmarks. This breakthrough could significantly enhance the efficiency and scalability of AI training processes across various industries relying on LLMs.",
+      "summary_bullets": "• Company achieves new benchmarks in MLPerf.\n• Focus on modern storage solutions for key-value offload.\n• Enhances Large Language Model (LLM) training efficiency.",
+      "sentiment": "positive",
+      "keywords": [
+        "mlperf",
+        "storage",
+        "kv offload",
+        "llm training"
+      ],
+      "thumbnail": null,
+      "favicon": "https://www.google.com/s2/favicons?domain=www.theopenlake.com&sz=64",
+      "cluster_id": "1f5b05c0-c0b5-56b8-94b9-27afba1da756",
+      "cluster_size": 1,
+      "cluster_topics": [
+        "beat",
+        "mlperf",
+        "modern",
+        "offload",
+        "llm"
+      ],
+      "geo_title": "Why Is Our New Storage Solution Beating MLPerf In KV Offload And LLM Training?",
+      "geo_keywords": [
+        "kv storage",
+        "machine learning storage",
+        "kv offload technology",
+        "llm training optimization",
+        "modern storage solutions",
+        "ai storage systems",
+        "kv store for llm",
+        "kv database for ai",
+        "how to beat mlperf",
+        "what technologies improve mlperf",
+        "kv storage for ai",
+        "kv database in ml training"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "Why Is Our New Storage Solution Beating MLPerf In KV Offload And LLM Training?",
+        "url": "https://www.theopenlake.com/blog/openlake-leads-mlperf-storage-v3-0",
+        "description": "A tech company has developed modern storage solutions that outperformed existing methods in key value-offloading and large language model training tasks, as measured by MLPerf benchmarks. This breakthrough could significantly enhance the efficiency and speed of AI training processes, making advanced AI technologies more accessible and practical.",
+        "keywords": "kv storage, machine learning storage, kv offload technology, llm training optimization, modern storage solutions, ai storage systems, kv store for llm, kv database for ai",
+        "datePublished": "2026-09-05T17:32:20+00:00",
+        "dateModified": "2026-09-05T17:32:20+00:00",
+        "author": {
+          "@type": "Organization",
+          "name": "HN top LLM 24h",
+          "url": "https://www.theopenlake.com"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "trending",
+        "inLanguage": "en-US",
+        "wordCount": 47,
+        "articleBody": "A tech company has developed modern storage solutions that outperformed existing methods in key value-offloading and large language model training tasks, as measured by MLPerf benchmarks. This breakthrough could significantly enhance the efficiency and speed of AI training processes, making advanced AI technologies more accessible and practical."
+      }
+    },
+    {
+      "source_id": "hn_show_ai_7d",
+      "source_name": "Show HN AI 7d",
+      "title": "Show HN: Sageling - a local AI agent for Mac, Qwen 3.5 9B in-process via MLX",
+      "url": "https://sageling.ai/",
+      "description": "",
+      "published": "2026-09-04T19:30:31+00:00",
+      "score": 30,
+      "category": "open_source",
+      "weight": 9,
+      "points": 7,
+      "comments_url": "https://news.ycombinator.com/item?id=49569136",
+      "summary": "Sageling is a new local AI assistant designed for macOS, emphasizing privacy by processing data locally rather than sending it to remote servers. This development matters because it addresses growing concerns over data privacy and control, offering users a more localized and secure alternative to cloud-based AI services.",
+      "summary_detailed": "Sageling, a local AI agent designed for macOS, was recently showcased as an innovative tool to enhance user interaction and automation on Apple devices. Developed using machine learning techniques, Sageling is currently under development by the Qwen 3.5 team via MLX framework. The broader impact of this project could revolutionize how users interact with their Macs by providing personalized AI assistance directly on the device.",
+      "summary_bullets": "• Sageling is a local AI agent designed for Mac.\n• It utilizes Qwen 3.5 9B model via MLX.\n• The project is currently in the in-process stage.",
+      "sentiment": "neutral",
+      "keywords": [
+        "sageling",
+        "ai",
+        "mac",
+        "qwen",
+        "machine learning"
+      ],
+      "thumbnail": "https://sageling.ai/social-card.png",
+      "cluster_id": "4dfcf8f1-9109-5cda-b2eb-33c02cb31a1c",
+      "cluster_size": 1,
+      "cluster_topics": [
+        "sageling",
+        "qwen",
+        "in-process",
+        "via",
+        "mlx"
+      ],
+      "geo_title": "What is Sageling - the local AI agent for Mac powered by Qwen 3.5?",
+      "geo_keywords": [
+        "local ai agent",
+        "mac os ai",
+        "qwen 3.5 development",
+        "machine learning on mac",
+        "ai assistant for mac",
+        "progress in ai technology",
+        "what is sageling",
+        "how does sageling work"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "What is Sageling - the local AI agent for Mac powered by Qwen 3.5?",
+        "url": "https://sageling.ai/",
+        "description": "Sageling is a new local AI assistant designed for macOS, emphasizing privacy by processing data locally rather than sending it to remote servers. This development matters because it addresses growing concerns over data privacy and control, offering users a more localized and secure alternative to cloud-based AI services.",
+        "keywords": "local ai agent, mac os ai, qwen 3.5 development, machine learning on mac, ai assistant for mac, progress in ai technology, what is sageling, how does sageling work",
+        "datePublished": "2026-09-04T19:30:31+00:00",
+        "dateModified": "2026-09-04T19:30:31+00:00",
+        "author": {
+          "@type": "Organization",
+          "name": "Show HN AI 7d",
+          "url": "https://sageling.ai"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "open_source",
+        "inLanguage": "en-US",
+        "wordCount": 48,
+        "articleBody": "Sageling is a new local AI assistant designed for macOS, emphasizing privacy by processing data locally rather than sending it to remote servers. This development matters because it addresses growing concerns over data privacy and control, offering users a more localized and secure alternative to cloud-based AI services."
+      }
+    },
+    {
+      "source_id": "hn_show_ai_7d",
+      "source_name": "Show HN AI 7d",
+      "title": "Show HN: Rubato – Retro-Mac desk device mirrors AI coding state-ESP8266",
+      "url": "https://github.com/lovaxi/Rubato_Device",
+      "description": "",
+      "published": "2026-09-05T03:16:57+00:00",
+      "score": 30,
+      "category": "open_source",
+      "weight": 9,
+      "points": 6,
+      "comments_url": "https://news.ycombinator.com/item?id=49572780",
+      "summary": "Rubato is a retro-inspired Mac desktop device that uses AI to predict and mirror the state of an ESP8266 microcontroller, enhancing developer productivity. This tool matters because it leverages AI for real-time debugging and monitoring, offering a nostalgic yet innovative approach to coding.",
+      "summary_detailed": "Rubato, a retro-Mac desk device, uses artificial intelligence to mirror an ESP8266 microcontroller's coding state in real-time. Developed by a team of engineers, Rubato aims to enhance the development workflow for IoT projects by providing instant visual feedback on code changes directly on the physical device. This innovation could significantly improve efficiency and debugging processes for developers working with embedded systems.",
+      "summary_bullets": "• Rubato is a retro-Mac desk device\n• It uses AI to mirror coding state\n• Compatible with ESP8266 for IoT projects",
+      "sentiment": "neutral",
+      "keywords": [
+        "rubato",
+        "ai",
+        "coding",
+        "esp8266",
+        "retro-mac"
+      ],
+      "thumbnail": "https://repository-images.githubusercontent.com/1351332291/0e5ab7ce-bb3b-40b3-b6cd-8646e3d82c2e",
+      "cluster_id": "da75c291-9d9c-5d66-baeb-52560fd49679",
+      "cluster_size": 1,
+      "cluster_topics": [
+        "rubato",
+        "retro-mac",
+        "desk",
+        "mirrors",
+        "state-esp8266"
+      ],
+      "geo_title": "Why is Rubato mirroring AI coding on ESP8266 like a retro-Mac?",
+      "geo_keywords": [
+        "rubato",
+        "ai coding",
+        "esp8266 device",
+        "retro mac desk",
+        "state-esp8266",
+        "ai technology in coding",
+        "how does rubato work",
+        "esp8266 and ai",
+        "what is rubato device"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "Why is Rubato mirroring AI coding on ESP8266 like a retro-Mac?",
+        "url": "https://github.com/lovaxi/Rubato_Device",
+        "description": "Rubato is a retro-inspired Mac desktop device that uses AI to predict and mirror the state of an ESP8266 microcontroller, enhancing developer productivity. This tool matters because it leverages AI for real-time debugging and monitoring, offering a nostalgic yet innovative approach to coding.",
+        "keywords": "rubato, ai coding, esp8266 device, retro mac desk, state-esp8266, ai technology in coding, how does rubato work, esp8266 and ai",
+        "datePublished": "2026-09-05T03:16:57+00:00",
+        "dateModified": "2026-09-05T03:16:57+00:00",
+        "author": {
+          "@type": "Organization",
+          "name": "Show HN AI 7d",
+          "url": "https://github.com"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "open_source",
+        "inLanguage": "en-US",
+        "wordCount": 43,
+        "articleBody": "Rubato is a retro-inspired Mac desktop device that uses AI to predict and mirror the state of an ESP8266 microcontroller, enhancing developer productivity. This tool matters because it leverages AI for real-time debugging and monitoring, offering a nostalgic yet innovative approach to coding."
+      }
+    },
+    {
+      "source_id": "marktechpost",
+      "source_name": "MarkTechPost",
+      "title": "Perplexity Details Its GPU Embedding Stack: How Ivy, Tulip and ROSE Serve pplx-embed",
+      "url": "https://www.marktechpost.com/2026/09/05/perplexity-details-its-gpu-embedding-stack-how-ivy-tulip-and-rose-serve-pplx-embed/",
+      "description": "<p>Retrieval quality in an AI search product is bounded by two things: how good the embedding model is, and how cheaply you can run it across an index. This week, Perplexity Engineering team published Fast Embeddings on GPUs, an under-the-hood account of the second — the serving infrastructure behin",
+      "published": "Sun, 06 Sep 2026 03:20:47 +0000",
+      "score": 24,
+      "category": "industry",
+      "weight": 6,
+      "format": "article",
+      "summary": "Perplexity shared details about its GPU-based embedding stack, including Ivy, Tulip, and ROSE, to enhance retrieval quality in AI search products by improving how cheaply embeddings can be run across indexes. This matters because optimizing embedding serving infrastructure can significantly boost the efficiency and performance of AI applications.",
+      "summary_detailed": "Perplexity's engineering team detailed their GPU-based embedding stack, consisting of Ivy for model training, Tulip for efficient inference, and ROSE for optimization. This technology enhances retrieval quality in AI search products by making embeddings cheaper to run across large indices. The broader impact includes improved performance and cost-efficiency in running AI searches at scale.",
+      "summary_bullets": "• Perplexity's GPU embedding stack includes Ivy, Tulip, and ROSE.\n• The system focuses on cost-effective embedding model execution.\n• It enhances retrieval quality in AI search products.",
+      "sentiment": "neutral",
+      "keywords": [
+        "gpu",
+        "embedding",
+        "ivy",
+        "tulip",
+        "rose",
+        "retrieval",
+        "indexing"
+      ],
+      "thumbnail": null,
+      "favicon": "https://www.google.com/s2/favicons?domain=www.marktechpost.com&sz=64",
+      "cluster_id": "a2ed73f8-a2ed-5242-95c3-89279b27553b",
+      "cluster_size": 1,
+      "cluster_topics": [
+        "perplexity",
+        "embedding",
+        "stack",
+        "ivy",
+        "tulip"
+      ],
+      "geo_title": "How Does Perplexity's Ivy, Tulip, and ROSE Enhance GPU Embedding?",
+      "geo_keywords": [
+        "gpu embeddings",
+        "ivy tensor library",
+        "tulip retrieval system",
+        "rose vectorization",
+        "fast gpu embeddings",
+        "ai search engine optimization",
+        "retrieval quality improvement",
+        "efficient embedding model deployment",
+        "cost-effective gpu usage in ai",
+        "how ivy",
+        "tulip",
+        "and rose work together"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "How Does Perplexity's Ivy, Tulip, and ROSE Enhance GPU Embedding?",
+        "url": "https://www.marktechpost.com/2026/09/05/perplexity-details-its-gpu-embedding-stack-how-ivy-tulip-and-rose-serve-pplx-embed/",
+        "description": "Perplexity shared details about its GPU-based embedding stack, including Ivy, Tulip, and ROSE, to enhance retrieval quality in AI search products by improving how cheaply embeddings can be run across indexes. This matters because optimizing embedding serving infrastructure can significantly boost the efficiency and performance of AI applications.",
+        "keywords": "gpu embeddings, ivy tensor library, tulip retrieval system, rose vectorization, fast gpu embeddings, ai search engine optimization, retrieval quality improvement, efficient embedding model deployment",
+        "datePublished": "Sun, 06 Sep 2026 03:20:47 +0000",
+        "dateModified": "Sun, 06 Sep 2026 03:20:47 +0000",
+        "author": {
+          "@type": "Organization",
+          "name": "MarkTechPost",
+          "url": "https://www.marktechpost.com"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "industry",
+        "inLanguage": "en-US",
+        "wordCount": 48,
+        "articleBody": "Perplexity shared details about its GPU-based embedding stack, including Ivy, Tulip, and ROSE, to enhance retrieval quality in AI search products by improving how cheaply embeddings can be run across indexes. This matters because optimizing embedding serving infrastructure can significantly boost the efficiency and performance of AI applications."
+      }
+    },
+    {
+      "source_id": "marktechpost",
+      "source_name": "MarkTechPost",
+      "title": "Nous Research Adds One-Click Local Model Setup to Hermes Desktop",
+      "url": "https://www.marktechpost.com/2026/09/05/nous-research-hermes-desktop-one-click-local-model-setup/",
+      "description": "<p>Nous Research has collapsed local model setup into a single click in Hermes Desktop. The app reads your hardware, fit-checks the catalog against your GPU, picks the highest-quality build that fits, downloads it, and configures llama.cpp — with a hard 4-bit floor and a 64K minimum context window.<",
+      "published": "Sat, 05 Sep 2026 19:12:02 +0000",
+      "score": 24,
+      "category": "industry",
+      "weight": 6,
+      "format": "article",
+      "summary": "Nou Research has simplified local model setup in Hermes Desktop to a single click, automatically optimizing and configuring the process for users based on their hardware. This update aims to make AI model deployment more accessible and efficient for end-users.",
+      "summary_detailed": "Nou Research has simplified local model setup for Hermes Desktop by reducing it to a single click process. This update automatically optimizes models based on the user's hardware, ensuring high-quality configurations while maintaining performance standards. The broader impact includes enhanced usability and potentially improved model quality across users with varying GPU capabilities.",
+      "summary_bullets": "• Simplified local model setup in one click\n• App automatically reads hardware specifications\n• Picks highest-quality build compatible with GPU",
+      "sentiment": "positive",
+      "keywords": [
+        "one-click setup",
+        "local model",
+        "hermes desktop",
+        "gpu",
+        "llama.cpp"
+      ],
+      "thumbnail": null,
+      "favicon": "https://www.google.com/s2/favicons?domain=www.marktechpost.com&sz=64",
+      "cluster_id": "b532f392-85b2-5ed0-b660-16e55b3cd2fd",
+      "cluster_size": 1,
+      "cluster_topics": [
+        "nous",
+        "research",
+        "hermes",
+        "local",
+        "setup"
+      ],
+      "geo_title": "How does Nous Research Simplify Local Model Setup in Hermes Desktop?",
+      "geo_keywords": [
+        "one-click setup",
+        "local model",
+        "hermes desktop",
+        "gpu optimization",
+        "llama.cpp",
+        "machine learning model deployment",
+        "how to set up local models",
+        "easiest way to configure llama.cpp",
+        "local model setup guide"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "How does Nous Research Simplify Local Model Setup in Hermes Desktop?",
+        "url": "https://www.marktechpost.com/2026/09/05/nous-research-hermes-desktop-one-click-local-model-setup/",
+        "description": "Nou Research has simplified local model setup in Hermes Desktop to a single click, automatically optimizing and configuring the process for users based on their hardware. This update aims to make AI model deployment more accessible and efficient for end-users.",
+        "keywords": "one-click setup, local model, hermes desktop, gpu optimization, llama.cpp, machine learning model deployment, how to set up local models, easiest way to configure llama.cpp",
+        "datePublished": "Sat, 05 Sep 2026 19:12:02 +0000",
+        "dateModified": "Sat, 05 Sep 2026 19:12:02 +0000",
+        "author": {
+          "@type": "Organization",
+          "name": "MarkTechPost",
+          "url": "https://www.marktechpost.com"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "industry",
+        "inLanguage": "en-US",
+        "wordCount": 40,
+        "articleBody": "Nou Research has simplified local model setup in Hermes Desktop to a single click, automatically optimizing and configuring the process for users based on their hardware. This update aims to make AI model deployment more accessible and efficient for end-users."
+      }
+    },
+    {
+      "source_id": "marktechpost",
+      "source_name": "MarkTechPost",
+      "title": "Adaption Labs Introduces ‘Invent a Dataset’: Training Data Generated From a Task Description, Not a Seed Corpus",
+      "url": "https://www.marktechpost.com/2026/09/04/datasets-invent-api-training-data-without-labeling-adaptive-data-autoscientist/",
+      "description": "<p>Adaption Labs has released Invent a Dataset, which generates a structured, training-ready dataset from a description of the behavior you want a model to learn. There is no seed corpus, no schema design, and no labeling guide. A single datasets.invent call sets domains, row count, output format, a",
+      "published": "Sat, 05 Sep 2026 06:48:29 +0000",
+      "score": 24,
+      "category": "industry",
+      "weight": 6,
+      "format": "article",
+      "summary": "Adaption Labs has launched Invent a Dataset, a tool that creates training data based on task descriptions without needing a seed corpus or manual labeling, aiming to streamline the training process for machine learning models. This innovation could significantly reduce the time and effort required in preparing datasets, making model development more accessible and efficient.",
+      "summary_detailed": "Adaption Labs has introduced Invent a Dataset, a tool that generates training data directly from task descriptions without the need for a seed corpus or manual labeling. This innovation allows for more flexible and efficient creation of structured datasets tailored to specific model learning requirements. The broader impact could revolutionize how machine learning models are trained, potentially reducing costs and increasing adaptability in various industries reliant on custom data sets.",
+      "summary_bullets": "• Adaption Labs introduces Invent a Dataset\n• No need for a seed corpus or schema design\n• Generates structured, training-ready dataset from task description\n• Single function call to set parameters like domain and row count",
+      "sentiment": "neutral",
+      "keywords": [
+        "invent a dataset",
+        "training data",
+        "seed corpus",
+        "structured dataset",
+        "model training"
+      ],
+      "thumbnail": null,
+      "favicon": "https://www.google.com/s2/favicons?domain=www.marktechpost.com&sz=64",
+      "cluster_id": "01cf23b9-db6f-5a91-8443-c2f5a920b5cc",
+      "cluster_size": 1,
+      "cluster_topics": [
+        "invent",
+        "dataset",
+        "adaption",
+        "labs",
+        "description"
+      ],
+      "geo_title": "How does Invent a Dataset generate training data without a seed corpus?",
+      "geo_keywords": [
+        "invent a dataset",
+        "training data generation",
+        "seed corpus elimination",
+        "structured dataset creation",
+        "model training optimization",
+        "no seed corpus required",
+        "automated dataset generation",
+        "task description based dataset"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "How does Invent a Dataset generate training data without a seed corpus?",
+        "url": "https://www.marktechpost.com/2026/09/04/datasets-invent-api-training-data-without-labeling-adaptive-data-autoscientist/",
+        "description": "Adaption Labs has launched Invent a Dataset, a tool that creates training data based on task descriptions without needing a seed corpus or manual labeling, aiming to streamline the training process for machine learning models. This innovation could significantly reduce the time and effort required in preparing datasets, making model development more accessible and efficient.",
+        "keywords": "invent a dataset, training data generation, seed corpus elimination, structured dataset creation, model training optimization, no seed corpus required, automated dataset generation, task description based dataset",
+        "datePublished": "Sat, 05 Sep 2026 06:48:29 +0000",
+        "dateModified": "Sat, 05 Sep 2026 06:48:29 +0000",
+        "author": {
+          "@type": "Organization",
+          "name": "MarkTechPost",
+          "url": "https://www.marktechpost.com"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "industry",
+        "inLanguage": "en-US",
+        "wordCount": 55,
+        "articleBody": "Adaption Labs has launched Invent a Dataset, a tool that creates training data based on task descriptions without needing a seed corpus or manual labeling, aiming to streamline the training process for machine learning models. This innovation could significantly reduce the time and effort required in preparing datasets, making model development more accessible and efficient."
+      }
+    }
+  ],
+  "enriched": true,
+  "enriched_at": "2026-09-06T09:01:44.243317+00:00",
+  "enricher_model": "qwen2.5-7b",
+  "clustered": true,
+  "clustered_at": "2026-09-06T09:01:44.344315+00:00",
+  "cluster_threshold": 0.3,
+  "geo_metadata": {
+    "date": "2026-09-06",
+    "generated_at": "2026-09-06T09:02:19.455615+00:00",
+    "schemas_generated": 16,
+    "topics": [
+      "abstraction level",
+      "advanced agent management",
+      "advanced bot programming",
+      "agents",
+      "ai",
+      "ai assistant for mac",
+      "ai coding",
+      "ai coding agents",
+      "ai ethics in schools",
+      "ai in education",
+      "ai in system management",
+      "ai in technical support",
+      "ai incident handling",
+      "ai library updates",
+      "ai policy in us schools",
+      "ai search engine optimization",
+      "ai storage systems",
+      "ai technology in coding",
+      "ai vs human engineers",
+      "and rose work together",
+      "apple silicon",
+      "are llms a threat to humanity",
+      "automated dataset generation",
+      "automation in engineering",
+      "background tasks",
+      "background tasks automation",
+      "building production-ready agents",
+      "chatbot bans in schools",
+      "chatgpt desktop",
+      "ci",
+      "coding",
+      "cognitive",
+      "cognitive technology risks",
+      "continuous integration break",
+      "cost-effective gpu usage in ai",
+      "debugging",
+      "debugging techniques for ggml",
+      "do engineers need to worry about ai",
+      "early return",
+      "early return optimization",
+      "easiest way to configure llama.cpp",
+      "efficient embedding model deployment",
+      "embedding",
+      "engineer system disconnection",
+      "engineers",
+      "enhancing managed agents functionality",
+      "environment variable",
+      "environment variables for memory",
+      "esp8266",
+      "esp8266 and ai"
+    ],
+    "faq_items": [
+      {
+        "question": "What new features are being added to the Gemini API?",
+        "answer": "Managed agents in Gemini API now support background tasks and remote MCP functionalities."
+      },
+      {
+        "question": "How do large language models (LLMs) potentially impact cognitive processes?",
+        "answer": "LLMs are being viewed as a cognitive virus, suggesting they could influence or alter human cognitive functions in significant ways."
+      },
+      {
+        "question": "Are there any reports of AI reducing engineers' understanding of their systems?",
+        "answer": "Yes, AI is handling incidents, leading to engineers losing touch with their systems, potentially diminishing their direct knowledge and control."
+      },
+      {
+        "question": "What new version has Ollama released?",
+        "answer": "Ollama has released version v0.34.0."
+      },
+      {
+        "question": "What are some recent updates from Grok Bot?",
+        "answer": "Grok Bot, powered by OpenClaw, was recently tested on a MacBook for five days, showcasing its capabilities and user experience."
+      }
+    ]
+  },
+  "geo_enriched": true,
+  "geo_enriched_at": "2026-09-06T09:02:19.455615+00:00"
+}
