@@ -1,6 +1,6 @@
 {
   "date": "2026-09-04",
-  "generated_at": "2026-09-07T13:00:07.376917+00:00",
+  "generated_at": "2026-09-07T17:00:06.529490+00:00",
   "results": {
     "trending_llm": {
       "verification_status": "verified",
@@ -43,20 +43,6 @@
       "sources_count": 1,
       "sources": [
         "MIT Technology Review AI"
-      ]
-    },
-    "latent_space": {
-      "verification_status": "unconfirmed",
-      "sources_count": 1,
-      "sources": [
-        "Latent Space (Substack)"
-      ]
-    },
-    "arxiv_cs_cl": {
-      "verification_status": "unconfirmed",
-      "sources_count": 1,
-      "sources": [
-        "ArXiv cs.CL (Computation and Language / NLP)"
       ]
     }
   }
