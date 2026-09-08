@@ -1,7 +1,28 @@
 {
   "date": "2026-09-07",
-  "generated_at": "2026-09-08T05:00:06.531501+00:00",
+  "generated_at": "2026-09-08T09:03:05.887284+00:00",
   "results": {
+    "openai_blog": {
+      "verification_status": "unconfirmed",
+      "sources_count": 1,
+      "sources": [
+        "OpenAI Blog"
+      ]
+    },
+    "trending_agent": {
+      "verification_status": "unconfirmed",
+      "sources_count": 1,
+      "sources": [
+        "GitHub Trending — AI Agents"
+      ]
+    },
+    "trending_ai": {
+      "verification_status": "unconfirmed",
+      "sources_count": 1,
+      "sources": [
+        "GitHub Trending — AI"
+      ]
+    },
     "ggml_releases": {
       "verification_status": "unconfirmed",
       "sources_count": 1,
@@ -9,11 +30,40 @@
         "ggml/llama.cpp releases"
       ]
     },
-    "arxiv_cs_cl": {
+    "trending_llm": {
       "verification_status": "unconfirmed",
       "sources_count": 1,
       "sources": [
-        "ArXiv cs.CL (Computation and Language / NLP)"
+        "GitHub Trending — LLM"
+      ]
+    },
+    "nousresearch_releases": {
+      "verification_status": "unconfirmed",
+      "sources_count": 1,
+      "sources": [
+        "NousResearch releases"
+      ]
+    },
+    "hn_llm_24h": {
+      "verification_status": "unconfirmed",
+      "sources_count": 1,
+      "sources": [
+        "HN top LLM 24h"
+      ]
+    },
+    "import_ai": {
+      "verification_status": "unconfirmed",
+      "sources_count": 1,
+      "sources": [
+        "Import AI (Jack Clark)"
+      ]
+    },
+    "hn_show_ai_7d": {
+      "verification_status": "verified",
+      "sources_count": 2,
+      "sources": [
+        "Show HN AI 7d",
+        "ArXiv cs.AI"
       ]
     },
     "arxiv_cs_ai": {
@@ -21,6 +71,21 @@
       "sources_count": 1,
       "sources": [
         "ArXiv cs.AI"
+      ]
+    },
+    "hn_ai_24h": {
+      "verification_status": "verified",
+      "sources_count": 2,
+      "sources": [
+        "HN top AI 24h",
+        "ArXiv cs.AI"
+      ]
+    },
+    "arxiv_cs_cl": {
+      "verification_status": "unconfirmed",
+      "sources_count": 1,
+      "sources": [
+        "ArXiv cs.CL (Computation and Language / NLP)"
       ]
     }
   }
