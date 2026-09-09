@@ -1,6 +1,6 @@
 {
   "date": "2026-09-07",
-  "generated_at": "2026-09-09T13:00:08.075549+00:00",
+  "generated_at": "2026-09-09T17:00:09.151600+00:00",
   "results": {
     "trending_llm": {
       "verification_status": "unconfirmed",
@@ -62,8 +62,8 @@
       "verification_status": "verified",
       "sources_count": 2,
       "sources": [
-        "ArXiv cs.AI",
-        "Show HN AI 7d"
+        "Show HN AI 7d",
+        "ArXiv cs.AI"
       ]
     },
     "arxiv_cs_ai": {
@@ -77,8 +77,8 @@
       "verification_status": "verified",
       "sources_count": 2,
       "sources": [
-        "ArXiv cs.AI",
-        "HN top AI 24h"
+        "HN top AI 24h",
+        "ArXiv cs.AI"
       ]
     },
     "arxiv_cs_cl": {
