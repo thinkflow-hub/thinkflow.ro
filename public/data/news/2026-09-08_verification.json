@@ -1,6 +1,6 @@
 {
   "date": "2026-09-08",
-  "generated_at": "2026-09-10T13:00:06.641014+00:00",
+  "generated_at": "2026-09-10T17:00:06.694200+00:00",
   "results": {
     "openai_blog": {
       "verification_status": "unconfirmed",
@@ -21,8 +21,8 @@
       "verification_status": "verified",
       "sources_count": 2,
       "sources": [
-        "OpenAI Blog",
-        "GitHub Trending — AI"
+        "GitHub Trending — AI",
+        "OpenAI Blog"
       ]
     },
     "hn_llm_24h": {
@@ -43,8 +43,8 @@
       "verification_status": "verified",
       "sources_count": 2,
       "sources": [
-        "GitHub Trending — LLM",
-        "HN top AI 24h"
+        "HN top AI 24h",
+        "GitHub Trending — LLM"
       ]
     },
     "ggml_releases": {
