@@ -1,12 +1,33 @@
 {
   "date": "2026-09-09",
-  "generated_at": "2026-09-10T01:00:06.128483+00:00",
+  "generated_at": "2026-09-10T09:04:11.174137+00:00",
   "results": {
-    "latent_space": {
+    "openai_blog": {
       "verification_status": "unconfirmed",
       "sources_count": 1,
       "sources": [
-        "Latent Space (Substack)"
+        "OpenAI Blog"
+      ]
+    },
+    "google_ai_blog": {
+      "verification_status": "unconfirmed",
+      "sources_count": 1,
+      "sources": [
+        "Google AI Blog"
+      ]
+    },
+    "hn_ai_24h": {
+      "verification_status": "unconfirmed",
+      "sources_count": 1,
+      "sources": [
+        "HN top AI 24h"
+      ]
+    },
+    "mistral_blog": {
+      "verification_status": "unconfirmed",
+      "sources_count": 1,
+      "sources": [
+        "Mistral AI"
       ]
     },
     "ggml_releases": {
@@ -16,11 +37,26 @@
         "ggml/llama.cpp releases"
       ]
     },
-    "hn_ai_24h": {
+    "latent_space": {
+      "verification_status": "verified",
+      "sources_count": 2,
+      "sources": [
+        "Latent Space (Substack)",
+        "ggml/llama.cpp releases"
+      ]
+    },
+    "vllm_releases": {
       "verification_status": "unconfirmed",
       "sources_count": 1,
       "sources": [
-        "HN top AI 24h"
+        "vLLM releases"
+      ]
+    },
+    "huggingface_transformers_releases": {
+      "verification_status": "unconfirmed",
+      "sources_count": 1,
+      "sources": [
+        "Transformers releases"
       ]
     },
     "marktechpost": {
