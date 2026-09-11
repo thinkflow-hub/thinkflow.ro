@@ -1,12 +1,33 @@
 {
   "date": "2026-09-10",
-  "generated_at": "2026-09-11T05:00:06.284904+00:00",
+  "generated_at": "2026-09-11T09:16:55.245383+00:00",
   "results": {
-    "latent_space": {
+    "openai_blog": {
       "verification_status": "unconfirmed",
       "sources_count": 1,
       "sources": [
-        "Latent Space (Substack)"
+        "OpenAI Blog"
+      ]
+    },
+    "google_ai_blog": {
+      "verification_status": "unconfirmed",
+      "sources_count": 1,
+      "sources": [
+        "Google AI Blog"
+      ]
+    },
+    "trending_ai": {
+      "verification_status": "unconfirmed",
+      "sources_count": 1,
+      "sources": [
+        "GitHub Trending — AI"
+      ]
+    },
+    "mistral_blog": {
+      "verification_status": "unconfirmed",
+      "sources_count": 1,
+      "sources": [
+        "Mistral AI"
       ]
     },
     "hn_ai_24h": {
@@ -14,6 +35,20 @@
       "sources_count": 1,
       "sources": [
         "HN top AI 24h"
+      ]
+    },
+    "ggml_releases": {
+      "verification_status": "unconfirmed",
+      "sources_count": 1,
+      "sources": [
+        "ggml/llama.cpp releases"
+      ]
+    },
+    "latent_space": {
+      "verification_status": "unconfirmed",
+      "sources_count": 1,
+      "sources": [
+        "Latent Space (Substack)"
       ]
     },
     "arxiv_cs_cl": {

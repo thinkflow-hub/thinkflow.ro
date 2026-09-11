@@ -1,19 +1,19 @@
 {
-  "date": "2026-09-05",
-  "generated_at": "2026-09-11T09:16:55.246386+00:00",
+  "date": "2026-09-11",
+  "generated_at": "2026-09-11T09:16:55.245383+00:00",
   "results": {
-    "ollama_releases": {
+    "ggml_releases": {
       "verification_status": "unconfirmed",
       "sources_count": 1,
       "sources": [
-        "Ollama releases"
+        "ggml/llama.cpp releases"
       ]
     },
-    "latent_space": {
+    "arxiv_cs_cl": {
       "verification_status": "unconfirmed",
       "sources_count": 1,
       "sources": [
-        "Latent Space (Substack)"
+        "ArXiv cs.CL (Computation and Language / NLP)"
       ]
     }
   }
