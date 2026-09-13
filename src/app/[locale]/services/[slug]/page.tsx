@@ -22,6 +22,17 @@ export function generateStaticParams() {
   return Object.keys(SLUG_TO_KEY).map((slug) => ({ slug }));
 }
 
+// Doar cele 5 servicii active din catalogul restrans (decizia operatorului,
+// 04.09.2026) primesc Service schema — restul raman live pe URL dar delistate,
+// si nu trebuie re-semnalate ca oferta curenta catre motoarele de cautare/GEO.
+const ACTIVE_SERVICE_SLUGS = new Set([
+  "cloud-cost-migration-audit",
+  "website-care",
+  "clipping",
+  "python-automation",
+  "ai-voice-agent",
+]);
+
 export async function generateMetadata({ params }: { params: Promise<{ slug: string; locale: string }> }): Promise<Metadata> {
   const { slug, locale } = await params;
   const t = await getTranslations({ locale });
@@ -57,6 +68,30 @@ export default async function ServicePage({ params }: { params: Promise<{ slug: 
 
   return (
     <div className="mx-auto max-w-4xl px-4 py-16">
+      {ACTIVE_SERVICE_SLUGS.has(slug) && (
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{
+            __html: JSON.stringify({
+              "@context": "https://schema.org",
+              "@type": "Service",
+              name: title,
+              description: desc,
+              provider: {
+                "@type": "Organization",
+                name: "ThinkFLOW",
+                url: "https://thinkflow.ro",
+              },
+              areaServed: "RO",
+              offers: {
+                "@type": "Offer",
+                description: price,
+                url: `https://thinkflow.ro/services/${slug}`,
+              },
+            }),
+          }}
+        />
+      )}
       <Link href="/services" className="mb-8 block text-sm text-white/50 hover:text-white font-montserrat-bold tracking-wider uppercase">&larr; {t("services.backToServices")}</Link>
 
       <div className="glass-card p-8 md:p-12 relative noise-overlay mb-8">

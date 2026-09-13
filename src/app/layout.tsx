@@ -69,11 +69,17 @@ export default async function RootLayout({
           dangerouslySetInnerHTML={{
             __html: JSON.stringify({
               "@context": "https://schema.org",
-              "@type": "Organization",
+              "@type": ["Organization", "LocalBusiness"],
               name: "ThinkFLOW",
               url: "https://thinkflow.ro",
               logo: "https://thinkflow.ro/logo.svg",
               description: "Fixed-fee cloud cost audits, website creation and care, short-form clipping and Python automation.",
+              address: {
+                "@type": "PostalAddress",
+                addressLocality: "Bucharest",
+                addressCountry: "RO",
+              },
+              areaServed: "RO",
               contactPoint: {
                 "@type": "ContactPoint",
                 email: "contact@thinkflow.ro",
