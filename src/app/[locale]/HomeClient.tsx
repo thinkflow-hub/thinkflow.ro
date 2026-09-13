@@ -104,9 +104,13 @@ export default function HomePage() {
         <div className="max-w-7xl w-full flex flex-col items-center">
           {/* Hero-ul e mereu deasupra fold-ului: animația pornește din CSS la load,
               fără să aștepte hidratarea + IntersectionObserver (LCP-ul era blocat în opacity-0). */}
-          <div className="text-4xl md:text-6xl lg:text-[85px] font-montserrat-bold tracking-tighter leading-[0.85] mb-12 uppercase flex flex-col items-center animate-fade-in-up">
+          {/* h1, nu div: pagina avea doar h2-uri, fara niciun h1 — titlul principal
+              exista vizual dar nu semantic (audit SEO 11.09.2026). Clasele raman
+              identice, deci nimic nu se schimba vizual. Liniile sunt span-uri:
+              un h1 accepta doar continut de tip frazare, nu div-uri. */}
+          <h1 className="text-4xl md:text-6xl lg:text-[85px] font-montserrat-bold tracking-tighter leading-[0.85] mb-12 uppercase flex flex-col items-center animate-fade-in-up">
             {t("home.heroTitle").split("\n").map((line, li) => (
-              <div key={li} className="flex flex-wrap justify-center gap-x-[0.3em] py-2">
+              <span key={li} className="flex flex-wrap justify-center gap-x-[0.3em] py-2">
                 {line.split(" ").map((word, wi) => (
                   <span
                     key={wi}
@@ -119,9 +123,9 @@ export default function HomePage() {
                     {word}
                   </span>
                 ))}
-              </div>
+              </span>
             ))}
-          </div>
+          </h1>
           <div className="max-w-2xl mx-auto mb-[54px] animate-fade-in-up" style={{ animationDelay: "0.2s" }}>
             <p className="text-base md:text-xl text-white/50 font-montserrat-bold uppercase tracking-widest leading-[1.6]">
               {t("home.heroSubtitle")}
