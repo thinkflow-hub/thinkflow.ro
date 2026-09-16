@@ -1,19 +1,19 @@
 {
-  "date": "2026-09-13",
-  "generated_at": "2026-09-16T09:03:02.506210+00:00",
+  "date": "2026-09-16",
+  "generated_at": "2026-09-16T09:03:02.505207+00:00",
   "results": {
-    "hn_ai_24h": {
+    "trending_llm": {
       "verification_status": "unconfirmed",
       "sources_count": 1,
       "sources": [
-        "HN top AI 24h"
+        "GitHub Trending — LLM"
       ]
     },
-    "ggml_releases": {
+    "arxiv_cs_cl": {
       "verification_status": "unconfirmed",
       "sources_count": 1,
       "sources": [
-        "ggml/llama.cpp releases"
+        "ArXiv cs.CL (Computation and Language / NLP)"
       ]
     }
   }

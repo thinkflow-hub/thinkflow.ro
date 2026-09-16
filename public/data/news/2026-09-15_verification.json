@@ -1,26 +1,20 @@
 {
   "date": "2026-09-15",
-  "generated_at": "2026-09-16T05:00:08.819629+00:00",
+  "generated_at": "2026-09-16T09:03:02.505207+00:00",
   "results": {
-    "trending_agent": {
+    "google_ai_blog": {
       "verification_status": "unconfirmed",
       "sources_count": 1,
       "sources": [
-        "GitHub Trending — AI Agents"
+        "Google AI Blog"
       ]
     },
-    "trending_ai": {
-      "verification_status": "unconfirmed",
-      "sources_count": 1,
+    "deepmind_blog": {
+      "verification_status": "verified",
+      "sources_count": 2,
       "sources": [
-        "GitHub Trending — AI"
-      ]
-    },
-    "trending_llm": {
-      "verification_status": "unconfirmed",
-      "sources_count": 1,
-      "sources": [
-        "GitHub Trending — LLM"
+        "HN top AI 24h",
+        "DeepMind Blog"
       ]
     },
     "hn_ai_24h": {
@@ -30,11 +24,63 @@
         "HN top AI 24h"
       ]
     },
+    "huggingface_blog": {
+      "verification_status": "verified",
+      "sources_count": 2,
+      "sources": [
+        "Hugging Face Blog",
+        "GitHub Trending — AI"
+      ]
+    },
+    "trending_ai": {
+      "verification_status": "verified",
+      "sources_count": 2,
+      "sources": [
+        "Hugging Face Blog",
+        "GitHub Trending — AI"
+      ]
+    },
+    "hn_llm_24h": {
+      "verification_status": "unconfirmed",
+      "sources_count": 1,
+      "sources": [
+        "HN top LLM 24h"
+      ]
+    },
+    "trending_llm": {
+      "verification_status": "unconfirmed",
+      "sources_count": 1,
+      "sources": [
+        "GitHub Trending — LLM"
+      ]
+    },
+    "ollama_releases": {
+      "verification_status": "verified",
+      "sources_count": 2,
+      "sources": [
+        "ggml/llama.cpp releases",
+        "Ollama releases"
+      ]
+    },
+    "ggml_releases": {
+      "verification_status": "unconfirmed",
+      "sources_count": 1,
+      "sources": [
+        "ggml/llama.cpp releases"
+      ]
+    },
     "latent_space": {
       "verification_status": "unconfirmed",
       "sources_count": 1,
       "sources": [
         "Latent Space (Substack)"
+      ]
+    },
+    "trending_agent": {
+      "verification_status": "unconfirmed",
+      "sources_count": 1,
+      "sources": [
+        "GitHub Trending — AI Agents"
       ]
     }
   }
