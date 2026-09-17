@@ -1,6 +1,6 @@
 {
   "date": "2026-09-15",
-  "generated_at": "2026-09-16T21:00:08.346580+00:00",
+  "generated_at": "2026-09-17T01:00:05.961071+00:00",
   "results": {
     "google_ai_blog": {
       "verification_status": "unconfirmed",
@@ -13,8 +13,8 @@
       "verification_status": "verified",
       "sources_count": 2,
       "sources": [
-        "HN top AI 24h",
-        "DeepMind Blog"
+        "DeepMind Blog",
+        "HN top AI 24h"
       ]
     },
     "hn_ai_24h": {
@@ -28,16 +28,16 @@
       "verification_status": "verified",
       "sources_count": 2,
       "sources": [
-        "Hugging Face Blog",
-        "GitHub Trending — AI"
+        "GitHub Trending — AI",
+        "Hugging Face Blog"
       ]
     },
     "trending_ai": {
       "verification_status": "verified",
       "sources_count": 2,
       "sources": [
-        "Hugging Face Blog",
-        "GitHub Trending — AI"
+        "GitHub Trending — AI",
+        "Hugging Face Blog"
       ]
     },
     "hn_llm_24h": {
