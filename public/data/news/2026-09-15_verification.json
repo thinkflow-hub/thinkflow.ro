@@ -1,6 +1,6 @@
 {
   "date": "2026-09-15",
-  "generated_at": "2026-09-18T09:03:02.793486+00:00",
+  "generated_at": "2026-09-18T13:00:06.270935+00:00",
   "results": {
     "ollama_releases": {
       "verification_status": "verified",
@@ -21,8 +21,8 @@
       "verification_status": "verified",
       "sources_count": 2,
       "sources": [
-        "HN top AI 24h",
-        "DeepMind Blog"
+        "DeepMind Blog",
+        "HN top AI 24h"
       ]
     },
     "hn_ai_24h": {
@@ -33,19 +33,10 @@
       ]
     },
     "huggingface_blog": {
-      "verification_status": "verified",
-      "sources_count": 2,
+      "verification_status": "unconfirmed",
+      "sources_count": 1,
       "sources": [
-        "Hugging Face Blog",
-        "GitHub Trending — AI"
-      ]
-    },
-    "trending_ai": {
-      "verification_status": "verified",
-      "sources_count": 2,
-      "sources": [
-        "Hugging Face Blog",
-        "GitHub Trending — AI"
+        "Hugging Face Blog"
       ]
     },
     "hn_llm_24h": {
@@ -53,13 +44,6 @@
       "sources_count": 1,
       "sources": [
         "HN top LLM 24h"
-      ]
-    },
-    "trending_llm": {
-      "verification_status": "unconfirmed",
-      "sources_count": 1,
-      "sources": [
-        "GitHub Trending — LLM"
       ]
     },
     "ggml_releases": {
@@ -74,13 +58,6 @@
       "sources_count": 1,
       "sources": [
         "Latent Space (Substack)"
-      ]
-    },
-    "trending_agent": {
-      "verification_status": "unconfirmed",
-      "sources_count": 1,
-      "sources": [
-        "GitHub Trending — AI Agents"
       ]
     }
   }
