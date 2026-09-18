@@ -1,6 +1,6 @@
 {
   "date": "2026-09-15",
-  "generated_at": "2026-09-17T17:00:08.173705+00:00",
+  "generated_at": "2026-09-17T21:00:08.456583+00:00",
   "results": {
     "ollama_releases": {
       "verification_status": "verified",
@@ -21,8 +21,8 @@
       "verification_status": "verified",
       "sources_count": 2,
       "sources": [
-        "DeepMind Blog",
-        "HN top AI 24h"
+        "HN top AI 24h",
+        "DeepMind Blog"
       ]
     },
     "hn_ai_24h": {
@@ -36,16 +36,16 @@
       "verification_status": "verified",
       "sources_count": 2,
       "sources": [
-        "Hugging Face Blog",
-        "GitHub Trending — AI"
+        "GitHub Trending — AI",
+        "Hugging Face Blog"
       ]
     },
     "trending_ai": {
       "verification_status": "verified",
       "sources_count": 2,
       "sources": [
-        "Hugging Face Blog",
-        "GitHub Trending — AI"
+        "GitHub Trending — AI",
+        "Hugging Face Blog"
       ]
     },
     "hn_llm_24h": {
