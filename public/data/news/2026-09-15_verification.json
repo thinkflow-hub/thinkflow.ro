@@ -1,13 +1,13 @@
 {
   "date": "2026-09-15",
-  "generated_at": "2026-09-17T21:00:08.456583+00:00",
+  "generated_at": "2026-09-18T01:00:08.706417+00:00",
   "results": {
     "ollama_releases": {
       "verification_status": "verified",
       "sources_count": 2,
       "sources": [
-        "ggml/llama.cpp releases",
-        "Ollama releases"
+        "Ollama releases",
+        "ggml/llama.cpp releases"
       ]
     },
     "google_ai_blog": {
@@ -21,8 +21,8 @@
       "verification_status": "verified",
       "sources_count": 2,
       "sources": [
-        "HN top AI 24h",
-        "DeepMind Blog"
+        "DeepMind Blog",
+        "HN top AI 24h"
       ]
     },
     "hn_ai_24h": {
@@ -36,16 +36,16 @@
       "verification_status": "verified",
       "sources_count": 2,
       "sources": [
-        "GitHub Trending — AI",
-        "Hugging Face Blog"
+        "Hugging Face Blog",
+        "GitHub Trending — AI"
       ]
     },
     "trending_ai": {
       "verification_status": "verified",
       "sources_count": 2,
       "sources": [
-        "GitHub Trending — AI",
-        "Hugging Face Blog"
+        "Hugging Face Blog",
+        "GitHub Trending — AI"
       ]
     },
     "hn_llm_24h": {
