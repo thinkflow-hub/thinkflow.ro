@@ -1,63 +1,12 @@
 {
   "date": "2026-09-15",
-  "generated_at": "2026-09-19T05:00:06.644394+00:00",
+  "generated_at": "2026-09-19T09:07:53.038818+00:00",
   "results": {
     "ollama_releases": {
-      "verification_status": "verified",
-      "sources_count": 2,
+      "verification_status": "unconfirmed",
+      "sources_count": 1,
       "sources": [
-        "ggml/llama.cpp releases",
         "Ollama releases"
-      ]
-    },
-    "google_ai_blog": {
-      "verification_status": "unconfirmed",
-      "sources_count": 1,
-      "sources": [
-        "Google AI Blog"
-      ]
-    },
-    "deepmind_blog": {
-      "verification_status": "verified",
-      "sources_count": 2,
-      "sources": [
-        "DeepMind Blog",
-        "HN top AI 24h"
-      ]
-    },
-    "hn_ai_24h": {
-      "verification_status": "unconfirmed",
-      "sources_count": 1,
-      "sources": [
-        "HN top AI 24h"
-      ]
-    },
-    "huggingface_blog": {
-      "verification_status": "unconfirmed",
-      "sources_count": 1,
-      "sources": [
-        "Hugging Face Blog"
-      ]
-    },
-    "hn_llm_24h": {
-      "verification_status": "unconfirmed",
-      "sources_count": 1,
-      "sources": [
-        "HN top LLM 24h"
-      ]
-    },
-    "ggml_releases": {
-      "verification_status": "unconfirmed",
-      "sources_count": 1,
-      "sources": [
-        "ggml/llama.cpp releases"
-      ]
-    },
-    "latent_space": {
-      "verification_status": "unconfirmed",
-      "sources_count": 1,
-      "sources": [
-        "Latent Space (Substack)"
       ]
     }
   }

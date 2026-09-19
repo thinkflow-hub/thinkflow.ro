@@ -1,6 +1,6 @@
 {
   "date": "2026-09-16",
-  "generated_at": "2026-09-19T05:00:06.644394+00:00",
+  "generated_at": "2026-09-19T09:07:53.037796+00:00",
   "results": {
     "openai_blog": {
       "verification_status": "unconfirmed",
@@ -13,14 +13,6 @@
       "verification_status": "unconfirmed",
       "sources_count": 1,
       "sources": [
-        "HN top LLM 24h"
-      ]
-    },
-    "trending_llm": {
-      "verification_status": "verified",
-      "sources_count": 2,
-      "sources": [
-        "GitHub Trending — LLM",
         "HN top LLM 24h"
       ]
     },
@@ -50,13 +42,6 @@
       "sources_count": 1,
       "sources": [
         "Show HN AI 7d"
-      ]
-    },
-    "arxiv_cs_cl": {
-      "verification_status": "unconfirmed",
-      "sources_count": 1,
-      "sources": [
-        "ArXiv cs.CL (Computation and Language / NLP)"
       ]
     }
   }
