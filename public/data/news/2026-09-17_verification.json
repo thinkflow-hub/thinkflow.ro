@@ -1,6 +1,6 @@
 {
   "date": "2026-09-17",
-  "generated_at": "2026-09-20T09:02:19.877841+00:00",
+  "generated_at": "2026-09-20T13:00:07.645978+00:00",
   "results": {
     "openai_blog": {
       "verification_status": "unconfirmed",
@@ -37,14 +37,6 @@
         "HN top AI 24h"
       ]
     },
-    "trending_ai": {
-      "verification_status": "verified",
-      "sources_count": 2,
-      "sources": [
-        "HN top AI 24h",
-        "GitHub Trending — AI"
-      ]
-    },
     "latent_space": {
       "verification_status": "unconfirmed",
       "sources_count": 1,
@@ -57,13 +49,6 @@
       "sources_count": 1,
       "sources": [
         "ggml/llama.cpp releases"
-      ]
-    },
-    "arxiv_cs_cl": {
-      "verification_status": "unconfirmed",
-      "sources_count": 1,
-      "sources": [
-        "ArXiv cs.CL (Computation and Language / NLP)"
       ]
     }
   }
