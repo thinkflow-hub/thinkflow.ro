@@ -1,0 +1,1543 @@
+{
+  "date": "2026-09-20",
+  "last_updated": "2026-09-20T06:00:01.992724+00:00",
+  "total_items": 21,
+  "items": [
+    {
+      "source_id": "deepmind_blog",
+      "source_name": "DeepMind Blog",
+      "title": "Introducing Gemini 3.5 Flash Cyber",
+      "url": "https://deepmind.google/blog/introducing-gemini-3-5-flash-cyber/",
+      "description": "Google introduces Gemini 3.5 Flash Cyber, a lightweight cybersecurity model to find and patch vulnerabilities.",
+      "published": "Fri, 17 Jul 2026 15:00:11 +0000",
+      "score": 67,
+      "category": "ai_labs",
+      "weight": 9,
+      "format": "article",
+      "summary": "Google launched Gemini 3.5 Flash Cyber, a streamlined tool for identifying and addressing security flaws, aiming to enhance online safety with more efficient vulnerability management.",
+      "summary_detailed": "Google has introduced Gemini 3.5 Flash Cyber, a new lightweight cybersecurity tool designed to identify and address vulnerabilities in systems. This model aims to enhance the efficiency of vulnerability management by providing a more streamlined approach for organizations to secure their networks. The broader impact is expected to improve overall cybersecurity measures across various industries by offering a simpler yet effective solution for managing cyber risks.",
+      "summary_bullets": "• Gemini 3.5 Flash Cyber is a new cybersecurity tool.\n• It aims to identify and address vulnerabilities.\n• The model is designed to be lightweight for easier use.",
+      "sentiment": "neutral",
+      "keywords": [
+        "google",
+        "gemini",
+        "cybersecurity",
+        "vulnerabilities",
+        "patch"
+      ],
+      "thumbnail": "https://lh3.googleusercontent.com/esSD0-kSrZ8K07XxNkSKL3OGlcx1Cf3M-qiQut0q_vArHMiK2L1CpUIGVkjuQrhu_m0g8UMVflVQpDp7VFAJSubDdCjSXsPJPDeK-PUtaPbqA8W1=w1200-h630-n-nu-rw",
+      "cluster_id": "0494ef44-0c7d-5b01-8a33-ff807dbd7425",
+      "cluster_size": 1,
+      "cluster_topics": [
+        "cyber",
+        "gemini",
+        "flash",
+        "introducing",
+        "google"
+      ],
+      "geo_title": "How does Gemini 3.5 Flash Cyber enhance cybersecurity?",
+      "geo_keywords": [
+        "google gemini 3.5",
+        "cybersecurity model",
+        "vulnerability detection",
+        "patch management",
+        "lightweight cybersecurity",
+        "google cybersecurity update",
+        "how does google's new cybersecurity model work",
+        "what is gemini 3.5 flash cyber",
+        "finding and patching vulnerabilities"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "How does Gemini 3.5 Flash Cyber enhance cybersecurity?",
+        "url": "https://deepmind.google/blog/introducing-gemini-3-5-flash-cyber/",
+        "description": "Google launched Gemini 3.5 Flash Cyber, a streamlined tool for identifying and addressing security flaws, aiming to enhance online safety with more efficient vulnerability management.",
+        "keywords": "google gemini 3.5, cybersecurity model, vulnerability detection, patch management, lightweight cybersecurity, google cybersecurity update, how does google's new cybersecurity model work, what is gemini 3.5 flash cyber",
+        "datePublished": "Fri, 17 Jul 2026 15:00:11 +0000",
+        "dateModified": "Fri, 17 Jul 2026 15:00:11 +0000",
+        "author": {
+          "@type": "Organization",
+          "name": "DeepMind Blog",
+          "url": "https://deepmind.google"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "ai_labs",
+        "inLanguage": "en-US",
+        "wordCount": 25,
+        "articleBody": "Google launched Gemini 3.5 Flash Cyber, a streamlined tool for identifying and addressing security flaws, aiming to enhance online safety with more efficient vulnerability management."
+      }
+    },
+    {
+      "source_id": "trending_llm",
+      "source_name": "GitHub Trending — LLM",
+      "title": "langgenius/dify — Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cl",
+      "url": "https://github.com/langgenius/dify",
+      "description": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack.",
+      "published": "2026-09-20T06:00:17Z",
+      "score": 62,
+      "category": "open_source",
+      "weight": 9,
+      "stars": 156521,
+      "language": "TypeScript",
+      "summary": "Agentic offers a collaborative workspace for building AI workflows and RAG pipelines with extensive model and tool support, enabling seamless deployment options from cloud to self-hosted environments, facilitating rapid transition from prototypes to production.",
+      "summary_detailed": "langgenius/dify offers a collaborative platform for building Agentic workflows and RAG pipelines with extensive AI model and tool support. This solution enables teams to deploy their projects on cloud, virtual private cloud (VPC), or self-hosted environments, facilitating a smooth transition from prototype to production without the need to recreate technical stacks. The broader impact lies in enhancing productivity and efficiency for teams working on AI-driven applications by providing a unified workspace that supports various deployment options.",
+      "summary_bullets": "• Build Agentic workflows and RAG pipelines\n• Offer rich AI model and tool support\n• Provide a single collaborative workspace\n• Support deployment on cloud, VPC, or self-hosted environments",
+      "sentiment": "neutral",
+      "keywords": [
+        "agentic workflows",
+        "rag pipelines",
+        "ai models",
+        "collaborative workspace",
+        "deployment options"
+      ],
+      "thumbnail": "https://repository-images.githubusercontent.com/626805178/6616f28b-ae4c-44e6-8b4c-e3c3396315e9",
+      "cluster_id": "64da2d0a-9273-5fca-87b0-5954b04e9dec",
+      "cluster_size": 1,
+      "cluster_topics": [
+        "build",
+        "agentic",
+        "workflows",
+        "rag",
+        "pipelines"
+      ],
+      "geo_title": "How does langgenius/dify streamline AI workflow deployment?",
+      "geo_keywords": [
+        "agentic workflows",
+        "rag pipelines",
+        "ai model support",
+        "collaborative workspace",
+        "deployment options",
+        "cloud deployment",
+        "vpc deployment",
+        "self-hosted deployment",
+        "rich ai tool support",
+        "build agentic workflows",
+        "deploy ai projects",
+        "what is agentic workflow"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "How does langgenius/dify streamline AI workflow deployment?",
+        "url": "https://github.com/langgenius/dify",
+        "description": "Agentic offers a collaborative workspace for building AI workflows and RAG pipelines with extensive model and tool support, enabling seamless deployment options from cloud to self-hosted environments, facilitating rapid transition from prototypes to production.",
+        "keywords": "agentic workflows, rag pipelines, ai model support, collaborative workspace, deployment options, cloud deployment, vpc deployment, self-hosted deployment",
+        "datePublished": "2026-09-20T06:00:17Z",
+        "dateModified": "2026-09-20T06:00:17Z",
+        "author": {
+          "@type": "Organization",
+          "name": "GitHub Trending — LLM",
+          "url": "https://github.com"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "open_source",
+        "inLanguage": "en-US",
+        "wordCount": 34,
+        "articleBody": "Agentic offers a collaborative workspace for building AI workflows and RAG pipelines with extensive model and tool support, enabling seamless deployment options from cloud to self-hosted environments, facilitating rapid transition from prototypes to production."
+      }
+    },
+    {
+      "source_id": "trending_llm",
+      "source_name": "GitHub Trending — LLM",
+      "title": "harry0703/MoneyPrinterTurbo — 利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.",
+      "url": "https://github.com/harry0703/MoneyPrinterTurbo",
+      "description": "利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.",
+      "published": "2026-09-18T09:48:59Z",
+      "score": 62,
+      "category": "open_source",
+      "weight": 9,
+      "stars": 124758,
+      "language": "Python",
+      "summary": "A new tool called MoneyPrinterTurbo uses AI and automation to create high-definition short videos from any given topic or keyword with just one click, revolutionizing content generation. This technology could significantly impact how businesses and creators produce visual content efficiently.",
+      "summary_detailed": "A new tool called MoneyPrinterTurbo uses AI and automation to create high-definition short videos based on given topics or keywords. This technology allows users to generate professional-looking videos quickly and efficiently by simply inputting specific themes or phrases. The broader impact could be significant, potentially transforming content creation across various industries such as marketing, education, and entertainment.",
+      "summary_bullets": "• Utilizes AI large models and automation workflows\n• Generates HD short videos from topics or keywords\n• One-click creation of high-quality videos",
+      "sentiment": "neutral",
+      "keywords": [
+        "ai",
+        "automation",
+        "video",
+        "generation",
+        "workflow"
+      ],
+      "thumbnail": "https://opengraph.githubassets.com/3869c5043d3d5080e42428bfa62e953be809cf9dc5894e4d6cdea98b7fb42145/harry0703/MoneyPrinterTurbo",
+      "cluster_id": "55d711b2-e016-5657-abe1-735fa3af90f4",
+      "cluster_size": 1,
+      "cluster_topics": [
+        "generate",
+        "short",
+        "videos",
+        "topic",
+        "keyword"
+      ],
+      "geo_title": "How does AI and automation create HD videos from keywords?",
+      "geo_keywords": [
+        "harry0703/moneyprinterturbo",
+        "ai video generation",
+        "automated video creation",
+        "hd short video generator",
+        "ai workflow for video",
+        "generate videos from keywords",
+        "how to create hd videos automatically"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "How does AI and automation create HD videos from keywords?",
+        "url": "https://github.com/harry0703/MoneyPrinterTurbo",
+        "description": "A new tool called MoneyPrinterTurbo uses AI and automation to create high-definition short videos from any given topic or keyword with just one click, revolutionizing content generation. This technology could significantly impact how businesses and creators produce visual content efficiently.",
+        "keywords": "harry0703/moneyprinterturbo, ai video generation, automated video creation, hd short video generator, ai workflow for video, generate videos from keywords, how to create hd videos automatically",
+        "datePublished": "2026-09-18T09:48:59Z",
+        "dateModified": "2026-09-18T09:48:59Z",
+        "author": {
+          "@type": "Organization",
+          "name": "GitHub Trending — LLM",
+          "url": "https://github.com"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "open_source",
+        "inLanguage": "en-US",
+        "wordCount": 40,
+        "articleBody": "A new tool called MoneyPrinterTurbo uses AI and automation to create high-definition short videos from any given topic or keyword with just one click, revolutionizing content generation. This technology could significantly impact how businesses and creators produce visual content efficiently."
+      }
+    },
+    {
+      "source_id": "trending_llm",
+      "source_name": "GitHub Trending — LLM",
+      "title": "Graphify-Labs/graphify — Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill fo",
+      "url": "https://github.com/Graphify-Labs/graphify",
+      "description": "Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.",
+      "published": "2026-09-18T21:16:28Z",
+      "score": 62,
+      "category": "open_source",
+      "weight": 9,
+      "stars": 119700,
+      "language": "Python",
+      "summary": "Graphify-Labs/graphify converts various types of codebase files into a queryable knowledge graph, enhancing accessibility and analysis. This tool is significant as it allows developers to integrate diverse documentation and configurations into a searchable format, improving efficiency in understanding complex systems.",
+      "summary_detailed": "Graphify-Labs has developed a tool called Graphify that transforms various types of codebases, including documentation, SQL schemas, configuration files, and PDFs, into queryable knowledge graphs. This tool is compatible with Claude Code, Cursor, Codex, and Gemini CLI, offering local deterministic Abstract Syntax Tree (AST) parsing and detailed explanations for each edge in the graph. The broader impact lies in enhancing the accessibility and usability of complex codebases by converting them into searchable and interconnected data structures.",
+      "summary_bullets": "• Turn any codebase into a queryable knowledge graph.\n• Includes documentation, SQL schemas, configs, and PDFs.\n• Local deterministic AST parsing with detailed explanations for each edge.",
+      "sentiment": "neutral",
+      "keywords": [
+        "codebase",
+        "knowledge graph",
+        "ast parsing",
+        "docs",
+        "sql schemas"
+      ],
+      "thumbnail": "https://opengraph.githubassets.com/5151ff3b2b43fc67abab21576c62efbd6aa1ced51da30f97a9944556cebcea25/Graphify-Labs/graphify",
+      "cluster_id": "3fa9983d-f100-5229-84b6-1603530317e1",
+      "cluster_size": 1,
+      "cluster_topics": [
+        "graphify",
+        "turn",
+        "codebase",
+        "docs",
+        "sql"
+      ],
+      "geo_title": "Why is turning codebases into queryable knowledge graphs important?",
+      "geo_keywords": [
+        "codebase knowledge graph",
+        "ast parsing explanation",
+        "convert codebase to knowledge graph",
+        "queryable codebase knowledge graph",
+        "integrate codebase with knowledge graph",
+        "codebase documentation and knowledge graph",
+        "sql schema in knowledge graph",
+        "config files for knowledge graph",
+        "pdf integration with knowledge graph",
+        "graphify labs technology",
+        "generate knowledge graph from codebase",
+        "how to create knowledge graph from codebase"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "Why is turning codebases into queryable knowledge graphs important?",
+        "url": "https://github.com/Graphify-Labs/graphify",
+        "description": "Graphify-Labs/graphify converts various types of codebase files into a queryable knowledge graph, enhancing accessibility and analysis. This tool is significant as it allows developers to integrate diverse documentation and configurations into a searchable format, improving efficiency in understanding complex systems.",
+        "keywords": "codebase knowledge graph, ast parsing explanation, convert codebase to knowledge graph, queryable codebase knowledge graph, integrate codebase with knowledge graph, codebase documentation and knowledge graph, sql schema in knowledge graph, config files for knowledge graph",
+        "datePublished": "2026-09-18T21:16:28Z",
+        "dateModified": "2026-09-18T21:16:28Z",
+        "author": {
+          "@type": "Organization",
+          "name": "GitHub Trending — LLM",
+          "url": "https://github.com"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "open_source",
+        "inLanguage": "en-US",
+        "wordCount": 40,
+        "articleBody": "Graphify-Labs/graphify converts various types of codebase files into a queryable knowledge graph, enhancing accessibility and analysis. This tool is significant as it allows developers to integrate diverse documentation and configurations into a searchable format, improving efficiency in understanding complex systems."
+      }
+    },
+    {
+      "source_id": "hn_llm_24h",
+      "source_name": "HN top LLM 24h",
+      "title": "I think you should almost never use AI to write",
+      "url": "https://erichgrunewald.substack.com/p/why-you-should-almost-never-use-ai",
+      "description": "",
+      "published": "2026-09-19T16:35:24+00:00",
+      "score": 62,
+      "category": "trending",
+      "weight": 9,
+      "points": 272,
+      "comments_url": "https://news.ycombinator.com/item?id=49767937",
+      "summary": "The article argues against frequent use of AI for writing, emphasizing the importance of human creativity and originality. It suggests that过度依赖AI写作可能会削弱人类的创新能力和独特视角，这对文化和创意产业的发展不利。",
+      "summary_detailed": "The article discusses the potential misuse and overreliance on artificial intelligence for writing tasks, emphasizing that AI-generated content should be used judiciously. It involves concerns from experts and writers who warn about ethical implications and the loss of human creativity. Broader impacts include potential job displacement in writing roles and a decrease in unique human expression.",
+      "summary_bullets": "• The article advises against using AI for writing in most cases.\n• It suggests AI is best used as an aid, not a replacement.\n• Ethical concerns and originality are highlighted as important.",
+      "sentiment": "negative",
+      "keywords": [
+        "ai",
+        "writing",
+        "ethics",
+        "automation",
+        "creativity"
+      ],
+      "thumbnail": "https://substackcdn.com/image/fetch/$s_!IqI1!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa02c7b29-f1f8-43f9-95c4-6a2c9480e681_730x523.png",
+      "cluster_id": "43059d58-830a-5b8a-826d-22c2e4995338",
+      "cluster_size": 1,
+      "cluster_topics": [
+        "almost",
+        "write",
+        "think",
+        "never"
+      ],
+      "geo_title": "Why is AI writing discouraged for this scenario?",
+      "geo_keywords": [
+        "ai writing ethics",
+        "automation in content creation",
+        "ethical considerations for ai writing",
+        "when to avoid using ai for writing",
+        "ai and creativity boundaries",
+        "balancing ai and human writing",
+        "ai writing tools limitations"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "Why is AI writing discouraged for this scenario?",
+        "url": "https://erichgrunewald.substack.com/p/why-you-should-almost-never-use-ai",
+        "description": "The article argues against frequent use of AI for writing, emphasizing the importance of human creativity and originality. It suggests that过度依赖AI写作可能会削弱人类的创新能力和独特视角，这对文化和创意产业的发展不利。",
+        "keywords": "ai writing ethics, automation in content creation, ethical considerations for ai writing, when to avoid using ai for writing, ai and creativity boundaries, balancing ai and human writing, ai writing tools limitations",
+        "datePublished": "2026-09-19T16:35:24+00:00",
+        "dateModified": "2026-09-19T16:35:24+00:00",
+        "author": {
+          "@type": "Organization",
+          "name": "HN top LLM 24h",
+          "url": "https://erichgrunewald.substack.com"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "trending",
+        "inLanguage": "en-US",
+        "wordCount": 21,
+        "articleBody": "The article argues against frequent use of AI for writing, emphasizing the importance of human creativity and originality. It suggests that过度依赖AI写作可能会削弱人类的创新能力和独特视角，这对文化和创意产业的发展不利。"
+      }
+    },
+    {
+      "source_id": "hn_ai_24h",
+      "source_name": "HN top AI 24h",
+      "title": "AI-generated posters don’t have to be horrible",
+      "url": "https://john.hartnup.uk/2026/06/07/ai-event-posters.html",
+      "description": "",
+      "published": "2026-09-19T09:20:58+00:00",
+      "score": 59,
+      "category": "trending",
+      "weight": 8,
+      "points": 1496,
+      "comments_url": "https://news.ycombinator.com/item?id=49764791",
+      "summary": "Artists are using AI to create eye-catching event posters, challenging the notion that such technology always produces poor results. This development is significant as it showcases AI's potential in creative fields and could lead to more innovative design solutions.",
+      "summary_detailed": "Researchers developed an AI system that creates movie poster designs, aiming to automate the creative process while maintaining aesthetic quality. The project involves a team of computer scientists and graphic designers who tested various algorithms to ensure the generated posters are visually appealing. This technology could significantly impact the film industry by streamlining the poster design process and potentially lowering costs for marketing campaigns.",
+      "summary_bullets": "• AI can create visually appealing posters\n• Quality depends on training data used\n• User feedback improves poster generation accuracy\n• Customization options enhance design flexibility",
+      "sentiment": "positive",
+      "keywords": [
+        "ai",
+        "posters",
+        "quality"
+      ],
+      "thumbnail": null,
+      "favicon": "https://www.google.com/s2/favicons?domain=john.hartnup.uk&sz=64",
+      "cluster_id": "493ac1de-6d82-516a-beba-a11ecc302e5e",
+      "cluster_size": 1,
+      "cluster_topics": [
+        "posters",
+        "don",
+        "horrible",
+        "ai-generated"
+      ],
+      "geo_title": "Why is AI helping create better posters?",
+      "geo_keywords": [
+        "ai generated posters",
+        "ai poster design",
+        "ai poster quality",
+        "how ai improves poster design",
+        "ai in graphic design",
+        "ai created posters",
+        "ai for posters",
+        "can ai make good posters",
+        "what technology is used in ai posters",
+        "ai poster technology",
+        "ai poster generation",
+        "ai in poster making"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "Why is AI helping create better posters?",
+        "url": "https://john.hartnup.uk/2026/06/07/ai-event-posters.html",
+        "description": "Artists are using AI to create eye-catching event posters, challenging the notion that such technology always produces poor results. This development is significant as it showcases AI's potential in creative fields and could lead to more innovative design solutions.",
+        "keywords": "ai generated posters, ai poster design, ai poster quality, how ai improves poster design, ai in graphic design, ai created posters, ai for posters, can ai make good posters",
+        "datePublished": "2026-09-19T09:20:58+00:00",
+        "dateModified": "2026-09-19T09:20:58+00:00",
+        "author": {
+          "@type": "Organization",
+          "name": "HN top AI 24h",
+          "url": "https://john.hartnup.uk"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "trending",
+        "inLanguage": "en-US",
+        "wordCount": 39,
+        "articleBody": "Artists are using AI to create eye-catching event posters, challenging the notion that such technology always produces poor results. This development is significant as it showcases AI's potential in creative fields and could lead to more innovative design solutions."
+      }
+    },
+    {
+      "source_id": "hn_ai_24h",
+      "source_name": "HN top AI 24h",
+      "title": "Microsoft director: AI scraping 'the largest theft of labor in human history'",
+      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/microsoft-director-called-ai-scraping-the-largest-theft-of-labor-in-human-history-while-openai-head-brands-chatgpt-an-existential-threat-to-publishers-revelations-come-from-legal-briefs-filed-in-nyt-lawsuit",
+      "description": "",
+      "published": "2026-09-19T18:21:30+00:00",
+      "score": 59,
+      "category": "trending",
+      "weight": 8,
+      "points": 153,
+      "comments_url": "https://news.ycombinator.com/item?id=49768921",
+      "summary": "Microsoft's director warns that artificial intelligence is facilitating a massive, unprecedented theft of labor, arguing it could be the largest inhumanity to workers in history. This claim highlights concerns about AI replacing human jobs on an unprecedented scale.",
+      "summary_detailed": "Microsoft's chief legal officer, Brad Smith, stated that the use of artificial intelligence to scrape jobs listings constitutes \"the largest theft of labor in human history.\" This claim involves tech companies using AI to automatically collect job postings from various sources without permission, potentially harming employment agencies and job boards. The broader impact could lead to significant changes in how job listings are managed and distributed, affecting both the technology sector and traditional job market platforms.",
+      "summary_bullets": "• Microsoft director calls AI scraping \"the largest theft of labor in human history\"\n• Focus on how AI is used to scrape and analyze large datasets\n• Implications for jobs and workforce are significant, according to the director\n• Discussion centers around ethical concerns and potential misuse of AI technology",
+      "sentiment": "negative",
+      "keywords": [
+        "ai",
+        "labor",
+        "theft",
+        "microsoft"
+      ],
+      "thumbnail": "https://cdn.mos.cms.futurecdn.net/tfUHUik9dBB9GKZAFqC6u4-2000-80.jpg",
+      "cluster_id": "c91dde62-3697-567c-8cce-669b77eefe93",
+      "cluster_size": 1,
+      "cluster_topics": [
+        "microsoft",
+        "director",
+        "scraping",
+        "largest",
+        "theft"
+      ],
+      "geo_title": "Why is AI scraping deemed the largest theft of labor in history?",
+      "geo_keywords": [
+        "ai scraping",
+        "labor theft",
+        "microsoft ai",
+        "largest theft of labor",
+        "ai impact on jobs",
+        "ai job displacement",
+        "ai ethics",
+        "ai workforce impact",
+        "what is ai scraping",
+        "how does ai affect jobs"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "Why is AI scraping deemed the largest theft of labor in history?",
+        "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/microsoft-director-called-ai-scraping-the-largest-theft-of-labor-in-human-history-while-openai-head-brands-chatgpt-an-existential-threat-to-publishers-revelations-come-from-legal-briefs-filed-in-nyt-lawsuit",
+        "description": "Microsoft's director warns that artificial intelligence is facilitating a massive, unprecedented theft of labor, arguing it could be the largest inhumanity to workers in history. This claim highlights concerns about AI replacing human jobs on an unprecedented scale.",
+        "keywords": "ai scraping, labor theft, microsoft ai, largest theft of labor, ai impact on jobs, ai job displacement, ai ethics, ai workforce impact",
+        "datePublished": "2026-09-19T18:21:30+00:00",
+        "dateModified": "2026-09-19T18:21:30+00:00",
+        "author": {
+          "@type": "Organization",
+          "name": "HN top AI 24h",
+          "url": "https://www.tomshardware.com"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "trending",
+        "inLanguage": "en-US",
+        "wordCount": 38,
+        "articleBody": "Microsoft's director warns that artificial intelligence is facilitating a massive, unprecedented theft of labor, arguing it could be the largest inhumanity to workers in history. This claim highlights concerns about AI replacing human jobs on an unprecedented scale."
+      }
+    },
+    {
+      "source_id": "import_ai",
+      "source_name": "Import AI (Jack Clark)",
+      "title": "Import AI 465: Open vs closed gaps; Kimi K3; Demis' big policy plan",
+      "url": "https://importai.substack.com/p/import-ai-465-open-vs-closed-gaps",
+      "description": "The singularity will be seen in hindsight as an interregnum",
+      "published": "Mon, 20 Jul 2026 12:31:45 GMT",
+      "score": 48,
+      "category": "newsletters",
+      "weight": 8,
+      "format": "article",
+      "summary": "The episode discusses the ongoing debate between open and closed AI systems, introduces Kimi K3 as a new example of closed-source AI, and outlines Demis Hassabis's proposal for AI governance. These topics matter as they reflect key challenges and discussions surrounding the development and regulation of artificial intelligence.",
+      "summary_detailed": "The article discusses the ongoing debate between open-source and closed-source AI development, highlights Kimi's progress in a recent AI competition (Kimi K3), and mentions Demis Hassabis' proposal for significant policy changes to regulate AI. The broader impact suggests these developments could shape future AI research and governance globally.",
+      "summary_bullets": "• Open-source models outperform closed ones in certain tasks\n• Kimi K3 focuses on ethical AI development and governance\n• Demis Hassabis outlines a comprehensive AI policy framework",
+      "sentiment": "neutral",
+      "keywords": [
+        "open vs closed gaps",
+        "kimi k3",
+        "demis' big policy plan"
+      ],
+      "thumbnail": "https://substackcdn.com/image/fetch/$s_!3yYS!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd6d17996-2bef-40a4-abe3-be72a0e8a227_258x258.png",
+      "cluster_id": "5c02b946-4715-5ac5-91c5-3a7b24d3b510",
+      "cluster_size": 1,
+      "cluster_topics": [
+        "import",
+        "closed",
+        "gaps",
+        "kimi",
+        "demis"
+      ],
+      "geo_title": "Why is the singularity viewed as an interregnum in hindsight?",
+      "geo_keywords": [
+        "open vs closed gaps",
+        "kimi k3",
+        "demis' big policy plan",
+        "ai singularity",
+        "future of ai",
+        "ai advancements",
+        "ethical ai",
+        "policy for ai development"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "Why is the singularity viewed as an interregnum in hindsight?",
+        "url": "https://importai.substack.com/p/import-ai-465-open-vs-closed-gaps",
+        "description": "The episode discusses the ongoing debate between open and closed AI systems, introduces Kimi K3 as a new example of closed-source AI, and outlines Demis Hassabis's proposal for AI governance. These topics matter as they reflect key challenges and discussions surrounding the development and regulation of artificial intelligence.",
+        "keywords": "open vs closed gaps, kimi k3, demis' big policy plan, ai singularity, future of ai, ai advancements, ethical ai, policy for ai development",
+        "datePublished": "Mon, 20 Jul 2026 12:31:45 GMT",
+        "dateModified": "Mon, 20 Jul 2026 12:31:45 GMT",
+        "author": {
+          "@type": "Organization",
+          "name": "Import AI (Jack Clark)",
+          "url": "https://importai.substack.com"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "newsletters",
+        "inLanguage": "en-US",
+        "wordCount": 48,
+        "articleBody": "The episode discusses the ongoing debate between open and closed AI systems, introduces Kimi K3 as a new example of closed-source AI, and outlines Demis Hassabis's proposal for AI governance. These topics matter as they reflect key challenges and discussions surrounding the development and regulation of artificial intelligence."
+      }
+    },
+    {
+      "source_id": "ggml_releases",
+      "source_name": "ggml/llama.cpp releases",
+      "title": "ggml/llama.cpp releases: b11059",
+      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11059",
+      "description": "<details open>\n\nmetal: add F16 input to the FWHT (#29094)\n\n* metal: add F16 input to the FWHT\n\nThe Metal FWHT kernel accepts F32 input only. This change makes the source\ntype a template parameter, so the kernel reads an F16 source directly instead\nof requiring a converted copy. The F32 instantiation",
+      "published": "2026-09-20T05:39:58Z",
+      "score": 48,
+      "category": "releases",
+      "weight": 8,
+      "tag": "b11059",
+      "summary": "A recent update to ggml/llama.cpp allows the Metal FWHT kernel to accept F16 input directly, making the process more efficient by avoiding the need for a converted copy from F32, thus improving performance. This change is significant as it enhances computational efficiency in handling floating-point data.",
+      "summary_detailed": "A recent update to ggml/llama.cpp introduced changes to the Metal FWHT (Fast Walsh-Hadamard Transform) kernel, allowing it to accept F16 input directly as a template parameter. This modification eliminates the need for converting F16 data to F32, improving efficiency. The broader impact includes enhanced performance in processing floating-point numbers, which could benefit applications requiring faster and more efficient computations.",
+      "summary_bullets": "• metal: add F16 input to the FWHT\n• Source type is now a template parameter\n• Kernel reads F16 source directly without conversion",
+      "sentiment": "neutral",
+      "keywords": [
+        "metal",
+        "fwht",
+        "f16",
+        "kernel",
+        "template"
+      ],
+      "thumbnail": "https://opengraph.githubassets.com/f4b40dbcedcd283a34ff0042193666ce1bf7f226d1ddfb80dcfdf88fb9e0a44d/ggml-org/llama.cpp/releases/tag/b11059",
+      "cluster_id": "845db8fc-8aee-5528-84bb-0f6123cdce07",
+      "cluster_size": 1,
+      "cluster_topics": [
+        "metal",
+        "f16",
+        "fwht",
+        "input",
+        "kernel"
+      ],
+      "geo_title": "Why is F16 input added to Metal FWHT kernel?",
+      "geo_keywords": [
+        "ggml",
+        "llama.cpp",
+        "metal fwht optimization",
+        "f16 input",
+        "kernel template parameter",
+        "high performance computing",
+        "machine learning acceleration",
+        "what is ggml",
+        "how does llama.cpp work"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "Why is F16 input added to Metal FWHT kernel?",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11059",
+        "description": "A recent update to ggml/llama.cpp allows the Metal FWHT kernel to accept F16 input directly, making the process more efficient by avoiding the need for a converted copy from F32, thus improving performance. This change is significant as it enhances computational efficiency in handling floating-point data.",
+        "keywords": "ggml, llama.cpp, metal fwht optimization, f16 input, kernel template parameter, high performance computing, machine learning acceleration, what is ggml",
+        "datePublished": "2026-09-20T05:39:58Z",
+        "dateModified": "2026-09-20T05:39:58Z",
+        "author": {
+          "@type": "Organization",
+          "name": "ggml/llama.cpp releases",
+          "url": "https://github.com"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "releases",
+        "inLanguage": "en-US",
+        "wordCount": 46,
+        "articleBody": "A recent update to ggml/llama.cpp allows the Metal FWHT kernel to accept F16 input directly, making the process more efficient by avoiding the need for a converted copy from F32, thus improving performance. This change is significant as it enhances computational efficiency in handling floating-point data."
+      }
+    },
+    {
+      "source_id": "ggml_releases",
+      "source_name": "ggml/llama.cpp releases",
+      "title": "ggml/llama.cpp releases: b11057",
+      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11057",
+      "description": "<details open>\n\nchat : add dedicated Ling 3.0 (Bailing V3) parser (#28682)\n\n* chat: add dedicated Ling 3.0 (Bailing V3) parser\n\nLing 3.0 Flash templates pre-open the think block in the generation\nprompt, so the model never emits an opening <think>, and a tool call can\narrive before any </think>. The",
+      "published": "2026-09-19T23:58:52Z",
+      "score": 48,
+      "category": "releases",
+      "weight": 8,
+      "tag": "b11057",
+      "summary": "The ggml/llama.cpp project added a dedicated Ling 3.0 (Bailing V3) parser to improve chat functionality by pre-opening think blocks in generation prompts, allowing for more seamless tool calls without premature",
+      "summary_detailed": "The ggml/llama.cpp project has released version b11057, which includes a new dedicated parser for Ling 3.0 (Bailing V3). This update pre-opens the think block in generation prompts, ensuring that the model does not emit an opening  closing tags. The change impacts how chat interactions are structured within the model's responses, potentially enhancing the flow and coherence of generated dialogue.",
+      "summary_bullets": "• chat: add dedicated Ling 3.0 (Bailing V3) parser\n• Ling 3.0 Flash templates pre-open the think block in generation prompt\n• Model never emits an opening",
+      "sentiment": "neutral",
+      "keywords": [
+        "chat",
+        "ling 3.0",
+        "bailing v3",
+        "parser",
+        "flash templates"
+      ],
+      "thumbnail": "https://opengraph.githubassets.com/7e76b0ddd167a11fd8144fce78bf36fa30689ea050d4a4fd0d064dfe73445a44/ggml-org/llama.cpp/releases/tag/b11057",
+      "cluster_id": "d4711ad4-43b6-520e-80df-64a81f1369e9",
+      "cluster_size": 1,
+      "cluster_topics": [
+        "ling",
+        "think",
+        "chat",
+        "dedicated",
+        "bailing"
+      ],
+      "geo_title": "Why is ggml/llama.cpp release b11057 significant for Ling 3.0 parsing?",
+      "geo_keywords": [
+        "ggml/llama.cpp releases",
+        "ling 3.0 parser",
+        "bailing v3 update",
+        "chat generation optimization",
+        "think block pre-opening",
+        "flash templates in chat models",
+        "llm parser improvements"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "Why is ggml/llama.cpp release b11057 significant for Ling 3.0 parsing?",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11057",
+        "description": "The ggml/llama.cpp project added a dedicated Ling 3.0 (Bailing V3) parser to improve chat functionality by pre-opening think blocks in generation prompts, allowing for more seamless tool calls without premature",
+        "keywords": "ggml/llama.cpp releases, ling 3.0 parser, bailing v3 update, chat generation optimization, think block pre-opening, flash templates in chat models, llm parser improvements",
+        "datePublished": "2026-09-19T23:58:52Z",
+        "dateModified": "2026-09-19T23:58:52Z",
+        "author": {
+          "@type": "Organization",
+          "name": "ggml/llama.cpp releases",
+          "url": "https://github.com"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "releases",
+        "inLanguage": "en-US",
+        "wordCount": 30,
+        "articleBody": "The ggml/llama.cpp project added a dedicated Ling 3.0 (Bailing V3) parser to improve chat functionality by pre-opening think blocks in generation prompts, allowing for more seamless tool calls without premature"
+      }
+    },
+    {
+      "source_id": "ggml_releases",
+      "source_name": "ggml/llama.cpp releases",
+      "title": "ggml/llama.cpp releases: b11056",
+      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11056",
+      "description": "<details open>\n\nhexagon: enable I32 GET_ROWS (#29116)\n\n</details>\n\n**Website:**\n- <https://llama.app>\n\n**Attestations:**\n- <https://github.com/ggml-org/llama.cpp/attestations/48662388>\n\n**macOS/iOS:**\n- [macOS Apple Silicon (arm64)](https://github.com/ggml-org/llama.cpp/releases/download/b11056/llam",
+      "published": "2026-09-19T17:52:02Z",
+      "score": 48,
+      "category": "releases",
+      "weight": 8,
+      "tag": "b11056",
+      "summary": "The ggml/llama.cpp project released version b11056, which includes a change to enable I32 GET_ROWS (#29116). This update is significant for improving the handling of 32-bit integer operations in the library, potentially enhancing performance and functionality.",
+      "summary_detailed": "The ggml/llama.cpp project released version b11056, which includes a change to enable I32 GET_ROWS (#29116). This update affects the performance and functionality of the model on macOS Apple Silicon (arm64) systems. The broader impact is improved compatibility and potentially enhanced processing capabilities for users on these platforms.",
+      "summary_bullets": "• hexagon: enable I32 GET_ROWS (#29116)\n• Website: <https://llama.app>\n• Attestations: <https://github.com/ggml-org/llama.cpp/attestations/48662388>",
+      "sentiment": "neutral",
+      "keywords": [
+        "hexagon",
+        "enable",
+        "i32",
+        "get_rows"
+      ],
+      "thumbnail": "https://opengraph.githubassets.com/24940ce9bf798f2abff2ae3c16e1bcbc87f61fe9ef888caeaf0c66d48235a11a/ggml-org/llama.cpp/releases/tag/b11056",
+      "cluster_id": "52d7001d-a23f-5239-9aef-cd800b2fde09",
+      "cluster_size": 2,
+      "cluster_topics": [
+        "llama",
+        "https",
+        "cpp",
+        "attestations",
+        "github"
+      ],
+      "geo_title": "Why is hexagon: enable I32 GET_ROWS important in ggml/llama.cpp b11056?",
+      "geo_keywords": [
+        "ggml",
+        "llama.cpp",
+        "release notes",
+        "ai optimization",
+        "machine learning framework",
+        "sge updates",
+        "perplexity update",
+        "chatgpt integration"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "Why is hexagon: enable I32 GET_ROWS important in ggml/llama.cpp b11056?",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11056",
+        "description": "The ggml/llama.cpp project released version b11056, which includes a change to enable I32 GET_ROWS (#29116). This update is significant for improving the handling of 32-bit integer operations in the library, potentially enhancing performance and functionality.",
+        "keywords": "ggml, llama.cpp, release notes, ai optimization, machine learning framework, sge updates, perplexity update, chatgpt integration",
+        "datePublished": "2026-09-19T17:52:02Z",
+        "dateModified": "2026-09-19T17:52:02Z",
+        "author": {
+          "@type": "Organization",
+          "name": "ggml/llama.cpp releases",
+          "url": "https://github.com"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "releases",
+        "inLanguage": "en-US",
+        "wordCount": 35,
+        "articleBody": "The ggml/llama.cpp project released version b11056, which includes a change to enable I32 GET_ROWS (#29116). This update is significant for improving the handling of 32-bit integer operations in the library, potentially enhancing performance and functionality."
+      }
+    },
+    {
+      "source_id": "ggml_releases",
+      "source_name": "ggml/llama.cpp releases",
+      "title": "ggml/llama.cpp releases: b11055",
+      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11055",
+      "description": "<details open>\n\nhexagon: add support for GEGLU_QUICK (#29114)\n\n</details>\n\n**Website:**\n- <https://llama.app>\n\n**Attestations:**\n- <https://github.com/ggml-org/llama.cpp/attestations/48660160>\n\n**macOS/iOS:**\n- [macOS Apple Silicon (arm64)](https://github.com/ggml-org/llama.cpp/releases/download/b11",
+      "published": "2026-09-19T17:22:22Z",
+      "score": 48,
+      "category": "releases",
+      "weight": 8,
+      "tag": "b11055",
+      "summary": "The ggml/llama.cpp project released version b11055, which includes support for GEGLU_QUICK in hexagon models. This update enhances the model's performance by optimizing certain computations, making it more efficient and potentially improving user experience on compatible devices.",
+      "summary_detailed": "The ggml/llama.cpp project released version b11055, which includes support for GEGLU_QUICK in the hexagon branch. This update was made through pull request #29114 and is available on GitHub. The broader impact may include enhanced performance or functionality for users of the llama.cpp library, particularly those working with GEGLU_QUICK.",
+      "summary_bullets": "• Adds support for GEGLU_QUICK in hexagon\n• Released version b11055\n• Available on macOS Apple Silicon (arm64)",
+      "sentiment": "neutral",
+      "keywords": [
+        "hexagon",
+        "geglu_quick",
+        "attestation"
+      ],
+      "thumbnail": "https://opengraph.githubassets.com/c1119d923a6fc4fc04137aa7c352adf7c8c7aa8c7fc0e1b2943086a177c3b400/ggml-org/llama.cpp/releases/tag/b11055",
+      "cluster_id": "52d7001d-a23f-5239-9aef-cd800b2fde09",
+      "cluster_size": 2,
+      "cluster_topics": [
+        "llama",
+        "https",
+        "cpp",
+        "attestations",
+        "github"
+      ],
+      "geo_title": "Why is hexagon adding GEGLU_QUICK support in ggml/llama.cpp b11055?",
+      "geo_keywords": [
+        "ggml",
+        "llama.cpp",
+        "geglu_quick",
+        "release notes",
+        "software update",
+        "machine learning library",
+        "model support",
+        "ai library updates"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "Why is hexagon adding GEGLU_QUICK support in ggml/llama.cpp b11055?",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11055",
+        "description": "The ggml/llama.cpp project released version b11055, which includes support for GEGLU_QUICK in hexagon models. This update enhances the model's performance by optimizing certain computations, making it more efficient and potentially improving user experience on compatible devices.",
+        "keywords": "ggml, llama.cpp, geglu_quick, release notes, software update, machine learning library, model support, ai library updates",
+        "datePublished": "2026-09-19T17:22:22Z",
+        "dateModified": "2026-09-19T17:22:22Z",
+        "author": {
+          "@type": "Organization",
+          "name": "ggml/llama.cpp releases",
+          "url": "https://github.com"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "releases",
+        "inLanguage": "en-US",
+        "wordCount": 36,
+        "articleBody": "The ggml/llama.cpp project released version b11055, which includes support for GEGLU_QUICK in hexagon models. This update enhances the model's performance by optimizing certain computations, making it more efficient and potentially improving user experience on compatible devices."
+      }
+    },
+    {
+      "source_id": "ggml_releases",
+      "source_name": "ggml/llama.cpp releases",
+      "title": "ggml/llama.cpp releases: b11054",
+      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11054",
+      "description": "<details open>\n\nhexagon: enable support for TOP_K op (#29113)\n\n* hexagon: enable support for TOP_K op\n\n* hex-topk: thread single-row TOP_K, raise VTCM-based size cap\n\n* hex-topk: fix TOP_K mdev row partitioning\n\n* hex-topk: optimize TOP_K large-row selection\n\n* hexagon: clean up comment formatting",
+      "published": "2026-09-19T16:47:12Z",
+      "score": 48,
+      "category": "releases",
+      "weight": 8,
+      "tag": "b11054",
+      "summary": "The ggml/llama.cpp project updated to enable support for the TOP_K operation on the Hexagon processor, improving row partitioning and optimizing large-row selection. This update is crucial as it enhances the efficiency of operations involving top-k elements in machine learning models running on Hexagon hardware.",
+      "summary_detailed": "The ggml/llama.cpp project released updates that include enabling support for the TOP_K operation on the Hexagon processor, optimizing its performance and fixing related issues. These changes are part of an ongoing effort to enhance the computational efficiency of AI models running on specific hardware platforms. The broader impact includes improved functionality and potentially faster processing times for AI applications utilizing these optimized operations.",
+      "summary_bullets": "• hexagon: enable support for TOP_K op\n\n• hex-topk: thread single-row TOP_K, raise VTCM-based size cap\n\n• hex-topk: fix TOP_K mdev row partitioning",
+      "sentiment": "neutral",
+      "keywords": [
+        "hexagon",
+        "top_k",
+        "optimization"
+      ],
+      "thumbnail": "https://opengraph.githubassets.com/55efbc7ef632730f729d37c7198f5e9760f377ef924bbb9aed3bf6cbcc33b174/ggml-org/llama.cpp/releases/tag/b11054",
+      "cluster_id": "46129602-dabb-5681-8be5-bc7d88d3702d",
+      "cluster_size": 1,
+      "cluster_topics": [
+        "top_k",
+        "hex-topk",
+        "hexagon",
+        "enable",
+        "support"
+      ],
+      "geo_title": "Why is hexagon supporting TOP_K operation in ggml/llama.cpp?",
+      "geo_keywords": [
+        "hexagon",
+        "top_k optimization",
+        "llama.cpp",
+        "ggml",
+        "mdev partitioning",
+        "vtcm",
+        "large-row selection",
+        "ai model optimization"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "Why is hexagon supporting TOP_K operation in ggml/llama.cpp?",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11054",
+        "description": "The ggml/llama.cpp project updated to enable support for the TOP_K operation on the Hexagon processor, improving row partitioning and optimizing large-row selection. This update is crucial as it enhances the efficiency of operations involving top-k elements in machine learning models running on Hexagon hardware.",
+        "keywords": "hexagon, top_k optimization, llama.cpp, ggml, mdev partitioning, vtcm, large-row selection, ai model optimization",
+        "datePublished": "2026-09-19T16:47:12Z",
+        "dateModified": "2026-09-19T16:47:12Z",
+        "author": {
+          "@type": "Organization",
+          "name": "ggml/llama.cpp releases",
+          "url": "https://github.com"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "releases",
+        "inLanguage": "en-US",
+        "wordCount": 44,
+        "articleBody": "The ggml/llama.cpp project updated to enable support for the TOP_K operation on the Hexagon processor, improving row partitioning and optimizing large-row selection. This update is crucial as it enhances the efficiency of operations involving top-k elements in machine learning models running on Hexagon hardware."
+      }
+    },
+    {
+      "source_id": "hn_ai_24h",
+      "source_name": "HN top AI 24h",
+      "title": "Can you tell which images are AI-generated?",
+      "url": "https://slop-sense.labtoagi.com/games/is-this-image-ai/",
+      "description": "",
+      "published": "2026-09-19T23:02:34+00:00",
+      "score": 41,
+      "category": "trending",
+      "weight": 8,
+      "points": 72,
+      "comments_url": "https://news.ycombinator.com/item?id=49770847",
+      "summary": "The article explores how difficult it has become to distinguish between real photographs and those created by artificial intelligence, highlighting the advancements in AI technology that can produce highly realistic images. This matters because it raises concerns about authenticity in media and potential implications for fields such as journalism, law, and cybersecurity.",
+      "summary_detailed": "The article explores the increasing difficulty in distinguishing between real photographs and those generated by artificial intelligence, highlighting how advancements in AI technology are blurring these lines. Researchers and tech companies are involved in developing more sophisticated tools to identify AI-generated images, while also grappling with ethical implications regarding privacy and misinformation. This issue has broader implications for various fields including journalism, law enforcement, and social media, potentially affecting the credibility of visual evidence and public trust in digital content.",
+      "summary_bullets": "• Researchers find it difficult to distinguish between real and AI-generated images.\n• Participants in the study often failed to correctly identify image authenticity.\n• The accuracy of current AI detection tools is questioned due to these results.",
+      "sentiment": "neutral",
+      "keywords": [
+        "ai-generated",
+        "images",
+        "technology",
+        "authenticity",
+        "creativity"
+      ],
+      "thumbnail": "https://slop-sense.labtoagi.com/art/reality-check/share-v1.png",
+      "cluster_id": "43e90d32-a9e3-5c99-98da-37252cf64f49",
+      "cluster_size": 1,
+      "cluster_topics": [
+        "tell",
+        "images",
+        "ai-generated"
+      ],
+      "geo_title": "A look at distinguishing AI-generated images",
+      "geo_keywords": [
+        "ai-generated images",
+        "authenticity of images",
+        "ai image generation",
+        "how to identify ai-generated images",
+        "ai technology in image creation",
+        "detecting ai-generated content",
+        "ai and image authenticity",
+        "distinguishing between real and ai-generated images"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "A look at distinguishing AI-generated images",
+        "url": "https://slop-sense.labtoagi.com/games/is-this-image-ai/",
+        "description": "The article explores how difficult it has become to distinguish between real photographs and those created by artificial intelligence, highlighting the advancements in AI technology that can produce highly realistic images. This matters because it raises concerns about authenticity in media and potential implications for fields such as journalism, law, and cybersecurity.",
+        "keywords": "ai-generated images, authenticity of images, ai image generation, how to identify ai-generated images, ai technology in image creation, detecting ai-generated content, ai and image authenticity, distinguishing between real and ai-generated images",
+        "datePublished": "2026-09-19T23:02:34+00:00",
+        "dateModified": "2026-09-19T23:02:34+00:00",
+        "author": {
+          "@type": "Organization",
+          "name": "HN top AI 24h",
+          "url": "https://slop-sense.labtoagi.com"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "trending",
+        "inLanguage": "en-US",
+        "wordCount": 52,
+        "articleBody": "The article explores how difficult it has become to distinguish between real photographs and those created by artificial intelligence, highlighting the advancements in AI technology that can produce highly realistic images. This matters because it raises concerns about authenticity in media and potential implications for fields such as journalism, law, and cybersecurity."
+      }
+    },
+    {
+      "source_id": "hn_ai_24h",
+      "source_name": "HN top AI 24h",
+      "title": "AI Safety Is Mostly a Sex Cult",
+      "url": "https://bsky.app/profile/segyges.bsky.social/post/3mvom4b4dn22q",
+      "description": "",
+      "published": "2026-09-19T14:36:28+00:00",
+      "score": 41,
+      "category": "trending",
+      "weight": 8,
+      "points": 70,
+      "comments_url": "https://news.ycombinator.com/item?id=49766911",
+      "summary": "The article suggests that discussions around AI safety often revolve around niche, overly zealous communities rather than broader scientific concerns, highlighting a perceived lack of mainstream engagement and practical focus in the field. This matters because it questions the effectiveness and reach of current efforts to ensure AI is developed safely for all.",
+      "summary_detailed": "The article \"AI Safety Is Mostly a Sex Cult\" discusses claims that discussions around ensuring the safety of artificial intelligence are often dominated by a small, insular group with unconventional views. This group is accused of prioritizing its own interests over broader scientific and ethical considerations. The piece suggests these dynamics could hinder effective collaboration and progress in AI research and regulation.",
+      "summary_bullets": "• The article suggests AI safety is often discussed in overly sexualized terms.\n• It criticizes the use of sex as a metaphor for explaining complex AI concepts.\n• The piece argues this approach can mislead public understanding of AI risks.",
+      "sentiment": "negative",
+      "keywords": [
+        "ai safety",
+        "sex cult"
+      ],
+      "thumbnail": "https://cdn.bsky.app/img/avatar_thumbnail/plain/did:plc:vszw3ess46odfhnzdsy4huae/bafkreiempgjkhvjq2dobqkmd5pqd6lcbkhgejasfwh3zoygncjpwgqc7te",
+      "cluster_id": "834b5388-bf6f-5171-a4c5-55d8d5da1126",
+      "cluster_size": 1,
+      "cluster_topics": [
+        "mostly",
+        "sex",
+        "cult",
+        "safety"
+      ],
+      "geo_title": "Why is AI Safety Often Seen Through a Sexual Lens?",
+      "geo_keywords": [
+        "ai safety concerns",
+        "ai ethics debate",
+        "ai risk management",
+        "ai oversight challenges",
+        "ai culture controversies",
+        "ai moral hazards",
+        "ai safety myths",
+        "ai technology risks"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "Why is AI Safety Often Seen Through a Sexual Lens?",
+        "url": "https://bsky.app/profile/segyges.bsky.social/post/3mvom4b4dn22q",
+        "description": "The article suggests that discussions around AI safety often revolve around niche, overly zealous communities rather than broader scientific concerns, highlighting a perceived lack of mainstream engagement and practical focus in the field. This matters because it questions the effectiveness and reach of current efforts to ensure AI is developed safely for all.",
+        "keywords": "ai safety concerns, ai ethics debate, ai risk management, ai oversight challenges, ai culture controversies, ai moral hazards, ai safety myths, ai technology risks",
+        "datePublished": "2026-09-19T14:36:28+00:00",
+        "dateModified": "2026-09-19T14:36:28+00:00",
+        "author": {
+          "@type": "Organization",
+          "name": "HN top AI 24h",
+          "url": "https://bsky.app"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "trending",
+        "inLanguage": "en-US",
+        "wordCount": 53,
+        "articleBody": "The article suggests that discussions around AI safety often revolve around niche, overly zealous communities rather than broader scientific concerns, highlighting a perceived lack of mainstream engagement and practical focus in the field. This matters because it questions the effectiveness and reach of current efforts to ensure AI is developed safely for all."
+      }
+    },
+    {
+      "source_id": "hn_llm_24h",
+      "source_name": "HN top LLM 24h",
+      "title": "OpenAI and Anthropic oversold AI security breaches",
+      "url": "https://nypost.com/2026/09/19/us-news/openai-anthropic-oversold-security-breaches-to-pressure-feds-into-protecting-turf-insiders/",
+      "description": "",
+      "published": "2026-09-19T19:59:28+00:00",
+      "score": 36,
+      "category": "trending",
+      "weight": 9,
+      "points": 34,
+      "comments_url": "https://news.ycombinator.com/item?id=49769668",
+      "summary": "OpenAI and Anthropic faced criticism after reportedly downplaying or concealing security issues with their AI systems, raising concerns about transparency in the rapidly growing field of artificial intelligence. This oversight highlights the importance of clear communication to build trust and ensure safety as AI technologies advance.",
+      "summary_detailed": "OpenAI and Anthropic faced criticism after reportedly overstating the severity of recent AI security breaches, potentially misleading the public about the risks associated with their technologies. Both companies are under scrutiny for how they communicated these issues to stakeholders, raising questions about transparency in the rapidly evolving field of artificial intelligence. The incident could impact trust in AI systems and influence future regulatory approaches to oversight and disclosure practices in tech development.",
+      "summary_bullets": "• OpenAI faces criticism for potentially overstating AI safety\n• Anthropic is accused of downplaying significant AI security issues\n• Both companies are under scrutiny for their handling of AI risks",
+      "sentiment": "negative",
+      "keywords": [
+        "openai",
+        "anthropic",
+        "ai",
+        "security",
+        "breaches"
+      ],
+      "thumbnail": null,
+      "favicon": "https://www.google.com/s2/favicons?domain=nypost.com&sz=64",
+      "cluster_id": "04ac7a36-9bac-5e8c-b9a1-97d3989d5c2e",
+      "cluster_size": 1,
+      "cluster_topics": [
+        "openai",
+        "anthropic",
+        "oversold",
+        "breaches",
+        "security"
+      ],
+      "geo_title": "Why is overselling AI security seen as a concern?",
+      "geo_keywords": [
+        "openai security breach",
+        "anthropic ai safety",
+        "ai security concerns",
+        "ai security vulnerabilities",
+        "ai safety issues",
+        "how safe is ai",
+        "are ai systems secure",
+        "ai security risks",
+        "ai security threats",
+        "ai safety measures",
+        "ai breach news",
+        "ai security incidents"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "Why is overselling AI security seen as a concern?",
+        "url": "https://nypost.com/2026/09/19/us-news/openai-anthropic-oversold-security-breaches-to-pressure-feds-into-protecting-turf-insiders/",
+        "description": "OpenAI and Anthropic faced criticism after reportedly downplaying or concealing security issues with their AI systems, raising concerns about transparency in the rapidly growing field of artificial intelligence. This oversight highlights the importance of clear communication to build trust and ensure safety as AI technologies advance.",
+        "keywords": "openai security breach, anthropic ai safety, ai security concerns, ai security vulnerabilities, ai safety issues, how safe is ai, are ai systems secure, ai security risks",
+        "datePublished": "2026-09-19T19:59:28+00:00",
+        "dateModified": "2026-09-19T19:59:28+00:00",
+        "author": {
+          "@type": "Organization",
+          "name": "HN top LLM 24h",
+          "url": "https://nypost.com"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "trending",
+        "inLanguage": "en-US",
+        "wordCount": 46,
+        "articleBody": "OpenAI and Anthropic faced criticism after reportedly downplaying or concealing security issues with their AI systems, raising concerns about transparency in the rapidly growing field of artificial intelligence. This oversight highlights the importance of clear communication to build trust and ensure safety as AI technologies advance."
+      }
+    },
+    {
+      "source_id": "hn_show_ai_7d",
+      "source_name": "Show HN AI 7d",
+      "title": "Show HN: I created an open source locally usable full fledged AI platform",
+      "url": "https://github.com/theguysudo/ENZO",
+      "description": "",
+      "published": "2026-09-19T23:47:35+00:00",
+      "score": 33,
+      "category": "open_source",
+      "weight": 9,
+      "points": 16,
+      "comments_url": "https://news.ycombinator.com/item?id=49771118",
+      "summary": "A developer has released an open-source AI platform that allows users to run full-fledged AI models locally, bypassing the need for cloud services. This development is significant as it enhances privacy and control over data while making AI more accessible offline.",
+      "summary_detailed": "A developer has created an open-source AI platform that allows users to run full-fledged AI applications locally without relying on cloud services. The project aims to provide greater control and privacy for users by enabling them to host AI models on their own devices or networks. This initiative could have significant implications for enhancing data security and reducing dependency on centralized cloud infrastructure, potentially benefiting a wide range of industries from healthcare to finance.",
+      "summary_bullets": "• Open source AI platform launched\n• Designed for local usage\n• Full-featured AI capabilities included",
+      "sentiment": "positive",
+      "keywords": [
+        "open source",
+        "ai platform",
+        "locally usable"
+      ],
+      "thumbnail": "https://opengraph.githubassets.com/4d21ad234d3fd17608767ef8da6737b1f195d95ff4733df940cbf126aabd1049/theguysudo/ENZO",
+      "cluster_id": "659eba29-18ba-5119-ab6d-1fa3c5f01f6e",
+      "cluster_size": 1,
+      "cluster_topics": [
+        "show",
+        "locally",
+        "usable",
+        "full",
+        "fledged"
+      ],
+      "geo_title": "Why is an open-source local AI platform important?",
+      "geo_keywords": [
+        "open source ai platform",
+        "locally usable ai",
+        "create ai platform",
+        "develop open source ai",
+        "full fledged ai platform",
+        "build ai locally",
+        "how to create ai platform",
+        "open source technology for ai",
+        "ai platform development",
+        "locally usable ai technology",
+        "what is an open source ai platform",
+        "how to make ai platform"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "Why is an open-source local AI platform important?",
+        "url": "https://github.com/theguysudo/ENZO",
+        "description": "A developer has released an open-source AI platform that allows users to run full-fledged AI models locally, bypassing the need for cloud services. This development is significant as it enhances privacy and control over data while making AI more accessible offline.",
+        "keywords": "open source ai platform, locally usable ai, create ai platform, develop open source ai, full fledged ai platform, build ai locally, how to create ai platform, open source technology for ai",
+        "datePublished": "2026-09-19T23:47:35+00:00",
+        "dateModified": "2026-09-19T23:47:35+00:00",
+        "author": {
+          "@type": "Organization",
+          "name": "Show HN AI 7d",
+          "url": "https://github.com"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "open_source",
+        "inLanguage": "en-US",
+        "wordCount": 41,
+        "articleBody": "A developer has released an open-source AI platform that allows users to run full-fledged AI models locally, bypassing the need for cloud services. This development is significant as it enhances privacy and control over data while making AI more accessible offline."
+      }
+    },
+    {
+      "source_id": "marktechpost",
+      "source_name": "MarkTechPost",
+      "title": "OpenClaw Releases 2026.9.5 With Atomic Updates, Plugin Hot Reload, Conversation Sharing, and Expanded GPT Live",
+      "url": "https://www.marktechpost.com/2026/09/19/openclaw-releases-2026-9-5/",
+      "description": "<p>OpenClaw 2026.9.5 ships 4,179 pull requests from 502 contributing accounts. The headline change is Atomic Updates, which check the next version against a private copy of your setup while the current Gateway keeps running. The release also adds plugin hot reload, read-only conversation sharing, GP",
+      "published": "Sat, 19 Sep 2026 21:44:23 +0000",
+      "score": 24,
+      "category": "industry",
+      "weight": 6,
+      "format": "article",
+      "summary": "OpenClaw 2026.9.5 introduces significant updates including Atomic Updates and plugin hot reload, enhancing stability and development flexibility. These changes, along with features like read-only conversation sharing, are part of a major 4,179 pull request update from 502 contributors, marking a substantial improvement in the platform's functionality and usability.",
+      "summary_detailed": "OpenClaw released version 2026.9.5, incorporating significant features such as Atomic Updates, plugin hot reload, and read-only conversation sharing. This update, which includes 4,179 pull requests from 502 contributors, also expands GPT Live capabilities. The broader impact is enhanced user experience through more seamless updates and improved collaboration tools.",
+      "summary_bullets": "• OpenClaw 2026.9.5 includes 4,179 pull requests from 502 contributors.\n• Atomic Updates ensure seamless version transitions without downtime.\n• Plugin hot reload allows for real-time updates and improvements.\n• Read-only conversation sharing enhances collaboration features.",
+      "sentiment": "positive",
+      "keywords": [
+        "atomic updates",
+        "plugin hot reload",
+        "conversation sharing",
+        "expanded gpt live"
+      ],
+      "thumbnail": null,
+      "favicon": "https://www.google.com/s2/favicons?domain=www.marktechpost.com&sz=64",
+      "cluster_id": "3b67c59b-2991-5f03-b50b-8f57bedbc270",
+      "cluster_size": 1,
+      "cluster_topics": [
+        "openclaw",
+        "atomic",
+        "updates",
+        "plugin",
+        "hot"
+      ],
+      "geo_title": "Why is OpenClaw 2026.9.5's Atomic Updates Revolutionizing Software Releases?",
+      "geo_keywords": [
+        "atomic updates",
+        "plugin hot reload",
+        "conversation sharing",
+        "expanded gpt live",
+        "openclaw 2026.9.5",
+        "real-time updates",
+        "gpt integration improvements",
+        "software release notes"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "Why is OpenClaw 2026.9.5's Atomic Updates Revolutionizing Software Releases?",
+        "url": "https://www.marktechpost.com/2026/09/19/openclaw-releases-2026-9-5/",
+        "description": "OpenClaw 2026.9.5 introduces significant updates including Atomic Updates and plugin hot reload, enhancing stability and development flexibility. These changes, along with features like read-only conversation sharing, are part of a major 4,179 pull request update from 502 contributors, marking a substantial improvement in the platform's functionality and usability.",
+        "keywords": "atomic updates, plugin hot reload, conversation sharing, expanded gpt live, openclaw 2026.9.5, real-time updates, gpt integration improvements, software release notes",
+        "datePublished": "Sat, 19 Sep 2026 21:44:23 +0000",
+        "dateModified": "Sat, 19 Sep 2026 21:44:23 +0000",
+        "author": {
+          "@type": "Organization",
+          "name": "MarkTechPost",
+          "url": "https://www.marktechpost.com"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "industry",
+        "inLanguage": "en-US",
+        "wordCount": 48,
+        "articleBody": "OpenClaw 2026.9.5 introduces significant updates including Atomic Updates and plugin hot reload, enhancing stability and development flexibility. These changes, along with features like read-only conversation sharing, are part of a major 4,179 pull request update from 502 contributors, marking a substantial improvement in the platform's functionality and usability."
+      }
+    },
+    {
+      "source_id": "marktechpost",
+      "source_name": "MarkTechPost",
+      "title": "TypeSafe AI Releases Jev: A System One Model That Returns Typed, Calibrated Decisions Instead of Text",
+      "url": "https://www.marktechpost.com/2026/09/19/typesafe-ai-releases-jev/",
+      "description": "<p>TypeSafe AI released Jev, a System One model that answers typed questions with probabilities instead of generating text. Input costs $0.042 per 1M tokens, and output tokens are free. We cover the API, the vendor benchmarks and their caveats, what developers are already building, and the documente",
+      "published": "Sat, 19 Sep 2026 18:41:33 +0000",
+      "score": 24,
+      "category": "industry",
+      "weight": 6,
+      "format": "article",
+      "summary": "TypeSafe AI introduced Jev, a System One model that provides typed, calibrated responses with probabilities rather than text, aiming to offer more precise decision-making tools for developers. This release is significant as it could enhance the reliability and utility of AI in applications requiring probabilistic outputs over textual answers.",
+      "summary_detailed": "TypeSafe AI introduced Jev, a System One model that provides typed, calibrated decisions rather than text-based responses to questions. The model is priced at $0.042 per 1 million tokens for input with no cost for output tokens. This release impacts the AI market by offering more precise and structured decision-making capabilities, potentially transforming how developers approach problem-solving in various applications.",
+      "summary_bullets": "• TypeSafe AI introduces Jev, a System One model.\n• Jev provides typed, calibrated decisions rather than text.\n• Input costs $0.042 per 1M tokens with output tokens free.",
+      "sentiment": "neutral",
+      "keywords": [
+        "typesafe ai",
+        "jev",
+        "system one",
+        "typed questions",
+        "probabilities"
+      ],
+      "thumbnail": null,
+      "favicon": "https://www.google.com/s2/favicons?domain=www.marktechpost.com&sz=64",
+      "cluster_id": "c18f8113-7021-564d-b2dc-c0baa5d73a69",
+      "cluster_size": 1,
+      "cluster_topics": [
+        "typesafe",
+        "jev",
+        "system",
+        "typed",
+        "text"
+      ],
+      "geo_title": "Why is TypeSafe AI's Jev Model Revolutionizing Decision-Making?",
+      "geo_keywords": [
+        "type safe ai jev",
+        "system one model",
+        "typed decisions ai",
+        "probabilistic ai answers",
+        "ai for developers",
+        "cost effective ai api",
+        "ai benchmarking",
+        "building ai applications"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "Why is TypeSafe AI's Jev Model Revolutionizing Decision-Making?",
+        "url": "https://www.marktechpost.com/2026/09/19/typesafe-ai-releases-jev/",
+        "description": "TypeSafe AI introduced Jev, a System One model that provides typed, calibrated responses with probabilities rather than text, aiming to offer more precise decision-making tools for developers. This release is significant as it could enhance the reliability and utility of AI in applications requiring probabilistic outputs over textual answers.",
+        "keywords": "type safe ai jev, system one model, typed decisions ai, probabilistic ai answers, ai for developers, cost effective ai api, ai benchmarking, building ai applications",
+        "datePublished": "Sat, 19 Sep 2026 18:41:33 +0000",
+        "dateModified": "Sat, 19 Sep 2026 18:41:33 +0000",
+        "author": {
+          "@type": "Organization",
+          "name": "MarkTechPost",
+          "url": "https://www.marktechpost.com"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "industry",
+        "inLanguage": "en-US",
+        "wordCount": 49,
+        "articleBody": "TypeSafe AI introduced Jev, a System One model that provides typed, calibrated responses with probabilities rather than text, aiming to offer more precise decision-making tools for developers. This release is significant as it could enhance the reliability and utility of AI in applications requiring probabilistic outputs over textual answers."
+      }
+    },
+    {
+      "source_id": "marktechpost",
+      "source_name": "MarkTechPost",
+      "title": "Linkup Research Releases SPARSEUP: A 149M-Parameter Open-Source Sparse Embedding Model",
+      "url": "https://www.marktechpost.com/2026/09/19/linkup-research-releases-sparseup/",
+      "description": "<p>Linkup Research has released SPARSEUP, an open-source sparse embedding model built on a 149M-parameter ModernBERT backbone. It scores 56.4 nDCG@10 on BEIR-13, which Linkup calls the best result it knows of for a public sparse encoder under 150M parameters. The model uses a logit shift, top-12 exp",
+      "published": "Sat, 19 Sep 2026 07:48:38 +0000",
+      "score": 24,
+      "category": "industry",
+      "weight": 6,
+      "format": "article",
+      "summary": "Linkup Research has unveiled SPARSEUP, an open-source sparse embedding model with 149 million parameters that outperforms other models in its class on the BEIR-13 benchmark, highlighting advancements in efficient large-scale language modeling.",
+      "summary_detailed": "Linkup Research has released SPARSEUP, an open-source sparse embedding model with 149 million parameters based on ModernBERT, achieving the best known result of 56.4 nDCG@10 on BEIR-13. The broader impact includes advancing the field of sparse models under 150M parameters and providing researchers and developers with a powerful tool for information retrieval tasks.",
+      "summary_bullets": "• SPARSEUP is an open-source sparse embedding model.\n• It has 149 million parameters and is based on ModernBERT.\n• SPARSEUP scores 56.4 nDCG@10 on BEIR-13.\n• Linkup claims it's the best public sparse encoder under 150M parameters.",
+      "sentiment": "neutral",
+      "keywords": [
+        "sparse embedding model",
+        "linkup research",
+        "beir-13",
+        "modernbert",
+        "logit shift"
+      ],
+      "thumbnail": null,
+      "favicon": "https://www.google.com/s2/favicons?domain=www.marktechpost.com&sz=64",
+      "cluster_id": "fbc19faa-0a02-559b-8b85-213d5c33c7b7",
+      "cluster_size": 1,
+      "cluster_topics": [
+        "linkup",
+        "sparse",
+        "research",
+        "sparseup",
+        "embedding"
+      ],
+      "geo_title": "Why is SPARSEUP by Linkup Research Making Waves in Open-Source Models?",
+      "geo_keywords": [
+        "sparse embedding model",
+        "linkup research",
+        "beir-13",
+        "modernbert",
+        "logit shift",
+        "open-source sparse encoder",
+        "ndcg evaluation",
+        "sparse model comparison"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "Why is SPARSEUP by Linkup Research Making Waves in Open-Source Models?",
+        "url": "https://www.marktechpost.com/2026/09/19/linkup-research-releases-sparseup/",
+        "description": "Linkup Research has unveiled SPARSEUP, an open-source sparse embedding model with 149 million parameters that outperforms other models in its class on the BEIR-13 benchmark, highlighting advancements in efficient large-scale language modeling.",
+        "keywords": "sparse embedding model, linkup research, beir-13, modernbert, logit shift, open-source sparse encoder, ndcg evaluation, sparse model comparison",
+        "datePublished": "Sat, 19 Sep 2026 07:48:38 +0000",
+        "dateModified": "Sat, 19 Sep 2026 07:48:38 +0000",
+        "author": {
+          "@type": "Organization",
+          "name": "MarkTechPost",
+          "url": "https://www.marktechpost.com"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "industry",
+        "inLanguage": "en-US",
+        "wordCount": 32,
+        "articleBody": "Linkup Research has unveiled SPARSEUP, an open-source sparse embedding model with 149 million parameters that outperforms other models in its class on the BEIR-13 benchmark, highlighting advancements in efficient large-scale language modeling."
+      }
+    },
+    {
+      "source_id": "marktechpost",
+      "source_name": "MarkTechPost",
+      "title": "Meta Launches Muse for Mac: A Personal AI Agent That Works Across Your Files, Mail, Messages, Calendar and Notes",
+      "url": "https://www.marktechpost.com/2026/09/19/meta-launches-muse-for-mac/",
+      "description": "<p>Meta has released Muse for Mac, the first version of Muse that can complete things on a user&#8217;s computer. The agent works with local files and native apps, where your data already lives. It adds a desktop layer to an agent that launched on phones, the web and WhatsApp earlier this month. Is",
+      "published": "Sat, 19 Sep 2026 07:22:16 +0000",
+      "score": 24,
+      "category": "industry",
+      "weight": 6,
+      "format": "article",
+      "summary": "Meta has introduced Muse for Mac, an AI assistant designed to enhance productivity by integrating with various files, applications, and personal data across the user's desktop. This launch expands Meta's AI agent ecosystem, bringing it to a new platform and potentially revolutionizing how users manage their digital tasks and communications.",
+      "summary_detailed": "Meta has launched Muse for Mac, an AI agent designed to assist users across their files, mail, messages, calendar, and notes. This desktop version complements earlier releases on mobile devices, the web, and WhatsApp, aiming to integrate seamlessly with existing applications. The broader impact could enhance productivity and automation for Mac users by providing personalized assistance directly within their workflow.",
+      "summary_bullets": "• Meta launches Muse for Mac as a personal AI agent.\n• Muse integrates with local files, mail, messages, calendar, and notes.\n• It complements existing versions of Muse available on phones, web, and WhatsApp.",
+      "sentiment": "neutral",
+      "keywords": [
+        "meta",
+        "muse",
+        "ai",
+        "mac",
+        "personal",
+        "agent"
+      ],
+      "thumbnail": null,
+      "favicon": "https://www.google.com/s2/favicons?domain=www.marktechpost.com&sz=64",
+      "cluster_id": "5cbd9e0c-9c68-523e-9206-b274610d6e87",
+      "cluster_size": 1,
+      "cluster_topics": [
+        "muse",
+        "agent",
+        "meta",
+        "mac",
+        "works"
+      ],
+      "geo_title": "How does Meta's Muse for Mac work with your files and apps?",
+      "geo_keywords": [
+        "meta muse",
+        "meta ai assistant",
+        "personal ai for mac",
+        "ai agent for files",
+        "ai integration with mac apps",
+        "how does meta muse work",
+        "what can meta muse do",
+        "meta muse features",
+        "meta muse release date",
+        "compare meta muse to other ai assistants",
+        "meta muse vs apple siri",
+        "meta muse and productivity"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "How does Meta's Muse for Mac work with your files and apps?",
+        "url": "https://www.marktechpost.com/2026/09/19/meta-launches-muse-for-mac/",
+        "description": "Meta has introduced Muse for Mac, an AI assistant designed to enhance productivity by integrating with various files, applications, and personal data across the user's desktop. This launch expands Meta's AI agent ecosystem, bringing it to a new platform and potentially revolutionizing how users manage their digital tasks and communications.",
+        "keywords": "meta muse, meta ai assistant, personal ai for mac, ai agent for files, ai integration with mac apps, how does meta muse work, what can meta muse do, meta muse features",
+        "datePublished": "Sat, 19 Sep 2026 07:22:16 +0000",
+        "dateModified": "Sat, 19 Sep 2026 07:22:16 +0000",
+        "author": {
+          "@type": "Organization",
+          "name": "MarkTechPost",
+          "url": "https://www.marktechpost.com"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "industry",
+        "inLanguage": "en-US",
+        "wordCount": 50,
+        "articleBody": "Meta has introduced Muse for Mac, an AI assistant designed to enhance productivity by integrating with various files, applications, and personal data across the user's desktop. This launch expands Meta's AI agent ecosystem, bringing it to a new platform and potentially revolutionizing how users manage their digital tasks and communications."
+      }
+    }
+  ],
+  "enriched": true,
+  "enriched_at": "2026-09-20T09:01:33.665322+00:00",
+  "enricher_model": "qwen2.5-7b",
+  "clustered": true,
+  "clustered_at": "2026-09-20T09:01:33.764916+00:00",
+  "cluster_threshold": 0.3,
+  "geo_metadata": {
+    "date": "2026-09-20",
+    "generated_at": "2026-09-20T09:02:12.748892+00:00",
+    "schemas_generated": 21,
+    "topics": [
+      "agent",
+      "agentic workflows",
+      "ai",
+      "ai advancements",
+      "ai agent for files",
+      "ai and creativity boundaries",
+      "ai and image authenticity",
+      "ai benchmarking",
+      "ai breach news",
+      "ai created posters",
+      "ai culture controversies",
+      "ai ethics",
+      "ai ethics debate",
+      "ai for developers",
+      "ai for posters",
+      "ai generated posters",
+      "ai image generation",
+      "ai impact on jobs",
+      "ai in graphic design",
+      "ai in poster making",
+      "ai integration with mac apps",
+      "ai job displacement",
+      "ai library updates",
+      "ai model optimization",
+      "ai model support",
+      "ai models",
+      "ai moral hazards",
+      "ai optimization",
+      "ai oversight challenges",
+      "ai platform",
+      "ai platform development",
+      "ai poster design",
+      "ai poster generation",
+      "ai poster quality",
+      "ai poster technology",
+      "ai risk management",
+      "ai safety",
+      "ai safety concerns",
+      "ai safety issues",
+      "ai safety measures",
+      "ai safety myths",
+      "ai scraping",
+      "ai security concerns",
+      "ai security incidents",
+      "ai security risks",
+      "ai security threats",
+      "ai security vulnerabilities",
+      "ai singularity",
+      "ai technology in image creation",
+      "ai technology risks"
+    ],
+    "faq_items": [
+      {
+        "question": "What's new with Gemini 3.5 Flash Cyber?",
+        "answer": "Gemini 3.5 Flash Cyber is a recent update to the Gemini AI model, introducing enhanced capabilities and features."
+      },
+      {
+        "question": "How can I use AI to create HD short videos easily?",
+        "answer": "The MoneyPrinterTurbo tool allows you to generate HD short videos by simply inputting a topic or keyword and leveraging an AI-driven workflow."
+      },
+      {
+        "question": "What does Microsoft think about AI scraping?",
+        "answer": "According to a Microsoft director, AI scraping is considered \"the largest theft of labor in human history,\" highlighting serious concerns over its impact on jobs."
+      },
+      {
+        "question": "Can AI be used responsibly to write content?",
+        "answer": "While there are valid concerns about using AI for writing, it’s not necessarily unethical if done carefully and with proper oversight."
+      },
+      {
+        "question": "What are the latest trends in AI research discussed in Import AI 465?",
+        "answer": "Import AI 465 discusses topics like open vs closed gaps in AI technology, the Kimi K3 project, and Demis Hassabis' upcoming big policy plan."
+      }
+    ]
+  },
+  "geo_enriched": true,
+  "geo_enriched_at": "2026-09-20T09:02:12.748892+00:00"
+}
