@@ -1,21 +1,21 @@
 {
   "date": "2026-09-18",
-  "generated_at": "2026-09-20T13:00:07.644978+00:00",
+  "generated_at": "2026-09-20T17:00:07.741921+00:00",
   "results": {
     "trending_llm": {
       "verification_status": "verified",
       "sources_count": 2,
       "sources": [
-        "Google AI Blog",
-        "GitHub Trending — LLM"
+        "GitHub Trending — LLM",
+        "Google AI Blog"
       ]
     },
     "google_ai_blog": {
       "verification_status": "verified",
       "sources_count": 2,
       "sources": [
-        "Google AI Blog",
-        "GitHub Trending — LLM"
+        "GitHub Trending — LLM",
+        "Google AI Blog"
       ]
     },
     "openai_blog": {
@@ -29,16 +29,16 @@
       "verification_status": "verified",
       "sources_count": 2,
       "sources": [
-        "ArXiv cs.CL (Computation and Language / NLP)",
-        "HN top LLM 24h"
+        "HN top LLM 24h",
+        "ArXiv cs.CL (Computation and Language / NLP)"
       ]
     },
     "hn_ai_24h": {
       "verification_status": "verified",
       "sources_count": 2,
       "sources": [
-        "ArXiv cs.CL (Computation and Language / NLP)",
-        "HN top AI 24h"
+        "HN top AI 24h",
+        "ArXiv cs.CL (Computation and Language / NLP)"
       ]
     },
     "latent_space": {
