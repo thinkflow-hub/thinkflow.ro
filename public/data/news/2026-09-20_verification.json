@@ -1,12 +1,27 @@
 {
   "date": "2026-09-20",
-  "generated_at": "2026-09-21T05:00:05.692449+00:00",
+  "generated_at": "2026-09-21T09:03:10.781821+00:00",
   "results": {
-    "trending_llm": {
+    "hn_llm_24h": {
       "verification_status": "unconfirmed",
       "sources_count": 1,
       "sources": [
-        "GitHub Trending — LLM"
+        "HN top LLM 24h"
+      ]
+    },
+    "trending_llm": {
+      "verification_status": "verified",
+      "sources_count": 2,
+      "sources": [
+        "GitHub Trending — LLM",
+        "HN top LLM 24h"
+      ]
+    },
+    "hn_ai_24h": {
+      "verification_status": "unconfirmed",
+      "sources_count": 1,
+      "sources": [
+        "HN top AI 24h"
       ]
     },
     "ggml_releases": {

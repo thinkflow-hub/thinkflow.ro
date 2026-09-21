@@ -1,6 +1,6 @@
 {
   "date": "2026-09-19",
-  "generated_at": "2026-09-21T05:00:05.693451+00:00",
+  "generated_at": "2026-09-21T09:03:10.782824+00:00",
   "results": {
     "hn_llm_24h": {
       "verification_status": "unconfirmed",
@@ -35,8 +35,8 @@
       "verification_status": "verified",
       "sources_count": 2,
       "sources": [
-        "ggml/llama.cpp releases",
-        "Ollama releases"
+        "Ollama releases",
+        "ggml/llama.cpp releases"
       ]
     },
     "hn_show_ai_7d": {
