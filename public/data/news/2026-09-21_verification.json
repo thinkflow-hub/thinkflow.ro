@@ -1,6 +1,6 @@
 {
   "date": "2026-09-21",
-  "generated_at": "2026-09-22T09:03:00.935126+00:00",
+  "generated_at": "2026-09-22T13:00:06.557218+00:00",
   "results": {
     "openai_blog": {
       "verification_status": "unconfirmed",
@@ -48,8 +48,8 @@
       "verification_status": "verified",
       "sources_count": 2,
       "sources": [
-        "ggml/llama.cpp releases",
-        "ArXiv cs.CL (Computation and Language / NLP)"
+        "ArXiv cs.CL (Computation and Language / NLP)",
+        "ggml/llama.cpp releases"
       ]
     },
     "arxiv_cs_cl": {
