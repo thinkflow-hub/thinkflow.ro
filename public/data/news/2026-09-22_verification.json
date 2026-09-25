@@ -1,6 +1,6 @@
 {
   "date": "2026-09-22",
-  "generated_at": "2026-09-25T05:00:05.167676+00:00",
+  "generated_at": "2026-09-25T09:02:57.736678+00:00",
   "results": {
     "openai_blog": {
       "verification_status": "unconfirmed",
@@ -42,21 +42,6 @@
       "sources_count": 1,
       "sources": [
         "ggml/llama.cpp releases"
-      ]
-    },
-    "vllm_releases": {
-      "verification_status": "verified",
-      "sources_count": 2,
-      "sources": [
-        "vLLM releases",
-        "ggml/llama.cpp releases"
-      ]
-    },
-    "arxiv_cs_cl": {
-      "verification_status": "unconfirmed",
-      "sources_count": 1,
-      "sources": [
-        "ArXiv cs.CL (Computation and Language / NLP)"
       ]
     }
   }
