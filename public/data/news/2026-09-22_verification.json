@@ -1,6 +1,6 @@
 {
   "date": "2026-09-22",
-  "generated_at": "2026-09-25T01:00:06.203147+00:00",
+  "generated_at": "2026-09-25T05:00:05.167676+00:00",
   "results": {
     "openai_blog": {
       "verification_status": "unconfirmed",
@@ -48,8 +48,8 @@
       "verification_status": "verified",
       "sources_count": 2,
       "sources": [
-        "ggml/llama.cpp releases",
-        "vLLM releases"
+        "vLLM releases",
+        "ggml/llama.cpp releases"
       ]
     },
     "arxiv_cs_cl": {
