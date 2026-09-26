@@ -1,7 +1,49 @@
 {
   "date": "2026-09-25",
-  "generated_at": "2026-09-26T05:00:07.859404+00:00",
+  "generated_at": "2026-09-26T09:21:40.661268+00:00",
   "results": {
+    "openai_blog": {
+      "verification_status": "unconfirmed",
+      "sources_count": 1,
+      "sources": [
+        "OpenAI Blog"
+      ]
+    },
+    "hn_ai_24h": {
+      "verification_status": "unconfirmed",
+      "sources_count": 1,
+      "sources": [
+        "HN top AI 24h"
+      ]
+    },
+    "ggml_releases": {
+      "verification_status": "unconfirmed",
+      "sources_count": 1,
+      "sources": [
+        "ggml/llama.cpp releases"
+      ]
+    },
+    "hn_show_ai_7d": {
+      "verification_status": "unconfirmed",
+      "sources_count": 1,
+      "sources": [
+        "Show HN AI 7d"
+      ]
+    },
+    "mit_technology_review_ai": {
+      "verification_status": "unconfirmed",
+      "sources_count": 1,
+      "sources": [
+        "MIT Technology Review AI"
+      ]
+    },
+    "marktechpost": {
+      "verification_status": "unconfirmed",
+      "sources_count": 1,
+      "sources": [
+        "MarkTechPost"
+      ]
+    },
     "ollama_releases": {
       "verification_status": "unconfirmed",
       "sources_count": 1,
@@ -14,13 +56,6 @@
       "sources_count": 1,
       "sources": [
         "Latent Space (Substack)"
-      ]
-    },
-    "ggml_releases": {
-      "verification_status": "unconfirmed",
-      "sources_count": 1,
-      "sources": [
-        "ggml/llama.cpp releases"
       ]
     },
     "arxiv_cs_cl": {

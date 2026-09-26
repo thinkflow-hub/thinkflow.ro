@@ -1,61 +1,12 @@
 {
   "date": "2026-09-21",
-  "generated_at": "2026-09-25T05:00:05.167676+00:00",
+  "generated_at": "2026-09-26T09:21:40.661268+00:00",
   "results": {
     "openai_blog": {
       "verification_status": "unconfirmed",
       "sources_count": 1,
       "sources": [
         "OpenAI Blog"
-      ]
-    },
-    "huggingface_blog": {
-      "verification_status": "unconfirmed",
-      "sources_count": 1,
-      "sources": [
-        "Hugging Face Blog"
-      ]
-    },
-    "nousresearch_releases": {
-      "verification_status": "unconfirmed",
-      "sources_count": 1,
-      "sources": [
-        "NousResearch releases"
-      ]
-    },
-    "hn_ai_24h": {
-      "verification_status": "unconfirmed",
-      "sources_count": 1,
-      "sources": [
-        "HN top AI 24h"
-      ]
-    },
-    "latent_space": {
-      "verification_status": "unconfirmed",
-      "sources_count": 1,
-      "sources": [
-        "Latent Space (Substack)"
-      ]
-    },
-    "import_ai": {
-      "verification_status": "unconfirmed",
-      "sources_count": 1,
-      "sources": [
-        "Import AI (Jack Clark)"
-      ]
-    },
-    "ggml_releases": {
-      "verification_status": "unconfirmed",
-      "sources_count": 1,
-      "sources": [
-        "ggml/llama.cpp releases"
-      ]
-    },
-    "hn_show_ai_7d": {
-      "verification_status": "unconfirmed",
-      "sources_count": 1,
-      "sources": [
-        "Show HN AI 7d"
       ]
     }
   }
