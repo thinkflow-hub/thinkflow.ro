@@ -1,12 +1,35 @@
 {
   "date": "2026-09-26",
-  "generated_at": "2026-09-27T05:00:08.116472+00:00",
+  "generated_at": "2026-09-27T09:17:50.144292+00:00",
   "results": {
-    "trending_ai": {
+    "trending_agent": {
       "verification_status": "unconfirmed",
       "sources_count": 1,
       "sources": [
-        "GitHub Trending — AI"
+        "GitHub Trending — AI Agents"
+      ]
+    },
+    "hn_llm_24h": {
+      "verification_status": "unconfirmed",
+      "sources_count": 1,
+      "sources": [
+        "HN top LLM 24h"
+      ]
+    },
+    "hn_ai_24h": {
+      "verification_status": "verified",
+      "sources_count": 2,
+      "sources": [
+        "GitHub Trending — AI",
+        "HN top AI 24h"
+      ]
+    },
+    "trending_ai": {
+      "verification_status": "verified",
+      "sources_count": 2,
+      "sources": [
+        "GitHub Trending — AI",
+        "HN top AI 24h"
       ]
     },
     "ggml_releases": {
@@ -14,6 +37,13 @@
       "sources_count": 1,
       "sources": [
         "ggml/llama.cpp releases"
+      ]
+    },
+    "marktechpost": {
+      "verification_status": "unconfirmed",
+      "sources_count": 1,
+      "sources": [
+        "MarkTechPost"
       ]
     }
   }

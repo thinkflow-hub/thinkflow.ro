@@ -1,7 +1,14 @@
 {
   "date": "2026-09-24",
-  "generated_at": "2026-09-27T05:00:08.116472+00:00",
+  "generated_at": "2026-09-27T09:17:50.145798+00:00",
   "results": {
+    "hn_show_ai_7d": {
+      "verification_status": "unconfirmed",
+      "sources_count": 1,
+      "sources": [
+        "Show HN AI 7d"
+      ]
+    },
     "deepmind_blog": {
       "verification_status": "unconfirmed",
       "sources_count": 1,
@@ -34,8 +41,8 @@
       "verification_status": "verified",
       "sources_count": 2,
       "sources": [
-        "HN top AI 24h",
-        "Latent Space (Substack)"
+        "Latent Space (Substack)",
+        "HN top AI 24h"
       ]
     },
     "ggml_releases": {
@@ -43,20 +50,6 @@
       "sources_count": 1,
       "sources": [
         "ggml/llama.cpp releases"
-      ]
-    },
-    "hn_show_ai_7d": {
-      "verification_status": "unconfirmed",
-      "sources_count": 1,
-      "sources": [
-        "Show HN AI 7d"
-      ]
-    },
-    "arxiv_cs_cl": {
-      "verification_status": "unconfirmed",
-      "sources_count": 1,
-      "sources": [
-        "ArXiv cs.CL (Computation and Language / NLP)"
       ]
     }
   }
