@@ -1,55 +1,12 @@
 {
   "date": "2026-09-24",
-  "generated_at": "2026-09-28T05:00:08.084454+00:00",
+  "generated_at": "2026-09-28T09:30:51.476020+00:00",
   "results": {
     "hn_show_ai_7d": {
       "verification_status": "unconfirmed",
       "sources_count": 1,
       "sources": [
         "Show HN AI 7d"
-      ]
-    },
-    "deepmind_blog": {
-      "verification_status": "unconfirmed",
-      "sources_count": 1,
-      "sources": [
-        "DeepMind Blog"
-      ]
-    },
-    "hn_llm_24h": {
-      "verification_status": "unconfirmed",
-      "sources_count": 1,
-      "sources": [
-        "HN top LLM 24h"
-      ]
-    },
-    "nousresearch_releases": {
-      "verification_status": "unconfirmed",
-      "sources_count": 1,
-      "sources": [
-        "NousResearch releases"
-      ]
-    },
-    "hn_ai_24h": {
-      "verification_status": "unconfirmed",
-      "sources_count": 1,
-      "sources": [
-        "HN top AI 24h"
-      ]
-    },
-    "latent_space": {
-      "verification_status": "verified",
-      "sources_count": 2,
-      "sources": [
-        "HN top AI 24h",
-        "Latent Space (Substack)"
-      ]
-    },
-    "ggml_releases": {
-      "verification_status": "unconfirmed",
-      "sources_count": 1,
-      "sources": [
-        "ggml/llama.cpp releases"
       ]
     }
   }

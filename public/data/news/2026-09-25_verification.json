@@ -1,6 +1,6 @@
 {
   "date": "2026-09-25",
-  "generated_at": "2026-09-28T05:00:08.084454+00:00",
+  "generated_at": "2026-09-28T09:30:51.476020+00:00",
   "results": {
     "openai_blog": {
       "verification_status": "unconfirmed",
@@ -42,27 +42,6 @@
       "sources_count": 1,
       "sources": [
         "MarkTechPost"
-      ]
-    },
-    "ollama_releases": {
-      "verification_status": "unconfirmed",
-      "sources_count": 1,
-      "sources": [
-        "Ollama releases"
-      ]
-    },
-    "latent_space": {
-      "verification_status": "unconfirmed",
-      "sources_count": 1,
-      "sources": [
-        "Latent Space (Substack)"
-      ]
-    },
-    "arxiv_cs_cl": {
-      "verification_status": "unconfirmed",
-      "sources_count": 1,
-      "sources": [
-        "ArXiv cs.CL (Computation and Language / NLP)"
       ]
     }
   }
