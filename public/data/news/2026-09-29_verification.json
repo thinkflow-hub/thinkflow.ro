@@ -1,5 +1,5 @@
 {
-  "date": "2026-09-27",
+  "date": "2026-09-29",
   "generated_at": "2026-09-29T13:03:05.265670+00:00",
   "results": {
     "trending_ai": {
@@ -9,25 +9,18 @@
         "GitHub Trending — AI"
       ]
     },
-    "hn_ai_24h": {
+    "trending_llm": {
       "verification_status": "unconfirmed",
       "sources_count": 1,
       "sources": [
-        "HN top AI 24h"
+        "GitHub Trending — LLM"
       ]
     },
-    "hn_show_ai_7d": {
+    "latent_space": {
       "verification_status": "unconfirmed",
       "sources_count": 1,
       "sources": [
-        "Show HN AI 7d"
-      ]
-    },
-    "hn_llm_24h": {
-      "verification_status": "unconfirmed",
-      "sources_count": 1,
-      "sources": [
-        "HN top LLM 24h"
+        "Latent Space (Substack)"
       ]
     },
     "ggml_releases": {
@@ -35,13 +28,6 @@
       "sources_count": 1,
       "sources": [
         "ggml/llama.cpp releases"
-      ]
-    },
-    "marktechpost": {
-      "verification_status": "unconfirmed",
-      "sources_count": 1,
-      "sources": [
-        "MarkTechPost"
       ]
     }
   }
