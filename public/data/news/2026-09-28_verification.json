@@ -1,6 +1,6 @@
 {
   "date": "2026-09-28",
-  "generated_at": "2026-09-29T21:00:07.032846+00:00",
+  "generated_at": "2026-09-30T01:00:06.022311+00:00",
   "results": {
     "openai_blog": {
       "verification_status": "unconfirmed",
@@ -41,8 +41,8 @@
       "verification_status": "verified",
       "sources_count": 2,
       "sources": [
-        "ArXiv cs.AI",
-        "HN top AI 24h"
+        "HN top AI 24h",
+        "ArXiv cs.AI"
       ]
     },
     "ollama_releases": {
@@ -77,8 +77,8 @@
       "verification_status": "verified",
       "sources_count": 2,
       "sources": [
-        "ArXiv cs.AI",
-        "HN top AI 24h"
+        "HN top AI 24h",
+        "ArXiv cs.AI"
       ]
     },
     "arxiv_cs_cl": {
