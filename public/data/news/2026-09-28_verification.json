@@ -1,6 +1,6 @@
 {
   "date": "2026-09-28",
-  "generated_at": "2026-09-30T05:00:06.488092+00:00",
+  "generated_at": "2026-10-01T01:03:00.691420+00:00",
   "results": {
     "openai_blog": {
       "verification_status": "unconfirmed",
@@ -10,10 +10,11 @@
       ]
     },
     "google_ai_blog": {
-      "verification_status": "unconfirmed",
-      "sources_count": 1,
+      "verification_status": "verified",
+      "sources_count": 2,
       "sources": [
-        "Google AI Blog"
+        "Google AI Blog",
+        "OpenAI Blog"
       ]
     },
     "huggingface_blog": {
@@ -41,8 +42,8 @@
       "verification_status": "verified",
       "sources_count": 2,
       "sources": [
-        "HN top AI 24h",
-        "ArXiv cs.AI"
+        "ArXiv cs.AI",
+        "HN top AI 24h"
       ]
     },
     "ollama_releases": {
@@ -77,8 +78,8 @@
       "verification_status": "verified",
       "sources_count": 2,
       "sources": [
-        "HN top AI 24h",
-        "ArXiv cs.AI"
+        "ArXiv cs.AI",
+        "HN top AI 24h"
       ]
     },
     "arxiv_cs_cl": {
