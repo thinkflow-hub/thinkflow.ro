@@ -1,0 +1,20 @@
+{
+  "date": "2026-10-01",
+  "generated_at": "2026-10-01T13:03:05.431377+00:00",
+  "results": {
+    "ggml_releases": {
+      "verification_status": "unconfirmed",
+      "sources_count": 1,
+      "sources": [
+        "ggml/llama.cpp releases"
+      ]
+    },
+    "arxiv_cs_cl": {
+      "verification_status": "unconfirmed",
+      "sources_count": 1,
+      "sources": [
+        "ArXiv cs.CL (Computation and Language / NLP)"
+      ]
+    }
+  }
+}

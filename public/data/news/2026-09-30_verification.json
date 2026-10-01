@@ -1,19 +1,41 @@
 {
   "date": "2026-09-30",
-  "generated_at": "2026-10-01T05:00:06.279150+00:00",
+  "generated_at": "2026-10-01T13:03:05.431377+00:00",
   "results": {
-    "trending_agent": {
+    "openai_blog": {
       "verification_status": "unconfirmed",
       "sources_count": 1,
       "sources": [
-        "GitHub Trending — AI Agents"
+        "OpenAI Blog"
       ]
     },
-    "trending_llm": {
+    "deepmind_blog": {
       "verification_status": "unconfirmed",
       "sources_count": 1,
       "sources": [
-        "GitHub Trending — LLM"
+        "DeepMind Blog"
+      ]
+    },
+    "hn_ai_24h": {
+      "verification_status": "unconfirmed",
+      "sources_count": 1,
+      "sources": [
+        "HN top AI 24h"
+      ]
+    },
+    "hn_llm_24h": {
+      "verification_status": "unconfirmed",
+      "sources_count": 1,
+      "sources": [
+        "HN top LLM 24h"
+      ]
+    },
+    "trending_agent": {
+      "verification_status": "verified",
+      "sources_count": 2,
+      "sources": [
+        "GitHub Trending — AI Agents",
+        "HN top AI 24h"
       ]
     },
     "latent_space": {
@@ -21,6 +43,21 @@
       "sources_count": 1,
       "sources": [
         "Latent Space (Substack)"
+      ]
+    },
+    "trending_llm": {
+      "verification_status": "verified",
+      "sources_count": 2,
+      "sources": [
+        "Latent Space (Substack)",
+        "GitHub Trending — LLM"
+      ]
+    },
+    "huggingface_transformers_releases": {
+      "verification_status": "unconfirmed",
+      "sources_count": 1,
+      "sources": [
+        "Transformers releases"
       ]
     },
     "ggml_releases": {
