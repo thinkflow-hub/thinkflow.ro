@@ -1,6 +1,6 @@
 {
   "date": "2026-09-29",
-  "generated_at": "2026-10-02T13:00:05.973233+00:00",
+  "generated_at": "2026-10-02T17:00:06.028663+00:00",
   "results": {
     "ollama_releases": {
       "verification_status": "unconfirmed",
@@ -35,27 +35,6 @@
       "sources_count": 1,
       "sources": [
         "ggml/llama.cpp releases"
-      ]
-    },
-    "latent_space": {
-      "verification_status": "unconfirmed",
-      "sources_count": 1,
-      "sources": [
-        "Latent Space (Substack)"
-      ]
-    },
-    "trending_ai": {
-      "verification_status": "unconfirmed",
-      "sources_count": 1,
-      "sources": [
-        "GitHub Trending — AI"
-      ]
-    },
-    "trending_llm": {
-      "verification_status": "unconfirmed",
-      "sources_count": 1,
-      "sources": [
-        "GitHub Trending — LLM"
       ]
     }
   }
