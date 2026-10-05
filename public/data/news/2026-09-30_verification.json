@@ -1,6 +1,6 @@
 {
   "date": "2026-09-30",
-  "generated_at": "2026-10-03T01:00:05.371113+00:00",
+  "generated_at": "2026-10-03T05:00:05.145460+00:00",
   "results": {
     "openai_blog": {
       "verification_status": "unconfirmed",
@@ -49,8 +49,8 @@
       "verification_status": "verified",
       "sources_count": 2,
       "sources": [
-        "GitHub Trending — LLM",
-        "Latent Space (Substack)"
+        "Latent Space (Substack)",
+        "GitHub Trending — LLM"
       ]
     },
     "huggingface_transformers_releases": {
