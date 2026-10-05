@@ -1,19 +1,12 @@
 {
-  "date": "2026-10-02",
-  "generated_at": "2026-10-05T05:01:54.508210+00:00",
+  "date": "2026-10-03",
+  "generated_at": "2026-10-05T05:01:54.507211+00:00",
   "results": {
-    "openai_blog": {
+    "huggingface_blog": {
       "verification_status": "unconfirmed",
       "sources_count": 1,
       "sources": [
-        "OpenAI Blog"
-      ]
-    },
-    "google_ai_blog": {
-      "verification_status": "unconfirmed",
-      "sources_count": 1,
-      "sources": [
-        "Google AI Blog"
+        "Hugging Face Blog"
       ]
     },
     "hn_llm_24h": {
@@ -30,25 +23,11 @@
         "HN top AI 24h"
       ]
     },
-    "hn_show_ai_7d": {
-      "verification_status": "unconfirmed",
-      "sources_count": 1,
-      "sources": [
-        "Show HN AI 7d"
-      ]
-    },
     "latent_space": {
       "verification_status": "unconfirmed",
       "sources_count": 1,
       "sources": [
         "Latent Space (Substack)"
-      ]
-    },
-    "huggingface_blog": {
-      "verification_status": "unconfirmed",
-      "sources_count": 1,
-      "sources": [
-        "Hugging Face Blog"
       ]
     },
     "ggml_releases": {
@@ -58,11 +37,32 @@
         "ggml/llama.cpp releases"
       ]
     },
-    "arxiv_cs_ai": {
+    "marktechpost": {
       "verification_status": "unconfirmed",
       "sources_count": 1,
       "sources": [
-        "ArXiv cs.AI"
+        "MarkTechPost"
+      ]
+    },
+    "trending_agent": {
+      "verification_status": "unconfirmed",
+      "sources_count": 1,
+      "sources": [
+        "GitHub Trending — AI Agents"
+      ]
+    },
+    "trending_llm": {
+      "verification_status": "unconfirmed",
+      "sources_count": 1,
+      "sources": [
+        "GitHub Trending — LLM"
+      ]
+    },
+    "arxiv_cs_lg": {
+      "verification_status": "unconfirmed",
+      "sources_count": 1,
+      "sources": [
+        "ArXiv cs.LG (Machine Learning)"
       ]
     }
   }

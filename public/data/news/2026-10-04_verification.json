@@ -1,19 +1,12 @@
 {
-  "date": "2026-10-01",
+  "date": "2026-10-04",
   "generated_at": "2026-10-05T05:01:54.508210+00:00",
   "results": {
-    "openai_blog": {
+    "ggml_releases": {
       "verification_status": "unconfirmed",
       "sources_count": 1,
       "sources": [
-        "OpenAI Blog"
-      ]
-    },
-    "huggingface_blog": {
-      "verification_status": "unconfirmed",
-      "sources_count": 1,
-      "sources": [
-        "Hugging Face Blog"
+        "ggml/llama.cpp releases"
       ]
     },
     "hn_ai_24h": {
@@ -23,11 +16,11 @@
         "HN top AI 24h"
       ]
     },
-    "latent_space": {
+    "marktechpost": {
       "verification_status": "unconfirmed",
       "sources_count": 1,
       "sources": [
-        "Latent Space (Substack)"
+        "MarkTechPost"
       ]
     }
   }
