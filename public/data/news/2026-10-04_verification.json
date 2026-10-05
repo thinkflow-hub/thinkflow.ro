@@ -1,7 +1,14 @@
 {
   "date": "2026-10-04",
-  "generated_at": "2026-10-05T05:01:54.508210+00:00",
+  "generated_at": "2026-10-05T09:03:03.328588+00:00",
   "results": {
+    "hn_show_ai_7d": {
+      "verification_status": "unconfirmed",
+      "sources_count": 1,
+      "sources": [
+        "Show HN AI 7d"
+      ]
+    },
     "ggml_releases": {
       "verification_status": "unconfirmed",
       "sources_count": 1,
@@ -14,6 +21,13 @@
       "sources_count": 1,
       "sources": [
         "HN top AI 24h"
+      ]
+    },
+    "hn_llm_24h": {
+      "verification_status": "unconfirmed",
+      "sources_count": 1,
+      "sources": [
+        "HN top LLM 24h"
       ]
     },
     "marktechpost": {
