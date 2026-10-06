@@ -1,6 +1,6 @@
 {
   "date": "2026-10-03",
-  "generated_at": "2026-10-06T05:00:06.005453+00:00",
+  "generated_at": "2026-10-06T09:02:59.241739+00:00",
   "results": {
     "huggingface_blog": {
       "verification_status": "unconfirmed",
@@ -42,27 +42,6 @@
       "sources_count": 1,
       "sources": [
         "MarkTechPost"
-      ]
-    },
-    "trending_agent": {
-      "verification_status": "unconfirmed",
-      "sources_count": 1,
-      "sources": [
-        "GitHub Trending — AI Agents"
-      ]
-    },
-    "trending_llm": {
-      "verification_status": "unconfirmed",
-      "sources_count": 1,
-      "sources": [
-        "GitHub Trending — LLM"
-      ]
-    },
-    "arxiv_cs_lg": {
-      "verification_status": "unconfirmed",
-      "sources_count": 1,
-      "sources": [
-        "ArXiv cs.LG (Machine Learning)"
       ]
     }
   }
