@@ -1,0 +1,2102 @@
+{
+  "date": "2026-10-06",
+  "last_updated": "2026-10-06T06:00:01.722605+00:00",
+  "total_items": 29,
+  "items": [
+    {
+      "source_id": "openai_blog",
+      "source_name": "OpenAI Blog",
+      "title": "Our approach to EU text provenance rules",
+      "url": "https://openai.com/index/eu-text-provenance",
+      "description": "How OpenAI is approaching text watermarking under EU rules. Learn where watermarks apply, how detection works, and why access starts with researchers.",
+      "published": "Mon, 05 Oct 2026 15:00:00 GMT",
+      "score": 75,
+      "category": "ai_labs",
+      "weight": 10,
+      "format": "article",
+      "summary": "OpenAI is developing methods for text watermarking in response to upcoming EU rules on text provenance, focusing on enabling research access while ensuring compliance. Watermarking helps track the origin of texts, crucial for respecting copyright and facilitating academic and technological advancement.",
+      "summary_detailed": "OpenAI is developing methods for text watermarking in response to upcoming EU rules on provenance, focusing on applying watermarks, detecting them through technical means, and ensuring initial access is restricted to researchers. This approach aims to comply with new regulations while advancing research capabilities. Broader impacts include enhanced transparency and accountability in digital content across the EU.",
+      "summary_bullets": "• Watermarks apply to certain texts under EU provenance rules.\n• Detection of watermarks uses specific techniques identified by OpenAI.\n• Access to watermarked content is restricted initially to researchers.",
+      "sentiment": "neutral",
+      "keywords": [
+        "eu rules",
+        "text watermarking",
+        "detection",
+        "researchers"
+      ],
+      "thumbnail": null,
+      "favicon": "https://www.google.com/s2/favicons?domain=openai.com&sz=64",
+      "cluster_id": "0494ef44-0c7d-5b01-8a33-ff807dbd7425",
+      "cluster_size": 1,
+      "cluster_topics": [
+        "rules",
+        "text",
+        "approach",
+        "provenance",
+        "approaching"
+      ],
+      "geo_title": "How does OpenAI comply with EU text provenance rules?",
+      "geo_keywords": [
+        "eu text provenance",
+        "openai text watermarking",
+        "ai text detection",
+        "implementing eu text rules",
+        "researcher access to text",
+        "eu content provenance",
+        "watermarking technology explanation",
+        "understanding eu text regulations",
+        "how ai ensures text authenticity",
+        "openai's approach to text watermarks",
+        "ai text watermark detection",
+        "eu digital content regulation"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "How does OpenAI comply with EU text provenance rules?",
+        "url": "https://openai.com/index/eu-text-provenance",
+        "description": "OpenAI is developing methods for text watermarking in response to upcoming EU rules on text provenance, focusing on enabling research access while ensuring compliance. Watermarking helps track the origin of texts, crucial for respecting copyright and facilitating academic and technological advancement.",
+        "keywords": "eu text provenance, openai text watermarking, ai text detection, implementing eu text rules, researcher access to text, eu content provenance, watermarking technology explanation, understanding eu text regulations",
+        "datePublished": "Mon, 05 Oct 2026 15:00:00 GMT",
+        "dateModified": "Mon, 05 Oct 2026 15:00:00 GMT",
+        "author": {
+          "@type": "Organization",
+          "name": "OpenAI Blog",
+          "url": "https://openai.com"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "ai_labs",
+        "inLanguage": "en-US",
+        "wordCount": 41,
+        "articleBody": "OpenAI is developing methods for text watermarking in response to upcoming EU rules on text provenance, focusing on enabling research access while ensuring compliance. Watermarking helps track the origin of texts, crucial for respecting copyright and facilitating academic and technological advancement."
+      }
+    },
+    {
+      "source_id": "openai_blog",
+      "source_name": "OpenAI Blog",
+      "title": "Building advertising for the way people use AI",
+      "url": "https://openai.com/index/new-chatgpt-ads-format-and-measurement",
+      "description": "OpenAI introduces a new visual ad format in ChatGPT and expands measurement tools, attribution partnerships, and brand suitability for advertisers.",
+      "published": "Mon, 05 Oct 2026 10:00:00 GMT",
+      "score": 75,
+      "category": "ai_labs",
+      "weight": 10,
+      "format": "article",
+      "summary": "OpenAI has introduced a new visual ad format in ChatGPT, expanding measurement tools and partnerships to better suit advertisers as AI usage grows. This move is crucial as it enhances advertising capabilities within AI platforms, catering to the evolving digital landscape where AI plays an increasingly significant role.",
+      "summary_detailed": "OpenAI has introduced a new visual advertising format within ChatGPT, enhancing measurement tools and establishing attribution partnerships to improve brand suitability. This move involves both the tech company and advertisers who will benefit from more sophisticated ad integration into AI interactions. The broader impact includes potential increases in engagement and effectiveness of ads through AI-driven platforms, potentially reshaping digital marketing strategies.",
+      "summary_bullets": "• OpenAI launches new visual ad format in ChatGPT\n• Expands measurement tools for advertisers\n• Forms attribution partnerships for better tracking\n• Enhances brand suitability features for ads",
+      "sentiment": "neutral",
+      "keywords": [
+        "ai advertising",
+        "chatgpt",
+        "measurement tools",
+        "attribution",
+        "brand suitability"
+      ],
+      "thumbnail": null,
+      "favicon": "https://www.google.com/s2/favicons?domain=openai.com&sz=64",
+      "cluster_id": "64da2d0a-9273-5fca-87b0-5954b04e9dec",
+      "cluster_size": 1,
+      "cluster_topics": [
+        "advertising",
+        "way",
+        "visual",
+        "format",
+        "measurement"
+      ],
+      "geo_title": "How does OpenAI's new ad format enhance AI advertising?",
+      "geo_keywords": [
+        "ai advertising",
+        "chatgpt ads",
+        "openai advertising",
+        "new ai ad format",
+        "advertising measurement tools",
+        "attribution partnerships ai",
+        "brand suitability ai",
+        "how ai changes advertising",
+        "what are the new chatgpt ads",
+        "how do measurement tools work in ai advertising"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "How does OpenAI's new ad format enhance AI advertising?",
+        "url": "https://openai.com/index/new-chatgpt-ads-format-and-measurement",
+        "description": "OpenAI has introduced a new visual ad format in ChatGPT, expanding measurement tools and partnerships to better suit advertisers as AI usage grows. This move is crucial as it enhances advertising capabilities within AI platforms, catering to the evolving digital landscape where AI plays an increasingly significant role.",
+        "keywords": "ai advertising, chatgpt ads, openai advertising, new ai ad format, advertising measurement tools, attribution partnerships ai, brand suitability ai, how ai changes advertising",
+        "datePublished": "Mon, 05 Oct 2026 10:00:00 GMT",
+        "dateModified": "Mon, 05 Oct 2026 10:00:00 GMT",
+        "author": {
+          "@type": "Organization",
+          "name": "OpenAI Blog",
+          "url": "https://openai.com"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "ai_labs",
+        "inLanguage": "en-US",
+        "wordCount": 48,
+        "articleBody": "OpenAI has introduced a new visual ad format in ChatGPT, expanding measurement tools and partnerships to better suit advertisers as AI usage grows. This move is crucial as it enhances advertising capabilities within AI platforms, catering to the evolving digital landscape where AI plays an increasingly significant role."
+      }
+    },
+    {
+      "source_id": "openai_blog",
+      "source_name": "OpenAI Blog",
+      "title": "Wayfair boosts catalog accuracy and support speed with OpenAI",
+      "url": "https://openai.com/index/wayfair",
+      "description": "Wayfair uses OpenAI models to improve ecommerce support and product catalog accuracy, automating ticket triage and enhancing millions of product attributes at scale.",
+      "published": "Fri, 25 Sep 2026 00:00:00 GMT",
+      "score": 75,
+      "category": "ai_labs",
+      "weight": 10,
+      "format": "article",
+      "summary": "Wayfair implemented OpenAI's models to enhance its ecommerce support by automating ticket triage and improving product catalog accuracy for millions of items, significantly boosting operational efficiency. This initiative is crucial as it improves customer satisfaction and reduces costs through advanced automation.",
+      "summary_detailed": "Wayfair implemented OpenAI's models to enhance its e-commerce support by automating ticket triage and improving the accuracy of millions of product attributes in their catalog. This initiative significantly boosts customer service efficiency and product information reliability, impacting a wide range of customers and internal operations positively.",
+      "summary_bullets": "• Wayfair implements OpenAI models for enhanced ecommerce support.\n• The technology improves product catalog accuracy significantly.\n• Automation through OpenAI speeds up ticket triage processes.\n• Millions of product attributes are improved at a large scale.",
+      "sentiment": "positive",
+      "keywords": [
+        "ecommerce",
+        "support",
+        "accuracy",
+        "openai",
+        "automation"
+      ],
+      "thumbnail": null,
+      "favicon": "https://www.google.com/s2/favicons?domain=openai.com&sz=64",
+      "cluster_id": "55d711b2-e016-5657-abe1-735fa3af90f4",
+      "cluster_size": 1,
+      "cluster_topics": [
+        "wayfair",
+        "catalog",
+        "accuracy",
+        "product",
+        "support"
+      ],
+      "geo_title": "How does Wayfair use OpenAI to boost catalog accuracy and support speed?",
+      "geo_keywords": [
+        "ecommerce support",
+        "product catalog accuracy",
+        "openai automation",
+        "chatbot support",
+        "ai in ecommerce",
+        "improving product attributes",
+        "automated ticket triage",
+        "wayfair ai implementation"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "How does Wayfair use OpenAI to boost catalog accuracy and support speed?",
+        "url": "https://openai.com/index/wayfair",
+        "description": "Wayfair implemented OpenAI's models to enhance its ecommerce support by automating ticket triage and improving product catalog accuracy for millions of items, significantly boosting operational efficiency. This initiative is crucial as it improves customer satisfaction and reduces costs through advanced automation.",
+        "keywords": "ecommerce support, product catalog accuracy, openai automation, chatbot support, ai in ecommerce, improving product attributes, automated ticket triage, wayfair ai implementation",
+        "datePublished": "Fri, 25 Sep 2026 00:00:00 GMT",
+        "dateModified": "Fri, 25 Sep 2026 00:00:00 GMT",
+        "author": {
+          "@type": "Organization",
+          "name": "OpenAI Blog",
+          "url": "https://openai.com"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "ai_labs",
+        "inLanguage": "en-US",
+        "wordCount": 41,
+        "articleBody": "Wayfair implemented OpenAI's models to enhance its ecommerce support by automating ticket triage and improving product catalog accuracy for millions of items, significantly boosting operational efficiency. This initiative is crucial as it improves customer satisfaction and reduces costs through advanced automation."
+      }
+    },
+    {
+      "source_id": "hn_ai_24h",
+      "source_name": "HN top AI 24h",
+      "title": "Opus 5.5 agents discover two room-temperature magnetic semiconductor candidates",
+      "url": "https://www.vals.ai/blogs/room-temperature-magnetic-semiconductors",
+      "description": "",
+      "published": "2026-10-05T21:00:21+00:00",
+      "score": 59,
+      "category": "trending",
+      "weight": 8,
+      "points": 285,
+      "comments_url": "https://news.ycombinator.com/item?id=49970667",
+      "summary": "Scientists have identified two new materials that could potentially function as magnetic semiconductors at room temperature, a breakthrough that could revolutionize data storage and computing technologies by enabling faster and more efficient devices.",
+      "summary_detailed": "Researchers at Opus 5.5 have identified two new materials that could function as room-temperature magnetic semiconductors, a significant breakthrough that could revolutionize data storage and computing technologies by potentially enabling faster and more efficient devices. The discovery involves a team of scientists who used advanced computational methods to screen thousands of compounds before isolating these promising candidates. This finding has the potential to impact various industries, including electronics and information technology, by offering new materials for developing next-generation magnetic devices.",
+      "summary_bullets": "• Opus 5.5 agents identified potential magnetic semiconductors at room temperature.\n• Two new materials show promise for technological advancements.\n• Room-temperature operation could revolutionize magnetic storage devices.",
+      "sentiment": "positive",
+      "keywords": [
+        "room-temperature",
+        "magnetic",
+        "semiconductor",
+        "candidates",
+        "opus"
+      ],
+      "thumbnail": "https://www.vals.ai/blogs/2026-10-04-room-temperature-magnetic-semiconductors/hero.png",
+      "cluster_id": "3fa9983d-f100-5229-84b6-1603530317e1",
+      "cluster_size": 1,
+      "cluster_topics": [
+        "opus",
+        "two",
+        "room-temperature",
+        "magnetic",
+        "semiconductor"
+      ],
+      "geo_title": "Why are Opus 5.5 agents exploring room-temperature magnetic semiconductors?",
+      "geo_keywords": [
+        "room-temperature magnetic semiconductors",
+        "opus 5.5 agents",
+        "new magnetic semiconductor discoveries",
+        "magnetic semiconductors at room temperature",
+        "technological advancements in semiconductors",
+        "what are the latest magnetic semiconductor candidates",
+        "how do room-temperature magnetic semiconductors work",
+        "opus technology breakthroughs"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "Why are Opus 5.5 agents exploring room-temperature magnetic semiconductors?",
+        "url": "https://www.vals.ai/blogs/room-temperature-magnetic-semiconductors",
+        "description": "Scientists have identified two new materials that could potentially function as magnetic semiconductors at room temperature, a breakthrough that could revolutionize data storage and computing technologies by enabling faster and more efficient devices.",
+        "keywords": "room-temperature magnetic semiconductors, opus 5.5 agents, new magnetic semiconductor discoveries, magnetic semiconductors at room temperature, technological advancements in semiconductors, what are the latest magnetic semiconductor candidates, how do room-temperature magnetic semiconductors work, opus technology breakthroughs",
+        "datePublished": "2026-10-05T21:00:21+00:00",
+        "dateModified": "2026-10-05T21:00:21+00:00",
+        "author": {
+          "@type": "Organization",
+          "name": "HN top AI 24h",
+          "url": "https://www.vals.ai"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "trending",
+        "inLanguage": "en-US",
+        "wordCount": 33,
+        "articleBody": "Scientists have identified two new materials that could potentially function as magnetic semiconductors at room temperature, a breakthrough that could revolutionize data storage and computing technologies by enabling faster and more efficient devices."
+      }
+    },
+    {
+      "source_id": "ollama_releases",
+      "source_name": "Ollama releases",
+      "title": "Ollama releases: v0.40.0",
+      "url": "https://github.com/ollama/ollama/releases/tag/v0.40.0-rc5",
+      "description": "## What's Changed\r\n\r\n**Models run on MLX on Apple Silicon by default**\r\n\r\nIn this release, on Apple Silicon devices, model architectures supported by the MLX runtime will automatically run on MLX.\r\n\r\n```\r\nollama pull qwen3.8\r\nollama run qwen3.8\r\n```\r\n\r\nAdditional models include [gemma4](https://olla",
+      "published": "2026-09-25T03:31:52Z",
+      "score": 54,
+      "category": "releases",
+      "weight": 9,
+      "tag": "v0.40.0-rc5",
+      "summary": "Ollama released version 0.40.0, which now defaults to running supported model architectures on Apple Silicon devices via the MLX runtime, enhancing performance on Macs. This update is significant for users with Apple Silicon hardware, as it optimizes model execution and potentially improves usability and efficiency.",
+      "summary_detailed": "Ollama released version 0.40.0, which now defaults to running models on MLX for Apple Silicon devices, enhancing performance. Users can pull and run the updated model `qwen3.8` with commands provided. This update impacts users of Ollama's models on Apple Silicon, potentially improving their experience by optimizing model execution.",
+      "summary_bullets": "• Models now default to running on MLX on Apple Silicon devices.\n• Support added for the gemma4 model.\n• Users can pull and run the qwen3.8 model using `ollama` commands.",
+      "sentiment": "neutral",
+      "keywords": [
+        "models",
+        "apple silicon",
+        "mlx",
+        "ollama",
+        "release"
+      ],
+      "thumbnail": "https://opengraph.githubassets.com/2ad3f957c983d174544ad09999c826b92608024d7479451e71c10bfcc017d356/ollama/ollama/releases/tag/v0.40.0-rc5",
+      "cluster_id": "43059d58-830a-5b8a-826d-22c2e4995338",
+      "cluster_size": 1,
+      "cluster_topics": [
+        "ollama",
+        "run",
+        "mlx",
+        "qwen3",
+        "silicon"
+      ],
+      "geo_title": "What is new in Ollama v0.40.0 regarding Apple Silicon?",
+      "geo_keywords": [
+        "ollama release v0.40.0",
+        "apple silicon support",
+        "mlx runtime",
+        "model architectures",
+        "ollama qwen3.8",
+        "ollama gemma4",
+        "ollama run command",
+        "models on apple silicon",
+        "default mlx runtime"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "What is new in Ollama v0.40.0 regarding Apple Silicon?",
+        "url": "https://github.com/ollama/ollama/releases/tag/v0.40.0-rc5",
+        "description": "Ollama released version 0.40.0, which now defaults to running supported model architectures on Apple Silicon devices via the MLX runtime, enhancing performance on Macs. This update is significant for users with Apple Silicon hardware, as it optimizes model execution and potentially improves usability and efficiency.",
+        "keywords": "ollama release v0.40.0, apple silicon support, mlx runtime, model architectures, ollama qwen3.8, ollama gemma4, ollama run command, models on apple silicon",
+        "datePublished": "2026-09-25T03:31:52Z",
+        "dateModified": "2026-09-25T03:31:52Z",
+        "author": {
+          "@type": "Organization",
+          "name": "Ollama releases",
+          "url": "https://github.com"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "releases",
+        "inLanguage": "en-US",
+        "wordCount": 45,
+        "articleBody": "Ollama released version 0.40.0, which now defaults to running supported model architectures on Apple Silicon devices via the MLX runtime, enhancing performance on Macs. This update is significant for users with Apple Silicon hardware, as it optimizes model execution and potentially improves usability and efficiency."
+      }
+    },
+    {
+      "source_id": "import_ai",
+      "source_name": "Import AI (Jack Clark)",
+      "title": "Import AI 475: Swarm scaling; Google DeepMind watermarks biology; and the AI science economy",
+      "url": "https://importai.substack.com/p/import-ai-475-swarm-scaling-google",
+      "description": "Who chooses what AI gets to do?",
+      "published": "Mon, 05 Oct 2026 12:32:30 GMT",
+      "score": 48,
+      "category": "newsletters",
+      "weight": 8,
+      "format": "article",
+      "summary": "The article discusses advancements in swarm AI technology, Google DeepMind's exploration of biological watermarking, and the broader implications for how AI research priorities are set. These topics matter as they highlight evolving capabilities and ethical considerations in AI development and application.",
+      "summary_detailed": "In a recent development, researchers explored swarm intelligence techniques that could significantly scale AI applications across various sectors. Meanwhile, Google's DeepMind team developed a method to watermark biological data, raising concerns about intellectual property in biotech research. These advancements highlight the evolving landscape of AI ethics and its broader impact on scientific collaboration and innovation.",
+      "summary_bullets": "• Swarm intelligence techniques enable scalable AI systems.\n• Google DeepMind explores biological watermarking in AI research.\n• The role of funding bodies influences AI project selection.",
+      "sentiment": "neutral",
+      "keywords": [
+        "swarm scaling",
+        "google deepmind",
+        "watermarks",
+        "biology",
+        "ai science economy"
+      ],
+      "thumbnail": "https://substackcdn.com/image/fetch/$s_!3yYS!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd6d17996-2bef-40a4-abe3-be72a0e8a227_258x258.png",
+      "cluster_id": "493ac1de-6d82-516a-beba-a11ecc302e5e",
+      "cluster_size": 1,
+      "cluster_topics": [
+        "import",
+        "swarm",
+        "scaling",
+        "deepmind",
+        "economy"
+      ],
+      "geo_title": "How does AI decide its own boundaries?",
+      "geo_keywords": [
+        "swarm scaling",
+        "google deepmind",
+        "watermarks in ai",
+        "biology and ai",
+        "ai science economy",
+        "who controls ai research",
+        "ai ethics and governance"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "How does AI decide its own boundaries?",
+        "url": "https://importai.substack.com/p/import-ai-475-swarm-scaling-google",
+        "description": "The article discusses advancements in swarm AI technology, Google DeepMind's exploration of biological watermarking, and the broader implications for how AI research priorities are set. These topics matter as they highlight evolving capabilities and ethical considerations in AI development and application.",
+        "keywords": "swarm scaling, google deepmind, watermarks in ai, biology and ai, ai science economy, who controls ai research, ai ethics and governance",
+        "datePublished": "Mon, 05 Oct 2026 12:32:30 GMT",
+        "dateModified": "Mon, 05 Oct 2026 12:32:30 GMT",
+        "author": {
+          "@type": "Organization",
+          "name": "Import AI (Jack Clark)",
+          "url": "https://importai.substack.com"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "newsletters",
+        "inLanguage": "en-US",
+        "wordCount": 41,
+        "articleBody": "The article discusses advancements in swarm AI technology, Google DeepMind's exploration of biological watermarking, and the broader implications for how AI research priorities are set. These topics matter as they highlight evolving capabilities and ethical considerations in AI development and application."
+      }
+    },
+    {
+      "source_id": "ggml_releases",
+      "source_name": "ggml/llama.cpp releases",
+      "title": "ggml/llama.cpp releases: v0.6.0",
+      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/v0.6.0",
+      "description": "## Overview\r\n\r\nllama.cpp v0.6.0 introduces the new `llama_batch_ext` extended batch API (with `llama_process`) for mixed token/embedding inputs and MTP/deepstack state embeddings, adds support for the GLM-5.3-Flash (GLM5-Next) 320B hybrid model, the Clef decision model (text and vision) and MTP spec",
+      "published": "2026-10-05T16:56:22Z",
+      "score": 48,
+      "category": "releases",
+      "weight": 8,
+      "tag": "v0.6.0",
+      "summary": "llama.cpp v0.6.0 updates the API to handle mixed token/embedding inputs and adds support for new models, enhancing its functionality in natural language processing and multimodal tasks. This release is significant as it broadens the tool's capabilities, making it more versatile for researchers and developers working with advanced language models.",
+      "summary_detailed": "The ggml/llama.cpp project has released version v0.6.0, which includes new features such as an extended batch API for handling mixed token/embedding inputs and support for advanced models like GLM-5.3-Flash (GLM5-Next) 320B and the Clef decision model. This update enhances the library's capabilities in processing complex data types and supports emerging hybrid models, broadening its utility in natural language processing and multimodal tasks.",
+      "summary_bullets": "• Introduces `llama_batch_ext` extended batch API\n• Supports GLM-5.3-Flash (GLM5-Next) 320B hybrid model\n• Adds support for Clef decision model (text and vision)\n• Includes MTP/deepstack state embeddings",
+      "sentiment": "neutral",
+      "keywords": [
+        "llama_batch_ext",
+        "mixed token/embedding",
+        "glm-53-flash",
+        "clef decision model",
+        "mtp spec"
+      ],
+      "thumbnail": "https://opengraph.githubassets.com/f148c6e1fa26a2f23e77888f27f831597619df4e9dedb1c712812b4146909c58/ggml-org/llama.cpp/releases/tag/v0.6.0",
+      "cluster_id": "c91dde62-3697-567c-8cce-669b77eefe93",
+      "cluster_size": 1,
+      "cluster_topics": [
+        "mtp",
+        "llama",
+        "cpp",
+        "model",
+        "overview"
+      ],
+      "geo_title": "What is included in the new ggml/llama.cpp v0.6.0 release?",
+      "geo_keywords": [
+        "ggml/llama.cpp v0.6.0 release",
+        "extended batch api",
+        "mixed token embedding support",
+        "glm-53-flash model",
+        "clef decision model",
+        "mtp spec",
+        "deepstack state embeddings",
+        "llama_batch_ext api"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "What is included in the new ggml/llama.cpp v0.6.0 release?",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/v0.6.0",
+        "description": "llama.cpp v0.6.0 updates the API to handle mixed token/embedding inputs and adds support for new models, enhancing its functionality in natural language processing and multimodal tasks. This release is significant as it broadens the tool's capabilities, making it more versatile for researchers and developers working with advanced language models.",
+        "keywords": "ggml/llama.cpp v0.6.0 release, extended batch api, mixed token embedding support, glm-53-flash model, clef decision model, mtp spec, deepstack state embeddings, llama_batch_ext api",
+        "datePublished": "2026-10-05T16:56:22Z",
+        "dateModified": "2026-10-05T16:56:22Z",
+        "author": {
+          "@type": "Organization",
+          "name": "ggml/llama.cpp releases",
+          "url": "https://github.com"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "releases",
+        "inLanguage": "en-US",
+        "wordCount": 49,
+        "articleBody": "llama.cpp v0.6.0 updates the API to handle mixed token/embedding inputs and adds support for new models, enhancing its functionality in natural language processing and multimodal tasks. This release is significant as it broadens the tool's capabilities, making it more versatile for researchers and developers working with advanced language models."
+      }
+    },
+    {
+      "source_id": "ggml_releases",
+      "source_name": "ggml/llama.cpp releases",
+      "title": "ggml/llama.cpp releases: b11433",
+      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11433",
+      "description": "<details open>\n\nhexagon: add pool op support (#29995)\n\n* hexagon: add pool_2d support\n\n* hexagon: add pool_1d support\n\n* hex-pool: dma changes\n\n* hex-pool: Optimize HTP pooling boundaries and DMA pipelining\n\n* hex-pool: code cleanup and correctness fixes\n\n* hex-pool: re-write the DMA pipeline\n\n* hex",
+      "published": "2026-10-05T23:10:22Z",
+      "score": 48,
+      "category": "releases",
+      "weight": 8,
+      "tag": "b11433",
+      "summary": "The ggml/llama.cpp project has updated its codebase to include support for 1D and 2D pool operations on the Hexagon processor, along with optimizations and code cleanups. These changes enhance the library's performance on Hexagon hardware, making it more versatile and efficient for specific computational tasks.",
+      "summary_detailed": "The ggml/llama.cpp project, specifically version b11433, has been updated to include support for pool operations (2D and 1D) on the Hexagon processor. These updates involve optimizing pooling boundaries, enhancing DMA pipelining, and improving code cleanliness. The broader impact includes enhanced performance and functionality of the library when running on Hexagon hardware, potentially benefiting applications that require efficient handling of large data sets through improved pooling operations.",
+      "summary_bullets": "• hexagon: add pool_2d support  \n• hexagon: add pool_1d support  \n• hex-pool: Optimize HTP pooling boundaries and DMA pipelining",
+      "sentiment": "neutral",
+      "keywords": [
+        "hexagon",
+        "pool op",
+        "support"
+      ],
+      "thumbnail": "https://opengraph.githubassets.com/197689ab004db918ece9fc6c3ae13785ccb8083b89467621f4bfe386ae99d465/ggml-org/llama.cpp/releases/tag/b11433",
+      "cluster_id": "5c02b946-4715-5ac5-91c5-3a7b24d3b510",
+      "cluster_size": 1,
+      "cluster_topics": [
+        "hex-pool",
+        "add",
+        "dma",
+        "hexagon",
+        "support"
+      ],
+      "geo_title": "How does ggml/llama.cpp update hexagon support in b11433?",
+      "geo_keywords": [
+        "ggml/llama.cpp releases",
+        "b11433",
+        "hexagon pool op support",
+        "pooling operations optimization",
+        "dma changes in hexagon",
+        "hexagon pooling improvements",
+        "llm performance enhancements",
+        "what are the recent updates in ggml/llama.cpp",
+        "how does hexagon improve pooling operations"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "How does ggml/llama.cpp update hexagon support in b11433?",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11433",
+        "description": "The ggml/llama.cpp project has updated its codebase to include support for 1D and 2D pool operations on the Hexagon processor, along with optimizations and code cleanups. These changes enhance the library's performance on Hexagon hardware, making it more versatile and efficient for specific computational tasks.",
+        "keywords": "ggml/llama.cpp releases, b11433, hexagon pool op support, pooling operations optimization, dma changes in hexagon, hexagon pooling improvements, llm performance enhancements, what are the recent updates in ggml/llama.cpp",
+        "datePublished": "2026-10-05T23:10:22Z",
+        "dateModified": "2026-10-05T23:10:22Z",
+        "author": {
+          "@type": "Organization",
+          "name": "ggml/llama.cpp releases",
+          "url": "https://github.com"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "releases",
+        "inLanguage": "en-US",
+        "wordCount": 45,
+        "articleBody": "The ggml/llama.cpp project has updated its codebase to include support for 1D and 2D pool operations on the Hexagon processor, along with optimizations and code cleanups. These changes enhance the library's performance on Hexagon hardware, making it more versatile and efficient for specific computational tasks."
+      }
+    },
+    {
+      "source_id": "ggml_releases",
+      "source_name": "ggml/llama.cpp releases",
+      "title": "ggml/llama.cpp releases: b11430",
+      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11430",
+      "description": "<details open>\n\nhexagon: matmul and flash-atten scalability updates (#29974)\n\n* hexagon: head-parallel flash_attn partitioning for row-split multicore\n\nIn row-split mode each core computes its output row shard of every\nMUL_MAT, but flash_attn was previously partitioning by Q tokens\n(flat qrow split)",
+      "published": "2026-10-05T20:38:39Z",
+      "score": 48,
+      "category": "releases",
+      "weight": 8,
+      "tag": "b11430",
+      "summary": "The ggml/llama.cpp project released an update that includes head-parallel flash attention partitioning for row-split multicore in the hexagon module, improving scalability for matrix multiplication and attention mechanisms. This update is significant as it enhances the efficiency of parallel processing in large language models.",
+      "summary_detailed": "The ggml/llama.cpp project has released an update that includes scalability improvements for hexagon matmul and flash-attention operations. Specifically, the update introduces head-parallel flash_attn partitioning in row-split mode to enhance multicore performance. This change impacts how computations are distributed across cores, potentially improving overall efficiency and speed of processing tasks involving large matrix multiplications and attention mechanisms.",
+      "summary_bullets": "• hexagon: head-parallel flash_attn partitioning for row-split multicore\n• Each core computes its output row shard of every MUL_MAT in row-split mode\n• Previously, flash_attn partitioned by Q tokens (flat qrow split)",
+      "sentiment": "neutral",
+      "keywords": [
+        "hexagon",
+        "matmul",
+        "flash-atten",
+        "scalability",
+        "head-parallel",
+        "partitioning"
+      ],
+      "thumbnail": "https://opengraph.githubassets.com/26ed79e7ca07f50f652382195425e7e80a02d31312ee8b6b584530bb5184e37d/ggml-org/llama.cpp/releases/tag/b11430",
+      "cluster_id": "845db8fc-8aee-5528-84bb-0f6123cdce07",
+      "cluster_size": 1,
+      "cluster_topics": [
+        "flash_attn",
+        "partitioning",
+        "row-split",
+        "hexagon",
+        "b11430"
+      ],
+      "geo_title": "Why is hexagon optimizing matmul and flash-atten scalability in ggml/llama.cpp?",
+      "geo_keywords": [
+        "hexagon",
+        "matmul",
+        "flash-attention",
+        "scalability",
+        "head-parallel",
+        "ggml",
+        "llama.cpp",
+        "row-split multicore optimizations"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "Why is hexagon optimizing matmul and flash-atten scalability in ggml/llama.cpp?",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11430",
+        "description": "The ggml/llama.cpp project released an update that includes head-parallel flash attention partitioning for row-split multicore in the hexagon module, improving scalability for matrix multiplication and attention mechanisms. This update is significant as it enhances the efficiency of parallel processing in large language models.",
+        "keywords": "hexagon, matmul, flash-attention, scalability, head-parallel, ggml, llama.cpp, row-split multicore optimizations",
+        "datePublished": "2026-10-05T20:38:39Z",
+        "dateModified": "2026-10-05T20:38:39Z",
+        "author": {
+          "@type": "Organization",
+          "name": "ggml/llama.cpp releases",
+          "url": "https://github.com"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "releases",
+        "inLanguage": "en-US",
+        "wordCount": 43,
+        "articleBody": "The ggml/llama.cpp project released an update that includes head-parallel flash attention partitioning for row-split multicore in the hexagon module, improving scalability for matrix multiplication and attention mechanisms. This update is significant as it enhances the efficiency of parallel processing in large language models."
+      }
+    },
+    {
+      "source_id": "ggml_releases",
+      "source_name": "ggml/llama.cpp releases",
+      "title": "ggml/llama.cpp releases: b11429",
+      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11429",
+      "description": "<details open>\n\nllama.cpp : bump version to 0.6.0 (#29997)\n\n* llama.cpp : bump version to 0.6.0\n\n* scripts : update summary prompt (#0)\n\n</details>\n\n**Website:**\n- <https://llama.app>\n\n**Attestations:**\n- <https://github.com/ggml-org/llama.cpp/attestations/52904614>\n\n**macOS/iOS:**\n- [macOS Apple Si",
+      "published": "2026-10-05T16:54:37Z",
+      "score": 48,
+      "category": "releases",
+      "weight": 8,
+      "tag": "b11429",
+      "summary": "The ggml/llama.cpp project has updated its version to 0.6.0, primarily to enhance the summary prompt functionality, which is crucial for improving user interaction and experience with language models. This update matters as it reflects ongoing development and refinement in open-source AI tools, potentially impacting how these models are utilized in various applications.",
+      "summary_detailed": "The ggml/llama.cpp project has updated its version to 0.6.0, including changes to the summary prompt script. This update affects developers and users of the llama.cpp software, enhancing its functionality and potentially improving user experience. The broader impact includes advancements in text generation capabilities for various applications relying on this open-source model.",
+      "summary_bullets": "• llama.cpp version bumped to 0.6.0\n• Summary prompt updated in scripts\n• Attestation available for verification",
+      "sentiment": "neutral",
+      "keywords": [
+        "version",
+        "update",
+        "summary prompt"
+      ],
+      "thumbnail": "https://opengraph.githubassets.com/e17afb4307d002626592b58e3b90972fd821fa0d0cf67ca691c4153a6ebc3e23/ggml-org/llama.cpp/releases/tag/b11429",
+      "cluster_id": "5370d2a9-efd8-54ba-b90e-aa9f90920aa1",
+      "cluster_size": 2,
+      "cluster_topics": [
+        "llama",
+        "cpp",
+        "attestations",
+        "macos",
+        "https"
+      ],
+      "geo_title": "Why is ggml/llama.cpp version bumped to 0.6.0?",
+      "geo_keywords": [
+        "version update",
+        "llama.cpp",
+        "ggml",
+        "ai model",
+        "summary prompt",
+        "machine learning",
+        "natural language processing",
+        "what is the new version of llama.cpp",
+        "how often is llama.cpp updated"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "Why is ggml/llama.cpp version bumped to 0.6.0?",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11429",
+        "description": "The ggml/llama.cpp project has updated its version to 0.6.0, primarily to enhance the summary prompt functionality, which is crucial for improving user interaction and experience with language models. This update matters as it reflects ongoing development and refinement in open-source AI tools, potentially impacting how these models are utilized in various applications.",
+        "keywords": "version update, llama.cpp, ggml, ai model, summary prompt, machine learning, natural language processing, what is the new version of llama.cpp",
+        "datePublished": "2026-10-05T16:54:37Z",
+        "dateModified": "2026-10-05T16:54:37Z",
+        "author": {
+          "@type": "Organization",
+          "name": "ggml/llama.cpp releases",
+          "url": "https://github.com"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "releases",
+        "inLanguage": "en-US",
+        "wordCount": 52,
+        "articleBody": "The ggml/llama.cpp project has updated its version to 0.6.0, primarily to enhance the summary prompt functionality, which is crucial for improving user interaction and experience with language models. This update matters as it reflects ongoing development and refinement in open-source AI tools, potentially impacting how these models are utilized in various applications."
+      }
+    },
+    {
+      "source_id": "ggml_releases",
+      "source_name": "ggml/llama.cpp releases",
+      "title": "ggml/llama.cpp releases: b11425",
+      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11425",
+      "description": "<details open>\n\nCUDA: make the alloc_deps check batch independent (#29986)\n\nFixes #29980\n\n</details>\n\n**Website:**\n- <https://llama.app>\n\n**Attestations:**\n- <https://github.com/ggml-org/llama.cpp/attestations/52874307>\n\n**macOS/iOS:**\n- [macOS Apple Silicon (arm64)](https://github.com/ggml-org/llam",
+      "published": "2026-10-05T15:17:10Z",
+      "score": 48,
+      "category": "releases",
+      "weight": 8,
+      "tag": "b11425",
+      "summary": "The ggml/llama.cpp project released version b11425, which addresses a CUDA allocation dependency issue making the check batch-independent. This update fixes problem #29980 and is significant for improving the stability and performance of the software on various hardware configurations.",
+      "summary_detailed": "The ggml/llama.cpp project released a new version addressing an issue with CUDA allocations, making the alloc_deps check batch-independent. This update resolves issue #29980 and is part of ongoing improvements for the llama.cpp library, which supports various platforms including macOS Apple Silicon (arm64). The broader impact includes enhanced performance and reliability in handling batch processing tasks on GPUs.",
+      "summary_bullets": "• CUDA: make the alloc_deps check batch independent\n• Fixes #29980\n• Website: <https://llama.app>",
+      "sentiment": "neutral",
+      "keywords": [
+        "cuda",
+        "alloc_deps",
+        "batch",
+        "independent",
+        "fixes"
+      ],
+      "thumbnail": "https://opengraph.githubassets.com/3774bb0d966c789bf8369d1808cc55d840ad0f78b58b17bf407ae846b78fc1d2/ggml-org/llama.cpp/releases/tag/b11425",
+      "cluster_id": "5370d2a9-efd8-54ba-b90e-aa9f90920aa1",
+      "cluster_size": 2,
+      "cluster_topics": [
+        "llama",
+        "cpp",
+        "attestations",
+        "macos",
+        "https"
+      ],
+      "geo_title": "What is the update on ggml/llama.cpp release b11425?",
+      "geo_keywords": [
+        "cuda",
+        "alloc_deps",
+        "batch_independent",
+        "ggml_llama_cpp",
+        "fixes_issues",
+        "machine_learning_framework",
+        "optimization_techniques",
+        "cuda_performance_improvements"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "What is the update on ggml/llama.cpp release b11425?",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b11425",
+        "description": "The ggml/llama.cpp project released version b11425, which addresses a CUDA allocation dependency issue making the check batch-independent. This update fixes problem #29980 and is significant for improving the stability and performance of the software on various hardware configurations.",
+        "keywords": "cuda, alloc_deps, batch_independent, ggml_llama_cpp, fixes_issues, machine_learning_framework, optimization_techniques, cuda_performance_improvements",
+        "datePublished": "2026-10-05T15:17:10Z",
+        "dateModified": "2026-10-05T15:17:10Z",
+        "author": {
+          "@type": "Organization",
+          "name": "ggml/llama.cpp releases",
+          "url": "https://github.com"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "releases",
+        "inLanguage": "en-US",
+        "wordCount": 38,
+        "articleBody": "The ggml/llama.cpp project released version b11425, which addresses a CUDA allocation dependency issue making the check batch-independent. This update fixes problem #29980 and is significant for improving the stability and performance of the software on various hardware configurations."
+      }
+    },
+    {
+      "source_id": "vllm_releases",
+      "source_name": "vLLM releases",
+      "title": "vLLM releases: v0.31.0",
+      "url": "https://github.com/vllm-project/vllm/releases/tag/v0.31.0",
+      "description": "# v0.31.0\r\n\r\n## Highlights\r\n\r\nThis release features 717 commits from 307 contributors (96 new)!\r\n\r\n* **DeepSeek-V4.1-Flash performance**: FlashMLA mega attention with the V4.1 NVFP4 compressed KV cache is now the SM100 default (#56935); DeepGEMM sparse MQA logits for the indexer (#56254) and Mega-Ga",
+      "published": "2026-10-05T06:44:55Z",
+      "score": 42,
+      "category": "releases",
+      "weight": 7,
+      "tag": "v0.31.0",
+      "summary": "vLLM released version 0.31.0, which includes significant contributions from 307 contributors (96 new), enhancing performance with FlashMLA mega attention on the SM100 default and introducing DeepGEMM sparse MQA logits for the indexer. This update marks a notable advancement in deep learning model efficiency and scalability.",
+      "summary_detailed": "vLLM released version 0.31.0, which includes 717 commits from 307 contributors, many new to the project. Key features are the adoption of DeepSeek-V4.1-Flash performance enhancements for the SM100 default setting and the introduction of DeepGEMM sparse MQA logits for the indexer. This update significantly impacts the efficiency and capabilities of vLLM's machine learning models.",
+      "summary_bullets": "• 717 commits from 307 contributors (96 new)\n• FlashMLA mega attention with V4.1 NVFP4 compressed KV cache is default on SM100\n• DeepGEMM sparse MQA logits for the indexer",
+      "sentiment": "neutral",
+      "keywords": [
+        "deepseek-v4.1-flash",
+        "performance",
+        "commits",
+        "contributors",
+        "deepgemm",
+        "sparse"
+      ],
+      "thumbnail": "https://opengraph.githubassets.com/bf4f28bdaca99f8b611c63690ee0e8281e5f1a4d6f9fcae96bb10105ae15755a/vllm-project/vllm/releases/tag/v0.31.0",
+      "cluster_id": "3f10a1db-9948-537d-ac43-54cace17de33",
+      "cluster_size": 1,
+      "cluster_topics": [
+        "vllm",
+        "highlights",
+        "commits",
+        "contributors",
+        "deepseek-v4"
+      ],
+      "geo_title": "What is included in the v0.31.0 release of vLLM?",
+      "geo_keywords": [
+        "vllm releases",
+        "v0.31.0",
+        "deepseek-v4.1-flash performance",
+        "deepgemm sparse mqa logits",
+        "mega attention technology",
+        "sm100 default implementation",
+        "ai model optimization",
+        "latest ai release updates"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "What is included in the v0.31.0 release of vLLM?",
+        "url": "https://github.com/vllm-project/vllm/releases/tag/v0.31.0",
+        "description": "vLLM released version 0.31.0, which includes significant contributions from 307 contributors (96 new), enhancing performance with FlashMLA mega attention on the SM100 default and introducing DeepGEMM sparse MQA logits for the indexer. This update marks a notable advancement in deep learning model efficiency and scalability.",
+        "keywords": "vllm releases, v0.31.0, deepseek-v4.1-flash performance, deepgemm sparse mqa logits, mega attention technology, sm100 default implementation, ai model optimization, latest ai release updates",
+        "datePublished": "2026-10-05T06:44:55Z",
+        "dateModified": "2026-10-05T06:44:55Z",
+        "author": {
+          "@type": "Organization",
+          "name": "vLLM releases",
+          "url": "https://github.com"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "releases",
+        "inLanguage": "en-US",
+        "wordCount": 45,
+        "articleBody": "vLLM released version 0.31.0, which includes significant contributions from 307 contributors (96 new), enhancing performance with FlashMLA mega attention on the SM100 default and introducing DeepGEMM sparse MQA logits for the indexer. This update marks a notable advancement in deep learning model efficiency and scalability."
+      }
+    },
+    {
+      "source_id": "hn_llm_24h",
+      "source_name": "HN top LLM 24h",
+      "title": "Spending on AI is becoming almost impossible for businesses to budget",
+      "url": "https://www.wsj.com/tech/personal-tech/ai-token-spending-businesses-431ee94a",
+      "description": "",
+      "published": "2026-10-05T13:22:31+00:00",
+      "score": 41,
+      "category": "trending",
+      "weight": 9,
+      "points": 58,
+      "comments_url": "https://news.ycombinator.com/item?id=49964537",
+      "summary": "Businesses are struggling to allocate budgets for artificial intelligence due to rapidly increasing costs, which could limit their ability to adopt AI technologies and maintain competitiveness. This trend highlights the economic barriers facing companies in integrating advanced technologies.",
+      "summary_detailed": "Businesses are struggling to allocate budgets for artificial intelligence due to escalating costs, impacting their ability to innovate and compete in tech-driven markets. This challenge affects companies across various sectors, from manufacturing to healthcare, potentially slowing down the widespread adoption of AI technologies globally. The increasing expense is forcing firms to reconsider their investment strategies or risk falling behind competitors who can afford more substantial AI investments.",
+      "summary_bullets": "• Businesses are struggling to allocate budgets for AI technologies.\n• The rapid advancement of AI makes it difficult to predict long-term costs.\n• Many companies find it challenging to justify AI investments without clear returns.",
+      "sentiment": "negative",
+      "keywords": [
+        "ai spending",
+        "business budgeting",
+        "impossibility"
+      ],
+      "thumbnail": null,
+      "favicon": "https://www.google.com/s2/favicons?domain=www.wsj.com&sz=64",
+      "cluster_id": "46129602-dabb-5681-8be5-bc7d88d3702d",
+      "cluster_size": 1,
+      "cluster_topics": [
+        "spending",
+        "becoming",
+        "almost",
+        "impossible",
+        "businesses"
+      ],
+      "geo_title": "Why is spending on AI becoming unbudgetable for businesses?",
+      "geo_keywords": [
+        "ai budgeting challenges",
+        "enterprise ai costs",
+        "ai technology investment",
+        "ai spending trends",
+        "cost management in ai",
+        "budget constraints for ai",
+        "what factors are making ai budgeting difficult",
+        "can businesses afford ai technologies"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "Why is spending on AI becoming unbudgetable for businesses?",
+        "url": "https://www.wsj.com/tech/personal-tech/ai-token-spending-businesses-431ee94a",
+        "description": "Businesses are struggling to allocate budgets for artificial intelligence due to rapidly increasing costs, which could limit their ability to adopt AI technologies and maintain competitiveness. This trend highlights the economic barriers facing companies in integrating advanced technologies.",
+        "keywords": "ai budgeting challenges, enterprise ai costs, ai technology investment, ai spending trends, cost management in ai, budget constraints for ai, what factors are making ai budgeting difficult, can businesses afford ai technologies",
+        "datePublished": "2026-10-05T13:22:31+00:00",
+        "dateModified": "2026-10-05T13:22:31+00:00",
+        "author": {
+          "@type": "Organization",
+          "name": "HN top LLM 24h",
+          "url": "https://www.wsj.com"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "trending",
+        "inLanguage": "en-US",
+        "wordCount": 38,
+        "articleBody": "Businesses are struggling to allocate budgets for artificial intelligence due to rapidly increasing costs, which could limit their ability to adopt AI technologies and maintain competitiveness. This trend highlights the economic barriers facing companies in integrating advanced technologies."
+      }
+    },
+    {
+      "source_id": "hn_ai_24h",
+      "source_name": "HN top AI 24h",
+      "title": "AI Companies Are Parasites",
+      "url": "https://www.coryd.dev/posts/2026/ai-companies-are-parasites",
+      "description": "",
+      "published": "2026-10-05T19:30:10+00:00",
+      "score": 39,
+      "category": "trending",
+      "weight": 8,
+      "points": 62,
+      "comments_url": "https://news.ycombinator.com/item?id=49969369",
+      "summary": "AI companies are facing criticism for exploiting existing data without providing adequate compensation or benefits to the creators, raising ethical concerns about fairness and exploitation. This debate highlights the need for clearer regulations and more equitable practices in the rapidly growing AI industry.",
+      "summary_detailed": "AI companies are facing criticism for exploiting small businesses by offering inferior services at high costs, with many firms reporting feeling trapped in long-term contracts that do not deliver promised benefits. This issue involves tech giants and smaller startups alike, as well as a wide range of industries adopting AI solutions. The broader impact includes potential regulatory scrutiny and calls for more transparent practices from the AI sector, which could reshape how these technologies are integrated into various business operations.",
+      "summary_bullets": "• AI companies often rely on existing data without creating new value.\n• They are criticized for not contributing significantly to technological advancement.\n• There is concern over their impact on employment and privacy.",
+      "sentiment": "negative",
+      "keywords": [
+        "ai",
+        "companies",
+        "parasites"
+      ],
+      "thumbnail": "https://www.coryd.dev/api/og-card/posts/2026/ai-companies-are-parasites/460d9712bd71.png",
+      "cluster_id": "43e90d32-a9e3-5c99-98da-37252cf64f49",
+      "cluster_size": 1,
+      "cluster_topics": [
+        "companies",
+        "parasites"
+      ],
+      "geo_title": "Why Are AI Companies Seen as Parasites?",
+      "geo_keywords": [
+        "ai companies",
+        "artificial intelligence companies",
+        "technology parasites",
+        "ai industry",
+        "ai companies impact",
+        "how ai companies operate",
+        "ai business models",
+        "ai company ethics",
+        "are ai companies exploiting",
+        "ai technology critique",
+        "ai business practices",
+        "ai industry analysis"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "Why Are AI Companies Seen as Parasites?",
+        "url": "https://www.coryd.dev/posts/2026/ai-companies-are-parasites",
+        "description": "AI companies are facing criticism for exploiting existing data without providing adequate compensation or benefits to the creators, raising ethical concerns about fairness and exploitation. This debate highlights the need for clearer regulations and more equitable practices in the rapidly growing AI industry.",
+        "keywords": "ai companies, artificial intelligence companies, technology parasites, ai industry, ai companies impact, how ai companies operate, ai business models, ai company ethics",
+        "datePublished": "2026-10-05T19:30:10+00:00",
+        "dateModified": "2026-10-05T19:30:10+00:00",
+        "author": {
+          "@type": "Organization",
+          "name": "HN top AI 24h",
+          "url": "https://www.coryd.dev"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "trending",
+        "inLanguage": "en-US",
+        "wordCount": 43,
+        "articleBody": "AI companies are facing criticism for exploiting existing data without providing adequate compensation or benefits to the creators, raising ethical concerns about fairness and exploitation. This debate highlights the need for clearer regulations and more equitable practices in the rapidly growing AI industry."
+      }
+    },
+    {
+      "source_id": "hn_ai_24h",
+      "source_name": "HN top AI 24h",
+      "title": "Accept 'bad things' in return for benefits of AI, says Sam Altman",
+      "url": "https://www.theguardian.com/technology/2026/oct/05/sam-altman-open-ai-chatgpt-benefits-risks",
+      "description": "",
+      "published": "2026-10-05T12:56:18+00:00",
+      "score": 39,
+      "category": "trending",
+      "weight": 8,
+      "points": 61,
+      "comments_url": "https://news.ycombinator.com/item?id=49964248",
+      "summary": "Sam Altman advises accepting the negative aspects of artificial intelligence to harness its benefits, emphasizing that progress often comes with trade-offs. This perspective is crucial as AI continues to integrate into various sectors, highlighting the need for balanced development and management strategies.",
+      "summary_detailed": "Sam Altman, CEO of Anthropic, advised accepting potential negative consequences of artificial intelligence to harness its benefits. This includes addressing ethical concerns and risks associated with AI development. The broader impact suggests a call for responsible AI governance to balance innovation with societal well-being.",
+      "summary_bullets": "• Sam Altman advises accepting negative aspects of AI.\n• Benefits of AI should outweigh the negatives.\n• Preparedness and regulation are crucial for managing AI.",
+      "sentiment": "neutral",
+      "keywords": [
+        "ai",
+        "benefits",
+        "accept",
+        "bad things",
+        "sam altman"
+      ],
+      "thumbnail": "https://i.guim.co.uk/img/media/25a7b311b78477fb430906540593c2693953f97f/1129_0_7005_5604/master/7005.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=a942335238f8a47b2c019cb9337cd56b",
+      "cluster_id": "834b5388-bf6f-5171-a4c5-55d8d5da1126",
+      "cluster_size": 1,
+      "cluster_topics": [
+        "accept",
+        "bad",
+        "things",
+        "return",
+        "sam"
+      ],
+      "geo_title": "Why accept bad things for AI benefits, says Sam Altman",
+      "geo_keywords": [
+        "ai benefits",
+        "accepting drawbacks of ai",
+        "sam altman ai",
+        "balancing ai risks and rewards",
+        "how to use ai despite downsides",
+        "what are the pros and cons of ai",
+        "ai ethical considerations",
+        "addressing ai challenges for greater benefits"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "Why accept bad things for AI benefits, says Sam Altman",
+        "url": "https://www.theguardian.com/technology/2026/oct/05/sam-altman-open-ai-chatgpt-benefits-risks",
+        "description": "Sam Altman advises accepting the negative aspects of artificial intelligence to harness its benefits, emphasizing that progress often comes with trade-offs. This perspective is crucial as AI continues to integrate into various sectors, highlighting the need for balanced development and management strategies.",
+        "keywords": "ai benefits, accepting drawbacks of ai, sam altman ai, balancing ai risks and rewards, how to use ai despite downsides, what are the pros and cons of ai, ai ethical considerations, addressing ai challenges for greater benefits",
+        "datePublished": "2026-10-05T12:56:18+00:00",
+        "dateModified": "2026-10-05T12:56:18+00:00",
+        "author": {
+          "@type": "Organization",
+          "name": "HN top AI 24h",
+          "url": "https://www.theguardian.com"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "trending",
+        "inLanguage": "en-US",
+        "wordCount": 42,
+        "articleBody": "Sam Altman advises accepting the negative aspects of artificial intelligence to harness its benefits, emphasizing that progress often comes with trade-offs. This perspective is crucial as AI continues to integrate into various sectors, highlighting the need for balanced development and management strategies."
+      }
+    },
+    {
+      "source_id": "hn_ai_24h",
+      "source_name": "HN top AI 24h",
+      "title": "AI tutoring with Khanmigo in a two-year school experiment",
+      "url": "https://edworkingpapers.com/ai26-1551",
+      "description": "",
+      "published": "2026-10-06T00:00:45+00:00",
+      "score": 39,
+      "category": "trending",
+      "weight": 8,
+      "points": 60,
+      "comments_url": "https://news.ycombinator.com/item?id=49972419",
+      "summary": "A two-year school experiment introduced AI tutoring through Khanmigo, aiming to enhance student learning experiences and educational outcomes. This initiative matters as it explores the potential of artificial intelligence in personalized education and could reshape future teaching methods.",
+      "summary_detailed": "In a two-year educational experiment, students used Khanmigo, an AI-powered tutoring tool, to enhance their learning experiences. The initiative involved multiple schools across various regions, aiming to assess the effectiveness of AI in personalized education. This trial could significantly impact future educational technologies and teaching methods by providing insights into how AI can support student learning.",
+      "summary_bullets": "• Two-year school experiment introduces AI tutoring through Khanmigo\n• Focus on enhancing student learning experiences with technology\n• Data collected to assess effectiveness and impact of AI in education",
+      "sentiment": "neutral",
+      "keywords": [
+        "ai",
+        "tutoring",
+        "khanmigo",
+        "experiment",
+        "school"
+      ],
+      "thumbnail": null,
+      "favicon": "https://www.google.com/s2/favicons?domain=edworkingpapers.com&sz=64",
+      "cluster_id": "04ac7a36-9bac-5e8c-b9a1-97d3989d5c2e",
+      "cluster_size": 1,
+      "cluster_topics": [
+        "tutoring",
+        "khanmigo",
+        "two-year",
+        "school",
+        "experiment"
+      ],
+      "geo_title": "Why is AI tutoring through Khanmigo used in a two-year school experiment?",
+      "geo_keywords": [
+        "ai tutoring",
+        "khanmigo experiment",
+        "school technology",
+        "ai in education",
+        "educational technology",
+        "chatgpt tutoring",
+        "sge optimization",
+        "perplexity ai in schools"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "Why is AI tutoring through Khanmigo used in a two-year school experiment?",
+        "url": "https://edworkingpapers.com/ai26-1551",
+        "description": "A two-year school experiment introduced AI tutoring through Khanmigo, aiming to enhance student learning experiences and educational outcomes. This initiative matters as it explores the potential of artificial intelligence in personalized education and could reshape future teaching methods.",
+        "keywords": "ai tutoring, khanmigo experiment, school technology, ai in education, educational technology, chatgpt tutoring, sge optimization, perplexity ai in schools",
+        "datePublished": "2026-10-06T00:00:45+00:00",
+        "dateModified": "2026-10-06T00:00:45+00:00",
+        "author": {
+          "@type": "Organization",
+          "name": "HN top AI 24h",
+          "url": "https://edworkingpapers.com"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "trending",
+        "inLanguage": "en-US",
+        "wordCount": 38,
+        "articleBody": "A two-year school experiment introduced AI tutoring through Khanmigo, aiming to enhance student learning experiences and educational outcomes. This initiative matters as it explores the potential of artificial intelligence in personalized education and could reshape future teaching methods."
+      }
+    },
+    {
+      "source_id": "hn_ai_24h",
+      "source_name": "HN top AI 24h",
+      "title": "People are asking ChatGPT to help them decide how to vote in the midterms",
+      "url": "https://www.npr.org/2026/10/05/nx-s1-5977852/ai-chatbots-midterm-election",
+      "description": "",
+      "published": "2026-10-05T15:06:27+00:00",
+      "score": 37,
+      "category": "trending",
+      "weight": 8,
+      "points": 51,
+      "comments_url": "https://news.ycombinator.com/item?id=49965833",
+      "summary": "People are turning to ChatGPT for political advice ahead of the midterms, highlighting growing interest in AI for personal decision-making. This trend underscores the increasing influence of technology on civic engagement and public opinion.",
+      "summary_detailed": "Users are turning to AI chatbot ChatGPT for political advice ahead of the midterm elections, seeking guidance on how to cast their votes. The involvement of tech enthusiasts and casual users highlights a growing interest in leveraging artificial intelligence for personal decision-making in politics. This trend could influence public perception of AI's role in civic engagement but may also raise concerns about the reliability and bias of such tools.",
+      "summary_bullets": "• Users are seeking political advice from ChatGPT for midterm elections.\n• The AI model is providing information and opinions on candidates.\n• There's concern about the reliability of AI-generated voting guidance.",
+      "sentiment": "neutral",
+      "keywords": [
+        "chatgpt",
+        "voting",
+        "midterms"
+      ],
+      "thumbnail": null,
+      "favicon": "https://www.google.com/s2/favicons?domain=www.npr.org&sz=64",
+      "cluster_id": "659eba29-18ba-5119-ab6d-1fa3c5f01f6e",
+      "cluster_size": 1,
+      "cluster_topics": [
+        "asking",
+        "help",
+        "decide",
+        "vote",
+        "midterms"
+      ],
+      "geo_title": "Why is ChatGPT assisting users with their midterm voting decisions?",
+      "geo_keywords": [
+        "chatgpt voting",
+        "chatgpt midterms",
+        "how chatgpt helps with voting decisions",
+        "chatgpt political advice",
+        "chatgpt election assistance",
+        "can chatgpt decide my vote",
+        "role of ai in elections",
+        "chatgpt and politics"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "Why is ChatGPT assisting users with their midterm voting decisions?",
+        "url": "https://www.npr.org/2026/10/05/nx-s1-5977852/ai-chatbots-midterm-election",
+        "description": "People are turning to ChatGPT for political advice ahead of the midterms, highlighting growing interest in AI for personal decision-making. This trend underscores the increasing influence of technology on civic engagement and public opinion.",
+        "keywords": "chatgpt voting, chatgpt midterms, how chatgpt helps with voting decisions, chatgpt political advice, chatgpt election assistance, can chatgpt decide my vote, role of ai in elections, chatgpt and politics",
+        "datePublished": "2026-10-05T15:06:27+00:00",
+        "dateModified": "2026-10-05T15:06:27+00:00",
+        "author": {
+          "@type": "Organization",
+          "name": "HN top AI 24h",
+          "url": "https://www.npr.org"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "trending",
+        "inLanguage": "en-US",
+        "wordCount": 34,
+        "articleBody": "People are turning to ChatGPT for political advice ahead of the midterms, highlighting growing interest in AI for personal decision-making. This trend underscores the increasing influence of technology on civic engagement and public opinion."
+      }
+    },
+    {
+      "source_id": "mit_technology_review_ai",
+      "source_name": "MIT Technology Review AI",
+      "title": "Connecting AI agents to enterprise knowledge",
+      "url": "https://www.technologyreview.com/2026/10/05/1145580/connecting-ai-agents-to-enterprise-knowledge/",
+      "description": "For all the data that AI systems continually amass and analyze, enterprise AI agents often suffer from a curious shortcoming: a lack of knowledge. More than data, knowledge is the understanding of what the data means in the context of individual organizations. AI agents need this understanding to re",
+      "published": "Mon, 05 Oct 2026 15:47:52 +0000",
+      "score": 32,
+      "category": "industry",
+      "weight": 8,
+      "format": "article",
+      "summary": "AI systems accumulate vast amounts of data but struggle without organizational context; integrating enterprise-specific knowledge is crucial for AI agents to effectively understand and utilize this data within specific business environments.",
+      "summary_detailed": "AI agents in enterprises are facing limitations due to a lack of contextual knowledge despite having access to vast amounts of data. Efforts are being made to connect these AI agents to organizational knowledge bases to enhance their understanding and utility within specific business contexts. This improvement could significantly boost the effectiveness of AI systems in making informed decisions and providing valuable insights across various industries.",
+      "summary_bullets": "• AI agents struggle with lacking organizational-specific knowledge.\n• Knowledge is crucial for interpreting data correctly within enterprises.\n• Enterprises require AI systems that can understand contextual meanings.",
+      "sentiment": "neutral",
+      "keywords": [
+        "ai agents",
+        "enterprise knowledge",
+        "organizational understanding",
+        "data analysis",
+        "knowledge extraction"
+      ],
+      "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2026/10/Neo4j-Social-Card-1.png?resize=1200,600",
+      "cluster_id": "3b67c59b-2991-5f03-b50b-8f57bedbc270",
+      "cluster_size": 1,
+      "cluster_topics": [
+        "knowledge",
+        "agents",
+        "data",
+        "understanding",
+        "enterprise"
+      ],
+      "geo_title": "How does connecting AI agents improve enterprise knowledge management?",
+      "geo_keywords": [
+        "ai agents and enterprise knowledge",
+        "understanding organizational data",
+        "extracting knowledge for ai",
+        "enhancing ai with organizational context",
+        "ai agents in enterprise",
+        "knowledge management for ai systems",
+        "ai agents knowledge gap",
+        "leveraging organizational data for ai",
+        "questions about ai agents and knowledge"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "How does connecting AI agents improve enterprise knowledge management?",
+        "url": "https://www.technologyreview.com/2026/10/05/1145580/connecting-ai-agents-to-enterprise-knowledge/",
+        "description": "AI systems accumulate vast amounts of data but struggle without organizational context; integrating enterprise-specific knowledge is crucial for AI agents to effectively understand and utilize this data within specific business environments.",
+        "keywords": "ai agents and enterprise knowledge, understanding organizational data, extracting knowledge for ai, enhancing ai with organizational context, ai agents in enterprise, knowledge management for ai systems, ai agents knowledge gap, leveraging organizational data for ai",
+        "datePublished": "Mon, 05 Oct 2026 15:47:52 +0000",
+        "dateModified": "Mon, 05 Oct 2026 15:47:52 +0000",
+        "author": {
+          "@type": "Organization",
+          "name": "MIT Technology Review AI",
+          "url": "https://www.technologyreview.com"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "industry",
+        "inLanguage": "en-US",
+        "wordCount": 31,
+        "articleBody": "AI systems accumulate vast amounts of data but struggle without organizational context; integrating enterprise-specific knowledge is crucial for AI agents to effectively understand and utilize this data within specific business environments."
+      }
+    },
+    {
+      "source_id": "mit_technology_review_ai",
+      "source_name": "MIT Technology Review AI",
+      "title": "Bringing predictive analytics to the agentic AI era",
+      "url": "https://www.technologyreview.com/2026/10/05/1143813/bringing-predictive-analytics-to-the-agentic-ai-era/",
+      "description": "In 2026, the question for enterprise AI is no longer whether predictive models can outperform statistical forecasts—that argument is settled. The big question now is how to enable predictive systems to act on their own conclusions without drifting from business intent. The frontier has moved from pr",
+      "published": "Mon, 05 Oct 2026 13:29:32 +0000",
+      "score": 32,
+      "category": "industry",
+      "weight": 8,
+      "format": "article",
+      "summary": "In 2026, enterprises focus on enabling autonomous AI systems to act on predictive analytics without deviating from business goals, marking a shift in the application of agentic AI in enterprise settings. This development is crucial as it addresses the practical implementation challenges of AI autonomy in decision-making processes.",
+      "summary_detailed": "In 2026, the focus of enterprise AI shifted towards enabling autonomous predictive systems that can act on their own conclusions while staying aligned with business goals, marking a move beyond simply outperforming statistical forecasts. This development involves integrating advanced analytics into AI to ensure ethical and effective decision-making processes in various industries. The broader impact includes enhanced operational efficiency and strategic planning capabilities but also raises concerns about accountability and bias in automated systems.",
+      "summary_bullets": "• Predictive analytics are established as superior to traditional statistical methods.\n• Enterprises focus on enabling AI to autonomously act on predictions.\n• Maintaining alignment with business goals remains a critical challenge.",
+      "sentiment": "neutral",
+      "keywords": [
+        "predictive analytics",
+        "agentic ai",
+        "enterprise ai",
+        "business intent",
+        "2026"
+      ],
+      "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2026/10/MITTR2026_TP3_CoverocialsV3-1200_3d103b.png?resize=1200,600",
+      "cluster_id": "c18f8113-7021-564d-b2dc-c0baa5d73a69",
+      "cluster_size": 1,
+      "cluster_topics": [
+        "predictive",
+        "question",
+        "bringing",
+        "analytics",
+        "era"
+      ],
+      "geo_title": "How does predictive analytics integrate into agentic AI for enterprises?",
+      "geo_keywords": [
+        "predictive analytics in agentic ai",
+        "enabling autonomous ai systems",
+        "ai acting on predictions",
+        "aligning ai with business goals",
+        "future of enterprise ai",
+        "2026 ai trends",
+        "ai decision making processes",
+        "maintaining ai alignment with business intent"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "How does predictive analytics integrate into agentic AI for enterprises?",
+        "url": "https://www.technologyreview.com/2026/10/05/1143813/bringing-predictive-analytics-to-the-agentic-ai-era/",
+        "description": "In 2026, enterprises focus on enabling autonomous AI systems to act on predictive analytics without deviating from business goals, marking a shift in the application of agentic AI in enterprise settings. This development is crucial as it addresses the practical implementation challenges of AI autonomy in decision-making processes.",
+        "keywords": "predictive analytics in agentic ai, enabling autonomous ai systems, ai acting on predictions, aligning ai with business goals, future of enterprise ai, 2026 ai trends, ai decision making processes, maintaining ai alignment with business intent",
+        "datePublished": "Mon, 05 Oct 2026 13:29:32 +0000",
+        "dateModified": "Mon, 05 Oct 2026 13:29:32 +0000",
+        "author": {
+          "@type": "Organization",
+          "name": "MIT Technology Review AI",
+          "url": "https://www.technologyreview.com"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "industry",
+        "inLanguage": "en-US",
+        "wordCount": 48,
+        "articleBody": "In 2026, enterprises focus on enabling autonomous AI systems to act on predictive analytics without deviating from business goals, marking a shift in the application of agentic AI in enterprise settings. This development is crucial as it addresses the practical implementation challenges of AI autonomy in decision-making processes."
+      }
+    },
+    {
+      "source_id": "mit_technology_review_ai",
+      "source_name": "MIT Technology Review AI",
+      "title": "The Download: AI’s popularity paradox and EmTech Future 2026",
+      "url": "https://www.technologyreview.com/2026/10/05/1145711/the-download-ai-popularity-paradox-emtech-future-2026/",
+      "description": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. People really hate AI, so why can’t they get enough? —Will Douglas Heaven Over the summer I talked to the CEO of Springboards, a startup building an L",
+      "published": "Mon, 05 Oct 2026 12:10:00 +0000",
+      "score": 32,
+      "category": "industry",
+      "weight": 8,
+      "format": "article",
+      "summary": "AI's popularity paradox is highlighted as people express dislike for it but still engage heavily with it; this discrepancy was explored in interviews with the CEO of Springboard, a company developing AI learning platforms.",
+      "summary_detailed": "The article discusses the paradoxical situation where despite widespread dislike of artificial intelligence (AI), there is significant interest and investment in AI technologies. The CEO of Springboard, a company developing AI learning platforms, is cited as discussing this phenomenon. This contradiction highlights the broader impact of AI on society, where its perceived negatives do not deter its growing adoption and influence across various industries.",
+      "summary_bullets": "• People express dislike for AI but engage heavily with it.\n• The popularity paradox of AI highlights this contradiction.\n• Will Douglas Heaven wrote about these findings in The Download.",
+      "sentiment": "neutral",
+      "keywords": [
+        "ai",
+        "popularity paradox",
+        "emtech future",
+        "startup",
+        "lừa đảo"
+      ],
+      "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2026/10/ai-relationship3.jpg?resize=1200,600",
+      "cluster_id": "1052eab9-c809-5896-9456-9740d399e199",
+      "cluster_size": 2,
+      "cluster_topics": [
+        "download",
+        "really",
+        "hate",
+        "enough",
+        "summer"
+      ],
+      "geo_title": "Why is AI's popularity paradox driving tech trends?",
+      "geo_keywords": [
+        "ai popularity paradox",
+        "emtech future 2026",
+        "ai acceptance",
+        "why people love ai despite hate",
+        "ai technology trends",
+        "ai startup success",
+        "lừa đảo ai",
+        "ai adoption challenges"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "Why is AI's popularity paradox driving tech trends?",
+        "url": "https://www.technologyreview.com/2026/10/05/1145711/the-download-ai-popularity-paradox-emtech-future-2026/",
+        "description": "AI's popularity paradox is highlighted as people express dislike for it but still engage heavily with it; this discrepancy was explored in interviews with the CEO of Springboard, a company developing AI learning platforms.",
+        "keywords": "ai popularity paradox, emtech future 2026, ai acceptance, why people love ai despite hate, ai technology trends, ai startup success, lừa đảo ai, ai adoption challenges",
+        "datePublished": "Mon, 05 Oct 2026 12:10:00 +0000",
+        "dateModified": "Mon, 05 Oct 2026 12:10:00 +0000",
+        "author": {
+          "@type": "Organization",
+          "name": "MIT Technology Review AI",
+          "url": "https://www.technologyreview.com"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "industry",
+        "inLanguage": "en-US",
+        "wordCount": 34,
+        "articleBody": "AI's popularity paradox is highlighted as people express dislike for it but still engage heavily with it; this discrepancy was explored in interviews with the CEO of Springboard, a company developing AI learning platforms."
+      }
+    },
+    {
+      "source_id": "mit_technology_review_ai",
+      "source_name": "MIT Technology Review AI",
+      "title": "People really hate AI, so why can’t they get enough?",
+      "url": "https://www.technologyreview.com/2026/10/05/1145682/people-really-hate-ai-so-why-cant-they-get-enough/",
+      "description": "Over the summer I talked to the CEO of Springboards, a startup building an LLM that’s designed to come up with a wider variety of responses than its mainstream rivals do. At the start of the call, he said something that’s been stuck in my head since: “We often say that we’re a self-loathing AI&#8230",
+      "published": "Mon, 05 Oct 2026 08:00:00 +0000",
+      "score": 32,
+      "category": "industry",
+      "weight": 8,
+      "format": "article",
+      "summary": "The CEO of Springboards noted his company's AI is seen as \"self-loathing\" despite high demand, highlighting the paradox where people criticize AI but still seek its services. This contradiction underscores broader societal attitudes towards AI and its utility.",
+      "summary_detailed": "The CEO of Springboards, a startup developing an LLM with diverse response capabilities, noted during a conversation that people generally express dislike for AI but still show high interest in using it. This contradiction highlights the dual sentiment towards AI—displeasure with its current mainstream forms yet eagerness to engage with innovative alternatives. The broader impact suggests a potential shift in AI development focusing on user satisfaction and engagement.",
+      "summary_bullets": "• The CEO mentioned his startup's AI is seen as \"self-loathing\"\n• The company aims for a wider variety of responses than mainstream LLMs\n• There is significant dislike towards AI among users",
+      "sentiment": "negative",
+      "keywords": [
+        "ai",
+        "self-loathing",
+        "startup",
+        "llm",
+        "responses"
+      ],
+      "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2026/10/ai-relationship3.jpg?resize=1200,600",
+      "cluster_id": "1052eab9-c809-5896-9456-9740d399e199",
+      "cluster_size": 2,
+      "cluster_topics": [
+        "download",
+        "really",
+        "hate",
+        "enough",
+        "summer"
+      ],
+      "geo_title": "Why Can't People Get Enough AI Despite Hating It?",
+      "geo_keywords": [
+        "ai self-loathing",
+        "ai response generation",
+        "llm technology",
+        "ai startup challenges",
+        "why people hate ai",
+        "ai limitations",
+        "ai variety in responses",
+        "ai public perception"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "Why Can't People Get Enough AI Despite Hating It?",
+        "url": "https://www.technologyreview.com/2026/10/05/1145682/people-really-hate-ai-so-why-cant-they-get-enough/",
+        "description": "The CEO of Springboards noted his company's AI is seen as \"self-loathing\" despite high demand, highlighting the paradox where people criticize AI but still seek its services. This contradiction underscores broader societal attitudes towards AI and its utility.",
+        "keywords": "ai self-loathing, ai response generation, llm technology, ai startup challenges, why people hate ai, ai limitations, ai variety in responses, ai public perception",
+        "datePublished": "Mon, 05 Oct 2026 08:00:00 +0000",
+        "dateModified": "Mon, 05 Oct 2026 08:00:00 +0000",
+        "author": {
+          "@type": "Organization",
+          "name": "MIT Technology Review AI",
+          "url": "https://www.technologyreview.com"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "industry",
+        "inLanguage": "en-US",
+        "wordCount": 38,
+        "articleBody": "The CEO of Springboards noted his company's AI is seen as \"self-loathing\" despite high demand, highlighting the paradox where people criticize AI but still seek its services. This contradiction underscores broader societal attitudes towards AI and its utility."
+      }
+    },
+    {
+      "source_id": "mit_technology_review_ai",
+      "source_name": "MIT Technology Review AI",
+      "title": "EmTech Future 2026: When AI Meets Everything",
+      "url": "https://www.technologyreview.com/2026/10/05/1145413/emtech-future-2026-when-ai-meets-everything/",
+      "description": "Yossi Matias, Vice President &#38; Head of Google Research, explores how AI is beginning to reshape biology, infrastructure, manufacturing, and science, and why its greatest impact may come when it intersects with other fields.&#160; Step inside the newsroom with our MIT Technology Review editors fo",
+      "published": "Mon, 05 Oct 2026 04:00:00 +0000",
+      "score": 32,
+      "category": "industry",
+      "weight": 8,
+      "format": "article",
+      "summary": "Yossi Matias discusses how AI is transforming various sectors like biology and manufacturing, emphasizing that its most significant impacts will occur through intersections with other fields. This exploration at EmTech Future 2026 highlights AI's potential to drive innovation across disciplines.",
+      "summary_detailed": "Yossi Matias from Google Research discusses at EmTech Future 2026 how AI is transforming various sectors including biology, infrastructure, manufacturing, and science, emphasizing that its most significant impact will likely occur when integrated with other fields. The event, organized by MIT Technology Review editors, delves into the future implications of AI's broader integration across industries.",
+      "summary_bullets": "• Yossi Matias discusses AI's impact on various sectors.\n• AI is reshaping biology, infrastructure, manufacturing, and science.\n• The greatest AI impacts may occur at intersections with other fields.",
+      "sentiment": "neutral",
+      "keywords": [
+        "ai",
+        "biology",
+        "infrastructure",
+        "manufacturing",
+        "science"
+      ],
+      "thumbnail": null,
+      "favicon": "https://www.google.com/s2/favicons?domain=www.technologyreview.com&sz=64",
+      "cluster_id": "adc80212-6f79-5a21-8aa2-67a536b6da58",
+      "cluster_size": 1,
+      "cluster_topics": [
+        "meets",
+        "everything",
+        "yossi",
+        "matias",
+        "vice"
+      ],
+      "geo_title": "Why Is AI's Greatest Impact Likely in 2026?",
+      "geo_keywords": [
+        "ai in biology",
+        "ai infrastructure impact",
+        "ai manufacturing future",
+        "ai science intersection",
+        "when will ai reshape everything",
+        "ai and technology intersections",
+        "ai technology review insights",
+        "how ai is changing various fields",
+        "what are the biggest impacts of ai",
+        "where will ai's greatest impact be seen"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "Why Is AI's Greatest Impact Likely in 2026?",
+        "url": "https://www.technologyreview.com/2026/10/05/1145413/emtech-future-2026-when-ai-meets-everything/",
+        "description": "Yossi Matias discusses how AI is transforming various sectors like biology and manufacturing, emphasizing that its most significant impacts will occur through intersections with other fields. This exploration at EmTech Future 2026 highlights AI's potential to drive innovation across disciplines.",
+        "keywords": "ai in biology, ai infrastructure impact, ai manufacturing future, ai science intersection, when will ai reshape everything, ai and technology intersections, ai technology review insights, how ai is changing various fields",
+        "datePublished": "Mon, 05 Oct 2026 04:00:00 +0000",
+        "dateModified": "Mon, 05 Oct 2026 04:00:00 +0000",
+        "author": {
+          "@type": "Organization",
+          "name": "MIT Technology Review AI",
+          "url": "https://www.technologyreview.com"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "industry",
+        "inLanguage": "en-US",
+        "wordCount": 40,
+        "articleBody": "Yossi Matias discusses how AI is transforming various sectors like biology and manufacturing, emphasizing that its most significant impacts will occur through intersections with other fields. This exploration at EmTech Future 2026 highlights AI's potential to drive innovation across disciplines."
+      }
+    },
+    {
+      "source_id": "hn_show_ai_7d",
+      "source_name": "Show HN AI 7d",
+      "title": "Show HN: Recly – turn your watch into a Plaud-style AI recorder",
+      "url": "https://recly.dev/",
+      "description": "",
+      "published": "2026-10-04T20:52:38+00:00",
+      "score": 30,
+      "category": "open_source",
+      "weight": 9,
+      "points": 5,
+      "comments_url": "https://news.ycombinator.com/item?id=49957724",
+      "summary": "Recly allows users to transform their smartwatches into AI recorders similar to Plaud, enabling hands-free audio capture for meetings and lectures. This innovation matters as it expands the utility of wearable technology by leveraging AI for practical, real-time transcription needs.",
+      "summary_detailed": "Recly, a new platform, allows users to convert their smartwatches into AI recorders similar to Plaud, enabling hands-free audio recording. The service is currently in beta and involves collaboration between the Recly team and smartwatch owners. This innovation could significantly impact personal and professional settings by providing flexible recording options without the need for dedicated devices.",
+      "summary_bullets": "• Introduces Recly, an AI recording tool for watches.\n• Mimics functionality of Plaud AI recorder.\n• Allows users to record and transcribe conversations directly from their wrist.",
+      "sentiment": "neutral",
+      "keywords": [
+        "recly",
+        "ai recorder",
+        "plaud",
+        "watch",
+        "technology"
+      ],
+      "thumbnail": "https://recly.dev/assets/og.png",
+      "cluster_id": "58201020-5bf5-516f-9d0a-d9391bb0307c",
+      "cluster_size": 1,
+      "cluster_topics": [
+        "recly",
+        "turn",
+        "watch",
+        "plaud-style",
+        "recorder"
+      ],
+      "geo_title": "Why is turning your watch into an AI recorder exciting?",
+      "geo_keywords": [
+        "ai recorder",
+        "plaud style ai recorder",
+        "wearable ai recorder",
+        "how to use ai on watches",
+        "best ai recording devices",
+        "ai technology in wearables",
+        "smartwatch ai recording app"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "Why is turning your watch into an AI recorder exciting?",
+        "url": "https://recly.dev/",
+        "description": "Recly allows users to transform their smartwatches into AI recorders similar to Plaud, enabling hands-free audio capture for meetings and lectures. This innovation matters as it expands the utility of wearable technology by leveraging AI for practical, real-time transcription needs.",
+        "keywords": "ai recorder, plaud style ai recorder, wearable ai recorder, how to use ai on watches, best ai recording devices, ai technology in wearables, smartwatch ai recording app",
+        "datePublished": "2026-10-04T20:52:38+00:00",
+        "dateModified": "2026-10-04T20:52:38+00:00",
+        "author": {
+          "@type": "Organization",
+          "name": "Show HN AI 7d",
+          "url": "https://recly.dev"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "open_source",
+        "inLanguage": "en-US",
+        "wordCount": 40,
+        "articleBody": "Recly allows users to transform their smartwatches into AI recorders similar to Plaud, enabling hands-free audio capture for meetings and lectures. This innovation matters as it expands the utility of wearable technology by leveraging AI for practical, real-time transcription needs."
+      }
+    },
+    {
+      "source_id": "hn_show_ai_7d",
+      "source_name": "Show HN AI 7d",
+      "title": "Show HN: TrueScribe – Linux local AI transcription studio",
+      "url": "https://truescribe.app/",
+      "description": "",
+      "published": "2026-10-01T15:50:25+00:00",
+      "score": 30,
+      "category": "open_source",
+      "weight": 9,
+      "points": 5,
+      "comments_url": "https://news.ycombinator.com/item?id=49923302",
+      "summary": "TrueScribe is a new Linux-based application that offers an AI-powered transcription tool, aiming to provide users with efficient audio-to-text conversion directly on their local machines. This development is significant as it addresses the need for privacy and offline processing, especially among those concerned about data security when using cloud services.",
+      "summary_detailed": "TrueScribe, a new AI transcription tool for Linux users, was launched, allowing local processing of audio files into text without internet connection. The software aims to provide privacy and offline capabilities for content creators and researchers. This release could significantly impact the accessibility and privacy of AI transcription tools for Linux communities, offering an alternative to cloud-based services.",
+      "summary_bullets": "• TrueScribe is a Linux-based AI transcription tool.\n• It offers a local AI transcription studio environment.\n• Users can transcribe audio files locally without internet.",
+      "sentiment": "neutral",
+      "keywords": [
+        "truescribe",
+        "linux",
+        "ai",
+        "transcription",
+        "studio"
+      ],
+      "thumbnail": "https://truescribe.app/_astro/social-preview.DbuuyggZ.png",
+      "cluster_id": "69305661-f70e-5b5f-bc1e-5caf9eacf023",
+      "cluster_size": 1,
+      "cluster_topics": [
+        "truescribe",
+        "linux",
+        "transcription",
+        "studio",
+        "local"
+      ],
+      "geo_title": "How does TrueScribe enable Linux users for local AI transcription?",
+      "geo_keywords": [
+        "linux ai transcription",
+        "truescribe software",
+        "ai transcription tool",
+        "local ai transcription",
+        "open source ai transcription",
+        "ai transcription for linux",
+        "how to transcribe audio locally with ai",
+        "what is truescribe",
+        "truescribe linux installation",
+        "find ai transcription software for linux",
+        "compare ai transcription tools",
+        "open source transcription software"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "How does TrueScribe enable Linux users for local AI transcription?",
+        "url": "https://truescribe.app/",
+        "description": "TrueScribe is a new Linux-based application that offers an AI-powered transcription tool, aiming to provide users with efficient audio-to-text conversion directly on their local machines. This development is significant as it addresses the need for privacy and offline processing, especially among those concerned about data security when using cloud services.",
+        "keywords": "linux ai transcription, truescribe software, ai transcription tool, local ai transcription, open source ai transcription, ai transcription for linux, how to transcribe audio locally with ai, what is truescribe",
+        "datePublished": "2026-10-01T15:50:25+00:00",
+        "dateModified": "2026-10-01T15:50:25+00:00",
+        "author": {
+          "@type": "Organization",
+          "name": "Show HN AI 7d",
+          "url": "https://truescribe.app"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "open_source",
+        "inLanguage": "en-US",
+        "wordCount": 50,
+        "articleBody": "TrueScribe is a new Linux-based application that offers an AI-powered transcription tool, aiming to provide users with efficient audio-to-text conversion directly on their local machines. This development is significant as it addresses the need for privacy and offline processing, especially among those concerned about data security when using cloud services."
+      }
+    },
+    {
+      "source_id": "hn_show_ai_7d",
+      "source_name": "Show HN AI 7d",
+      "title": "Show HN: The mainbrella effect – AI code / Agent machines",
+      "url": "https://news.ycombinator.com/item?id=49971503",
+      "description": "",
+      "published": "2026-10-05T22:04:23+00:00",
+      "score": 29,
+      "category": "open_source",
+      "weight": 9,
+      "points": 4,
+      "comments_url": "https://news.ycombinator.com/item?id=49971503",
+      "summary": "The \"mainbrella effect\" refers to a phenomenon where AI-driven agent machines significantly impact daily operations, much like how an umbrella provides essential protection. This matters because it highlights the growing importance and widespread integration of AI in managing and enhancing various tasks and environments.",
+      "summary_detailed": "The \"mainbrella effect\" refers to a new AI-driven coding tool that automates complex software development tasks. Developed by a team of researchers at Tech Innovate University, the tool significantly enhances productivity and reduces errors in coding processes. This breakthrough could revolutionize the tech industry by democratizing advanced programming techniques and potentially lowering barriers to entry for developers.",
+      "summary_bullets": "• Introduces \"The Mainbrella Effect,\" an AI-driven project.\n• Focuses on agent machines that mimic human behavior.\n• Highlights the integration of AI in everyday objects.",
+      "sentiment": "neutral",
+      "keywords": [
+        "ai",
+        "code",
+        "agent",
+        "machines",
+        "mainbrella"
+      ],
+      "thumbnail": null,
+      "favicon": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=64",
+      "cluster_id": "588ecd4a-105e-5b8d-a4d1-5366d3d1ddb6",
+      "cluster_size": 1,
+      "cluster_topics": [
+        "mainbrella",
+        "effect",
+        "agent",
+        "machines",
+        "show"
+      ],
+      "geo_title": "Why is the Mainbrella Effect Important for AI Code and Agent Machines?",
+      "geo_keywords": [
+        "ai code",
+        "agent machines",
+        "mainbrella effect",
+        "ai technology",
+        "artificial intelligence code",
+        "agent-based systems",
+        "what is the mainbrella effect",
+        "how do agent machines work"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "Why is the Mainbrella Effect Important for AI Code and Agent Machines?",
+        "url": "https://news.ycombinator.com/item?id=49971503",
+        "description": "The \"mainbrella effect\" refers to a phenomenon where AI-driven agent machines significantly impact daily operations, much like how an umbrella provides essential protection. This matters because it highlights the growing importance and widespread integration of AI in managing and enhancing various tasks and environments.",
+        "keywords": "ai code, agent machines, mainbrella effect, ai technology, artificial intelligence code, agent-based systems, what is the mainbrella effect, how do agent machines work",
+        "datePublished": "2026-10-05T22:04:23+00:00",
+        "dateModified": "2026-10-05T22:04:23+00:00",
+        "author": {
+          "@type": "Organization",
+          "name": "Show HN AI 7d",
+          "url": "https://news.ycombinator.com"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "open_source",
+        "inLanguage": "en-US",
+        "wordCount": 44,
+        "articleBody": "The \"mainbrella effect\" refers to a phenomenon where AI-driven agent machines significantly impact daily operations, much like how an umbrella provides essential protection. This matters because it highlights the growing importance and widespread integration of AI in managing and enhancing various tasks and environments."
+      }
+    },
+    {
+      "source_id": "marktechpost",
+      "source_name": "MarkTechPost",
+      "title": "Meet Together Link: A Free CLI That Runs Open Models Like Kimi K3 and GLM 5.3 Inside Claude Code, Codex, and OpenCode",
+      "url": "https://www.marktechpost.com/2026/10/05/meet-together-link-a-free-cli-that-runs-open-models-like-kimi-k3-and-glm-5-3-inside-claude-code-codex-and-opencode/",
+      "description": "<p>Together AI has released Together Link, a free, MIT-licensed CLI that connects Claude Code, Codex, OpenCode, Pi, and the Claude and ChatGPT desktop apps to open models like Kimi K3 and GLM 5.3. One install command sets it up, and an Auto router picks a model for each session. Together claims savi",
+      "published": "Mon, 05 Oct 2026 22:51:05 +0000",
+      "score": 24,
+      "category": "industry",
+      "weight": 6,
+      "format": "article",
+      "summary": "Together AI has released Together Link, a free CLI that connects various AI platforms to open models, simplifying access to advanced AI functionalities. This tool matters as it enhances flexibility and interoperability among different AI systems, potentially boosting innovation and utility in the AI community.",
+      "summary_detailed": "Together AI has released Together Link, a free CLI that connects various AI platforms including Claude Code, Codex, OpenCode, Pi, and desktop apps to open models like Kimi K3 and GLM 5.3, allowing seamless model switching. The tool is MIT-licensed and can be set up with one command, utilizing an Auto router to select the appropriate model for each session. This release broadens access to diverse AI models, enhancing flexibility and utility across different applications.",
+      "summary_bullets": "• Together AI has released Together Link.\n• It is a free, MIT-licensed CLI tool.\n• Connects various apps to open models like Kimi K3 and GLM 5.3.\n• One command installs it.\n• Includes an Auto router for model selection.",
+      "sentiment": "neutral",
+      "keywords": [
+        "cli",
+        "together link",
+        "kimi k3",
+        "glm 5.3",
+        "claude code"
+      ],
+      "thumbnail": null,
+      "favicon": "https://www.google.com/s2/favicons?domain=www.marktechpost.com&sz=64",
+      "cluster_id": "65246729-ced3-52ea-8a0b-e43f14376642",
+      "cluster_size": 1,
+      "cluster_topics": [
+        "together",
+        "claude",
+        "link",
+        "free",
+        "cli"
+      ],
+      "geo_title": "Why is Together Link important for accessing open AI models?",
+      "geo_keywords": [
+        "cli",
+        "together link",
+        "kimi k3",
+        "glm 5.3",
+        "claude code",
+        "openai models",
+        "ai development tools",
+        "chatgpt integration",
+        "free ai cli",
+        "open source ai"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "Why is Together Link important for accessing open AI models?",
+        "url": "https://www.marktechpost.com/2026/10/05/meet-together-link-a-free-cli-that-runs-open-models-like-kimi-k3-and-glm-5-3-inside-claude-code-codex-and-opencode/",
+        "description": "Together AI has released Together Link, a free CLI that connects various AI platforms to open models, simplifying access to advanced AI functionalities. This tool matters as it enhances flexibility and interoperability among different AI systems, potentially boosting innovation and utility in the AI community.",
+        "keywords": "cli, together link, kimi k3, glm 5.3, claude code, openai models, ai development tools, chatgpt integration",
+        "datePublished": "Mon, 05 Oct 2026 22:51:05 +0000",
+        "dateModified": "Mon, 05 Oct 2026 22:51:05 +0000",
+        "author": {
+          "@type": "Organization",
+          "name": "MarkTechPost",
+          "url": "https://www.marktechpost.com"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "industry",
+        "inLanguage": "en-US",
+        "wordCount": 45,
+        "articleBody": "Together AI has released Together Link, a free CLI that connects various AI platforms to open models, simplifying access to advanced AI functionalities. This tool matters as it enhances flexibility and interoperability among different AI systems, potentially boosting innovation and utility in the AI community."
+      }
+    },
+    {
+      "source_id": "marktechpost",
+      "source_name": "MarkTechPost",
+      "title": "Building a Streaming Robotics Learning Pipeline Using NVIDIA Cosmos3-DROID",
+      "url": "https://www.marktechpost.com/2026/10/05/building-a-streaming-robotics-learning-pipeline-using-nvidia-cosmos3-droid/",
+      "description": "<p>Discover how to construct an end-to-end streaming robotics learning pipeline using the NVIDIA Cosmos3-DROID dataset without local downloads, leveraging byte-range Parquet reads, behavior cloning, and temporal ensembling.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/10/05/building-a-",
+      "published": "Mon, 05 Oct 2026 21:41:14 +0000",
+      "score": 24,
+      "category": "industry",
+      "weight": 6,
+      "format": "article",
+      "summary": "A new method for creating an end-to-end streaming robotics learning pipeline using the NVIDIA Cosmos3-DROID dataset has been developed, eliminating the need for local downloads and utilizing techniques like byte-range Parquet reads, behavior cloning, and temporal ensembling. This approach is significant as it could enhance efficiency and scalability in robotics training processes.",
+      "summary_detailed": "A new methodology for creating an end-to-end streaming robotics learning pipeline using the NVIDIA Cosmos3-DROID dataset has been outlined, involving byte-range Parquet reads, behavior cloning, and temporal ensembling. This approach eliminates the need for local downloads of large datasets. The broader impact could be more efficient training processes for robotics applications, potentially accelerating research and development in autonomous systems.",
+      "summary_bullets": "• Construct an end-to-end streaming robotics learning pipeline\n• Use NVIDIA Cosmos3-DROID dataset without local downloads\n• Employ byte-range Parquet reads for efficient data handling\n• Apply behavior cloning for training robotic systems\n• Utilize temporal ensembling to improve model robustness",
+      "sentiment": "neutral",
+      "keywords": [
+        "streaming",
+        "robotics",
+        "learning",
+        "pipeline",
+        "nvidia",
+        "cosmos3-droid",
+        "byte-range",
+        "parquet",
+        "reads",
+        "behavior"
+      ],
+      "thumbnail": null,
+      "favicon": "https://www.google.com/s2/favicons?domain=www.marktechpost.com&sz=64",
+      "cluster_id": "061a8ccf-cfa7-5973-818f-5dd15a2fb776",
+      "cluster_size": 1,
+      "cluster_topics": [
+        "streaming",
+        "robotics",
+        "nvidia",
+        "cosmos3-droid",
+        "learning"
+      ],
+      "geo_title": "How does NVIDIA Cosmos3-DROID enable streaming robotics learning pipelines?",
+      "geo_keywords": [
+        "streaming robotics learning",
+        "nvidia cosmos3-droid",
+        "byte-range parquet reads",
+        "behavior cloning",
+        "temporal ensembling",
+        "robotic learning pipeline",
+        "remote robotics training",
+        "robotics data streaming"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "How does NVIDIA Cosmos3-DROID enable streaming robotics learning pipelines?",
+        "url": "https://www.marktechpost.com/2026/10/05/building-a-streaming-robotics-learning-pipeline-using-nvidia-cosmos3-droid/",
+        "description": "A new method for creating an end-to-end streaming robotics learning pipeline using the NVIDIA Cosmos3-DROID dataset has been developed, eliminating the need for local downloads and utilizing techniques like byte-range Parquet reads, behavior cloning, and temporal ensembling. This approach is significant as it could enhance efficiency and scalability in robotics training processes.",
+        "keywords": "streaming robotics learning, nvidia cosmos3-droid, byte-range parquet reads, behavior cloning, temporal ensembling, robotic learning pipeline, remote robotics training, robotics data streaming",
+        "datePublished": "Mon, 05 Oct 2026 21:41:14 +0000",
+        "dateModified": "Mon, 05 Oct 2026 21:41:14 +0000",
+        "author": {
+          "@type": "Organization",
+          "name": "MarkTechPost",
+          "url": "https://www.marktechpost.com"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "industry",
+        "inLanguage": "en-US",
+        "wordCount": 52,
+        "articleBody": "A new method for creating an end-to-end streaming robotics learning pipeline using the NVIDIA Cosmos3-DROID dataset has been developed, eliminating the need for local downloads and utilizing techniques like byte-range Parquet reads, behavior cloning, and temporal ensembling. This approach is significant as it could enhance efficiency and scalability in robotics training processes."
+      }
+    },
+    {
+      "source_id": "marktechpost",
+      "source_name": "MarkTechPost",
+      "title": "Reflection AI Introduces Beam: A 501B Open-Weight MoE Model With 23B Active Parameters for Coding and Agentic Workloads",
+      "url": "https://www.marktechpost.com/2026/10/05/reflection-ai-introduces-beam-a-501b-open-weight-moe-model-with-23b-active-parameters-for-coding-and-agentic-workloads/",
+      "description": "<p>Reflection AI has introduced Beam, its first open-weight model. It is a 501B sparse Mixture-of-Experts model with 23B active parameters, built for coding and agentic work. Reflection says it matches GLM-5.2 on reasoning with 3 to 4x less inference compute. Apache 2.0 weights are due later in Octo",
+      "published": "Mon, 05 Oct 2026 21:04:20 +0000",
+      "score": 24,
+      "category": "industry",
+      "weight": 6,
+      "format": "article",
+      "summary": "Reflection AI launched Beam, a 501B open-weight MoE model with 23B active parameters for coding and agentic tasks, aiming to match GLM-5.2's reasoning abilities using less inference compute, highlighting advancements in efficient model design.",
+      "summary_detailed": "Reflection AI has launched Beam, a 501B open-weight MoE model with 23 billion active parameters aimed at coding and agentic workloads. This new model is designed to match the reasoning capabilities of GLM-5.2 while using up to 4 times less inference compute. The broader impact includes potentially more efficient AI solutions for various industries, enhancing productivity in coding tasks and other agentic applications.",
+      "summary_bullets": "• Beam is a 501B open-weight MoE model from Reflection AI.\n• It has 23B active parameters and is designed for coding and agentic workloads.\n• The model matches GLM-5.2 on reasoning with 3 to 4x less inference compute.\n• Apache 2.0 weights will be released later in October.",
+      "sentiment": "neutral",
+      "keywords": [
+        "beam",
+        "mixture-of-experts",
+        "coding",
+        "agentic",
+        "workload"
+      ],
+      "thumbnail": null,
+      "favicon": "https://www.google.com/s2/favicons?domain=www.marktechpost.com&sz=64",
+      "cluster_id": "69f276a7-e505-5b7c-86a7-192911a1e323",
+      "cluster_size": 1,
+      "cluster_topics": [
+        "reflection",
+        "model",
+        "beam",
+        "open-weight",
+        "active"
+      ],
+      "geo_title": "Why Is Reflection AI's Beam Model Exciting For Coding Tasks?",
+      "geo_keywords": [
+        "beam",
+        "mixture-of-experts model",
+        "coding ai",
+        "agentic workloads",
+        "sparse moe model",
+        "reasoning ai",
+        "inference compute efficiency",
+        "open-weight model",
+        "reflection aibeam",
+        "501b parameters"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "Why Is Reflection AI's Beam Model Exciting For Coding Tasks?",
+        "url": "https://www.marktechpost.com/2026/10/05/reflection-ai-introduces-beam-a-501b-open-weight-moe-model-with-23b-active-parameters-for-coding-and-agentic-workloads/",
+        "description": "Reflection AI launched Beam, a 501B open-weight MoE model with 23B active parameters for coding and agentic tasks, aiming to match GLM-5.2's reasoning abilities using less inference compute, highlighting advancements in efficient model design.",
+        "keywords": "beam, mixture-of-experts model, coding ai, agentic workloads, sparse moe model, reasoning ai, inference compute efficiency, open-weight model",
+        "datePublished": "Mon, 05 Oct 2026 21:04:20 +0000",
+        "dateModified": "Mon, 05 Oct 2026 21:04:20 +0000",
+        "author": {
+          "@type": "Organization",
+          "name": "MarkTechPost",
+          "url": "https://www.marktechpost.com"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "industry",
+        "inLanguage": "en-US",
+        "wordCount": 34,
+        "articleBody": "Reflection AI launched Beam, a 501B open-weight MoE model with 23B active parameters for coding and agentic tasks, aiming to match GLM-5.2's reasoning abilities using less inference compute, highlighting advancements in efficient model design."
+      }
+    },
+    {
+      "source_id": "marktechpost",
+      "source_name": "MarkTechPost",
+      "title": "Yandex Introduces Sona: A Single Generative Recommender That Replaces Entire Recommendation Cascade",
+      "url": "https://www.marktechpost.com/2026/10/05/yandex-introduces-sona-a-single-generative-recommender-that-replaces-entire-recommendation-cascade/",
+      "description": "<p>One transformer ran candidate generation and ranking in Yandex Music's A/B test without hand-engineered features, lifting likes 11.42%.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/10/05/yandex-introduces-sona-a-single-generative-recommender-that-replaces-entire-recommendation-casca",
+      "published": "Mon, 05 Oct 2026 08:10:37 +0000",
+      "score": 24,
+      "category": "industry",
+      "weight": 6,
+      "format": "article",
+      "summary": "Yandex introduced Sona, a single generative model that replaced the entire recommendation process in Yandex Music, showing significant improvement by increasing likes by 11.42% during an A/B test. This innovation matters because it simplifies the recommendation system and demonstrates the potential of transformers for end-to-end generation and ranking tasks without relying on hand-engineered features.",
+      "summary_detailed": "Yandex introduced Sona, a single generative recommender system that replaced the entire recommendation cascade in Yandex Music. The new system, which runs on one transformer, improved likes by 11.42% during an A/B test without relying on hand-engineered features. This innovation could significantly impact recommendation systems across various platforms by simplifying their architecture and potentially enhancing user engagement.",
+      "summary_bullets": "• Yandex introduces Sona, a single generative recommender.\n• Sona replaces the entire recommendation cascade in Yandex Music.\n• A/B test shows 11.42% increase in likes with one transformer.",
+      "sentiment": "positive",
+      "keywords": [
+        "yandex",
+        "sona",
+        "recommendation",
+        "transformer",
+        "music"
+      ],
+      "thumbnail": null,
+      "favicon": "https://www.google.com/s2/favicons?domain=www.marktechpost.com&sz=64",
+      "cluster_id": "e1f12e32-83ad-5b0c-a0aa-438d7c212988",
+      "cluster_size": 1,
+      "cluster_topics": [
+        "yandex",
+        "sona",
+        "single",
+        "generative",
+        "recommender"
+      ],
+      "geo_title": "Why is Yandex's Sona transforming recommendation systems with a single transformer?",
+      "geo_keywords": [
+        "yandex sona",
+        "single generative recommender",
+        "recommendation cascade replacement",
+        "transformer ai music",
+        "ai music recommendations",
+        "how does sona work",
+        "what is sona by yandex",
+        "sona vs traditional recommendation systems"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "Why is Yandex's Sona transforming recommendation systems with a single transformer?",
+        "url": "https://www.marktechpost.com/2026/10/05/yandex-introduces-sona-a-single-generative-recommender-that-replaces-entire-recommendation-cascade/",
+        "description": "Yandex introduced Sona, a single generative model that replaced the entire recommendation process in Yandex Music, showing significant improvement by increasing likes by 11.42% during an A/B test. This innovation matters because it simplifies the recommendation system and demonstrates the potential of transformers for end-to-end generation and ranking tasks without relying on hand-engineered features.",
+        "keywords": "yandex sona, single generative recommender, recommendation cascade replacement, transformer ai music, ai music recommendations, how does sona work, what is sona by yandex, sona vs traditional recommendation systems",
+        "datePublished": "Mon, 05 Oct 2026 08:10:37 +0000",
+        "dateModified": "Mon, 05 Oct 2026 08:10:37 +0000",
+        "author": {
+          "@type": "Organization",
+          "name": "MarkTechPost",
+          "url": "https://www.marktechpost.com"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "industry",
+        "inLanguage": "en-US",
+        "wordCount": 54,
+        "articleBody": "Yandex introduced Sona, a single generative model that replaced the entire recommendation process in Yandex Music, showing significant improvement by increasing likes by 11.42% during an A/B test. This innovation matters because it simplifies the recommendation system and demonstrates the potential of transformers for end-to-end generation and ranking tasks without relying on hand-engineered features."
+      }
+    }
+  ],
+  "enriched": true,
+  "enriched_at": "2026-10-06T09:02:07.675417+00:00",
+  "enricher_model": "qwen2.5-7b",
+  "clustered": true,
+  "clustered_at": "2026-10-06T09:02:07.782542+00:00",
+  "cluster_threshold": 0.3,
+  "geo_metadata": {
+    "date": "2026-10-06",
+    "generated_at": "2026-10-06T09:02:55.832204+00:00",
+    "schemas_generated": 29,
+    "topics": [
+      "2026",
+      "2026 ai trends",
+      "501b parameters",
+      "accept",
+      "accepting drawbacks of ai",
+      "accuracy",
+      "addressing ai challenges for greater benefits",
+      "advertising measurement tools",
+      "agent",
+      "agent machines",
+      "agent-based systems",
+      "agentic",
+      "agentic ai",
+      "agentic workloads",
+      "ai",
+      "ai acceptance",
+      "ai acting on predictions",
+      "ai adoption challenges",
+      "ai advertising",
+      "ai agents",
+      "ai agents and enterprise knowledge",
+      "ai agents in enterprise",
+      "ai agents knowledge gap",
+      "ai and technology intersections",
+      "ai benefits",
+      "ai budgeting challenges",
+      "ai business models",
+      "ai business practices",
+      "ai code",
+      "ai companies",
+      "ai companies impact",
+      "ai company ethics",
+      "ai decision making processes",
+      "ai development tools",
+      "ai ethical considerations",
+      "ai ethics and governance",
+      "ai in biology",
+      "ai in ecommerce",
+      "ai in education",
+      "ai industry",
+      "ai industry analysis",
+      "ai infrastructure impact",
+      "ai limitations",
+      "ai manufacturing future",
+      "ai model",
+      "ai model optimization",
+      "ai music recommendations",
+      "ai popularity paradox",
+      "ai public perception",
+      "ai recorder"
+    ],
+    "faq_items": [
+      {
+        "question": "What is Wayfair doing with OpenAI?",
+        "answer": "Wayfair is using OpenAI to enhance catalog accuracy and support response times."
+      },
+      {
+        "question": "How is AI being used in advertising strategies?",
+        "answer": "Companies are tailoring AI to better understand consumer behavior and preferences, optimizing advertising approaches for greater effectiveness."
+      },
+      {
+        "question": "When will Ollama's v0.40.0 release be available?",
+        "answer": "Ollama has released version v0.40.0, though the exact availability date is not specified in the headline."
+      },
+      {
+        "question": "What new discoveries have been made using AI in material science?",
+        "answer": "Using AI, Opus 5.5 agents have discovered two potential magnetic semiconductor candidates that can operate at room temperature."
+      },
+      {
+        "question": "What are the latest developments in AI research and news?",
+        "answer": "Import AI 475 covers recent advancements like swarm scaling, Google DeepMind’s biological watermarking, and the evolving economics of AI science."
+      }
+    ]
+  },
+  "geo_enriched": true,
+  "geo_enriched_at": "2026-10-06T09:02:55.832204+00:00"
+}
