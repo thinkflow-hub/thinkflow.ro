@@ -1,6 +1,6 @@
 {
   "date": "2026-10-05",
-  "generated_at": "2026-10-07T13:00:07.295969+00:00",
+  "generated_at": "2026-10-07T17:00:06.802900+00:00",
   "results": {
     "openai_blog": {
       "verification_status": "unconfirmed",
@@ -13,16 +13,16 @@
       "verification_status": "verified",
       "sources_count": 2,
       "sources": [
-        "HN top LLM 24h",
-        "ArXiv cs.CL (Computation and Language / NLP)"
+        "ArXiv cs.CL (Computation and Language / NLP)",
+        "HN top LLM 24h"
       ]
     },
     "hn_ai_24h": {
       "verification_status": "verified",
       "sources_count": 2,
       "sources": [
-        "ArXiv cs.CL (Computation and Language / NLP)",
-        "HN top AI 24h"
+        "HN top AI 24h",
+        "ArXiv cs.CL (Computation and Language / NLP)"
       ]
     },
     "ggml_releases": {
@@ -36,16 +36,16 @@
       "verification_status": "verified",
       "sources_count": 2,
       "sources": [
-        "ggml/llama.cpp releases",
-        "Import AI (Jack Clark)"
+        "Import AI (Jack Clark)",
+        "ggml/llama.cpp releases"
       ]
     },
     "vllm_releases": {
       "verification_status": "verified",
       "sources_count": 2,
       "sources": [
-        "ArXiv cs.CL (Computation and Language / NLP)",
-        "vLLM releases"
+        "vLLM releases",
+        "ArXiv cs.CL (Computation and Language / NLP)"
       ]
     },
     "arxiv_cs_cl": {
