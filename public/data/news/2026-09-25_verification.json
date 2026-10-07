@@ -1,19 +1,19 @@
 {
   "date": "2026-09-25",
-  "generated_at": "2026-10-07T05:00:05.886936+00:00",
+  "generated_at": "2026-10-07T09:14:31.184974+00:00",
   "results": {
+    "ollama_releases": {
+      "verification_status": "unconfirmed",
+      "sources_count": 1,
+      "sources": [
+        "Ollama releases"
+      ]
+    },
     "openai_blog": {
       "verification_status": "verified",
       "sources_count": 2,
       "sources": [
         "OpenAI Blog",
-        "Ollama releases"
-      ]
-    },
-    "ollama_releases": {
-      "verification_status": "unconfirmed",
-      "sources_count": 1,
-      "sources": [
         "Ollama releases"
       ]
     }

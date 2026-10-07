@@ -1,12 +1,19 @@
 {
-  "date": "2026-10-04",
+  "date": "2026-10-07",
   "generated_at": "2026-10-07T09:14:31.184974+00:00",
   "results": {
-    "hn_show_ai_7d": {
+    "trending_agent": {
       "verification_status": "unconfirmed",
       "sources_count": 1,
       "sources": [
-        "Show HN AI 7d"
+        "GitHub Trending — AI Agents"
+      ]
+    },
+    "latent_space": {
+      "verification_status": "unconfirmed",
+      "sources_count": 1,
+      "sources": [
+        "Latent Space (Substack)"
       ]
     },
     "ggml_releases": {
@@ -16,25 +23,11 @@
         "ggml/llama.cpp releases"
       ]
     },
-    "hn_ai_24h": {
+    "arxiv_cs_cl": {
       "verification_status": "unconfirmed",
       "sources_count": 1,
       "sources": [
-        "HN top AI 24h"
-      ]
-    },
-    "hn_llm_24h": {
-      "verification_status": "unconfirmed",
-      "sources_count": 1,
-      "sources": [
-        "HN top LLM 24h"
-      ]
-    },
-    "marktechpost": {
-      "verification_status": "unconfirmed",
-      "sources_count": 1,
-      "sources": [
-        "MarkTechPost"
+        "ArXiv cs.CL (Computation and Language / NLP)"
       ]
     }
   }
