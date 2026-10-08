@@ -1,19 +1,19 @@
 {
-  "date": "2026-09-25",
+  "date": "2026-10-08",
   "generated_at": "2026-10-08T09:15:43.175954+00:00",
   "results": {
-    "ollama_releases": {
+    "ggml_releases": {
       "verification_status": "unconfirmed",
       "sources_count": 1,
       "sources": [
-        "Ollama releases"
+        "ggml/llama.cpp releases"
       ]
     },
-    "openai_blog": {
+    "arxiv_cs_cl": {
       "verification_status": "unconfirmed",
       "sources_count": 1,
       "sources": [
-        "OpenAI Blog"
+        "ArXiv cs.CL (Computation and Language / NLP)"
       ]
     }
   }

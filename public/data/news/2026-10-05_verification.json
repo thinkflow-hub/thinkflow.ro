@@ -1,6 +1,6 @@
 {
   "date": "2026-10-05",
-  "generated_at": "2026-10-08T05:00:06.142894+00:00",
+  "generated_at": "2026-10-08T09:15:43.175954+00:00",
   "results": {
     "openai_blog": {
       "verification_status": "unconfirmed",
@@ -9,20 +9,18 @@
         "OpenAI Blog"
       ]
     },
-    "hn_llm_24h": {
-      "verification_status": "verified",
-      "sources_count": 2,
+    "hn_ai_24h": {
+      "verification_status": "unconfirmed",
+      "sources_count": 1,
       "sources": [
-        "HN top LLM 24h",
-        "ArXiv cs.CL (Computation and Language / NLP)"
+        "HN top AI 24h"
       ]
     },
-    "hn_ai_24h": {
-      "verification_status": "verified",
-      "sources_count": 2,
+    "import_ai": {
+      "verification_status": "unconfirmed",
+      "sources_count": 1,
       "sources": [
-        "HN top AI 24h",
-        "ArXiv cs.CL (Computation and Language / NLP)"
+        "Import AI (Jack Clark)"
       ]
     },
     "ggml_releases": {
@@ -32,27 +30,18 @@
         "ggml/llama.cpp releases"
       ]
     },
-    "import_ai": {
-      "verification_status": "verified",
-      "sources_count": 2,
-      "sources": [
-        "Import AI (Jack Clark)",
-        "ggml/llama.cpp releases"
-      ]
-    },
     "vllm_releases": {
-      "verification_status": "verified",
-      "sources_count": 2,
-      "sources": [
-        "ArXiv cs.CL (Computation and Language / NLP)",
-        "vLLM releases"
-      ]
-    },
-    "arxiv_cs_cl": {
       "verification_status": "unconfirmed",
       "sources_count": 1,
       "sources": [
-        "ArXiv cs.CL (Computation and Language / NLP)"
+        "vLLM releases"
+      ]
+    },
+    "hn_llm_24h": {
+      "verification_status": "unconfirmed",
+      "sources_count": 1,
+      "sources": [
+        "HN top LLM 24h"
       ]
     },
     "mit_technology_review_ai": {
@@ -74,13 +63,6 @@
       "sources_count": 1,
       "sources": [
         "MarkTechPost"
-      ]
-    },
-    "arxiv_cs_ai": {
-      "verification_status": "unconfirmed",
-      "sources_count": 1,
-      "sources": [
-        "ArXiv cs.AI"
       ]
     }
   }
