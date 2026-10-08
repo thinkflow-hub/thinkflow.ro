@@ -1,6 +1,6 @@
 {
   "date": "2026-10-05",
-  "generated_at": "2026-10-07T17:00:06.802900+00:00",
+  "generated_at": "2026-10-07T21:00:05.815213+00:00",
   "results": {
     "openai_blog": {
       "verification_status": "unconfirmed",
@@ -13,8 +13,8 @@
       "verification_status": "verified",
       "sources_count": 2,
       "sources": [
-        "ArXiv cs.CL (Computation and Language / NLP)",
-        "HN top LLM 24h"
+        "HN top LLM 24h",
+        "ArXiv cs.CL (Computation and Language / NLP)"
       ]
     },
     "hn_ai_24h": {
@@ -36,8 +36,8 @@
       "verification_status": "verified",
       "sources_count": 2,
       "sources": [
-        "Import AI (Jack Clark)",
-        "ggml/llama.cpp releases"
+        "ggml/llama.cpp releases",
+        "Import AI (Jack Clark)"
       ]
     },
     "vllm_releases": {
