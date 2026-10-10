@@ -1,6 +1,6 @@
 {
   "date": "2026-10-07",
-  "generated_at": "2026-10-10T05:00:04.895740+00:00",
+  "generated_at": "2026-10-10T09:14:58.351539+00:00",
   "results": {
     "openai_blog": {
       "verification_status": "unconfirmed",
@@ -37,13 +37,6 @@
         "Ollama releases"
       ]
     },
-    "trending_agent": {
-      "verification_status": "unconfirmed",
-      "sources_count": 1,
-      "sources": [
-        "GitHub Trending — AI Agents"
-      ]
-    },
     "latent_space": {
       "verification_status": "unconfirmed",
       "sources_count": 1,
@@ -63,20 +56,6 @@
       "sources_count": 1,
       "sources": [
         "Show HN AI 7d"
-      ]
-    },
-    "ggml_releases": {
-      "verification_status": "unconfirmed",
-      "sources_count": 1,
-      "sources": [
-        "ggml/llama.cpp releases"
-      ]
-    },
-    "arxiv_cs_cl": {
-      "verification_status": "unconfirmed",
-      "sources_count": 1,
-      "sources": [
-        "ArXiv cs.CL (Computation and Language / NLP)"
       ]
     }
   }
