@@ -1,12 +1,12 @@
 {
   "date": "2026-10-10",
-  "generated_at": "2026-10-11T05:00:05.367460+00:00",
+  "generated_at": "2026-10-11T09:10:04.403915+00:00",
   "results": {
-    "trending_ai": {
+    "hn_ai_24h": {
       "verification_status": "unconfirmed",
       "sources_count": 1,
       "sources": [
-        "GitHub Trending — AI"
+        "HN top AI 24h"
       ]
     },
     "latent_space": {
@@ -23,11 +23,25 @@
         "ggml/llama.cpp releases"
       ]
     },
+    "hn_llm_24h": {
+      "verification_status": "unconfirmed",
+      "sources_count": 1,
+      "sources": [
+        "HN top LLM 24h"
+      ]
+    },
     "marktechpost": {
       "verification_status": "unconfirmed",
       "sources_count": 1,
       "sources": [
         "MarkTechPost"
+      ]
+    },
+    "trending_ai": {
+      "verification_status": "unconfirmed",
+      "sources_count": 1,
+      "sources": [
+        "GitHub Trending — AI"
       ]
     }
   }
