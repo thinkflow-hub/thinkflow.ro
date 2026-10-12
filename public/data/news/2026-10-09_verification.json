@@ -1,6 +1,6 @@
 {
   "date": "2026-10-09",
-  "generated_at": "2026-10-12T05:00:06.549465+00:00",
+  "generated_at": "2026-10-12T09:16:49.876065+00:00",
   "results": {
     "openai_blog": {
       "verification_status": "unconfirmed",
@@ -42,13 +42,6 @@
       "sources_count": 1,
       "sources": [
         "MarkTechPost"
-      ]
-    },
-    "arxiv_cs_cl": {
-      "verification_status": "unconfirmed",
-      "sources_count": 1,
-      "sources": [
-        "ArXiv cs.CL (Computation and Language / NLP)"
       ]
     }
   }
