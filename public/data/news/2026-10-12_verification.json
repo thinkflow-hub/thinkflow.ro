@@ -1,7 +1,14 @@
 {
   "date": "2026-10-12",
-  "generated_at": "2026-10-14T05:00:08.598201+00:00",
+  "generated_at": "2026-10-14T09:26:42.172156+00:00",
   "results": {
+    "ollama_releases": {
+      "verification_status": "unconfirmed",
+      "sources_count": 1,
+      "sources": [
+        "Ollama releases"
+      ]
+    },
     "hn_ai_24h": {
       "verification_status": "unconfirmed",
       "sources_count": 1,
@@ -13,8 +20,8 @@
       "verification_status": "verified",
       "sources_count": 2,
       "sources": [
-        "NousResearch releases",
-        "HN top AI 24h"
+        "HN top AI 24h",
+        "NousResearch releases"
       ]
     },
     "ggml_releases": {
@@ -29,13 +36,6 @@
       "sources_count": 1,
       "sources": [
         "HN top LLM 24h"
-      ]
-    },
-    "ollama_releases": {
-      "verification_status": "unconfirmed",
-      "sources_count": 1,
-      "sources": [
-        "Ollama releases"
       ]
     },
     "latent_space": {
