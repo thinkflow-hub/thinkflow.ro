@@ -1,6 +1,6 @@
 {
   "date": "2026-10-12",
-  "generated_at": "2026-10-15T09:03:05.835348+00:00",
+  "generated_at": "2026-10-15T13:00:05.465844+00:00",
   "results": {
     "ollama_releases": {
       "verification_status": "unconfirmed",
@@ -14,21 +14,6 @@
       "sources_count": 1,
       "sources": [
         "HN top AI 24h"
-      ]
-    },
-    "nousresearch_releases": {
-      "verification_status": "verified",
-      "sources_count": 2,
-      "sources": [
-        "HN top AI 24h",
-        "NousResearch releases"
-      ]
-    },
-    "ggml_releases": {
-      "verification_status": "unconfirmed",
-      "sources_count": 1,
-      "sources": [
-        "ggml/llama.cpp releases"
       ]
     },
     "hn_llm_24h": {
@@ -52,6 +37,13 @@
         "Import AI (Jack Clark)"
       ]
     },
+    "ggml_releases": {
+      "verification_status": "unconfirmed",
+      "sources_count": 1,
+      "sources": [
+        "ggml/llama.cpp releases"
+      ]
+    },
     "mit_technology_review_ai": {
       "verification_status": "unconfirmed",
       "sources_count": 1,
@@ -71,27 +63,6 @@
       "sources_count": 1,
       "sources": [
         "MarkTechPost"
-      ]
-    },
-    "trending_llm": {
-      "verification_status": "unconfirmed",
-      "sources_count": 1,
-      "sources": [
-        "GitHub Trending — LLM"
-      ]
-    },
-    "arxiv_cs_cl": {
-      "verification_status": "unconfirmed",
-      "sources_count": 1,
-      "sources": [
-        "ArXiv cs.CL (Computation and Language / NLP)"
-      ]
-    },
-    "arxiv_cs_ai": {
-      "verification_status": "unconfirmed",
-      "sources_count": 1,
-      "sources": [
-        "ArXiv cs.AI"
       ]
     }
   }
