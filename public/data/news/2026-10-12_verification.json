@@ -1,6 +1,6 @@
 {
   "date": "2026-10-12",
-  "generated_at": "2026-10-14T17:00:09.053384+00:00",
+  "generated_at": "2026-10-14T21:00:08.084981+00:00",
   "results": {
     "ollama_releases": {
       "verification_status": "unconfirmed",
@@ -20,8 +20,8 @@
       "verification_status": "verified",
       "sources_count": 2,
       "sources": [
-        "HN top AI 24h",
-        "NousResearch releases"
+        "NousResearch releases",
+        "HN top AI 24h"
       ]
     },
     "ggml_releases": {
