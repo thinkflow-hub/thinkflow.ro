@@ -1,7 +1,14 @@
 {
   "date": "2026-10-12",
-  "generated_at": "2026-10-17T05:00:05.663585+00:00",
+  "generated_at": "2026-10-17T09:04:43.993327+00:00",
   "results": {
+    "latent_space": {
+      "verification_status": "unconfirmed",
+      "sources_count": 1,
+      "sources": [
+        "Latent Space (Substack)"
+      ]
+    },
     "ollama_releases": {
       "verification_status": "unconfirmed",
       "sources_count": 1,

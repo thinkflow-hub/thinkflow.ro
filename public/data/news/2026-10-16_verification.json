@@ -1,19 +1,41 @@
 {
   "date": "2026-10-16",
-  "generated_at": "2026-10-17T05:00:05.663064+00:00",
+  "generated_at": "2026-10-17T09:04:43.993327+00:00",
   "results": {
-    "huggingface_blog": {
+    "openai_blog": {
       "verification_status": "unconfirmed",
       "sources_count": 1,
       "sources": [
+        "OpenAI Blog"
+      ]
+    },
+    "hn_llm_24h": {
+      "verification_status": "unconfirmed",
+      "sources_count": 1,
+      "sources": [
+        "HN top LLM 24h"
+      ]
+    },
+    "huggingface_blog": {
+      "verification_status": "verified",
+      "sources_count": 2,
+      "sources": [
+        "HN top LLM 24h",
         "Hugging Face Blog"
       ]
     },
-    "latent_space": {
+    "hn_ai_24h": {
       "verification_status": "unconfirmed",
       "sources_count": 1,
       "sources": [
-        "Latent Space (Substack)"
+        "HN top AI 24h"
+      ]
+    },
+    "ollama_releases": {
+      "verification_status": "unconfirmed",
+      "sources_count": 1,
+      "sources": [
+        "Ollama releases"
       ]
     },
     "ggml_releases": {
@@ -23,11 +45,47 @@
         "ggml/llama.cpp releases"
       ]
     },
+    "huggingface_transformers_releases": {
+      "verification_status": "unconfirmed",
+      "sources_count": 1,
+      "sources": [
+        "Transformers releases"
+      ]
+    },
+    "hn_show_ai_7d": {
+      "verification_status": "unconfirmed",
+      "sources_count": 1,
+      "sources": [
+        "Show HN AI 7d"
+      ]
+    },
+    "mit_technology_review_ai": {
+      "verification_status": "unconfirmed",
+      "sources_count": 1,
+      "sources": [
+        "MIT Technology Review AI"
+      ]
+    },
+    "marktechpost": {
+      "verification_status": "verified",
+      "sources_count": 2,
+      "sources": [
+        "ArXiv cs.CL (Computation and Language / NLP)",
+        "MarkTechPost"
+      ]
+    },
     "arxiv_cs_cl": {
       "verification_status": "unconfirmed",
       "sources_count": 1,
       "sources": [
         "ArXiv cs.CL (Computation and Language / NLP)"
+      ]
+    },
+    "latent_space": {
+      "verification_status": "unconfirmed",
+      "sources_count": 1,
+      "sources": [
+        "Latent Space (Substack)"
       ]
     }
   }
