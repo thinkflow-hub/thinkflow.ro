@@ -1,6 +1,6 @@
 {
   "date": "2026-10-14",
-  "generated_at": "2026-10-17T09:04:43.993327+00:00",
+  "generated_at": "2026-10-17T13:00:05.818562+00:00",
   "results": {
     "ollama_releases": {
       "verification_status": "unconfirmed",
@@ -21,14 +21,6 @@
       "sources_count": 1,
       "sources": [
         "OpenAI Blog"
-      ]
-    },
-    "deepmind_blog": {
-      "verification_status": "verified",
-      "sources_count": 2,
-      "sources": [
-        "OpenAI Blog",
-        "DeepMind Blog"
       ]
     },
     "nousresearch_releases": {
@@ -57,13 +49,6 @@
       "sources_count": 1,
       "sources": [
         "Latent Space (Substack)"
-      ]
-    },
-    "ggml_releases": {
-      "verification_status": "unconfirmed",
-      "sources_count": 1,
-      "sources": [
-        "ggml/llama.cpp releases"
       ]
     }
   }
