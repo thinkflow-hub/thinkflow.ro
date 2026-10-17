@@ -1,6 +1,6 @@
 {
   "date": "2026-10-14",
-  "generated_at": "2026-10-16T17:00:05.896104+00:00",
+  "generated_at": "2026-10-16T21:00:06.012666+00:00",
   "results": {
     "ollama_releases": {
       "verification_status": "unconfirmed",
@@ -27,8 +27,8 @@
       "verification_status": "verified",
       "sources_count": 2,
       "sources": [
-        "OpenAI Blog",
-        "DeepMind Blog"
+        "DeepMind Blog",
+        "OpenAI Blog"
       ]
     },
     "nousresearch_releases": {
