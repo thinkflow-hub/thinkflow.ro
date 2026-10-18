@@ -1,7 +1,21 @@
 {
   "date": "2026-10-17",
-  "generated_at": "2026-10-18T05:00:05.906898+00:00",
+  "generated_at": "2026-10-18T13:04:40.823147+00:00",
   "results": {
+    "hn_ai_24h": {
+      "verification_status": "unconfirmed",
+      "sources_count": 1,
+      "sources": [
+        "HN top AI 24h"
+      ]
+    },
+    "latent_space": {
+      "verification_status": "unconfirmed",
+      "sources_count": 1,
+      "sources": [
+        "Latent Space (Substack)"
+      ]
+    },
     "ggml_releases": {
       "verification_status": "unconfirmed",
       "sources_count": 1,

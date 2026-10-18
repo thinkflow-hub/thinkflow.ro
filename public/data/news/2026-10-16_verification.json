@@ -1,7 +1,14 @@
 {
   "date": "2026-10-16",
-  "generated_at": "2026-10-18T05:00:05.906898+00:00",
+  "generated_at": "2026-10-18T13:04:40.823647+00:00",
   "results": {
+    "hn_show_ai_7d": {
+      "verification_status": "unconfirmed",
+      "sources_count": 1,
+      "sources": [
+        "Show HN AI 7d"
+      ]
+    },
     "openai_blog": {
       "verification_status": "unconfirmed",
       "sources_count": 1,
@@ -50,13 +57,6 @@
       "sources_count": 1,
       "sources": [
         "Transformers releases"
-      ]
-    },
-    "hn_show_ai_7d": {
-      "verification_status": "unconfirmed",
-      "sources_count": 1,
-      "sources": [
-        "Show HN AI 7d"
       ]
     },
     "mit_technology_review_ai": {
