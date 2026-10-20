@@ -1,12 +1,27 @@
 {
   "date": "2026-10-18",
-  "generated_at": "2026-10-19T05:00:07.406254+00:00",
+  "generated_at": "2026-10-19T21:24:53.206330+00:00",
   "results": {
-    "ollama_releases": {
+    "hn_show_ai_7d": {
       "verification_status": "unconfirmed",
       "sources_count": 1,
       "sources": [
+        "Show HN AI 7d"
+      ]
+    },
+    "ollama_releases": {
+      "verification_status": "verified",
+      "sources_count": 2,
+      "sources": [
+        "Show HN AI 7d",
         "Ollama releases"
+      ]
+    },
+    "hn_ai_24h": {
+      "verification_status": "unconfirmed",
+      "sources_count": 1,
+      "sources": [
+        "HN top AI 24h"
       ]
     },
     "ggml_releases": {
@@ -16,11 +31,11 @@
         "ggml/llama.cpp releases"
       ]
     },
-    "hn_show_ai_7d": {
+    "vllm_releases": {
       "verification_status": "unconfirmed",
       "sources_count": 1,
       "sources": [
-        "Show HN AI 7d"
+        "vLLM releases"
       ]
     },
     "marktechpost": {

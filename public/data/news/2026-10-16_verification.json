@@ -1,6 +1,6 @@
 {
   "date": "2026-10-16",
-  "generated_at": "2026-10-19T05:00:07.406752+00:00",
+  "generated_at": "2026-10-19T21:24:53.206330+00:00",
   "results": {
     "hn_show_ai_7d": {
       "verification_status": "unconfirmed",
@@ -21,14 +21,6 @@
       "sources_count": 1,
       "sources": [
         "HN top LLM 24h"
-      ]
-    },
-    "huggingface_blog": {
-      "verification_status": "verified",
-      "sources_count": 2,
-      "sources": [
-        "HN top LLM 24h",
-        "Hugging Face Blog"
       ]
     },
     "hn_ai_24h": {
@@ -67,25 +59,10 @@
       ]
     },
     "marktechpost": {
-      "verification_status": "verified",
-      "sources_count": 2,
+      "verification_status": "unconfirmed",
+      "sources_count": 1,
       "sources": [
-        "ArXiv cs.CL (Computation and Language / NLP)",
         "MarkTechPost"
-      ]
-    },
-    "arxiv_cs_cl": {
-      "verification_status": "unconfirmed",
-      "sources_count": 1,
-      "sources": [
-        "ArXiv cs.CL (Computation and Language / NLP)"
-      ]
-    },
-    "latent_space": {
-      "verification_status": "unconfirmed",
-      "sources_count": 1,
-      "sources": [
-        "Latent Space (Substack)"
       ]
     }
   }

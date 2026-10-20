@@ -1,76 +1,12 @@
 {
   "date": "2026-10-13",
-  "generated_at": "2026-10-17T09:04:43.994327+00:00",
+  "generated_at": "2026-10-19T21:24:53.206330+00:00",
   "results": {
-    "openai_blog": {
+    "trending_ai": {
       "verification_status": "unconfirmed",
       "sources_count": 1,
       "sources": [
-        "OpenAI Blog"
-      ]
-    },
-    "google_ai_blog": {
-      "verification_status": "verified",
-      "sources_count": 2,
-      "sources": [
-        "DeepMind Blog",
-        "Google AI Blog"
-      ]
-    },
-    "deepmind_blog": {
-      "verification_status": "unconfirmed",
-      "sources_count": 1,
-      "sources": [
-        "DeepMind Blog"
-      ]
-    },
-    "huggingface_blog": {
-      "verification_status": "unconfirmed",
-      "sources_count": 1,
-      "sources": [
-        "Hugging Face Blog"
-      ]
-    },
-    "hn_ai_24h": {
-      "verification_status": "unconfirmed",
-      "sources_count": 1,
-      "sources": [
-        "HN top AI 24h"
-      ]
-    },
-    "hn_llm_24h": {
-      "verification_status": "unconfirmed",
-      "sources_count": 1,
-      "sources": [
-        "HN top LLM 24h"
-      ]
-    },
-    "latent_space": {
-      "verification_status": "unconfirmed",
-      "sources_count": 1,
-      "sources": [
-        "Latent Space (Substack)"
-      ]
-    },
-    "ggml_releases": {
-      "verification_status": "unconfirmed",
-      "sources_count": 1,
-      "sources": [
-        "ggml/llama.cpp releases"
-      ]
-    },
-    "hn_show_ai_7d": {
-      "verification_status": "unconfirmed",
-      "sources_count": 1,
-      "sources": [
-        "Show HN AI 7d"
-      ]
-    },
-    "mit_technology_review_ai": {
-      "verification_status": "unconfirmed",
-      "sources_count": 1,
-      "sources": [
-        "MIT Technology Review AI"
+        "GitHub Trending — AI"
       ]
     }
   }
