@@ -1,12 +1,11 @@
 {
   "date": "2026-10-18",
-  "generated_at": "2026-10-21T13:00:06.658814+00:00",
+  "generated_at": "2026-10-21T17:00:06.853443+00:00",
   "results": {
     "ollama_releases": {
-      "verification_status": "verified",
-      "sources_count": 2,
+      "verification_status": "unconfirmed",
+      "sources_count": 1,
       "sources": [
-        "Show HN AI 7d",
         "Ollama releases"
       ]
     },
@@ -36,13 +35,6 @@
       "sources_count": 1,
       "sources": [
         "vLLM releases"
-      ]
-    },
-    "marktechpost": {
-      "verification_status": "unconfirmed",
-      "sources_count": 1,
-      "sources": [
-        "MarkTechPost"
       ]
     }
   }
