@@ -1,26 +1,64 @@
 {
   "date": "2026-10-21",
-  "generated_at": "2026-10-22T05:00:06.008231+00:00",
+  "generated_at": "2026-10-22T09:02:59.839416+00:00",
   "results": {
-    "google_ai_blog": {
+    "openai_blog": {
       "verification_status": "unconfirmed",
       "sources_count": 1,
       "sources": [
+        "OpenAI Blog"
+      ]
+    },
+    "google_ai_blog": {
+      "verification_status": "verified",
+      "sources_count": 2,
+      "sources": [
+        "OpenAI Blog",
         "Google AI Blog"
       ]
     },
-    "latent_space": {
+    "hn_ai_24h": {
       "verification_status": "unconfirmed",
       "sources_count": 1,
       "sources": [
-        "Latent Space (Substack)"
+        "HN top AI 24h"
       ]
     },
-    "ggml_releases": {
+    "huggingface_blog": {
       "verification_status": "unconfirmed",
       "sources_count": 1,
       "sources": [
-        "ggml/llama.cpp releases"
+        "Hugging Face Blog"
+      ]
+    },
+    "latent_space": {
+      "verification_status": "verified",
+      "sources_count": 2,
+      "sources": [
+        "Latent Space (Substack)",
+        "ArXiv cs.CL (Computation and Language / NLP)"
+      ]
+    },
+    "nousresearch_releases": {
+      "verification_status": "unconfirmed",
+      "sources_count": 1,
+      "sources": [
+        "NousResearch releases"
+      ]
+    },
+    "ollama_releases": {
+      "verification_status": "unconfirmed",
+      "sources_count": 1,
+      "sources": [
+        "Ollama releases"
+      ]
+    },
+    "mistral_blog": {
+      "verification_status": "verified",
+      "sources_count": 2,
+      "sources": [
+        "Mistral AI",
+        "ArXiv cs.CL (Computation and Language / NLP)"
       ]
     },
     "arxiv_cs_cl": {
@@ -28,6 +66,13 @@
       "sources_count": 1,
       "sources": [
         "ArXiv cs.CL (Computation and Language / NLP)"
+      ]
+    },
+    "ggml_releases": {
+      "verification_status": "unconfirmed",
+      "sources_count": 1,
+      "sources": [
+        "ggml/llama.cpp releases"
       ]
     }
   }
