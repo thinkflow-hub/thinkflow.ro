@@ -1,40 +1,12 @@
 {
   "date": "2026-10-18",
-  "generated_at": "2026-10-22T21:00:06.737238+00:00",
+  "generated_at": "2026-10-23T01:00:06.218124+00:00",
   "results": {
     "ollama_releases": {
       "verification_status": "unconfirmed",
       "sources_count": 1,
       "sources": [
         "Ollama releases"
-      ]
-    },
-    "hn_show_ai_7d": {
-      "verification_status": "unconfirmed",
-      "sources_count": 1,
-      "sources": [
-        "Show HN AI 7d"
-      ]
-    },
-    "hn_ai_24h": {
-      "verification_status": "unconfirmed",
-      "sources_count": 1,
-      "sources": [
-        "HN top AI 24h"
-      ]
-    },
-    "ggml_releases": {
-      "verification_status": "unconfirmed",
-      "sources_count": 1,
-      "sources": [
-        "ggml/llama.cpp releases"
-      ]
-    },
-    "vllm_releases": {
-      "verification_status": "unconfirmed",
-      "sources_count": 1,
-      "sources": [
-        "vLLM releases"
       ]
     }
   }
