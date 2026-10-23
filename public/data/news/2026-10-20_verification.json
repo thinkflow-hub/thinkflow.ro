@@ -1,6 +1,6 @@
 {
   "date": "2026-10-20",
-  "generated_at": "2026-10-23T09:03:05.770752+00:00",
+  "generated_at": "2026-10-23T13:00:06.063824+00:00",
   "results": {
     "openai_blog": {
       "verification_status": "unconfirmed",
@@ -35,27 +35,6 @@
       "sources_count": 1,
       "sources": [
         "Mistral AI"
-      ]
-    },
-    "trending_ai": {
-      "verification_status": "unconfirmed",
-      "sources_count": 1,
-      "sources": [
-        "GitHub Trending — AI"
-      ]
-    },
-    "latent_space": {
-      "verification_status": "unconfirmed",
-      "sources_count": 1,
-      "sources": [
-        "Latent Space (Substack)"
-      ]
-    },
-    "ggml_releases": {
-      "verification_status": "unconfirmed",
-      "sources_count": 1,
-      "sources": [
-        "ggml/llama.cpp releases"
       ]
     }
   }
