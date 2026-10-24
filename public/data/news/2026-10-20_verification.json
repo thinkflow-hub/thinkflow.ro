@@ -1,47 +1,12 @@
 {
   "date": "2026-10-20",
-  "generated_at": "2026-10-24T09:03:02.585730+00:00",
+  "generated_at": "2026-10-24T13:00:05.965935+00:00",
   "results": {
     "latent_space": {
       "verification_status": "unconfirmed",
       "sources_count": 1,
       "sources": [
         "Latent Space (Substack)"
-      ]
-    },
-    "openai_blog": {
-      "verification_status": "unconfirmed",
-      "sources_count": 1,
-      "sources": [
-        "OpenAI Blog"
-      ]
-    },
-    "huggingface_blog": {
-      "verification_status": "unconfirmed",
-      "sources_count": 1,
-      "sources": [
-        "Hugging Face Blog"
-      ]
-    },
-    "hn_llm_24h": {
-      "verification_status": "unconfirmed",
-      "sources_count": 1,
-      "sources": [
-        "HN top LLM 24h"
-      ]
-    },
-    "hn_ai_24h": {
-      "verification_status": "unconfirmed",
-      "sources_count": 1,
-      "sources": [
-        "HN top AI 24h"
-      ]
-    },
-    "mistral_blog": {
-      "verification_status": "unconfirmed",
-      "sources_count": 1,
-      "sources": [
-        "Mistral AI"
       ]
     }
   }

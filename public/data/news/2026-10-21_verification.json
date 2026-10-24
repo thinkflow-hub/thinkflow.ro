@@ -1,13 +1,12 @@
 {
   "date": "2026-10-21",
-  "generated_at": "2026-10-24T09:03:02.585730+00:00",
+  "generated_at": "2026-10-24T13:00:05.965935+00:00",
   "results": {
     "latent_space": {
-      "verification_status": "verified",
-      "sources_count": 2,
+      "verification_status": "unconfirmed",
+      "sources_count": 1,
       "sources": [
-        "Latent Space (Substack)",
-        "ArXiv cs.CL (Computation and Language / NLP)"
+        "Latent Space (Substack)"
       ]
     },
     "openai_blog": {
@@ -15,14 +14,6 @@
       "sources_count": 1,
       "sources": [
         "OpenAI Blog"
-      ]
-    },
-    "google_ai_blog": {
-      "verification_status": "verified",
-      "sources_count": 2,
-      "sources": [
-        "OpenAI Blog",
-        "Google AI Blog"
       ]
     },
     "hn_ai_24h": {
@@ -54,18 +45,10 @@
       ]
     },
     "mistral_blog": {
-      "verification_status": "verified",
-      "sources_count": 2,
-      "sources": [
-        "Mistral AI",
-        "ArXiv cs.CL (Computation and Language / NLP)"
-      ]
-    },
-    "arxiv_cs_cl": {
       "verification_status": "unconfirmed",
       "sources_count": 1,
       "sources": [
-        "ArXiv cs.CL (Computation and Language / NLP)"
+        "Mistral AI"
       ]
     },
     "ggml_releases": {
