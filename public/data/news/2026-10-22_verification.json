@@ -1,7 +1,28 @@
 {
   "date": "2026-10-22",
-  "generated_at": "2026-10-24T05:00:06.120829+00:00",
+  "generated_at": "2026-10-24T09:03:02.585730+00:00",
   "results": {
+    "latent_space": {
+      "verification_status": "unconfirmed",
+      "sources_count": 1,
+      "sources": [
+        "Latent Space (Substack)"
+      ]
+    },
+    "hn_ai_24h": {
+      "verification_status": "unconfirmed",
+      "sources_count": 1,
+      "sources": [
+        "HN top AI 24h"
+      ]
+    },
+    "ollama_releases": {
+      "verification_status": "unconfirmed",
+      "sources_count": 1,
+      "sources": [
+        "Ollama releases"
+      ]
+    },
     "openai_blog": {
       "verification_status": "unconfirmed",
       "sources_count": 1,
@@ -21,27 +42,6 @@
       "sources_count": 1,
       "sources": [
         "HN top LLM 24h"
-      ]
-    },
-    "hn_ai_24h": {
-      "verification_status": "unconfirmed",
-      "sources_count": 1,
-      "sources": [
-        "HN top AI 24h"
-      ]
-    },
-    "ollama_releases": {
-      "verification_status": "unconfirmed",
-      "sources_count": 1,
-      "sources": [
-        "Ollama releases"
-      ]
-    },
-    "latent_space": {
-      "verification_status": "unconfirmed",
-      "sources_count": 1,
-      "sources": [
-        "Latent Space (Substack)"
       ]
     },
     "ggml_releases": {
