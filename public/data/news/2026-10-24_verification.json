@@ -1,7 +1,14 @@
 {
   "date": "2026-10-24",
-  "generated_at": "2026-10-25T05:00:05.910747+00:00",
+  "generated_at": "2026-10-25T09:02:08.604179+00:00",
   "results": {
+    "hn_ai_24h": {
+      "verification_status": "unconfirmed",
+      "sources_count": 1,
+      "sources": [
+        "HN top AI 24h"
+      ]
+    },
     "ollama_releases": {
       "verification_status": "unconfirmed",
       "sources_count": 1,
@@ -9,11 +16,32 @@
         "Ollama releases"
       ]
     },
+    "latent_space": {
+      "verification_status": "unconfirmed",
+      "sources_count": 1,
+      "sources": [
+        "Latent Space (Substack)"
+      ]
+    },
     "ggml_releases": {
       "verification_status": "unconfirmed",
       "sources_count": 1,
       "sources": [
         "ggml/llama.cpp releases"
+      ]
+    },
+    "hn_show_ai_7d": {
+      "verification_status": "unconfirmed",
+      "sources_count": 1,
+      "sources": [
+        "Show HN AI 7d"
+      ]
+    },
+    "marktechpost": {
+      "verification_status": "unconfirmed",
+      "sources_count": 1,
+      "sources": [
+        "MarkTechPost"
       ]
     }
   }
