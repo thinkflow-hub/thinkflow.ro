@@ -1,6 +1,6 @@
 {
   "date": "2026-10-25",
-  "generated_at": "2026-10-28T05:00:06.212121+00:00",
+  "generated_at": "2026-10-28T09:07:41.836656+00:00",
   "results": {
     "hn_llm_24h": {
       "verification_status": "unconfirmed",
@@ -21,13 +21,6 @@
       "sources_count": 1,
       "sources": [
         "ggml/llama.cpp releases"
-      ]
-    },
-    "marktechpost": {
-      "verification_status": "unconfirmed",
-      "sources_count": 1,
-      "sources": [
-        "MarkTechPost"
       ]
     }
   }
