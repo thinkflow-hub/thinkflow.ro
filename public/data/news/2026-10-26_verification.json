@@ -1,6 +1,6 @@
 {
   "date": "2026-10-26",
-  "generated_at": "2026-10-29T05:00:06.256835+00:00",
+  "generated_at": "2026-10-29T09:11:12.092540+00:00",
   "results": {
     "openai_blog": {
       "verification_status": "unconfirmed",
@@ -56,20 +56,6 @@
       "sources_count": 1,
       "sources": [
         "Transformers releases"
-      ]
-    },
-    "arxiv_cs_cl": {
-      "verification_status": "unconfirmed",
-      "sources_count": 1,
-      "sources": [
-        "ArXiv cs.CL (Computation and Language / NLP)"
-      ]
-    },
-    "arxiv_cs_ai": {
-      "verification_status": "unconfirmed",
-      "sources_count": 1,
-      "sources": [
-        "ArXiv cs.AI"
       ]
     }
   }
