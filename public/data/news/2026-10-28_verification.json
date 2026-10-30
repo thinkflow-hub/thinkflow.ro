@@ -1,7 +1,14 @@
 {
   "date": "2026-10-28",
-  "generated_at": "2026-10-30T05:00:05.931600+00:00",
+  "generated_at": "2026-10-30T09:04:29.313232+00:00",
   "results": {
+    "ollama_releases": {
+      "verification_status": "unconfirmed",
+      "sources_count": 1,
+      "sources": [
+        "Ollama releases"
+      ]
+    },
     "openai_blog": {
       "verification_status": "unconfirmed",
       "sources_count": 1,
@@ -13,8 +20,8 @@
       "verification_status": "verified",
       "sources_count": 2,
       "sources": [
-        "DeepMind Blog",
-        "MarkTechPost"
+        "MarkTechPost",
+        "DeepMind Blog"
       ]
     },
     "marktechpost": {
