@@ -1,6 +1,6 @@
 {
   "date": "2026-10-29",
-  "generated_at": "2026-10-30T13:00:05.972252+00:00",
+  "generated_at": "2026-10-30T17:00:07.745009+00:00",
   "results": {
     "openai_blog": {
       "verification_status": "unconfirmed",
@@ -34,8 +34,8 @@
       "verification_status": "verified",
       "sources_count": 2,
       "sources": [
-        "Mistral AI",
-        "Transformers releases"
+        "Transformers releases",
+        "Mistral AI"
       ]
     },
     "huggingface_transformers_releases": {
