@@ -1,0 +1,2198 @@
+{
+  "date": "2026-10-31",
+  "last_updated": "2026-10-31T06:00:02.019962+00:00",
+  "total_items": 30,
+  "items": [
+    {
+      "source_id": "openai_blog",
+      "source_name": "OpenAI Blog",
+      "title": "Making it easier for websites to express AI training preferences",
+      "url": "https://openai.com/index/helping-websites-express-ai-training-preferences",
+      "description": "OpenAI will honor a shared robots.txt signal to help website operators communicate their AI training preferences to participating providers.",
+      "published": "Fri, 30 Oct 2026 09:30:00 GMT",
+      "score": 75,
+      "category": "ai_labs",
+      "weight": 10,
+      "format": "article",
+      "summary": "OpenAI introduced a new protocol allowing websites to use a shared robots.txt signal to indicate their preference regarding AI training, simplifying communication between site owners and AI service providers. This initiative aims to respect website operators' wishes more efficiently, enhancing privacy and content control in the age of advanced AI technologies.",
+      "summary_detailed": "OpenAI introduced a new protocol allowing websites to use a shared `robots.txt` signal, making it easier for AI trainers to respect and adhere to site-specific preferences regarding data usage. This initiative involves collaboration between OpenAI and website operators aiming to streamline the process of expressing AI training restrictions. The broader impact could enhance privacy protections and reduce ethical concerns by ensuring that AI training respects user consent and site policies more effectively.",
+      "summary_bullets": "• OpenAI will implement a new protocol through the robots.txt file.\n• Website operators can now easily signal AI training preferences.\n• This initiative aims to streamline communication between websites and AI services.",
+      "sentiment": "neutral",
+      "keywords": [
+        "websites",
+        "ai training",
+        "preferences",
+        "openai",
+        "robots.txt"
+      ],
+      "thumbnail": null,
+      "favicon": "https://www.google.com/s2/favicons?domain=openai.com&sz=64",
+      "cluster_id": "0494ef44-0c7d-5b01-8a33-ff807dbd7425",
+      "cluster_size": 1,
+      "cluster_topics": [
+        "preferences",
+        "training",
+        "making",
+        "easier",
+        "express"
+      ],
+      "geo_title": "How does OpenAI's new feature help websites express AI training preferences?",
+      "geo_keywords": [
+        "website ai training preferences",
+        "openai robots.txt signal",
+        "communicating ai training preferences",
+        "ai model training restrictions",
+        "how websites can express ai training preferences",
+        "openai ai training policies",
+        "website operators ai training",
+        "ai model training guidelines",
+        "what does robots.txt mean for ai training",
+        "how to communicate ai training preferences to ai models"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "How does OpenAI's new feature help websites express AI training preferences?",
+        "url": "https://openai.com/index/helping-websites-express-ai-training-preferences",
+        "description": "OpenAI introduced a new protocol allowing websites to use a shared robots.txt signal to indicate their preference regarding AI training, simplifying communication between site owners and AI service providers. This initiative aims to respect website operators' wishes more efficiently, enhancing privacy and content control in the age of advanced AI technologies.",
+        "keywords": "website ai training preferences, openai robots.txt signal, communicating ai training preferences, ai model training restrictions, how websites can express ai training preferences, openai ai training policies, website operators ai training, ai model training guidelines",
+        "datePublished": "Fri, 30 Oct 2026 09:30:00 GMT",
+        "dateModified": "Fri, 30 Oct 2026 09:30:00 GMT",
+        "author": {
+          "@type": "Organization",
+          "name": "OpenAI Blog",
+          "url": "https://openai.com"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "ai_labs",
+        "inLanguage": "en-US",
+        "wordCount": 51,
+        "articleBody": "OpenAI introduced a new protocol allowing websites to use a shared robots.txt signal to indicate their preference regarding AI training, simplifying communication between site owners and AI service providers. This initiative aims to respect website operators' wishes more efficiently, enhancing privacy and content control in the age of advanced AI technologies."
+      }
+    },
+    {
+      "source_id": "openai_blog",
+      "source_name": "OpenAI Blog",
+      "title": "Community safety report and new protections for teens",
+      "url": "https://openai.com/index/community-safety-report-and-new-protections-for-teens",
+      "description": "OpenAI is strengthening violence prevention in ChatGPT with expanded safeguards, earlier interventions, and a new commitment to public safety reporting.",
+      "published": "Fri, 30 Oct 2026 09:00:00 GMT",
+      "score": 75,
+      "category": "ai_labs",
+      "weight": 10,
+      "format": "article",
+      "summary": "OpenAI has enhanced ChatGPT with new safeguards and early intervention strategies to prevent violence, along with a commitment to report on community safety. These measures aim to protect teens and ensure a safer online environment.",
+      "summary_detailed": "OpenAI has enhanced ChatGPT's safety features by introducing more robust violence prevention measures, including early intervention strategies. This initiative also involves the establishment of community safety reports aimed at addressing concerns related to teen interactions on the platform. The broader impact includes improved protection for teenagers and a commitment to public safety in online communications.",
+      "summary_bullets": "• OpenAI enhances ChatGPT's violence prevention features.\n• New safeguards are implemented for earlier intervention.\n• A commitment to public safety reporting on teens' issues.",
+      "sentiment": "positive",
+      "keywords": [
+        "community safety",
+        "teen protection",
+        "violence prevention",
+        "safeguards",
+        "public safety reporting"
+      ],
+      "thumbnail": null,
+      "favicon": "https://www.google.com/s2/favicons?domain=openai.com&sz=64",
+      "cluster_id": "64da2d0a-9273-5fca-87b0-5954b04e9dec",
+      "cluster_size": 1,
+      "cluster_topics": [
+        "safety",
+        "community",
+        "report",
+        "protections",
+        "teens"
+      ],
+      "geo_title": "How does OpenAI enhance ChatGPT for teen safety?",
+      "geo_keywords": [
+        "community safety report",
+        "teen protection measures",
+        "violence prevention technologies",
+        "expanded safeguards for chatgpt",
+        "public safety updates",
+        "how does chatgpt ensure safety",
+        "new protections for online teens",
+        "ai safety features",
+        "community safety initiatives",
+        "preventing online violence",
+        "chatgpt safety improvements",
+        "public safety in ai"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "How does OpenAI enhance ChatGPT for teen safety?",
+        "url": "https://openai.com/index/community-safety-report-and-new-protections-for-teens",
+        "description": "OpenAI has enhanced ChatGPT with new safeguards and early intervention strategies to prevent violence, along with a commitment to report on community safety. These measures aim to protect teens and ensure a safer online environment.",
+        "keywords": "community safety report, teen protection measures, violence prevention technologies, expanded safeguards for chatgpt, public safety updates, how does chatgpt ensure safety, new protections for online teens, ai safety features",
+        "datePublished": "Fri, 30 Oct 2026 09:00:00 GMT",
+        "dateModified": "Fri, 30 Oct 2026 09:00:00 GMT",
+        "author": {
+          "@type": "Organization",
+          "name": "OpenAI Blog",
+          "url": "https://openai.com"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "ai_labs",
+        "inLanguage": "en-US",
+        "wordCount": 35,
+        "articleBody": "OpenAI has enhanced ChatGPT with new safeguards and early intervention strategies to prevent violence, along with a commitment to report on community safety. These measures aim to protect teens and ensure a safer online environment."
+      }
+    },
+    {
+      "source_id": "openai_blog",
+      "source_name": "OpenAI Blog",
+      "title": "Fair use benefits everyone",
+      "url": "https://openai.com/index/fair-use-benefits-everyone",
+      "description": "OpenAI shares excerpts from court briefs by creators, academics, accessibility advocates, and legal experts, among others, on how fair use supports AI training and innovation.",
+      "published": "Fri, 30 Oct 2026 00:00:00 GMT",
+      "score": 75,
+      "category": "ai_labs",
+      "weight": 10,
+      "format": "article",
+      "summary": "OpenAI published court briefs highlighting how fair use supports AI training and innovation, emphasizing its benefits for creators, academics, and accessibility advocates. This matters as it underscores the importance of fair use in fostering a balanced environment for technological advancement.",
+      "summary_detailed": "OpenAI shared court briefs supporting fair use in AI training, involving creators, academics, accessibility advocates, and legal experts. These briefs argue that fair use benefits both AI development and broader societal innovation. The involvement of diverse stakeholders highlights the wide-ranging impact of fair use on copyright law and technology advancement.",
+      "summary_bullets": "• Creators support fair use for AI training.\n• Academics emphasize fair use's role in innovation.\n• Accessibility advocates highlight fair use benefits.\n• Legal experts confirm fair use supports creative processes.",
+      "sentiment": "positive",
+      "keywords": [
+        "fair use",
+        "ai training",
+        "innovation",
+        "creators",
+        "accessibility",
+        "legal experts"
+      ],
+      "thumbnail": null,
+      "favicon": "https://www.google.com/s2/favicons?domain=openai.com&sz=64",
+      "cluster_id": "55d711b2-e016-5657-abe1-735fa3af90f4",
+      "cluster_size": 1,
+      "cluster_topics": [
+        "fair",
+        "benefits",
+        "everyone",
+        "shares",
+        "excerpts"
+      ],
+      "geo_title": "How does fair use support AI training and innovation?",
+      "geo_keywords": [
+        "fair use benefits everyone",
+        "ai training and innovation",
+        "fair use in ai",
+        "copyright fair use for ai",
+        "fair use court briefs",
+        "fair use supports ai",
+        "fair use and ai",
+        "fair use legal perspectives",
+        "fair use benefits creators",
+        "fair use and accessibility",
+        "how does fair use support ai",
+        "what is fair use in ai context"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "How does fair use support AI training and innovation?",
+        "url": "https://openai.com/index/fair-use-benefits-everyone",
+        "description": "OpenAI published court briefs highlighting how fair use supports AI training and innovation, emphasizing its benefits for creators, academics, and accessibility advocates. This matters as it underscores the importance of fair use in fostering a balanced environment for technological advancement.",
+        "keywords": "fair use benefits everyone, ai training and innovation, fair use in ai, copyright fair use for ai, fair use court briefs, fair use supports ai, fair use and ai, fair use legal perspectives",
+        "datePublished": "Fri, 30 Oct 2026 00:00:00 GMT",
+        "dateModified": "Fri, 30 Oct 2026 00:00:00 GMT",
+        "author": {
+          "@type": "Organization",
+          "name": "OpenAI Blog",
+          "url": "https://openai.com"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "ai_labs",
+        "inLanguage": "en-US",
+        "wordCount": 40,
+        "articleBody": "OpenAI published court briefs highlighting how fair use supports AI training and innovation, emphasizing its benefits for creators, academics, and accessibility advocates. This matters as it underscores the importance of fair use in fostering a balanced environment for technological advancement."
+      }
+    },
+    {
+      "source_id": "openai_blog",
+      "source_name": "OpenAI Blog",
+      "title": "Credit Saison achieves 954% ROI in a ChatGPT Enterprise pilot",
+      "url": "https://openai.com/index/credit-saison",
+      "description": "Credit Saison’s ChatGPT Enterprise pilot delivered 954% ROI. See how leaders and employees helped turn the results into companywide adoption.",
+      "published": "Thu, 29 Oct 2026 00:00:00 GMT",
+      "score": 75,
+      "category": "ai_labs",
+      "weight": 10,
+      "format": "article",
+      "summary": "Credit Saison's ChatGPT Enterprise pilot yielded a remarkable 954% return on investment, demonstrating the potential of AI in enterprise settings and driving companywide adoption. The success highlights the value of employee and leadership involvement in implementing new technologies.",
+      "summary_detailed": "Credit Saison achieved a remarkable 954% return on investment through a successful ChatGPT Enterprise pilot, involving both leadership and employee participation. The positive outcomes led to widespread companywide adoption of the technology across the organization. This implementation underscores the potential for artificial intelligence in enhancing business efficiency and innovation on a broader scale within enterprises.",
+      "summary_bullets": "• Credit Saison achieved a 954% return on investment.\n• The pilot involved both leaders and employees.\n• Results led to companywide adoption of ChatGPT Enterprise.",
+      "sentiment": "positive",
+      "keywords": [
+        "chatgpt",
+        "enterprise",
+        "roi",
+        "adoption",
+        "credit saison"
+      ],
+      "thumbnail": null,
+      "favicon": "https://www.google.com/s2/favicons?domain=openai.com&sz=64",
+      "cluster_id": "3fa9983d-f100-5229-84b6-1603530317e1",
+      "cluster_size": 1,
+      "cluster_topics": [
+        "credit",
+        "saison",
+        "roi",
+        "enterprise",
+        "pilot"
+      ],
+      "geo_title": "How does Credit Saison achieve 954% ROI with ChatGPT Enterprise?",
+      "geo_keywords": [
+        "chatgpt roi",
+        "credit saison chatgpt",
+        "chatgpt enterprise implementation",
+        "chatgpt case study",
+        "enterprise ai adoption",
+        "how chatgpt achieved high roi",
+        "chatgpt companywide adoption",
+        "chatgpt pilot success story"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "How does Credit Saison achieve 954% ROI with ChatGPT Enterprise?",
+        "url": "https://openai.com/index/credit-saison",
+        "description": "Credit Saison's ChatGPT Enterprise pilot yielded a remarkable 954% return on investment, demonstrating the potential of AI in enterprise settings and driving companywide adoption. The success highlights the value of employee and leadership involvement in implementing new technologies.",
+        "keywords": "chatgpt roi, credit saison chatgpt, chatgpt enterprise implementation, chatgpt case study, enterprise ai adoption, how chatgpt achieved high roi, chatgpt companywide adoption, chatgpt pilot success story",
+        "datePublished": "Thu, 29 Oct 2026 00:00:00 GMT",
+        "dateModified": "Thu, 29 Oct 2026 00:00:00 GMT",
+        "author": {
+          "@type": "Organization",
+          "name": "OpenAI Blog",
+          "url": "https://openai.com"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "ai_labs",
+        "inLanguage": "en-US",
+        "wordCount": 38,
+        "articleBody": "Credit Saison's ChatGPT Enterprise pilot yielded a remarkable 954% return on investment, demonstrating the potential of AI in enterprise settings and driving companywide adoption. The success highlights the value of employee and leadership involvement in implementing new technologies."
+      }
+    },
+    {
+      "source_id": "latent_space",
+      "source_name": "Latent Space (Substack)",
+      "title": "[AINews] Google admits AI Mode hurts Search revenue; -15% $500B drop worst since 2004 IPO. AI Bear Market coming?",
+      "url": "https://latent.space/p/ainews-google-admits-ai-mode-hurts-search-revenue-15-500b-drop-worst-since-2004-ipo-ai-bear-market-c/",
+      "description": "It turns out you cannot have your cake AND eat it",
+      "published": "Sat, 31 Oct 2026 05:00:48 GMT",
+      "score": 48,
+      "category": "newsletters",
+      "weight": 8,
+      "format": "article",
+      "summary": "Google acknowledged that its AI enhancements in search have led to a significant drop in revenue, with earnings down 15% from $500 billion, the steepest decline since its IPO in 2004. This financial hit raises concerns about the sustainability of current AI investments and may signal an impending \"AI Bear Market.\"",
+      "summary_detailed": "Google acknowledged that its AI Mode has negatively impacted search revenue, resulting in a 15% drop from its $500 billion valuation, the largest decline since its 2004 IPO. This admission suggests potential challenges for Google's future earnings and may signal an impending AI bear market.",
+      "summary_bullets": "• Google acknowledges AI Mode negatively impacts search revenue.\n• Revenue dropped by 15% due to AI Mode, affecting $500 billion worth.\n• The decline is the steepest since Google's IPO in 2004.\n• Concerns arise over potential arrival of an AI bear market.",
+      "sentiment": "negative",
+      "keywords": [
+        "ai mode",
+        "search revenue",
+        "bear market",
+        "google",
+        "revenue drop"
+      ],
+      "thumbnail": "https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/f13715b2-ed2d-4a14-bbf6-85f184b4b202/SCR-20261030-svzc.png?t=1793423031",
+      "cluster_id": "43059d58-830a-5b8a-826d-22c2e4995338",
+      "cluster_size": 1,
+      "cluster_topics": [
+        "google",
+        "admits",
+        "hurts",
+        "search",
+        "revenue"
+      ],
+      "geo_title": "Why is AI Mode hurting Google's search revenue by 15%?",
+      "geo_keywords": [
+        "ai mode",
+        "search revenue drop",
+        "google revenue decline",
+        "ai bear market",
+        "impact of ai on search revenue",
+        "google ai mode controversy",
+        "how ai mode affects google revenue",
+        "is ai causing a bear market in search",
+        "what does google say about ai mode and revenue",
+        "will ai lead to a search revenue bear market"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "Why is AI Mode hurting Google's search revenue by 15%?",
+        "url": "https://latent.space/p/ainews-google-admits-ai-mode-hurts-search-revenue-15-500b-drop-worst-since-2004-ipo-ai-bear-market-c/",
+        "description": "Google acknowledged that its AI enhancements in search have led to a significant drop in revenue, with earnings down 15% from $500 billion, the steepest decline since its IPO in 2004. This financial hit raises concerns about the sustainability of current AI investments and may signal an impending \"AI Bear Market.\"",
+        "keywords": "ai mode, search revenue drop, google revenue decline, ai bear market, impact of ai on search revenue, google ai mode controversy, how ai mode affects google revenue, is ai causing a bear market in search",
+        "datePublished": "Sat, 31 Oct 2026 05:00:48 GMT",
+        "dateModified": "Sat, 31 Oct 2026 05:00:48 GMT",
+        "author": {
+          "@type": "Organization",
+          "name": "Latent Space (Substack)",
+          "url": "https://latent.space"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "newsletters",
+        "inLanguage": "en-US",
+        "wordCount": 51,
+        "articleBody": "Google acknowledged that its AI enhancements in search have led to a significant drop in revenue, with earnings down 15% from $500 billion, the steepest decline since its IPO in 2004. This financial hit raises concerns about the sustainability of current AI investments and may signal an impending \"AI Bear Market.\""
+      }
+    },
+    {
+      "source_id": "latent_space",
+      "source_name": "Latent Space (Substack)",
+      "title": "[AINews] Building AIE CODE: The top Coding Agent Conference",
+      "url": "https://latent.space/p/ainews-building-aie-code-the-top-coding-agent-conference/",
+      "description": "Mistral’s open-weight release, frontier monitoring, and the day’s AI Twitter and Reddit recaps.",
+      "published": "Fri, 30 Oct 2026 08:24:29 GMT",
+      "score": 48,
+      "category": "newsletters",
+      "weight": 8,
+      "format": "article",
+      "summary": "Mistral's open-source coding platform AIE was unveiled at the AIE CODE conference, focusing on its advanced features like frontier monitoring; the event highlighted key developments in AI technology and their impact on the coding community.",
+      "summary_detailed": "At the recent Building AIE CODE conference, participants discussed Mistral's significant open-source coding advancements, including its latest release and real-time updates on frontiers in artificial intelligence. The event also featured comprehensive recaps of relevant discussions from social media platforms like Twitter and Reddit, providing attendees with a broader understanding of current AI trends and community insights.",
+      "summary_bullets": "• Mistral releases its latest open-source coding tool\n• Frontier monitoring features are highlighted\n• Day's key AI discussions summarized on Twitter and Reddit",
+      "sentiment": "neutral",
+      "keywords": [
+        "aie code",
+        "coding agent conference",
+        "mistral",
+        "open-weight release",
+        "frontier monitoring",
+        "ai twitter",
+        "ai reddit"
+      ],
+      "thumbnail": "https://latent.space/og/card/post/ainews-building-aie-code-the-top-coding-agent-conference/5b23d2a392473bc3aa4d9ff6d1748256231886548b7aa04537c84279d37eeb0f.png",
+      "cluster_id": "493ac1de-6d82-516a-beba-a11ecc302e5e",
+      "cluster_size": 1,
+      "cluster_topics": [
+        "building",
+        "aie",
+        "top",
+        "coding",
+        "conference"
+      ],
+      "geo_title": "How does AINews explore Mistral's coding conference?",
+      "geo_keywords": [
+        "coding agent conference",
+        "aie code",
+        "mistral open-weight release",
+        "ai frontier monitoring",
+        "ai coding technologies",
+        "top ai coding conference",
+        "ai coding agent",
+        "what is aie code",
+        "where to attend coding agent conference",
+        "mistral ai release",
+        "latest in ai coding",
+        "ai coding trends"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "How does AINews explore Mistral's coding conference?",
+        "url": "https://latent.space/p/ainews-building-aie-code-the-top-coding-agent-conference/",
+        "description": "Mistral's open-source coding platform AIE was unveiled at the AIE CODE conference, focusing on its advanced features like frontier monitoring; the event highlighted key developments in AI technology and their impact on the coding community.",
+        "keywords": "coding agent conference, aie code, mistral open-weight release, ai frontier monitoring, ai coding technologies, top ai coding conference, ai coding agent, what is aie code",
+        "datePublished": "Fri, 30 Oct 2026 08:24:29 GMT",
+        "dateModified": "Fri, 30 Oct 2026 08:24:29 GMT",
+        "author": {
+          "@type": "Organization",
+          "name": "Latent Space (Substack)",
+          "url": "https://latent.space"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "newsletters",
+        "inLanguage": "en-US",
+        "wordCount": 35,
+        "articleBody": "Mistral's open-source coding platform AIE was unveiled at the AIE CODE conference, focusing on its advanced features like frontier monitoring; the event highlighted key developments in AI technology and their impact on the coding community."
+      }
+    },
+    {
+      "source_id": "ggml_releases",
+      "source_name": "ggml/llama.cpp releases",
+      "title": "ggml/llama.cpp releases: b12019",
+      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12019",
+      "description": "<details open>\n\nchat : strip the think block in the qwen3-coder with reasoning_format none (#31380)\n\n* chat : accept the think block in the qwen3-coder response format with reasoning_format none\n\nAssisted-by: Claude Opus 5.5\n\n* chat : define both qwen3-coder think block variants up front\n\n</details>",
+      "published": "2026-10-31T05:19:26Z",
+      "score": 48,
+      "category": "releases",
+      "weight": 8,
+      "tag": "b12019",
+      "summary": "The ggml/llama.cpp project updated its codebase to include changes in how the Qwen3-coder handles think blocks, either stripping them or accepting them based on the reasoning_format setting. This update is significant for developers who need to customize the response format of the Qwen3-coder AI model.",
+      "summary_detailed": "The ggml/llama.cpp project updated its codebase to include changes in chat responses for the qwen3-coder, specifically stripping or accepting a \"think\" block with reasoning_format none. These updates were assisted by Claude Opus 5.5 and involve defining both variants of the think block upfront, impacting how the qwen3-coder processes and formats its responses.",
+      "summary_bullets": "• chat : strip the think block in the qwen3-coder with reasoning_format none\n• chat : accept the think block in the qwen3-coder response format with reasoning_format none\n• chat : define both qwen3-coder think block variants up front",
+      "sentiment": "neutral",
+      "keywords": [
+        "chat",
+        "qwen3-coder",
+        "think block",
+        "reasoning_format"
+      ],
+      "thumbnail": "https://opengraph.githubassets.com/7f382c41ed311f7f7456dd1afa430af7e4c9a613e9a691268e87f061da500579/ggml-org/llama.cpp/releases/tag/b12019",
+      "cluster_id": "c91dde62-3697-567c-8cce-669b77eefe93",
+      "cluster_size": 1,
+      "cluster_topics": [
+        "chat",
+        "think",
+        "block",
+        "qwen3-coder",
+        "reasoning_format"
+      ],
+      "geo_title": "Why is the think block stripped in Qwen3-coder's reasoning_format none?",
+      "geo_keywords": [
+        "ggml/llama.cpp releases",
+        "b12019",
+        "chatbot technology updates",
+        "qwen3-coder improvements",
+        "reasoning format changes",
+        "ai chatbot development",
+        "sge search optimization",
+        "perplexity search terms",
+        "chatgpt related technologies"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "Why is the think block stripped in Qwen3-coder's reasoning_format none?",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12019",
+        "description": "The ggml/llama.cpp project updated its codebase to include changes in how the Qwen3-coder handles think blocks, either stripping them or accepting them based on the reasoning_format setting. This update is significant for developers who need to customize the response format of the Qwen3-coder AI model.",
+        "keywords": "ggml/llama.cpp releases, b12019, chatbot technology updates, qwen3-coder improvements, reasoning format changes, ai chatbot development, sge search optimization, perplexity search terms",
+        "datePublished": "2026-10-31T05:19:26Z",
+        "dateModified": "2026-10-31T05:19:26Z",
+        "author": {
+          "@type": "Organization",
+          "name": "ggml/llama.cpp releases",
+          "url": "https://github.com"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "releases",
+        "inLanguage": "en-US",
+        "wordCount": 45,
+        "articleBody": "The ggml/llama.cpp project updated its codebase to include changes in how the Qwen3-coder handles think blocks, either stripping them or accepting them based on the reasoning_format setting. This update is significant for developers who need to customize the response format of the Qwen3-coder AI model."
+      }
+    },
+    {
+      "source_id": "ggml_releases",
+      "source_name": "ggml/llama.cpp releases",
+      "title": "ggml/llama.cpp releases: b12018",
+      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12018",
+      "description": "<details open>\n\nsycl: fix f32 to q2_0/q4_0/q5_0 rounding in CPY (#31120)\n\n</details>\n\n**Website:**\n- <https://llama.app>\n\n**Attestations:**\n- <https://github.com/ggml-org/llama.cpp/attestations/62012681>\n\n**macOS/iOS:**\n- [macOS Apple Silicon (arm64)](https://github.com/ggml-org/llama.cpp/releases/d",
+      "published": "2026-10-31T02:21:58Z",
+      "score": 48,
+      "category": "releases",
+      "weight": 8,
+      "tag": "b12018",
+      "summary": "The ggml/llama.cpp project released version b12018, which includes a fix for f32 to q2_0/q4_0/q5_0 rounding in CPY; this update is important for improving the precision of quantization processes.",
+      "summary_detailed": "The ggml/llama.cpp project released a new version addressing rounding issues in CPY for f32 to q2_0/q4_0/q5_0 conversions. This update is part of the broader effort to enhance the library's performance on Apple Silicon (arm64) platforms, impacting users of macOS and iOS systems. The fix contributes to improving the accuracy and efficiency of quantization processes in the llamacpp framework.",
+      "summary_bullets": "• Fix implemented for f32 to q2_0/q4_0/q5_0 rounding in CPY (#31120)\n• Website: <https://llama.app>\n• Attestations available at: <https://github.com/ggml-org/llama.cpp/attestations/62012681>",
+      "sentiment": "neutral",
+      "keywords": [
+        "sycl",
+        "f32",
+        "rounding",
+        "attestation",
+        "macos"
+      ],
+      "thumbnail": "https://opengraph.githubassets.com/97620ea8a15ecbb86bda762a00dbf61a1a7d48e3ca1975452621f5548e49e3ba/ggml-org/llama.cpp/releases/tag/b12018",
+      "cluster_id": "d9eb3c28-03cb-5b5d-8dfe-0addbb827bb7",
+      "cluster_size": 4,
+      "cluster_topics": [
+        "llama",
+        "https",
+        "cpp",
+        "details",
+        "attestations"
+      ],
+      "geo_title": "Why is ggml/llama.cpp b12018 release focusing on sycl rounding fixes?",
+      "geo_keywords": [
+        "ggml",
+        "llama.cpp",
+        "sycl updates",
+        "f32 to quantization",
+        "rounding fix",
+        "attestation process",
+        "macos arm64",
+        "machine learning framework improvements"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "Why is ggml/llama.cpp b12018 release focusing on sycl rounding fixes?",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12018",
+        "description": "The ggml/llama.cpp project released version b12018, which includes a fix for f32 to q2_0/q4_0/q5_0 rounding in CPY; this update is important for improving the precision of quantization processes.",
+        "keywords": "ggml, llama.cpp, sycl updates, f32 to quantization, rounding fix, attestation process, macos arm64, machine learning framework improvements",
+        "datePublished": "2026-10-31T02:21:58Z",
+        "dateModified": "2026-10-31T02:21:58Z",
+        "author": {
+          "@type": "Organization",
+          "name": "ggml/llama.cpp releases",
+          "url": "https://github.com"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "releases",
+        "inLanguage": "en-US",
+        "wordCount": 28,
+        "articleBody": "The ggml/llama.cpp project released version b12018, which includes a fix for f32 to q2_0/q4_0/q5_0 rounding in CPY; this update is important for improving the precision of quantization processes."
+      }
+    },
+    {
+      "source_id": "ggml_releases",
+      "source_name": "ggml/llama.cpp releases",
+      "title": "ggml/llama.cpp releases: b12017",
+      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12017",
+      "description": "<details open>\n\nrpc : delete fs_path_to_utf8() (#31424)\n\nSigned-off-by: Adrien Gallouët <angt@huggingface.co>\n\n</details>\n\n**Website:**\n- <https://llama.app>\n\n**Attestations:**\n- <https://github.com/ggml-org/llama.cpp/attestations/61919870>\n\n**macOS/iOS:**\n- [macOS Apple Silicon (arm64)](https://git",
+      "published": "2026-10-30T20:19:54Z",
+      "score": 48,
+      "category": "releases",
+      "weight": 8,
+      "tag": "b12017",
+      "summary": "The ggml/llama.cpp project removed the fs_path_to_utf8() function in version b12017, as detailed in issue #31424 and signed off by Adrien Gallouët. This update is part of an ongoing effort to improve the library, though its specific impact on functionality or performance isn't detailed here.",
+      "summary_detailed": "Adrien Gallouët, a contributor to the ggml/llama.cpp project, deleted the `fs_path_to_utf8()` function in version b12017. This update impacts users of llama.cpp and those developing for macOS Apple Silicon (arm64) through the llamar.app website. The change is documented on GitHub with attestation details available for verification.",
+      "summary_bullets": "• rpc : delete fs_path_to_utf8() (#31424)\n• Signed-off-by: Adrien Gallouët <angt@huggingface.co>\n• Website: <https://llama.app>",
+      "sentiment": "neutral",
+      "keywords": [
+        "rpc",
+        "delete",
+        "fs_path_to_utf8",
+        "attestation",
+        "macos",
+        "ios"
+      ],
+      "thumbnail": "https://opengraph.githubassets.com/6afadcff4fe0d600f1a82939b5ea890748bdef9b77620235a061593756106428/ggml-org/llama.cpp/releases/tag/b12017",
+      "cluster_id": "d9eb3c28-03cb-5b5d-8dfe-0addbb827bb7",
+      "cluster_size": 4,
+      "cluster_topics": [
+        "llama",
+        "https",
+        "cpp",
+        "details",
+        "attestations"
+      ],
+      "geo_title": "Why is ggml/llama.cpp b12017 release focusing on rpc : delete fs_path_to_utf8()?",
+      "geo_keywords": [
+        "llama.cpp release",
+        "ggml update",
+        "ai library improvement",
+        "machine learning framework",
+        "chatgpt compatibility",
+        "sge optimization",
+        "perplexity update"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "Why is ggml/llama.cpp b12017 release focusing on rpc : delete fs_path_to_utf8()?",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12017",
+        "description": "The ggml/llama.cpp project removed the fs_path_to_utf8() function in version b12017, as detailed in issue #31424 and signed off by Adrien Gallouët. This update is part of an ongoing effort to improve the library, though its specific impact on functionality or performance isn't detailed here.",
+        "keywords": "llama.cpp release, ggml update, ai library improvement, machine learning framework, chatgpt compatibility, sge optimization, perplexity update",
+        "datePublished": "2026-10-30T20:19:54Z",
+        "dateModified": "2026-10-30T20:19:54Z",
+        "author": {
+          "@type": "Organization",
+          "name": "ggml/llama.cpp releases",
+          "url": "https://github.com"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "releases",
+        "inLanguage": "en-US",
+        "wordCount": 44,
+        "articleBody": "The ggml/llama.cpp project removed the fs_path_to_utf8() function in version b12017, as detailed in issue #31424 and signed off by Adrien Gallouët. This update is part of an ongoing effort to improve the library, though its specific impact on functionality or performance isn't detailed here."
+      }
+    },
+    {
+      "source_id": "ggml_releases",
+      "source_name": "ggml/llama.cpp releases",
+      "title": "ggml/llama.cpp releases: b12015",
+      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12015",
+      "description": "<details open>\n\ncommon : delete fs_path_to_utf8() (#31423)\n\nSigned-off-by: Adrien Gallouët <angt@huggingface.co>\n\n</details>\n\n**Website:**\n- <https://llama.app>\n\n**Attestations:**\n- <https://github.com/ggml-org/llama.cpp/attestations/61831888>\n\n**macOS/iOS:**\n- [macOS Apple Silicon (arm64)](https://",
+      "published": "2026-10-30T16:06:05Z",
+      "score": 48,
+      "category": "releases",
+      "weight": 8,
+      "tag": "b12015",
+      "summary": "The ggml/llama.cpp project released version b12015, which includes a deletion of the fs_path_to_utf8() function. This update is significant for developers using the library on macOS and other platforms as it addresses specific functionality and may improve performance or compatibility.",
+      "summary_detailed": "Adrien Gallouët made a commit to the ggml/llama.cpp project, removing the `fs_path_to_utf8()` function in commit #31423. This update was signed off by Gallouët and is part of the broader development efforts for the llama.cpp library, which supports various applications including natural language processing tools like those found on the <https://llama.app> website.",
+      "summary_bullets": "• common : delete fs_path_to_utf8() (#31423)\n• Signed-off-by: Adrien Gallouët <angt@huggingface.co>\n• Website: <https://llama.app>",
+      "sentiment": "neutral",
+      "keywords": [
+        "delete",
+        "fs_path_to_utf8",
+        "attestation",
+        "macos",
+        "ios"
+      ],
+      "thumbnail": "https://opengraph.githubassets.com/1b6221d5447c424c333cdd82ca8f2285458bcad0da839cd6225756ff9b748e8d/ggml-org/llama.cpp/releases/tag/b12015",
+      "cluster_id": "d9eb3c28-03cb-5b5d-8dfe-0addbb827bb7",
+      "cluster_size": 4,
+      "cluster_topics": [
+        "llama",
+        "https",
+        "cpp",
+        "details",
+        "attestations"
+      ],
+      "geo_title": "Why is ggml/llama.cpp release b12015 significant?",
+      "geo_keywords": [
+        "ggml/llama.cpp release",
+        "llm model update",
+        "machine learning library",
+        "ai model optimization",
+        "deep learning framework",
+        "latest ai technology",
+        "what changes were made in ggml/llama.cpp b12015",
+        "how does the new release of ggml/llama.cpp improve existing functionalities",
+        "delete fs_path_to_utf8 function removal",
+        "attestation for ggml/llama.cpp version b12015"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "Why is ggml/llama.cpp release b12015 significant?",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12015",
+        "description": "The ggml/llama.cpp project released version b12015, which includes a deletion of the fs_path_to_utf8() function. This update is significant for developers using the library on macOS and other platforms as it addresses specific functionality and may improve performance or compatibility.",
+        "keywords": "ggml/llama.cpp release, llm model update, machine learning library, ai model optimization, deep learning framework, latest ai technology, what changes were made in ggml/llama.cpp b12015, how does the new release of ggml/llama.cpp improve existing functionalities",
+        "datePublished": "2026-10-30T16:06:05Z",
+        "dateModified": "2026-10-30T16:06:05Z",
+        "author": {
+          "@type": "Organization",
+          "name": "ggml/llama.cpp releases",
+          "url": "https://github.com"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "releases",
+        "inLanguage": "en-US",
+        "wordCount": 39,
+        "articleBody": "The ggml/llama.cpp project released version b12015, which includes a deletion of the fs_path_to_utf8() function. This update is significant for developers using the library on macOS and other platforms as it addresses specific functionality and may improve performance or compatibility."
+      }
+    },
+    {
+      "source_id": "ggml_releases",
+      "source_name": "ggml/llama.cpp releases",
+      "title": "ggml/llama.cpp releases: b12014",
+      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12014",
+      "description": "<details open>\n\ncommon : drop the Windows argv reconstruction (#31417)\n\nThe manifest from #31329 already makes argv UTF-8.\n\nFixes #26416\n\nSigned-off-by: Adrien Gallouët <angt@huggingface.co>\n\n</details>\n\n**Website:**\n- <https://llama.app>\n\n**Attestations:**\n- <https://github.com/ggml-org/llama.cpp/a",
+      "published": "2026-10-30T15:29:26Z",
+      "score": 48,
+      "category": "releases",
+      "weight": 8,
+      "tag": "b12014",
+      "summary": "The ggml/llama.cpp project released version b12014, which addresses the issue of Windows argv reconstruction. This update is significant as it resolves a compatibility problem with UTF-8 encoding in manifests, fixing an existing issue and improving cross-platform functionality.",
+      "summary_detailed": "The ggml/llama.cpp project released a new version addressing the issue of Windows argv reconstruction, as reported in issue #31417. This update was signed off by Adrien Gallouët and is part of a broader effort to enhance cross-platform compatibility for the llama.cpp library. The fix ensures that the manifest from PR #31329 correctly handles UTF-8 encoding for argv on Windows, impacting users across different operating systems who rely on this library for natural language processing tasks.",
+      "summary_bullets": "• Drop the Windows argv reconstruction\n• Manifest from #31329 already makes argv UTF-8\n• Fixes #26416",
+      "sentiment": "neutral",
+      "keywords": [
+        "windows",
+        "argv",
+        "utf-8",
+        "fix",
+        "attestation"
+      ],
+      "thumbnail": "https://opengraph.githubassets.com/fc6ae5f53a076616645b38b00f6e1c72b01b502d5bafc0228689ec191aa6beb7/ggml-org/llama.cpp/releases/tag/b12014",
+      "cluster_id": "d9eb3c28-03cb-5b5d-8dfe-0addbb827bb7",
+      "cluster_size": 4,
+      "cluster_topics": [
+        "llama",
+        "https",
+        "cpp",
+        "details",
+        "attestations"
+      ],
+      "geo_title": "Why is Windows argv reconstruction dropped in ggml/llama.cpp b12014?",
+      "geo_keywords": [
+        "ggml/llama.cpp",
+        "windows argv",
+        "utf-8 encoding",
+        "issue fix",
+        "attestation update",
+        "hugging face",
+        "machine learning library",
+        "natural language processing"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "Why is Windows argv reconstruction dropped in ggml/llama.cpp b12014?",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12014",
+        "description": "The ggml/llama.cpp project released version b12014, which addresses the issue of Windows argv reconstruction. This update is significant as it resolves a compatibility problem with UTF-8 encoding in manifests, fixing an existing issue and improving cross-platform functionality.",
+        "keywords": "ggml/llama.cpp, windows argv, utf-8 encoding, issue fix, attestation update, hugging face, machine learning library, natural language processing",
+        "datePublished": "2026-10-30T15:29:26Z",
+        "dateModified": "2026-10-30T15:29:26Z",
+        "author": {
+          "@type": "Organization",
+          "name": "ggml/llama.cpp releases",
+          "url": "https://github.com"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "releases",
+        "inLanguage": "en-US",
+        "wordCount": 37,
+        "articleBody": "The ggml/llama.cpp project released version b12014, which addresses the issue of Windows argv reconstruction. This update is significant as it resolves a compatibility problem with UTF-8 encoding in manifests, fixing an existing issue and improving cross-platform functionality."
+      }
+    },
+    {
+      "source_id": "huggingface_transformers_releases",
+      "source_name": "Transformers releases",
+      "title": "Transformers releases: Patch release v5.22.1",
+      "url": "https://github.com/huggingface/transformers/releases/tag/v5.22.1",
+      "description": "# Patch release v5.22.1\r\n\r\nWe just had to fix the documentation! \r\n\r\n** [Fix] Remove WIP doc for Ml4 (https://github.com/huggingface/transformers/pull/50124) from @remi-or",
+      "published": "2026-10-30T09:36:03Z",
+      "score": 42,
+      "category": "releases",
+      "weight": 7,
+      "tag": "v5.22.1",
+      "summary": "Transformers version 5.22.1 was released with a fix to remove work-in-progress documentation related to Ml4, addressing ongoing development and clarity issues in the project. This update is crucial for maintaining accurate and useful documentation for users and contributors.",
+      "summary_detailed": "Patch release v5.22.1 of the Transformers library was issued to correct documentation issues, specifically removing a work-in-progress document related to Ml4. This update involves the Hugging Face community and impacts users of the Transformers library who rely on accurate documentation for their machine learning projects.",
+      "summary_bullets": "• Fix implemented to remove WIP doc for Ml4\n• Documentation issue resolved in v5.22.1\n• Patch release addresses remaining documentation errors",
+      "sentiment": "neutral",
+      "keywords": [
+        "patch release",
+        "documentation",
+        "fix",
+        "ml4",
+        "huggingface"
+      ],
+      "thumbnail": "https://opengraph.githubassets.com/91b9eea3a64082611d26d934a16ad5a2388f6f02516f38730d46d648fa6c6798/huggingface/transformers/releases/tag/v5.22.1",
+      "cluster_id": "e13deffd-50ea-517b-864c-3c23fd9a3cdd",
+      "cluster_size": 1,
+      "cluster_topics": [
+        "transformers",
+        "patch",
+        "release",
+        "fix",
+        "documentation"
+      ],
+      "geo_title": "Why was the WIP doc for Ml4 removed in Patch release v5.22.1?",
+      "geo_keywords": [
+        "transformers patch release",
+        "huggingface documentation fix",
+        "transformers v5.22.1",
+        "ml4 wip removal",
+        "transformer model update",
+        "huggingface release notes",
+        "what is transformers patch release",
+        "why was the documentation fixed in transformers"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "Why was the WIP doc for Ml4 removed in Patch release v5.22.1?",
+        "url": "https://github.com/huggingface/transformers/releases/tag/v5.22.1",
+        "description": "Transformers version 5.22.1 was released with a fix to remove work-in-progress documentation related to Ml4, addressing ongoing development and clarity issues in the project. This update is crucial for maintaining accurate and useful documentation for users and contributors.",
+        "keywords": "transformers patch release, huggingface documentation fix, transformers v5.22.1, ml4 wip removal, transformer model update, huggingface release notes, what is transformers patch release, why was the documentation fixed in transformers",
+        "datePublished": "2026-10-30T09:36:03Z",
+        "dateModified": "2026-10-30T09:36:03Z",
+        "author": {
+          "@type": "Organization",
+          "name": "Transformers releases",
+          "url": "https://github.com"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "releases",
+        "inLanguage": "en-US",
+        "wordCount": 38,
+        "articleBody": "Transformers version 5.22.1 was released with a fix to remove work-in-progress documentation related to Ml4, addressing ongoing development and clarity issues in the project. This update is crucial for maintaining accurate and useful documentation for users and contributors."
+      }
+    },
+    {
+      "source_id": "arxiv_cs_ai",
+      "source_name": "ArXiv cs.AI",
+      "title": "LRMoE: Demand-Side Load Re-Calibration for Efficient MoE Training on Memory-Constrained Nodes",
+      "url": "https://arxiv.org/abs/2610.37720",
+      "description": "arXiv:2610.37720v1 Announce Type: new \nAbstract: Sparse Mixture-of-Experts (MoE) models offer scalable capacity for Web applications, but uneven routing creates computation and communication bottlenecks. Existing placement and replication methods redistribute this workload, yet additional expert cop",
+      "published": "Sat, 31 Oct 2026 00:00:00 -0400",
+      "score": 35,
+      "category": "research",
+      "weight": 7,
+      "format": "article",
+      "summary": "A new method called Demand-Side Load Re-Calibration aims to improve the efficiency of training sparse Mixture-of-Experts (MoE) models on memory-constrained nodes by addressing uneven workload distribution, which is crucial for enhancing performance in Web applications.",
+      "summary_detailed": "The LRMoE method proposes a demand-side load re-calibration technique to address computational and communication inefficiencies in sparse Mixture-of-Experts (MoE) models on memory-constrained nodes. This approach aims to optimize the routing of workloads among experts, enhancing overall efficiency without requiring additional expert copies or complex redistribution strategies. The broader impact includes improved performance and scalability for web applications relying on MoE models, particularly in environments with limited memory resources.",
+      "summary_bullets": "• Sparse Mixture-of-Experts models provide scalable capacity for web applications.\n• Uneven workload distribution in MoE models leads to computation and communication bottlenecks.\n• Current methods of workload redistribution do not fully address these issues.",
+      "sentiment": "neutral",
+      "keywords": [
+        "demand-side load re-calibration",
+        "memory-constrained nodes",
+        "sparse mixture-of-experts",
+        "computational bottleneck",
+        "workload redistribution"
+      ],
+      "thumbnail": null,
+      "favicon": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=64",
+      "cluster_id": "f2ac8ad4-6889-5bcf-bc97-e5f468f31f07",
+      "cluster_size": 1,
+      "cluster_topics": [
+        "moe",
+        "lrmoe",
+        "demand-side",
+        "load",
+        "re-calibration"
+      ],
+      "geo_title": "Why is demand-side load re-calibration crucial for MoE training on memory-constrained nodes?",
+      "geo_keywords": [
+        "lrmoe",
+        "demand-side load re-calibration",
+        "memory-constrained nodes",
+        "sparse mixture-of-experts",
+        "workload optimization",
+        "computational bottleneck",
+        "expert allocation",
+        "web application scalability"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "Why is demand-side load re-calibration crucial for MoE training on memory-constrained nodes?",
+        "url": "https://arxiv.org/abs/2610.37720",
+        "description": "A new method called Demand-Side Load Re-Calibration aims to improve the efficiency of training sparse Mixture-of-Experts (MoE) models on memory-constrained nodes by addressing uneven workload distribution, which is crucial for enhancing performance in Web applications.",
+        "keywords": "lrmoe, demand-side load re-calibration, memory-constrained nodes, sparse mixture-of-experts, workload optimization, computational bottleneck, expert allocation, web application scalability",
+        "datePublished": "Sat, 31 Oct 2026 00:00:00 -0400",
+        "dateModified": "Sat, 31 Oct 2026 00:00:00 -0400",
+        "author": {
+          "@type": "Organization",
+          "name": "ArXiv cs.AI",
+          "url": "https://arxiv.org"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "research",
+        "inLanguage": "en-US",
+        "wordCount": 35,
+        "articleBody": "A new method called Demand-Side Load Re-Calibration aims to improve the efficiency of training sparse Mixture-of-Experts (MoE) models on memory-constrained nodes by addressing uneven workload distribution, which is crucial for enhancing performance in Web applications."
+      }
+    },
+    {
+      "source_id": "arxiv_cs_ai",
+      "source_name": "ArXiv cs.AI",
+      "title": "Amortized Localized Posterior Inference for Model Calibration with Application to an Ocean Turbulence Closure",
+      "url": "https://arxiv.org/abs/2610.37731",
+      "description": "arXiv:2610.37731v1 Announce Type: new \nAbstract: Model discrepancy may prevent a single calibration parameter from reproducing a physical response across the context domain. In addition, uncertainties in observations and contexts affect calibration and must be accounted for and quantified. We constr",
+      "published": "Sat, 31 Oct 2026 00:00:00 -0400",
+      "score": 35,
+      "category": "research",
+      "weight": 7,
+      "format": "article",
+      "summary": "A new method called amortized localized posterior inference is introduced to address model calibration issues by accounting for uncertainties in both observations and contexts, particularly in complex systems like ocean turbulence. This approach aims to improve the reliability of physical response predictions across different scenarios.",
+      "summary_detailed": "A new method called Amortized Localized Posterior Inference has been developed to address model calibration issues, particularly in ocean turbulence closure models. This approach aims to handle model discrepancies and account for uncertainties in observations and contexts. The broader impact includes improved accuracy and reliability of ocean modeling, which is crucial for climate studies and resource management.",
+      "summary_bullets": "• Model discrepancy can hinder accurate calibration across different contexts.\n• Uncertainties in observations and contexts need to be considered during calibration.\n• A new method for amortized localized posterior inference is proposed for model calibration.",
+      "sentiment": "neutral",
+      "keywords": [
+        "model calibration",
+        "ocean turbulence",
+        "posterior inference",
+        "model discrepancy",
+        "uncertainty quantification"
+      ],
+      "thumbnail": null,
+      "favicon": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=64",
+      "cluster_id": "2f3da7b2-ead4-5688-9f18-53b459cd113f",
+      "cluster_size": 1,
+      "cluster_topics": [
+        "calibration",
+        "model",
+        "amortized",
+        "localized",
+        "posterior"
+      ],
+      "geo_title": "How does amortized localized posterior inference improve model calibration for ocean turbulence?",
+      "geo_keywords": [
+        "amortized localized posterior inference",
+        "model calibration techniques",
+        "ocean turbulence closure models",
+        "uncertainty quantification in modeling",
+        "posterior inference methods",
+        "model discrepancy solutions",
+        "contextual uncertainties in model calibration",
+        "advanced calibration methodologies for ocean dynamics"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "How does amortized localized posterior inference improve model calibration for ocean turbulence?",
+        "url": "https://arxiv.org/abs/2610.37731",
+        "description": "A new method called amortized localized posterior inference is introduced to address model calibration issues by accounting for uncertainties in both observations and contexts, particularly in complex systems like ocean turbulence. This approach aims to improve the reliability of physical response predictions across different scenarios.",
+        "keywords": "amortized localized posterior inference, model calibration techniques, ocean turbulence closure models, uncertainty quantification in modeling, posterior inference methods, model discrepancy solutions, contextual uncertainties in model calibration, advanced calibration methodologies for ocean dynamics",
+        "datePublished": "Sat, 31 Oct 2026 00:00:00 -0400",
+        "dateModified": "Sat, 31 Oct 2026 00:00:00 -0400",
+        "author": {
+          "@type": "Organization",
+          "name": "ArXiv cs.AI",
+          "url": "https://arxiv.org"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "research",
+        "inLanguage": "en-US",
+        "wordCount": 45,
+        "articleBody": "A new method called amortized localized posterior inference is introduced to address model calibration issues by accounting for uncertainties in both observations and contexts, particularly in complex systems like ocean turbulence. This approach aims to improve the reliability of physical response predictions across different scenarios."
+      }
+    },
+    {
+      "source_id": "arxiv_cs_ai",
+      "source_name": "ArXiv cs.AI",
+      "title": "OpenFrontiers: A Collection of Open Research Problems and a Benchmark for Scientific Rediscovery",
+      "url": "https://arxiv.org/abs/2610.37739",
+      "description": "arXiv:2610.37739v1 Announce Type: new \nAbstract: Large language models (LLMs) have shown increasing promise in research-level problem solving, yet a comprehensive collection of such problems is still missing, and evaluating them on research-level problems remains challenging. We introduce OpenFronti",
+      "published": "Sat, 31 Oct 2026 00:00:00 -0400",
+      "score": 35,
+      "category": "research",
+      "weight": 7,
+      "format": "article",
+      "summary": "OpenFrontiers introduces a database of open research problems to evaluate large language models' capabilities in solving complex scientific issues, addressing the current gap in benchmarking these models at a research level. This initiative is crucial for advancing AI's role in scientific discovery and innovation.",
+      "summary_detailed": "OpenFrontiers is a new initiative that compiles open research problems to assess the capabilities of large language models (LLMs) in solving complex scientific challenges, addressing the current gap in comprehensive problem sets for such evaluations. This project aims to benchmark LLMs on research-level tasks and potentially advance scientific discovery through artificial intelligence. The broader impact could lie in enhancing the understanding of LLMs' limitations and capabilities, driving further improvements in AI technology and its application in scientific fields.",
+      "summary_bullets": "• OpenFrontiers aims to collect open research problems.\n• It serves as a benchmark for scientific rediscovery.\n• The initiative focuses on evaluating large language models.",
+      "sentiment": "neutral",
+      "keywords": [
+        "openfrontiers",
+        "open research problems",
+        "large language models",
+        "scientific rediscovery",
+        "benchmark"
+      ],
+      "thumbnail": null,
+      "favicon": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=64",
+      "cluster_id": "c926f349-e208-5132-be1b-bd4c5feebc28",
+      "cluster_size": 1,
+      "cluster_topics": [
+        "problems",
+        "collection",
+        "research-level",
+        "openfrontiers",
+        "benchmark"
+      ],
+      "geo_title": "Why is OpenFrontiers Important for Scientific Rediscovery with LLMs?",
+      "geo_keywords": [
+        "openfrontiers",
+        "open research problems",
+        "large language models",
+        "scientific rediscovery",
+        "benchmark",
+        "problem solving with ai",
+        "evaluation of ai in research",
+        "what are open research problems for ai",
+        "how can ai solve complex research problems"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "Why is OpenFrontiers Important for Scientific Rediscovery with LLMs?",
+        "url": "https://arxiv.org/abs/2610.37739",
+        "description": "OpenFrontiers introduces a database of open research problems to evaluate large language models' capabilities in solving complex scientific issues, addressing the current gap in benchmarking these models at a research level. This initiative is crucial for advancing AI's role in scientific discovery and innovation.",
+        "keywords": "openfrontiers, open research problems, large language models, scientific rediscovery, benchmark, problem solving with ai, evaluation of ai in research, what are open research problems for ai",
+        "datePublished": "Sat, 31 Oct 2026 00:00:00 -0400",
+        "dateModified": "Sat, 31 Oct 2026 00:00:00 -0400",
+        "author": {
+          "@type": "Organization",
+          "name": "ArXiv cs.AI",
+          "url": "https://arxiv.org"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "research",
+        "inLanguage": "en-US",
+        "wordCount": 44,
+        "articleBody": "OpenFrontiers introduces a database of open research problems to evaluate large language models' capabilities in solving complex scientific issues, addressing the current gap in benchmarking these models at a research level. This initiative is crucial for advancing AI's role in scientific discovery and innovation."
+      }
+    },
+    {
+      "source_id": "arxiv_cs_ai",
+      "source_name": "ArXiv cs.AI",
+      "title": "WebAnything: From the Wild Web to Scalable Agent Environments",
+      "url": "https://arxiv.org/abs/2610.37786",
+      "description": "arXiv:2610.37786v1 Announce Type: new \nAbstract: Web agents require diverse, executable, and resettable website environments for reproducible training and evaluation. Human-assisted mirrors demand per-site engineering, while generative construction can diverge from specified real websites. Capture-a",
+      "published": "Sat, 31 Oct 2026 00:00:00 -0400",
+      "score": 35,
+      "category": "research",
+      "weight": 7,
+      "format": "article",
+      "summary": "WebAnything introduces a method for creating scalable agent environments that can interact with various websites in a consistent and reproducible manner, addressing the challenges of using human-assisted or generatively constructed setups which are site-specific and may differ from actual websites. This innovation is crucial for training and evaluating web agents across diverse online platforms.",
+      "summary_detailed": "The research paper \"WebAnything\" addresses the challenges of creating scalable agent environments for web agents by proposing a method that automates the setup of diverse, executable, and resettable website environments. This approach aims to overcome the limitations of human-assisted mirrors and generative construction methods, which can be site-specific and diverge from real websites. The broader impact could lead to more robust and reproducible training and evaluation processes for web agents across various platforms.",
+      "summary_bullets": "• Web agents need diverse, executable, and resettable website environments.\n• Human-assisted mirror creation requires per-site engineering.\n• Generative construction may diverge from actual real-world websites.",
+      "sentiment": "neutral",
+      "keywords": [
+        "web agents",
+        "scalable agent environments",
+        "reproducible training",
+        "generative construction",
+        "website environments"
+      ],
+      "thumbnail": null,
+      "favicon": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=64",
+      "cluster_id": "58eeb535-de68-5220-bf87-98fa9f33f4ec",
+      "cluster_size": 1,
+      "cluster_topics": [
+        "environments",
+        "web",
+        "webanything",
+        "wild",
+        "require"
+      ],
+      "geo_title": "How does WebAnything create scalable agent environments from the wild web?",
+      "geo_keywords": [
+        "web agents",
+        "scalable agent environments",
+        "reproducible training",
+        "generative construction",
+        "website environments",
+        "ai web agent development",
+        "real website simulation",
+        "web agent evaluation techniques",
+        "automated website environment creation",
+        "web agent testing frameworks"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "How does WebAnything create scalable agent environments from the wild web?",
+        "url": "https://arxiv.org/abs/2610.37786",
+        "description": "WebAnything introduces a method for creating scalable agent environments that can interact with various websites in a consistent and reproducible manner, addressing the challenges of using human-assisted or generatively constructed setups which are site-specific and may differ from actual websites. This innovation is crucial for training and evaluating web agents across diverse online platforms.",
+        "keywords": "web agents, scalable agent environments, reproducible training, generative construction, website environments, ai web agent development, real website simulation, web agent evaluation techniques",
+        "datePublished": "Sat, 31 Oct 2026 00:00:00 -0400",
+        "dateModified": "Sat, 31 Oct 2026 00:00:00 -0400",
+        "author": {
+          "@type": "Organization",
+          "name": "ArXiv cs.AI",
+          "url": "https://arxiv.org"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "research",
+        "inLanguage": "en-US",
+        "wordCount": 54,
+        "articleBody": "WebAnything introduces a method for creating scalable agent environments that can interact with various websites in a consistent and reproducible manner, addressing the challenges of using human-assisted or generatively constructed setups which are site-specific and may differ from actual websites. This innovation is crucial for training and evaluating web agents across diverse online platforms."
+      }
+    },
+    {
+      "source_id": "arxiv_cs_ai",
+      "source_name": "ArXiv cs.AI",
+      "title": "What Does an Ontology Catch? Curated, LLM-Generated and Data-Derived Ontologies as Checkers of LLM Agents over Knowledge Graphs",
+      "url": "https://arxiv.org/abs/2610.37809",
+      "description": "arXiv:2610.37809v1 Announce Type: new \nAbstract: LLM agents that answer questions over Web knowledge graphs are increasingly wrapped in checks derived from the graph's ontology, on the assumption that a formal schema makes a reliable judge. Yet a checker can be wrong as well: it can miss errors, and",
+      "published": "Sat, 31 Oct 2026 00:00:00 -0400",
+      "score": 35,
+      "category": "research",
+      "weight": 7,
+      "format": "article",
+      "summary": "A new approach uses ontologies to check LLM agents answering questions based on knowledge graphs, assuming formal schemas ensure reliability; however, these checks are not infallible and can themselves make mistakes.",
+      "summary_detailed": "The research explores the use of ontologies to check the accuracy of Large Language Model (LLM) agents answering questions based on web knowledge graphs. It highlights that while ontologies serve as reliable judges due to their formal schema, they are not infallible and can also miss errors. Broader impacts include enhancing the reliability of LLM-generated information by integrating ontology-based checks but acknowledging the limitations in their error detection capabilities.",
+      "summary_bullets": "• LLM agents now use ontologies to check answers against web knowledge graphs.\n• Ontologies are assumed to provide a reliable basis for these checks.\n• However, ontologies themselves may not always catch all errors accurately.",
+      "sentiment": "neutral",
+      "keywords": [
+        "llm agents",
+        "ontology",
+        "knowledge graphs",
+        "checks",
+        "reliability"
+      ],
+      "thumbnail": null,
+      "favicon": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=64",
+      "cluster_id": "c3cb41fd-f1a9-51b9-a174-98b82105382d",
+      "cluster_size": 1,
+      "cluster_topics": [
+        "ontology",
+        "graphs",
+        "knowledge",
+        "llm",
+        "agents"
+      ],
+      "geo_title": "Why Are Ontologies Used to Check LLM Agents on Knowledge Graphs?",
+      "geo_keywords": [
+        "ontology-based checks",
+        "llm agent verification",
+        "knowledge graph validation",
+        "formal schema reliability",
+        "semantic correctness",
+        "ontological errors",
+        "llm-generated ontologies",
+        "data-derived ontologies",
+        "web knowledge graph integrity",
+        "ontology-driven verification",
+        "llm-agent reliability",
+        "semantic web security"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "Why Are Ontologies Used to Check LLM Agents on Knowledge Graphs?",
+        "url": "https://arxiv.org/abs/2610.37809",
+        "description": "A new approach uses ontologies to check LLM agents answering questions based on knowledge graphs, assuming formal schemas ensure reliability; however, these checks are not infallible and can themselves make mistakes.",
+        "keywords": "ontology-based checks, llm agent verification, knowledge graph validation, formal schema reliability, semantic correctness, ontological errors, llm-generated ontologies, data-derived ontologies",
+        "datePublished": "Sat, 31 Oct 2026 00:00:00 -0400",
+        "dateModified": "Sat, 31 Oct 2026 00:00:00 -0400",
+        "author": {
+          "@type": "Organization",
+          "name": "ArXiv cs.AI",
+          "url": "https://arxiv.org"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "research",
+        "inLanguage": "en-US",
+        "wordCount": 31,
+        "articleBody": "A new approach uses ontologies to check LLM agents answering questions based on knowledge graphs, assuming formal schemas ensure reliability; however, these checks are not infallible and can themselves make mistakes."
+      }
+    },
+    {
+      "source_id": "arxiv_cs_ai",
+      "source_name": "ArXiv cs.AI",
+      "title": "Measuring Where Intent Gets Lost in Agentic Smart Contract Synthesis",
+      "url": "https://arxiv.org/abs/2610.37830",
+      "description": "arXiv:2610.37830v1 Announce Type: new \nAbstract: AI agents can now write software from a plain-English description, but code that runs is not the same as code that does what was asked. This gap matters most for smart contracts, the programs behind Web3 applications that move money on a blockchain an",
+      "published": "Sat, 31 Oct 2026 00:00:00 -0400",
+      "score": 35,
+      "category": "research",
+      "weight": 7,
+      "format": "article",
+      "summary": "AI tools allow writing software via natural language, but there's often a discrepancy between intended functionality and actual outcomes, especially critical in smart contracts used in Web3 applications where precise code execution is essential. This gap highlights the need for better alignment between human intent and automated code generation to prevent errors that could lead to financial loss or security vulnerabilities.",
+      "summary_detailed": "AI agents can now generate software from plain-English descriptions, yet there's often a discrepancy between the intended outcome and the actual functionality of the code, particularly in smart contracts used in Web3 applications. This gap is highlighted as critical because smart contracts automatically execute financial transactions on blockchains, making their precise behavior essential for trust and security. The research underscores the need for better alignment between human intent and machine execution to prevent errors that could lead to significant financial losses or legal issues.",
+      "summary_bullets": "• AI agents can translate plain-English descriptions into executable code.\n• The translated code may not always fulfill the intended purpose.\n• Smart contracts are particularly vulnerable to this discrepancy.\n• This issue is critical for Web3 applications involving financial transactions.",
+      "sentiment": "neutral",
+      "keywords": [
+        "smart contracts",
+        "ai agents",
+        "web3",
+        "blockchain",
+        "intent gap"
+      ],
+      "thumbnail": null,
+      "favicon": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=64",
+      "cluster_id": "46ab8111-4090-59dc-9620-ac93b91f66ad",
+      "cluster_size": 1,
+      "cluster_topics": [
+        "smart",
+        "code",
+        "measuring",
+        "intent",
+        "gets"
+      ],
+      "geo_title": "Why Is There A Gap Between Agentic Smart Contract Intent And Reality?",
+      "geo_keywords": [
+        "smart contract intent gap",
+        "ai agent software synthesis",
+        "web3 application programming",
+        "blockchain technology challenges",
+        "ai generated code accuracy",
+        "smart contract functionality vs intent",
+        "how ai agents write smart contracts",
+        "ensuring smart contract intent is met"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "Why Is There A Gap Between Agentic Smart Contract Intent And Reality?",
+        "url": "https://arxiv.org/abs/2610.37830",
+        "description": "AI tools allow writing software via natural language, but there's often a discrepancy between intended functionality and actual outcomes, especially critical in smart contracts used in Web3 applications where precise code execution is essential. This gap highlights the need for better alignment between human intent and automated code generation to prevent errors that could lead to financial loss or security vulnerabilities.",
+        "keywords": "smart contract intent gap, ai agent software synthesis, web3 application programming, blockchain technology challenges, ai generated code accuracy, smart contract functionality vs intent, how ai agents write smart contracts, ensuring smart contract intent is met",
+        "datePublished": "Sat, 31 Oct 2026 00:00:00 -0400",
+        "dateModified": "Sat, 31 Oct 2026 00:00:00 -0400",
+        "author": {
+          "@type": "Organization",
+          "name": "ArXiv cs.AI",
+          "url": "https://arxiv.org"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "research",
+        "inLanguage": "en-US",
+        "wordCount": 61,
+        "articleBody": "AI tools allow writing software via natural language, but there's often a discrepancy between intended functionality and actual outcomes, especially critical in smart contracts used in Web3 applications where precise code execution is essential. This gap highlights the need for better alignment between human intent and automated code generation to prevent errors that could lead to financial loss or security vulnerabilities."
+      }
+    },
+    {
+      "source_id": "arxiv_cs_ai",
+      "source_name": "ArXiv cs.AI",
+      "title": "Detecting Covert Collusion between AI Agents through Partner-Outsider Positive Listening",
+      "url": "https://arxiv.org/abs/2610.37849",
+      "description": "arXiv:2610.37849v1 Announce Type: new \nAbstract: AI agents that share a secret convention can coordinate through messages that look innocent, so a monitor that reads only the messages can miss them. We propose a behavioural test: a partner that uses a code reacts to the exact wording of a message, w",
+      "published": "Sat, 31 Oct 2026 00:00:00 -0400",
+      "score": 35,
+      "category": "research",
+      "weight": 7,
+      "format": "article",
+      "summary": "A new method detects covert collusion between AI agents by having a monitor listen for how an \"outsider\" partner responds to specific message wording, as opposed to just the content. This is crucial because standard monitoring techniques might overlook secret communications that appear innocuous.",
+      "summary_detailed": "Researchers have developed a new method to detect covert collusion among AI agents by using \"partner-outside positive listening,\" where a monitor listens for specific reactions from an AI agent when it receives certain messages. This technique is crucial as it helps in identifying secret communications that conventional monitoring might overlook, thereby enhancing the transparency and security of AI systems. The broader impact could be significant in various fields such as finance, politics, and cybersecurity, where AI agents may need to operate without revealing their intentions or strategies.",
+      "summary_bullets": "• Covert collusion between AI agents can occur via shared secret conventions.\n• Messages between AI agents may appear innocent but convey hidden information.\n• A monitoring system that only examines messages might fail to detect such collusion.\n• Proposed test involves using a partner agent that recognizes coded messages.\n• Reacting to the exact wording of a message helps identify coordinated behavior.",
+      "sentiment": "neutral",
+      "keywords": [
+        "covert collusion",
+        "ai agents",
+        "secret convention",
+        "behavioral test",
+        "innocent messages"
+      ],
+      "thumbnail": null,
+      "favicon": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=64",
+      "cluster_id": "6875ba77-6daa-5f4b-b4b5-cf575e1b384a",
+      "cluster_size": 1,
+      "cluster_topics": [
+        "messages",
+        "through",
+        "agents",
+        "detecting",
+        "covert"
+      ],
+      "geo_title": "Why is monitoring AI collusion challenging with just message content analysis?",
+      "geo_keywords": [
+        "covert collusion",
+        "ai agents",
+        "secret convention",
+        "behavioral test",
+        "innocent messages",
+        "detecting hidden coordination",
+        "monitoring ai communication",
+        "identifying coded messages"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "Why is monitoring AI collusion challenging with just message content analysis?",
+        "url": "https://arxiv.org/abs/2610.37849",
+        "description": "A new method detects covert collusion between AI agents by having a monitor listen for how an \"outsider\" partner responds to specific message wording, as opposed to just the content. This is crucial because standard monitoring techniques might overlook secret communications that appear innocuous.",
+        "keywords": "covert collusion, ai agents, secret convention, behavioral test, innocent messages, detecting hidden coordination, monitoring ai communication, identifying coded messages",
+        "datePublished": "Sat, 31 Oct 2026 00:00:00 -0400",
+        "dateModified": "Sat, 31 Oct 2026 00:00:00 -0400",
+        "author": {
+          "@type": "Organization",
+          "name": "ArXiv cs.AI",
+          "url": "https://arxiv.org"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "research",
+        "inLanguage": "en-US",
+        "wordCount": 44,
+        "articleBody": "A new method detects covert collusion between AI agents by having a monitor listen for how an \"outsider\" partner responds to specific message wording, as opposed to just the content. This is crucial because standard monitoring techniques might overlook secret communications that appear innocuous."
+      }
+    },
+    {
+      "source_id": "arxiv_cs_ai",
+      "source_name": "ArXiv cs.AI",
+      "title": "Evaluating and improving AI agents for sequencing protocol understanding",
+      "url": "https://arxiv.org/abs/2610.37851",
+      "description": "arXiv:2610.37851v1 Announce Type: new \nAbstract: Existing scientific-agent benchmarks rarely evaluate whether agents can reconstruct the exact molecular structures and generation workflows specified by sequencing protocols, a capability critical for analyzing customized sequencing assays. We introdu",
+      "published": "Sat, 31 Oct 2026 00:00:00 -0400",
+      "score": 35,
+      "category": "research",
+      "weight": 7,
+      "format": "article",
+      "summary": "A new study evaluates AI agents' ability to understand and reconstruct molecular structures from sequencing protocols, highlighting a crucial but under-addressed aspect of scientific-agent benchmarks that is essential for accurate assay analysis. This research matters because it identifies a gap in current evaluation methods, potentially improving the reliability of AI in genomic research.",
+      "summary_detailed": "Researchers are developing new benchmarks to assess AI agents' ability to accurately reconstruct molecular structures and workflow specifications from sequencing protocols, crucial for custom sequencing analyses. This initiative aims to improve the reliability of AI in scientific applications by ensuring agents can precisely follow complex experimental procedures. The broader impact could enhance the accuracy and reproducibility of genetic research using AI.",
+      "summary_bullets": "• Existing benchmarks do not adequately assess AI agents' ability to reconstruct molecular structures.\n• The study highlights a crucial capability missing in current scientific-agent evaluations.\n• Researchers aim to improve AI understanding of sequencing protocols for better assay analysis.",
+      "sentiment": "neutral",
+      "keywords": [
+        "ai agents",
+        "sequencing protocols",
+        "molecular structures",
+        "workflow reconstruction",
+        "scientific-agent benchmarks"
+      ],
+      "thumbnail": null,
+      "favicon": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=64",
+      "cluster_id": "92732fac-fc9b-51b7-88cf-795f5b667a97",
+      "cluster_size": 1,
+      "cluster_topics": [
+        "sequencing",
+        "agents",
+        "scientific-agent",
+        "rarely",
+        "whether"
+      ],
+      "geo_title": "Why is evaluating AI agents crucial for sequencing protocol understanding?",
+      "geo_keywords": [
+        "ai agents for sequencing",
+        "evaluating ai in sequencing",
+        "workflow reconstruction in ai",
+        "ai agents molecular structures",
+        "scientific-agent benchmarks sequencing",
+        "improving ai for sequencing",
+        "ai in molecular biology sequencing",
+        "understanding sequencing protocols with ai",
+        "ai agents for protocol reconstruction"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "Why is evaluating AI agents crucial for sequencing protocol understanding?",
+        "url": "https://arxiv.org/abs/2610.37851",
+        "description": "A new study evaluates AI agents' ability to understand and reconstruct molecular structures from sequencing protocols, highlighting a crucial but under-addressed aspect of scientific-agent benchmarks that is essential for accurate assay analysis. This research matters because it identifies a gap in current evaluation methods, potentially improving the reliability of AI in genomic research.",
+        "keywords": "ai agents for sequencing, evaluating ai in sequencing, workflow reconstruction in ai, ai agents molecular structures, scientific-agent benchmarks sequencing, improving ai for sequencing, ai in molecular biology sequencing, understanding sequencing protocols with ai",
+        "datePublished": "Sat, 31 Oct 2026 00:00:00 -0400",
+        "dateModified": "Sat, 31 Oct 2026 00:00:00 -0400",
+        "author": {
+          "@type": "Organization",
+          "name": "ArXiv cs.AI",
+          "url": "https://arxiv.org"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "research",
+        "inLanguage": "en-US",
+        "wordCount": 53,
+        "articleBody": "A new study evaluates AI agents' ability to understand and reconstruct molecular structures from sequencing protocols, highlighting a crucial but under-addressed aspect of scientific-agent benchmarks that is essential for accurate assay analysis. This research matters because it identifies a gap in current evaluation methods, potentially improving the reliability of AI in genomic research."
+      }
+    },
+    {
+      "source_id": "arxiv_cs_ai",
+      "source_name": "ArXiv cs.AI",
+      "title": "Seq@K: Evaluating Language Models Under Sequential Feedback",
+      "url": "https://arxiv.org/abs/2610.37859",
+      "description": "arXiv:2610.37859v1 Announce Type: new \nAbstract: Language-model agents differ fundamentally from prior intelligent systems in their ability to learn from natural language in context. This capability enables agents to iteratively refine their answers in response to feedback, a prevalent mode of opera",
+      "published": "Sat, 31 Oct 2026 00:00:00 -0400",
+      "score": 35,
+      "category": "research",
+      "weight": 7,
+      "format": "article",
+      "summary": "The paper \"Seq@K: Evaluating Language Models Under Sequential Feedback\" introduces a new method for assessing how well language models can improve their responses through iterative refinement based on natural language feedback. This is significant because it addresses the unique capability of modern language models to learn and adapt in real-time, distinguishing them from previous AI systems.",
+      "summary_detailed": "Researchers have developed Seq@K, a method for evaluating how well language models can improve their responses through sequential feedback. The approach focuses on the iterative refinement process where models adjust their outputs based on natural language input from users. This evaluation technique could significantly impact the development and deployment of conversational AI systems by providing more realistic assessments of their dynamic learning abilities.",
+      "summary_bullets": "• Language models can learn from natural language context.\n• They can iteratively refine answers based on feedback.\n• Sequential feedback is a common method for operating these agents.",
+      "sentiment": "neutral",
+      "keywords": [
+        "language models",
+        "sequential feedback",
+        "intelligent systems",
+        "natural language",
+        "iterative refinement"
+      ],
+      "thumbnail": null,
+      "favicon": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=64",
+      "cluster_id": "28cb4844-db74-5396-bed6-2d40f6dde7d4",
+      "cluster_size": 1,
+      "cluster_topics": [
+        "feedback",
+        "language",
+        "agents",
+        "seq",
+        "sequential"
+      ],
+      "geo_title": "Why is Seq@K Important for Evaluating Language Models?",
+      "geo_keywords": [
+        "seq@k",
+        "language model evaluation",
+        "sequential feedback mechanism",
+        "intelligent system improvement",
+        "natural language processing iteration",
+        "chatbot refinement",
+        "ai dialogue enhancement",
+        "sequential user feedback analysis"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "Why is Seq@K Important for Evaluating Language Models?",
+        "url": "https://arxiv.org/abs/2610.37859",
+        "description": "The paper \"Seq@K: Evaluating Language Models Under Sequential Feedback\" introduces a new method for assessing how well language models can improve their responses through iterative refinement based on natural language feedback. This is significant because it addresses the unique capability of modern language models to learn and adapt in real-time, distinguishing them from previous AI systems.",
+        "keywords": "seq@k, language model evaluation, sequential feedback mechanism, intelligent system improvement, natural language processing iteration, chatbot refinement, ai dialogue enhancement, sequential user feedback analysis",
+        "datePublished": "Sat, 31 Oct 2026 00:00:00 -0400",
+        "dateModified": "Sat, 31 Oct 2026 00:00:00 -0400",
+        "author": {
+          "@type": "Organization",
+          "name": "ArXiv cs.AI",
+          "url": "https://arxiv.org"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "research",
+        "inLanguage": "en-US",
+        "wordCount": 56,
+        "articleBody": "The paper \"Seq@K: Evaluating Language Models Under Sequential Feedback\" introduces a new method for assessing how well language models can improve their responses through iterative refinement based on natural language feedback. This is significant because it addresses the unique capability of modern language models to learn and adapt in real-time, distinguishing them from previous AI systems."
+      }
+    },
+    {
+      "source_id": "arxiv_cs_ai",
+      "source_name": "ArXiv cs.AI",
+      "title": "Verification Learning Theory: A Process Model of Checking and Retention in AI-Assisted Judgment",
+      "url": "https://arxiv.org/abs/2610.37875",
+      "description": "arXiv:2610.37875v1 Announce Type: new \nAbstract: Accurate AI assistance can improve immediate judgments while reducing opportunities to practise the operations needed for independent performance. Verification Learning Theory (VLT) formalises this possibility for claim-evaluation practice followed by",
+      "published": "Sat, 31 Oct 2026 00:00:00 -0400",
+      "score": 35,
+      "category": "research",
+      "weight": 7,
+      "format": "article",
+      "summary": "Verification Learning Theory (VLT) suggests that accurate AI assistance can enhance immediate judgments but may reduce the need for practitioners to independently perform necessary operations, potentially impacting their long-term retention and skill maintenance. This theory is crucial as it highlights the balance between leveraging AI for accuracy and ensuring ongoing skill development in judgment tasks.",
+      "summary_detailed": "Verification Learning Theory (VLT) proposes a process model where accurate AI assistance enhances initial judgment accuracy but may reduce the opportunity for practitioners to develop independent judgment skills through necessary practice. This theory involves AI-assisted judgment processes and their impact on learning. The broader impact includes potential improvements in immediate decision-making accuracy but also raises concerns about long-term retention and skill development among users.",
+      "summary_bullets": "• VLT addresses how AI-assisted verification impacts learning.\n• It highlights reduced need for independent practice due to accurate AI.\n• VLT models the process of checking and retaining information.",
+      "sentiment": "neutral",
+      "keywords": [
+        "verification learning theory",
+        "ai-assisted judgment",
+        "accuracy",
+        "practice",
+        "retention"
+      ],
+      "thumbnail": null,
+      "favicon": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=64",
+      "cluster_id": "fb875e83-33a7-50c6-a3e2-e6e3bfe899bc",
+      "cluster_size": 1,
+      "cluster_topics": [
+        "verification",
+        "theory",
+        "learning",
+        "process",
+        "checking"
+      ],
+      "geo_title": "Why is verification crucial in AI-assisted decision-making?",
+      "geo_keywords": [
+        "verification learning theory",
+        "ai-assisted judgment",
+        "accuracy improvement",
+        "practice reduction",
+        "retention enhancement",
+        "claim evaluation",
+        "independent performance",
+        "cognitive psychology",
+        "decision-making aids",
+        "machine learning theory",
+        "artificial intelligence education",
+        "judgment accuracy"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "Why is verification crucial in AI-assisted decision-making?",
+        "url": "https://arxiv.org/abs/2610.37875",
+        "description": "Verification Learning Theory (VLT) suggests that accurate AI assistance can enhance immediate judgments but may reduce the need for practitioners to independently perform necessary operations, potentially impacting their long-term retention and skill maintenance. This theory is crucial as it highlights the balance between leveraging AI for accuracy and ensuring ongoing skill development in judgment tasks.",
+        "keywords": "verification learning theory, ai-assisted judgment, accuracy improvement, practice reduction, retention enhancement, claim evaluation, independent performance, cognitive psychology",
+        "datePublished": "Sat, 31 Oct 2026 00:00:00 -0400",
+        "dateModified": "Sat, 31 Oct 2026 00:00:00 -0400",
+        "author": {
+          "@type": "Organization",
+          "name": "ArXiv cs.AI",
+          "url": "https://arxiv.org"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "research",
+        "inLanguage": "en-US",
+        "wordCount": 55,
+        "articleBody": "Verification Learning Theory (VLT) suggests that accurate AI assistance can enhance immediate judgments but may reduce the need for practitioners to independently perform necessary operations, potentially impacting their long-term retention and skill maintenance. This theory is crucial as it highlights the balance between leveraging AI for accuracy and ensuring ongoing skill development in judgment tasks."
+      }
+    },
+    {
+      "source_id": "arxiv_cs_ai",
+      "source_name": "ArXiv cs.AI",
+      "title": "FilingLoop: Evaluating and Evolving LLM Agents for Corporate Disclosure Review and Revision",
+      "url": "https://arxiv.org/abs/2610.37905",
+      "description": "arXiv:2610.37905v1 Announce Type: new \nAbstract: Public disclosure repositories such as SEC EDGAR support informed investment through web access to corporate filings. Supporting their review with language model agents requires discovering unstated deficiencies across related documents, acquiring mis",
+      "published": "Sat, 31 Oct 2026 00:00:00 -0400",
+      "score": 35,
+      "category": "research",
+      "weight": 7,
+      "format": "article",
+      "summary": "A new study evaluates and improves language model agents for reviewing corporate disclosures, aiming to enhance the accuracy of web-accessible filings by identifying inconsistencies across documents. This matters because it could lead to more informed investment decisions by uncovering hidden issues in company reports.",
+      "summary_detailed": "The research paper \"FilingLoop\" evaluates and proposes improvements for language model agents used in reviewing corporate disclosures, focusing on identifying unaddressed issues across related documents and enhancing the accuracy of these models. The study involves researchers from various institutions aiming to support more informed investment decisions by improving the review process. Broader impacts include potentially reducing misstatements and increasing transparency in financial reporting.",
+      "summary_bullets": "• FilingLoop evaluates and evolves LLM agents for corporate disclosure review.\n• It focuses on identifying unstated deficiencies across related documents.\n• The system aims to support informed investment through improved document analysis.",
+      "sentiment": "neutral",
+      "keywords": [
+        "corporate filings",
+        "sec edgar",
+        "language model agents",
+        "disclosure review",
+        "investment support"
+      ],
+      "thumbnail": null,
+      "favicon": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=64",
+      "cluster_id": "3109e69b-3f19-5d5b-88e5-c558aa89deaf",
+      "cluster_size": 1,
+      "cluster_topics": [
+        "corporate",
+        "disclosure",
+        "review",
+        "agents",
+        "filingloop"
+      ],
+      "geo_title": "How does FilingLoop enhance LLM agents for corporate disclosure review?",
+      "geo_keywords": [
+        "corporate filings",
+        "sec edgar",
+        "language model agents",
+        "disclosure review",
+        "investment support",
+        "ai in finance",
+        "natural language processing for compliance",
+        "automated document analysis",
+        "unstructured data analysis",
+        "regulatory compliance tools",
+        "corporate governance technology",
+        "financial reporting automation"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "How does FilingLoop enhance LLM agents for corporate disclosure review?",
+        "url": "https://arxiv.org/abs/2610.37905",
+        "description": "A new study evaluates and improves language model agents for reviewing corporate disclosures, aiming to enhance the accuracy of web-accessible filings by identifying inconsistencies across documents. This matters because it could lead to more informed investment decisions by uncovering hidden issues in company reports.",
+        "keywords": "corporate filings, sec edgar, language model agents, disclosure review, investment support, ai in finance, natural language processing for compliance, automated document analysis",
+        "datePublished": "Sat, 31 Oct 2026 00:00:00 -0400",
+        "dateModified": "Sat, 31 Oct 2026 00:00:00 -0400",
+        "author": {
+          "@type": "Organization",
+          "name": "ArXiv cs.AI",
+          "url": "https://arxiv.org"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "research",
+        "inLanguage": "en-US",
+        "wordCount": 44,
+        "articleBody": "A new study evaluates and improves language model agents for reviewing corporate disclosures, aiming to enhance the accuracy of web-accessible filings by identifying inconsistencies across documents. This matters because it could lead to more informed investment decisions by uncovering hidden issues in company reports."
+      }
+    },
+    {
+      "source_id": "arxiv_cs_ai",
+      "source_name": "ArXiv cs.AI",
+      "title": "Beyond Low-Pass Dynamics: Frequency-Selective Spiking Reservoirs with Resonant Neurons",
+      "url": "https://arxiv.org/abs/2610.37906",
+      "description": "arXiv:2610.37906v1 Announce Type: new \nAbstract: Spiking reservoir computing combines the training efficiency of fixed recurrent reservoirs with the energy efficiency of event-driven inference, where computation is triggered by sparse spikes rather than executed densely at every timestep. However, e",
+      "published": "Sat, 31 Oct 2026 00:00:00 -0400",
+      "score": 35,
+      "category": "research",
+      "weight": 7,
+      "format": "article",
+      "summary": "A new approach in spiking reservoir computing uses resonant neurons to create frequency-selective spiking reservoirs, enhancing the energy efficiency of computations by triggering them only when necessary, thus moving beyond traditional low-pass dynamics. This advancement is crucial as it could lead to more efficient neural network models for real-time applications requiring minimal power consumption.",
+      "summary_detailed": "Researchers have developed frequency-selective spiking reservoirs using resonant neurons, enhancing spiking reservoir computing by improving its training efficiency and energy efficiency through more precise spike-triggered computations. This advancement involves combining fixed recurrent reservoirs with event-driven inference, where computation is activated only when necessary spikes occur. The broader impact could lead to more efficient neural network models in applications requiring low power consumption, such as wearable devices or edge computing environments.",
+      "summary_bullets": "• Spiking reservoir computing enhances both training efficiency and energy efficiency.\n• Computation in this model is triggered by sparse spikes, reducing unnecessary processing.\n• Resonant neurons contribute to frequency-selective spiking behavior.",
+      "sentiment": "neutral",
+      "keywords": [
+        "spiking reservoir computing",
+        "frequency-selective spiking",
+        "resonant neurons"
+      ],
+      "thumbnail": null,
+      "favicon": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=64",
+      "cluster_id": "8197cc17-b2af-592c-8430-1b1a202116d3",
+      "cluster_size": 1,
+      "cluster_topics": [
+        "spiking",
+        "reservoirs",
+        "efficiency",
+        "beyond",
+        "low-pass"
+      ],
+      "geo_title": "Why is spiking reservoir computing gaining attention in neural networks?",
+      "geo_keywords": [
+        "spiking reservoir computing",
+        "frequency-selective spiking",
+        "resonant neurons",
+        "event-driven inference",
+        "computational efficiency",
+        "neural network technology",
+        "low-pass dynamics",
+        "spike-based computation"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "Why is spiking reservoir computing gaining attention in neural networks?",
+        "url": "https://arxiv.org/abs/2610.37906",
+        "description": "A new approach in spiking reservoir computing uses resonant neurons to create frequency-selective spiking reservoirs, enhancing the energy efficiency of computations by triggering them only when necessary, thus moving beyond traditional low-pass dynamics. This advancement is crucial as it could lead to more efficient neural network models for real-time applications requiring minimal power consumption.",
+        "keywords": "spiking reservoir computing, frequency-selective spiking, resonant neurons, event-driven inference, computational efficiency, neural network technology, low-pass dynamics, spike-based computation",
+        "datePublished": "Sat, 31 Oct 2026 00:00:00 -0400",
+        "dateModified": "Sat, 31 Oct 2026 00:00:00 -0400",
+        "author": {
+          "@type": "Organization",
+          "name": "ArXiv cs.AI",
+          "url": "https://arxiv.org"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "research",
+        "inLanguage": "en-US",
+        "wordCount": 54,
+        "articleBody": "A new approach in spiking reservoir computing uses resonant neurons to create frequency-selective spiking reservoirs, enhancing the energy efficiency of computations by triggering them only when necessary, thus moving beyond traditional low-pass dynamics. This advancement is crucial as it could lead to more efficient neural network models for real-time applications requiring minimal power consumption."
+      }
+    },
+    {
+      "source_id": "arxiv_cs_ai",
+      "source_name": "ArXiv cs.AI",
+      "title": "SciGame: Let Agents Play the Scientific Discovery Games in the Real and Counterfactual World",
+      "url": "https://arxiv.org/abs/2610.37919",
+      "description": "arXiv:2610.37919v1 Announce Type: new \nAbstract: Large language model agents are increasingly used for scientific discovery. However, existing benchmarks mix law inference with programming, score data fitting instead of prediction on unseen inputs, and do not separate empirical evidence from pretrai",
+      "published": "Sat, 31 Oct 2026 00:00:00 -0400",
+      "score": 35,
+      "category": "research",
+      "weight": 7,
+      "format": "article",
+      "summary": "Large language models are being employed for scientific discovery, but current benchmarks fail to adequately assess their predictive capabilities due to mixed tasks and improper scoring methods. This new initiative aims to create more realistic and counterfactual scenarios for these agents to explore, improving how they handle empirical evidence and unseen data in scientific research.",
+      "summary_detailed": "A new benchmark called SciGame has been introduced to evaluate large language model agents in the context of scientific discovery by separating empirical evidence from pretraining. The benchmark involves both real-world and counterfactual scenarios, allowing agents to play games that simulate scientific exploration. This initiative aims to better assess the predictive capabilities of these models in scientific contexts beyond just data fitting or programming tasks.",
+      "summary_bullets": "• Large language models are employed in scientific discovery.\n• Current benchmarks combine law inference with programming tasks.\n• Benchmarks score data fitting rather than predictions for unseen inputs.\n• There is no separation between empirical evidence and pretrained capabilities.",
+      "sentiment": "neutral",
+      "keywords": [
+        "large language models",
+        "scientific discovery",
+        "benchmarks",
+        "empirical evidence",
+        "prediction"
+      ],
+      "thumbnail": null,
+      "favicon": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=64",
+      "cluster_id": "998223b5-9de2-558a-90c8-d1b58d67ea11",
+      "cluster_size": 1,
+      "cluster_topics": [
+        "discovery",
+        "scientific",
+        "agents",
+        "scigame",
+        "let"
+      ],
+      "geo_title": "Why Are Existing Benchmarks Mixing Law Inference with Programming in SciGame?",
+      "geo_keywords": [
+        "large language model agents",
+        "scientific discovery games",
+        "real world simulations",
+        "counterfactual scenarios",
+        "ai in scientific research",
+        "benchmarks for scientific discovery",
+        "separating empirical evidence",
+        "predicting unseen inputs"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "Why Are Existing Benchmarks Mixing Law Inference with Programming in SciGame?",
+        "url": "https://arxiv.org/abs/2610.37919",
+        "description": "Large language models are being employed for scientific discovery, but current benchmarks fail to adequately assess their predictive capabilities due to mixed tasks and improper scoring methods. This new initiative aims to create more realistic and counterfactual scenarios for these agents to explore, improving how they handle empirical evidence and unseen data in scientific research.",
+        "keywords": "large language model agents, scientific discovery games, real world simulations, counterfactual scenarios, ai in scientific research, benchmarks for scientific discovery, separating empirical evidence, predicting unseen inputs",
+        "datePublished": "Sat, 31 Oct 2026 00:00:00 -0400",
+        "dateModified": "Sat, 31 Oct 2026 00:00:00 -0400",
+        "author": {
+          "@type": "Organization",
+          "name": "ArXiv cs.AI",
+          "url": "https://arxiv.org"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "research",
+        "inLanguage": "en-US",
+        "wordCount": 55,
+        "articleBody": "Large language models are being employed for scientific discovery, but current benchmarks fail to adequately assess their predictive capabilities due to mixed tasks and improper scoring methods. This new initiative aims to create more realistic and counterfactual scenarios for these agents to explore, improving how they handle empirical evidence and unseen data in scientific research."
+      }
+    },
+    {
+      "source_id": "arxiv_cs_ai",
+      "source_name": "ArXiv cs.AI",
+      "title": "VerifiedLab: Harnessing Knowns for Unknowns",
+      "url": "https://arxiv.org/abs/2610.37923",
+      "description": "arXiv:2610.37923v1 Announce Type: new \nAbstract: Across human history, knowledge has undergone several transitions, from orality to writing and then to digital archives. At each transition, humans established new conventions to preserve knowledge for the new era. Nowadays, as research agents are inc",
+      "published": "Sat, 31 Oct 2026 00:00:00 -0400",
+      "score": 35,
+      "category": "research",
+      "weight": 7,
+      "format": "article",
+      "summary": "The article discusses how humanity has historically adapted to new ways of preserving knowledge, moving from oral traditions to written records and now digital archives, highlighting the need for similar adaptations in the age of research agents. This matters because it suggests potential future changes in how scientific information is managed and accessed.",
+      "summary_detailed": "The article discusses how knowledge has evolved through different mediums—oral tradition, writing, and digital archives—and suggests that current research agents are establishing new conventions to preserve knowledge in the digital age. It involves historical transitions of knowledge preservation methods and their impact on future research practices. The broader impact lies in enhancing the sustainability and accessibility of knowledge across generations.",
+      "summary_bullets": "• Knowledge has transitioned from orality to writing.\n• Then it moved to digital archives.\n• New conventions were established at each transition.\n• Research agents are increasingly involved in preserving knowledge.",
+      "sentiment": "neutral",
+      "keywords": [
+        "knowledge transitions",
+        "digital archives",
+        "research agents"
+      ],
+      "thumbnail": null,
+      "favicon": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=64",
+      "cluster_id": "a7b5346d-20d2-5a67-badd-9ae4bebb5aee",
+      "cluster_size": 1,
+      "cluster_topics": [
+        "knowledge",
+        "verifiedlab",
+        "harnessing",
+        "knowns",
+        "unknowns"
+      ],
+      "geo_title": "Why Is Knowledge Transition Important in Human History?",
+      "geo_keywords": [
+        "knowledge transitions",
+        "digital archives",
+        "research agents",
+        "data preservation",
+        "artificial intelligence in research",
+        "future of knowledge management",
+        "advancements in information technology",
+        "how ai is changing research methodologies"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "Why Is Knowledge Transition Important in Human History?",
+        "url": "https://arxiv.org/abs/2610.37923",
+        "description": "The article discusses how humanity has historically adapted to new ways of preserving knowledge, moving from oral traditions to written records and now digital archives, highlighting the need for similar adaptations in the age of research agents. This matters because it suggests potential future changes in how scientific information is managed and accessed.",
+        "keywords": "knowledge transitions, digital archives, research agents, data preservation, artificial intelligence in research, future of knowledge management, advancements in information technology, how ai is changing research methodologies",
+        "datePublished": "Sat, 31 Oct 2026 00:00:00 -0400",
+        "dateModified": "Sat, 31 Oct 2026 00:00:00 -0400",
+        "author": {
+          "@type": "Organization",
+          "name": "ArXiv cs.AI",
+          "url": "https://arxiv.org"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "research",
+        "inLanguage": "en-US",
+        "wordCount": 53,
+        "articleBody": "The article discusses how humanity has historically adapted to new ways of preserving knowledge, moving from oral traditions to written records and now digital archives, highlighting the need for similar adaptations in the age of research agents. This matters because it suggests potential future changes in how scientific information is managed and accessed."
+      }
+    },
+    {
+      "source_id": "arxiv_cs_ai",
+      "source_name": "ArXiv cs.AI",
+      "title": "GARDEN: Generalist Autonomous Reward Design Through Evidence Navigation for Cooperative Multi-Agent Reinforcement Learning",
+      "url": "https://arxiv.org/abs/2610.37926",
+      "description": "arXiv:2610.37926v1 Announce Type: new \nAbstract: Cooperative multi-agent reinforcement learning (MARL) enables teams of agents, such as robots and autonomous vehicles, to learn coordinated behavior, but what such teams learn is largely determined by their reward function. Because task success alone",
+      "published": "Sat, 31 Oct 2026 00:00:00 -0400",
+      "score": 35,
+      "category": "research",
+      "weight": 7,
+      "format": "article",
+      "summary": "A new method called GARDEN aims to enhance cooperative multi-agent reinforcement learning by autonomously designing reward functions that guide agents towards successful teamwork, addressing the limitations of current reward functions which often focus solely on task completion. This matters because it could lead to more effective and adaptable cooperation among autonomous systems in various real-world applications.",
+      "summary_detailed": "A new method called GARDEN (Generalist Autonomous Reward Design Through Evidence Navigation for Cooperative Multi-Agent Reinforcement Learning) has been proposed to enhance cooperative multi-agent systems, particularly in scenarios involving robots and autonomous vehicles. This approach aims to autonomously design reward functions that guide agents towards successful task completion without explicit human-defined rewards, potentially broadening the applications of MARL in real-world collaborative tasks. The broader impact could include improved efficiency and adaptability in complex environments where traditional reward designs may be insufficient or impractical.",
+      "summary_bullets": "• Cooperative multi-agent reinforcement learning (MARL) allows teams of autonomous agents to learn coordinated behaviors.\n• The nature of learned behaviors in MARL is heavily influenced by the reward function used.\n• A new method called GARDEN aims to generalize and improve reward design for MARL through evidence navigation.",
+      "sentiment": "neutral",
+      "keywords": [
+        "cooperative multi-agent reinforcement learning",
+        "reward function",
+        "navigation",
+        "autonomy",
+        "generalist"
+      ],
+      "thumbnail": null,
+      "favicon": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=64",
+      "cluster_id": "0e75521e-3479-510e-b201-92bc7b00fa5b",
+      "cluster_size": 1,
+      "cluster_topics": [
+        "autonomous",
+        "reward",
+        "cooperative",
+        "reinforcement",
+        "teams"
+      ],
+      "geo_title": "Why is GARDEN Important for Cooperative Multi-Agent Reinforcement Learning?",
+      "geo_keywords": [
+        "cooperative multi-agent reinforcement learning",
+        "reward function design",
+        "navigation algorithms",
+        "autonomous systems",
+        "generalist agents",
+        "multi-agent reinforcement learning",
+        "task coordination optimization",
+        "what is cooperative multi-agent reinforcement learning",
+        "how does reward function influence agent behavior"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "Why is GARDEN Important for Cooperative Multi-Agent Reinforcement Learning?",
+        "url": "https://arxiv.org/abs/2610.37926",
+        "description": "A new method called GARDEN aims to enhance cooperative multi-agent reinforcement learning by autonomously designing reward functions that guide agents towards successful teamwork, addressing the limitations of current reward functions which often focus solely on task completion. This matters because it could lead to more effective and adaptable cooperation among autonomous systems in various real-world applications.",
+        "keywords": "cooperative multi-agent reinforcement learning, reward function design, navigation algorithms, autonomous systems, generalist agents, multi-agent reinforcement learning, task coordination optimization, what is cooperative multi-agent reinforcement learning",
+        "datePublished": "Sat, 31 Oct 2026 00:00:00 -0400",
+        "dateModified": "Sat, 31 Oct 2026 00:00:00 -0400",
+        "author": {
+          "@type": "Organization",
+          "name": "ArXiv cs.AI",
+          "url": "https://arxiv.org"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "research",
+        "inLanguage": "en-US",
+        "wordCount": 56,
+        "articleBody": "A new method called GARDEN aims to enhance cooperative multi-agent reinforcement learning by autonomously designing reward functions that guide agents towards successful teamwork, addressing the limitations of current reward functions which often focus solely on task completion. This matters because it could lead to more effective and adaptable cooperation among autonomous systems in various real-world applications."
+      }
+    },
+    {
+      "source_id": "arxiv_cs_ai",
+      "source_name": "ArXiv cs.AI",
+      "title": "Understanding Large Language Models as Numerical Optimizers",
+      "url": "https://arxiv.org/abs/2610.37932",
+      "description": "arXiv:2610.37932v1 Announce Type: new \nAbstract: Large language models (LLMs) have emerged as potential tools for numerical optimization. Despite promising results, their intrinsic optimization capabilities and limitations remain poorly understood, particularly in high dimensions. This paper investi",
+      "published": "Sat, 31 Oct 2026 00:00:00 -0400",
+      "score": 35,
+      "category": "research",
+      "weight": 7,
+      "format": "article",
+      "summary": "A new study suggests large language models (LLMs) could be used as numerical optimizers, potentially revolutionizing how complex problems are solved. However, the full extent of their capabilities and limitations, especially in high-dimensional spaces, remains unclear.",
+      "summary_detailed": "A new study on arXiv explores how large language models (LLMs) can be used as numerical optimizers, suggesting they may have potential beyond natural language processing. The research highlights the need for further investigation into their optimization capabilities and limitations, especially in high-dimensional spaces. This work could impact fields relying heavily on numerical optimization techniques by potentially offering a new approach through LLMs.",
+      "summary_bullets": "• LLMs show promise as tools for numerical optimization.\n• Their inherent optimization abilities and constraints are not well understood.\n• The focus is on high-dimensional optimization problems.",
+      "sentiment": "neutral",
+      "keywords": [
+        "large language models",
+        "numerical optimization",
+        "high dimensions",
+        "intrinsic capabilities",
+        "limitations"
+      ],
+      "thumbnail": null,
+      "favicon": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=64",
+      "cluster_id": "dc18f585-8a13-5e5a-93fc-71954c526a08",
+      "cluster_size": 1,
+      "cluster_topics": [
+        "numerical",
+        "optimization",
+        "large",
+        "models",
+        "language"
+      ],
+      "geo_title": "Why Are Large Language Models Emerging as Numerical Optimizers?",
+      "geo_keywords": [
+        "large language models",
+        "numerical optimization",
+        "high dimensions",
+        "intrinsic capabilities",
+        "limitations",
+        "llm optimization",
+        "numerical optimization techniques",
+        "understanding llm optimization",
+        "llm in optimization",
+        "optimization with llms",
+        "llm for numerical tasks"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "Why Are Large Language Models Emerging as Numerical Optimizers?",
+        "url": "https://arxiv.org/abs/2610.37932",
+        "description": "A new study suggests large language models (LLMs) could be used as numerical optimizers, potentially revolutionizing how complex problems are solved. However, the full extent of their capabilities and limitations, especially in high-dimensional spaces, remains unclear.",
+        "keywords": "large language models, numerical optimization, high dimensions, intrinsic capabilities, limitations, llm optimization, numerical optimization techniques, understanding llm optimization",
+        "datePublished": "Sat, 31 Oct 2026 00:00:00 -0400",
+        "dateModified": "Sat, 31 Oct 2026 00:00:00 -0400",
+        "author": {
+          "@type": "Organization",
+          "name": "ArXiv cs.AI",
+          "url": "https://arxiv.org"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "research",
+        "inLanguage": "en-US",
+        "wordCount": 36,
+        "articleBody": "A new study suggests large language models (LLMs) could be used as numerical optimizers, potentially revolutionizing how complex problems are solved. However, the full extent of their capabilities and limitations, especially in high-dimensional spaces, remains unclear."
+      }
+    },
+    {
+      "source_id": "arxiv_cs_ai",
+      "source_name": "ArXiv cs.AI",
+      "title": "SkillMem: Compact External Skill Memory for Latent Multi-Agent Reasoning",
+      "url": "https://arxiv.org/abs/2610.37935",
+      "description": "arXiv:2610.37935v1 Announce Type: new \nAbstract: Latent multi-agent systems reduce inference cost by keeping intermediate reasoning and inter-agent communication in continuous representations.\\ Reusable skills, however, are commonly supplied as text or stored as layer-wise Key-Value states or skill-",
+      "published": "Sat, 31 Oct 2026 00:00:00 -0400",
+      "score": 35,
+      "category": "research",
+      "weight": 7,
+      "format": "article",
+      "summary": "A new external memory system called SkillMem has been developed to enhance latent multi-agent reasoning by storing reusable skills compactly in a continuous representation, reducing inference costs and improving efficiency. This innovation matters because it addresses the challenge of managing intermediate reasoning and inter-agent communication in complex multi-agent systems.",
+      "summary_detailed": "A new method called SkillMem has been proposed to enhance latent multi-agent systems by providing a compact external memory for storing reusable skills in continuous representations. This approach aims to reduce inference costs and improve inter-agent communication efficiency. The broader impact could be significant advancements in the field of multi-agent reasoning, potentially leading to more efficient and effective collaborative systems across various applications such as robotics, game AI, and distributed computing environments.",
+      "summary_bullets": "• Latent multi-agent systems use continuous representations for reasoning.\n• Intermediate reasoning and inter-agent communication are kept in continuous forms.\n• Skills can be reused but are often provided as text or stored layer-wise.",
+      "sentiment": "neutral",
+      "keywords": [
+        "latent multi-agent systems",
+        "external skill memory",
+        "continuous representations",
+        "inference cost",
+        "reusable skills"
+      ],
+      "thumbnail": null,
+      "favicon": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=64",
+      "cluster_id": "a72bfe25-766a-56ba-8e0a-3a3c2b27fcae",
+      "cluster_size": 1,
+      "cluster_topics": [
+        "skill",
+        "latent",
+        "reasoning",
+        "multi-agent",
+        "skillmem"
+      ],
+      "geo_title": "How does SkillMem reduce inference cost in latent multi-agent systems?",
+      "geo_keywords": [
+        "skillmem",
+        "latent multi-agent reasoning",
+        "compact external skill memory",
+        "continuous representations in multi-agent systems",
+        "inference cost reduction",
+        "reusable skills storage",
+        "ai multi-agent communication",
+        "latent reasoning techniques",
+        "external memory for agents"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "How does SkillMem reduce inference cost in latent multi-agent systems?",
+        "url": "https://arxiv.org/abs/2610.37935",
+        "description": "A new external memory system called SkillMem has been developed to enhance latent multi-agent reasoning by storing reusable skills compactly in a continuous representation, reducing inference costs and improving efficiency. This innovation matters because it addresses the challenge of managing intermediate reasoning and inter-agent communication in complex multi-agent systems.",
+        "keywords": "skillmem, latent multi-agent reasoning, compact external skill memory, continuous representations in multi-agent systems, inference cost reduction, reusable skills storage, ai multi-agent communication, latent reasoning techniques",
+        "datePublished": "Sat, 31 Oct 2026 00:00:00 -0400",
+        "dateModified": "Sat, 31 Oct 2026 00:00:00 -0400",
+        "author": {
+          "@type": "Organization",
+          "name": "ArXiv cs.AI",
+          "url": "https://arxiv.org"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "research",
+        "inLanguage": "en-US",
+        "wordCount": 49,
+        "articleBody": "A new external memory system called SkillMem has been developed to enhance latent multi-agent reasoning by storing reusable skills compactly in a continuous representation, reducing inference costs and improving efficiency. This innovation matters because it addresses the challenge of managing intermediate reasoning and inter-agent communication in complex multi-agent systems."
+      }
+    },
+    {
+      "source_id": "arxiv_cs_ai",
+      "source_name": "ArXiv cs.AI",
+      "title": "GAUSS: A Workload-Aware Analytical and Monte-Carlo Simulator for LLM Inference Serving",
+      "url": "https://arxiv.org/abs/2610.37989",
+      "description": "arXiv:2610.37989v1 Announce Type: new \nAbstract: Large language model (LLM) inference has become an operational workload that fleets must provision, monitor, and bill against latency service-level objectives (SLOs). A single throughput number cannot answer the questions operators actually face, beca",
+      "published": "Sat, 31 Oct 2026 00:00:00 -0400",
+      "score": 35,
+      "category": "research",
+      "weight": 7,
+      "format": "article",
+      "summary": "GAUSS is a new simulator designed to help manage large language model inference serving by addressing the complexities operators encounter when provisioning, monitoring, and billing for latency SLOs. This tool offers a more nuanced approach than simple throughput metrics, providing essential insights for operational workloads.",
+      "summary_detailed": "GAUSS is a new workload-aware analytical and Monte Carlo simulator designed for Large Language Model (LLM) inference serving. It helps operators provision, monitor, and bill LLM services based on latency service-level objectives (SLOs). This tool addresses the limitations of using a single throughput number to manage operational workloads.",
+      "summary_bullets": "• GAUSS is a new analytical and Monte Carlo simulator.\n• It addresses LLM inference serving operations.\n• GAUSS helps provision, monitor, and bill for latency SLOs.",
+      "sentiment": "neutral",
+      "keywords": [
+        "llm inference",
+        "workload awareness",
+        "monte-carlo simulation",
+        "analytical simulator",
+        "latency slos"
+      ],
+      "thumbnail": null,
+      "favicon": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=64",
+      "cluster_id": "2ecaeccc-8bb3-50d0-9477-b22b44242361",
+      "cluster_size": 1,
+      "cluster_topics": [
+        "llm",
+        "inference",
+        "gauss",
+        "workload-aware",
+        "analytical"
+      ],
+      "geo_title": "Why is GAUSS Important for LLM Inference Serving?",
+      "geo_keywords": [
+        "llm inference serving",
+        "workload-aware simulation",
+        "monte-carlo modeling for llm",
+        "analytical simulation tools",
+        "latency optimization for llm",
+        "provisioning strategies for llm inference",
+        "monitoring llm inference performance",
+        "billing mechanisms for llm",
+        "slos in llm inference",
+        "operationalizing llm inference",
+        "gauss simulator",
+        "llm inference challenges"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "Why is GAUSS Important for LLM Inference Serving?",
+        "url": "https://arxiv.org/abs/2610.37989",
+        "description": "GAUSS is a new simulator designed to help manage large language model inference serving by addressing the complexities operators encounter when provisioning, monitoring, and billing for latency SLOs. This tool offers a more nuanced approach than simple throughput metrics, providing essential insights for operational workloads.",
+        "keywords": "llm inference serving, workload-aware simulation, monte-carlo modeling for llm, analytical simulation tools, latency optimization for llm, provisioning strategies for llm inference, monitoring llm inference performance, billing mechanisms for llm",
+        "datePublished": "Sat, 31 Oct 2026 00:00:00 -0400",
+        "dateModified": "Sat, 31 Oct 2026 00:00:00 -0400",
+        "author": {
+          "@type": "Organization",
+          "name": "ArXiv cs.AI",
+          "url": "https://arxiv.org"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "research",
+        "inLanguage": "en-US",
+        "wordCount": 45,
+        "articleBody": "GAUSS is a new simulator designed to help manage large language model inference serving by addressing the complexities operators encounter when provisioning, monitoring, and billing for latency SLOs. This tool offers a more nuanced approach than simple throughput metrics, providing essential insights for operational workloads."
+      }
+    }
+  ],
+  "enriched": true,
+  "enriched_at": "2026-10-31T09:02:06.272671+00:00",
+  "enricher_model": "qwen2.5-7b",
+  "clustered": true,
+  "clustered_at": "2026-10-31T09:02:06.362639+00:00",
+  "cluster_threshold": 0.3,
+  "geo_metadata": {
+    "date": "2026-10-31",
+    "generated_at": "2026-10-31T09:02:57.357316+00:00",
+    "schemas_generated": 30,
+    "topics": [
+      "accessibility",
+      "accuracy",
+      "accuracy improvement",
+      "adoption",
+      "advanced calibration methodologies for ocean dynamics",
+      "advancements in information technology",
+      "ai agent software synthesis",
+      "ai agents",
+      "ai agents for protocol reconstruction",
+      "ai agents for sequencing",
+      "ai agents molecular structures",
+      "ai bear market",
+      "ai chatbot development",
+      "ai coding agent",
+      "ai coding technologies",
+      "ai coding trends",
+      "ai dialogue enhancement",
+      "ai frontier monitoring",
+      "ai generated code accuracy",
+      "ai in finance",
+      "ai in molecular biology sequencing",
+      "ai in scientific research",
+      "ai library improvement",
+      "ai mode",
+      "ai model optimization",
+      "ai model training guidelines",
+      "ai model training restrictions",
+      "ai multi-agent communication",
+      "ai reddit",
+      "ai safety features",
+      "ai training",
+      "ai training and innovation",
+      "ai twitter",
+      "ai web agent development",
+      "ai-assisted judgment",
+      "aie code",
+      "amortized localized posterior inference",
+      "analytical simulation tools",
+      "analytical simulator",
+      "argv",
+      "artificial intelligence education",
+      "artificial intelligence in research",
+      "attestation",
+      "attestation for ggml/llama.cpp version b12015",
+      "attestation process",
+      "attestation update",
+      "automated document analysis",
+      "automated website environment creation",
+      "autonomous systems",
+      "autonomy"
+    ],
+    "faq_items": [
+      {
+        "question": "Has Google acknowledged any negative impacts of AI on its search revenue?",
+        "answer": "Yes, Google has admitted that AI Mode in their services has hurt Search revenue by 15%, leading to a $500B drop in value, the worst since their IPO in 2004."
+      },
+      {
+        "question": "What are some new safety measures for teens related to AI?",
+        "answer": "A community safety report has been released, introducing new protections specifically designed to safeguard teens from potential risks associated with AI technologies."
+      },
+      {
+        "question": "How can website owners better communicate their AI training preferences?",
+        "answer": "There's a focus on making it easier for websites to express their AI training preferences, ensuring that AI models can be more accurately tailored to specific needs."
+      },
+      {
+        "question": "What is the significance of the 954% ROI reported by Credit Saison in its ChatGPT Enterprise pilot?",
+        "answer": "Credit Saison’s achievement of a 954% return on investment in a ChatGPT Enterprise pilot underscores the high potential and success of AI applications in business environments."
+      },
+      {
+        "question": "Are there any upcoming conferences related to AI coding?",
+        "answer": "Yes, the top Coding Agent Conference, known as AIE CODE, is underway, providing a platform for discussions and advancements in AI-driven coding technologies."
+      }
+    ]
+  },
+  "geo_enriched": true,
+  "geo_enriched_at": "2026-10-31T09:02:57.357316+00:00"
+}
