@@ -1,7 +1,21 @@
 {
   "date": "2026-10-31",
-  "generated_at": "2026-11-01T05:00:05.715683+00:00",
+  "generated_at": "2026-11-01T09:04:32.619747+00:00",
   "results": {
+    "trending_agent": {
+      "verification_status": "unconfirmed",
+      "sources_count": 1,
+      "sources": [
+        "GitHub Trending — AI Agents"
+      ]
+    },
+    "hn_ai_24h": {
+      "verification_status": "unconfirmed",
+      "sources_count": 1,
+      "sources": [
+        "HN top AI 24h"
+      ]
+    },
     "latent_space": {
       "verification_status": "unconfirmed",
       "sources_count": 1,
@@ -14,6 +28,13 @@
       "sources_count": 1,
       "sources": [
         "ggml/llama.cpp releases"
+      ]
+    },
+    "marktechpost": {
+      "verification_status": "unconfirmed",
+      "sources_count": 1,
+      "sources": [
+        "MarkTechPost"
       ]
     },
     "arxiv_cs_ai": {

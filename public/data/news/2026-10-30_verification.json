@@ -1,12 +1,27 @@
 {
   "date": "2026-10-30",
-  "generated_at": "2026-11-01T05:00:05.715181+00:00",
+  "generated_at": "2026-11-01T09:04:32.620253+00:00",
   "results": {
+    "trending_ai": {
+      "verification_status": "verified",
+      "sources_count": 2,
+      "sources": [
+        "GitHub Trending — AI",
+        "OpenAI Blog"
+      ]
+    },
     "openai_blog": {
       "verification_status": "unconfirmed",
       "sources_count": 1,
       "sources": [
         "OpenAI Blog"
+      ]
+    },
+    "hn_show_ai_7d": {
+      "verification_status": "unconfirmed",
+      "sources_count": 1,
+      "sources": [
+        "Show HN AI 7d"
       ]
     },
     "latent_space": {
