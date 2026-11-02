@@ -1,6 +1,6 @@
 {
   "date": "2026-10-29",
-  "generated_at": "2026-11-01T17:00:05.783184+00:00",
+  "generated_at": "2026-11-01T21:00:06.558313+00:00",
   "results": {
     "hn_show_ai_7d": {
       "verification_status": "unconfirmed",
@@ -20,8 +20,8 @@
       "verification_status": "verified",
       "sources_count": 2,
       "sources": [
-        "OpenAI Blog",
-        "Hugging Face Blog"
+        "Hugging Face Blog",
+        "OpenAI Blog"
       ]
     },
     "hn_llm_24h": {
@@ -42,8 +42,8 @@
       "verification_status": "verified",
       "sources_count": 2,
       "sources": [
-        "Transformers releases",
-        "Mistral AI"
+        "Mistral AI",
+        "Transformers releases"
       ]
     },
     "huggingface_transformers_releases": {
