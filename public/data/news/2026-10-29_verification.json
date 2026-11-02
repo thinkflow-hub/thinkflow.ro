@@ -1,6 +1,6 @@
 {
   "date": "2026-10-29",
-  "generated_at": "2026-11-02T05:00:06.719565+00:00",
+  "generated_at": "2026-11-02T09:15:41.624925+00:00",
   "results": {
     "hn_show_ai_7d": {
       "verification_status": "unconfirmed",
@@ -14,64 +14,6 @@
       "sources_count": 1,
       "sources": [
         "OpenAI Blog"
-      ]
-    },
-    "huggingface_blog": {
-      "verification_status": "verified",
-      "sources_count": 2,
-      "sources": [
-        "Hugging Face Blog",
-        "OpenAI Blog"
-      ]
-    },
-    "hn_llm_24h": {
-      "verification_status": "unconfirmed",
-      "sources_count": 1,
-      "sources": [
-        "HN top LLM 24h"
-      ]
-    },
-    "hn_ai_24h": {
-      "verification_status": "unconfirmed",
-      "sources_count": 1,
-      "sources": [
-        "HN top AI 24h"
-      ]
-    },
-    "mistral_blog": {
-      "verification_status": "verified",
-      "sources_count": 2,
-      "sources": [
-        "Transformers releases",
-        "Mistral AI"
-      ]
-    },
-    "huggingface_transformers_releases": {
-      "verification_status": "unconfirmed",
-      "sources_count": 1,
-      "sources": [
-        "Transformers releases"
-      ]
-    },
-    "ggml_releases": {
-      "verification_status": "unconfirmed",
-      "sources_count": 1,
-      "sources": [
-        "ggml/llama.cpp releases"
-      ]
-    },
-    "mit_technology_review_ai": {
-      "verification_status": "unconfirmed",
-      "sources_count": 1,
-      "sources": [
-        "MIT Technology Review AI"
-      ]
-    },
-    "marktechpost": {
-      "verification_status": "unconfirmed",
-      "sources_count": 1,
-      "sources": [
-        "MarkTechPost"
       ]
     }
   }
