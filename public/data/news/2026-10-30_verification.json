@@ -1,20 +1,19 @@
 {
   "date": "2026-10-30",
-  "generated_at": "2026-11-03T05:00:06.892107+00:00",
+  "generated_at": "2026-11-03T13:10:56.774154+00:00",
   "results": {
-    "trending_ai": {
-      "verification_status": "verified",
-      "sources_count": 2,
-      "sources": [
-        "GitHub Trending — AI",
-        "OpenAI Blog"
-      ]
-    },
-    "openai_blog": {
+    "deepmind_blog": {
       "verification_status": "unconfirmed",
       "sources_count": 1,
       "sources": [
-        "OpenAI Blog"
+        "DeepMind Blog"
+      ]
+    },
+    "trending_ai": {
+      "verification_status": "unconfirmed",
+      "sources_count": 1,
+      "sources": [
+        "GitHub Trending — AI"
       ]
     },
     "hn_show_ai_7d": {
@@ -22,27 +21,6 @@
       "sources_count": 1,
       "sources": [
         "Show HN AI 7d"
-      ]
-    },
-    "latent_space": {
-      "verification_status": "unconfirmed",
-      "sources_count": 1,
-      "sources": [
-        "Latent Space (Substack)"
-      ]
-    },
-    "ggml_releases": {
-      "verification_status": "unconfirmed",
-      "sources_count": 1,
-      "sources": [
-        "ggml/llama.cpp releases"
-      ]
-    },
-    "huggingface_transformers_releases": {
-      "verification_status": "unconfirmed",
-      "sources_count": 1,
-      "sources": [
-        "Transformers releases"
       ]
     }
   }
