@@ -1,12 +1,35 @@
 {
   "date": "2026-11-04",
-  "generated_at": "2026-11-05T05:00:06.871793+00:00",
+  "generated_at": "2026-11-05T09:24:19.835271+00:00",
   "results": {
+    "openai_blog": {
+      "verification_status": "unconfirmed",
+      "sources_count": 1,
+      "sources": [
+        "OpenAI Blog"
+      ]
+    },
+    "hn_ai_24h": {
+      "verification_status": "verified",
+      "sources_count": 2,
+      "sources": [
+        "ArXiv cs.CL (Computation and Language / NLP)",
+        "HN top AI 24h"
+      ]
+    },
     "arxiv_cs_cl": {
       "verification_status": "unconfirmed",
       "sources_count": 1,
       "sources": [
         "ArXiv cs.CL (Computation and Language / NLP)"
+      ]
+    },
+    "latent_space": {
+      "verification_status": "verified",
+      "sources_count": 2,
+      "sources": [
+        "ArXiv cs.CL (Computation and Language / NLP)",
+        "Latent Space (Substack)"
       ]
     }
   }

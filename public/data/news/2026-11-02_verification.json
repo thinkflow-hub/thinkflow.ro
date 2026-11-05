@@ -1,6 +1,6 @@
 {
   "date": "2026-11-02",
-  "generated_at": "2026-11-05T05:00:06.871793+00:00",
+  "generated_at": "2026-11-05T09:24:19.836271+00:00",
   "results": {
     "openai_blog": {
       "verification_status": "unconfirmed",
@@ -17,18 +17,16 @@
       ]
     },
     "hn_llm_24h": {
-      "verification_status": "verified",
-      "sources_count": 2,
+      "verification_status": "unconfirmed",
+      "sources_count": 1,
       "sources": [
-        "ArXiv cs.CL (Computation and Language / NLP)",
         "HN top LLM 24h"
       ]
     },
     "hn_ai_24h": {
-      "verification_status": "verified",
-      "sources_count": 2,
+      "verification_status": "unconfirmed",
+      "sources_count": 1,
       "sources": [
-        "ArXiv cs.CL (Computation and Language / NLP)",
         "HN top AI 24h"
       ]
     },
@@ -46,18 +44,10 @@
         "Import AI (Jack Clark)"
       ]
     },
-    "arxiv_cs_cl": {
+    "arxiv_cs_ai": {
       "verification_status": "unconfirmed",
       "sources_count": 1,
       "sources": [
-        "ArXiv cs.CL (Computation and Language / NLP)"
-      ]
-    },
-    "arxiv_cs_ai": {
-      "verification_status": "verified",
-      "sources_count": 2,
-      "sources": [
-        "ArXiv cs.CL (Computation and Language / NLP)",
         "ArXiv cs.AI"
       ]
     }

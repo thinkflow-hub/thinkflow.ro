@@ -1,12 +1,13 @@
 {
   "date": "2026-11-03",
-  "generated_at": "2026-11-05T05:00:06.871294+00:00",
+  "generated_at": "2026-11-05T09:24:19.835771+00:00",
   "results": {
-    "openai_blog": {
-      "verification_status": "unconfirmed",
-      "sources_count": 1,
+    "deepmind_blog": {
+      "verification_status": "verified",
+      "sources_count": 2,
       "sources": [
-        "OpenAI Blog"
+        "DeepMind Blog",
+        "Hugging Face Blog"
       ]
     },
     "huggingface_blog": {
@@ -14,6 +15,13 @@
       "sources_count": 1,
       "sources": [
         "Hugging Face Blog"
+      ]
+    },
+    "openai_blog": {
+      "verification_status": "unconfirmed",
+      "sources_count": 1,
+      "sources": [
+        "OpenAI Blog"
       ]
     },
     "hn_llm_24h": {
