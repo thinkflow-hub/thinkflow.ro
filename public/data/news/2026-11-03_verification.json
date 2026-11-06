@@ -1,6 +1,6 @@
 {
   "date": "2026-11-03",
-  "generated_at": "2026-11-06T13:07:45.138626+00:00",
+  "generated_at": "2026-11-06T17:00:09.150662+00:00",
   "results": {
     "deepmind_blog": {
       "verification_status": "verified",
@@ -11,10 +11,11 @@
       ]
     },
     "huggingface_blog": {
-      "verification_status": "unconfirmed",
-      "sources_count": 1,
+      "verification_status": "verified",
+      "sources_count": 2,
       "sources": [
-        "Hugging Face Blog"
+        "Hugging Face Blog",
+        "DeepMind Blog"
       ]
     },
     "openai_blog": {
@@ -43,13 +44,6 @@
       "sources_count": 1,
       "sources": [
         "Show HN AI 7d"
-      ]
-    },
-    "latent_space": {
-      "verification_status": "unconfirmed",
-      "sources_count": 1,
-      "sources": [
-        "Latent Space (Substack)"
       ]
     }
   }
