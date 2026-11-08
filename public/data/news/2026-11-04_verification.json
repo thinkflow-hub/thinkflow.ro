@@ -1,12 +1,13 @@
 {
   "date": "2026-11-04",
-  "generated_at": "2026-11-08T05:00:05.771645+00:00",
+  "generated_at": "2026-11-08T09:12:33.381639+00:00",
   "results": {
-    "openai_blog": {
-      "verification_status": "unconfirmed",
-      "sources_count": 1,
+    "trending_ai": {
+      "verification_status": "verified",
+      "sources_count": 2,
       "sources": [
-        "OpenAI Blog"
+        "HN top AI 24h",
+        "GitHub Trending — AI"
       ]
     },
     "hn_ai_24h": {
@@ -14,6 +15,13 @@
       "sources_count": 1,
       "sources": [
         "HN top AI 24h"
+      ]
+    },
+    "openai_blog": {
+      "verification_status": "unconfirmed",
+      "sources_count": 1,
+      "sources": [
+        "OpenAI Blog"
       ]
     },
     "latent_space": {

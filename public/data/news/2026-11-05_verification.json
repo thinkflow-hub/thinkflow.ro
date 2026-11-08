@@ -1,12 +1,27 @@
 {
   "date": "2026-11-05",
-  "generated_at": "2026-11-08T05:00:05.771645+00:00",
+  "generated_at": "2026-11-08T09:12:33.381639+00:00",
   "results": {
+    "deepmind_blog": {
+      "verification_status": "verified",
+      "sources_count": 2,
+      "sources": [
+        "OpenAI Blog",
+        "DeepMind Blog"
+      ]
+    },
     "openai_blog": {
       "verification_status": "unconfirmed",
       "sources_count": 1,
       "sources": [
         "OpenAI Blog"
+      ]
+    },
+    "nousresearch_releases": {
+      "verification_status": "unconfirmed",
+      "sources_count": 1,
+      "sources": [
+        "NousResearch releases"
       ]
     },
     "google_ai_blog": {

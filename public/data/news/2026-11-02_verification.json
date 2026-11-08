@@ -1,54 +1,19 @@
 {
   "date": "2026-11-02",
-  "generated_at": "2026-11-06T13:07:45.140127+00:00",
+  "generated_at": "2026-11-08T09:12:33.382638+00:00",
   "results": {
-    "openai_blog": {
+    "nousresearch_releases": {
       "verification_status": "unconfirmed",
       "sources_count": 1,
       "sources": [
-        "OpenAI Blog"
+        "NousResearch releases"
       ]
     },
-    "google_ai_blog": {
+    "vllm_releases": {
       "verification_status": "unconfirmed",
       "sources_count": 1,
       "sources": [
-        "Google AI Blog"
-      ]
-    },
-    "hn_llm_24h": {
-      "verification_status": "unconfirmed",
-      "sources_count": 1,
-      "sources": [
-        "HN top LLM 24h"
-      ]
-    },
-    "hn_ai_24h": {
-      "verification_status": "unconfirmed",
-      "sources_count": 1,
-      "sources": [
-        "HN top AI 24h"
-      ]
-    },
-    "latent_space": {
-      "verification_status": "unconfirmed",
-      "sources_count": 1,
-      "sources": [
-        "Latent Space (Substack)"
-      ]
-    },
-    "import_ai": {
-      "verification_status": "unconfirmed",
-      "sources_count": 1,
-      "sources": [
-        "Import AI (Jack Clark)"
-      ]
-    },
-    "arxiv_cs_ai": {
-      "verification_status": "unconfirmed",
-      "sources_count": 1,
-      "sources": [
-        "ArXiv cs.AI"
+        "vLLM releases"
       ]
     }
   }
