@@ -1,6 +1,6 @@
 {
   "date": "2026-11-06",
-  "generated_at": "2026-11-08T01:00:07.364186+00:00",
+  "generated_at": "2026-11-08T05:00:05.771645+00:00",
   "results": {
     "openai_blog": {
       "verification_status": "unconfirmed",
@@ -42,24 +42,24 @@
       "verification_status": "verified",
       "sources_count": 2,
       "sources": [
-        "Show HN AI 7d",
-        "ArXiv cs.CL (Computation and Language / NLP)"
+        "ArXiv cs.CL (Computation and Language / NLP)",
+        "Show HN AI 7d"
       ]
     },
     "mit_technology_review_ai": {
       "verification_status": "verified",
       "sources_count": 2,
       "sources": [
-        "ArXiv cs.CL (Computation and Language / NLP)",
-        "MIT Technology Review AI"
+        "MIT Technology Review AI",
+        "ArXiv cs.CL (Computation and Language / NLP)"
       ]
     },
     "marktechpost": {
       "verification_status": "verified",
       "sources_count": 2,
       "sources": [
-        "ArXiv cs.CL (Computation and Language / NLP)",
-        "MarkTechPost"
+        "MarkTechPost",
+        "ArXiv cs.CL (Computation and Language / NLP)"
       ]
     },
     "arxiv_cs_ai": {
