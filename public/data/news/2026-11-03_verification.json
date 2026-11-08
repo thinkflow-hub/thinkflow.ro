@@ -1,6 +1,6 @@
 {
   "date": "2026-11-03",
-  "generated_at": "2026-11-08T09:12:33.381639+00:00",
+  "generated_at": "2026-11-08T13:00:05.064353+00:00",
   "results": {
     "nousresearch_releases": {
       "verification_status": "unconfirmed",
@@ -14,13 +14,6 @@
       "sources_count": 1,
       "sources": [
         "Ollama releases"
-      ]
-    },
-    "deepmind_blog": {
-      "verification_status": "unconfirmed",
-      "sources_count": 1,
-      "sources": [
-        "DeepMind Blog"
       ]
     }
   }
