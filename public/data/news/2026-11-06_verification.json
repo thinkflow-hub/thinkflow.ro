@@ -1,6 +1,6 @@
 {
   "date": "2026-11-06",
-  "generated_at": "2026-11-09T13:00:05.362127+00:00",
+  "generated_at": "2026-11-09T17:09:11.473448+00:00",
   "results": {
     "huggingface_transformers_releases": {
       "verification_status": "unconfirmed",
@@ -17,10 +17,9 @@
       ]
     },
     "hn_ai_24h": {
-      "verification_status": "verified",
-      "sources_count": 2,
+      "verification_status": "unconfirmed",
+      "sources_count": 1,
       "sources": [
-        "ArXiv cs.CL (Computation and Language / NLP)",
         "HN top AI 24h"
       ]
     },
@@ -38,42 +37,25 @@
         "Latent Space (Substack)"
       ]
     },
-    "arxiv_cs_cl": {
+    "hn_show_ai_7d": {
       "verification_status": "unconfirmed",
       "sources_count": 1,
       "sources": [
-        "ArXiv cs.CL (Computation and Language / NLP)"
-      ]
-    },
-    "hn_show_ai_7d": {
-      "verification_status": "verified",
-      "sources_count": 2,
-      "sources": [
-        "Show HN AI 7d",
-        "ArXiv cs.CL (Computation and Language / NLP)"
+        "Show HN AI 7d"
       ]
     },
     "mit_technology_review_ai": {
-      "verification_status": "verified",
-      "sources_count": 2,
-      "sources": [
-        "MIT Technology Review AI",
-        "ArXiv cs.CL (Computation and Language / NLP)"
-      ]
-    },
-    "marktechpost": {
-      "verification_status": "verified",
-      "sources_count": 2,
-      "sources": [
-        "MarkTechPost",
-        "ArXiv cs.CL (Computation and Language / NLP)"
-      ]
-    },
-    "arxiv_cs_ai": {
       "verification_status": "unconfirmed",
       "sources_count": 1,
       "sources": [
-        "ArXiv cs.AI"
+        "MIT Technology Review AI"
+      ]
+    },
+    "marktechpost": {
+      "verification_status": "unconfirmed",
+      "sources_count": 1,
+      "sources": [
+        "MarkTechPost"
       ]
     }
   }
