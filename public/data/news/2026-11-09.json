@@ -1,0 +1,1453 @@
+{
+  "date": "2026-11-09",
+  "last_updated": "2026-11-09T06:00:02.789173+00:00",
+  "total_items": 30,
+  "items": [
+    {
+      "source_id": "hn_llm_24h",
+      "source_name": "HN top LLM 24h",
+      "title": "Llama-modchip: 284B DeepSeek on 64GB RAM, no GPU",
+      "url": "https://github.com/synchopate/llama-modchip",
+      "description": "",
+      "published": "2026-11-08T10:22:04+00:00",
+      "score": 62,
+      "category": "trending",
+      "weight": 9,
+      "points": 402,
+      "comments_url": "https://news.ycombinator.com/item?id=50411961",
+      "sentiment": "neutral",
+      "thumbnail": "https://opengraph.githubassets.com/2cf8333cceff9dd1893a6253202ab3626913e7bcbea424e7a5c50cdd659fc4c1/synchopate/llama-modchip",
+      "cluster_id": "0494ef44-0c7d-5b01-8a33-ff807dbd7425",
+      "cluster_size": 1,
+      "cluster_topics": [
+        "llama-modchip",
+        "deepseek",
+        "ram",
+        "gpu"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "Llama-modchip: 284B DeepSeek on 64GB RAM, no GPU",
+        "url": "https://github.com/synchopate/llama-modchip",
+        "description": "",
+        "keywords": "AI, tech, news",
+        "datePublished": "2026-11-08T10:22:04+00:00",
+        "dateModified": "2026-11-08T10:22:04+00:00",
+        "author": {
+          "@type": "Organization",
+          "name": "HN top LLM 24h",
+          "url": "https://github.com"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "trending",
+        "inLanguage": "en-US",
+        "wordCount": 0,
+        "articleBody": ""
+      }
+    },
+    {
+      "source_id": "hn_ai_24h",
+      "source_name": "HN top AI 24h",
+      "title": "How I Fight AI Brain Fry",
+      "url": "https://sergeykuhne.com/blog/fighting-ai-brain-fry",
+      "description": "",
+      "published": "2026-11-08T19:37:42+00:00",
+      "score": 59,
+      "category": "trending",
+      "weight": 8,
+      "points": 203,
+      "comments_url": "https://news.ycombinator.com/item?id=50416363",
+      "sentiment": "neutral",
+      "thumbnail": null,
+      "favicon": "https://www.google.com/s2/favicons?domain=sergeykuhne.com&sz=64",
+      "cluster_id": "64da2d0a-9273-5fca-87b0-5954b04e9dec",
+      "cluster_size": 1,
+      "cluster_topics": [
+        "fight",
+        "fry",
+        "brain"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "How I Fight AI Brain Fry",
+        "url": "https://sergeykuhne.com/blog/fighting-ai-brain-fry",
+        "description": "",
+        "keywords": "AI, tech, news",
+        "datePublished": "2026-11-08T19:37:42+00:00",
+        "dateModified": "2026-11-08T19:37:42+00:00",
+        "author": {
+          "@type": "Organization",
+          "name": "HN top AI 24h",
+          "url": "https://sergeykuhne.com"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "trending",
+        "inLanguage": "en-US",
+        "wordCount": 0,
+        "articleBody": ""
+      }
+    },
+    {
+      "source_id": "hn_ai_24h",
+      "source_name": "HN top AI 24h",
+      "title": "I'm not convinced the AI bubble exists",
+      "url": "https://matteoraso.github.io/im-not-convinced-the-ai-bubble-exists.html#im-not-convinced-the-ai-bubble-exists",
+      "description": "",
+      "published": "2026-11-08T23:44:36+00:00",
+      "score": 55,
+      "category": "trending",
+      "weight": 8,
+      "points": 132,
+      "comments_url": "https://news.ycombinator.com/item?id=50418975",
+      "sentiment": "neutral",
+      "thumbnail": null,
+      "favicon": "https://www.google.com/s2/favicons?domain=matteoraso.github.io&sz=64",
+      "cluster_id": "55d711b2-e016-5657-abe1-735fa3af90f4",
+      "cluster_size": 1,
+      "cluster_topics": [
+        "convinced",
+        "bubble",
+        "exists"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "I'm not convinced the AI bubble exists",
+        "url": "https://matteoraso.github.io/im-not-convinced-the-ai-bubble-exists.html#im-not-convinced-the-ai-bubble-exists",
+        "description": "",
+        "keywords": "AI, tech, news",
+        "datePublished": "2026-11-08T23:44:36+00:00",
+        "dateModified": "2026-11-08T23:44:36+00:00",
+        "author": {
+          "@type": "Organization",
+          "name": "HN top AI 24h",
+          "url": "https://matteoraso.github.io"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "trending",
+        "inLanguage": "en-US",
+        "wordCount": 0,
+        "articleBody": ""
+      }
+    },
+    {
+      "source_id": "hn_llm_24h",
+      "source_name": "HN top LLM 24h",
+      "title": "Why I will not be using LLMs in my coding",
+      "url": "https://www.polso.info/why-i-will-not-be-using-llms-coding",
+      "description": "",
+      "published": "2026-11-08T12:14:10+00:00",
+      "score": 53,
+      "category": "trending",
+      "weight": 9,
+      "points": 110,
+      "comments_url": "https://news.ycombinator.com/item?id=50412591",
+      "sentiment": "neutral",
+      "thumbnail": null,
+      "favicon": "https://www.google.com/s2/favicons?domain=www.polso.info&sz=64",
+      "cluster_id": "3fa9983d-f100-5229-84b6-1603530317e1",
+      "cluster_size": 1,
+      "cluster_topics": [
+        "coding",
+        "llms"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "Why I will not be using LLMs in my coding",
+        "url": "https://www.polso.info/why-i-will-not-be-using-llms-coding",
+        "description": "",
+        "keywords": "AI, tech, news",
+        "datePublished": "2026-11-08T12:14:10+00:00",
+        "dateModified": "2026-11-08T12:14:10+00:00",
+        "author": {
+          "@type": "Organization",
+          "name": "HN top LLM 24h",
+          "url": "https://www.polso.info"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "trending",
+        "inLanguage": "en-US",
+        "wordCount": 0,
+        "articleBody": ""
+      }
+    },
+    {
+      "source_id": "latent_space",
+      "source_name": "Latent Space (Substack)",
+      "title": "How Stanford Teaches AI-Native Engineering — Mihail Eric, Monaco",
+      "url": "https://latent.space/p/cs146s/",
+      "description": "What happens when students can one-shot last year’s homework? Inside CS146S and the engineering team at Monaco.",
+      "published": "Sun, 08 Nov 2026 21:41:44 GMT",
+      "score": 48,
+      "category": "newsletters",
+      "weight": 8,
+      "format": "article",
+      "sentiment": "neutral",
+      "thumbnail": "https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/515ad474-e013-48a0-b40f-739bca031d85/A.jpg?t=1794172002",
+      "cluster_id": "5bf6abe9-e273-556e-8879-d34cc049d0b1",
+      "cluster_size": 2,
+      "cluster_topics": [
+        "stanford",
+        "engineering",
+        "mihail",
+        "eric",
+        "monaco"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "How Stanford Teaches AI-Native Engineering — Mihail Eric, Monaco",
+        "url": "https://latent.space/p/cs146s/",
+        "description": "What happens when students can one-shot last year’s homework? Inside CS146S and the engineering team at Monaco.",
+        "keywords": "AI, tech, news",
+        "datePublished": "Sun, 08 Nov 2026 21:41:44 GMT",
+        "dateModified": "Sun, 08 Nov 2026 21:41:44 GMT",
+        "author": {
+          "@type": "Organization",
+          "name": "Latent Space (Substack)",
+          "url": "https://latent.space"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "newsletters",
+        "inLanguage": "en-US",
+        "wordCount": 17,
+        "articleBody": "What happens when students can one-shot last year’s homework? Inside CS146S and the engineering team at Monaco."
+      }
+    },
+    {
+      "source_id": "latent_space",
+      "source_name": "Latent Space (Substack)",
+      "title": "[One Million AI Engineer Special] How Stanford Teaches AI-Native Engineering — Mihail Eric, Monaco",
+      "url": "https://latent.space/p/one_million_ai_engineer_special_how_stanford_teaches_ai-native_engineering_mihail_eric_monaco/",
+      "description": "What do you assign when a coding agent can finish last year’s homework in one prompt? In the second run of Stanford’s CS146S, Mihail Eric brought open-source maintainers into the course. Students have to learn an unfamiliar repo, propose a change, and ...",
+      "published": "Sun, 08 Nov 2026 21:23:29 GMT",
+      "score": 48,
+      "category": "newsletters",
+      "weight": 8,
+      "format": "article",
+      "sentiment": "neutral",
+      "thumbnail": "https://i.ytimg.com/vi/dpY7YzZo4kE/maxresdefault.jpg",
+      "cluster_id": "5bf6abe9-e273-556e-8879-d34cc049d0b1",
+      "cluster_size": 2,
+      "cluster_topics": [
+        "stanford",
+        "engineering",
+        "mihail",
+        "eric",
+        "monaco"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "[One Million AI Engineer Special] How Stanford Teaches AI-Native Engineering — Mihail Eric, Monaco",
+        "url": "https://latent.space/p/one_million_ai_engineer_special_how_stanford_teaches_ai-native_engineering_mihail_eric_monaco/",
+        "description": "What do you assign when a coding agent can finish last year’s homework in one prompt? In the second run of Stanford’s CS146S, Mihail Eric brought open-source maintainers into the course. Students have to learn an unfamiliar repo, propose a change, and ...",
+        "keywords": "AI, tech, news",
+        "datePublished": "Sun, 08 Nov 2026 21:23:29 GMT",
+        "dateModified": "Sun, 08 Nov 2026 21:23:29 GMT",
+        "author": {
+          "@type": "Organization",
+          "name": "Latent Space (Substack)",
+          "url": "https://latent.space"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "newsletters",
+        "inLanguage": "en-US",
+        "wordCount": 43,
+        "articleBody": "What do you assign when a coding agent can finish last year’s homework in one prompt? In the second run of Stanford’s CS146S, Mihail Eric brought open-source maintainers into the course. Students have to learn an unfamiliar repo, propose a change, and ..."
+      }
+    },
+    {
+      "source_id": "hn_ai_24h",
+      "source_name": "HN top AI 24h",
+      "title": "Silicon Valley Promises AI Will Cure Disease. Drugmaker CEOs Aren't Buying It",
+      "url": "https://www.wsj.com/tech/ai/silicon-valley-promises-ai-will-cure-disease-drugmaker-ceos-arent-buying-it-5218511c",
+      "description": "",
+      "published": "2026-11-08T18:43:07+00:00",
+      "score": 46,
+      "category": "trending",
+      "weight": 8,
+      "points": 94,
+      "comments_url": "https://news.ycombinator.com/item?id=50415817",
+      "sentiment": "neutral",
+      "thumbnail": null,
+      "favicon": "https://www.google.com/s2/favicons?domain=www.wsj.com&sz=64",
+      "cluster_id": "064b7cce-d220-5130-a2de-0f13306aa494",
+      "cluster_size": 1,
+      "cluster_topics": [
+        "silicon",
+        "valley",
+        "cure",
+        "disease",
+        "drugmaker"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "Silicon Valley Promises AI Will Cure Disease. Drugmaker CEOs Aren't Buying It",
+        "url": "https://www.wsj.com/tech/ai/silicon-valley-promises-ai-will-cure-disease-drugmaker-ceos-arent-buying-it-5218511c",
+        "description": "",
+        "keywords": "AI, tech, news",
+        "datePublished": "2026-11-08T18:43:07+00:00",
+        "dateModified": "2026-11-08T18:43:07+00:00",
+        "author": {
+          "@type": "Organization",
+          "name": "HN top AI 24h",
+          "url": "https://www.wsj.com"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "trending",
+        "inLanguage": "en-US",
+        "wordCount": 0,
+        "articleBody": ""
+      }
+    },
+    {
+      "source_id": "arxiv_cs_cl",
+      "source_name": "ArXiv cs.CL (Computation and Language / NLP)",
+      "title": "Forcing a Letter Suppresses Refusal: Mechanistic Evidence from WMDP",
+      "url": "https://arxiv.org/abs/2611.08639",
+      "description": "arXiv:2611.08639v1 Announce Type: new \nAbstract: Safety benchmarks for large language models (LLMs) commonly use multiple-choice question (MCQ) format. However, prior studies documented that MCQ format reduces refusal rates, which may significantly affect the safety behavior of the model. We provide",
+      "published": "Mon, 09 Nov 2026 00:00:00 -0500",
+      "score": 40,
+      "category": "research",
+      "weight": 8,
+      "format": "article",
+      "sentiment": "neutral",
+      "thumbnail": null,
+      "favicon": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=64",
+      "cluster_id": "a8f13988-3665-5932-be0e-9a3eb841842d",
+      "cluster_size": 1,
+      "cluster_topics": [
+        "refusal",
+        "mcq",
+        "format",
+        "safety",
+        "forcing"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "Forcing a Letter Suppresses Refusal: Mechanistic Evidence from WMDP",
+        "url": "https://arxiv.org/abs/2611.08639",
+        "description": "arXiv:2611.08639v1 Announce Type: new \nAbstract: Safety benchmarks for large language models (LLMs) commonly use multiple-choice question (MCQ) format. However, prior studies documented that MCQ format reduces refusal rates, which may significantly affect the safety behavior of the model. We provide",
+        "keywords": "AI, tech, news",
+        "datePublished": "Mon, 09 Nov 2026 00:00:00 -0500",
+        "dateModified": "Mon, 09 Nov 2026 00:00:00 -0500",
+        "author": {
+          "@type": "Organization",
+          "name": "ArXiv cs.CL (Computation and Language / NLP)",
+          "url": "https://arxiv.org"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "research",
+        "inLanguage": "en-US",
+        "wordCount": 40,
+        "articleBody": "arXiv:2611.08639v1 Announce Type: new \nAbstract: Safety benchmarks for large language models (LLMs) commonly use multiple-choice question (MCQ) format. However, prior studies documented that MCQ format reduces refusal rates, which may significantly affect the safety behavior of the model. We provide"
+      }
+    },
+    {
+      "source_id": "arxiv_cs_cl",
+      "source_name": "ArXiv cs.CL (Computation and Language / NLP)",
+      "title": "FinEvolveKG: Controlled and Attributable Prompt Evolution for Financial Knowledge Graph Construction",
+      "url": "https://arxiv.org/abs/2611.08643",
+      "description": "arXiv:2611.08643v1 Announce Type: new \nAbstract: Financial institutions construct knowledge graphs (KGs) from shared SEC 10-Ks to serve risk analysis, portfolio management, and investment research, whose analytical needs differ. Extraction must adapt without fragmenting shared grounding, typing, and",
+      "published": "Mon, 09 Nov 2026 00:00:00 -0500",
+      "score": 40,
+      "category": "research",
+      "weight": 8,
+      "format": "article",
+      "sentiment": "neutral",
+      "thumbnail": null,
+      "favicon": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=64",
+      "cluster_id": "4288b62f-b04e-59ef-a85e-6bc5257a8040",
+      "cluster_size": 1,
+      "cluster_topics": [
+        "financial",
+        "knowledge",
+        "shared",
+        "finevolvekg",
+        "attributable"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "FinEvolveKG: Controlled and Attributable Prompt Evolution for Financial Knowledge Graph Construction",
+        "url": "https://arxiv.org/abs/2611.08643",
+        "description": "arXiv:2611.08643v1 Announce Type: new \nAbstract: Financial institutions construct knowledge graphs (KGs) from shared SEC 10-Ks to serve risk analysis, portfolio management, and investment research, whose analytical needs differ. Extraction must adapt without fragmenting shared grounding, typing, and",
+        "keywords": "AI, tech, news",
+        "datePublished": "Mon, 09 Nov 2026 00:00:00 -0500",
+        "dateModified": "Mon, 09 Nov 2026 00:00:00 -0500",
+        "author": {
+          "@type": "Organization",
+          "name": "ArXiv cs.CL (Computation and Language / NLP)",
+          "url": "https://arxiv.org"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "research",
+        "inLanguage": "en-US",
+        "wordCount": 37,
+        "articleBody": "arXiv:2611.08643v1 Announce Type: new \nAbstract: Financial institutions construct knowledge graphs (KGs) from shared SEC 10-Ks to serve risk analysis, portfolio management, and investment research, whose analytical needs differ. Extraction must adapt without fragmenting shared grounding, typing, and"
+      }
+    },
+    {
+      "source_id": "arxiv_cs_cl",
+      "source_name": "ArXiv cs.CL (Computation and Language / NLP)",
+      "title": "Compression of Emotion in Language Model Representations",
+      "url": "https://arxiv.org/abs/2611.08683",
+      "description": "arXiv:2611.08683v1 Announce Type: new \nAbstract: Large language models (LLMs) have been evaluated on their ability to identify emotions expressed in text and produce fluent emotional language. However, output predictions alone do not reveal how fine-grained emotion distinctions are organized interna",
+      "published": "Mon, 09 Nov 2026 00:00:00 -0500",
+      "score": 40,
+      "category": "research",
+      "weight": 8,
+      "format": "article",
+      "sentiment": "neutral",
+      "thumbnail": null,
+      "favicon": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=64",
+      "cluster_id": "565060f3-1c42-5aa7-8cd3-ce9b24f64879",
+      "cluster_size": 1,
+      "cluster_topics": [
+        "emotion",
+        "language",
+        "ability",
+        "identify",
+        "emotions"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "Compression of Emotion in Language Model Representations",
+        "url": "https://arxiv.org/abs/2611.08683",
+        "description": "arXiv:2611.08683v1 Announce Type: new \nAbstract: Large language models (LLMs) have been evaluated on their ability to identify emotions expressed in text and produce fluent emotional language. However, output predictions alone do not reveal how fine-grained emotion distinctions are organized interna",
+        "keywords": "AI, tech, news",
+        "datePublished": "Mon, 09 Nov 2026 00:00:00 -0500",
+        "dateModified": "Mon, 09 Nov 2026 00:00:00 -0500",
+        "author": {
+          "@type": "Organization",
+          "name": "ArXiv cs.CL (Computation and Language / NLP)",
+          "url": "https://arxiv.org"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "research",
+        "inLanguage": "en-US",
+        "wordCount": 40,
+        "articleBody": "arXiv:2611.08683v1 Announce Type: new \nAbstract: Large language models (LLMs) have been evaluated on their ability to identify emotions expressed in text and produce fluent emotional language. However, output predictions alone do not reveal how fine-grained emotion distinctions are organized interna"
+      }
+    },
+    {
+      "source_id": "arxiv_cs_cl",
+      "source_name": "ArXiv cs.CL (Computation and Language / NLP)",
+      "title": "Contextuality and Contradictions: Exploring Real-World Identifications of AI-Generated Writing",
+      "url": "https://arxiv.org/abs/2611.08704",
+      "description": "arXiv:2611.08704v1 Announce Type: new \nAbstract: As AI-generated content spreads into nearly every domain of human interaction, practices and discourses of AI detection, both formal and informal, have become an everyday part of how people interact with text and with each other. In this paper, we exp",
+      "published": "Mon, 09 Nov 2026 00:00:00 -0500",
+      "score": 40,
+      "category": "research",
+      "weight": 8,
+      "format": "article",
+      "sentiment": "neutral",
+      "thumbnail": null,
+      "favicon": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=64",
+      "cluster_id": "0d32cded-1650-5bd2-b79a-d7b1a4902c16",
+      "cluster_size": 1,
+      "cluster_topics": [
+        "ai-generated",
+        "contextuality",
+        "contradictions",
+        "exploring",
+        "real-world"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "Contextuality and Contradictions: Exploring Real-World Identifications of AI-Generated Writing",
+        "url": "https://arxiv.org/abs/2611.08704",
+        "description": "arXiv:2611.08704v1 Announce Type: new \nAbstract: As AI-generated content spreads into nearly every domain of human interaction, practices and discourses of AI detection, both formal and informal, have become an everyday part of how people interact with text and with each other. In this paper, we exp",
+        "keywords": "AI, tech, news",
+        "datePublished": "Mon, 09 Nov 2026 00:00:00 -0500",
+        "dateModified": "Mon, 09 Nov 2026 00:00:00 -0500",
+        "author": {
+          "@type": "Organization",
+          "name": "ArXiv cs.CL (Computation and Language / NLP)",
+          "url": "https://arxiv.org"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "research",
+        "inLanguage": "en-US",
+        "wordCount": 46,
+        "articleBody": "arXiv:2611.08704v1 Announce Type: new \nAbstract: As AI-generated content spreads into nearly every domain of human interaction, practices and discourses of AI detection, both formal and informal, have become an everyday part of how people interact with text and with each other. In this paper, we exp"
+      }
+    },
+    {
+      "source_id": "arxiv_cs_cl",
+      "source_name": "ArXiv cs.CL (Computation and Language / NLP)",
+      "title": "RL-ATTACK: A Generalized Black-Box Adversarial Attack on Language Models via Reinforcement Learning",
+      "url": "https://arxiv.org/abs/2611.08711",
+      "description": "arXiv:2611.08711v1 Announce Type: new \nAbstract: Large language models (LLMs) exhibit vulnerabilities to adversarial perturbations that can induce unintended responses. These vulnerabilities can be identified via intentional attacks and subsequently used to improve model safety. In black-box setting",
+      "published": "Mon, 09 Nov 2026 00:00:00 -0500",
+      "score": 40,
+      "category": "research",
+      "weight": 8,
+      "format": "article",
+      "sentiment": "neutral",
+      "thumbnail": null,
+      "favicon": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=64",
+      "cluster_id": "3f10a1db-9948-537d-ac43-54cace17de33",
+      "cluster_size": 1,
+      "cluster_topics": [
+        "black-box",
+        "adversarial",
+        "via",
+        "vulnerabilities",
+        "models"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "RL-ATTACK: A Generalized Black-Box Adversarial Attack on Language Models via Reinforcement Learning",
+        "url": "https://arxiv.org/abs/2611.08711",
+        "description": "arXiv:2611.08711v1 Announce Type: new \nAbstract: Large language models (LLMs) exhibit vulnerabilities to adversarial perturbations that can induce unintended responses. These vulnerabilities can be identified via intentional attacks and subsequently used to improve model safety. In black-box setting",
+        "keywords": "AI, tech, news",
+        "datePublished": "Mon, 09 Nov 2026 00:00:00 -0500",
+        "dateModified": "Mon, 09 Nov 2026 00:00:00 -0500",
+        "author": {
+          "@type": "Organization",
+          "name": "ArXiv cs.CL (Computation and Language / NLP)",
+          "url": "https://arxiv.org"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "research",
+        "inLanguage": "en-US",
+        "wordCount": 37,
+        "articleBody": "arXiv:2611.08711v1 Announce Type: new \nAbstract: Large language models (LLMs) exhibit vulnerabilities to adversarial perturbations that can induce unintended responses. These vulnerabilities can be identified via intentional attacks and subsequently used to improve model safety. In black-box setting"
+      }
+    },
+    {
+      "source_id": "arxiv_cs_cl",
+      "source_name": "ArXiv cs.CL (Computation and Language / NLP)",
+      "title": "Structuring Survey Histories for LLM Digital Twins: A Controlled Study of Background, Decision Procedure, and Evaluation Profiles",
+      "url": "https://arxiv.org/abs/2611.08730",
+      "description": "arXiv:2611.08730v1 Announce Type: new \nAbstract: LLM-based digital twins aim to predict how individuals would respond in new settings from representations of their prior responses. Existing evidence that compression of survey histories need not reduce predictive accuracy suggests that representation",
+      "published": "Mon, 09 Nov 2026 00:00:00 -0500",
+      "score": 40,
+      "category": "research",
+      "weight": 8,
+      "format": "article",
+      "sentiment": "neutral",
+      "thumbnail": null,
+      "favicon": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=64",
+      "cluster_id": "46129602-dabb-5681-8be5-bc7d88d3702d",
+      "cluster_size": 1,
+      "cluster_topics": [
+        "survey",
+        "histories",
+        "twins",
+        "digital",
+        "structuring"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "Structuring Survey Histories for LLM Digital Twins: A Controlled Study of Background, Decision Procedure, and Evaluation Profiles",
+        "url": "https://arxiv.org/abs/2611.08730",
+        "description": "arXiv:2611.08730v1 Announce Type: new \nAbstract: LLM-based digital twins aim to predict how individuals would respond in new settings from representations of their prior responses. Existing evidence that compression of survey histories need not reduce predictive accuracy suggests that representation",
+        "keywords": "AI, tech, news",
+        "datePublished": "Mon, 09 Nov 2026 00:00:00 -0500",
+        "dateModified": "Mon, 09 Nov 2026 00:00:00 -0500",
+        "author": {
+          "@type": "Organization",
+          "name": "ArXiv cs.CL (Computation and Language / NLP)",
+          "url": "https://arxiv.org"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "research",
+        "inLanguage": "en-US",
+        "wordCount": 39,
+        "articleBody": "arXiv:2611.08730v1 Announce Type: new \nAbstract: LLM-based digital twins aim to predict how individuals would respond in new settings from representations of their prior responses. Existing evidence that compression of survey histories need not reduce predictive accuracy suggests that representation"
+      }
+    },
+    {
+      "source_id": "arxiv_cs_cl",
+      "source_name": "ArXiv cs.CL (Computation and Language / NLP)",
+      "title": "Semantic Conditional Similarity (SCS): A Formal Mathematical Framework",
+      "url": "https://arxiv.org/abs/2611.08778",
+      "description": "arXiv:2611.08778v1 Announce Type: new \nAbstract: Semantic Textual Similarity (STS) operates on document pairs, returning a single scalar per comparison. In a multi-document setting where several sources may have contributed to one or more targets, pairwise STS cannot disentangle each source's margin",
+      "published": "Mon, 09 Nov 2026 00:00:00 -0500",
+      "score": 40,
+      "category": "research",
+      "weight": 8,
+      "format": "article",
+      "sentiment": "neutral",
+      "thumbnail": null,
+      "favicon": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=64",
+      "cluster_id": "43e90d32-a9e3-5c99-98da-37252cf64f49",
+      "cluster_size": 1,
+      "cluster_topics": [
+        "similarity",
+        "sts",
+        "semantic",
+        "conditional",
+        "scs"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "Semantic Conditional Similarity (SCS): A Formal Mathematical Framework",
+        "url": "https://arxiv.org/abs/2611.08778",
+        "description": "arXiv:2611.08778v1 Announce Type: new \nAbstract: Semantic Textual Similarity (STS) operates on document pairs, returning a single scalar per comparison. In a multi-document setting where several sources may have contributed to one or more targets, pairwise STS cannot disentangle each source's margin",
+        "keywords": "AI, tech, news",
+        "datePublished": "Mon, 09 Nov 2026 00:00:00 -0500",
+        "dateModified": "Mon, 09 Nov 2026 00:00:00 -0500",
+        "author": {
+          "@type": "Organization",
+          "name": "ArXiv cs.CL (Computation and Language / NLP)",
+          "url": "https://arxiv.org"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "research",
+        "inLanguage": "en-US",
+        "wordCount": 41,
+        "articleBody": "arXiv:2611.08778v1 Announce Type: new \nAbstract: Semantic Textual Similarity (STS) operates on document pairs, returning a single scalar per comparison. In a multi-document setting where several sources may have contributed to one or more targets, pairwise STS cannot disentangle each source's margin"
+      }
+    },
+    {
+      "source_id": "arxiv_cs_cl",
+      "source_name": "ArXiv cs.CL (Computation and Language / NLP)",
+      "title": "Guardrail Erosion in Domain Fine-Tuned Large Language Models: A Paired Audit of Knowledge-Centric Abstention in Biomedical LLMs",
+      "url": "https://arxiv.org/abs/2611.08780",
+      "description": "arXiv:2611.08780v1 Announce Type: new \nAbstract: The number of domain fine-tuned models, particularly in the biomedical domain, is rapidly expanding. Fine-tuning promises high-performing models at a fraction of the cost of training a base model, but it can also produce unintended behavioral changes.",
+      "published": "Mon, 09 Nov 2026 00:00:00 -0500",
+      "score": 40,
+      "category": "research",
+      "weight": 8,
+      "format": "article",
+      "sentiment": "neutral",
+      "thumbnail": null,
+      "favicon": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=64",
+      "cluster_id": "834b5388-bf6f-5171-a4c5-55d8d5da1126",
+      "cluster_size": 1,
+      "cluster_topics": [
+        "domain",
+        "fine-tuned",
+        "biomedical",
+        "models",
+        "guardrail"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "Guardrail Erosion in Domain Fine-Tuned Large Language Models: A Paired Audit of Knowledge-Centric Abstention in Biomedical LLMs",
+        "url": "https://arxiv.org/abs/2611.08780",
+        "description": "arXiv:2611.08780v1 Announce Type: new \nAbstract: The number of domain fine-tuned models, particularly in the biomedical domain, is rapidly expanding. Fine-tuning promises high-performing models at a fraction of the cost of training a base model, but it can also produce unintended behavioral changes.",
+        "keywords": "AI, tech, news",
+        "datePublished": "Mon, 09 Nov 2026 00:00:00 -0500",
+        "dateModified": "Mon, 09 Nov 2026 00:00:00 -0500",
+        "author": {
+          "@type": "Organization",
+          "name": "ArXiv cs.CL (Computation and Language / NLP)",
+          "url": "https://arxiv.org"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "research",
+        "inLanguage": "en-US",
+        "wordCount": 42,
+        "articleBody": "arXiv:2611.08780v1 Announce Type: new \nAbstract: The number of domain fine-tuned models, particularly in the biomedical domain, is rapidly expanding. Fine-tuning promises high-performing models at a fraction of the cost of training a base model, but it can also produce unintended behavioral changes."
+      }
+    },
+    {
+      "source_id": "arxiv_cs_cl",
+      "source_name": "ArXiv cs.CL (Computation and Language / NLP)",
+      "title": "Richness Is Not Evenness: Ordered Renyi Crossings under Self-Training",
+      "url": "https://arxiv.org/abs/2611.08892",
+      "description": "arXiv:2611.08892v1 Announce Type: new \nAbstract: Recursive self-training of language models, a setting studied in model collapse, can reduce vocabulary while making frequent words, mostly function words, less dominant. We fine-tune English GPT-2 on its own output for nine generations, vary the train",
+      "published": "Mon, 09 Nov 2026 00:00:00 -0500",
+      "score": 40,
+      "category": "research",
+      "weight": 8,
+      "format": "article",
+      "sentiment": "neutral",
+      "thumbnail": null,
+      "favicon": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=64",
+      "cluster_id": "04ac7a36-9bac-5e8c-b9a1-97d3989d5c2e",
+      "cluster_size": 1,
+      "cluster_topics": [
+        "self-training",
+        "words",
+        "richness",
+        "evenness",
+        "ordered"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "Richness Is Not Evenness: Ordered Renyi Crossings under Self-Training",
+        "url": "https://arxiv.org/abs/2611.08892",
+        "description": "arXiv:2611.08892v1 Announce Type: new \nAbstract: Recursive self-training of language models, a setting studied in model collapse, can reduce vocabulary while making frequent words, mostly function words, less dominant. We fine-tune English GPT-2 on its own output for nine generations, vary the train",
+        "keywords": "AI, tech, news",
+        "datePublished": "Mon, 09 Nov 2026 00:00:00 -0500",
+        "dateModified": "Mon, 09 Nov 2026 00:00:00 -0500",
+        "author": {
+          "@type": "Organization",
+          "name": "ArXiv cs.CL (Computation and Language / NLP)",
+          "url": "https://arxiv.org"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "research",
+        "inLanguage": "en-US",
+        "wordCount": 42,
+        "articleBody": "arXiv:2611.08892v1 Announce Type: new \nAbstract: Recursive self-training of language models, a setting studied in model collapse, can reduce vocabulary while making frequent words, mostly function words, less dominant. We fine-tune English GPT-2 on its own output for nine generations, vary the train"
+      }
+    },
+    {
+      "source_id": "arxiv_cs_cl",
+      "source_name": "ArXiv cs.CL (Computation and Language / NLP)",
+      "title": "From Procedures to Permissions: Learning Precise Subagent Authorization from Agent Skills",
+      "url": "https://arxiv.org/abs/2611.08905",
+      "description": "arXiv:2611.08905v1 Announce Type: new \nAbstract: As language agents tackle increasingly complex tasks, they increasingly rely on multiple agents to coordinate specialized work, requiring decisions not only about what each subagent should do but also which tools and workspace resources it should acce",
+      "published": "Mon, 09 Nov 2026 00:00:00 -0500",
+      "score": 40,
+      "category": "research",
+      "weight": 8,
+      "format": "article",
+      "sentiment": "neutral",
+      "thumbnail": null,
+      "favicon": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=64",
+      "cluster_id": "659eba29-18ba-5119-ab6d-1fa3c5f01f6e",
+      "cluster_size": 1,
+      "cluster_topics": [
+        "subagent",
+        "increasingly",
+        "agents",
+        "procedures",
+        "permissions"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "From Procedures to Permissions: Learning Precise Subagent Authorization from Agent Skills",
+        "url": "https://arxiv.org/abs/2611.08905",
+        "description": "arXiv:2611.08905v1 Announce Type: new \nAbstract: As language agents tackle increasingly complex tasks, they increasingly rely on multiple agents to coordinate specialized work, requiring decisions not only about what each subagent should do but also which tools and workspace resources it should acce",
+        "keywords": "AI, tech, news",
+        "datePublished": "Mon, 09 Nov 2026 00:00:00 -0500",
+        "dateModified": "Mon, 09 Nov 2026 00:00:00 -0500",
+        "author": {
+          "@type": "Organization",
+          "name": "ArXiv cs.CL (Computation and Language / NLP)",
+          "url": "https://arxiv.org"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "research",
+        "inLanguage": "en-US",
+        "wordCount": 42,
+        "articleBody": "arXiv:2611.08905v1 Announce Type: new \nAbstract: As language agents tackle increasingly complex tasks, they increasingly rely on multiple agents to coordinate specialized work, requiring decisions not only about what each subagent should do but also which tools and workspace resources it should acce"
+      }
+    },
+    {
+      "source_id": "arxiv_cs_cl",
+      "source_name": "ArXiv cs.CL (Computation and Language / NLP)",
+      "title": "Using an LLM to Tackle Difficult Cases in NER for Nepali Tweets",
+      "url": "https://arxiv.org/abs/2611.08967",
+      "description": "arXiv:2611.08967v1 Announce Type: new \nAbstract: Named entity recognition (NER) is challenging for social media data in a low-resource language. LLMs often lag behind pretrained language models (PLMs) in NER performance, but they show promise in handling cases that PLMs struggle with. Using a datase",
+      "published": "Mon, 09 Nov 2026 00:00:00 -0500",
+      "score": 40,
+      "category": "research",
+      "weight": 8,
+      "format": "article",
+      "sentiment": "neutral",
+      "thumbnail": null,
+      "favicon": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=64",
+      "cluster_id": "3b67c59b-2991-5f03-b50b-8f57bedbc270",
+      "cluster_size": 1,
+      "cluster_topics": [
+        "ner",
+        "cases",
+        "plms",
+        "difficult",
+        "nepali"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "Using an LLM to Tackle Difficult Cases in NER for Nepali Tweets",
+        "url": "https://arxiv.org/abs/2611.08967",
+        "description": "arXiv:2611.08967v1 Announce Type: new \nAbstract: Named entity recognition (NER) is challenging for social media data in a low-resource language. LLMs often lag behind pretrained language models (PLMs) in NER performance, but they show promise in handling cases that PLMs struggle with. Using a datase",
+        "keywords": "AI, tech, news",
+        "datePublished": "Mon, 09 Nov 2026 00:00:00 -0500",
+        "dateModified": "Mon, 09 Nov 2026 00:00:00 -0500",
+        "author": {
+          "@type": "Organization",
+          "name": "ArXiv cs.CL (Computation and Language / NLP)",
+          "url": "https://arxiv.org"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "research",
+        "inLanguage": "en-US",
+        "wordCount": 44,
+        "articleBody": "arXiv:2611.08967v1 Announce Type: new \nAbstract: Named entity recognition (NER) is challenging for social media data in a low-resource language. LLMs often lag behind pretrained language models (PLMs) in NER performance, but they show promise in handling cases that PLMs struggle with. Using a datase"
+      }
+    },
+    {
+      "source_id": "arxiv_cs_cl",
+      "source_name": "ArXiv cs.CL (Computation and Language / NLP)",
+      "title": "Beyond Truncation? Entailment-Licensed Elision and the Limits of Semantic Preservation in LLM Decoding",
+      "url": "https://arxiv.org/abs/2611.08975",
+      "description": "arXiv:2611.08975v1 Announce Type: new \nAbstract: Instruction-tuned large language models (LLMs) answer at greater length than a request needs. We ask whether a training-free controller inside the decoding loop can remove that surplus while preserving content, judged against the simplest possible bas",
+      "published": "Mon, 09 Nov 2026 00:00:00 -0500",
+      "score": 40,
+      "category": "research",
+      "weight": 8,
+      "format": "article",
+      "sentiment": "neutral",
+      "thumbnail": null,
+      "favicon": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=64",
+      "cluster_id": "c18f8113-7021-564d-b2dc-c0baa5d73a69",
+      "cluster_size": 1,
+      "cluster_topics": [
+        "decoding",
+        "beyond",
+        "truncation",
+        "entailment-licensed",
+        "elision"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "Beyond Truncation? Entailment-Licensed Elision and the Limits of Semantic Preservation in LLM Decoding",
+        "url": "https://arxiv.org/abs/2611.08975",
+        "description": "arXiv:2611.08975v1 Announce Type: new \nAbstract: Instruction-tuned large language models (LLMs) answer at greater length than a request needs. We ask whether a training-free controller inside the decoding loop can remove that surplus while preserving content, judged against the simplest possible bas",
+        "keywords": "AI, tech, news",
+        "datePublished": "Mon, 09 Nov 2026 00:00:00 -0500",
+        "dateModified": "Mon, 09 Nov 2026 00:00:00 -0500",
+        "author": {
+          "@type": "Organization",
+          "name": "ArXiv cs.CL (Computation and Language / NLP)",
+          "url": "https://arxiv.org"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "research",
+        "inLanguage": "en-US",
+        "wordCount": 41,
+        "articleBody": "arXiv:2611.08975v1 Announce Type: new \nAbstract: Instruction-tuned large language models (LLMs) answer at greater length than a request needs. We ask whether a training-free controller inside the decoding loop can remove that surplus while preserving content, judged against the simplest possible bas"
+      }
+    },
+    {
+      "source_id": "arxiv_cs_cl",
+      "source_name": "ArXiv cs.CL (Computation and Language / NLP)",
+      "title": "Language, Not Code Abstraction: Natural-language Training Shapes Brain-aligned Geometry",
+      "url": "https://arxiv.org/abs/2611.09027",
+      "description": "arXiv:2611.09027v1 Announce Type: new \nAbstract: Code-trained language models produce positive brain scores, which raises the question of whether abstract structure learned from programming languages can substitute for natural-language training. We trained 25 GPT-2-small models on TinyStories, Pytho",
+      "published": "Mon, 09 Nov 2026 00:00:00 -0500",
+      "score": 40,
+      "category": "research",
+      "weight": 8,
+      "format": "article",
+      "sentiment": "neutral",
+      "thumbnail": null,
+      "favicon": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=64",
+      "cluster_id": "fbc19faa-0a02-559b-8b85-213d5c33c7b7",
+      "cluster_size": 1,
+      "cluster_topics": [
+        "natural-language",
+        "training",
+        "models",
+        "abstraction",
+        "shapes"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "Language, Not Code Abstraction: Natural-language Training Shapes Brain-aligned Geometry",
+        "url": "https://arxiv.org/abs/2611.09027",
+        "description": "arXiv:2611.09027v1 Announce Type: new \nAbstract: Code-trained language models produce positive brain scores, which raises the question of whether abstract structure learned from programming languages can substitute for natural-language training. We trained 25 GPT-2-small models on TinyStories, Pytho",
+        "keywords": "AI, tech, news",
+        "datePublished": "Mon, 09 Nov 2026 00:00:00 -0500",
+        "dateModified": "Mon, 09 Nov 2026 00:00:00 -0500",
+        "author": {
+          "@type": "Organization",
+          "name": "ArXiv cs.CL (Computation and Language / NLP)",
+          "url": "https://arxiv.org"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "research",
+        "inLanguage": "en-US",
+        "wordCount": 37,
+        "articleBody": "arXiv:2611.09027v1 Announce Type: new \nAbstract: Code-trained language models produce positive brain scores, which raises the question of whether abstract structure learned from programming languages can substitute for natural-language training. We trained 25 GPT-2-small models on TinyStories, Pytho"
+      }
+    },
+    {
+      "source_id": "arxiv_cs_cl",
+      "source_name": "ArXiv cs.CL (Computation and Language / NLP)",
+      "title": "Failure Profiling and Reachable Trajectory Selection for Reasoning Distillation",
+      "url": "https://arxiv.org/abs/2611.09042",
+      "description": "arXiv:2611.09042v1 Announce Type: new \nAbstract: Training smaller language models on reasoning solutions generated by a larger teacher model is the prevailing approach for transferring mathematical reasoning capabilities. However, the student tends to overfit the output distribution of the teacher a",
+      "published": "Mon, 09 Nov 2026 00:00:00 -0500",
+      "score": 40,
+      "category": "research",
+      "weight": 8,
+      "format": "article",
+      "sentiment": "neutral",
+      "thumbnail": null,
+      "favicon": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=64",
+      "cluster_id": "5cbd9e0c-9c68-523e-9206-b274610d6e87",
+      "cluster_size": 1,
+      "cluster_topics": [
+        "reasoning",
+        "teacher",
+        "failure",
+        "profiling",
+        "reachable"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "Failure Profiling and Reachable Trajectory Selection for Reasoning Distillation",
+        "url": "https://arxiv.org/abs/2611.09042",
+        "description": "arXiv:2611.09042v1 Announce Type: new \nAbstract: Training smaller language models on reasoning solutions generated by a larger teacher model is the prevailing approach for transferring mathematical reasoning capabilities. However, the student tends to overfit the output distribution of the teacher a",
+        "keywords": "AI, tech, news",
+        "datePublished": "Mon, 09 Nov 2026 00:00:00 -0500",
+        "dateModified": "Mon, 09 Nov 2026 00:00:00 -0500",
+        "author": {
+          "@type": "Organization",
+          "name": "ArXiv cs.CL (Computation and Language / NLP)",
+          "url": "https://arxiv.org"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "research",
+        "inLanguage": "en-US",
+        "wordCount": 40,
+        "articleBody": "arXiv:2611.09042v1 Announce Type: new \nAbstract: Training smaller language models on reasoning solutions generated by a larger teacher model is the prevailing approach for transferring mathematical reasoning capabilities. However, the student tends to overfit the output distribution of the teacher a"
+      }
+    },
+    {
+      "source_id": "arxiv_cs_cl",
+      "source_name": "ArXiv cs.CL (Computation and Language / NLP)",
+      "title": "Does Reasoning Improve Psychological Depth in Large Language Models?",
+      "url": "https://arxiv.org/abs/2611.09061",
+      "description": "arXiv:2611.09061v1 Announce Type: new \nAbstract: Benchmark gains from reasoning-enhanced large language models encourage the assumption that these models should broadly perform better on complex generative tasks, but this remains underexplored in open-ended, creative domains shaped by nuances of rea",
+      "published": "Mon, 09 Nov 2026 00:00:00 -0500",
+      "score": 40,
+      "category": "research",
+      "weight": 8,
+      "format": "article",
+      "sentiment": "neutral",
+      "thumbnail": null,
+      "favicon": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=64",
+      "cluster_id": "16fb19ed-895c-57a3-b932-23de0afbf4ae",
+      "cluster_size": 1,
+      "cluster_topics": [
+        "models",
+        "large",
+        "psychological",
+        "depth",
+        "gains"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "Does Reasoning Improve Psychological Depth in Large Language Models?",
+        "url": "https://arxiv.org/abs/2611.09061",
+        "description": "arXiv:2611.09061v1 Announce Type: new \nAbstract: Benchmark gains from reasoning-enhanced large language models encourage the assumption that these models should broadly perform better on complex generative tasks, but this remains underexplored in open-ended, creative domains shaped by nuances of rea",
+        "keywords": "AI, tech, news",
+        "datePublished": "Mon, 09 Nov 2026 00:00:00 -0500",
+        "dateModified": "Mon, 09 Nov 2026 00:00:00 -0500",
+        "author": {
+          "@type": "Organization",
+          "name": "ArXiv cs.CL (Computation and Language / NLP)",
+          "url": "https://arxiv.org"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "research",
+        "inLanguage": "en-US",
+        "wordCount": 39,
+        "articleBody": "arXiv:2611.09061v1 Announce Type: new \nAbstract: Benchmark gains from reasoning-enhanced large language models encourage the assumption that these models should broadly perform better on complex generative tasks, but this remains underexplored in open-ended, creative domains shaped by nuances of rea"
+      }
+    },
+    {
+      "source_id": "arxiv_cs_cl",
+      "source_name": "ArXiv cs.CL (Computation and Language / NLP)",
+      "title": "The Invisible Gap: Romanized Indic Generation Fails Where Automatic Metrics Succeed",
+      "url": "https://arxiv.org/abs/2611.09085",
+      "description": "arXiv:2611.09085v1 Announce Type: new \nAbstract: Hundreds of millions of Indians communicate with digital systems in romanized Latin characters -- typing \"aap kaise hain\" rather than native script -- yet romanized Indic generation is absent from NLP benchmarks and evaluation frameworks. We demonstra",
+      "published": "Mon, 09 Nov 2026 00:00:00 -0500",
+      "score": 40,
+      "category": "research",
+      "weight": 8,
+      "format": "article",
+      "sentiment": "neutral",
+      "thumbnail": null,
+      "favicon": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=64",
+      "cluster_id": "d70d2f07-2309-5288-95b4-caf65383333c",
+      "cluster_size": 1,
+      "cluster_topics": [
+        "romanized",
+        "indic",
+        "generation",
+        "invisible",
+        "gap"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "The Invisible Gap: Romanized Indic Generation Fails Where Automatic Metrics Succeed",
+        "url": "https://arxiv.org/abs/2611.09085",
+        "description": "arXiv:2611.09085v1 Announce Type: new \nAbstract: Hundreds of millions of Indians communicate with digital systems in romanized Latin characters -- typing \"aap kaise hain\" rather than native script -- yet romanized Indic generation is absent from NLP benchmarks and evaluation frameworks. We demonstra",
+        "keywords": "AI, tech, news",
+        "datePublished": "Mon, 09 Nov 2026 00:00:00 -0500",
+        "dateModified": "Mon, 09 Nov 2026 00:00:00 -0500",
+        "author": {
+          "@type": "Organization",
+          "name": "ArXiv cs.CL (Computation and Language / NLP)",
+          "url": "https://arxiv.org"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "research",
+        "inLanguage": "en-US",
+        "wordCount": 42,
+        "articleBody": "arXiv:2611.09085v1 Announce Type: new \nAbstract: Hundreds of millions of Indians communicate with digital systems in romanized Latin characters -- typing \"aap kaise hain\" rather than native script -- yet romanized Indic generation is absent from NLP benchmarks and evaluation frameworks. We demonstra"
+      }
+    },
+    {
+      "source_id": "arxiv_cs_cl",
+      "source_name": "ArXiv cs.CL (Computation and Language / NLP)",
+      "title": "MARS: Training Multilingual Search Agents for Retriever-Free Evidence Acquisition",
+      "url": "https://arxiv.org/abs/2611.09090",
+      "description": "arXiv:2611.09090v1 Announce Type: new \nAbstract: Existing multilingual retrieval-augmented generation relies heavily on learned retrievers and similarity-based ranking from multilingual collections, which are vulnerable to cross-lingual retrieval errors and indexing overhead. In this paper, we explo",
+      "published": "Mon, 09 Nov 2026 00:00:00 -0500",
+      "score": 40,
+      "category": "research",
+      "weight": 8,
+      "format": "article",
+      "sentiment": "neutral",
+      "thumbnail": null,
+      "favicon": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=64",
+      "cluster_id": "aec71182-2b2f-5974-8f9b-743a5ba5bac0",
+      "cluster_size": 1,
+      "cluster_topics": [
+        "multilingual",
+        "mars",
+        "search",
+        "retriever-free",
+        "acquisition"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "MARS: Training Multilingual Search Agents for Retriever-Free Evidence Acquisition",
+        "url": "https://arxiv.org/abs/2611.09090",
+        "description": "arXiv:2611.09090v1 Announce Type: new \nAbstract: Existing multilingual retrieval-augmented generation relies heavily on learned retrievers and similarity-based ranking from multilingual collections, which are vulnerable to cross-lingual retrieval errors and indexing overhead. In this paper, we explo",
+        "keywords": "AI, tech, news",
+        "datePublished": "Mon, 09 Nov 2026 00:00:00 -0500",
+        "dateModified": "Mon, 09 Nov 2026 00:00:00 -0500",
+        "author": {
+          "@type": "Organization",
+          "name": "ArXiv cs.CL (Computation and Language / NLP)",
+          "url": "https://arxiv.org"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "research",
+        "inLanguage": "en-US",
+        "wordCount": 35,
+        "articleBody": "arXiv:2611.09090v1 Announce Type: new \nAbstract: Existing multilingual retrieval-augmented generation relies heavily on learned retrievers and similarity-based ranking from multilingual collections, which are vulnerable to cross-lingual retrieval errors and indexing overhead. In this paper, we explo"
+      }
+    },
+    {
+      "source_id": "arxiv_cs_cl",
+      "source_name": "ArXiv cs.CL (Computation and Language / NLP)",
+      "title": "AlienBench: A Benchmark of Structural Novelty in Language Model Outputs",
+      "url": "https://arxiv.org/abs/2611.09094",
+      "description": "arXiv:2611.09094v1 Announce Type: new \nAbstract: Large language models (LLMs) are increasingly used for creative tasks such as writing, design, and idea generation. For these uses, it matters whether a model's ideas depart from familiar examples or stay close to them. Novelty is one standard measure",
+      "published": "Mon, 09 Nov 2026 00:00:00 -0500",
+      "score": 40,
+      "category": "research",
+      "weight": 8,
+      "format": "article",
+      "sentiment": "neutral",
+      "thumbnail": null,
+      "favicon": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=64",
+      "cluster_id": "f04423c2-93e2-522e-ae80-263dd0d78e1f",
+      "cluster_size": 1,
+      "cluster_topics": [
+        "novelty",
+        "model",
+        "alienbench",
+        "structural",
+        "outputs"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "AlienBench: A Benchmark of Structural Novelty in Language Model Outputs",
+        "url": "https://arxiv.org/abs/2611.09094",
+        "description": "arXiv:2611.09094v1 Announce Type: new \nAbstract: Large language models (LLMs) are increasingly used for creative tasks such as writing, design, and idea generation. For these uses, it matters whether a model's ideas depart from familiar examples or stay close to them. Novelty is one standard measure",
+        "keywords": "AI, tech, news",
+        "datePublished": "Mon, 09 Nov 2026 00:00:00 -0500",
+        "dateModified": "Mon, 09 Nov 2026 00:00:00 -0500",
+        "author": {
+          "@type": "Organization",
+          "name": "ArXiv cs.CL (Computation and Language / NLP)",
+          "url": "https://arxiv.org"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "research",
+        "inLanguage": "en-US",
+        "wordCount": 45,
+        "articleBody": "arXiv:2611.09094v1 Announce Type: new \nAbstract: Large language models (LLMs) are increasingly used for creative tasks such as writing, design, and idea generation. For these uses, it matters whether a model's ideas depart from familiar examples or stay close to them. Novelty is one standard measure"
+      }
+    },
+    {
+      "source_id": "arxiv_cs_cl",
+      "source_name": "ArXiv cs.CL (Computation and Language / NLP)",
+      "title": "PhoPunct: A Large-Scale Benchmark of Transformer Architectures for Vietnamese Punctuation Restoration",
+      "url": "https://arxiv.org/abs/2611.09107",
+      "description": "arXiv:2611.09107v1 Announce Type: new \nAbstract: Vietnamese punctuation restoration is often evaluated on relatively small benchmarks, limiting conclusions about how architectural choices scale with data volume. We present a controlled benchmark on News and Novels corpora containing 22.1 million lab",
+      "published": "Mon, 09 Nov 2026 00:00:00 -0500",
+      "score": 40,
+      "category": "research",
+      "weight": 8,
+      "format": "article",
+      "sentiment": "neutral",
+      "thumbnail": null,
+      "favicon": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=64",
+      "cluster_id": "fad224ee-ea31-55b9-8e67-2079970aba1b",
+      "cluster_size": 1,
+      "cluster_topics": [
+        "vietnamese",
+        "punctuation",
+        "restoration",
+        "benchmark",
+        "phopunct"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "PhoPunct: A Large-Scale Benchmark of Transformer Architectures for Vietnamese Punctuation Restoration",
+        "url": "https://arxiv.org/abs/2611.09107",
+        "description": "arXiv:2611.09107v1 Announce Type: new \nAbstract: Vietnamese punctuation restoration is often evaluated on relatively small benchmarks, limiting conclusions about how architectural choices scale with data volume. We present a controlled benchmark on News and Novels corpora containing 22.1 million lab",
+        "keywords": "AI, tech, news",
+        "datePublished": "Mon, 09 Nov 2026 00:00:00 -0500",
+        "dateModified": "Mon, 09 Nov 2026 00:00:00 -0500",
+        "author": {
+          "@type": "Organization",
+          "name": "ArXiv cs.CL (Computation and Language / NLP)",
+          "url": "https://arxiv.org"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "research",
+        "inLanguage": "en-US",
+        "wordCount": 39,
+        "articleBody": "arXiv:2611.09107v1 Announce Type: new \nAbstract: Vietnamese punctuation restoration is often evaluated on relatively small benchmarks, limiting conclusions about how architectural choices scale with data volume. We present a controlled benchmark on News and Novels corpora containing 22.1 million lab"
+      }
+    },
+    {
+      "source_id": "hn_ai_24h",
+      "source_name": "HN top AI 24h",
+      "title": "Drones built to look like birds evaded detection at Air Force tech exercise",
+      "url": "https://taskandpurpose.com/news/drone-mimicking-bird-test/",
+      "description": "",
+      "published": "2026-11-08T15:00:42+00:00",
+      "score": 37,
+      "category": "trending",
+      "weight": 8,
+      "points": 54,
+      "comments_url": "https://news.ycombinator.com/item?id=50413885",
+      "sentiment": "neutral",
+      "thumbnail": "https://taskandpurpose.com/wp-content/uploads/2026/11/9960819-copy.jpg?w=1200",
+      "cluster_id": "d6b6c1f8-f80d-54d9-a880-1be4b9bc3b30",
+      "cluster_size": 1,
+      "cluster_topics": [
+        "drones",
+        "built",
+        "look",
+        "birds",
+        "evaded"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "Drones built to look like birds evaded detection at Air Force tech exercise",
+        "url": "https://taskandpurpose.com/news/drone-mimicking-bird-test/",
+        "description": "",
+        "keywords": "AI, tech, news",
+        "datePublished": "2026-11-08T15:00:42+00:00",
+        "dateModified": "2026-11-08T15:00:42+00:00",
+        "author": {
+          "@type": "Organization",
+          "name": "HN top AI 24h",
+          "url": "https://taskandpurpose.com"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "trending",
+        "inLanguage": "en-US",
+        "wordCount": 0,
+        "articleBody": ""
+      }
+    },
+    {
+      "source_id": "hn_show_ai_7d",
+      "source_name": "Show HN AI 7d",
+      "title": "Show HN: Is your product AI slop?",
+      "url": "https://slopcalculator.com/",
+      "description": "",
+      "published": "2026-11-08T18:32:31+00:00",
+      "score": 29,
+      "category": "open_source",
+      "weight": 9,
+      "points": 4,
+      "comments_url": "https://news.ycombinator.com/item?id=50415740",
+      "sentiment": "neutral",
+      "thumbnail": "https://slopcalculator.com/og.png",
+      "cluster_id": "0f8f1222-0ac2-5e0e-9742-948009f764cf",
+      "cluster_size": 1,
+      "cluster_topics": [
+        "product",
+        "slop",
+        "show"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "Show HN: Is your product AI slop?",
+        "url": "https://slopcalculator.com/",
+        "description": "",
+        "keywords": "AI, tech, news",
+        "datePublished": "2026-11-08T18:32:31+00:00",
+        "dateModified": "2026-11-08T18:32:31+00:00",
+        "author": {
+          "@type": "Organization",
+          "name": "Show HN AI 7d",
+          "url": "https://slopcalculator.com"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "open_source",
+        "inLanguage": "en-US",
+        "wordCount": 0,
+        "articleBody": ""
+      }
+    },
+    {
+      "source_id": "hn_show_ai_7d",
+      "source_name": "Show HN AI 7d",
+      "title": "Show HN: Aircheck shows every post your agents queued today on one screen",
+      "url": "https://aircheck.dev",
+      "description": "",
+      "published": "2026-11-08T15:04:09+00:00",
+      "score": 29,
+      "category": "open_source",
+      "weight": 9,
+      "points": 4,
+      "comments_url": "https://news.ycombinator.com/item?id=50413906",
+      "sentiment": "neutral",
+      "thumbnail": "https://aircheck.dev/og-20261108.png",
+      "cluster_id": "03502fea-f109-5ead-914a-2fe4cc2a4608",
+      "cluster_size": 1,
+      "cluster_topics": [
+        "aircheck",
+        "shows",
+        "queued",
+        "today",
+        "screen"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "Show HN: Aircheck shows every post your agents queued today on one screen",
+        "url": "https://aircheck.dev",
+        "description": "",
+        "keywords": "AI, tech, news",
+        "datePublished": "2026-11-08T15:04:09+00:00",
+        "dateModified": "2026-11-08T15:04:09+00:00",
+        "author": {
+          "@type": "Organization",
+          "name": "Show HN AI 7d",
+          "url": "https://aircheck.dev"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "open_source",
+        "inLanguage": "en-US",
+        "wordCount": 0,
+        "articleBody": ""
+      }
+    },
+    {
+      "source_id": "marktechpost",
+      "source_name": "MarkTechPost",
+      "title": "Google AI Releases Elephant-Goldfish Model Plugin for Spec-First Coding",
+      "url": "https://www.marktechpost.com/2026/11/08/google-elephant-goldfish-model-plugin-spec-review-coding-agents/",
+      "description": "<p>Google's Elephant-Goldfish Model plugin makes coding agents draft specs, then runs 5 zero-context review stages before any code.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/11/08/google-elephant-goldfish-model-plugin-spec-review-coding-agents/\">Google AI Releases Elephant-Goldfish",
+      "published": "Sun, 08 Nov 2026 10:46:18 +0000",
+      "score": 24,
+      "category": "industry",
+      "weight": 6,
+      "format": "article",
+      "sentiment": "neutral",
+      "thumbnail": "https://www.marktechpost.com/wp-content/uploads/2026/11/WP-BLOG-BANNER-10001-18-scaled.png",
+      "cluster_id": "efb642f8-defc-5e98-be9b-1c2455fe6f3a",
+      "cluster_size": 1,
+      "cluster_topics": [
+        "google",
+        "elephant-goldfish",
+        "releases",
+        "plugin",
+        "coding"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "Google AI Releases Elephant-Goldfish Model Plugin for Spec-First Coding",
+        "url": "https://www.marktechpost.com/2026/11/08/google-elephant-goldfish-model-plugin-spec-review-coding-agents/",
+        "description": "<p>Google's Elephant-Goldfish Model plugin makes coding agents draft specs, then runs 5 zero-context review stages before any code.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/11/08/google-elephant-goldfish-model-plugin-spec-review-coding-agents/\">Google AI Releases Elephant-Goldfish",
+        "keywords": "AI, tech, news",
+        "datePublished": "Sun, 08 Nov 2026 10:46:18 +0000",
+        "dateModified": "Sun, 08 Nov 2026 10:46:18 +0000",
+        "author": {
+          "@type": "Organization",
+          "name": "MarkTechPost",
+          "url": "https://www.marktechpost.com"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "industry",
+        "inLanguage": "en-US",
+        "wordCount": 25,
+        "articleBody": "<p>Google's Elephant-Goldfish Model plugin makes coding agents draft specs, then runs 5 zero-context review stages before any code.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/11/08/google-elephant-goldfish-model-plugin-spec-review-coding-agents/\">Google AI Releases Elephant-Goldfish"
+      }
+    }
+  ],
+  "enriched": true,
+  "enriched_at": "2026-11-09T09:05:28.791574+00:00",
+  "enricher_model": "qwen2.5-7b",
+  "clustered": true,
+  "clustered_at": "2026-11-09T09:05:28.889793+00:00",
+  "cluster_threshold": 0.3,
+  "geo_metadata": {
+    "date": "2026-11-09",
+    "generated_at": "2026-11-09T09:12:54.362362+00:00",
+    "schemas_generated": 30,
+    "topics": [],
+    "faq_items": []
+  },
+  "geo_enriched": true,
+  "geo_enriched_at": "2026-11-09T09:12:54.362362+00:00"
+}
