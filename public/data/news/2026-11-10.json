@@ -1,0 +1,1458 @@
+{
+  "date": "2026-11-10",
+  "last_updated": "2026-11-10T06:00:01.385541+00:00",
+  "total_items": 30,
+  "items": [
+    {
+      "source_id": "openai_blog",
+      "source_name": "OpenAI Blog",
+      "title": "ChatGPT Enterprise now available in AWS Marketplace",
+      "url": "https://openai.com/index/chatgpt-enterprise-aws-marketplace",
+      "description": "ChatGPT Enterprise is now available through AWS Marketplace, helping organizations simplify procurement through existing AWS purchasing and billing relationships.",
+      "published": "Mon, 09 Nov 2026 19:00:00 GMT",
+      "score": 75,
+      "category": "ai_labs",
+      "weight": 10,
+      "format": "article",
+      "sentiment": "neutral",
+      "thumbnail": null,
+      "favicon": "https://www.google.com/s2/favicons?domain=openai.com&sz=64",
+      "cluster_id": "0494ef44-0c7d-5b01-8a33-ff807dbd7425",
+      "cluster_size": 1,
+      "cluster_topics": [
+        "aws",
+        "chatgpt",
+        "enterprise",
+        "available",
+        "marketplace"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "ChatGPT Enterprise now available in AWS Marketplace",
+        "url": "https://openai.com/index/chatgpt-enterprise-aws-marketplace",
+        "description": "ChatGPT Enterprise is now available through AWS Marketplace, helping organizations simplify procurement through existing AWS purchasing and billing relationships.",
+        "keywords": "AI, tech, news",
+        "datePublished": "Mon, 09 Nov 2026 19:00:00 GMT",
+        "dateModified": "Mon, 09 Nov 2026 19:00:00 GMT",
+        "author": {
+          "@type": "Organization",
+          "name": "OpenAI Blog",
+          "url": "https://openai.com"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "ai_labs",
+        "inLanguage": "en-US",
+        "wordCount": 19,
+        "articleBody": "ChatGPT Enterprise is now available through AWS Marketplace, helping organizations simplify procurement through existing AWS purchasing and billing relationships."
+      }
+    },
+    {
+      "source_id": "openai_blog",
+      "source_name": "OpenAI Blog",
+      "title": "Control Room: A central system to track and stop model workloads across our research infrastructure",
+      "url": "https://openai.com/index/control-room",
+      "description": "Learn how OpenAI’s Control Room tracks model workloads across our research infrastructure and can rapidly stop them when safety or security concerns arise.",
+      "published": "Mon, 09 Nov 2026 13:00:00 GMT",
+      "score": 75,
+      "category": "ai_labs",
+      "weight": 10,
+      "format": "article",
+      "sentiment": "neutral",
+      "thumbnail": "https://images.ctfassets.net/kftzwdyauwt9/7CRGR1hiay1UfPVqjUSdAk/da9d8e1e61347fdae6d40e0a72962731/introducing-control-room-social.png?w=1600&h=900&fit=fill",
+      "cluster_id": "64da2d0a-9273-5fca-87b0-5954b04e9dec",
+      "cluster_size": 1,
+      "cluster_topics": [
+        "control",
+        "room",
+        "stop",
+        "workloads",
+        "research"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "Control Room: A central system to track and stop model workloads across our research infrastructure",
+        "url": "https://openai.com/index/control-room",
+        "description": "Learn how OpenAI’s Control Room tracks model workloads across our research infrastructure and can rapidly stop them when safety or security concerns arise.",
+        "keywords": "AI, tech, news",
+        "datePublished": "Mon, 09 Nov 2026 13:00:00 GMT",
+        "dateModified": "Mon, 09 Nov 2026 13:00:00 GMT",
+        "author": {
+          "@type": "Organization",
+          "name": "OpenAI Blog",
+          "url": "https://openai.com"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "ai_labs",
+        "inLanguage": "en-US",
+        "wordCount": 23,
+        "articleBody": "Learn how OpenAI’s Control Room tracks model workloads across our research infrastructure and can rapidly stop them when safety or security concerns arise."
+      }
+    },
+    {
+      "source_id": "openai_blog",
+      "source_name": "OpenAI Blog",
+      "title": "CodeRabbit scales agentic software development and ships 20x more",
+      "url": "https://openai.com/index/coderabbit-codex-daybreak",
+      "description": "CodeRabbit uses OpenAI models to govern and trust AI-generated code and Codex to ship 20 times more software with the same engineering team.",
+      "published": "Mon, 09 Nov 2026 08:00:00 GMT",
+      "score": 75,
+      "category": "ai_labs",
+      "weight": 10,
+      "format": "article",
+      "sentiment": "neutral",
+      "thumbnail": null,
+      "favicon": "https://www.google.com/s2/favicons?domain=openai.com&sz=64",
+      "cluster_id": "55d711b2-e016-5657-abe1-735fa3af90f4",
+      "cluster_size": 1,
+      "cluster_topics": [
+        "coderabbit",
+        "software",
+        "more",
+        "scales",
+        "development"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "CodeRabbit scales agentic software development and ships 20x more",
+        "url": "https://openai.com/index/coderabbit-codex-daybreak",
+        "description": "CodeRabbit uses OpenAI models to govern and trust AI-generated code and Codex to ship 20 times more software with the same engineering team.",
+        "keywords": "AI, tech, news",
+        "datePublished": "Mon, 09 Nov 2026 08:00:00 GMT",
+        "dateModified": "Mon, 09 Nov 2026 08:00:00 GMT",
+        "author": {
+          "@type": "Organization",
+          "name": "OpenAI Blog",
+          "url": "https://openai.com"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "ai_labs",
+        "inLanguage": "en-US",
+        "wordCount": 23,
+        "articleBody": "CodeRabbit uses OpenAI models to govern and trust AI-generated code and Codex to ship 20 times more software with the same engineering team."
+      }
+    },
+    {
+      "source_id": "openai_blog",
+      "source_name": "OpenAI Blog",
+      "title": "Kuken Industries searches 70 years of drawings in minutes",
+      "url": "https://openai.com/index/kuken",
+      "description": "Kuken Industries uses the OpenAI API to search 70 years of cooling tower drawings. Engineers can find the drawing for a repair in 4.5 minutes, down from nearly an hour.",
+      "published": "Mon, 09 Nov 2026 08:00:00 GMT",
+      "score": 75,
+      "category": "ai_labs",
+      "weight": 10,
+      "format": "article",
+      "sentiment": "neutral",
+      "thumbnail": null,
+      "favicon": "https://www.google.com/s2/favicons?domain=openai.com&sz=64",
+      "cluster_id": "3fa9983d-f100-5229-84b6-1603530317e1",
+      "cluster_size": 1,
+      "cluster_topics": [
+        "kuken",
+        "industries",
+        "years",
+        "drawings",
+        "minutes"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "Kuken Industries searches 70 years of drawings in minutes",
+        "url": "https://openai.com/index/kuken",
+        "description": "Kuken Industries uses the OpenAI API to search 70 years of cooling tower drawings. Engineers can find the drawing for a repair in 4.5 minutes, down from nearly an hour.",
+        "keywords": "AI, tech, news",
+        "datePublished": "Mon, 09 Nov 2026 08:00:00 GMT",
+        "dateModified": "Mon, 09 Nov 2026 08:00:00 GMT",
+        "author": {
+          "@type": "Organization",
+          "name": "OpenAI Blog",
+          "url": "https://openai.com"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "ai_labs",
+        "inLanguage": "en-US",
+        "wordCount": 30,
+        "articleBody": "Kuken Industries uses the OpenAI API to search 70 years of cooling tower drawings. Engineers can find the drawing for a repair in 4.5 minutes, down from nearly an hour."
+      }
+    },
+    {
+      "source_id": "google_ai_blog",
+      "source_name": "Google AI Blog",
+      "title": "Get ready for the game with new football features in Search",
+      "url": "https://blog.google/products-and-platforms/products/search/football-features-google-search/",
+      "description": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Football_on_Search_blog_header.max-600x600.format-webp.webp\">Track live game feeds, explore detailed stats, and get custom fantasy recommendations directly in Search this season.",
+      "published": "Wed, 09 Sep 2026 16:00:00 +0000",
+      "score": 67,
+      "category": "ai_labs",
+      "weight": 9,
+      "format": "article",
+      "sentiment": "neutral",
+      "thumbnail": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Football_on_Search_blog_header.width-1300.png",
+      "cluster_id": "43059d58-830a-5b8a-826d-22c2e4995338",
+      "cluster_size": 1,
+      "cluster_topics": [
+        "game",
+        "search",
+        "football",
+        "img",
+        "src"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "Get ready for the game with new football features in Search",
+        "url": "https://blog.google/products-and-platforms/products/search/football-features-google-search/",
+        "description": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Football_on_Search_blog_header.max-600x600.format-webp.webp\">Track live game feeds, explore detailed stats, and get custom fantasy recommendations directly in Search this season.",
+        "keywords": "AI, tech, news",
+        "datePublished": "Wed, 09 Sep 2026 16:00:00 +0000",
+        "dateModified": "Wed, 09 Sep 2026 16:00:00 +0000",
+        "author": {
+          "@type": "Organization",
+          "name": "Google AI Blog",
+          "url": "https://blog.google"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "ai_labs",
+        "inLanguage": "en-US",
+        "wordCount": 18,
+        "articleBody": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Football_on_Search_blog_header.max-600x600.format-webp.webp\">Track live game feeds, explore detailed stats, and get custom fantasy recommendations directly in Search this season."
+      }
+    },
+    {
+      "source_id": "trending_ai",
+      "source_name": "GitHub Trending — AI",
+      "title": "invoke-ai/InvokeAI — Invoke is a leading creative engine that uses image and video generation models to empower professionals, artists, and e",
+      "url": "https://github.com/invoke-ai/InvokeAI",
+      "description": "Invoke is a leading creative engine that uses image and video generation models to empower professionals, artists, and enthusiasts to generate and create visual media using the latest AI-driven technologies. The solution offers an industry-leading application interface, and serves as the foundation",
+      "published": "2026-11-10T04:52:06Z",
+      "score": 62,
+      "category": "open_source",
+      "weight": 9,
+      "stars": 29052,
+      "language": "TypeScript",
+      "sentiment": "neutral",
+      "thumbnail": null,
+      "favicon": "https://www.google.com/s2/favicons?domain=github.com&sz=64",
+      "cluster_id": "493ac1de-6d82-516a-beba-a11ecc302e5e",
+      "cluster_size": 1,
+      "cluster_topics": [
+        "invoke",
+        "leading",
+        "creative",
+        "engine",
+        "image"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "invoke-ai/InvokeAI — Invoke is a leading creative engine that uses image and video generation models to empower professionals, artists, and e",
+        "url": "https://github.com/invoke-ai/InvokeAI",
+        "description": "Invoke is a leading creative engine that uses image and video generation models to empower professionals, artists, and enthusiasts to generate and create visual media using the latest AI-driven technologies. The solution offers an industry-leading application interface, and serves as the foundation",
+        "keywords": "AI, tech, news",
+        "datePublished": "2026-11-10T04:52:06Z",
+        "dateModified": "2026-11-10T04:52:06Z",
+        "author": {
+          "@type": "Organization",
+          "name": "GitHub Trending — AI",
+          "url": "https://github.com"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "open_source",
+        "inLanguage": "en-US",
+        "wordCount": 42,
+        "articleBody": "Invoke is a leading creative engine that uses image and video generation models to empower professionals, artists, and enthusiasts to generate and create visual media using the latest AI-driven technologies. The solution offers an industry-leading application interface, and serves as the foundation"
+      }
+    },
+    {
+      "source_id": "nousresearch_releases",
+      "source_name": "NousResearch releases",
+      "title": "NousResearch releases: Hermes Agent v0.23.1",
+      "url": "https://github.com/NousResearch/hermes-agent/releases/tag/v0.23.1",
+      "description": "# Hermes Agent v0.23.1\n\n**Release Date:** November 9, 2026\n\n> Patch release. This tag rolls up the ~618 PRs merged since v0.23.0 into a stable release for the GitHub release (CLI and installers), the Microsoft Store app, Docker and Hermes Cloud. Full curated notes for this window ship with v0.24.0.",
+      "published": "2026-11-10T01:42:15Z",
+      "score": 60,
+      "category": "releases",
+      "weight": 10,
+      "tag": "v0.23.1",
+      "sentiment": "neutral",
+      "thumbnail": null,
+      "favicon": "https://www.google.com/s2/favicons?domain=github.com&sz=64",
+      "cluster_id": "c91dde62-3697-567c-8cce-669b77eefe93",
+      "cluster_size": 1,
+      "cluster_topics": [
+        "release",
+        "hermes",
+        "agent",
+        "nousresearch",
+        "date"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "NousResearch releases: Hermes Agent v0.23.1",
+        "url": "https://github.com/NousResearch/hermes-agent/releases/tag/v0.23.1",
+        "description": "# Hermes Agent v0.23.1\n\n**Release Date:** November 9, 2026\n\n> Patch release. This tag rolls up the ~618 PRs merged since v0.23.0 into a stable release for the GitHub release (CLI and installers), the Microsoft Store app, Docker and Hermes Cloud. Full curated notes for this window ship with v0.24.0.",
+        "keywords": "AI, tech, news",
+        "datePublished": "2026-11-10T01:42:15Z",
+        "dateModified": "2026-11-10T01:42:15Z",
+        "author": {
+          "@type": "Organization",
+          "name": "NousResearch releases",
+          "url": "https://github.com"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "releases",
+        "inLanguage": "en-US",
+        "wordCount": 50,
+        "articleBody": "# Hermes Agent v0.23.1\n\n**Release Date:** November 9, 2026\n\n> Patch release. This tag rolls up the ~618 PRs merged since v0.23.0 into a stable release for the GitHub release (CLI and installers), the Microsoft Store app, Docker and Hermes Cloud. Full curated notes for this window ship with v0.24.0."
+      }
+    },
+    {
+      "source_id": "hn_ai_24h",
+      "source_name": "HN top AI 24h",
+      "title": "Foldable Flight: The Best Paper Airplanes",
+      "url": "https://www.foldableflight.com",
+      "description": "",
+      "published": "2026-11-09T12:19:22+00:00",
+      "score": 59,
+      "category": "trending",
+      "weight": 8,
+      "points": 930,
+      "comments_url": "https://news.ycombinator.com/item?id=50424581",
+      "sentiment": "neutral",
+      "thumbnail": null,
+      "favicon": "https://www.google.com/s2/favicons?domain=www.foldableflight.com&sz=64",
+      "cluster_id": "5c02b946-4715-5ac5-91c5-3a7b24d3b510",
+      "cluster_size": 1,
+      "cluster_topics": [
+        "foldable",
+        "flight",
+        "best",
+        "paper",
+        "airplanes"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "Foldable Flight: The Best Paper Airplanes",
+        "url": "https://www.foldableflight.com",
+        "description": "",
+        "keywords": "AI, tech, news",
+        "datePublished": "2026-11-09T12:19:22+00:00",
+        "dateModified": "2026-11-09T12:19:22+00:00",
+        "author": {
+          "@type": "Organization",
+          "name": "HN top AI 24h",
+          "url": "https://www.foldableflight.com"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "trending",
+        "inLanguage": "en-US",
+        "wordCount": 0,
+        "articleBody": ""
+      }
+    },
+    {
+      "source_id": "hn_ai_24h",
+      "source_name": "HN top AI 24h",
+      "title": "Claude Fable 5.2 scores 65 on Artificial Analysis, highest so far",
+      "url": "https://artificialanalysis.ai/models/claude-fable-5-2",
+      "description": "",
+      "published": "2026-11-09T20:04:55+00:00",
+      "score": 59,
+      "category": "trending",
+      "weight": 8,
+      "points": 324,
+      "comments_url": "https://news.ycombinator.com/item?id=50431144",
+      "sentiment": "neutral",
+      "thumbnail": "https://artificialanalysis.ai/en/models/claude-fable-5-2/opengraph-image?65781a17af1a7936",
+      "cluster_id": "845db8fc-8aee-5528-84bb-0f6123cdce07",
+      "cluster_size": 1,
+      "cluster_topics": [
+        "claude",
+        "fable",
+        "scores",
+        "analysis",
+        "highest"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "Claude Fable 5.2 scores 65 on Artificial Analysis, highest so far",
+        "url": "https://artificialanalysis.ai/models/claude-fable-5-2",
+        "description": "",
+        "keywords": "AI, tech, news",
+        "datePublished": "2026-11-09T20:04:55+00:00",
+        "dateModified": "2026-11-09T20:04:55+00:00",
+        "author": {
+          "@type": "Organization",
+          "name": "HN top AI 24h",
+          "url": "https://artificialanalysis.ai"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "trending",
+        "inLanguage": "en-US",
+        "wordCount": 0,
+        "articleBody": ""
+      }
+    },
+    {
+      "source_id": "ollama_releases",
+      "source_name": "Ollama releases",
+      "title": "Ollama releases: v0.40.16",
+      "url": "https://github.com/ollama/ollama/releases/tag/v0.40.16",
+      "description": "## Ripple Preview\r\n\r\n[Ripple Preview](https://ollama.com/library/ripple-preview) from Ricursive Intelligence is a 65B dense model built for agentic coding.\r\n\r\n```sh\r\nollama run ripple-preview\r\n```\r\n\r\n## What's Changed\r\n\r\n- Qwen3.8 Flash Next uses about 27 GiB less memory on Apple silicon\r\n- `ollama",
+      "published": "2026-11-09T18:21:19Z",
+      "score": 54,
+      "category": "releases",
+      "weight": 9,
+      "tag": "v0.40.16",
+      "sentiment": "neutral",
+      "thumbnail": null,
+      "favicon": "https://www.google.com/s2/favicons?domain=github.com&sz=64",
+      "cluster_id": "d4711ad4-43b6-520e-80df-64a81f1369e9",
+      "cluster_size": 1,
+      "cluster_topics": [
+        "ollama",
+        "ripple",
+        "preview",
+        "ripple-preview",
+        "library"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "Ollama releases: v0.40.16",
+        "url": "https://github.com/ollama/ollama/releases/tag/v0.40.16",
+        "description": "## Ripple Preview\r\n\r\n[Ripple Preview](https://ollama.com/library/ripple-preview) from Ricursive Intelligence is a 65B dense model built for agentic coding.\r\n\r\n```sh\r\nollama run ripple-preview\r\n```\r\n\r\n## What's Changed\r\n\r\n- Qwen3.8 Flash Next uses about 27 GiB less memory on Apple silicon\r\n- `ollama",
+        "keywords": "AI, tech, news",
+        "datePublished": "2026-11-09T18:21:19Z",
+        "dateModified": "2026-11-09T18:21:19Z",
+        "author": {
+          "@type": "Organization",
+          "name": "Ollama releases",
+          "url": "https://github.com"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "releases",
+        "inLanguage": "en-US",
+        "wordCount": 40,
+        "articleBody": "## Ripple Preview\r\n\r\n[Ripple Preview](https://ollama.com/library/ripple-preview) from Ricursive Intelligence is a 65B dense model built for agentic coding.\r\n\r\n```sh\r\nollama run ripple-preview\r\n```\r\n\r\n## What's Changed\r\n\r\n- Qwen3.8 Flash Next uses about 27 GiB less memory on Apple silicon\r\n- `ollama"
+      }
+    },
+    {
+      "source_id": "mistral_blog",
+      "source_name": "Mistral AI",
+      "title": "Modernizing complex legacy code with AI agents.",
+      "url": "https://mistral.ai/news/legacy-code-modernization/",
+      "description": "Mistral helped a European energy operator migrate 40,000 lines of Fortran 77 to C++.  Learn how it was done, and the lessons to carry forward.",
+      "published": "Wed, 09 Sep 2026 12:00:46 GMT",
+      "score": 52,
+      "category": "ai_labs",
+      "weight": 7,
+      "format": "article",
+      "sentiment": "neutral",
+      "thumbnail": "https://mistral.ai/cms-media/api/media/file/cover-mistral-sovereign%20copie.webp",
+      "cluster_id": "1f5b05c0-c0b5-56b8-94b9-27afba1da756",
+      "cluster_size": 1,
+      "cluster_topics": [
+        "modernizing",
+        "complex",
+        "legacy",
+        "agents",
+        "mistral"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "Modernizing complex legacy code with AI agents.",
+        "url": "https://mistral.ai/news/legacy-code-modernization/",
+        "description": "Mistral helped a European energy operator migrate 40,000 lines of Fortran 77 to C++.  Learn how it was done, and the lessons to carry forward.",
+        "keywords": "AI, tech, news",
+        "datePublished": "Wed, 09 Sep 2026 12:00:46 GMT",
+        "dateModified": "Wed, 09 Sep 2026 12:00:46 GMT",
+        "author": {
+          "@type": "Organization",
+          "name": "Mistral AI",
+          "url": "https://mistral.ai"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "ai_labs",
+        "inLanguage": "en-US",
+        "wordCount": 25,
+        "articleBody": "Mistral helped a European energy operator migrate 40,000 lines of Fortran 77 to C++.  Learn how it was done, and the lessons to carry forward."
+      }
+    },
+    {
+      "source_id": "hn_ai_24h",
+      "source_name": "HN top AI 24h",
+      "title": "A year after the 100% AI mandate nobody understands our code",
+      "url": "https://www.reddit.com/r/ClaudeCode/comments/1xq2n3t/a_year_after_the_100_ai_mandate_nobody/",
+      "description": "",
+      "published": "2026-11-09T22:19:12+00:00",
+      "score": 51,
+      "category": "trending",
+      "weight": 8,
+      "points": 119,
+      "comments_url": "https://news.ycombinator.com/item?id=50433079",
+      "sentiment": "neutral",
+      "thumbnail": null,
+      "favicon": "https://www.google.com/s2/favicons?domain=www.reddit.com&sz=64",
+      "cluster_id": "4dfcf8f1-9109-5cda-b2eb-33c02cb31a1c",
+      "cluster_size": 1,
+      "cluster_topics": [
+        "mandate",
+        "nobody",
+        "understands",
+        "year",
+        "code"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "A year after the 100% AI mandate nobody understands our code",
+        "url": "https://www.reddit.com/r/ClaudeCode/comments/1xq2n3t/a_year_after_the_100_ai_mandate_nobody/",
+        "description": "",
+        "keywords": "AI, tech, news",
+        "datePublished": "2026-11-09T22:19:12+00:00",
+        "dateModified": "2026-11-09T22:19:12+00:00",
+        "author": {
+          "@type": "Organization",
+          "name": "HN top AI 24h",
+          "url": "https://www.reddit.com"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "trending",
+        "inLanguage": "en-US",
+        "wordCount": 0,
+        "articleBody": ""
+      }
+    },
+    {
+      "source_id": "latent_space",
+      "source_name": "Latent Space (Substack)",
+      "title": "What Frontier Labs Buy: A Data Deep Dive with Handshake AI — Garrett Lord & Team",
+      "url": "https://latent.space/p/handshake/",
+      "description": "Handshake went from launch to $1B in one year pushing the envelope of specialized data for frontier labs. Our first deep dive into a data lab with specific examples across Finance, Bio, and Alignment",
+      "published": "Mon, 09 Nov 2026 17:15:53 GMT",
+      "score": 48,
+      "category": "newsletters",
+      "weight": 8,
+      "format": "article",
+      "sentiment": "neutral",
+      "thumbnail": "https://i.ytimg.com/vi/v5IJwVnTxzg/maxresdefault.jpg",
+      "cluster_id": "da75c291-9d9c-5d66-baeb-52560fd49679",
+      "cluster_size": 1,
+      "cluster_topics": [
+        "data",
+        "frontier",
+        "deep",
+        "dive",
+        "handshake"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "What Frontier Labs Buy: A Data Deep Dive with Handshake AI — Garrett Lord & Team",
+        "url": "https://latent.space/p/handshake/",
+        "description": "Handshake went from launch to $1B in one year pushing the envelope of specialized data for frontier labs. Our first deep dive into a data lab with specific examples across Finance, Bio, and Alignment",
+        "keywords": "AI, tech, news",
+        "datePublished": "Mon, 09 Nov 2026 17:15:53 GMT",
+        "dateModified": "Mon, 09 Nov 2026 17:15:53 GMT",
+        "author": {
+          "@type": "Organization",
+          "name": "Latent Space (Substack)",
+          "url": "https://latent.space"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "newsletters",
+        "inLanguage": "en-US",
+        "wordCount": 34,
+        "articleBody": "Handshake went from launch to $1B in one year pushing the envelope of specialized data for frontier labs. Our first deep dive into a data lab with specific examples across Finance, Bio, and Alignment"
+      }
+    },
+    {
+      "source_id": "import_ai",
+      "source_name": "Import AI (Jack Clark)",
+      "title": "Import AI 480: Self-sustaining space economies; AI for science progress, and Meta builds perfect hands for a superintelligence",
+      "url": "https://importai.substack.com/p/import-ai-480-self-sustaining-space",
+      "description": "When do you think we'll have robots on the moon?",
+      "published": "Mon, 09 Nov 2026 13:31:34 GMT",
+      "score": 48,
+      "category": "newsletters",
+      "weight": 8,
+      "format": "article",
+      "sentiment": "neutral",
+      "thumbnail": "https://substackcdn.com/image/fetch/$s_!3yYS!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd6d17996-2bef-40a4-abe3-be72a0e8a227_258x258.png",
+      "cluster_id": "a2ed73f8-a2ed-5242-95c3-89279b27553b",
+      "cluster_size": 1,
+      "cluster_topics": [
+        "import",
+        "self-sustaining",
+        "space",
+        "economies",
+        "science"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "Import AI 480: Self-sustaining space economies; AI for science progress, and Meta builds perfect hands for a superintelligence",
+        "url": "https://importai.substack.com/p/import-ai-480-self-sustaining-space",
+        "description": "When do you think we'll have robots on the moon?",
+        "keywords": "AI, tech, news",
+        "datePublished": "Mon, 09 Nov 2026 13:31:34 GMT",
+        "dateModified": "Mon, 09 Nov 2026 13:31:34 GMT",
+        "author": {
+          "@type": "Organization",
+          "name": "Import AI (Jack Clark)",
+          "url": "https://importai.substack.com"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "newsletters",
+        "inLanguage": "en-US",
+        "wordCount": 10,
+        "articleBody": "When do you think we'll have robots on the moon?"
+      }
+    },
+    {
+      "source_id": "ggml_releases",
+      "source_name": "ggml/llama.cpp releases",
+      "title": "ggml/llama.cpp releases: b12242",
+      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12242",
+      "description": "<details open>\n\nchat : don't use lazy grammar when response_format is set with tools (#31956)\n\n</details>\n\n**Website:**\n- <https://llama.app>\n\n**Attestations:**\n- <https://github.com/ggml-org/llama.cpp/attestations/65619172>\n\n**macOS/iOS:**\n- [macOS Apple Silicon (arm64)](https://github.com/ggml-org",
+      "published": "2026-11-10T02:01:21Z",
+      "score": 48,
+      "category": "releases",
+      "weight": 8,
+      "tag": "b12242",
+      "sentiment": "neutral",
+      "thumbnail": null,
+      "favicon": "https://www.google.com/s2/favicons?domain=github.com&sz=64",
+      "cluster_id": "a03ab499-f732-57aa-a15f-d867a9cdc4ca",
+      "cluster_size": 4,
+      "cluster_topics": [
+        "llama",
+        "https",
+        "cpp",
+        "attestations",
+        "macos"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "ggml/llama.cpp releases: b12242",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12242",
+        "description": "<details open>\n\nchat : don't use lazy grammar when response_format is set with tools (#31956)\n\n</details>\n\n**Website:**\n- <https://llama.app>\n\n**Attestations:**\n- <https://github.com/ggml-org/llama.cpp/attestations/65619172>\n\n**macOS/iOS:**\n- [macOS Apple Silicon (arm64)](https://github.com/ggml-org",
+        "keywords": "AI, tech, news",
+        "datePublished": "2026-11-10T02:01:21Z",
+        "dateModified": "2026-11-10T02:01:21Z",
+        "author": {
+          "@type": "Organization",
+          "name": "ggml/llama.cpp releases",
+          "url": "https://github.com"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "releases",
+        "inLanguage": "en-US",
+        "wordCount": 28,
+        "articleBody": "<details open>\n\nchat : don't use lazy grammar when response_format is set with tools (#31956)\n\n</details>\n\n**Website:**\n- <https://llama.app>\n\n**Attestations:**\n- <https://github.com/ggml-org/llama.cpp/attestations/65619172>\n\n**macOS/iOS:**\n- [macOS Apple Silicon (arm64)](https://github.com/ggml-org"
+      }
+    },
+    {
+      "source_id": "ggml_releases",
+      "source_name": "ggml/llama.cpp releases",
+      "title": "ggml/llama.cpp releases: b12241",
+      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12241",
+      "description": "<details open>\n\nhexagon: fix 64-bit FastRPC handle truncation on close (#30952)\n\n</details>\n\n**Website:**\n- <https://llama.app>\n\n**Attestations:**\n- <https://github.com/ggml-org/llama.cpp/attestations/65614982>\n\n**macOS/iOS:**\n- [macOS Apple Silicon (arm64)](https://github.com/ggml-org/llama.cpp/rel",
+      "published": "2026-11-10T01:44:35Z",
+      "score": 48,
+      "category": "releases",
+      "weight": 8,
+      "tag": "b12241",
+      "sentiment": "neutral",
+      "thumbnail": null,
+      "favicon": "https://www.google.com/s2/favicons?domain=github.com&sz=64",
+      "cluster_id": "a03ab499-f732-57aa-a15f-d867a9cdc4ca",
+      "cluster_size": 4,
+      "cluster_topics": [
+        "llama",
+        "https",
+        "cpp",
+        "attestations",
+        "macos"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "ggml/llama.cpp releases: b12241",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12241",
+        "description": "<details open>\n\nhexagon: fix 64-bit FastRPC handle truncation on close (#30952)\n\n</details>\n\n**Website:**\n- <https://llama.app>\n\n**Attestations:**\n- <https://github.com/ggml-org/llama.cpp/attestations/65614982>\n\n**macOS/iOS:**\n- [macOS Apple Silicon (arm64)](https://github.com/ggml-org/llama.cpp/rel",
+        "keywords": "AI, tech, news",
+        "datePublished": "2026-11-10T01:44:35Z",
+        "dateModified": "2026-11-10T01:44:35Z",
+        "author": {
+          "@type": "Organization",
+          "name": "ggml/llama.cpp releases",
+          "url": "https://github.com"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "releases",
+        "inLanguage": "en-US",
+        "wordCount": 24,
+        "articleBody": "<details open>\n\nhexagon: fix 64-bit FastRPC handle truncation on close (#30952)\n\n</details>\n\n**Website:**\n- <https://llama.app>\n\n**Attestations:**\n- <https://github.com/ggml-org/llama.cpp/attestations/65614982>\n\n**macOS/iOS:**\n- [macOS Apple Silicon (arm64)](https://github.com/ggml-org/llama.cpp/rel"
+      }
+    },
+    {
+      "source_id": "ggml_releases",
+      "source_name": "ggml/llama.cpp releases",
+      "title": "ggml/llama.cpp releases: b12240",
+      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12240",
+      "description": "<details open>\n\nserver: responses api: support conversion of text.format.json_schema to completions (#26145)\n\n</details>\n\n**Website:**\n- <https://llama.app>\n\n**Attestations:**\n- <https://github.com/ggml-org/llama.cpp/attestations/65608759>\n\n**macOS/iOS:**\n- [macOS Apple Silicon (arm64)](https://gith",
+      "published": "2026-11-10T01:20:43Z",
+      "score": 48,
+      "category": "releases",
+      "weight": 8,
+      "tag": "b12240",
+      "sentiment": "neutral",
+      "thumbnail": null,
+      "favicon": "https://www.google.com/s2/favicons?domain=github.com&sz=64",
+      "cluster_id": "a03ab499-f732-57aa-a15f-d867a9cdc4ca",
+      "cluster_size": 4,
+      "cluster_topics": [
+        "llama",
+        "https",
+        "cpp",
+        "attestations",
+        "macos"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "ggml/llama.cpp releases: b12240",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12240",
+        "description": "<details open>\n\nserver: responses api: support conversion of text.format.json_schema to completions (#26145)\n\n</details>\n\n**Website:**\n- <https://llama.app>\n\n**Attestations:**\n- <https://github.com/ggml-org/llama.cpp/attestations/65608759>\n\n**macOS/iOS:**\n- [macOS Apple Silicon (arm64)](https://gith",
+        "keywords": "AI, tech, news",
+        "datePublished": "2026-11-10T01:20:43Z",
+        "dateModified": "2026-11-10T01:20:43Z",
+        "author": {
+          "@type": "Organization",
+          "name": "ggml/llama.cpp releases",
+          "url": "https://github.com"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "releases",
+        "inLanguage": "en-US",
+        "wordCount": 25,
+        "articleBody": "<details open>\n\nserver: responses api: support conversion of text.format.json_schema to completions (#26145)\n\n</details>\n\n**Website:**\n- <https://llama.app>\n\n**Attestations:**\n- <https://github.com/ggml-org/llama.cpp/attestations/65608759>\n\n**macOS/iOS:**\n- [macOS Apple Silicon (arm64)](https://gith"
+      }
+    },
+    {
+      "source_id": "ggml_releases",
+      "source_name": "ggml/llama.cpp releases",
+      "title": "ggml/llama.cpp releases: b12239",
+      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12239",
+      "description": "<details open>\n\nserver : use common_chat_input in realtime api (#31978)\n\n</details>\n\n**Website:**\n- <https://llama.app>\n\n**Attestations:**\n- <https://github.com/ggml-org/llama.cpp/attestations/65600616>\n\n**macOS/iOS:**\n- [macOS Apple Silicon (arm64)](https://github.com/ggml-org/llama.cpp/releases/do",
+      "published": "2026-11-10T00:48:31Z",
+      "score": 48,
+      "category": "releases",
+      "weight": 8,
+      "tag": "b12239",
+      "sentiment": "neutral",
+      "thumbnail": null,
+      "favicon": "https://www.google.com/s2/favicons?domain=github.com&sz=64",
+      "cluster_id": "a03ab499-f732-57aa-a15f-d867a9cdc4ca",
+      "cluster_size": 4,
+      "cluster_topics": [
+        "llama",
+        "https",
+        "cpp",
+        "attestations",
+        "macos"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "ggml/llama.cpp releases: b12239",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12239",
+        "description": "<details open>\n\nserver : use common_chat_input in realtime api (#31978)\n\n</details>\n\n**Website:**\n- <https://llama.app>\n\n**Attestations:**\n- <https://github.com/ggml-org/llama.cpp/attestations/65600616>\n\n**macOS/iOS:**\n- [macOS Apple Silicon (arm64)](https://github.com/ggml-org/llama.cpp/releases/do",
+        "keywords": "AI, tech, news",
+        "datePublished": "2026-11-10T00:48:31Z",
+        "dateModified": "2026-11-10T00:48:31Z",
+        "author": {
+          "@type": "Organization",
+          "name": "ggml/llama.cpp releases",
+          "url": "https://github.com"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "releases",
+        "inLanguage": "en-US",
+        "wordCount": 23,
+        "articleBody": "<details open>\n\nserver : use common_chat_input in realtime api (#31978)\n\n</details>\n\n**Website:**\n- <https://llama.app>\n\n**Attestations:**\n- <https://github.com/ggml-org/llama.cpp/attestations/65600616>\n\n**macOS/iOS:**\n- [macOS Apple Silicon (arm64)](https://github.com/ggml-org/llama.cpp/releases/do"
+      }
+    },
+    {
+      "source_id": "ggml_releases",
+      "source_name": "ggml/llama.cpp releases",
+      "title": "ggml/llama.cpp releases: b12238",
+      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12238",
+      "description": "<details open>\n\nserver: add oai-compat /v1/audio/speech endpoint (#31763)\n\n* server: add oai-compat /v1/audio/speech endpoint\n\n* add e2e pytest\n\n* server: share the s16 rounding, type speech form fields\n\nThe WAV writer of the audio helper truncates while pcm_f32_to_s16\nrounds, so wav and pcm differ",
+      "published": "2026-11-10T00:23:16Z",
+      "score": 48,
+      "category": "releases",
+      "weight": 8,
+      "tag": "b12238",
+      "sentiment": "neutral",
+      "thumbnail": null,
+      "favicon": "https://www.google.com/s2/favicons?domain=github.com&sz=64",
+      "cluster_id": "6875ba77-6daa-5f4b-b4b5-cf575e1b384a",
+      "cluster_size": 1,
+      "cluster_topics": [
+        "add",
+        "audio",
+        "speech",
+        "server",
+        "oai-compat"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "ggml/llama.cpp releases: b12238",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12238",
+        "description": "<details open>\n\nserver: add oai-compat /v1/audio/speech endpoint (#31763)\n\n* server: add oai-compat /v1/audio/speech endpoint\n\n* add e2e pytest\n\n* server: share the s16 rounding, type speech form fields\n\nThe WAV writer of the audio helper truncates while pcm_f32_to_s16\nrounds, so wav and pcm differ",
+        "keywords": "AI, tech, news",
+        "datePublished": "2026-11-10T00:23:16Z",
+        "dateModified": "2026-11-10T00:23:16Z",
+        "author": {
+          "@type": "Organization",
+          "name": "ggml/llama.cpp releases",
+          "url": "https://github.com"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "releases",
+        "inLanguage": "en-US",
+        "wordCount": 44,
+        "articleBody": "<details open>\n\nserver: add oai-compat /v1/audio/speech endpoint (#31763)\n\n* server: add oai-compat /v1/audio/speech endpoint\n\n* add e2e pytest\n\n* server: share the s16 rounding, type speech form fields\n\nThe WAV writer of the audio helper truncates while pcm_f32_to_s16\nrounds, so wav and pcm differ"
+      }
+    },
+    {
+      "source_id": "hn_llm_24h",
+      "source_name": "HN top LLM 24h",
+      "title": "6 Hours of YouTube and 85 handtyped pages of notes on LLM Inference – Start here",
+      "url": "https://github.com/samir-sarwar/samir-vllm",
+      "description": "",
+      "published": "2026-11-09T11:36:55+00:00",
+      "score": 46,
+      "category": "trending",
+      "weight": 9,
+      "points": 77,
+      "comments_url": "https://news.ycombinator.com/item?id=50424199",
+      "sentiment": "neutral",
+      "thumbnail": null,
+      "favicon": "https://www.google.com/s2/favicons?domain=github.com&sz=64",
+      "cluster_id": "92732fac-fc9b-51b7-88cf-795f5b667a97",
+      "cluster_size": 1,
+      "cluster_topics": [
+        "hours",
+        "youtube",
+        "handtyped",
+        "pages",
+        "llm"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "6 Hours of YouTube and 85 handtyped pages of notes on LLM Inference – Start here",
+        "url": "https://github.com/samir-sarwar/samir-vllm",
+        "description": "",
+        "keywords": "AI, tech, news",
+        "datePublished": "2026-11-09T11:36:55+00:00",
+        "dateModified": "2026-11-09T11:36:55+00:00",
+        "author": {
+          "@type": "Organization",
+          "name": "HN top LLM 24h",
+          "url": "https://github.com"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "trending",
+        "inLanguage": "en-US",
+        "wordCount": 0,
+        "articleBody": ""
+      }
+    },
+    {
+      "source_id": "hn_llm_24h",
+      "source_name": "HN top LLM 24h",
+      "title": "CoreWeave bond yield tops 16% as AI credit stress rises",
+      "url": "https://www.cnbc.com/2026/11/06/coreweave-bond-yield-tops-16percent-as-ai-credit-stress-rises.html",
+      "description": "",
+      "published": "2026-11-10T03:20:06+00:00",
+      "score": 46,
+      "category": "trending",
+      "weight": 9,
+      "points": 75,
+      "comments_url": "https://news.ycombinator.com/item?id=50435660",
+      "sentiment": "neutral",
+      "thumbnail": "https://image.cnbcfm.com/api/v1/image/108410034-1792003128025-gettyimages-2245498775-raa-coreweav251110_npfn0.jpeg?v=1792003201&w=1920&h=1080",
+      "cluster_id": "28cb4844-db74-5396-bed6-2d40f6dde7d4",
+      "cluster_size": 1,
+      "cluster_topics": [
+        "coreweave",
+        "bond",
+        "yield",
+        "tops",
+        "credit"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "CoreWeave bond yield tops 16% as AI credit stress rises",
+        "url": "https://www.cnbc.com/2026/11/06/coreweave-bond-yield-tops-16percent-as-ai-credit-stress-rises.html",
+        "description": "",
+        "keywords": "AI, tech, news",
+        "datePublished": "2026-11-10T03:20:06+00:00",
+        "dateModified": "2026-11-10T03:20:06+00:00",
+        "author": {
+          "@type": "Organization",
+          "name": "HN top LLM 24h",
+          "url": "https://www.cnbc.com"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "trending",
+        "inLanguage": "en-US",
+        "wordCount": 0,
+        "articleBody": ""
+      }
+    },
+    {
+      "source_id": "hn_show_ai_7d",
+      "source_name": "Show HN AI 7d",
+      "title": "Show HN: STE80 Humanizer – de-AI text by writing 80% of the way to ASD-STE100",
+      "url": "https://github.com/Dodaios/ste80-humanizer",
+      "description": "",
+      "published": "2026-11-09T18:05:44+00:00",
+      "score": 46,
+      "category": "open_source",
+      "weight": 9,
+      "points": 78,
+      "comments_url": "https://news.ycombinator.com/item?id=50429144",
+      "sentiment": "neutral",
+      "thumbnail": null,
+      "favicon": "https://www.google.com/s2/favicons?domain=github.com&sz=64",
+      "cluster_id": "fb875e83-33a7-50c6-a3e2-e6e3bfe899bc",
+      "cluster_size": 1,
+      "cluster_topics": [
+        "ste80",
+        "humanizer",
+        "de-ai",
+        "writing",
+        "way"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "Show HN: STE80 Humanizer – de-AI text by writing 80% of the way to ASD-STE100",
+        "url": "https://github.com/Dodaios/ste80-humanizer",
+        "description": "",
+        "keywords": "AI, tech, news",
+        "datePublished": "2026-11-09T18:05:44+00:00",
+        "dateModified": "2026-11-09T18:05:44+00:00",
+        "author": {
+          "@type": "Organization",
+          "name": "Show HN AI 7d",
+          "url": "https://github.com"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "open_source",
+        "inLanguage": "en-US",
+        "wordCount": 0,
+        "articleBody": ""
+      }
+    },
+    {
+      "source_id": "vllm_releases",
+      "source_name": "vLLM releases",
+      "title": "vLLM releases: v0.29.0",
+      "url": "https://github.com/vllm-project/vllm/releases/tag/v0.29.0",
+      "description": "# v0.29.0\r\n\r\n## Highlights\r\n\r\nThis release features 594 commits from 277 contributors (91 new)!\r\n\r\n* **Model Runner V2 is now the default for all models** (#53183), completing the rollout that began with pooling models (#48290). MRV2 also gained CUDA graph memory profiling for KV cache auto-sizing (",
+      "published": "2026-09-09T08:54:49Z",
+      "score": 42,
+      "category": "releases",
+      "weight": 7,
+      "tag": "v0.29.0",
+      "sentiment": "neutral",
+      "thumbnail": null,
+      "favicon": "https://www.google.com/s2/favicons?domain=github.com&sz=64",
+      "cluster_id": "3109e69b-3f19-5d5b-88e5-c558aa89deaf",
+      "cluster_size": 1,
+      "cluster_topics": [
+        "models",
+        "vllm",
+        "highlights",
+        "commits",
+        "contributors"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "vLLM releases: v0.29.0",
+        "url": "https://github.com/vllm-project/vllm/releases/tag/v0.29.0",
+        "description": "# v0.29.0\r\n\r\n## Highlights\r\n\r\nThis release features 594 commits from 277 contributors (91 new)!\r\n\r\n* **Model Runner V2 is now the default for all models** (#53183), completing the rollout that began with pooling models (#48290). MRV2 also gained CUDA graph memory profiling for KV cache auto-sizing (",
+        "keywords": "AI, tech, news",
+        "datePublished": "2026-09-09T08:54:49Z",
+        "dateModified": "2026-09-09T08:54:49Z",
+        "author": {
+          "@type": "Organization",
+          "name": "vLLM releases",
+          "url": "https://github.com"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "releases",
+        "inLanguage": "en-US",
+        "wordCount": 47,
+        "articleBody": "# v0.29.0\r\n\r\n## Highlights\r\n\r\nThis release features 594 commits from 277 contributors (91 new)!\r\n\r\n* **Model Runner V2 is now the default for all models** (#53183), completing the rollout that began with pooling models (#48290). MRV2 also gained CUDA graph memory profiling for KV cache auto-sizing ("
+      }
+    },
+    {
+      "source_id": "mit_technology_review_ai",
+      "source_name": "MIT Technology Review AI",
+      "title": "The backlash about data centers might really just be about electricity",
+      "url": "https://www.technologyreview.com/2026/11/09/1148194/the-backlash-about-data-centers-might-really-just-be-about-electricity/",
+      "description": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. As voters went to the polls across the US last week, I was in Ashburn, Virginia, part of what’s known as Data Center Alley—the world’s largest data center hub. It",
+      "published": "Mon, 09 Nov 2026 19:35:33 +0000",
+      "score": 32,
+      "category": "industry",
+      "weight": 8,
+      "format": "article",
+      "sentiment": "neutral",
+      "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2026/11/AP23200525499640.jpg?resize=1200,600",
+      "cluster_id": "8197cc17-b2af-592c-8430-1b1a202116d3",
+      "cluster_size": 1,
+      "cluster_topics": [
+        "data",
+        "center",
+        "backlash",
+        "centers",
+        "really"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "The backlash about data centers might really just be about electricity",
+        "url": "https://www.technologyreview.com/2026/11/09/1148194/the-backlash-about-data-centers-might-really-just-be-about-electricity/",
+        "description": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. As voters went to the polls across the US last week, I was in Ashburn, Virginia, part of what’s known as Data Center Alley—the world’s largest data center hub. It",
+        "keywords": "AI, tech, news",
+        "datePublished": "Mon, 09 Nov 2026 19:35:33 +0000",
+        "dateModified": "Mon, 09 Nov 2026 19:35:33 +0000",
+        "author": {
+          "@type": "Organization",
+          "name": "MIT Technology Review AI",
+          "url": "https://www.technologyreview.com"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "industry",
+        "inLanguage": "en-US",
+        "wordCount": 54,
+        "articleBody": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. As voters went to the polls across the US last week, I was in Ashburn, Virginia, part of what’s known as Data Center Alley—the world’s largest data center hub. It"
+      }
+    },
+    {
+      "source_id": "mit_technology_review_ai",
+      "source_name": "MIT Technology Review AI",
+      "title": "Nancy Pelosi’s replacement is ready to regulate AI",
+      "url": "https://www.technologyreview.com/2026/11/09/1148182/nancy-pelosis-replacement-is-ready-to-regulate-ai/",
+      "description": "As a California state senator, Scott Wiener authored legislation aimed at curbing the risks of advanced AI. Now, after winning a tight congressional race for former Speaker of the House Nancy Pelosi’s open San Francisco seat, he could play a key role in setting federal AI policy.&#160; I spoke with",
+      "published": "Mon, 09 Nov 2026 17:05:43 +0000",
+      "score": 32,
+      "category": "industry",
+      "weight": 8,
+      "format": "article",
+      "sentiment": "neutral",
+      "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2026/11/GettyImages-2303769670.jpg?resize=1200,600",
+      "cluster_id": "998223b5-9de2-558a-90c8-d1b58d67ea11",
+      "cluster_size": 1,
+      "cluster_topics": [
+        "nancy",
+        "pelosi",
+        "replacement",
+        "regulate",
+        "california"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "Nancy Pelosi’s replacement is ready to regulate AI",
+        "url": "https://www.technologyreview.com/2026/11/09/1148182/nancy-pelosis-replacement-is-ready-to-regulate-ai/",
+        "description": "As a California state senator, Scott Wiener authored legislation aimed at curbing the risks of advanced AI. Now, after winning a tight congressional race for former Speaker of the House Nancy Pelosi’s open San Francisco seat, he could play a key role in setting federal AI policy.&#160; I spoke with",
+        "keywords": "AI, tech, news",
+        "datePublished": "Mon, 09 Nov 2026 17:05:43 +0000",
+        "dateModified": "Mon, 09 Nov 2026 17:05:43 +0000",
+        "author": {
+          "@type": "Organization",
+          "name": "MIT Technology Review AI",
+          "url": "https://www.technologyreview.com"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "industry",
+        "inLanguage": "en-US",
+        "wordCount": 50,
+        "articleBody": "As a California state senator, Scott Wiener authored legislation aimed at curbing the risks of advanced AI. Now, after winning a tight congressional race for former Speaker of the House Nancy Pelosi’s open San Francisco seat, he could play a key role in setting federal AI policy.&#160; I spoke with"
+      }
+    },
+    {
+      "source_id": "mit_technology_review_ai",
+      "source_name": "MIT Technology Review AI",
+      "title": "The Download: empty AI climate claims, and an Nvidia investigation",
+      "url": "https://www.technologyreview.com/2026/11/09/1148176/the-download-empty-ai-climate-claims-and-an-nvidia-investigation/",
+      "description": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Opinion: The climate case for AI has not been made  —By Mary Nichols, distinguished counsel at the UCLA School of Law and the former chair of the Cali",
+      "published": "Mon, 09 Nov 2026 13:15:00 +0000",
+      "score": 32,
+      "category": "industry",
+      "weight": 8,
+      "format": "article",
+      "sentiment": "neutral",
+      "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2026/11/hands.jpg?resize=1200,600",
+      "cluster_id": "a7b5346d-20d2-5a67-badd-9ae4bebb5aee",
+      "cluster_size": 1,
+      "cluster_topics": [
+        "download",
+        "climate",
+        "empty",
+        "claims",
+        "nvidia"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "The Download: empty AI climate claims, and an Nvidia investigation",
+        "url": "https://www.technologyreview.com/2026/11/09/1148176/the-download-empty-ai-climate-claims-and-an-nvidia-investigation/",
+        "description": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Opinion: The climate case for AI has not been made  —By Mary Nichols, distinguished counsel at the UCLA School of Law and the former chair of the Cali",
+        "keywords": "AI, tech, news",
+        "datePublished": "Mon, 09 Nov 2026 13:15:00 +0000",
+        "dateModified": "Mon, 09 Nov 2026 13:15:00 +0000",
+        "author": {
+          "@type": "Organization",
+          "name": "MIT Technology Review AI",
+          "url": "https://www.technologyreview.com"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "industry",
+        "inLanguage": "en-US",
+        "wordCount": 52,
+        "articleBody": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Opinion: The climate case for AI has not been made  —By Mary Nichols, distinguished counsel at the UCLA School of Law and the former chair of the Cali"
+      }
+    },
+    {
+      "source_id": "mit_technology_review_ai",
+      "source_name": "MIT Technology Review AI",
+      "title": "Innovating with AI in the special chemicals industry",
+      "url": "https://www.technologyreview.com/2026/11/09/1147654/innovating-with-ai-in-the-special-chemicals-industry/",
+      "description": "As companies look to accelerate innovation with artificial intelligence, cloud computing, and advanced modeling, the primary challenge is connecting new technologies to reliable data, scientific expertise, and the practical realities of bringing products to market. For specialty chemicals manufactur",
+      "published": "Mon, 09 Nov 2026 13:00:00 +0000",
+      "score": 32,
+      "category": "industry",
+      "weight": 8,
+      "format": "article",
+      "sentiment": "neutral",
+      "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2026/11/MITTRInfoysLubrizol-open-card-v3.png?resize=1200,600",
+      "cluster_id": "0e75521e-3479-510e-b201-92bc7b00fa5b",
+      "cluster_size": 1,
+      "cluster_topics": [
+        "chemicals",
+        "innovating",
+        "special",
+        "industry",
+        "companies"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "Innovating with AI in the special chemicals industry",
+        "url": "https://www.technologyreview.com/2026/11/09/1147654/innovating-with-ai-in-the-special-chemicals-industry/",
+        "description": "As companies look to accelerate innovation with artificial intelligence, cloud computing, and advanced modeling, the primary challenge is connecting new technologies to reliable data, scientific expertise, and the practical realities of bringing products to market. For specialty chemicals manufactur",
+        "keywords": "AI, tech, news",
+        "datePublished": "Mon, 09 Nov 2026 13:00:00 +0000",
+        "dateModified": "Mon, 09 Nov 2026 13:00:00 +0000",
+        "author": {
+          "@type": "Organization",
+          "name": "MIT Technology Review AI",
+          "url": "https://www.technologyreview.com"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "industry",
+        "inLanguage": "en-US",
+        "wordCount": 39,
+        "articleBody": "As companies look to accelerate innovation with artificial intelligence, cloud computing, and advanced modeling, the primary challenge is connecting new technologies to reliable data, scientific expertise, and the practical realities of bringing products to market. For specialty chemicals manufactur"
+      }
+    },
+    {
+      "source_id": "mit_technology_review_ai",
+      "source_name": "MIT Technology Review AI",
+      "title": "The climate case for AI has not been made",
+      "url": "https://www.technologyreview.com/2026/11/09/1148166/the-climate-case-for-ai-has-not-been-made/",
+      "description": "This week, as countries meet in Antalya, Turkey for the United Nations climate conference, one topic likely to dominate the conversation is artificial intelligence. The host has already called on countries to commit to ensuring that AI is designed, powered, and deployed in ways that support climate",
+      "published": "Mon, 09 Nov 2026 10:00:00 +0000",
+      "score": 32,
+      "category": "industry",
+      "weight": 8,
+      "format": "article",
+      "sentiment": "neutral",
+      "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2026/11/hands.jpg?resize=1200,600",
+      "cluster_id": "dc18f585-8a13-5e5a-93fc-71954c526a08",
+      "cluster_size": 1,
+      "cluster_topics": [
+        "climate",
+        "countries",
+        "meet",
+        "antalya",
+        "turkey"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "The climate case for AI has not been made",
+        "url": "https://www.technologyreview.com/2026/11/09/1148166/the-climate-case-for-ai-has-not-been-made/",
+        "description": "This week, as countries meet in Antalya, Turkey for the United Nations climate conference, one topic likely to dominate the conversation is artificial intelligence. The host has already called on countries to commit to ensuring that AI is designed, powered, and deployed in ways that support climate",
+        "keywords": "AI, tech, news",
+        "datePublished": "Mon, 09 Nov 2026 10:00:00 +0000",
+        "dateModified": "Mon, 09 Nov 2026 10:00:00 +0000",
+        "author": {
+          "@type": "Organization",
+          "name": "MIT Technology Review AI",
+          "url": "https://www.technologyreview.com"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "industry",
+        "inLanguage": "en-US",
+        "wordCount": 47,
+        "articleBody": "This week, as countries meet in Antalya, Turkey for the United Nations climate conference, one topic likely to dominate the conversation is artificial intelligence. The host has already called on countries to commit to ensuring that AI is designed, powered, and deployed in ways that support climate"
+      }
+    },
+    {
+      "source_id": "hn_show_ai_7d",
+      "source_name": "Show HN AI 7d",
+      "title": "Show HN: Emma, a real-time AI video persona from Nuance Labs",
+      "url": "https://app.nuancelabs.ai/try",
+      "description": "",
+      "published": "2026-11-09T21:38:00+00:00",
+      "score": 30,
+      "category": "open_source",
+      "weight": 9,
+      "points": 7,
+      "comments_url": "https://news.ycombinator.com/item?id=50432589",
+      "sentiment": "neutral",
+      "thumbnail": "https://app.nuancelabs.ai/opengraph-image.png",
+      "cluster_id": "a72bfe25-766a-56ba-8e0a-3a3c2b27fcae",
+      "cluster_size": 1,
+      "cluster_topics": [
+        "emma",
+        "real-time",
+        "persona",
+        "nuance",
+        "video"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "Show HN: Emma, a real-time AI video persona from Nuance Labs",
+        "url": "https://app.nuancelabs.ai/try",
+        "description": "",
+        "keywords": "AI, tech, news",
+        "datePublished": "2026-11-09T21:38:00+00:00",
+        "dateModified": "2026-11-09T21:38:00+00:00",
+        "author": {
+          "@type": "Organization",
+          "name": "Show HN AI 7d",
+          "url": "https://app.nuancelabs.ai"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "open_source",
+        "inLanguage": "en-US",
+        "wordCount": 0,
+        "articleBody": ""
+      }
+    },
+    {
+      "source_id": "hn_show_ai_7d",
+      "source_name": "Show HN AI 7d",
+      "title": "Show HN: Airgap-check – find what your AI app silently downloads offline",
+      "url": "https://github.com/humanethq/airgap-check",
+      "description": "",
+      "published": "2026-11-09T20:37:28+00:00",
+      "score": 30,
+      "category": "open_source",
+      "weight": 9,
+      "points": 7,
+      "comments_url": "https://news.ycombinator.com/item?id=50431705",
+      "sentiment": "neutral",
+      "thumbnail": null,
+      "favicon": "https://www.google.com/s2/favicons?domain=github.com&sz=64",
+      "cluster_id": "2ecaeccc-8bb3-50d0-9477-b22b44242361",
+      "cluster_size": 1,
+      "cluster_topics": [
+        "airgap-check",
+        "silently",
+        "downloads",
+        "offline",
+        "find"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "Show HN: Airgap-check – find what your AI app silently downloads offline",
+        "url": "https://github.com/humanethq/airgap-check",
+        "description": "",
+        "keywords": "AI, tech, news",
+        "datePublished": "2026-11-09T20:37:28+00:00",
+        "dateModified": "2026-11-09T20:37:28+00:00",
+        "author": {
+          "@type": "Organization",
+          "name": "Show HN AI 7d",
+          "url": "https://github.com"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "open_source",
+        "inLanguage": "en-US",
+        "wordCount": 0,
+        "articleBody": ""
+      }
+    }
+  ],
+  "enriched": true,
+  "enriched_at": "2026-11-10T09:05:28.591509+00:00",
+  "enricher_model": "qwen2.5-7b",
+  "clustered": true,
+  "clustered_at": "2026-11-10T09:05:28.691122+00:00",
+  "cluster_threshold": 0.3,
+  "geo_metadata": {
+    "date": "2026-11-10",
+    "generated_at": "2026-11-10T09:12:53.200933+00:00",
+    "schemas_generated": 30,
+    "topics": [],
+    "faq_items": []
+  },
+  "geo_enriched": true,
+  "geo_enriched_at": "2026-11-10T09:12:53.200933+00:00"
+}
