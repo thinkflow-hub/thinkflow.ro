@@ -1,19 +1,57 @@
 {
   "date": "2026-11-10",
-  "generated_at": "2026-11-11T05:00:05.814002+00:00",
+  "generated_at": "2026-11-11T09:12:53.778827+00:00",
   "results": {
-    "trending_ai": {
-      "verification_status": "unconfirmed",
-      "sources_count": 1,
+    "openai_blog": {
+      "verification_status": "verified",
+      "sources_count": 2,
       "sources": [
-        "GitHub Trending — AI"
+        "NousResearch releases",
+        "OpenAI Blog"
+      ]
+    },
+    "trending_ai": {
+      "verification_status": "verified",
+      "sources_count": 2,
+      "sources": [
+        "GitHub Trending — AI",
+        "OpenAI Blog"
       ]
     },
     "nousresearch_releases": {
+      "verification_status": "verified",
+      "sources_count": 2,
+      "sources": [
+        "NousResearch releases",
+        "OpenAI Blog"
+      ]
+    },
+    "google_ai_blog": {
       "verification_status": "unconfirmed",
       "sources_count": 1,
       "sources": [
-        "NousResearch releases"
+        "Google AI Blog"
+      ]
+    },
+    "deepmind_blog": {
+      "verification_status": "unconfirmed",
+      "sources_count": 1,
+      "sources": [
+        "DeepMind Blog"
+      ]
+    },
+    "pod_lex_fridman": {
+      "verification_status": "unconfirmed",
+      "sources_count": 1,
+      "sources": [
+        "Lex Fridman Podcast"
+      ]
+    },
+    "latent_space": {
+      "verification_status": "unconfirmed",
+      "sources_count": 1,
+      "sources": [
+        "Latent Space (Substack)"
       ]
     },
     "ggml_releases": {

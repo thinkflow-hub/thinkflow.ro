@@ -1,7 +1,22 @@
 {
   "date": "2026-11-09",
-  "generated_at": "2026-11-11T05:00:05.814002+00:00",
+  "generated_at": "2026-11-11T09:12:53.779364+00:00",
   "results": {
+    "deepmind_blog": {
+      "verification_status": "verified",
+      "sources_count": 2,
+      "sources": [
+        "ArXiv cs.CL (Computation and Language / NLP)",
+        "DeepMind Blog"
+      ]
+    },
+    "arxiv_cs_cl": {
+      "verification_status": "unconfirmed",
+      "sources_count": 1,
+      "sources": [
+        "ArXiv cs.CL (Computation and Language / NLP)"
+      ]
+    },
     "openai_blog": {
       "verification_status": "unconfirmed",
       "sources_count": 1,
@@ -56,13 +71,6 @@
       "sources_count": 1,
       "sources": [
         "MIT Technology Review AI"
-      ]
-    },
-    "arxiv_cs_cl": {
-      "verification_status": "unconfirmed",
-      "sources_count": 1,
-      "sources": [
-        "ArXiv cs.CL (Computation and Language / NLP)"
       ]
     }
   }
