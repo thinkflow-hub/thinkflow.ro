@@ -1,20 +1,12 @@
 {
   "date": "2026-11-09",
-  "generated_at": "2026-11-12T09:00:06.907999+00:00",
+  "generated_at": "2026-11-12T13:00:07.127274+00:00",
   "results": {
     "deepmind_blog": {
-      "verification_status": "verified",
-      "sources_count": 2,
-      "sources": [
-        "DeepMind Blog",
-        "ArXiv cs.CL (Computation and Language / NLP)"
-      ]
-    },
-    "arxiv_cs_cl": {
       "verification_status": "unconfirmed",
       "sources_count": 1,
       "sources": [
-        "ArXiv cs.CL (Computation and Language / NLP)"
+        "DeepMind Blog"
       ]
     },
     "openai_blog": {
