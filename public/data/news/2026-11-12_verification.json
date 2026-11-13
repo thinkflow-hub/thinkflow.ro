@@ -1,19 +1,69 @@
 {
   "date": "2026-11-12",
-  "generated_at": "2026-11-13T05:00:06.639892+00:00",
+  "generated_at": "2026-11-13T09:12:32.135251+00:00",
   "results": {
-    "latent_space": {
-      "verification_status": "unconfirmed",
-      "sources_count": 1,
-      "sources": [
-        "Latent Space (Substack)"
-      ]
-    },
     "openai_blog": {
       "verification_status": "unconfirmed",
       "sources_count": 1,
       "sources": [
         "OpenAI Blog"
+      ]
+    },
+    "google_ai_blog": {
+      "verification_status": "verified",
+      "sources_count": 2,
+      "sources": [
+        "HN top AI 24h",
+        "Google AI Blog"
+      ]
+    },
+    "hn_ai_24h": {
+      "verification_status": "unconfirmed",
+      "sources_count": 1,
+      "sources": [
+        "HN top AI 24h"
+      ]
+    },
+    "huggingface_blog": {
+      "verification_status": "unconfirmed",
+      "sources_count": 1,
+      "sources": [
+        "Hugging Face Blog"
+      ]
+    },
+    "hn_llm_24h": {
+      "verification_status": "unconfirmed",
+      "sources_count": 1,
+      "sources": [
+        "HN top LLM 24h"
+      ]
+    },
+    "hn_show_ai_7d": {
+      "verification_status": "unconfirmed",
+      "sources_count": 1,
+      "sources": [
+        "Show HN AI 7d"
+      ]
+    },
+    "mit_technology_review_ai": {
+      "verification_status": "unconfirmed",
+      "sources_count": 1,
+      "sources": [
+        "MIT Technology Review AI"
+      ]
+    },
+    "marktechpost": {
+      "verification_status": "unconfirmed",
+      "sources_count": 1,
+      "sources": [
+        "MarkTechPost"
+      ]
+    },
+    "latent_space": {
+      "verification_status": "unconfirmed",
+      "sources_count": 1,
+      "sources": [
+        "Latent Space (Substack)"
       ]
     }
   }
