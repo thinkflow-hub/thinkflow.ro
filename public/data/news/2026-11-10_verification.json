@@ -1,6 +1,6 @@
 {
   "date": "2026-11-10",
-  "generated_at": "2026-11-14T09:03:02.695547+00:00",
+  "generated_at": "2026-11-14T13:00:07.174844+00:00",
   "results": {
     "ollama_releases": {
       "verification_status": "unconfirmed",
@@ -16,39 +16,11 @@
         "Show HN AI 7d"
       ]
     },
-    "deepmind_blog": {
-      "verification_status": "unconfirmed",
-      "sources_count": 1,
-      "sources": [
-        "DeepMind Blog"
-      ]
-    },
     "openai_blog": {
       "verification_status": "unconfirmed",
       "sources_count": 1,
       "sources": [
         "OpenAI Blog"
-      ]
-    },
-    "google_ai_blog": {
-      "verification_status": "unconfirmed",
-      "sources_count": 1,
-      "sources": [
-        "Google AI Blog"
-      ]
-    },
-    "pod_lex_fridman": {
-      "verification_status": "unconfirmed",
-      "sources_count": 1,
-      "sources": [
-        "Lex Fridman Podcast"
-      ]
-    },
-    "latent_space": {
-      "verification_status": "unconfirmed",
-      "sources_count": 1,
-      "sources": [
-        "Latent Space (Substack)"
       ]
     }
   }
