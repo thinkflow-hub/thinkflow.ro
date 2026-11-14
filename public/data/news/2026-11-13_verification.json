@@ -1,12 +1,26 @@
 {
   "date": "2026-11-13",
-  "generated_at": "2026-11-14T05:00:06.518722+00:00",
+  "generated_at": "2026-11-14T09:03:02.694547+00:00",
   "results": {
-    "latent_space": {
+    "openai_blog": {
       "verification_status": "unconfirmed",
       "sources_count": 1,
       "sources": [
-        "Latent Space (Substack)"
+        "OpenAI Blog"
+      ]
+    },
+    "huggingface_blog": {
+      "verification_status": "unconfirmed",
+      "sources_count": 1,
+      "sources": [
+        "Hugging Face Blog"
+      ]
+    },
+    "nousresearch_releases": {
+      "verification_status": "unconfirmed",
+      "sources_count": 1,
+      "sources": [
+        "NousResearch releases"
       ]
     },
     "hn_ai_24h": {
@@ -14,6 +28,27 @@
       "sources_count": 1,
       "sources": [
         "HN top AI 24h"
+      ]
+    },
+    "latent_space": {
+      "verification_status": "unconfirmed",
+      "sources_count": 1,
+      "sources": [
+        "Latent Space (Substack)"
+      ]
+    },
+    "ggml_releases": {
+      "verification_status": "unconfirmed",
+      "sources_count": 1,
+      "sources": [
+        "ggml/llama.cpp releases"
+      ]
+    },
+    "huggingface_transformers_releases": {
+      "verification_status": "unconfirmed",
+      "sources_count": 1,
+      "sources": [
+        "Transformers releases"
       ]
     }
   }
