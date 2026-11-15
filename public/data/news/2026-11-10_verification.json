@@ -1,7 +1,14 @@
 {
   "date": "2026-11-10",
-  "generated_at": "2026-11-15T05:00:08.082469+00:00",
+  "generated_at": "2026-11-15T09:04:09.180934+00:00",
   "results": {
+    "deepmind_blog": {
+      "verification_status": "unconfirmed",
+      "sources_count": 1,
+      "sources": [
+        "DeepMind Blog"
+      ]
+    },
     "ollama_releases": {
       "verification_status": "unconfirmed",
       "sources_count": 1,
@@ -14,13 +21,6 @@
       "sources_count": 1,
       "sources": [
         "Show HN AI 7d"
-      ]
-    },
-    "openai_blog": {
-      "verification_status": "unconfirmed",
-      "sources_count": 1,
-      "sources": [
-        "OpenAI Blog"
       ]
     }
   }
