@@ -1,7 +1,14 @@
 {
   "date": "2026-11-15",
-  "generated_at": "2026-11-17T05:00:05.923041+00:00",
+  "generated_at": "2026-11-17T09:02:59.810704+00:00",
   "results": {
+    "hn_show_ai_7d": {
+      "verification_status": "unconfirmed",
+      "sources_count": 1,
+      "sources": [
+        "Show HN AI 7d"
+      ]
+    },
     "openai_blog": {
       "verification_status": "unconfirmed",
       "sources_count": 1,
@@ -21,13 +28,6 @@
       "sources_count": 1,
       "sources": [
         "HN top AI 24h"
-      ]
-    },
-    "hn_show_ai_7d": {
-      "verification_status": "unconfirmed",
-      "sources_count": 1,
-      "sources": [
-        "Show HN AI 7d"
       ]
     }
   }

@@ -1,19 +1,12 @@
 {
   "date": "2026-11-14",
-  "generated_at": "2026-11-17T05:00:05.923041+00:00",
+  "generated_at": "2026-11-17T09:02:59.812217+00:00",
   "results": {
     "hn_llm_24h": {
       "verification_status": "unconfirmed",
       "sources_count": 1,
       "sources": [
         "HN top LLM 24h"
-      ]
-    },
-    "trending_agent": {
-      "verification_status": "unconfirmed",
-      "sources_count": 1,
-      "sources": [
-        "GitHub Trending — AI Agents"
       ]
     },
     "latent_space": {
@@ -42,20 +35,6 @@
       "sources_count": 1,
       "sources": [
         "MarkTechPost"
-      ]
-    },
-    "trending_llm": {
-      "verification_status": "unconfirmed",
-      "sources_count": 1,
-      "sources": [
-        "GitHub Trending — LLM"
-      ]
-    },
-    "ggml_releases": {
-      "verification_status": "unconfirmed",
-      "sources_count": 1,
-      "sources": [
-        "ggml/llama.cpp releases"
       ]
     }
   }
