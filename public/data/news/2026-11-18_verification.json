@@ -1,6 +1,6 @@
 {
   "date": "2026-11-18",
-  "generated_at": "2026-11-19T13:00:12.096640+00:00",
+  "generated_at": "2026-11-19T17:00:12.100133+00:00",
   "results": {
     "openai_blog": {
       "verification_status": "unconfirmed",
@@ -27,8 +27,8 @@
       "verification_status": "verified",
       "sources_count": 2,
       "sources": [
-        "ArXiv cs.CL (Computation and Language / NLP)",
-        "Hugging Face Blog"
+        "Hugging Face Blog",
+        "ArXiv cs.CL (Computation and Language / NLP)"
       ]
     },
     "arxiv_cs_cl": {
@@ -50,8 +50,8 @@
       "verification_status": "verified",
       "sources_count": 2,
       "sources": [
-        "GitHub Trending — LLM",
-        "ArXiv cs.CL (Computation and Language / NLP)"
+        "ArXiv cs.CL (Computation and Language / NLP)",
+        "GitHub Trending — LLM"
       ]
     },
     "nousresearch_releases": {
