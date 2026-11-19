@@ -1,33 +1,19 @@
 {
   "date": "2026-11-15",
-  "generated_at": "2026-11-19T05:00:07.651870+00:00",
+  "generated_at": "2026-11-19T09:03:36.692429+00:00",
   "results": {
+    "nousresearch_releases": {
+      "verification_status": "unconfirmed",
+      "sources_count": 1,
+      "sources": [
+        "NousResearch releases"
+      ]
+    },
     "hn_show_ai_7d": {
       "verification_status": "unconfirmed",
       "sources_count": 1,
       "sources": [
         "Show HN AI 7d"
-      ]
-    },
-    "openai_blog": {
-      "verification_status": "unconfirmed",
-      "sources_count": 1,
-      "sources": [
-        "OpenAI Blog"
-      ]
-    },
-    "hn_llm_24h": {
-      "verification_status": "unconfirmed",
-      "sources_count": 1,
-      "sources": [
-        "HN top LLM 24h"
-      ]
-    },
-    "hn_ai_24h": {
-      "verification_status": "unconfirmed",
-      "sources_count": 1,
-      "sources": [
-        "HN top AI 24h"
       ]
     }
   }

@@ -1,7 +1,21 @@
 {
   "date": "2026-11-17",
-  "generated_at": "2026-11-19T05:00:07.649836+00:00",
+  "generated_at": "2026-11-19T09:03:36.692429+00:00",
   "results": {
+    "trending_llm": {
+      "verification_status": "unconfirmed",
+      "sources_count": 1,
+      "sources": [
+        "GitHub Trending — LLM"
+      ]
+    },
+    "nousresearch_releases": {
+      "verification_status": "unconfirmed",
+      "sources_count": 1,
+      "sources": [
+        "NousResearch releases"
+      ]
+    },
     "openai_blog": {
       "verification_status": "unconfirmed",
       "sources_count": 1,

@@ -1,7 +1,21 @@
 {
   "date": "2026-11-16",
-  "generated_at": "2026-11-19T05:00:07.651347+00:00",
+  "generated_at": "2026-11-19T09:03:36.690655+00:00",
   "results": {
+    "trending_ai": {
+      "verification_status": "unconfirmed",
+      "sources_count": 1,
+      "sources": [
+        "GitHub Trending — AI"
+      ]
+    },
+    "nousresearch_releases": {
+      "verification_status": "unconfirmed",
+      "sources_count": 1,
+      "sources": [
+        "NousResearch releases"
+      ]
+    },
     "openai_blog": {
       "verification_status": "unconfirmed",
       "sources_count": 1,
@@ -9,18 +23,18 @@
         "OpenAI Blog"
       ]
     },
-    "hn_ai_24h": {
-      "verification_status": "unconfirmed",
-      "sources_count": 1,
-      "sources": [
-        "HN top AI 24h"
-      ]
-    },
     "google_ai_blog": {
       "verification_status": "unconfirmed",
       "sources_count": 1,
       "sources": [
         "Google AI Blog"
+      ]
+    },
+    "hn_ai_24h": {
+      "verification_status": "unconfirmed",
+      "sources_count": 1,
+      "sources": [
+        "HN top AI 24h"
       ]
     },
     "import_ai": {
@@ -56,20 +70,6 @@
       "sources_count": 1,
       "sources": [
         "MarkTechPost"
-      ]
-    },
-    "arxiv_cs_cl": {
-      "verification_status": "unconfirmed",
-      "sources_count": 1,
-      "sources": [
-        "ArXiv cs.CL (Computation and Language / NLP)"
-      ]
-    },
-    "arxiv_cs_ai": {
-      "verification_status": "unconfirmed",
-      "sources_count": 1,
-      "sources": [
-        "ArXiv cs.AI"
       ]
     }
   }
