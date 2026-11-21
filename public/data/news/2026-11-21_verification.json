@@ -1,0 +1,27 @@
+{
+  "date": "2026-11-21",
+  "generated_at": "2026-11-21T09:03:26.494494+00:00",
+  "results": {
+    "trending_llm": {
+      "verification_status": "unconfirmed",
+      "sources_count": 1,
+      "sources": [
+        "GitHub Trending — LLM"
+      ]
+    },
+    "latent_space": {
+      "verification_status": "unconfirmed",
+      "sources_count": 1,
+      "sources": [
+        "Latent Space (Substack)"
+      ]
+    },
+    "ggml_releases": {
+      "verification_status": "unconfirmed",
+      "sources_count": 1,
+      "sources": [
+        "ggml/llama.cpp releases"
+      ]
+    }
+  }
+}
