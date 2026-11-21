@@ -1,0 +1,2181 @@
+{
+  "date": "2026-11-21",
+  "last_updated": "2026-11-21T06:00:02.187810+00:00",
+  "total_items": 30,
+  "items": [
+    {
+      "source_id": "openai_blog",
+      "source_name": "OpenAI Blog",
+      "title": "Combatting adversarial distillation",
+      "url": "https://openai.com/index/combatting-adversarial-distillation",
+      "description": "OpenAI’s layered approach to adversarial distillation combines model training, safeguards, detection, and enforcement to protect against capability extraction.",
+      "published": "Fri, 20 Nov 2026 10:00:00 GMT",
+      "score": 75,
+      "category": "ai_labs",
+      "weight": 10,
+      "format": "article",
+      "summary": "OpenAI has developed a multi-layered strategy to combat adversarial distillation, aiming to safeguard against the unauthorized extraction of AI model capabilities. This approach is crucial as it enhances security and prevents misuse of advanced AI technologies.",
+      "summary_detailed": "OpenAI has developed a multi-layered strategy called adversarial distillation to combat the unauthorized extraction of AI capabilities. This approach integrates model training, protective measures, detection systems, and enforcement mechanisms. The broader impact aims to enhance security in AI by preventing malicious actors from obtaining and misusing advanced AI functionalities.",
+      "summary_bullets": "• OpenAI uses a layered approach for adversarial distillation.\n• The method includes model training techniques.\n• Safeguards are integrated into the system.\n• Capability extraction is detected by the system.\n• Enforcement mechanisms are employed to counteract threats.",
+      "sentiment": "neutral",
+      "keywords": [
+        "adversarial distillation",
+        "model training",
+        "safeguards",
+        "detection",
+        "enforcement"
+      ],
+      "thumbnail": "https://images.ctfassets.net/kftzwdyauwt9/5SUtPGdssrttC7LfP1yoJ1/b6b000846ab3576c1735c29534ab20b0/combatting-adversarial-distillation-social.png?w=1600&h=900&fit=fill",
+      "cluster_id": "0494ef44-0c7d-5b01-8a33-ff807dbd7425",
+      "cluster_size": 1,
+      "cluster_topics": [
+        "adversarial",
+        "distillation",
+        "combatting",
+        "openai",
+        "layered"
+      ],
+      "geo_title": "How does OpenAI's layered approach combat adversarial distillation?",
+      "geo_keywords": [
+        "adversarial distillation",
+        "model training",
+        "safeguards",
+        "detection",
+        "enforcement",
+        "ai security",
+        "capability extraction",
+        "layered approach",
+        "openai"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "How does OpenAI's layered approach combat adversarial distillation?",
+        "url": "https://openai.com/index/combatting-adversarial-distillation",
+        "description": "OpenAI has developed a multi-layered strategy to combat adversarial distillation, aiming to safeguard against the unauthorized extraction of AI model capabilities. This approach is crucial as it enhances security and prevents misuse of advanced AI technologies.",
+        "keywords": "adversarial distillation, model training, safeguards, detection, enforcement, ai security, capability extraction, layered approach",
+        "datePublished": "Fri, 20 Nov 2026 10:00:00 GMT",
+        "dateModified": "Fri, 20 Nov 2026 10:00:00 GMT",
+        "author": {
+          "@type": "Organization",
+          "name": "OpenAI Blog",
+          "url": "https://openai.com"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "ai_labs",
+        "inLanguage": "en-US",
+        "wordCount": 36,
+        "articleBody": "OpenAI has developed a multi-layered strategy to combat adversarial distillation, aiming to safeguard against the unauthorized extraction of AI model capabilities. This approach is crucial as it enhances security and prevents misuse of advanced AI technologies."
+      }
+    },
+    {
+      "source_id": "openai_blog",
+      "source_name": "OpenAI Blog",
+      "title": "Hebbia sees improvements in financial research with GPT-6 Astra",
+      "url": "https://openai.com/business/customer-stories/hebbia",
+      "description": "Hebbia tested GPT-6 Astra for financial research. Its prerelease evaluations found gains in source coverage, citation relevance, and presentation quality.",
+      "published": "Fri, 20 Nov 2026 00:00:00 GMT",
+      "score": 75,
+      "category": "ai_labs",
+      "weight": 10,
+      "format": "article",
+      "summary": "Hebbia improved its financial research using GPT-6 Astra, enhancing source coverage, citation relevance, and presentation quality, highlighting the tool's potential to boost academic rigor.",
+      "summary_detailed": "Hebbia conducted tests on GPT-6 Astra for financial research and observed improvements in source coverage, citation relevance, and presentation quality during its prerelease evaluations. The involvement includes Hebbia as the testing entity and GPT-6 Astra as the tool being assessed. These findings suggest potential enhancements in the efficiency and accuracy of financial analysis processes.",
+      "summary_bullets": "• GPT-6 Astra showed improvements in source coverage.\n• Citation relevance was enhanced by GPT-6 Astra.\n• Presentation quality saw gains with the use of GPT-6 Astra.",
+      "sentiment": "positive",
+      "keywords": [
+        "financial research",
+        "gpt-6 astra",
+        "source coverage",
+        "citation relevance",
+        "presentation quality"
+      ],
+      "thumbnail": "https://images.ctfassets.net/kftzwdyauwt9/70gWqYyqb096it9EoD7OqI/5df8cad1c7fdf2a4e942c3183a10f405/hebbia-smoked-depth-social.png?w=1600&h=900&fit=fill",
+      "cluster_id": "64da2d0a-9273-5fca-87b0-5954b04e9dec",
+      "cluster_size": 1,
+      "cluster_topics": [
+        "hebbia",
+        "financial",
+        "research",
+        "gpt-6",
+        "astra"
+      ],
+      "geo_title": "Why is GPT-6 Astra improving financial research at Hebbia?",
+      "geo_keywords": [
+        "financial research improvements",
+        "gpt-6 astra benefits",
+        "source coverage in financial research",
+        "citation relevance enhancement",
+        "presentation quality in ai tools",
+        "how does gpt-6 astra improve financial research",
+        "what are the benefits of using gpt-6 astra for financial analysis",
+        "gpt-6 astra financial research evaluation"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "Why is GPT-6 Astra improving financial research at Hebbia?",
+        "url": "https://openai.com/business/customer-stories/hebbia",
+        "description": "Hebbia improved its financial research using GPT-6 Astra, enhancing source coverage, citation relevance, and presentation quality, highlighting the tool's potential to boost academic rigor.",
+        "keywords": "financial research improvements, gpt-6 astra benefits, source coverage in financial research, citation relevance enhancement, presentation quality in ai tools, how does gpt-6 astra improve financial research, what are the benefits of using gpt-6 astra for financial analysis, gpt-6 astra financial research evaluation",
+        "datePublished": "Fri, 20 Nov 2026 00:00:00 GMT",
+        "dateModified": "Fri, 20 Nov 2026 00:00:00 GMT",
+        "author": {
+          "@type": "Organization",
+          "name": "OpenAI Blog",
+          "url": "https://openai.com"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "ai_labs",
+        "inLanguage": "en-US",
+        "wordCount": 24,
+        "articleBody": "Hebbia improved its financial research using GPT-6 Astra, enhancing source coverage, citation relevance, and presentation quality, highlighting the tool's potential to boost academic rigor."
+      }
+    },
+    {
+      "source_id": "openai_blog",
+      "source_name": "OpenAI Blog",
+      "title": "Can AI help scientists identify promising drug candidates?",
+      "url": "https://openai.com/index/introducing-medchembench",
+      "description": "MedChemBench evaluates how well AI models interpret molecular structures, reason from experimental evidence, and select compounds in early drug discovery.",
+      "published": "Fri, 20 Nov 2026 00:00:00 GMT",
+      "score": 75,
+      "category": "ai_labs",
+      "weight": 10,
+      "format": "article",
+      "summary": "Scientists are using AI to evaluate its potential in identifying promising drug candidates by assessing its ability to interpret molecular structures and select compounds, aiming to accelerate early-stage drug discovery. This matters because it could significantly enhance the efficiency and effectiveness of developing new medications.",
+      "summary_detailed": "MedChemBench assesses AI models' ability to interpret molecular structures, reason based on experimental data, and choose potential drug compounds. The evaluation aims to enhance early-stage drug discovery processes by identifying promising candidates more efficiently. This initiative could significantly accelerate the development of new drugs and treatments, potentially reducing costs and time in bringing them to market.",
+      "summary_bullets": "• MedChemBench assesses AI models in drug discovery.\n• Focuses on AI's interpretation of molecular structures.\n• Evaluates AI's ability to reason from experimental data.\n• Tests AI in selecting promising drug candidates.",
+      "sentiment": "neutral",
+      "keywords": [
+        "ai",
+        "drug discovery",
+        "medchembench",
+        "molecular structure",
+        "compound selection"
+      ],
+      "thumbnail": "https://images.ctfassets.net/kftzwdyauwt9/37ZvKdwVigsgJ7G3FMr4Nb/12854063a79d19d63278704bf54e3010/introducing-medchembench-social.png?w=1600&h=900&fit=fill",
+      "cluster_id": "55d711b2-e016-5657-abe1-735fa3af90f4",
+      "cluster_size": 1,
+      "cluster_topics": [
+        "drug",
+        "help",
+        "identify",
+        "promising",
+        "candidates"
+      ],
+      "geo_title": "How does AI assist in挑选有潜力的药物候选分子？",
+      "geo_keywords": [
+        "ai drug discovery",
+        "medchembench",
+        "molecular structure analysis",
+        "compound selection for drugs",
+        "ai in pharmaceutical research",
+        "how ai aids drug discovery",
+        "ai models in early drug development",
+        "ai tools for chemists"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "How does AI assist in挑选有潜力的药物候选分子？",
+        "url": "https://openai.com/index/introducing-medchembench",
+        "description": "Scientists are using AI to evaluate its potential in identifying promising drug candidates by assessing its ability to interpret molecular structures and select compounds, aiming to accelerate early-stage drug discovery. This matters because it could significantly enhance the efficiency and effectiveness of developing new medications.",
+        "keywords": "ai drug discovery, medchembench, molecular structure analysis, compound selection for drugs, ai in pharmaceutical research, how ai aids drug discovery, ai models in early drug development, ai tools for chemists",
+        "datePublished": "Fri, 20 Nov 2026 00:00:00 GMT",
+        "dateModified": "Fri, 20 Nov 2026 00:00:00 GMT",
+        "author": {
+          "@type": "Organization",
+          "name": "OpenAI Blog",
+          "url": "https://openai.com"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "ai_labs",
+        "inLanguage": "en-US",
+        "wordCount": 45,
+        "articleBody": "Scientists are using AI to evaluate its potential in identifying promising drug candidates by assessing its ability to interpret molecular structures and select compounds, aiming to accelerate early-stage drug discovery. This matters because it could significantly enhance the efficiency and effectiveness of developing new medications."
+      }
+    },
+    {
+      "source_id": "trending_llm",
+      "source_name": "GitHub Trending — LLM",
+      "title": "firecrawl/firecrawl — Knowledge infrastructure to make your agents smarter. Search, scrape and access 550+ data providers through one API.",
+      "url": "https://github.com/firecrawl/firecrawl",
+      "description": "Knowledge infrastructure to make your agents smarter. Search, scrape and access 550+ data providers through one API.",
+      "published": "2026-11-21T03:40:37Z",
+      "score": 62,
+      "category": "open_source",
+      "weight": 9,
+      "stars": 205478,
+      "language": "TypeScript",
+      "summary": "Firecrawl offers a knowledge infrastructure that enables agents to search, scrape, and access data from over 550 providers via a single API, aiming to enhance their intelligence and efficiency. This tool is significant as it streamlines data acquisition across multiple sources, potentially revolutionizing how businesses and organizations operate by providing comprehensive and integrated information access.",
+      "summary_detailed": "FireCrawl offers a knowledge infrastructure designed to enhance the capabilities of agents by providing unified access to over 550 data sources via a single API. Users can search and scrape data from these providers, making it easier for agents to gather information efficiently. This tool has broader implications for industries reliant on data analysis, potentially improving decision-making processes across various sectors.",
+      "summary_bullets": "• Provides knowledge infrastructure for smarter agents\n• Enables search and scraping across 550+ data providers\n• Accesses 550+ data providers via a single API",
+      "sentiment": "neutral",
+      "keywords": [
+        "firecrawl",
+        "knowledge infrastructure",
+        "agents",
+        "search",
+        "scrape",
+        "api"
+      ],
+      "thumbnail": null,
+      "favicon": "https://www.google.com/s2/favicons?domain=github.com&sz=64",
+      "cluster_id": "3fa9983d-f100-5229-84b6-1603530317e1",
+      "cluster_size": 1,
+      "cluster_topics": [
+        "firecrawl",
+        "knowledge",
+        "infrastructure",
+        "smarter",
+        "search"
+      ],
+      "geo_title": "How does firecrawl enhance agent intelligence with one API for 550+ data providers?",
+      "geo_keywords": [
+        "firecrawl",
+        "knowledge infrastructure",
+        "agent intelligence",
+        "data scraping",
+        "api integration",
+        "data provider access",
+        "intelligent agents",
+        "data search solutions",
+        "how to make agents smarter",
+        "integrating multiple data sources",
+        "streamline data access",
+        "ai driven data search"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "How does firecrawl enhance agent intelligence with one API for 550+ data providers?",
+        "url": "https://github.com/firecrawl/firecrawl",
+        "description": "Firecrawl offers a knowledge infrastructure that enables agents to search, scrape, and access data from over 550 providers via a single API, aiming to enhance their intelligence and efficiency. This tool is significant as it streamlines data acquisition across multiple sources, potentially revolutionizing how businesses and organizations operate by providing comprehensive and integrated information access.",
+        "keywords": "firecrawl, knowledge infrastructure, agent intelligence, data scraping, api integration, data provider access, intelligent agents, data search solutions",
+        "datePublished": "2026-11-21T03:40:37Z",
+        "dateModified": "2026-11-21T03:40:37Z",
+        "author": {
+          "@type": "Organization",
+          "name": "GitHub Trending — LLM",
+          "url": "https://github.com"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "open_source",
+        "inLanguage": "en-US",
+        "wordCount": 55,
+        "articleBody": "Firecrawl offers a knowledge infrastructure that enables agents to search, scrape, and access data from over 550 providers via a single API, aiming to enhance their intelligence and efficiency. This tool is significant as it streamlines data acquisition across multiple sources, potentially revolutionizing how businesses and organizations operate by providing comprehensive and integrated information access."
+      }
+    },
+    {
+      "source_id": "nousresearch_releases",
+      "source_name": "NousResearch releases",
+      "title": "NousResearch releases: Hermes Agent v0.23.3",
+      "url": "https://github.com/NousResearch/hermes-agent/releases/tag/v0.23.3",
+      "description": "# Hermes Agent v0.23.3\n\n**Release Date:** November 19, 2026\n\n> Patch release. This tag rolls up the ~370 PRs merged since v0.23.2 into a stable release for the GitHub release (CLI and installers), the Microsoft Store app, Docker and Hermes Cloud. Full curated notes for this window ship with v0.24.0.",
+      "published": "2026-11-20T00:34:38Z",
+      "score": 60,
+      "category": "releases",
+      "weight": 10,
+      "tag": "v0.23.3",
+      "summary": "NousResearch released Hermes Agent v0.23.3 on November 19, 2026, consolidating over 370 merged pull requests to stabilize the GitHub release and other distribution channels; this update is crucial for users relying on consistent software versions across multiple platforms.",
+      "summary_detailed": "NousResearch released Hermes Agent version 0.23.3 on November 19, 2026, incorporating approximately 370 merged pull requests from the previous update. This patch release updates the CLI and installers, Microsoft Store app, Docker, and Hermes Cloud versions. The broader impact includes enhanced functionality and stability across all platforms supported by Hermes Agent.",
+      "summary_bullets": "• Patch release incorporating ~370 PRs\n• Stable release for CLI, installers, Microsoft Store app, Docker, and Hermes Cloud\n• Curated notes included in v0.24.0",
+      "sentiment": "neutral",
+      "keywords": [
+        "patch release",
+        "prs",
+        "github",
+        "cli",
+        "microsoft store",
+        "docker",
+        "hermes cloud"
+      ],
+      "thumbnail": null,
+      "favicon": "https://www.google.com/s2/favicons?domain=github.com&sz=64",
+      "cluster_id": "c94edd05-42d8-56b9-a26c-7aa74bc2ab07",
+      "cluster_size": 3,
+      "cluster_topics": [
+        "hermes",
+        "canary",
+        "agent",
+        "release",
+        "t064609z"
+      ],
+      "geo_title": "What is included in the latest Hermes Agent v0.23.3 release?",
+      "geo_keywords": [
+        "hermes agent update",
+        "pr merge",
+        "github release notes",
+        "microsoft store update",
+        "docker container",
+        "hermes cloud",
+        "software patch release",
+        "what is hermes agent",
+        "how to update hermes agent"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "What is included in the latest Hermes Agent v0.23.3 release?",
+        "url": "https://github.com/NousResearch/hermes-agent/releases/tag/v0.23.3",
+        "description": "NousResearch released Hermes Agent v0.23.3 on November 19, 2026, consolidating over 370 merged pull requests to stabilize the GitHub release and other distribution channels; this update is crucial for users relying on consistent software versions across multiple platforms.",
+        "keywords": "hermes agent update, pr merge, github release notes, microsoft store update, docker container, hermes cloud, software patch release, what is hermes agent",
+        "datePublished": "2026-11-20T00:34:38Z",
+        "dateModified": "2026-11-20T00:34:38Z",
+        "author": {
+          "@type": "Organization",
+          "name": "NousResearch releases",
+          "url": "https://github.com"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "releases",
+        "inLanguage": "en-US",
+        "wordCount": 38,
+        "articleBody": "NousResearch released Hermes Agent v0.23.3 on November 19, 2026, consolidating over 370 merged pull requests to stabilize the GitHub release and other distribution channels; this update is crucial for users relying on consistent software versions across multiple platforms."
+      }
+    },
+    {
+      "source_id": "nousresearch_releases",
+      "source_name": "NousResearch releases",
+      "title": "NousResearch releases: Hermes Agent canary v0.23.3+canary.20261120T064609Z",
+      "url": "https://github.com/NousResearch/hermes-agent/releases/tag/v0.23.3%2Bcanary.20261120T064609Z",
+      "description": "# Hermes Agent v0.23.3+canary.20261120T064609Z (v0.23.3+canary.20261120T064609Z)\n\n**Release Date:** November 20, 2026\n\n<!-- HERMES_BUILDS_TABLE -->\n## Downloads\n\n### Hermes Desktop\n\n| OS | Architecture | Download |\n|---|---|---|\n| macOS | Apple Silicon (M-series) | [DMG](https://hermes-assets.nousre",
+      "published": "2026-11-20T07:49:17Z",
+      "score": 60,
+      "category": "releases",
+      "weight": 10,
+      "tag": "v0.23.3+canary.20261120T064609Z",
+      "summary": "NousResearch released Hermes Agent v0.23.3+canary.20261120T064609Z on November 20, 2026, providing a new version for macOS Apple Silicon users. This update is part of the canary release series, indicating it's intended for early testing and feedback.",
+      "summary_detailed": "NousResearch released the Hermes Agent version v0.23.3+canary.20261120T064609Z on November 20, 2026. This update includes new features and improvements for the Hermes Desktop application, specifically tailored for macOS users with Apple Silicon (M-series) processors. The broader impact is expected to enhance performance and functionality for users of Hermes Agent on this platform.",
+      "summary_bullets": "• Release version: v0.23.3+canary.20261120T064609Z\n• Release date: November 20, 2026\n• Available for macOS on Apple Silicon (M-series)",
+      "sentiment": "neutral",
+      "keywords": [
+        "hermes agent",
+        "canary release",
+        "nov 2026"
+      ],
+      "thumbnail": null,
+      "favicon": "https://www.google.com/s2/favicons?domain=github.com&sz=64",
+      "cluster_id": "c94edd05-42d8-56b9-a26c-7aa74bc2ab07",
+      "cluster_size": 3,
+      "cluster_topics": [
+        "hermes",
+        "canary",
+        "agent",
+        "release",
+        "t064609z"
+      ],
+      "geo_title": "Why is Hermes Agent v0.23.3+canary.20261120T064609Z significant?",
+      "geo_keywords": [
+        "hermes agent v0.23.3 release",
+        "canary build 20261120",
+        "nouresearch hermes agent update",
+        "desktop version hermes agent",
+        "osx hermes agent download",
+        "macos hermes agent canary",
+        "latest hermes agent release date"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "Why is Hermes Agent v0.23.3+canary.20261120T064609Z significant?",
+        "url": "https://github.com/NousResearch/hermes-agent/releases/tag/v0.23.3%2Bcanary.20261120T064609Z",
+        "description": "NousResearch released Hermes Agent v0.23.3+canary.20261120T064609Z on November 20, 2026, providing a new version for macOS Apple Silicon users. This update is part of the canary release series, indicating it's intended for early testing and feedback.",
+        "keywords": "hermes agent v0.23.3 release, canary build 20261120, nouresearch hermes agent update, desktop version hermes agent, osx hermes agent download, macos hermes agent canary, latest hermes agent release date",
+        "datePublished": "2026-11-20T07:49:17Z",
+        "dateModified": "2026-11-20T07:49:17Z",
+        "author": {
+          "@type": "Organization",
+          "name": "NousResearch releases",
+          "url": "https://github.com"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "releases",
+        "inLanguage": "en-US",
+        "wordCount": 35,
+        "articleBody": "NousResearch released Hermes Agent v0.23.3+canary.20261120T064609Z on November 20, 2026, providing a new version for macOS Apple Silicon users. This update is part of the canary release series, indicating it's intended for early testing and feedback."
+      }
+    },
+    {
+      "source_id": "nousresearch_releases",
+      "source_name": "NousResearch releases",
+      "title": "NousResearch releases: Hermes Agent canary v0.23.2+canary.20261119T064637Z",
+      "url": "https://github.com/NousResearch/hermes-agent/releases/tag/v0.23.2%2Bcanary.20261119T064637Z",
+      "description": "# Hermes Agent v0.23.2+canary.20261119T064637Z (v0.23.2+canary.20261119T064637Z)\n\n**Release Date:** November 19, 2026\n\n<!-- HERMES_BUILDS_TABLE -->\n## Downloads\n\n### Hermes Desktop\n\n| OS | Architecture | Download |\n|---|---|---|\n| macOS | Apple Silicon (M-series) | [DMG](https://hermes-assets.nousre",
+      "published": "2026-11-19T07:54:29Z",
+      "score": 60,
+      "category": "releases",
+      "weight": 10,
+      "tag": "v0.23.2+canary.20261119T064637Z",
+      "summary": "NousResearch released Hermes Agent v0.23.2+canary.20261119T064637Z on November 19, 2026, providing a new version for testing purposes. This release is significant for users interested in the latest features and improvements before they are finalized.",
+      "summary_detailed": "NousResearch released a new version of the Hermes Agent, specifically v0.23.2+canary.20261119T064637Z, on November 19, 2026. This update includes various improvements and is available for download on macOS Apple Silicon (M-series) in DMG format. The broader impact is likely to affect users of Hermes Agent who are running the previous version or need the latest features and bug fixes.",
+      "summary_bullets": "• Release version: v0.23.2+canary.20261119T064637Z\n• Release date: November 19, 2026\n• Operating System: macOS (Apple Silicon)",
+      "sentiment": "neutral",
+      "keywords": [
+        "hermes agent",
+        "canary release",
+        "nov 19",
+        "2026"
+      ],
+      "thumbnail": null,
+      "favicon": "https://www.google.com/s2/favicons?domain=github.com&sz=64",
+      "cluster_id": "c94edd05-42d8-56b9-a26c-7aa74bc2ab07",
+      "cluster_size": 3,
+      "cluster_topics": [
+        "hermes",
+        "canary",
+        "agent",
+        "release",
+        "t064609z"
+      ],
+      "geo_title": "Why is Hermes Agent v0.23.2+canary.20261119T064637Z important?",
+      "geo_keywords": [
+        "hermes agent v0.23.2 canary release",
+        "nousresearch hermes agent update",
+        "canary version 0.23.2",
+        "hermes agent release notes",
+        "what is hermes agent",
+        "hermes agent download",
+        "how to install hermes agent",
+        "hermes agent macos release"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "Why is Hermes Agent v0.23.2+canary.20261119T064637Z important?",
+        "url": "https://github.com/NousResearch/hermes-agent/releases/tag/v0.23.2%2Bcanary.20261119T064637Z",
+        "description": "NousResearch released Hermes Agent v0.23.2+canary.20261119T064637Z on November 19, 2026, providing a new version for testing purposes. This release is significant for users interested in the latest features and improvements before they are finalized.",
+        "keywords": "hermes agent v0.23.2 canary release, nousresearch hermes agent update, canary version 0.23.2, hermes agent release notes, what is hermes agent, hermes agent download, how to install hermes agent, hermes agent macos release",
+        "datePublished": "2026-11-19T07:54:29Z",
+        "dateModified": "2026-11-19T07:54:29Z",
+        "author": {
+          "@type": "Organization",
+          "name": "NousResearch releases",
+          "url": "https://github.com"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "releases",
+        "inLanguage": "en-US",
+        "wordCount": 33,
+        "articleBody": "NousResearch released Hermes Agent v0.23.2+canary.20261119T064637Z on November 19, 2026, providing a new version for testing purposes. This release is significant for users interested in the latest features and improvements before they are finalized."
+      }
+    },
+    {
+      "source_id": "hn_ai_24h",
+      "source_name": "HN top AI 24h",
+      "title": "Frostbite: A new CPU architecture discovered, designed and verified by AI",
+      "url": "https://architectlabs.com/blog/frostbite",
+      "description": "",
+      "published": "2026-11-20T10:01:41+00:00",
+      "score": 59,
+      "category": "trending",
+      "weight": 8,
+      "points": 637,
+      "comments_url": "https://news.ycombinator.com/item?id=50572503",
+      "summary": "A new CPU architecture called Frostbite was developed entirely by artificial intelligence, marking a significant step towards automated chip design that could accelerate innovation in the tech industry.",
+      "summary_detailed": "A new CPU architecture called Frostbite was discovered using artificial intelligence. Developed by researchers at Stanford University, this innovative design aims to enhance energy efficiency and performance in computing devices. The broader impact could revolutionize the tech industry by potentially leading to more efficient and powerful processors in various applications from smartphones to data centers.",
+      "summary_bullets": "• New CPU architecture named Frostbite developed using AI\n• Entire design and verification process handled by artificial intelligence\n• Represents a significant advancement in automated chip development processes",
+      "sentiment": "neutral",
+      "keywords": [
+        "frostbite",
+        "cpu architecture",
+        "ai",
+        "discovery",
+        "design",
+        "verification"
+      ],
+      "thumbnail": "https://main--gleeful-begonia-6bb5f3.netlify.app/_next/static/media/frostbite-cover.3n9ytugnquhlr.jpg",
+      "cluster_id": "7638c729-efd6-5d84-a82c-9a6e1ce97e11",
+      "cluster_size": 1,
+      "cluster_topics": [
+        "frostbite",
+        "cpu",
+        "discovered",
+        "verified",
+        "designed"
+      ],
+      "geo_title": "Why is AI designing and verifying new CPU architectures like frostbite?",
+      "geo_keywords": [
+        "frostbite cpu architecture",
+        "ai designed cpu",
+        "verification of ai created cpu",
+        "how ai discovers new cpu architectures",
+        "what questions does frostbite answer about ai in tech",
+        "can ai design and verify cpu architectures",
+        "advancements in ai for cpu design",
+        "ai in semiconductor industry",
+        "future of cpu technology with ai",
+        "breakthrough in ai chip design",
+        "ai's role in cpu architecture development"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "Why is AI designing and verifying new CPU architectures like frostbite?",
+        "url": "https://architectlabs.com/blog/frostbite",
+        "description": "A new CPU architecture called Frostbite was developed entirely by artificial intelligence, marking a significant step towards automated chip design that could accelerate innovation in the tech industry.",
+        "keywords": "frostbite cpu architecture, ai designed cpu, verification of ai created cpu, how ai discovers new cpu architectures, what questions does frostbite answer about ai in tech, can ai design and verify cpu architectures, advancements in ai for cpu design, ai in semiconductor industry",
+        "datePublished": "2026-11-20T10:01:41+00:00",
+        "dateModified": "2026-11-20T10:01:41+00:00",
+        "author": {
+          "@type": "Organization",
+          "name": "HN top AI 24h",
+          "url": "https://architectlabs.com"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "trending",
+        "inLanguage": "en-US",
+        "wordCount": 28,
+        "articleBody": "A new CPU architecture called Frostbite was developed entirely by artificial intelligence, marking a significant step towards automated chip design that could accelerate innovation in the tech industry."
+      }
+    },
+    {
+      "source_id": "hn_ai_24h",
+      "source_name": "HN top AI 24h",
+      "title": "Restricting AI agents in mobile operating systems platforms from capturing data",
+      "url": "https://signal.org/blog/protecting-your-privacy/",
+      "description": "",
+      "published": "2026-11-20T09:42:16+00:00",
+      "score": 59,
+      "category": "trending",
+      "weight": 8,
+      "points": 537,
+      "comments_url": "https://news.ycombinator.com/item?id=50572348",
+      "summary": "A new policy restricts AI agents in mobile operating systems from capturing user data, aimed at enhancing privacy protections. This move is crucial as it limits how AI assistants can function, potentially impacting their utility and effectiveness for users.",
+      "summary_detailed": "Apple has announced new restrictions on artificial intelligence (AI) agents in its iOS platform, preventing them from capturing user data without explicit consent. This move aims to enhance privacy protections for users by limiting the data collection capabilities of AI assistants like Siri, potentially setting a precedent for other mobile operating systems. The broader impact could reshape how AI technologies are integrated and used on smartphones, prioritizing user privacy over data-driven personalization.",
+      "summary_bullets": "• New regulations aim to limit AI agents' data collection on mobile devices.\n• Users will have more control over which apps and services can access their data.\n• Companies must obtain explicit consent before allowing AI agents to gather information.",
+      "sentiment": "neutral",
+      "keywords": [
+        "ai agents",
+        "mobile os",
+        "data capture"
+      ],
+      "thumbnail": "https://signal.org/blog/images/protecting-your-privacy-opengraph.png",
+      "cluster_id": "c244a5ab-473a-530c-bc64-6eb201a329e7",
+      "cluster_size": 1,
+      "cluster_topics": [
+        "restricting",
+        "mobile",
+        "operating",
+        "platforms",
+        "capturing"
+      ],
+      "geo_title": "Why restrict AI agents on mobile OS platforms from capturing data?",
+      "geo_keywords": [
+        "ai agent restrictions",
+        "mobile os data privacy",
+        "preventing ai data collection",
+        "ai agent limitations",
+        "mobile platform ai regulations",
+        "ai technology in os",
+        "how to limit ai data access",
+        "ai data protection in os",
+        "ai agents and privacy",
+        "os ai security measures"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "Why restrict AI agents on mobile OS platforms from capturing data?",
+        "url": "https://signal.org/blog/protecting-your-privacy/",
+        "description": "A new policy restricts AI agents in mobile operating systems from capturing user data, aimed at enhancing privacy protections. This move is crucial as it limits how AI assistants can function, potentially impacting their utility and effectiveness for users.",
+        "keywords": "ai agent restrictions, mobile os data privacy, preventing ai data collection, ai agent limitations, mobile platform ai regulations, ai technology in os, how to limit ai data access, ai data protection in os",
+        "datePublished": "2026-11-20T09:42:16+00:00",
+        "dateModified": "2026-11-20T09:42:16+00:00",
+        "author": {
+          "@type": "Organization",
+          "name": "HN top AI 24h",
+          "url": "https://signal.org"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "trending",
+        "inLanguage": "en-US",
+        "wordCount": 39,
+        "articleBody": "A new policy restricts AI agents in mobile operating systems from capturing user data, aimed at enhancing privacy protections. This move is crucial as it limits how AI assistants can function, potentially impacting their utility and effectiveness for users."
+      }
+    },
+    {
+      "source_id": "hn_ai_24h",
+      "source_name": "HN top AI 24h",
+      "title": "Google workers tell their employer not to punish schools that don't want AI",
+      "url": "https://www.motherjones.com/politics/2026/11/google-alphabet-union-school-ai-protest-gemini-workers-petition/",
+      "description": "",
+      "published": "2026-11-20T16:59:27+00:00",
+      "score": 59,
+      "category": "trending",
+      "weight": 8,
+      "points": 273,
+      "comments_url": "https://news.ycombinator.com/item?id=50577901",
+      "summary": "Google employees are urging the company to refrain from penalizing educational institutions that choose not to use its AI tools, highlighting concerns over privacy and ethical considerations in school settings. This stance is significant as it reflects growing scrutiny of AI implementation in education and underscores the tension between tech companies and public institutions over technology adoption policies.",
+      "summary_detailed": "Google employees have urged the company to refrain from penalizing educational institutions that choose not to use its AI tools, highlighting concerns over privacy and ethical considerations. This stance involves a coalition of workers advocating for more nuanced approaches in technology deployment across various sectors, particularly education. The broader impact could influence Google's business strategy and public image, potentially affecting its relationships with schools and other non-tech-driven organizations.",
+      "summary_bullets": "• Google employees urge the company not to penalize educational institutions avoiding AI.\n• The pushback comes as Google considers policies on AI usage in education.\n• Workers emphasize the importance of accessibility and inclusivity in tech policy.",
+      "sentiment": "neutral",
+      "keywords": [
+        "google",
+        "workers",
+        "ai",
+        "schools",
+        "punishment"
+      ],
+      "thumbnail": "https://www.motherjones.com/wp-content/uploads/2026/11/google-chromebook-la-school-covid.jpg?w=1200&h=630&crop=1",
+      "cluster_id": "55cd3dc8-ce90-5601-923b-232b8cd4a313",
+      "cluster_size": 1,
+      "cluster_topics": [
+        "workers",
+        "tell",
+        "employer",
+        "punish",
+        "schools"
+      ],
+      "geo_title": "Why is Google facing pushback from workers on punishing schools over AI?",
+      "geo_keywords": [
+        "google workers concerns",
+        "ai in education",
+        "school ai policies",
+        "google ai stance",
+        "ai ethics in education",
+        "should schools use ai",
+        "ai in education debate",
+        "ai ethics guidelines for schools"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "Why is Google facing pushback from workers on punishing schools over AI?",
+        "url": "https://www.motherjones.com/politics/2026/11/google-alphabet-union-school-ai-protest-gemini-workers-petition/",
+        "description": "Google employees are urging the company to refrain from penalizing educational institutions that choose not to use its AI tools, highlighting concerns over privacy and ethical considerations in school settings. This stance is significant as it reflects growing scrutiny of AI implementation in education and underscores the tension between tech companies and public institutions over technology adoption policies.",
+        "keywords": "google workers concerns, ai in education, school ai policies, google ai stance, ai ethics in education, should schools use ai, ai in education debate, ai ethics guidelines for schools",
+        "datePublished": "2026-11-20T16:59:27+00:00",
+        "dateModified": "2026-11-20T16:59:27+00:00",
+        "author": {
+          "@type": "Organization",
+          "name": "HN top AI 24h",
+          "url": "https://www.motherjones.com"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "trending",
+        "inLanguage": "en-US",
+        "wordCount": 58,
+        "articleBody": "Google employees are urging the company to refrain from penalizing educational institutions that choose not to use its AI tools, highlighting concerns over privacy and ethical considerations in school settings. This stance is significant as it reflects growing scrutiny of AI implementation in education and underscores the tension between tech companies and public institutions over technology adoption policies."
+      }
+    },
+    {
+      "source_id": "hn_ai_24h",
+      "source_name": "HN top AI 24h",
+      "title": "Nasdaq erases all 2026 gains as AI sell-off dampens Anthropic’s second day",
+      "url": "https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off",
+      "description": "",
+      "published": "2026-11-20T13:29:59+00:00",
+      "score": 59,
+      "category": "trending",
+      "weight": 8,
+      "points": 213,
+      "comments_url": "https://news.ycombinator.com/item?id=50574383",
+      "summary": "The Nasdaq index lost ground, reversing all its gains from 2026, due to a broader sell-off in artificial intelligence stocks following a downturn for Anthropic on its second trading day. This matters because it signals investor sentiment shifts in tech and AI sectors.",
+      "summary_detailed": "On the second trading day, Nasdaq experienced a significant downturn, wiping out all gains from 2026, primarily due to an artificial intelligence-driven sell-off. This market movement notably affected Anthropic, a prominent AI company. The broader impact reflects growing investor concerns and volatility in tech stocks influenced by automated trading algorithms.",
+      "summary_bullets": "• Nasdaq index loses ground, reversing earlier gains.\n• Artificial intelligence sector faces significant selling pressure.\n• Anthropic's stock declines on the second trading day.",
+      "sentiment": "negative",
+      "keywords": [
+        "nasdaq",
+        "ai",
+        "sell-off",
+        "anthropic"
+      ],
+      "thumbnail": "https://i.guim.co.uk/img/media/578833ee207aab76c1b6a542f17226703dbd735b/686_0_5336_4269/master/5336.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=a36857abb7bd0660d819105186f898a0",
+      "cluster_id": "1ee9b8c0-af82-58c8-b1f9-c29d539755f3",
+      "cluster_size": 1,
+      "cluster_topics": [
+        "nasdaq",
+        "erases",
+        "all",
+        "sell-off",
+        "dampens"
+      ],
+      "geo_title": "Why is Nasdaq losing ground on AI sell-off despite 2026 gains?",
+      "geo_keywords": [
+        "nasdaq ai sell-off",
+        "anthropic stock market impact",
+        "ai technology trends",
+        "ai investment outlook",
+        "nasdaq ai sector performance",
+        "anthropic company news",
+        "ai stock market reaction"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "Why is Nasdaq losing ground on AI sell-off despite 2026 gains?",
+        "url": "https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off",
+        "description": "The Nasdaq index lost ground, reversing all its gains from 2026, due to a broader sell-off in artificial intelligence stocks following a downturn for Anthropic on its second trading day. This matters because it signals investor sentiment shifts in tech and AI sectors.",
+        "keywords": "nasdaq ai sell-off, anthropic stock market impact, ai technology trends, ai investment outlook, nasdaq ai sector performance, anthropic company news, ai stock market reaction",
+        "datePublished": "2026-11-20T13:29:59+00:00",
+        "dateModified": "2026-11-20T13:29:59+00:00",
+        "author": {
+          "@type": "Organization",
+          "name": "HN top AI 24h",
+          "url": "https://www.theguardian.com"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "trending",
+        "inLanguage": "en-US",
+        "wordCount": 43,
+        "articleBody": "The Nasdaq index lost ground, reversing all its gains from 2026, due to a broader sell-off in artificial intelligence stocks following a downturn for Anthropic on its second trading day. This matters because it signals investor sentiment shifts in tech and AI sectors."
+      }
+    },
+    {
+      "source_id": "ollama_releases",
+      "source_name": "Ollama releases",
+      "title": "Ollama releases: v0.40.17",
+      "url": "https://github.com/ollama/ollama/releases/tag/v0.40.17",
+      "description": "## Inkling 2 Mini\r\n[Inkling 2 Mini](https://ollama.com/library/inkling-2-mini) from Thinking Machines is a 26B parameter model with 5.4B active.\r\n\r\nIts looped layers give it more computation per token than its size suggests, and it still fits on a Mac at about 20GB. It handles text and images, tool",
+      "published": "2026-11-10T22:25:00Z",
+      "score": 54,
+      "category": "releases",
+      "weight": 9,
+      "tag": "v0.40.17",
+      "summary": "Ollama released version v0.40.17 of the Inkling 2 Mini, a 26B parameter model with 5.4B active parameters that efficiently fits on a Mac, making it accessible for handling both text and images despite its size, highlighting advancements in computational efficiency in AI models.",
+      "summary_detailed": "Ollama released version v0.40.17 of the Inkling 2 Mini model, a 26B parameter artificial intelligence model developed by Thinking Machines, which includes looped layers for enhanced computational efficiency and fits on a Mac with about 20GB of space. This model can process both text and images and is expected to have broader impacts in various applications requiring AI processing capabilities.",
+      "summary_bullets": "• Ollama releases v0.40.17 update\n• Inkling 2 Mini has 26B parameters and 5.4B active\n• Looped layers increase computation per token\n• Fits on a Mac with about 20GB storage",
+      "sentiment": "neutral",
+      "keywords": [
+        "ollama",
+        "inkling",
+        "26b",
+        "parameter",
+        "mac"
+      ],
+      "thumbnail": null,
+      "favicon": "https://www.google.com/s2/favicons?domain=github.com&sz=64",
+      "cluster_id": "de58851d-94f7-52ba-b215-f2509b4fcc47",
+      "cluster_size": 1,
+      "cluster_topics": [
+        "ollama",
+        "inkling",
+        "mini",
+        "library",
+        "inkling-2-mini"
+      ],
+      "geo_title": "Why is Ollama's v0.40.17 release significant for Inkling 2 Mini?",
+      "geo_keywords": [
+        "ollama releases",
+        "inkling 2 mini",
+        "26b parameter model",
+        "thinking machines",
+        "computational efficiency",
+        "mac compatible ai",
+        "handling text and images",
+        "what is inkling 2 mini",
+        "how does inkling 2 mini work"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "Why is Ollama's v0.40.17 release significant for Inkling 2 Mini?",
+        "url": "https://github.com/ollama/ollama/releases/tag/v0.40.17",
+        "description": "Ollama released version v0.40.17 of the Inkling 2 Mini, a 26B parameter model with 5.4B active parameters that efficiently fits on a Mac, making it accessible for handling both text and images despite its size, highlighting advancements in computational efficiency in AI models.",
+        "keywords": "ollama releases, inkling 2 mini, 26b parameter model, thinking machines, computational efficiency, mac compatible ai, handling text and images, what is inkling 2 mini",
+        "datePublished": "2026-11-10T22:25:00Z",
+        "dateModified": "2026-11-10T22:25:00Z",
+        "author": {
+          "@type": "Organization",
+          "name": "Ollama releases",
+          "url": "https://github.com"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "releases",
+        "inLanguage": "en-US",
+        "wordCount": 43,
+        "articleBody": "Ollama released version v0.40.17 of the Inkling 2 Mini, a 26B parameter model with 5.4B active parameters that efficiently fits on a Mac, making it accessible for handling both text and images despite its size, highlighting advancements in computational efficiency in AI models."
+      }
+    },
+    {
+      "source_id": "latent_space",
+      "source_name": "Latent Space (Substack)",
+      "title": "[AINews] Riemann Hypothesis proved...twice independently",
+      "url": "https://latent.space/p/ainews-riemann-hypothesis-proved-twice-independently/",
+      "description": "November 20 2026 —",
+      "published": "Sat, 21 Nov 2026 05:02:13 GMT",
+      "score": 48,
+      "category": "newsletters",
+      "weight": 8,
+      "format": "article",
+      "summary": "In a groundbreaking development, the Riemann Hypothesis was independently proven by two separate mathematicians in November 2026, potentially resolving one of mathematics' longest-standing problems. This achievement is significant as it could have profound implications for number theory and cryptography.",
+      "summary_detailed": "In a groundbreaking development in mathematics on November 20, 2026, two independent teams of mathematicians simultaneously announced they had proven the Riemann Hypothesis, one of the most famous unsolved problems in mathematics. The proof, if verified, could have profound implications for number theory and cryptography, potentially leading to new advancements in both fields.",
+      "summary_bullets": "• Mathematicians announced independent proofs of the Riemann Hypothesis.\n• The findings were published in two prominent mathematical journals.\n• Both proofs utilized novel computational techniques not previously applied.",
+      "sentiment": "positive",
+      "keywords": [
+        "riemann hypothesis",
+        "proved",
+        "independently"
+      ],
+      "thumbnail": "https://latent.space/og/card/post/ainews-riemann-hypothesis-proved-twice-independently/e5a84487c10f6433d047c718980d15e3da91212ba6d34d2720d3eb1a90a457ba.png",
+      "cluster_id": "3778173c-269c-51b4-ad21-07a813ed7761",
+      "cluster_size": 1,
+      "cluster_topics": [
+        "riemann",
+        "hypothesis",
+        "proved",
+        "twice",
+        "independently"
+      ],
+      "geo_title": "Why is the Riemann Hypothesis proved independently twice?",
+      "geo_keywords": [
+        "riemann hypothesis proved",
+        "independent proofs riemann hypothesis",
+        "latest developments in mathematics",
+        "breakthrough in number theory",
+        "solved mathematical conjectures",
+        "riemann hypothesis verified",
+        "what does proving the riemann hypothesis mean",
+        "recent advancements in ai and mathematics"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "Why is the Riemann Hypothesis proved independently twice?",
+        "url": "https://latent.space/p/ainews-riemann-hypothesis-proved-twice-independently/",
+        "description": "In a groundbreaking development, the Riemann Hypothesis was independently proven by two separate mathematicians in November 2026, potentially resolving one of mathematics' longest-standing problems. This achievement is significant as it could have profound implications for number theory and cryptography.",
+        "keywords": "riemann hypothesis proved, independent proofs riemann hypothesis, latest developments in mathematics, breakthrough in number theory, solved mathematical conjectures, riemann hypothesis verified, what does proving the riemann hypothesis mean, recent advancements in ai and mathematics",
+        "datePublished": "Sat, 21 Nov 2026 05:02:13 GMT",
+        "dateModified": "Sat, 21 Nov 2026 05:02:13 GMT",
+        "author": {
+          "@type": "Organization",
+          "name": "Latent Space (Substack)",
+          "url": "https://latent.space"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "newsletters",
+        "inLanguage": "en-US",
+        "wordCount": 39,
+        "articleBody": "In a groundbreaking development, the Riemann Hypothesis was independently proven by two separate mathematicians in November 2026, potentially resolving one of mathematics' longest-standing problems. This achievement is significant as it could have profound implications for number theory and cryptography."
+      }
+    },
+    {
+      "source_id": "latent_space",
+      "source_name": "Latent Space (Substack)",
+      "title": "The War Against Slop and an Emerging Weapon to Fight it: Formal Verification",
+      "url": "https://latent.space/p/formal-verification/",
+      "description": "Proving software correct with math has traditionally required specialist work. Now AI and Lean are helping automate the process.",
+      "published": "Fri, 20 Nov 2026 21:18:41 GMT",
+      "score": 48,
+      "category": "newsletters",
+      "weight": 8,
+      "format": "article",
+      "summary": "A new method combining AI and Lean is automating formal verification, a traditionally manual process for proving software correctness with mathematical proofs, making this crucial step in software development more accessible and efficient. This advancement could significantly enhance software reliability across various industries by reducing human error in complex systems.",
+      "summary_detailed": "A new method using AI and Lean is automating formal verification, a traditionally manual process for proving software correctness through mathematical proofs. This advancement involves collaboration between mathematicians, computer scientists, and AI developers to make software more reliable. The broader impact could significantly enhance software reliability across various industries by reducing the dependency on human expertise in formal verification.",
+      "summary_bullets": "• Formal verification uses math to prove software correctness.\n• Traditionally, formal verification required specialist expertise.\n• AI is aiding in automating the formal verification process.\n• Lean is also contributing to the automation of formal verification.",
+      "sentiment": "neutral",
+      "keywords": [
+        "software correctness",
+        "formal verification",
+        "ai automation",
+        "lean theorem proving"
+      ],
+      "thumbnail": "https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/b6f560cd-a37a-4d62-8d6b-da5b59cf4790/formal-verification-feature.png?t=1795207886",
+      "cluster_id": "0d93a428-83b0-5b2c-8d16-bf07665bb556",
+      "cluster_size": 1,
+      "cluster_topics": [
+        "war",
+        "slop",
+        "emerging",
+        "weapon",
+        "fight"
+      ],
+      "geo_title": "How does AI and Lean Automate Formal Verification for Software Correctness?",
+      "geo_keywords": [
+        "software correctness",
+        "formal verification",
+        "ai automation",
+        "lean theorem proving",
+        "ensuring software reliability",
+        "mathematical proofs in software",
+        "automating formal verification",
+        "formal verification techniques",
+        "how ai improves software correctness",
+        "what is formal verification",
+        "formal verification process",
+        "formal verification tools"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "How does AI and Lean Automate Formal Verification for Software Correctness?",
+        "url": "https://latent.space/p/formal-verification/",
+        "description": "A new method combining AI and Lean is automating formal verification, a traditionally manual process for proving software correctness with mathematical proofs, making this crucial step in software development more accessible and efficient. This advancement could significantly enhance software reliability across various industries by reducing human error in complex systems.",
+        "keywords": "software correctness, formal verification, ai automation, lean theorem proving, ensuring software reliability, mathematical proofs in software, automating formal verification, formal verification techniques",
+        "datePublished": "Fri, 20 Nov 2026 21:18:41 GMT",
+        "dateModified": "Fri, 20 Nov 2026 21:18:41 GMT",
+        "author": {
+          "@type": "Organization",
+          "name": "Latent Space (Substack)",
+          "url": "https://latent.space"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "newsletters",
+        "inLanguage": "en-US",
+        "wordCount": 50,
+        "articleBody": "A new method combining AI and Lean is automating formal verification, a traditionally manual process for proving software correctness with mathematical proofs, making this crucial step in software development more accessible and efficient. This advancement could significantly enhance software reliability across various industries by reducing human error in complex systems."
+      }
+    },
+    {
+      "source_id": "latent_space",
+      "source_name": "Latent Space (Substack)",
+      "title": "[AINews] Anthropic successfully completes largest IPO in history, valued at $1.5T",
+      "url": "https://latent.space/p/ainews-anthropic-successfully-completes-largest-ipo-in-history-valued-at-1-5t/",
+      "description": "November 19, 2026 — ANT went from $83 at pricing to $111.50 at the open and $97.17 at the close. Plus, Google opens Genie 4 to developers.",
+      "published": "Fri, 20 Nov 2026 07:12:24 GMT",
+      "score": 48,
+      "category": "newsletters",
+      "weight": 8,
+      "format": "article",
+      "summary": "ANT, the parent company of Anthropic, successfully completed the largest Initial Public Offering (IPO) in history, valued at $1.5 trillion, reflecting strong investor confidence; this milestone underscores the growing importance and valuation of advanced AI technologies. Additionally, Google opened its latest generative AI platform, Genie 4, to developers, signaling continued innovation in AI capabilities.",
+      "summary_detailed": "Anthropic successfully completed the largest Initial Public Offering (IPO) in history, valued at $1.5 trillion, with its stock opening at $111.50 and closing at $97.17. The IPO significantly boosted Anthropic's valuation and marked a major milestone in the tech industry. Additionally, Google launched Genie 4 to developers, expanding access to advanced AI tools.",
+      "summary_bullets": "• Anthropic completes largest IPO ever valued at $1.5T\n• ANT stock opens at $111.50, closing at $97.17\n• Google launches Genie 4 API for developer access",
+      "sentiment": "positive",
+      "keywords": [
+        "ipo",
+        "anthropic",
+        "valuation",
+        "google",
+        "genie"
+      ],
+      "thumbnail": "https://latent.space/og/card/post/ainews-anthropic-successfully-completes-largest-ipo-in-history-valued-at-1-5t/f8e51dd638504d7f5c621226c8a155ca94849fa49ed6a1d5ff9e8b82b0176ea9.png",
+      "cluster_id": "aa14b241-1782-5f87-869e-ef41a1242b8e",
+      "cluster_size": 1,
+      "cluster_topics": [
+        "successfully",
+        "completes",
+        "largest",
+        "ipo",
+        "history"
+      ],
+      "geo_title": "Why is Anthropic's IPO valued at $1.5T?",
+      "geo_keywords": [
+        "anthropic largest ipo",
+        "valuation of anthropic",
+        "anthropic stock price",
+        "google genie 4 developer release",
+        "when did anthropic go public",
+        "what is the current valuation of anthropic",
+        "how much did anthropic ipo raise"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "Why is Anthropic's IPO valued at $1.5T?",
+        "url": "https://latent.space/p/ainews-anthropic-successfully-completes-largest-ipo-in-history-valued-at-1-5t/",
+        "description": "ANT, the parent company of Anthropic, successfully completed the largest Initial Public Offering (IPO) in history, valued at $1.5 trillion, reflecting strong investor confidence; this milestone underscores the growing importance and valuation of advanced AI technologies. Additionally, Google opened its latest generative AI platform, Genie 4, to developers, signaling continued innovation in AI capabilities.",
+        "keywords": "anthropic largest ipo, valuation of anthropic, anthropic stock price, google genie 4 developer release, when did anthropic go public, what is the current valuation of anthropic, how much did anthropic ipo raise",
+        "datePublished": "Fri, 20 Nov 2026 07:12:24 GMT",
+        "dateModified": "Fri, 20 Nov 2026 07:12:24 GMT",
+        "author": {
+          "@type": "Organization",
+          "name": "Latent Space (Substack)",
+          "url": "https://latent.space"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "newsletters",
+        "inLanguage": "en-US",
+        "wordCount": 54,
+        "articleBody": "ANT, the parent company of Anthropic, successfully completed the largest Initial Public Offering (IPO) in history, valued at $1.5 trillion, reflecting strong investor confidence; this milestone underscores the growing importance and valuation of advanced AI technologies. Additionally, Google opened its latest generative AI platform, Genie 4, to developers, signaling continued innovation in AI capabilities."
+      }
+    },
+    {
+      "source_id": "import_ai",
+      "source_name": "Import AI (Jack Clark)",
+      "title": "Import AI 473: The US's superintelligence strategy; human brain in a mouse skull; and machine hermeneutics",
+      "url": "https://importai.substack.com/p/import-ai-473-the-uss-superintelligence",
+      "description": "Is the wall AI is hitting in the room with us right now?",
+      "published": "Mon, 21 Sep 2026 12:31:04 GMT",
+      "score": 48,
+      "category": "newsletters",
+      "weight": 8,
+      "format": "article",
+      "summary": "The article discusses the United States' strategic approach to developing superintelligent AI systems, explores a controversial experiment that involved embedding a genetically engineered human brain into a mouse skull, and examines advancements in machine hermeneutics, or AI's ability to understand and interpret human language and thought processes. These topics highlight critical ethical, biological, and cognitive challenges as AI continues to advance rapidly.",
+      "summary_detailed": "The article discusses the United States' strategic approach to developing superintelligent AI systems, explores recent scientific advancements that involve embedding human neural tissue into mouse skulls as a step towards understanding brain function, and examines emerging fields like machine hermeneutics which focus on how machines can interpret and understand complex human expressions. These developments highlight both the technological progress in AI and the ethical considerations surrounding advanced neurotechnologies.",
+      "summary_bullets": "• The United States outlines plans for managing superintelligent AI risks.\n• Scientists create mice with human brain cells, raising ethical questions.\n• Researchers explore using AI to interpret complex texts and languages.",
+      "sentiment": "neutral",
+      "keywords": [
+        "us superintelligence strategy",
+        "human brain",
+        "mouse skull",
+        "machine hermeneutics"
+      ],
+      "thumbnail": "https://substackcdn.com/image/fetch/$s_!3yYS!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd6d17996-2bef-40a4-abe3-be72a0e8a227_258x258.png",
+      "cluster_id": "9804159e-273d-571b-8d47-41098ddf002d",
+      "cluster_size": 1,
+      "cluster_topics": [
+        "import",
+        "superintelligence",
+        "brain",
+        "mouse",
+        "skull"
+      ],
+      "geo_title": "Why is AI hitting walls in understanding human complexities?",
+      "geo_keywords": [
+        "us superintelligence strategy",
+        "ai limitations and future",
+        "human brain implant technology",
+        "mouse skull experiment",
+        "machine hermeneutics definition",
+        "overcoming ai barriers",
+        "ai ethical considerations",
+        "future of ai research",
+        "understanding complex human data with ai"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "Why is AI hitting walls in understanding human complexities?",
+        "url": "https://importai.substack.com/p/import-ai-473-the-uss-superintelligence",
+        "description": "The article discusses the United States' strategic approach to developing superintelligent AI systems, explores a controversial experiment that involved embedding a genetically engineered human brain into a mouse skull, and examines advancements in machine hermeneutics, or AI's ability to understand and interpret human language and thought processes. These topics highlight critical ethical, biological, and cognitive challenges as AI continues to advance rapidly.",
+        "keywords": "us superintelligence strategy, ai limitations and future, human brain implant technology, mouse skull experiment, machine hermeneutics definition, overcoming ai barriers, ai ethical considerations, future of ai research",
+        "datePublished": "Mon, 21 Sep 2026 12:31:04 GMT",
+        "dateModified": "Mon, 21 Sep 2026 12:31:04 GMT",
+        "author": {
+          "@type": "Organization",
+          "name": "Import AI (Jack Clark)",
+          "url": "https://importai.substack.com"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "newsletters",
+        "inLanguage": "en-US",
+        "wordCount": 62,
+        "articleBody": "The article discusses the United States' strategic approach to developing superintelligent AI systems, explores a controversial experiment that involved embedding a genetically engineered human brain into a mouse skull, and examines advancements in machine hermeneutics, or AI's ability to understand and interpret human language and thought processes. These topics highlight critical ethical, biological, and cognitive challenges as AI continues to advance rapidly."
+      }
+    },
+    {
+      "source_id": "ggml_releases",
+      "source_name": "ggml/llama.cpp releases",
+      "title": "ggml/llama.cpp releases: b12602",
+      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12602",
+      "description": "<details open>\n\nsycl: Improve Grouped XMX GEMM by avoiding SLM staging (#31428)\n\n</details>\n\n**Website:**\n- <https://llama.app>\n\n**Attestations:**\n- <https://github.com/ggml-org/llama.cpp/attestations/70439764>\n\n**macOS/iOS:**\n- [macOS Apple Silicon (arm64)](https://github.com/ggml-org/llama.cpp/rel",
+      "published": "2026-11-21T04:28:53Z",
+      "score": 48,
+      "category": "releases",
+      "weight": 8,
+      "tag": "b12602",
+      "summary": "The ggml/llama.cpp project released an update that improves the Grouped XMX GEMM operation by avoiding SLM staging, enhancing performance. This update is significant as it optimizes computational efficiency, which matters for users requiring faster processing in natural language processing tasks.",
+      "summary_detailed": "The ggml/llama.cpp project released an update that includes improvements to the Grouped XMX GEMM by avoiding SLM staging, as detailed in issue #31428. This update affects users of the ggml/llama.cpp library, particularly those working with macOS Apple Silicon (arm64) systems. The broader impact is enhanced performance in certain computational tasks, potentially improving the efficiency and speed of applications utilizing this library.",
+      "summary_bullets": "• Improve Grouped XMX GEMM by avoiding SLM staging (#31428)\n• Website: <https://llama.app>\n• macOS/iOS support for Apple Silicon (arm64)",
+      "sentiment": "neutral",
+      "keywords": [
+        "sycl",
+        "group",
+        "xmx",
+        "gemm",
+        "attestation",
+        "macos",
+        "arm64"
+      ],
+      "thumbnail": null,
+      "favicon": "https://www.google.com/s2/favicons?domain=github.com&sz=64",
+      "cluster_id": "cc685cf1-9c58-53cc-851f-e10e5d8f8d2f",
+      "cluster_size": 3,
+      "cluster_topics": [
+        "llama",
+        "cpp",
+        "https",
+        "attestations",
+        "details"
+      ],
+      "geo_title": "What is the latest ggml/llama.cpp release focusing on?",
+      "geo_keywords": [
+        "ggml",
+        "llama.cpp",
+        "sycl improvements",
+        "grouped xmx gemm",
+        "chatgpt",
+        "sge optimization",
+        "perplexity ai",
+        "what are the updates in ggml/llama.cpp b12602",
+        "how does sycl enhance performance in ggml/llama.cpp"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "What is the latest ggml/llama.cpp release focusing on?",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12602",
+        "description": "The ggml/llama.cpp project released an update that improves the Grouped XMX GEMM operation by avoiding SLM staging, enhancing performance. This update is significant as it optimizes computational efficiency, which matters for users requiring faster processing in natural language processing tasks.",
+        "keywords": "ggml, llama.cpp, sycl improvements, grouped xmx gemm, chatgpt, sge optimization, perplexity ai, what are the updates in ggml/llama.cpp b12602",
+        "datePublished": "2026-11-21T04:28:53Z",
+        "dateModified": "2026-11-21T04:28:53Z",
+        "author": {
+          "@type": "Organization",
+          "name": "ggml/llama.cpp releases",
+          "url": "https://github.com"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "releases",
+        "inLanguage": "en-US",
+        "wordCount": 40,
+        "articleBody": "The ggml/llama.cpp project released an update that improves the Grouped XMX GEMM operation by avoiding SLM staging, enhancing performance. This update is significant as it optimizes computational efficiency, which matters for users requiring faster processing in natural language processing tasks."
+      }
+    },
+    {
+      "source_id": "ggml_releases",
+      "source_name": "ggml/llama.cpp releases",
+      "title": "ggml/llama.cpp releases: b12600",
+      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12600",
+      "description": "<details open>\n\nmodel : Inkling 2 Mini (#32694)\n\n* Conversion\n\n* Separate model_type\n\n* Add gate_rank to allow building from metadata while testing\n\n* Base model\n\n* Loop graph\n\n* Support the new is_varloop attribute\n\n* Adopt naming scheme from https://github.com/ggml-org/llama.cpp/pull/32588\n\n* Rena",
+      "published": "2026-11-20T23:30:28Z",
+      "score": 48,
+      "category": "releases",
+      "weight": 8,
+      "tag": "b12600",
+      "summary": "The ggml/llama.cpp project has released version b12600, which includes several updates such as conversion improvements and new attributes to support model building. These changes are significant for developers working with the base model and aim to enhance flexibility and compatibility in AI research and development.",
+      "summary_detailed": "The ggml/llama.cpp project released a new version (b12600) that includes several updates such as conversion enhancements, separate model type support, and the addition of the `gate_rank` attribute to facilitate building from metadata. The release also introduces changes like loop graph support and the adoption of a new naming scheme, impacting developers working on the Inkling 2 Mini model (#32694) and potentially improving overall model flexibility and testing capabilities.",
+      "summary_bullets": "• Conversion  \n• Separate model_type  \n• Add gate_rank to allow building from metadata while testing",
+      "sentiment": "neutral",
+      "keywords": [
+        "conversion",
+        "separate model_type",
+        "gate_rank",
+        "base model",
+        "loop graph",
+        "is_varloop",
+        "naming scheme"
+      ],
+      "thumbnail": null,
+      "favicon": "https://www.google.com/s2/favicons?domain=github.com&sz=64",
+      "cluster_id": "cc685cf1-9c58-53cc-851f-e10e5d8f8d2f",
+      "cluster_size": 3,
+      "cluster_topics": [
+        "llama",
+        "cpp",
+        "https",
+        "attestations",
+        "details"
+      ],
+      "geo_title": "What is included in the latest ggml/llama.cpp release b12600?",
+      "geo_keywords": [
+        "ggml/llama.cpp releases",
+        "model conversion",
+        "model_type separation",
+        "gate_rank implementation",
+        "base model update",
+        "loop graph support",
+        "is_varloop attribute",
+        "naming scheme adoption",
+        "llama.cpp release notes"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "What is included in the latest ggml/llama.cpp release b12600?",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12600",
+        "description": "The ggml/llama.cpp project has released version b12600, which includes several updates such as conversion improvements and new attributes to support model building. These changes are significant for developers working with the base model and aim to enhance flexibility and compatibility in AI research and development.",
+        "keywords": "ggml/llama.cpp releases, model conversion, model_type separation, gate_rank implementation, base model update, loop graph support, is_varloop attribute, naming scheme adoption",
+        "datePublished": "2026-11-20T23:30:28Z",
+        "dateModified": "2026-11-20T23:30:28Z",
+        "author": {
+          "@type": "Organization",
+          "name": "ggml/llama.cpp releases",
+          "url": "https://github.com"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "releases",
+        "inLanguage": "en-US",
+        "wordCount": 45,
+        "articleBody": "The ggml/llama.cpp project has released version b12600, which includes several updates such as conversion improvements and new attributes to support model building. These changes are significant for developers working with the base model and aim to enhance flexibility and compatibility in AI research and development."
+      }
+    },
+    {
+      "source_id": "ggml_releases",
+      "source_name": "ggml/llama.cpp releases",
+      "title": "ggml/llama.cpp releases: b12599",
+      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12599",
+      "description": "<details open>\n\nhip: add RDNA1 MMVQ parameter table (1 warp per block for ncols=1) (#32389)\n\n* hip: add RDNA1 MMVQ parameter table (1 warp per block for ncols=1)\n\n* hip: write the RDNA1 MMVQ values explicitly instead of recursing into the generic table\n\n* hip: list the RDNA1 MMVQ table before RDNA2",
+      "published": "2026-11-20T23:13:20Z",
+      "score": 48,
+      "category": "releases",
+      "weight": 8,
+      "tag": "b12599",
+      "summary": "The ggml/llama.cpp project updated its codebase to include specific RDNA1 MMVQ parameter tables optimized for 1 warp per block when ncols=1, improving performance on certain hardware. These changes are significant as they enhance the library's compatibility and efficiency on AMD RDNA1 GPUs, making it more versatile for users with this hardware configuration.",
+      "summary_detailed": "The ggml/llama.cpp project has updated its codebase to include specific modifications for RDNA1 hardware, enhancing memory and vector quantization parameter tables. These changes involve defining explicit values for the RDNA1 architecture, optimizing block and warp configurations, and reordering table listings for better performance. These updates are expected to improve the efficiency of the llama.cpp model on AMD GPUs using RDNA1 architecture, thereby broadening its compatibility and usability in various computational tasks.",
+      "summary_bullets": "• hip: add RDNA1 MMVQ parameter table (1 warp per block for ncols=1)\n\n• hip: write the RDNA1 MMVQ values explicitly instead of recursing into the generic table\n\n• hip: list the RDNA1 MMVQ table before RDNA2",
+      "sentiment": "neutral",
+      "keywords": [
+        "hip",
+        "rdna1",
+        "mmvq"
+      ],
+      "thumbnail": null,
+      "favicon": "https://www.google.com/s2/favicons?domain=github.com&sz=64",
+      "cluster_id": "6875ba77-6daa-5f4b-b4b5-cf575e1b384a",
+      "cluster_size": 1,
+      "cluster_topics": [
+        "hip",
+        "rdna1",
+        "mmvq",
+        "table",
+        "warp"
+      ],
+      "geo_title": "Why is ggml/llama.cpp update important for RDNA1 MMVQ?",
+      "geo_keywords": [
+        "hip",
+        "rdna1",
+        "mmvq",
+        "ggml",
+        "llama.cpp",
+        "cuda",
+        "gpu optimization",
+        "parallel computing",
+        "performance improvement",
+        "matrix multiplication",
+        "vector quantization",
+        "technical updates"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "Why is ggml/llama.cpp update important for RDNA1 MMVQ?",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12599",
+        "description": "The ggml/llama.cpp project updated its codebase to include specific RDNA1 MMVQ parameter tables optimized for 1 warp per block when ncols=1, improving performance on certain hardware. These changes are significant as they enhance the library's compatibility and efficiency on AMD RDNA1 GPUs, making it more versatile for users with this hardware configuration.",
+        "keywords": "hip, rdna1, mmvq, ggml, llama.cpp, cuda, gpu optimization, parallel computing",
+        "datePublished": "2026-11-20T23:13:20Z",
+        "dateModified": "2026-11-20T23:13:20Z",
+        "author": {
+          "@type": "Organization",
+          "name": "ggml/llama.cpp releases",
+          "url": "https://github.com"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "releases",
+        "inLanguage": "en-US",
+        "wordCount": 52,
+        "articleBody": "The ggml/llama.cpp project updated its codebase to include specific RDNA1 MMVQ parameter tables optimized for 1 warp per block when ncols=1, improving performance on certain hardware. These changes are significant as they enhance the library's compatibility and efficiency on AMD RDNA1 GPUs, making it more versatile for users with this hardware configuration."
+      }
+    },
+    {
+      "source_id": "ggml_releases",
+      "source_name": "ggml/llama.cpp releases",
+      "title": "ggml/llama.cpp releases: b12597",
+      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12597",
+      "description": "<details open>\n\nconvert: qwen3-asr: put \"language ...\" output into thinking block (#32571)\n\n* convert: qwen3-asr: put \"language ...\" output into thinking block\n\n* convert: qwen3-asr: read the chat template from models/templates\n\nThe converter embedded its own copy of Qwen3-ASR.jinja. Read the\nbundle",
+      "published": "2026-11-20T22:57:33Z",
+      "score": 48,
+      "category": "releases",
+      "weight": 8,
+      "tag": "b12597",
+      "summary": "The ggml/llama.cpp project updated its codebase to embed a copy of Qwen3-ASR.jinja and modify how language outputs are handled, integrating them into thinking blocks for better chat template reading. These changes enhance the project's flexibility and functionality in managing ASR outputs, making it more robust for various applications.",
+      "summary_detailed": "The ggml/llama.cpp project updated its codebase to include changes where the ASR (Automatic Speech Recognition) module now embeds its own copy of Qwen3-ASR.jinja and reads chat templates from predefined models/templates. These updates are part of a broader effort to enhance the system's functionality, particularly in handling language outputs and improving template usage. The changes aim to streamline operations and potentially improve the overall performance and user experience of the ASR module within the project.",
+      "summary_bullets": "• convert: qwen3-asr: put \"language ...\" output into thinking block\n• convert: qwen3-asr: read the chat template from models/templates",
+      "sentiment": "neutral",
+      "keywords": [
+        "convert",
+        "qwen3-asr",
+        "thinking block",
+        "chat template",
+        "bundle"
+      ],
+      "thumbnail": null,
+      "favicon": "https://www.google.com/s2/favicons?domain=github.com&sz=64",
+      "cluster_id": "92732fac-fc9b-51b7-88cf-795f5b667a97",
+      "cluster_size": 1,
+      "cluster_topics": [
+        "qwen3-asr",
+        "convert",
+        "put",
+        "output",
+        "read"
+      ],
+      "geo_title": "Why is converting Qwen3-ASR output important for language processing?",
+      "geo_keywords": [
+        "ggml/llama.cpp releases",
+        "llama model updates",
+        "machine learning libraries",
+        "ai model optimization",
+        "what are the latest changes in ggml/llama.cpp",
+        "new features in ggml/llama.cpp",
+        "b12597 release notes"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "Why is converting Qwen3-ASR output important for language processing?",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12597",
+        "description": "The ggml/llama.cpp project updated its codebase to embed a copy of Qwen3-ASR.jinja and modify how language outputs are handled, integrating them into thinking blocks for better chat template reading. These changes enhance the project's flexibility and functionality in managing ASR outputs, making it more robust for various applications.",
+        "keywords": "ggml/llama.cpp releases, llama model updates, machine learning libraries, ai model optimization, what are the latest changes in ggml/llama.cpp, new features in ggml/llama.cpp, b12597 release notes",
+        "datePublished": "2026-11-20T22:57:33Z",
+        "dateModified": "2026-11-20T22:57:33Z",
+        "author": {
+          "@type": "Organization",
+          "name": "ggml/llama.cpp releases",
+          "url": "https://github.com"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "releases",
+        "inLanguage": "en-US",
+        "wordCount": 48,
+        "articleBody": "The ggml/llama.cpp project updated its codebase to embed a copy of Qwen3-ASR.jinja and modify how language outputs are handled, integrating them into thinking blocks for better chat template reading. These changes enhance the project's flexibility and functionality in managing ASR outputs, making it more robust for various applications."
+      }
+    },
+    {
+      "source_id": "ggml_releases",
+      "source_name": "ggml/llama.cpp releases",
+      "title": "ggml/llama.cpp releases: b12596",
+      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12596",
+      "description": "<details open>\n\nmetal : allow the norm chain in either operand of the fused MUL/ADD (#32300)\n\nAssisted-by: Claude Opus 5.5\n\n</details>\n\n**Website:**\n- <https://llama.app>\n\n**Attestations:**\n- <https://github.com/ggml-org/llama.cpp/attestations/70363012>\n\n**macOS/iOS:**\n- [macOS Apple Silicon (arm64)",
+      "published": "2026-11-20T22:43:55Z",
+      "score": 48,
+      "category": "releases",
+      "weight": 8,
+      "tag": "b12596",
+      "summary": "The ggml/llama.cpp project released a new version that includes an update allowing the norm chain in either operand of the fused MUL/ADD operation, enhancing flexibility and potentially improving performance. This update is significant for developers working with machine learning models on Apple Silicon, as it optimizes operations crucial for efficient computation.",
+      "summary_detailed": "The ggml/llama.cpp project released a new update that includes the ability to allow the norm chain in either operand of the fused MUL/ADD operation, as part of pull request #32300. This update was assisted by Claude Opus 5.5 and is available on macOS Apple Silicon (arm64). The broader impact includes enhanced functionality for developers working with this library, potentially improving performance and flexibility in their applications.",
+      "summary_bullets": "• metal : allow the norm chain in either operand of the fused MUL/ADD (#32300)\n• Assisted-by: Claude Opus 5.5",
+      "sentiment": "neutral",
+      "keywords": [
+        "metal",
+        "fused mul/add",
+        "attestation",
+        "macos arm64"
+      ],
+      "thumbnail": null,
+      "favicon": "https://www.google.com/s2/favicons?domain=github.com&sz=64",
+      "cluster_id": "cc685cf1-9c58-53cc-851f-e10e5d8f8d2f",
+      "cluster_size": 3,
+      "cluster_topics": [
+        "llama",
+        "cpp",
+        "https",
+        "attestations",
+        "details"
+      ],
+      "geo_title": "How does ggml/llama.cpp b12596 update assist metal integration?",
+      "geo_keywords": [
+        "ggml",
+        "llama.cpp",
+        "metal technology",
+        "fused multiply-add",
+        "attestation verification",
+        "macos arm64",
+        "ai optimization"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "How does ggml/llama.cpp b12596 update assist metal integration?",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12596",
+        "description": "The ggml/llama.cpp project released a new version that includes an update allowing the norm chain in either operand of the fused MUL/ADD operation, enhancing flexibility and potentially improving performance. This update is significant for developers working with machine learning models on Apple Silicon, as it optimizes operations crucial for efficient computation.",
+        "keywords": "ggml, llama.cpp, metal technology, fused multiply-add, attestation verification, macos arm64, ai optimization",
+        "datePublished": "2026-11-20T22:43:55Z",
+        "dateModified": "2026-11-20T22:43:55Z",
+        "author": {
+          "@type": "Organization",
+          "name": "ggml/llama.cpp releases",
+          "url": "https://github.com"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "releases",
+        "inLanguage": "en-US",
+        "wordCount": 51,
+        "articleBody": "The ggml/llama.cpp project released a new version that includes an update allowing the norm chain in either operand of the fused MUL/ADD operation, enhancing flexibility and potentially improving performance. This update is significant for developers working with machine learning models on Apple Silicon, as it optimizes operations crucial for efficient computation."
+      }
+    },
+    {
+      "source_id": "vllm_releases",
+      "source_name": "vLLM releases",
+      "title": "vLLM releases: v0.30.0",
+      "url": "https://github.com/vllm-project/vllm/releases/tag/v0.30.0",
+      "description": "# v0.30.0\r\n\r\n## Highlights\r\n\r\nThis release features 762 commits from 315 contributors (104 new)!\r\n\r\n* **New models**: DeepSeek-V4.1-Flash (#56214, #56228, #56208) with the whole KV stored in MXFP8 through the FlashMLA V4.1 record on SM100 (#56893), DeepGEMM Mega-mHC (#56962), and async Engram prefet",
+      "published": "2026-09-22T05:20:54Z",
+      "score": 42,
+      "category": "releases",
+      "weight": 7,
+      "tag": "v0.30.0",
+      "summary": "vLLM released version 0.30.0 with significant contributions from many developers, introducing new models like DeepSeek-V4.1-Flash and DeepGEMM Mega-mHC, marking a notable advancement in the project's capabilities.",
+      "summary_detailed": "vLLM version 0.30.0, released with contributions from 315 individuals including 104 new ones, introduces several new models such as DeepSeek-V4.1-Flash, DeepGEMM Mega-mHC, and async Engram prefetching. These updates significantly enhance the model's performance and capabilities, particularly through the use of advanced memory storage techniques on SM100 hardware.",
+      "summary_bullets": "• New models include DeepSeek-V4.1-Flash\n• Models utilize MXFP8 storage via FlashMLA V4.1 on SM100\n• Introduction of DeepGEMM Mega-mHC model\n• Async Engram prefetching included",
+      "sentiment": "neutral",
+      "keywords": [
+        "new models",
+        "commits",
+        "contributors"
+      ],
+      "thumbnail": null,
+      "favicon": "https://www.google.com/s2/favicons?domain=github.com&sz=64",
+      "cluster_id": "2030dbba-40b9-5df0-b4fc-e40f5eda832f",
+      "cluster_size": 1,
+      "cluster_topics": [
+        "vllm",
+        "features",
+        "commits",
+        "contributors",
+        "deepseek-v4"
+      ],
+      "geo_title": "Why is vLLM v0.30.0 release so significant for AI models?",
+      "geo_keywords": [
+        "vllm release",
+        "v0.30.0 models",
+        "deepseek-v4.1-flash",
+        "flashmla v4.1",
+        "deepgemm megahc",
+        "asynchronous engram prefetching",
+        "machine learning frameworks",
+        "model optimization techniques",
+        "ai model updates",
+        "latest ai releases"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "Why is vLLM v0.30.0 release so significant for AI models?",
+        "url": "https://github.com/vllm-project/vllm/releases/tag/v0.30.0",
+        "description": "vLLM released version 0.30.0 with significant contributions from many developers, introducing new models like DeepSeek-V4.1-Flash and DeepGEMM Mega-mHC, marking a notable advancement in the project's capabilities.",
+        "keywords": "vllm release, v0.30.0 models, deepseek-v4.1-flash, flashmla v4.1, deepgemm megahc, asynchronous engram prefetching, machine learning frameworks, model optimization techniques",
+        "datePublished": "2026-09-22T05:20:54Z",
+        "dateModified": "2026-09-22T05:20:54Z",
+        "author": {
+          "@type": "Organization",
+          "name": "vLLM releases",
+          "url": "https://github.com"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "releases",
+        "inLanguage": "en-US",
+        "wordCount": 26,
+        "articleBody": "vLLM released version 0.30.0 with significant contributions from many developers, introducing new models like DeepSeek-V4.1-Flash and DeepGEMM Mega-mHC, marking a notable advancement in the project's capabilities."
+      }
+    },
+    {
+      "source_id": "hn_ai_24h",
+      "source_name": "HN top AI 24h",
+      "title": "AI is giving everyone the same advice",
+      "url": "https://a90.com/experiments/same-advice/",
+      "description": "",
+      "published": "2026-11-20T16:58:05+00:00",
+      "score": 41,
+      "category": "trending",
+      "weight": 8,
+      "points": 72,
+      "comments_url": "https://news.ycombinator.com/item?id=50577872",
+      "summary": "AI systems are increasingly providing uniform recommendations to users across the board, raising concerns about a lack of personalized solutions and potential biases in decision-making processes. This homogenization of advice could impact various fields from healthcare to finance, potentially limiting the effectiveness of AI if tailored approaches are needed.",
+      "summary_detailed": "AI algorithms are increasingly providing uniform recommendations across various fields such as finance, healthcare, and education, leading to a homogenization of advice given to individuals. This trend involves major tech companies and startups developing widely used AI systems. The broader impact includes both benefits like increased efficiency and consistency in decision-making processes, but also concerns about loss of personalized insights and potential biases in algorithmic recommendations.",
+      "summary_bullets": "• Artificial intelligence is becoming more prevalent in providing recommendations.\n• The homogenization of advice limits individualized solutions.\n• Companies are implementing AI to streamline and standardize guidance.",
+      "sentiment": "neutral",
+      "keywords": [
+        "ai",
+        "advice",
+        "equal",
+        "recommendations"
+      ],
+      "thumbnail": "https://a90.com/experiments/same-advice/og.png",
+      "cluster_id": "15564418-0c46-559b-9563-4f9ef71a5ad0",
+      "cluster_size": 1,
+      "cluster_topics": [
+        "giving",
+        "everyone",
+        "same",
+        "advice"
+      ],
+      "geo_title": "Why is AI providing uniform advice to everyone?",
+      "geo_keywords": [
+        "ai advice",
+        "ai recommendations",
+        "equal advice",
+        "ai giving equal advice",
+        "how ai provides equal recommendations",
+        "does ai give the same advice to everyone",
+        "ai technology and advice equality",
+        "ai and equal recommendations",
+        "ai advice algorithms",
+        "why ai gives the same advice"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "Why is AI providing uniform advice to everyone?",
+        "url": "https://a90.com/experiments/same-advice/",
+        "description": "AI systems are increasingly providing uniform recommendations to users across the board, raising concerns about a lack of personalized solutions and potential biases in decision-making processes. This homogenization of advice could impact various fields from healthcare to finance, potentially limiting the effectiveness of AI if tailored approaches are needed.",
+        "keywords": "ai advice, ai recommendations, equal advice, ai giving equal advice, how ai provides equal recommendations, does ai give the same advice to everyone, ai technology and advice equality, ai and equal recommendations",
+        "datePublished": "2026-11-20T16:58:05+00:00",
+        "dateModified": "2026-11-20T16:58:05+00:00",
+        "author": {
+          "@type": "Organization",
+          "name": "HN top AI 24h",
+          "url": "https://a90.com"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "trending",
+        "inLanguage": "en-US",
+        "wordCount": 49,
+        "articleBody": "AI systems are increasingly providing uniform recommendations to users across the board, raising concerns about a lack of personalized solutions and potential biases in decision-making processes. This homogenization of advice could impact various fields from healthcare to finance, potentially limiting the effectiveness of AI if tailored approaches are needed."
+      }
+    },
+    {
+      "source_id": "hn_ai_24h",
+      "source_name": "HN top AI 24h",
+      "title": "Epic Games Turns to AI Coding for the Unreal Engine",
+      "url": "https://spectrum.ieee.org/epic-games-unreal-engine-ai",
+      "description": "",
+      "published": "2026-11-20T12:16:36+00:00",
+      "score": 38,
+      "category": "trending",
+      "weight": 8,
+      "points": 58,
+      "comments_url": "https://news.ycombinator.com/item?id=50573681",
+      "summary": "Epic Games is leveraging artificial intelligence to enhance coding processes for the Unreal Engine, aiming to accelerate development and innovation in real-time graphics technology. This initiative could significantly impact the gaming industry by making advanced visual effects more accessible to developers.",
+      "summary_detailed": "Epic Games has initiated an AI-driven coding project for its Unreal Engine to enhance development efficiency and innovation. The initiative involves leveraging artificial intelligence to assist in coding processes within the engine, which is used by developers worldwide for creating games and other applications. This move could significantly impact the gaming industry by potentially reducing development time and costs, while also driving technological advancements in AI-assisted software creation.",
+      "summary_bullets": "• Epic Games is integrating AI capabilities into the development of the Unreal Engine.\n• The goal is to enhance automation and efficiency in game development processes.\n• This move aims to make advanced technologies more accessible to developers.",
+      "sentiment": "neutral",
+      "keywords": [
+        "epic games",
+        "ai coding",
+        "unreal engine"
+      ],
+      "thumbnail": "https://spectrum.ieee.org/media-library/will-ai-coding-eat-video-game-engines.jpg?id=68705132&width=1200&height=600&coordinates=0%2C425%2C0%2C766",
+      "cluster_id": "aaf54c32-55f3-53c2-bb35-18ada078ac57",
+      "cluster_size": 1,
+      "cluster_topics": [
+        "epic",
+        "games",
+        "turns",
+        "unreal",
+        "engine"
+      ],
+      "geo_title": "Why Is Epic Games Exploring AI for the Unreal Engine?",
+      "geo_keywords": [
+        "epic games ai integration",
+        "ai in game development",
+        "ai coding for engines",
+        "ai enhancing unreal engine",
+        "future of ai in gaming",
+        "how ai is changing game development",
+        "ai and unreal engine",
+        "ai technology in gaming industry",
+        "what ai can do for game developers",
+        "benefits of ai in game engines",
+        "ai tools for game developers"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "Why Is Epic Games Exploring AI for the Unreal Engine?",
+        "url": "https://spectrum.ieee.org/epic-games-unreal-engine-ai",
+        "description": "Epic Games is leveraging artificial intelligence to enhance coding processes for the Unreal Engine, aiming to accelerate development and innovation in real-time graphics technology. This initiative could significantly impact the gaming industry by making advanced visual effects more accessible to developers.",
+        "keywords": "epic games ai integration, ai in game development, ai coding for engines, ai enhancing unreal engine, future of ai in gaming, how ai is changing game development, ai and unreal engine, ai technology in gaming industry",
+        "datePublished": "2026-11-20T12:16:36+00:00",
+        "dateModified": "2026-11-20T12:16:36+00:00",
+        "author": {
+          "@type": "Organization",
+          "name": "HN top AI 24h",
+          "url": "https://spectrum.ieee.org"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "trending",
+        "inLanguage": "en-US",
+        "wordCount": 41,
+        "articleBody": "Epic Games is leveraging artificial intelligence to enhance coding processes for the Unreal Engine, aiming to accelerate development and innovation in real-time graphics technology. This initiative could significantly impact the gaming industry by making advanced visual effects more accessible to developers."
+      }
+    },
+    {
+      "source_id": "mit_technology_review_ai",
+      "source_name": "MIT Technology Review AI",
+      "title": "The most misunderstood graph in AI just got a major update",
+      "url": "https://www.technologyreview.com/2026/11/20/1149399/the-most-misunderstood-graph-in-ai-just-got-a-major-update/",
+      "description": "A new report from the AI evaluation nonprofit METR finds that some AI capabilities are continuing to improve along an exponential trajectory—but it also indicates that models aren’t quite as good at tasks that require judgment as they are at coding.  The report is an update to the organization’s tim",
+      "published": "Fri, 20 Nov 2026 18:15:15 +0000",
+      "score": 32,
+      "category": "industry",
+      "weight": 8,
+      "format": "article",
+      "summary": "A recent report by METR shows that while AI continues to improve exponentially in certain areas like coding, its performance in tasks requiring judgment remains limited. This update highlights the ongoing gap in AI capabilities, addressing why accurate understanding and development of AI technologies are crucial.",
+      "summary_detailed": "A new report from METR, an AI evaluation nonprofit, shows that certain AI capabilities continue to improve exponentially but still struggle with tasks requiring judgment compared to coding. This update highlights the ongoing advancements and limitations of AI models. The findings have broader implications for how society perceives and deploys AI technologies.",
+      "summary_bullets": "• METR releases updated report on AI capabilities.\n• Some AI improvements follow exponential trajectories.\n• Models excel in coding but struggle with judgment tasks.",
+      "sentiment": "neutral",
+      "keywords": [
+        "ai",
+        "exponential",
+        "trajectory",
+        "judgment",
+        "coding",
+        "update"
+      ],
+      "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2026/11/metr2a.jpg?resize=1200,600",
+      "cluster_id": "ecd27d51-c790-5900-9446-ad8dd46990fa",
+      "cluster_size": 1,
+      "cluster_topics": [
+        "report",
+        "update",
+        "most",
+        "misunderstood",
+        "got"
+      ],
+      "geo_title": "Why is the exponential growth of certain AI capabilities still misunderstood?",
+      "geo_keywords": [
+        "ai capabilities",
+        "exponential growth in ai",
+        "judgment vs coding in ai",
+        "metr ai evaluation",
+        "ai model improvements",
+        "ai task performance",
+        "what tasks does ai excel at",
+        "how do ai models handle judgment",
+        "are ai models better at coding or judgment",
+        "ai technology advancements",
+        "ai model update",
+        "ai evaluation metrics"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "Why is the exponential growth of certain AI capabilities still misunderstood?",
+        "url": "https://www.technologyreview.com/2026/11/20/1149399/the-most-misunderstood-graph-in-ai-just-got-a-major-update/",
+        "description": "A recent report by METR shows that while AI continues to improve exponentially in certain areas like coding, its performance in tasks requiring judgment remains limited. This update highlights the ongoing gap in AI capabilities, addressing why accurate understanding and development of AI technologies are crucial.",
+        "keywords": "ai capabilities, exponential growth in ai, judgment vs coding in ai, metr ai evaluation, ai model improvements, ai task performance, what tasks does ai excel at, how do ai models handle judgment",
+        "datePublished": "Fri, 20 Nov 2026 18:15:15 +0000",
+        "dateModified": "Fri, 20 Nov 2026 18:15:15 +0000",
+        "author": {
+          "@type": "Organization",
+          "name": "MIT Technology Review AI",
+          "url": "https://www.technologyreview.com"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "industry",
+        "inLanguage": "en-US",
+        "wordCount": 46,
+        "articleBody": "A recent report by METR shows that while AI continues to improve exponentially in certain areas like coding, its performance in tasks requiring judgment remains limited. This update highlights the ongoing gap in AI capabilities, addressing why accurate understanding and development of AI technologies are crucial."
+      }
+    },
+    {
+      "source_id": "mit_technology_review_ai",
+      "source_name": "MIT Technology Review AI",
+      "title": "The Download: inside the quest to make our minds immortal",
+      "url": "https://www.technologyreview.com/2026/11/20/1149371/the-download-quest-to-make-minds-immortal/",
+      "description": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. What we learned when our Roundtables explored the quest to make minds immortal To preserve our sense of self, some scientists are working on ways to k",
+      "published": "Fri, 20 Nov 2026 13:10:00 +0000",
+      "score": 32,
+      "category": "industry",
+      "weight": 8,
+      "format": "article",
+      "summary": "Scientists are exploring methods to preserve human consciousness after death as part of a quest to make minds \"immortal,\" driven by the desire to maintain personal identity beyond physical existence. This research could challenge traditional views on life and death but raises significant ethical questions about the nature of consciousness and identity.",
+      "summary_detailed": "Scientists and researchers are exploring methods to preserve human consciousness post-death as part of a quest to make minds \"immortal.\" This involves complex technologies such as brain scanning and data replication. The broader impact could revolutionize end-of-life care and challenge our understanding of what it means to be alive, potentially affecting ethical, legal, and social norms globally.",
+      "summary_bullets": "• Scientists are exploring methods to preserve human consciousness.\n• Some aim to transfer minds into artificial or robotic bodies.\n• Preservation techniques could include brain scanning and data replication.",
+      "sentiment": "neutral",
+      "keywords": [
+        "mind immortality",
+        "technology",
+        "neuroscience",
+        "preservation",
+        "identity"
+      ],
+      "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2026/10/eye-brains.jpg?resize=1200,600",
+      "cluster_id": "0345ba83-3a95-5db4-9b90-b60a66d82761",
+      "cluster_size": 1,
+      "cluster_topics": [
+        "quest",
+        "minds",
+        "immortal",
+        "download",
+        "inside"
+      ],
+      "geo_title": "Why is the tech world obsessed with immortalizing human minds?",
+      "geo_keywords": [
+        "mind immortality",
+        "neurotechnology",
+        "brain uploading",
+        "consciousness preservation",
+        "digital afterlife",
+        "identity transfer",
+        "eternal mind",
+        "cognitive engineering"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "Why is the tech world obsessed with immortalizing human minds?",
+        "url": "https://www.technologyreview.com/2026/11/20/1149371/the-download-quest-to-make-minds-immortal/",
+        "description": "Scientists are exploring methods to preserve human consciousness after death as part of a quest to make minds \"immortal,\" driven by the desire to maintain personal identity beyond physical existence. This research could challenge traditional views on life and death but raises significant ethical questions about the nature of consciousness and identity.",
+        "keywords": "mind immortality, neurotechnology, brain uploading, consciousness preservation, digital afterlife, identity transfer, eternal mind, cognitive engineering",
+        "datePublished": "Fri, 20 Nov 2026 13:10:00 +0000",
+        "dateModified": "Fri, 20 Nov 2026 13:10:00 +0000",
+        "author": {
+          "@type": "Organization",
+          "name": "MIT Technology Review AI",
+          "url": "https://www.technologyreview.com"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "industry",
+        "inLanguage": "en-US",
+        "wordCount": 52,
+        "articleBody": "Scientists are exploring methods to preserve human consciousness after death as part of a quest to make minds \"immortal,\" driven by the desire to maintain personal identity beyond physical existence. This research could challenge traditional views on life and death but raises significant ethical questions about the nature of consciousness and identity."
+      }
+    },
+    {
+      "source_id": "hn_show_ai_7d",
+      "source_name": "Show HN AI 7d",
+      "title": "Show HN: Purple Flow – AI-first n8n alternative, 10k+ workflows on 512MB",
+      "url": "https://github.com/leetheguy/purple_flow",
+      "description": "",
+      "published": "2026-11-19T13:57:14+00:00",
+      "score": 30,
+      "category": "open_source",
+      "weight": 9,
+      "points": 5,
+      "comments_url": "https://news.ycombinator.com/item?id=50560170",
+      "summary": "Purple Flow introduces an AI-driven alternative to n8n with over 10,000 workflows supported using just 512MB of memory, revolutionizing low-resource automation. This matters because it democratizes access to powerful workflow automation for users with limited computational resources.",
+      "summary_detailed": "Purple Flow, an AI-driven workflow automation platform, has launched with over 10,000 workflows supported using just 512MB of memory. The platform positions itself as an alternative to n8n, another workflow tool in the market. With its focus on AI and resource efficiency, Purple Flow aims to democratize access to advanced workflow automation for developers and businesses alike.",
+      "summary_bullets": "• Purple Flow is an AI-first alternative to n8n.\n• Offers over 10,000 workflows using just 512MB of memory.",
+      "sentiment": "neutral",
+      "keywords": [
+        "ai",
+        "n8n",
+        "workflows",
+        "purple flow"
+      ],
+      "thumbnail": null,
+      "favicon": "https://www.google.com/s2/favicons?domain=github.com&sz=64",
+      "cluster_id": "7b0f23a6-5f67-5f2a-9a2f-e088717c9c5d",
+      "cluster_size": 1,
+      "cluster_topics": [
+        "purple",
+        "flow",
+        "ai-first",
+        "n8n",
+        "alternative"
+      ],
+      "geo_title": "Why is Purple Flow seen as an AI-first n8n alternative with 10k+ workflows?",
+      "geo_keywords": [
+        "ai workflow automation",
+        "n8n alternative",
+        "purple flow introduction",
+        "ai-driven workflow platform",
+        "how to use ai for workflow automation",
+        "compare n8n with ai-first solutions",
+        "10k workflows on lightweight platform"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "Why is Purple Flow seen as an AI-first n8n alternative with 10k+ workflows?",
+        "url": "https://github.com/leetheguy/purple_flow",
+        "description": "Purple Flow introduces an AI-driven alternative to n8n with over 10,000 workflows supported using just 512MB of memory, revolutionizing low-resource automation. This matters because it democratizes access to powerful workflow automation for users with limited computational resources.",
+        "keywords": "ai workflow automation, n8n alternative, purple flow introduction, ai-driven workflow platform, how to use ai for workflow automation, compare n8n with ai-first solutions, 10k workflows on lightweight platform",
+        "datePublished": "2026-11-19T13:57:14+00:00",
+        "dateModified": "2026-11-19T13:57:14+00:00",
+        "author": {
+          "@type": "Organization",
+          "name": "Show HN AI 7d",
+          "url": "https://github.com"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "open_source",
+        "inLanguage": "en-US",
+        "wordCount": 37,
+        "articleBody": "Purple Flow introduces an AI-driven alternative to n8n with over 10,000 workflows supported using just 512MB of memory, revolutionizing low-resource automation. This matters because it democratizes access to powerful workflow automation for users with limited computational resources."
+      }
+    },
+    {
+      "source_id": "hn_show_ai_7d",
+      "source_name": "Show HN AI 7d",
+      "title": "Show HN: BSWorld – AI agents can now test Bluetooth code without hardware",
+      "url": "https://github.com/XiaoMi/bsworld",
+      "description": "",
+      "published": "2026-11-20T06:06:42+00:00",
+      "score": 30,
+      "category": "open_source",
+      "weight": 9,
+      "points": 5,
+      "comments_url": "https://news.ycombinator.com/item?id=50570766",
+      "summary": "AI agents can now test Bluetooth code without physical hardware, thanks to a new tool called BSWorld. This development could significantly speed up the testing process and reduce costs in the software development for Bluetooth technology.",
+      "summary_detailed": "AI-powered tools from BSWorld can now automatically test Bluetooth software without requiring physical hardware, potentially speeding up development and testing processes. This innovation involves collaboration between BSWorld's developers and the broader tech community interested in improving Bluetooth technology efficiency and reliability. The impact could lead to faster deployment of Bluetooth-enabled devices across various industries, enhancing user experiences and reducing development costs.",
+      "summary_bullets": "• BSWorld introduces AI agents for testing Bluetooth code\n• No physical hardware required for the testing process\n• Enhances efficiency and reduces costs in development cycles",
+      "sentiment": "neutral",
+      "keywords": [
+        "ai agents",
+        "bluetooth code",
+        "testing",
+        "hardware"
+      ],
+      "thumbnail": null,
+      "favicon": "https://www.google.com/s2/favicons?domain=github.com&sz=64",
+      "cluster_id": "000ad865-7a1a-545c-ab29-086a200c0447",
+      "cluster_size": 1,
+      "cluster_topics": [
+        "bsworld",
+        "bluetooth",
+        "code",
+        "without",
+        "show"
+      ],
+      "geo_title": "How does BSWorld enable AI testing of Bluetooth code without hardware?",
+      "geo_keywords": [
+        "ai testing",
+        "bluetooth technology",
+        "software development",
+        "hardware emulation",
+        "automated testing",
+        "ai-driven testing",
+        "bluetooth code testing",
+        "ai agents for testing"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "How does BSWorld enable AI testing of Bluetooth code without hardware?",
+        "url": "https://github.com/XiaoMi/bsworld",
+        "description": "AI agents can now test Bluetooth code without physical hardware, thanks to a new tool called BSWorld. This development could significantly speed up the testing process and reduce costs in the software development for Bluetooth technology.",
+        "keywords": "ai testing, bluetooth technology, software development, hardware emulation, automated testing, ai-driven testing, bluetooth code testing, ai agents for testing",
+        "datePublished": "2026-11-20T06:06:42+00:00",
+        "dateModified": "2026-11-20T06:06:42+00:00",
+        "author": {
+          "@type": "Organization",
+          "name": "Show HN AI 7d",
+          "url": "https://github.com"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "open_source",
+        "inLanguage": "en-US",
+        "wordCount": 36,
+        "articleBody": "AI agents can now test Bluetooth code without physical hardware, thanks to a new tool called BSWorld. This development could significantly speed up the testing process and reduce costs in the software development for Bluetooth technology."
+      }
+    },
+    {
+      "source_id": "marktechpost",
+      "source_name": "MarkTechPost",
+      "title": "RadixArk Ships DaisyRose-27B, a 27B Agentic Coding Model Trained With Reinforcement Learning Only",
+      "url": "https://www.marktechpost.com/2026/11/20/radixark-daisyrose-27b-agentic-model/",
+      "description": "<p>RadixArk released DaisyRose-27B, an Apache 2.0 agentic coding model post-trained from Qwen3.8-27B with reinforcement learning only. It more than doubles Terminal Bench 4.1 pass@1 to 12.0 and runs on a single GPU.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/11/20/radixark-daisyrose-",
+      "published": "Fri, 20 Nov 2026 17:42:29 +0000",
+      "score": 24,
+      "category": "industry",
+      "weight": 6,
+      "format": "article",
+      "summary": "RadixArk released DaisyRose-27B, an agentic coding model trained exclusively with reinforcement learning that significantly improves performance on the Terminal Bench 4.1 test, highlighting advancements in AI training methods.",
+      "summary_detailed": "RadixArk released DaisyRose-27B, an agentic coding model trained exclusively with reinforcement learning that significantly improves performance on the Terminal Bench 4.1 test. The model runs on a single GPU and more than doubles pass@1 scores to 12.0 compared to its base Qwen3.8-27B version, marking a notable advancement in AI-driven coding tools.",
+      "summary_bullets": "• RadixArk released DaisyRose-27B, an agentic coding model.\n• It is trained with reinforcement learning only.\n• Pass@1 score on Terminal Bench 4.1 improved to 12.0.\n• Runs on a single GPU.",
+      "sentiment": "neutral",
+      "keywords": [
+        "radixark",
+        "daisyrose-27b",
+        "reinforcement learning",
+        "coding model",
+        "gpu"
+      ],
+      "thumbnail": null,
+      "favicon": "https://www.google.com/s2/favicons?domain=www.marktechpost.com&sz=64",
+      "cluster_id": "476a2e8c-726e-529f-bea7-5a24097b2764",
+      "cluster_size": 1,
+      "cluster_topics": [
+        "radixark",
+        "daisyrose-27b",
+        "agentic",
+        "reinforcement",
+        "learning"
+      ],
+      "geo_title": "Why Is RadixArk's DaisyRose-27B Making Waves in Agentic Coding?",
+      "geo_keywords": [
+        "radixark daisyrose-27b",
+        "agentic coding model",
+        "reinforcement learning only",
+        "terminal bench 4.1",
+        "gpu performance",
+        "ai coding assistant",
+        "advanced coding model",
+        "machine learning in coding",
+        "what is daisyrose-27b",
+        "how does daisyrose-27b work"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "Why Is RadixArk's DaisyRose-27B Making Waves in Agentic Coding?",
+        "url": "https://www.marktechpost.com/2026/11/20/radixark-daisyrose-27b-agentic-model/",
+        "description": "RadixArk released DaisyRose-27B, an agentic coding model trained exclusively with reinforcement learning that significantly improves performance on the Terminal Bench 4.1 test, highlighting advancements in AI training methods.",
+        "keywords": "radixark daisyrose-27b, agentic coding model, reinforcement learning only, terminal bench 4.1, gpu performance, ai coding assistant, advanced coding model, machine learning in coding",
+        "datePublished": "Fri, 20 Nov 2026 17:42:29 +0000",
+        "dateModified": "Fri, 20 Nov 2026 17:42:29 +0000",
+        "author": {
+          "@type": "Organization",
+          "name": "MarkTechPost",
+          "url": "https://www.marktechpost.com"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "industry",
+        "inLanguage": "en-US",
+        "wordCount": 28,
+        "articleBody": "RadixArk released DaisyRose-27B, an agentic coding model trained exclusively with reinforcement learning that significantly improves performance on the Terminal Bench 4.1 test, highlighting advancements in AI training methods."
+      }
+    },
+    {
+      "source_id": "marktechpost",
+      "source_name": "MarkTechPost",
+      "title": "NVIDIA AI Releases Nemotron-Labs-Sigma, a Continuous Diffusion Language Model with 14 checkpoints at 3B/8B",
+      "url": "https://www.marktechpost.com/2026/11/20/nvidia-nemotron-labs-sigma-continuous-diffusion-language-model/",
+      "description": "<p>NVIDIA released Nemotron-Labs-Sigma, 14 open 3B and 8B continuous diffusion language model checkpoints. Sigma denoises text in a learned 16-D embedding space, distills to few-step samplers, and decodes up to 4.20x faster than autoregressive decoding.</p>\n<p>The post <a href=\"https://www.marktechp",
+      "published": "Fri, 20 Nov 2026 14:44:52 +0000",
+      "score": 24,
+      "category": "industry",
+      "weight": 6,
+      "format": "article",
+      "summary": "NVIDIA released Nemotron-Labs-Sigma, a set of 14 open-source continuous diffusion language model checkpoints with 3B and 8B parameters, designed to enhance text denoising and decoding speed. This release is significant for advancing natural language processing efficiency and accessibility.",
+      "summary_detailed": "NVIDIA has released Nemotron-Labs-Sigma, a set of 14 open-source continuous diffusion language model checkpoints with 3B and 8B parameters. This model can denoise text in a learned 16-D embedding space, distill to few-step samplers, and decode up to 4.20x faster than traditional autoregressive decoding methods, marking a significant advancement in the efficiency of language models.",
+      "summary_bullets": "• NVIDIA released Nemotron-Labs-Sigma\n• Includes 14 open 3B and 8B continuous diffusion language model checkpoints\n• Sigma denoises text in a learned 16-D embedding space\n• Decodes up to 4.20x faster than autoregressive decoding",
+      "sentiment": "neutral",
+      "keywords": [
+        "nemotron-labs-sigma",
+        "diffusion",
+        "language model",
+        "checkpoints",
+        "denoising",
+        "embedding",
+        "samplers",
+        "decoding"
+      ],
+      "thumbnail": null,
+      "favicon": "https://www.google.com/s2/favicons?domain=www.marktechpost.com&sz=64",
+      "cluster_id": "70bbdd93-e8da-57ed-bb74-ba1b95a684c1",
+      "cluster_size": 1,
+      "cluster_topics": [
+        "nvidia",
+        "nemotron-labs-sigma",
+        "continuous",
+        "diffusion",
+        "checkpoints"
+      ],
+      "geo_title": "Why is NVIDIA's Nemotron-Labs-Sigma AI model generating buzz?",
+      "geo_keywords": [
+        "nvidia ai",
+        "continuous diffusion model",
+        "3b and 8b model",
+        "text denoising",
+        "few-step samplers",
+        "autoregressive decoding",
+        "machine learning technology",
+        "open source model",
+        "language model optimization",
+        "ai model performance improvement"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "Why is NVIDIA's Nemotron-Labs-Sigma AI model generating buzz?",
+        "url": "https://www.marktechpost.com/2026/11/20/nvidia-nemotron-labs-sigma-continuous-diffusion-language-model/",
+        "description": "NVIDIA released Nemotron-Labs-Sigma, a set of 14 open-source continuous diffusion language model checkpoints with 3B and 8B parameters, designed to enhance text denoising and decoding speed. This release is significant for advancing natural language processing efficiency and accessibility.",
+        "keywords": "nvidia ai, continuous diffusion model, 3b and 8b model, text denoising, few-step samplers, autoregressive decoding, machine learning technology, open source model",
+        "datePublished": "Fri, 20 Nov 2026 14:44:52 +0000",
+        "dateModified": "Fri, 20 Nov 2026 14:44:52 +0000",
+        "author": {
+          "@type": "Organization",
+          "name": "MarkTechPost",
+          "url": "https://www.marktechpost.com"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "industry",
+        "inLanguage": "en-US",
+        "wordCount": 38,
+        "articleBody": "NVIDIA released Nemotron-Labs-Sigma, a set of 14 open-source continuous diffusion language model checkpoints with 3B and 8B parameters, designed to enhance text denoising and decoding speed. This release is significant for advancing natural language processing efficiency and accessibility."
+      }
+    }
+  ],
+  "enriched": true,
+  "enriched_at": "2026-11-21T09:02:21.220003+00:00",
+  "enricher_model": "qwen2.5-7b",
+  "clustered": true,
+  "clustered_at": "2026-11-21T09:02:21.394806+00:00",
+  "cluster_threshold": 0.3,
+  "geo_metadata": {
+    "date": "2026-11-21",
+    "generated_at": "2026-11-21T09:03:20.900636+00:00",
+    "schemas_generated": 30,
+    "topics": [
+      "10k workflows on lightweight platform",
+      "2026",
+      "26b",
+      "26b parameter model",
+      "3b and 8b model",
+      "advanced coding model",
+      "advancements in ai for cpu design",
+      "adversarial distillation",
+      "advice",
+      "agent intelligence",
+      "agentic coding model",
+      "agents",
+      "ai",
+      "ai advice",
+      "ai advice algorithms",
+      "ai agent limitations",
+      "ai agent restrictions",
+      "ai agents",
+      "ai agents and privacy",
+      "ai agents for testing",
+      "ai and equal recommendations",
+      "ai and unreal engine",
+      "ai automation",
+      "ai capabilities",
+      "ai coding",
+      "ai coding assistant",
+      "ai coding for engines",
+      "ai data protection in os",
+      "ai designed cpu",
+      "ai driven data search",
+      "ai drug discovery",
+      "ai enhancing unreal engine",
+      "ai ethical considerations",
+      "ai ethics guidelines for schools",
+      "ai ethics in education",
+      "ai evaluation metrics",
+      "ai giving equal advice",
+      "ai in education",
+      "ai in education debate",
+      "ai in game development",
+      "ai in pharmaceutical research",
+      "ai in semiconductor industry",
+      "ai investment outlook",
+      "ai limitations and future",
+      "ai model improvements",
+      "ai model optimization",
+      "ai model performance improvement",
+      "ai model update",
+      "ai model updates",
+      "ai models in early drug development"
+    ],
+    "faq_items": [
+      {
+        "question": "What is adversarial distillation and how is it being combated?",
+        "answer": "Adversarial distillation involves training models to defend against adversarial attacks. Researchers are developing new techniques to combat these vulnerabilities, enhancing model robustness."
+      },
+      {
+        "question": "How has GPT-6 Astra improved financial research according to Hebbia?",
+        "answer": "GPT-6 Astra has significantly enhanced Hebbia's financial research capabilities, providing more accurate and insightful analyses compared to previous models."
+      },
+      {
+        "question": "Can AI assist in the discovery of new drug candidates?",
+        "answer": "Yes, AI can help scientists identify promising drug candidates by analyzing vast amounts of data and predicting potential compounds with therapeutic properties."
+      },
+      {
+        "question": "What is firecrawl/firecrawl and how does it make agents smarter?",
+        "answer": "Firecrawl/firecrawl is a knowledge infrastructure that enhances agent intelligence by integrating data from 550+ providers through a unified API, enabling smarter search and scraping capabilities."
+      },
+      {
+        "question": "What are the latest releases of Hermes Agent from NousResearch?",
+        "answer": "NousResearch recently released Hermes Agent v0.23.3 and its canary version v0.23.3+canary.20261120T064609Z, along with v0.23.2+canary.20261119T064637Z, bringing updates and improvements to the Hermes Agent system."
+      }
+    ]
+  },
+  "geo_enriched": true,
+  "geo_enriched_at": "2026-11-21T09:03:20.900636+00:00"
+}
