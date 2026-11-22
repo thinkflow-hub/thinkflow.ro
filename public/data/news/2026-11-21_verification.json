@@ -1,12 +1,34 @@
 {
   "date": "2026-11-21",
-  "generated_at": "2026-11-22T05:00:07.095810+00:00",
+  "generated_at": "2026-11-22T09:01:09.782145+00:00",
   "results": {
-    "trending_llm": {
+    "hn_ai_24h": {
       "verification_status": "unconfirmed",
       "sources_count": 1,
       "sources": [
+        "HN top AI 24h"
+      ]
+    },
+    "hn_show_ai_7d": {
+      "verification_status": "unconfirmed",
+      "sources_count": 1,
+      "sources": [
+        "Show HN AI 7d"
+      ]
+    },
+    "trending_llm": {
+      "verification_status": "verified",
+      "sources_count": 2,
+      "sources": [
+        "Show HN AI 7d",
         "GitHub Trending — LLM"
+      ]
+    },
+    "marktechpost": {
+      "verification_status": "unconfirmed",
+      "sources_count": 1,
+      "sources": [
+        "MarkTechPost"
       ]
     },
     "latent_space": {
