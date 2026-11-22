@@ -1,6 +1,6 @@
 {
   "date": "2026-11-19",
-  "generated_at": "2026-11-22T09:01:09.783406+00:00",
+  "generated_at": "2026-11-22T13:00:08.970032+00:00",
   "results": {
     "nousresearch_releases": {
       "verification_status": "unconfirmed",
@@ -31,10 +31,9 @@
       ]
     },
     "hn_ai_24h": {
-      "verification_status": "verified",
-      "sources_count": 2,
+      "verification_status": "unconfirmed",
+      "sources_count": 1,
       "sources": [
-        "GitHub Trending — AI Agents",
         "HN top AI 24h"
       ]
     },
@@ -43,28 +42,6 @@
       "sources_count": 1,
       "sources": [
         "Latent Space (Substack)"
-      ]
-    },
-    "trending_agent": {
-      "verification_status": "verified",
-      "sources_count": 2,
-      "sources": [
-        "GitHub Trending — AI Agents",
-        "HN top AI 24h"
-      ]
-    },
-    "trending_ai": {
-      "verification_status": "unconfirmed",
-      "sources_count": 1,
-      "sources": [
-        "GitHub Trending — AI"
-      ]
-    },
-    "trending_llm": {
-      "verification_status": "unconfirmed",
-      "sources_count": 1,
-      "sources": [
-        "GitHub Trending — LLM"
       ]
     }
   }
