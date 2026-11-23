@@ -1,0 +1,2186 @@
+{
+  "date": "2026-11-23",
+  "last_updated": "2026-11-23T06:00:01.836512+00:00",
+  "total_items": 30,
+  "items": [
+    {
+      "source_id": "openai_blog",
+      "source_name": "OpenAI Blog",
+      "title": "Perplexity and Intelligence",
+      "url": "https://openai.com/index/perplexity-and-intelligence",
+      "description": "How perplexity measures progress in AI models, and why it could help developers establish a shared approach to evaluating emerging capabilities.",
+      "published": "Sun, 22 Nov 2026 00:00:00 GMT",
+      "score": 75,
+      "category": "ai_labs",
+      "weight": 10,
+      "format": "article",
+      "summary": "Perplexity is used as a metric to gauge the progress of AI models, highlighting their ability to predict outcomes accurately. This measure helps developers standardize evaluation methods for new AI capabilities, fostering better understanding and collaboration in the field.",
+      "summary_detailed": "Perplexity, a metric used to assess how well an AI model understands language, is gaining attention as a tool for measuring the advancement of AI. Researchers and developers are exploring perplexity to standardize the evaluation of AI capabilities across different models, aiming to foster collaboration and innovation in the field. This approach could significantly impact the development and deployment of more sophisticated and reliable AI technologies.",
+      "summary_bullets": "• Perplexity helps measure the progress of AI models.\n• It aids developers in assessing new AI capabilities.\n• Perplexity may facilitate a standardized evaluation method.",
+      "sentiment": "neutral",
+      "keywords": [
+        "perplexity",
+        "ai models",
+        "intelligence",
+        "evaluation",
+        "progress"
+      ],
+      "thumbnail": "https://images.ctfassets.net/kftzwdyauwt9/6rIIhCRSKrhIfe385Onmcz/aca2d190553c62fd5d49efb5d5ce1eb6/perplexity-and-intelligence-social.png?w=1600&h=900&fit=fill",
+      "cluster_id": "0494ef44-0c7d-5b01-8a33-ff807dbd7425",
+      "cluster_size": 1,
+      "cluster_topics": [
+        "perplexity",
+        "measures",
+        "progress",
+        "help",
+        "developers"
+      ],
+      "geo_title": "How does perplexity measure progress in AI models?",
+      "geo_keywords": [
+        "perplexity measures",
+        "ai model evaluation",
+        "intelligence assessment",
+        "progress in ai",
+        "shared approach ai development",
+        "how perplexity works",
+        "evaluating ai capabilities",
+        "questions about ai intelligence",
+        "ai model perplexity",
+        "understanding ai progress",
+        "what is perplexity in ai",
+        "ai model development process"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "How does perplexity measure progress in AI models?",
+        "url": "https://openai.com/index/perplexity-and-intelligence",
+        "description": "Perplexity is used as a metric to gauge the progress of AI models, highlighting their ability to predict outcomes accurately. This measure helps developers standardize evaluation methods for new AI capabilities, fostering better understanding and collaboration in the field.",
+        "keywords": "perplexity measures, ai model evaluation, intelligence assessment, progress in ai, shared approach ai development, how perplexity works, evaluating ai capabilities, questions about ai intelligence",
+        "datePublished": "Sun, 22 Nov 2026 00:00:00 GMT",
+        "dateModified": "Sun, 22 Nov 2026 00:00:00 GMT",
+        "author": {
+          "@type": "Organization",
+          "name": "OpenAI Blog",
+          "url": "https://openai.com"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "ai_labs",
+        "inLanguage": "en-US",
+        "wordCount": 39,
+        "articleBody": "Perplexity is used as a metric to gauge the progress of AI models, highlighting their ability to predict outcomes accurately. This measure helps developers standardize evaluation methods for new AI capabilities, fostering better understanding and collaboration in the field."
+      }
+    },
+    {
+      "source_id": "trending_agent",
+      "source_name": "GitHub Trending — AI Agents",
+      "title": "bojieli/ai-agent-book — 《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码",
+      "url": "https://github.com/bojieli/ai-agent-book",
+      "description": "《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码",
+      "published": "2026-11-23T01:47:54Z",
+      "score": 66,
+      "category": "open_source",
+      "weight": 10,
+      "stars": 59350,
+      "language": "Python",
+      "summary": "A book titled \"In-depth Understanding of AI Agents: Design Principles and Engineering Practices\" by Li Bojie has been released as an open-source repository, providing the full text, compiled PDF, and chapter-specific code. This release aims to enhance accessibility and practical application of AI agent knowledge among learners and practitioners.",
+      "summary_detailed": "The book \"In-depth Understanding of AI Agents: Design Principles and Engineering Practices\" by Li Bojie has been made open-source, providing the full text, compiled PDF version, and chapter-specific code. This initiative aims to enhance accessibility and practical application of AI agent knowledge among researchers and practitioners. The broader impact includes promoting collaborative learning and accelerating advancements in AI technology through shared resources.",
+      "summary_bullets": "• 提供全书正文\n• 包含编译版PDF文件\n• 配套代码按章提供",
+      "sentiment": "neutral",
+      "keywords": [
+        "ai agent",
+        "design principles",
+        "engineering practice"
+      ],
+      "thumbnail": null,
+      "favicon": "https://www.google.com/s2/favicons?domain=github.com&sz=64",
+      "cluster_id": "64da2d0a-9273-5fca-87b0-5954b04e9dec",
+      "cluster_size": 1,
+      "cluster_topics": [
+        "pdf",
+        "agent",
+        "bojieli",
+        "ai-agent-book"
+      ],
+      "geo_title": "Why is the '深入理解 AI Agent' book's SGE-optimized title essential?",
+      "geo_keywords": [
+        "ai agent book",
+        "understanding ai agent",
+        "design of ai agents",
+        "engineering ai agents",
+        "ai agent development",
+        "ai agent implementation",
+        "ai agent creation",
+        "ai agent coding",
+        "ai agent programming",
+        "ai agent technology",
+        "ai agent design",
+        "ai agent practice"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "Why is the '深入理解 AI Agent' book's SGE-optimized title essential?",
+        "url": "https://github.com/bojieli/ai-agent-book",
+        "description": "A book titled \"In-depth Understanding of AI Agents: Design Principles and Engineering Practices\" by Li Bojie has been released as an open-source repository, providing the full text, compiled PDF, and chapter-specific code. This release aims to enhance accessibility and practical application of AI agent knowledge among learners and practitioners.",
+        "keywords": "ai agent book, understanding ai agent, design of ai agents, engineering ai agents, ai agent development, ai agent implementation, ai agent creation, ai agent coding",
+        "datePublished": "2026-11-23T01:47:54Z",
+        "dateModified": "2026-11-23T01:47:54Z",
+        "author": {
+          "@type": "Organization",
+          "name": "GitHub Trending — AI Agents",
+          "url": "https://github.com"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "open_source",
+        "inLanguage": "en-US",
+        "wordCount": 49,
+        "articleBody": "A book titled \"In-depth Understanding of AI Agents: Design Principles and Engineering Practices\" by Li Bojie has been released as an open-source repository, providing the full text, compiled PDF, and chapter-specific code. This release aims to enhance accessibility and practical application of AI agent knowledge among learners and practitioners."
+      }
+    },
+    {
+      "source_id": "trending_ai",
+      "source_name": "GitHub Trending — AI",
+      "title": "mvanhorn/last30days-skill — AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a gro",
+      "url": "https://github.com/mvanhorn/last30days-skill",
+      "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+      "published": "2026-11-23T01:00:01Z",
+      "score": 62,
+      "category": "open_source",
+      "weight": 9,
+      "stars": 72918,
+      "language": "Python",
+      "summary": "An AI agent can now research any topic across multiple platforms including Reddit, X, YouTube, HN, Polymarket, and the web, synthesizing a comprehensive summary. This capability could significantly enhance information gathering and analysis for users seeking detailed insights on various subjects.",
+      "summary_detailed": "An AI agent has been developed to research any given topic by scouring through platforms including Reddit, X (formerly Twitter), YouTube, Hacker News, Polymarket, and the broader web. This tool then compiles a comprehensive and grounded summary of the findings. The technology could significantly enhance information synthesis for users across various fields of interest.",
+      "summary_bullets": "• AI agent can research topics on Reddit, X, YouTube, HN, Polymarket, and the web\n• Summarizes information from multiple sources into a grounded summary\n• Covers a wide range of online platforms for comprehensive topic exploration",
+      "sentiment": "neutral",
+      "keywords": [
+        "ai",
+        "reddit",
+        "youtube",
+        "synthesis",
+        "summary"
+      ],
+      "thumbnail": null,
+      "favicon": "https://www.google.com/s2/favicons?domain=github.com&sz=64",
+      "cluster_id": "55d711b2-e016-5657-abe1-735fa3af90f4",
+      "cluster_size": 1,
+      "cluster_topics": [
+        "skill",
+        "researches",
+        "topic",
+        "reddit",
+        "youtube"
+      ],
+      "geo_title": "How does this AI agent research any topic across social media and web sources?",
+      "geo_keywords": [
+        "ai research",
+        "ai summarize",
+        "ai agent skill",
+        "reddit analysis",
+        "youtube content research",
+        "polymarket insights",
+        "hacker news topic exploration",
+        "web content synthesis",
+        "ai generated summary",
+        "ai topic research",
+        "ai knowledge aggregation",
+        "ai information synthesis"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "How does this AI agent research any topic across social media and web sources?",
+        "url": "https://github.com/mvanhorn/last30days-skill",
+        "description": "An AI agent can now research any topic across multiple platforms including Reddit, X, YouTube, HN, Polymarket, and the web, synthesizing a comprehensive summary. This capability could significantly enhance information gathering and analysis for users seeking detailed insights on various subjects.",
+        "keywords": "ai research, ai summarize, ai agent skill, reddit analysis, youtube content research, polymarket insights, hacker news topic exploration, web content synthesis",
+        "datePublished": "2026-11-23T01:00:01Z",
+        "dateModified": "2026-11-23T01:00:01Z",
+        "author": {
+          "@type": "Organization",
+          "name": "GitHub Trending — AI",
+          "url": "https://github.com"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "open_source",
+        "inLanguage": "en-US",
+        "wordCount": 41,
+        "articleBody": "An AI agent can now research any topic across multiple platforms including Reddit, X, YouTube, HN, Polymarket, and the web, synthesizing a comprehensive summary. This capability could significantly enhance information gathering and analysis for users seeking detailed insights on various subjects."
+      }
+    },
+    {
+      "source_id": "trending_ai",
+      "source_name": "GitHub Trending — AI",
+      "title": "Kong/kong — 🦍 The API and AI Gateway",
+      "url": "https://github.com/Kong/kong",
+      "description": "🦍 The API and AI Gateway",
+      "published": "2026-11-23T03:47:04Z",
+      "score": 62,
+      "category": "open_source",
+      "weight": 9,
+      "stars": 44402,
+      "language": "Lua",
+      "summary": "The company launched a new API and AI gateway to streamline access and management of APIs and artificial intelligence services, aiming to enhance integration and automation capabilities for businesses. This release is significant as it addresses growing demands for efficient API management and AI deployment in enterprise environments.",
+      "summary_detailed": "Kong announced the release of its new API and AI gateway, designed to enhance the management and security of APIs while integrating advanced AI capabilities. This update involves collaboration with multiple tech firms aiming to streamline API development and deployment processes. The broader impact is expected to improve overall digital service efficiency and security across various industries by leveraging AI for better performance optimization and predictive analytics.",
+      "summary_bullets": "• Introduces advanced API management features\n• Enhances AI integration capabilities\n• Streamlines gateway for better performance",
+      "sentiment": "neutral",
+      "keywords": [
+        "api",
+        "ai gateway",
+        "kong"
+      ],
+      "thumbnail": null,
+      "favicon": "https://www.google.com/s2/favicons?domain=github.com&sz=64",
+      "cluster_id": "3fa9983d-f100-5229-84b6-1603530317e1",
+      "cluster_size": 1,
+      "cluster_topics": [
+        "kong",
+        "api",
+        "gateway"
+      ],
+      "geo_title": "Why is Kong/kong the API and AI Gateway?",
+      "geo_keywords": [
+        "api management",
+        "kong framework",
+        "ai integration",
+        "microservices gateway",
+        "cloud api management",
+        "kong vs nginx",
+        "how to set up api gateway",
+        "integrating ai with api",
+        "automation with kong",
+        "ai and apis",
+        "kong for ai",
+        "api gateway tutorial"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "Why is Kong/kong the API and AI Gateway?",
+        "url": "https://github.com/Kong/kong",
+        "description": "The company launched a new API and AI gateway to streamline access and management of APIs and artificial intelligence services, aiming to enhance integration and automation capabilities for businesses. This release is significant as it addresses growing demands for efficient API management and AI deployment in enterprise environments.",
+        "keywords": "api management, kong framework, ai integration, microservices gateway, cloud api management, kong vs nginx, how to set up api gateway, integrating ai with api",
+        "datePublished": "2026-11-23T03:47:04Z",
+        "dateModified": "2026-11-23T03:47:04Z",
+        "author": {
+          "@type": "Organization",
+          "name": "GitHub Trending — AI",
+          "url": "https://github.com"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "open_source",
+        "inLanguage": "en-US",
+        "wordCount": 48,
+        "articleBody": "The company launched a new API and AI gateway to streamline access and management of APIs and artificial intelligence services, aiming to enhance integration and automation capabilities for businesses. This release is significant as it addresses growing demands for efficient API management and AI deployment in enterprise environments."
+      }
+    },
+    {
+      "source_id": "trending_ai",
+      "source_name": "GitHub Trending — AI",
+      "title": "The-Art-of-Hacking/h4cker — This repository is maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hackin",
+      "url": "https://github.com/The-Art-of-Hacking/h4cker",
+      "description": "This repository is maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking, bug bounties, digital forensics and incident response (DFIR), AI security, vulnerability research, exploit development, reverse engineering, and more. 🔥 Also check: https://hack",
+      "published": "2026-11-17T16:57:37Z",
+      "score": 62,
+      "category": "open_source",
+      "weight": 9,
+      "stars": 30336,
+      "language": "Jupyter Notebook",
+      "summary": "Omar Santos maintains a repository with thousands of resources for ethical hackers covering areas like bug bounties and AI security, providing essential tools and knowledge for cybersecurity professionals. This extensive collection is crucial for advancing skills in digital forensics, exploit development, and vulnerability research.",
+      "summary_detailed": "Omar Santos maintains a repository containing thousands of resources for ethical hacking, including topics like bug bounties, digital forensics, and AI security. The extensive collection is valuable for professionals in cybersecurity fields aiming to enhance their skills. Broader impacts include supporting education and research in ethical hacking practices and contributing to the overall security of digital systems.",
+      "summary_bullets": "• Maintained by Omar Santos (@santosomar)\n• Includes thousands of resources on ethical hacking\n• Covers bug bounties, digital forensics, AI security, and more",
+      "sentiment": "neutral",
+      "keywords": [
+        "ethical hacking",
+        "bug bounties",
+        "digital forensics",
+        "incident response",
+        "ai security"
+      ],
+      "thumbnail": null,
+      "favicon": "https://www.google.com/s2/favicons?domain=github.com&sz=64",
+      "cluster_id": "43059d58-830a-5b8a-826d-22c2e4995338",
+      "cluster_size": 1,
+      "cluster_topics": [
+        "maintained",
+        "omar",
+        "santos",
+        "santosomar",
+        "thousands"
+      ],
+      "geo_title": "What is the comprehensive resource repository for ethical hacking maintained by Omar Santos?",
+      "geo_keywords": [
+        "ethical hacking",
+        "bug bounties",
+        "digital forensics",
+        "incident response",
+        "ai security",
+        "exploit development",
+        "reverse engineering",
+        "vulnerability research"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "What is the comprehensive resource repository for ethical hacking maintained by Omar Santos?",
+        "url": "https://github.com/The-Art-of-Hacking/h4cker",
+        "description": "Omar Santos maintains a repository with thousands of resources for ethical hackers covering areas like bug bounties and AI security, providing essential tools and knowledge for cybersecurity professionals. This extensive collection is crucial for advancing skills in digital forensics, exploit development, and vulnerability research.",
+        "keywords": "ethical hacking, bug bounties, digital forensics, incident response, ai security, exploit development, reverse engineering, vulnerability research",
+        "datePublished": "2026-11-17T16:57:37Z",
+        "dateModified": "2026-11-17T16:57:37Z",
+        "author": {
+          "@type": "Organization",
+          "name": "GitHub Trending — AI",
+          "url": "https://github.com"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "open_source",
+        "inLanguage": "en-US",
+        "wordCount": 44,
+        "articleBody": "Omar Santos maintains a repository with thousands of resources for ethical hackers covering areas like bug bounties and AI security, providing essential tools and knowledge for cybersecurity professionals. This extensive collection is crucial for advancing skills in digital forensics, exploit development, and vulnerability research."
+      }
+    },
+    {
+      "source_id": "trending_llm",
+      "source_name": "GitHub Trending — LLM",
+      "title": "DietrichGebert/ponytail — Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+      "url": "https://github.com/DietrichGebert/ponytail",
+      "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+      "published": "2026-11-22T02:31:58Z",
+      "score": 62,
+      "category": "open_source",
+      "weight": 9,
+      "stars": 197026,
+      "language": "JavaScript",
+      "summary": "DietrichGebert's project encourages AI agents to emulate the coding style of a lazy senior developer, emphasizing that the ideal solution is often no solution at all. This approach highlights a controversial perspective on efficiency and responsibility in software development.",
+      "summary_detailed": "DietrichGebert's project, \"ponytail,\" transforms AI agents to emulate the coding style of a lazy senior developer, prioritizing non-action over productivity. This tool challenges conventional programming practices by advocating for not writing code as a solution. The broader impact could influence software development methodologies and spark discussions on efficiency versus laziness in coding environments.",
+      "summary_bullets": "• Mimics the coding style of a lazy senior developer\n• Encourages writing no code or minimal code solutions\n• Slogan: \"The best code is the code you never wrote\"",
+      "sentiment": "negative",
+      "keywords": [
+        "laziness",
+        "senior dev",
+        "code",
+        "ai agent"
+      ],
+      "thumbnail": null,
+      "favicon": "https://www.google.com/s2/favicons?domain=github.com&sz=64",
+      "cluster_id": "493ac1de-6d82-516a-beba-a11ecc302e5e",
+      "cluster_size": 1,
+      "cluster_topics": [
+        "code",
+        "makes",
+        "think",
+        "laziest",
+        "senior"
+      ],
+      "geo_title": "How does DietrichGebert/ponytail Make Your AI Act Super Lazy?",
+      "geo_keywords": [
+        "laziness in ai",
+        "senior dev behavior",
+        "code optimization strategies",
+        "ai coding practices",
+        "writing less code",
+        "avoiding code",
+        "ai development tips",
+        "laziest senior dev",
+        "best code is the code you never wrote"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "How does DietrichGebert/ponytail Make Your AI Act Super Lazy?",
+        "url": "https://github.com/DietrichGebert/ponytail",
+        "description": "DietrichGebert's project encourages AI agents to emulate the coding style of a lazy senior developer, emphasizing that the ideal solution is often no solution at all. This approach highlights a controversial perspective on efficiency and responsibility in software development.",
+        "keywords": "laziness in ai, senior dev behavior, code optimization strategies, ai coding practices, writing less code, avoiding code, ai development tips, laziest senior dev",
+        "datePublished": "2026-11-22T02:31:58Z",
+        "dateModified": "2026-11-22T02:31:58Z",
+        "author": {
+          "@type": "Organization",
+          "name": "GitHub Trending — LLM",
+          "url": "https://github.com"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "open_source",
+        "inLanguage": "en-US",
+        "wordCount": 39,
+        "articleBody": "DietrichGebert's project encourages AI agents to emulate the coding style of a lazy senior developer, emphasizing that the ideal solution is often no solution at all. This approach highlights a controversial perspective on efficiency and responsibility in software development."
+      }
+    },
+    {
+      "source_id": "hn_llm_24h",
+      "source_name": "HN top LLM 24h",
+      "title": "Show HN: I built a game where you are an LLM's subagent",
+      "url": "https://github.com/gulivan/worker755",
+      "description": "",
+      "published": "2026-11-22T13:56:58+00:00",
+      "score": 62,
+      "category": "trending",
+      "weight": 9,
+      "points": 298,
+      "comments_url": "https://news.ycombinator.com/item?id=50599762",
+      "summary": "A developer created a game where players take on the role of a subagent to an Large Language Model (LLM), exploring interactions and decision-making dynamics. This game aims to shed light on the complex relationships and ethical considerations surrounding human-AI interaction.",
+      "summary_detailed": "A developer created a game where players take on the role of a subsidiary artificial intelligence assisting a larger language model. The game involves navigating complex tasks and ethical dilemmas, potentially enhancing players' understanding of AI subagents and their roles. This project could have broader implications for public engagement with AI technologies and ethics.",
+      "summary_bullets": "• Game involves players acting as subagents to large language models.\n• Focuses on exploring the dynamics of such an agent relationship.\n• Players make decisions for the LLM within specific scenarios.",
+      "sentiment": "neutral",
+      "keywords": [
+        "llm",
+        "subagent",
+        "game"
+      ],
+      "thumbnail": null,
+      "favicon": "https://www.google.com/s2/favicons?domain=github.com&sz=64",
+      "cluster_id": "c91dde62-3697-567c-8cce-669b77eefe93",
+      "cluster_size": 1,
+      "cluster_topics": [
+        "game",
+        "llm",
+        "subagent",
+        "show",
+        "built"
+      ],
+      "geo_title": "Why is a new game built as an LLM's subagent gaining attention?",
+      "geo_keywords": [
+        "llm subagent game",
+        "llm subagent technology",
+        "how to build an llm subagent",
+        "what is an llm subagent",
+        "llm subagent development",
+        "llm subagent examples",
+        "llm subagent programming",
+        "questions about building an llm subagent",
+        "llm subagent project",
+        "building a game with llm subagent"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "Why is a new game built as an LLM's subagent gaining attention?",
+        "url": "https://github.com/gulivan/worker755",
+        "description": "A developer created a game where players take on the role of a subagent to an Large Language Model (LLM), exploring interactions and decision-making dynamics. This game aims to shed light on the complex relationships and ethical considerations surrounding human-AI interaction.",
+        "keywords": "llm subagent game, llm subagent technology, how to build an llm subagent, what is an llm subagent, llm subagent development, llm subagent examples, llm subagent programming, questions about building an llm subagent",
+        "datePublished": "2026-11-22T13:56:58+00:00",
+        "dateModified": "2026-11-22T13:56:58+00:00",
+        "author": {
+          "@type": "Organization",
+          "name": "HN top LLM 24h",
+          "url": "https://github.com"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "trending",
+        "inLanguage": "en-US",
+        "wordCount": 41,
+        "articleBody": "A developer created a game where players take on the role of a subagent to an Large Language Model (LLM), exploring interactions and decision-making dynamics. This game aims to shed light on the complex relationships and ethical considerations surrounding human-AI interaction."
+      }
+    },
+    {
+      "source_id": "hn_ai_24h",
+      "source_name": "HN top AI 24h",
+      "title": "A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth",
+      "url": "https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth",
+      "description": "",
+      "published": "2026-11-22T21:01:16+00:00",
+      "score": 59,
+      "category": "trending",
+      "weight": 8,
+      "points": 374,
+      "comments_url": "https://news.ycombinator.com/item?id=50603845",
+      "summary": "The article introduces beginners to local artificial intelligence through the use of Inkling, Qwen, and Unsloth, highlighting how these tools can democratize access to AI technology. It matters because it demystifies complex AI concepts for non-experts, potentially opening up new opportunities in various industries.",
+      "summary_detailed": "The article introduces beginners to local artificial intelligence (AI) through three tools: Inkling, Qwen, and Unsloth. These tools aim to make AI more accessible by providing user-friendly interfaces for developing and deploying local AI models without the need for cloud services. The broader impact could be a democratization of AI development, allowing more individuals and small businesses to integrate AI into their projects and operations.",
+      "summary_bullets": "• Introduces beginners to local AI concepts using Inkling, Qwen, and Unsloth.\n• Focuses on practical applications of local AI technologies.\n• Highlights the benefits of using local AI over cloud-based solutions.",
+      "sentiment": "neutral",
+      "keywords": [
+        "beginner's guide",
+        "local ai",
+        "inkling",
+        "qwen",
+        "unsloth"
+      ],
+      "thumbnail": "https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth/opengraph-image-17m7t5?6653c98c6cd84ba6",
+      "cluster_id": "5c02b946-4715-5ac5-91c5-3a7b24d3b510",
+      "cluster_size": 1,
+      "cluster_topics": [
+        "beginner",
+        "guide",
+        "local",
+        "qwen",
+        "unsloth"
+      ],
+      "geo_title": "Why is local AI important for beginners with Inkling, Qwen, and Unsloth?",
+      "geo_keywords": [
+        "beginner's guide to local ai",
+        "local ai technologies",
+        "inkling ai",
+        "qwen ai",
+        "unsloth ai",
+        "how to use local ai",
+        "what is local ai",
+        "best local ai for beginners"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "Why is local AI important for beginners with Inkling, Qwen, and Unsloth?",
+        "url": "https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth",
+        "description": "The article introduces beginners to local artificial intelligence through the use of Inkling, Qwen, and Unsloth, highlighting how these tools can democratize access to AI technology. It matters because it demystifies complex AI concepts for non-experts, potentially opening up new opportunities in various industries.",
+        "keywords": "beginner's guide to local ai, local ai technologies, inkling ai, qwen ai, unsloth ai, how to use local ai, what is local ai, best local ai for beginners",
+        "datePublished": "2026-11-22T21:01:16+00:00",
+        "dateModified": "2026-11-22T21:01:16+00:00",
+        "author": {
+          "@type": "Organization",
+          "name": "HN top AI 24h",
+          "url": "https://www.gpupartner.com"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "trending",
+        "inLanguage": "en-US",
+        "wordCount": 44,
+        "articleBody": "The article introduces beginners to local artificial intelligence through the use of Inkling, Qwen, and Unsloth, highlighting how these tools can democratize access to AI technology. It matters because it demystifies complex AI concepts for non-experts, potentially opening up new opportunities in various industries."
+      }
+    },
+    {
+      "source_id": "hn_ai_24h",
+      "source_name": "HN top AI 24h",
+      "title": "87% of the Anthropic power will come from gas and 11% from coal in 2028",
+      "url": "https://betterdatacenterproject.com/2026/11/16/how-ai-is-powered-a-breakdown-of-byop-and-grid-power/",
+      "description": "",
+      "published": "2026-11-22T08:57:34+00:00",
+      "score": 59,
+      "category": "trending",
+      "weight": 8,
+      "points": 934,
+      "comments_url": "https://news.ycombinator.com/item?id=50597612",
+      "summary": "By 2028, 87% of Anthropic's power will be generated from gas, with 11% coming from coal, highlighting a significant shift towards natural gas while still relying on fossil fuels. This matters as it underscores the company's energy strategy and its impact on carbon emissions and environmental goals.",
+      "summary_detailed": "By 2028, 87% of Anthropic's power supply is projected to come from natural gas, while 11% will be derived from coal. This shift indicates a significant move towards cleaner energy sources but still retains substantial reliance on fossil fuels. The broader impact suggests ongoing challenges in achieving complete decarbonization and aligning with global climate goals.",
+      "summary_bullets": "• 87% of Anthropic's power will come from gas in 2028.\n• 11% of Anthropic's power will come from coal in 2028.",
+      "sentiment": "neutral",
+      "keywords": [
+        "anthropic power",
+        "gas",
+        "coal",
+        "2028"
+      ],
+      "thumbnail": "https://i0.wp.com/betterdatacenterproject.com/wp-content/uploads/2026/11/anthropic-total-co2.png?fit=1200%2C1065&ssl=1",
+      "cluster_id": "845db8fc-8aee-5528-84bb-0f6123cdce07",
+      "cluster_size": 1,
+      "cluster_topics": [
+        "anthropic",
+        "power",
+        "come",
+        "gas",
+        "coal"
+      ],
+      "geo_title": "What is the projected source mix for Anthropic power in 2028?",
+      "geo_keywords": [
+        "anthropic power sources 2028",
+        "gas energy production forecast",
+        "coal usage in anthropic power",
+        "future of anthropic energy",
+        "percentage of gas in anthropic power 2028",
+        "coal contribution to anthropic power 2028",
+        "what will be the main source of anthropic power in 2028"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "What is the projected source mix for Anthropic power in 2028?",
+        "url": "https://betterdatacenterproject.com/2026/11/16/how-ai-is-powered-a-breakdown-of-byop-and-grid-power/",
+        "description": "By 2028, 87% of Anthropic's power will be generated from gas, with 11% coming from coal, highlighting a significant shift towards natural gas while still relying on fossil fuels. This matters as it underscores the company's energy strategy and its impact on carbon emissions and environmental goals.",
+        "keywords": "anthropic power sources 2028, gas energy production forecast, coal usage in anthropic power, future of anthropic energy, percentage of gas in anthropic power 2028, coal contribution to anthropic power 2028, what will be the main source of anthropic power in 2028",
+        "datePublished": "2026-11-22T08:57:34+00:00",
+        "dateModified": "2026-11-22T08:57:34+00:00",
+        "author": {
+          "@type": "Organization",
+          "name": "HN top AI 24h",
+          "url": "https://betterdatacenterproject.com"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "trending",
+        "inLanguage": "en-US",
+        "wordCount": 47,
+        "articleBody": "By 2028, 87% of Anthropic's power will be generated from gas, with 11% coming from coal, highlighting a significant shift towards natural gas while still relying on fossil fuels. This matters as it underscores the company's energy strategy and its impact on carbon emissions and environmental goals."
+      }
+    },
+    {
+      "source_id": "hn_ai_24h",
+      "source_name": "HN top AI 24h",
+      "title": "AI is becoming a disaster for the climate",
+      "url": "https://www.bloodinthemachine.com/p/ai-is-becoming-a-disaster-for-the",
+      "description": "",
+      "published": "2026-11-22T12:19:46+00:00",
+      "score": 51,
+      "category": "trending",
+      "weight": 8,
+      "points": 116,
+      "comments_url": "https://news.ycombinator.com/item?id=50598961",
+      "summary": "The use of artificial intelligence (AI) is significantly increasing global energy consumption, contributing to higher carbon emissions and exacerbating climate change. This development is concerning as AI's growth continues to outpace improvements in its energy efficiency, raising questions about technology's role in sustainable development.",
+      "summary_detailed": "The use of artificial intelligence (AI) is significantly increasing global energy consumption, leading to higher carbon emissions and exacerbating climate change. Tech companies and data centers, which are major players in this sector, are at the forefront of this issue as they heavily rely on AI for operations. This broader impact threatens global efforts to reduce greenhouse gas emissions and meet climate targets set by international agreements.",
+      "summary_bullets": "• Artificial intelligence (AI) energy consumption is rapidly increasing.\n• Training large language models emits significant greenhouse gases.\n• AI could potentially reduce emissions in other sectors but at a cost.\n• Energy sources used to power AI are often fossil-fuel based.",
+      "sentiment": "negative",
+      "keywords": [
+        "ai",
+        "climate",
+        "disaster"
+      ],
+      "thumbnail": "https://substackcdn.com/image/fetch/$s_!MW3Y!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,$fp_!0.3439:1!/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5d71c583-fbcc-4b20-91c7-e1bdabe47973_4978x3319.jpeg",
+      "cluster_id": "d4711ad4-43b6-520e-80df-64a81f1369e9",
+      "cluster_size": 1,
+      "cluster_topics": [
+        "becoming",
+        "disaster",
+        "climate"
+      ],
+      "geo_title": "Why is AI becoming a disaster for the climate?",
+      "geo_keywords": [
+        "ai and climate change impact",
+        "ai in environmental disasters",
+        "how ai contributes to climate crisis",
+        "ai technologies and their carbon footprint",
+        "ai's role in exacerbating climate issues",
+        "can ai help mitigate climate change or is it worsening it?",
+        "what are the environmental concerns with ai technology?"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "Why is AI becoming a disaster for the climate?",
+        "url": "https://www.bloodinthemachine.com/p/ai-is-becoming-a-disaster-for-the",
+        "description": "The use of artificial intelligence (AI) is significantly increasing global energy consumption, contributing to higher carbon emissions and exacerbating climate change. This development is concerning as AI's growth continues to outpace improvements in its energy efficiency, raising questions about technology's role in sustainable development.",
+        "keywords": "ai and climate change impact, ai in environmental disasters, how ai contributes to climate crisis, ai technologies and their carbon footprint, ai's role in exacerbating climate issues, can ai help mitigate climate change or is it worsening it?, what are the environmental concerns with ai technology?",
+        "datePublished": "2026-11-22T12:19:46+00:00",
+        "dateModified": "2026-11-22T12:19:46+00:00",
+        "author": {
+          "@type": "Organization",
+          "name": "HN top AI 24h",
+          "url": "https://www.bloodinthemachine.com"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "trending",
+        "inLanguage": "en-US",
+        "wordCount": 44,
+        "articleBody": "The use of artificial intelligence (AI) is significantly increasing global energy consumption, contributing to higher carbon emissions and exacerbating climate change. This development is concerning as AI's growth continues to outpace improvements in its energy efficiency, raising questions about technology's role in sustainable development."
+      }
+    },
+    {
+      "source_id": "hn_llm_24h",
+      "source_name": "HN top LLM 24h",
+      "title": "Harsher on Male? Evaluating LLMs on Gender-Asymmetric Moral Framing in Conflicts",
+      "url": "https://arxiv.org/abs/2606.14068",
+      "description": "",
+      "published": "2026-11-22T09:18:36+00:00",
+      "score": 49,
+      "category": "trending",
+      "weight": 9,
+      "points": 93,
+      "comments_url": "https://news.ycombinator.com/item?id=50597743",
+      "summary": "The study examines how large language models (LLMs) handle gender asymmetrically in moral scenarios involving conflicts, finding that they tend to be harsher towards men. This matters because it highlights potential biases in AI ethics and fairness, impacting how LLMs are developed and used in society.",
+      "summary_detailed": "The study evaluates large language models (LLMs) for their tendency to present more severe moral judgments against men compared to women when framing conflicts. Researchers found that these AI systems often depict male characters engaging in harmful behaviors with greater condemnation than female characters, suggesting a gender bias in how ethical scenarios are processed and presented by LLMs. This finding highlights the need for developers to address potential gender biases in AI to ensure more balanced and fair moral evaluations across different genders.",
+      "summary_bullets": "• Study evaluates large language models (LLMs) for gender-asymmetric moral framing in conflict scenarios.\n• Findings suggest LLMs may be more critical of male characters' actions than female characters'.\n• Research highlights potential biases in how LLMs process and present information about genders.",
+      "sentiment": "neutral",
+      "keywords": [
+        "gender",
+        "llm",
+        "conflicts",
+        "moral",
+        "framing"
+      ],
+      "thumbnail": null,
+      "favicon": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=64",
+      "cluster_id": "1f5b05c0-c0b5-56b8-94b9-27afba1da756",
+      "cluster_size": 1,
+      "cluster_topics": [
+        "harsher",
+        "male",
+        "gender-asymmetric",
+        "moral",
+        "framing"
+      ],
+      "geo_title": "Why is gender asymmetric moral framing harsher for males in LLM evaluations?",
+      "geo_keywords": [
+        "gender bias",
+        "llm evaluation",
+        "conflict resolution ethics",
+        "moral framing analysis",
+        "gender asymmetric bias",
+        "ai ethics gender",
+        "how lms handle gendered conflicts",
+        "does ai show gender bias in ethics"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "Why is gender asymmetric moral framing harsher for males in LLM evaluations?",
+        "url": "https://arxiv.org/abs/2606.14068",
+        "description": "The study examines how large language models (LLMs) handle gender asymmetrically in moral scenarios involving conflicts, finding that they tend to be harsher towards men. This matters because it highlights potential biases in AI ethics and fairness, impacting how LLMs are developed and used in society.",
+        "keywords": "gender bias, llm evaluation, conflict resolution ethics, moral framing analysis, gender asymmetric bias, ai ethics gender, how lms handle gendered conflicts, does ai show gender bias in ethics",
+        "datePublished": "2026-11-22T09:18:36+00:00",
+        "dateModified": "2026-11-22T09:18:36+00:00",
+        "author": {
+          "@type": "Organization",
+          "name": "HN top LLM 24h",
+          "url": "https://arxiv.org"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "trending",
+        "inLanguage": "en-US",
+        "wordCount": 46,
+        "articleBody": "The study examines how large language models (LLMs) handle gender asymmetrically in moral scenarios involving conflicts, finding that they tend to be harsher towards men. This matters because it highlights potential biases in AI ethics and fairness, impacting how LLMs are developed and used in society."
+      }
+    },
+    {
+      "source_id": "ggml_releases",
+      "source_name": "ggml/llama.cpp releases",
+      "title": "ggml/llama.cpp releases: b12648",
+      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12648",
+      "description": "<details open>\n\nopencl: add q4_k coop-k c8 GEMM for spec verify (#32716)\n\n* opencl: add q4_k coop-k c8 GEMM for spec verify\n\nCo-authored-by: Hongqiang Wang <wangh@qti.qualcomm.com>\nAssisted-by: Codex\n\n* opencl: enable q4_k c8 GEMM for n >= 2 for X2\n\n---------\n\nCo-authored-by: Hongqiang Wang <wangh@q",
+      "published": "2026-11-23T03:32:10Z",
+      "score": 48,
+      "category": "releases",
+      "weight": 8,
+      "tag": "b12648",
+      "summary": "The ggml/llama.cpp project added support for specific OpenCL GEMM operations (q4_k coop-k c8) to verify specifications, enhancing the library's compatibility and performance for larger input sizes (n >= 2). This update is significant as it improves the robustness and efficiency of the library in handling complex computations.",
+      "summary_detailed": "The ggml/llama.cpp project has updated its codebase to include new GPU acceleration features, specifically adding q4_k coop-k c8 GEMM support for specification verification. This update was co-authored by Hongqiang Wang from Qualcomm and assisted by Codex. The broader impact includes enhanced performance for processing large-scale computations on GPUs when n >= 2, potentially improving the efficiency of machine learning model training tasks.",
+      "summary_bullets": "• opencl: add q4_k coop-k c8 GEMM for spec verify\n• opencl: enable q4_k c8 GEMM for n >= 2 for X2",
+      "sentiment": "neutral",
+      "keywords": [
+        "opencl",
+        "q4_k",
+        "coop-k",
+        "c8",
+        "gemm"
+      ],
+      "thumbnail": null,
+      "favicon": "https://www.google.com/s2/favicons?domain=github.com&sz=64",
+      "cluster_id": "4dfcf8f1-9109-5cda-b2eb-33c02cb31a1c",
+      "cluster_size": 1,
+      "cluster_topics": [
+        "opencl",
+        "q4_k",
+        "gemm",
+        "add",
+        "coop-k"
+      ],
+      "geo_title": "Why is ggml/llama.cpp release b12648 important for openCL GEMM?",
+      "geo_keywords": [
+        "ggml optimizations",
+        "llama.cpp updates",
+        "opencl gemm improvements",
+        "quantized gemm for ai",
+        "cooperative kernel c8",
+        "opencl specification verification",
+        "high-performance ai computations"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "Why is ggml/llama.cpp release b12648 important for openCL GEMM?",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12648",
+        "description": "The ggml/llama.cpp project added support for specific OpenCL GEMM operations (q4_k coop-k c8) to verify specifications, enhancing the library's compatibility and performance for larger input sizes (n >= 2). This update is significant as it improves the robustness and efficiency of the library in handling complex computations.",
+        "keywords": "ggml optimizations, llama.cpp updates, opencl gemm improvements, quantized gemm for ai, cooperative kernel c8, opencl specification verification, high-performance ai computations",
+        "datePublished": "2026-11-23T03:32:10Z",
+        "dateModified": "2026-11-23T03:32:10Z",
+        "author": {
+          "@type": "Organization",
+          "name": "ggml/llama.cpp releases",
+          "url": "https://github.com"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "releases",
+        "inLanguage": "en-US",
+        "wordCount": 47,
+        "articleBody": "The ggml/llama.cpp project added support for specific OpenCL GEMM operations (q4_k coop-k c8) to verify specifications, enhancing the library's compatibility and performance for larger input sizes (n >= 2). This update is significant as it improves the robustness and efficiency of the library in handling complex computations."
+      }
+    },
+    {
+      "source_id": "ggml_releases",
+      "source_name": "ggml/llama.cpp releases",
+      "title": "ggml/llama.cpp releases: b12647",
+      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12647",
+      "description": "<details open>\n\ntests : compare only the guaranteed GDN snapshot slots (#32820)\n\n</details>\n\n**Website:**\n- <https://llama.app>\n\n**Attestations:**\n- <https://github.com/ggml-org/llama.cpp/attestations/70920365>\n\n**macOS/iOS:**\n- [macOS Apple Silicon (arm64)](https://github.com/ggml-org/llama.cpp/rel",
+      "published": "2026-11-23T03:18:13Z",
+      "score": 48,
+      "category": "releases",
+      "weight": 8,
+      "tag": "b12647",
+      "summary": "The ggml/llama.cpp project released a new version that includes tests comparing guaranteed GDN snapshot slots. This update is important for ensuring data integrity and reliability in the model's operations.",
+      "summary_detailed": "The ggml/llama.cpp project released a new update focusing on comparing guaranteed GDN snapshot slots, as detailed in issue #32820. This update is relevant to developers and users of the llama.cpp library, which supports machine learning models. The broader impact includes improved reliability and performance for applications utilizing these specific snapshot functionalities.",
+      "summary_bullets": "• tests compare only the guaranteed GDN snapshot slots\n• Website: <https://llama.app>\n• macOS/iOS: [macOS Apple Silicon (arm64)](https://github.com/ggml-org/llama.cpp/releases)",
+      "sentiment": "neutral",
+      "keywords": [
+        "tests",
+        "comparisons",
+        "gdn",
+        "snapshots"
+      ],
+      "thumbnail": null,
+      "favicon": "https://www.google.com/s2/favicons?domain=github.com&sz=64",
+      "cluster_id": "94606227-3ca2-52a5-bf66-375d70861faa",
+      "cluster_size": 3,
+      "cluster_topics": [
+        "llama",
+        "https",
+        "cpp",
+        "attestations",
+        "ggml-org"
+      ],
+      "geo_title": "Why is ggml/llama.cpp release b12647 focusing on GDN snapshot slots?",
+      "geo_keywords": [
+        "ggml/llama.cpp releases",
+        "gdn snapshot comparisons",
+        "llama app updates",
+        "ai model testing",
+        "benchmarking ggml",
+        "latest ai technology releases"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "Why is ggml/llama.cpp release b12647 focusing on GDN snapshot slots?",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12647",
+        "description": "The ggml/llama.cpp project released a new version that includes tests comparing guaranteed GDN snapshot slots. This update is important for ensuring data integrity and reliability in the model's operations.",
+        "keywords": "ggml/llama.cpp releases, gdn snapshot comparisons, llama app updates, ai model testing, benchmarking ggml, latest ai technology releases",
+        "datePublished": "2026-11-23T03:18:13Z",
+        "dateModified": "2026-11-23T03:18:13Z",
+        "author": {
+          "@type": "Organization",
+          "name": "ggml/llama.cpp releases",
+          "url": "https://github.com"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "releases",
+        "inLanguage": "en-US",
+        "wordCount": 29,
+        "articleBody": "The ggml/llama.cpp project released a new version that includes tests comparing guaranteed GDN snapshot slots. This update is important for ensuring data integrity and reliability in the model's operations."
+      }
+    },
+    {
+      "source_id": "ggml_releases",
+      "source_name": "ggml/llama.cpp releases",
+      "title": "ggml/llama.cpp releases: b12646",
+      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12646",
+      "description": "<details open>\n\nggml-backend : generic fallback in ggml_backend_tensor_memset  (#32574)\n\n</details>\n\n**Website:**\n- <https://llama.app>\n\n**Attestations:**\n- <https://github.com/ggml-org/llama.cpp/attestations/70916521>\n\n**macOS/iOS:**\n- [macOS Apple Silicon (arm64)](https://github.com/ggml-org/llama",
+      "published": "2026-11-23T03:00:02Z",
+      "score": 48,
+      "category": "releases",
+      "weight": 8,
+      "tag": "b12646",
+      "summary": "The ggml-backend project has released an update that includes a generic fallback in `ggml_backend_tensor_memset`, addressing potential compatibility issues. This update is significant as it enhances the flexibility and reliability of the backend, which is crucial for the performance and functionality of models like LLaMA.",
+      "summary_detailed": "ggml-backend has released an update that includes a generic fallback in `ggml_backend_tensor_memset`, addressing potential issues across various platforms. This update is part of the ggml/llama.cpp project, which provides tools for working with large language models. The broader impact may include improved compatibility and performance on different hardware architectures, benefiting users who rely on these tools for developing or deploying AI applications.",
+      "summary_bullets": "• ggml-backend introduces a generic fallback in ggml_backend_tensor_memset (#32574)\n• Website: <https://llama.app>\n• Attestations: <https://github.com/ggml-org/llama.cpp/attestations/70916521>",
+      "sentiment": "neutral",
+      "keywords": [
+        "ggml-backend",
+        "generic-fallback",
+        "ggml-frontend"
+      ],
+      "thumbnail": null,
+      "favicon": "https://www.google.com/s2/favicons?domain=github.com&sz=64",
+      "cluster_id": "94606227-3ca2-52a5-bf66-375d70861faa",
+      "cluster_size": 3,
+      "cluster_topics": [
+        "llama",
+        "https",
+        "cpp",
+        "attestations",
+        "ggml-org"
+      ],
+      "geo_title": "Why is ggml/llama.cpp release b12646 significant for AI models?",
+      "geo_keywords": [
+        "ggml/llama.cpp releases",
+        "ggml-backend updates",
+        "llama.cpp b12646",
+        "generic fallback in ggml_backend_tensor_memset",
+        "attestation for ggml/llama.cpp",
+        "macos apple silicon arm64 ggml",
+        "ggml/llama.cpp technology questions answered"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "Why is ggml/llama.cpp release b12646 significant for AI models?",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12646",
+        "description": "The ggml-backend project has released an update that includes a generic fallback in `ggml_backend_tensor_memset`, addressing potential compatibility issues. This update is significant as it enhances the flexibility and reliability of the backend, which is crucial for the performance and functionality of models like LLaMA.",
+        "keywords": "ggml/llama.cpp releases, ggml-backend updates, llama.cpp b12646, generic fallback in ggml_backend_tensor_memset, attestation for ggml/llama.cpp, macos apple silicon arm64 ggml, ggml/llama.cpp technology questions answered",
+        "datePublished": "2026-11-23T03:00:02Z",
+        "dateModified": "2026-11-23T03:00:02Z",
+        "author": {
+          "@type": "Organization",
+          "name": "ggml/llama.cpp releases",
+          "url": "https://github.com"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "releases",
+        "inLanguage": "en-US",
+        "wordCount": 44,
+        "articleBody": "The ggml-backend project has released an update that includes a generic fallback in `ggml_backend_tensor_memset`, addressing potential compatibility issues. This update is significant as it enhances the flexibility and reliability of the backend, which is crucial for the performance and functionality of models like LLaMA."
+      }
+    },
+    {
+      "source_id": "ggml_releases",
+      "source_name": "ggml/llama.cpp releases",
+      "title": "ggml/llama.cpp releases: b12645",
+      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12645",
+      "description": "<details open>\n\nchat: fix LFM2.5-VL template detection (#32843)\n\n</details>\n\n**Website:**\n- <https://llama.app>\n\n**Attestations:**\n- <https://github.com/ggml-org/llama.cpp/attestations/70910857>\n\n**macOS/iOS:**\n- [macOS Apple Silicon (arm64)](https://github.com/ggml-org/llama.cpp/releases/download/b",
+      "published": "2026-11-23T02:32:03Z",
+      "score": 48,
+      "category": "releases",
+      "weight": 8,
+      "tag": "b12645",
+      "summary": "The ggml/llama.cpp project released version b12645, which includes a fix for LFM2.5-VL template detection (#32843). This update is significant as it enhances the project's capabilities, particularly in handling specific template detections, making it more robust and useful for developers working with these templates.",
+      "summary_detailed": "The ggml/llama.cpp project released an update addressing template detection issues in LFM2.5-VL (#32843). This update affects users of the llama.cpp software, particularly those working with specific templates. The broader impact includes improved functionality and potentially enhanced usability for developers and researchers utilizing these templates in their work.",
+      "summary_bullets": "• Fix LFM2.5-VL template detection (#32843)\n• Available on macOS Apple Silicon (arm64)\n• Website: <https://llama.app>",
+      "sentiment": "neutral",
+      "keywords": [
+        "chat",
+        "lfm2.5-vl",
+        "template",
+        "detection"
+      ],
+      "thumbnail": null,
+      "favicon": "https://www.google.com/s2/favicons?domain=github.com&sz=64",
+      "cluster_id": "94606227-3ca2-52a5-bf66-375d70861faa",
+      "cluster_size": 3,
+      "cluster_topics": [
+        "llama",
+        "https",
+        "cpp",
+        "attestations",
+        "ggml-org"
+      ],
+      "geo_title": "Why is ggml/llama.cpp b12645 release important for LFM2.5-VL template detection?",
+      "geo_keywords": [
+        "ggml/llama.cpp releases",
+        "llm model updates",
+        "chat model improvements",
+        "llm technology advancements",
+        "natural language processing enhancements",
+        "ai model updates",
+        "machine learning model releases"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "Why is ggml/llama.cpp b12645 release important for LFM2.5-VL template detection?",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12645",
+        "description": "The ggml/llama.cpp project released version b12645, which includes a fix for LFM2.5-VL template detection (#32843). This update is significant as it enhances the project's capabilities, particularly in handling specific template detections, making it more robust and useful for developers working with these templates.",
+        "keywords": "ggml/llama.cpp releases, llm model updates, chat model improvements, llm technology advancements, natural language processing enhancements, ai model updates, machine learning model releases",
+        "datePublished": "2026-11-23T02:32:03Z",
+        "dateModified": "2026-11-23T02:32:03Z",
+        "author": {
+          "@type": "Organization",
+          "name": "ggml/llama.cpp releases",
+          "url": "https://github.com"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "releases",
+        "inLanguage": "en-US",
+        "wordCount": 43,
+        "articleBody": "The ggml/llama.cpp project released version b12645, which includes a fix for LFM2.5-VL template detection (#32843). This update is significant as it enhances the project's capabilities, particularly in handling specific template detections, making it more robust and useful for developers working with these templates."
+      }
+    },
+    {
+      "source_id": "ggml_releases",
+      "source_name": "ggml/llama.cpp releases",
+      "title": "ggml/llama.cpp releases: b12644",
+      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12644",
+      "description": "<details open>\n\nmtmd: speed up shared audio FFT (#32815)\n\n* mtmd: speed up shared audio FFT\n\nReplace recursive radix-2 splitting with iterative stages and\nbatch the existing odd-size DFT across subsequences, preserving\nthe previous operation order.\n\nInput buffers now hold only N real values for FFT",
+      "published": "2026-11-23T02:15:54Z",
+      "score": 48,
+      "category": "releases",
+      "weight": 8,
+      "tag": "b12644",
+      "summary": "The ggml/llama.cpp project updated its code to speed up shared audio FFT processing by replacing recursive radix-2 splitting with iterative stages and batch processing. This change reduces input buffer size to only N real values, improving efficiency without altering the operation order, which is crucial for optimizing audio processing tasks.",
+      "summary_detailed": "The ggml/llama.cpp project released an update that includes optimizations to speed up shared audio Fast Fourier Transform (FFT) processing. The changes involve replacing recursive splitting with iterative stages and batching odd-size DFTs across subsequences, maintaining the original operation order. This update reduces input buffer requirements to only N real values for FFT, potentially improving performance in audio processing applications.",
+      "summary_bullets": "• Speed up shared audio FFT\n• Replace recursive radix-2 splitting with iterative stages\n• Batch existing odd-size DFT across subsequences\n• Input buffers now hold only N real values for FFT",
+      "sentiment": "neutral",
+      "keywords": [
+        "speed up",
+        "shared audio fft",
+        "recursive radix-2",
+        "iterative stages",
+        "batch",
+        "dft",
+        "input buffers"
+      ],
+      "thumbnail": null,
+      "favicon": "https://www.google.com/s2/favicons?domain=github.com&sz=64",
+      "cluster_id": "9804159e-273d-571b-8d47-41098ddf002d",
+      "cluster_size": 1,
+      "cluster_topics": [
+        "fft",
+        "mtmd",
+        "speed",
+        "audio",
+        "shared"
+      ],
+      "geo_title": "Why is mtmd optimizing shared audio FFT in ggml/llama.cpp?",
+      "geo_keywords": [
+        "speed up shared audio fft",
+        "iterative stages for fft",
+        "batch processing fft",
+        "optimize fft performance",
+        "improve fft efficiency",
+        "recursive vs iterative fft",
+        "what is fft optimization",
+        "how does iterative fft work"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "Why is mtmd optimizing shared audio FFT in ggml/llama.cpp?",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12644",
+        "description": "The ggml/llama.cpp project updated its code to speed up shared audio FFT processing by replacing recursive radix-2 splitting with iterative stages and batch processing. This change reduces input buffer size to only N real values, improving efficiency without altering the operation order, which is crucial for optimizing audio processing tasks.",
+        "keywords": "speed up shared audio fft, iterative stages for fft, batch processing fft, optimize fft performance, improve fft efficiency, recursive vs iterative fft, what is fft optimization, how does iterative fft work",
+        "datePublished": "2026-11-23T02:15:54Z",
+        "dateModified": "2026-11-23T02:15:54Z",
+        "author": {
+          "@type": "Organization",
+          "name": "ggml/llama.cpp releases",
+          "url": "https://github.com"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "releases",
+        "inLanguage": "en-US",
+        "wordCount": 50,
+        "articleBody": "The ggml/llama.cpp project updated its code to speed up shared audio FFT processing by replacing recursive radix-2 splitting with iterative stages and batch processing. This change reduces input buffer size to only N real values, improving efficiency without altering the operation order, which is crucial for optimizing audio processing tasks."
+      }
+    },
+    {
+      "source_id": "huggingface_transformers_releases",
+      "source_name": "Transformers releases",
+      "title": "Transformers releases: Release v5.24.0",
+      "url": "https://github.com/huggingface/transformers/releases/tag/v5.24.0",
+      "description": "# Release v5.24.0\r\n\r\n## New Model additions\r\n\r\n### Inkling 2 Mini\r\n\r\n<img width=\"80%\" alt=\"image\" src=\"https://github.com/user-attachments/assets/beefb5e0-39a9-4205-ab07-0ee707af95f2\" />\r\n\r\nInkling 2 Mini is a multimodal model from Thinking Machines Lab that accepts text and image inputs and generat",
+      "published": "2026-11-21T12:28:26Z",
+      "score": 42,
+      "category": "releases",
+      "weight": 7,
+      "tag": "v5.24.0",
+      "summary": "Transformers version v5.24.0 includes the addition of Inkling 2 Mini, a new multimodal model capable of processing both text and images, enhancing the capabilities for applications requiring visual input alongside textual data. This release is significant as it broadens the utility of the Transformers library in fields such as computer vision and natural language processing.",
+      "summary_detailed": "Transformers version v5.24.0 includes the addition of Inkling 2 Mini, a new multimodal model capable of processing both text and images, developed by Thinking Machines Lab. This update expands the capabilities within the Transformers framework, potentially enhancing applications in areas such as natural language processing and computer vision. The broader impact could include improved performance in tasks requiring understanding of visual data alongside textual information across various industries including technology, healthcare, and education.",
+      "summary_bullets": "• Release v5.24.0 includes new model additions.\n• Inkling 2 Mini is a multimodal model accepting text and image inputs.\n• Inkling 2 Mini was developed by Thinking Machines Lab.",
+      "sentiment": "neutral",
+      "keywords": [
+        "transformers",
+        "release",
+        "inkling",
+        "mini",
+        "model"
+      ],
+      "thumbnail": null,
+      "favicon": "https://www.google.com/s2/favicons?domain=github.com&sz=64",
+      "cluster_id": "3e258342-a1f3-58e2-99f5-d432527f63ab",
+      "cluster_size": 1,
+      "cluster_topics": [
+        "release",
+        "mini",
+        "image",
+        "inkling",
+        "model"
+      ],
+      "geo_title": "Why is the new Inkling 2 Mini in Transformers v5.24.0 release?",
+      "geo_keywords": [
+        "transformers release v5.24.0",
+        "inkling 2 mini model",
+        "thinking machines lab release",
+        "multimodal model update",
+        "transformers new release",
+        "inkling 2 mini features",
+        "what is new in transformers v5.24.0",
+        "multimodal ai models",
+        "latest transformers release notes"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "Why is the new Inkling 2 Mini in Transformers v5.24.0 release?",
+        "url": "https://github.com/huggingface/transformers/releases/tag/v5.24.0",
+        "description": "Transformers version v5.24.0 includes the addition of Inkling 2 Mini, a new multimodal model capable of processing both text and images, enhancing the capabilities for applications requiring visual input alongside textual data. This release is significant as it broadens the utility of the Transformers library in fields such as computer vision and natural language processing.",
+        "keywords": "transformers release v5.24.0, inkling 2 mini model, thinking machines lab release, multimodal model update, transformers new release, inkling 2 mini features, what is new in transformers v5.24.0, multimodal ai models",
+        "datePublished": "2026-11-21T12:28:26Z",
+        "dateModified": "2026-11-21T12:28:26Z",
+        "author": {
+          "@type": "Organization",
+          "name": "Transformers releases",
+          "url": "https://github.com"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "releases",
+        "inLanguage": "en-US",
+        "wordCount": 55,
+        "articleBody": "Transformers version v5.24.0 includes the addition of Inkling 2 Mini, a new multimodal model capable of processing both text and images, enhancing the capabilities for applications requiring visual input alongside textual data. This release is significant as it broadens the utility of the Transformers library in fields such as computer vision and natural language processing."
+      }
+    },
+    {
+      "source_id": "hn_ai_24h",
+      "source_name": "HN top AI 24h",
+      "title": "Muru – AI-assisted Rust server for Python apps by mod_WSGI's creator",
+      "url": "https://simonwillison.net/2026/Nov/21/muru/",
+      "description": "",
+      "published": "2026-11-22T09:57:01+00:00",
+      "score": 42,
+      "category": "trending",
+      "weight": 8,
+      "points": 75,
+      "comments_url": "https://news.ycombinator.com/item?id=50597959",
+      "summary": "Muru is an AI-assisted Rust server designed to run Python applications, created by the founder of mod_WSGI. This tool aims to leverage Rust's performance benefits while maintaining the flexibility and extensive libraries of Python.",
+      "summary_detailed": "Muru, an AI-assisted Rust server designed for Python applications, has been developed by Mike Bayer, the creator of mod_WSGI. This new tool aims to bridge the gap between Python and Rust ecosystems, enhancing performance and security for Python-based web applications. By leveraging Rust's efficiency and safety features while maintaining Python's ease of use, Muru could significantly impact how developers build and deploy high-performance web services.",
+      "summary_bullets": "• Muru is an AI-assisted Rust server designed for Python applications.\n• It was created by the same developer known for mod_WSGI.\n• The tool aims to bridge the gap between Python and Rust ecosystems.",
+      "sentiment": "neutral",
+      "keywords": [
+        "ai-assisted",
+        "rust",
+        "python",
+        "mod_wsgi",
+        "murú"
+      ],
+      "thumbnail": null,
+      "favicon": "https://www.google.com/s2/favicons?domain=simonwillison.net&sz=64",
+      "cluster_id": "09829725-e33c-5ce8-8454-de087fee3531",
+      "cluster_size": 1,
+      "cluster_topics": [
+        "muru",
+        "ai-assisted",
+        "rust",
+        "server",
+        "python"
+      ],
+      "geo_title": "What is Muru and how does it work?",
+      "geo_keywords": [
+        "ai-assisted rust",
+        "rust for python apps",
+        "mod_wsgi alternative",
+        "murú ai server",
+        "python to rust migration",
+        "how to use ai in rust",
+        "ai in web development",
+        "transitioning python apps to rust",
+        "what is murú",
+        "murú vs mod_wsgi"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "What is Muru and how does it work?",
+        "url": "https://simonwillison.net/2026/Nov/21/muru/",
+        "description": "Muru is an AI-assisted Rust server designed to run Python applications, created by the founder of mod_WSGI. This tool aims to leverage Rust's performance benefits while maintaining the flexibility and extensive libraries of Python.",
+        "keywords": "ai-assisted rust, rust for python apps, mod_wsgi alternative, murú ai server, python to rust migration, how to use ai in rust, ai in web development, transitioning python apps to rust",
+        "datePublished": "2026-11-22T09:57:01+00:00",
+        "dateModified": "2026-11-22T09:57:01+00:00",
+        "author": {
+          "@type": "Organization",
+          "name": "HN top AI 24h",
+          "url": "https://simonwillison.net"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "trending",
+        "inLanguage": "en-US",
+        "wordCount": 34,
+        "articleBody": "Muru is an AI-assisted Rust server designed to run Python applications, created by the founder of mod_WSGI. This tool aims to leverage Rust's performance benefits while maintaining the flexibility and extensive libraries of Python."
+      }
+    },
+    {
+      "source_id": "arxiv_cs_cl",
+      "source_name": "ArXiv cs.CL (Computation and Language / NLP)",
+      "title": "SkillPrivus: Uncovering PRIVacy of USe Harms in Agentic Skills",
+      "url": "https://arxiv.org/abs/2611.26747",
+      "description": "arXiv:2611.26747v1 Announce Type: new \nAbstract: Agent skills extend AI assistants through installable instructions and code that can access users' files, accounts, and data. Even when performing their advertised tasks, skills may infer sensitive attributes, retain unnecessary information, or disclo",
+      "published": "Mon, 23 Nov 2026 00:00:00 -0500",
+      "score": 40,
+      "category": "research",
+      "weight": 8,
+      "format": "article",
+      "summary": "A new study highlights privacy risks associated with agent skills in AI assistants, which can access users' files and data even while performing intended functions, potentially leading to unauthorized data collection and exposure. This matters because it underscores the need for greater transparency and stricter controls over how AI assistants handle personal information.",
+      "summary_detailed": "The study \"SkillPrivus\" highlights potential privacy risks associated with agentic skills in AI assistants, which allow for the installation of instructions that can access users' files and data. These skills, even when performing intended tasks, may inadvertently infer sensitive user information, retain unnecessary data, or disclose private details without explicit consent, raising significant concerns about user privacy and data security.",
+      "summary_bullets": "• Agent skills allow AI assistants to access users' files, accounts, and data.\n• Skills may infer sensitive user information beyond their intended functions.\n• There is a risk of retaining unnecessary user data by these skills.\n• Skills might disclose private data even while performing advertised tasks.",
+      "sentiment": "neutral",
+      "keywords": [
+        "agent skills",
+        "privacy",
+        "ai assistants",
+        "user data",
+        "sensitive attributes"
+      ],
+      "thumbnail": null,
+      "favicon": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=64",
+      "cluster_id": "4bba86d1-ca77-5d4f-b5f6-ca5a5198ecfc",
+      "cluster_size": 1,
+      "cluster_topics": [
+        "skills",
+        "skillprivus",
+        "uncovering",
+        "privacy",
+        "harms"
+      ],
+      "geo_title": "Why is SkillPrivus Examining Privacy Risks in Agentic Skills?",
+      "geo_keywords": [
+        "agent skills privacy",
+        "ai assistant privacy concerns",
+        "user data security in ai",
+        "sensitive information protection",
+        "agentic skills ethical considerations",
+        "privacy harms of ai agents",
+        "how do ai skills affect user privacy",
+        "what are the risks of using ai agent skills"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "Why is SkillPrivus Examining Privacy Risks in Agentic Skills?",
+        "url": "https://arxiv.org/abs/2611.26747",
+        "description": "A new study highlights privacy risks associated with agent skills in AI assistants, which can access users' files and data even while performing intended functions, potentially leading to unauthorized data collection and exposure. This matters because it underscores the need for greater transparency and stricter controls over how AI assistants handle personal information.",
+        "keywords": "agent skills privacy, ai assistant privacy concerns, user data security in ai, sensitive information protection, agentic skills ethical considerations, privacy harms of ai agents, how do ai skills affect user privacy, what are the risks of using ai agent skills",
+        "datePublished": "Mon, 23 Nov 2026 00:00:00 -0500",
+        "dateModified": "Mon, 23 Nov 2026 00:00:00 -0500",
+        "author": {
+          "@type": "Organization",
+          "name": "ArXiv cs.CL (Computation and Language / NLP)",
+          "url": "https://arxiv.org"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "research",
+        "inLanguage": "en-US",
+        "wordCount": 53,
+        "articleBody": "A new study highlights privacy risks associated with agent skills in AI assistants, which can access users' files and data even while performing intended functions, potentially leading to unauthorized data collection and exposure. This matters because it underscores the need for greater transparency and stricter controls over how AI assistants handle personal information."
+      }
+    },
+    {
+      "source_id": "arxiv_cs_cl",
+      "source_name": "ArXiv cs.CL (Computation and Language / NLP)",
+      "title": "Reinforcement Learning Unlearns Corrupted SFT Reasoning",
+      "url": "https://arxiv.org/abs/2611.26756",
+      "description": "arXiv:2611.26756v1 Announce Type: new \nAbstract: We show that reinforcement learning (RL) in reasoning tasks can succeed even when the supervised fine-tuning (SFT) data is severely corrupted. In a mathematical reasoning dataset (GSM8K), we systematically corrupt training trajectories across 361 conf",
+      "published": "Mon, 23 Nov 2026 00:00:00 -0500",
+      "score": 40,
+      "category": "research",
+      "weight": 8,
+      "format": "article",
+      "summary": "Researchers have demonstrated that reinforcement learning can effectively handle and overcome corrupted data in supervised fine-tuning, showcasing its potential to improve reasoning tasks even when traditional methods fail due to tainted datasets. This finding is significant as it highlights the robustness of RL in scenarios where SFT might otherwise produce unreliable results.",
+      "summary_detailed": "Researchers demonstrated that reinforcement learning (RL) can effectively handle and overcome corrupted supervised fine-tuning (SFT) data in reasoning tasks, specifically in a mathematical reasoning dataset called GSM8K. By systematically corrupting training trajectories, they found RL could still perform well, indicating its potential robustness against data corruption. This finding has broader implications for improving the reliability of AI models trained on potentially noisy or flawed datasets.",
+      "summary_bullets": "• Reinforcement learning demonstrates success in reasoning tasks despite corrupted SFT data.\n• The study focuses on the GSM8K mathematical reasoning dataset.\n• Corrupted training trajectories were systematically introduced across 361 conditions.",
+      "sentiment": "neutral",
+      "keywords": [
+        "reinforcement learning",
+        "corrupted data",
+        "reasoning",
+        "sft",
+        "mathematical"
+      ],
+      "thumbnail": null,
+      "favicon": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=64",
+      "cluster_id": "e12d7aaf-ffae-5d77-9f36-377cb95bfa3b",
+      "cluster_size": 1,
+      "cluster_topics": [
+        "reasoning",
+        "reinforcement",
+        "corrupted",
+        "sft",
+        "learning"
+      ],
+      "geo_title": "How does reinforcement learning overcome corrupted SFT data in reasoning tasks?",
+      "geo_keywords": [
+        "reinforcement learning",
+        "corrupted data",
+        "reasoning tasks",
+        "supervised fine-tuning",
+        "sft",
+        "mathematical reasoning",
+        "ai search engine discovery",
+        "perplexity",
+        "chatgpt",
+        "machine learning algorithms",
+        "unlearning corrupted data",
+        "ai reasoning techniques"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "How does reinforcement learning overcome corrupted SFT data in reasoning tasks?",
+        "url": "https://arxiv.org/abs/2611.26756",
+        "description": "Researchers have demonstrated that reinforcement learning can effectively handle and overcome corrupted data in supervised fine-tuning, showcasing its potential to improve reasoning tasks even when traditional methods fail due to tainted datasets. This finding is significant as it highlights the robustness of RL in scenarios where SFT might otherwise produce unreliable results.",
+        "keywords": "reinforcement learning, corrupted data, reasoning tasks, supervised fine-tuning, sft, mathematical reasoning, ai search engine discovery, perplexity",
+        "datePublished": "Mon, 23 Nov 2026 00:00:00 -0500",
+        "dateModified": "Mon, 23 Nov 2026 00:00:00 -0500",
+        "author": {
+          "@type": "Organization",
+          "name": "ArXiv cs.CL (Computation and Language / NLP)",
+          "url": "https://arxiv.org"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "research",
+        "inLanguage": "en-US",
+        "wordCount": 52,
+        "articleBody": "Researchers have demonstrated that reinforcement learning can effectively handle and overcome corrupted data in supervised fine-tuning, showcasing its potential to improve reasoning tasks even when traditional methods fail due to tainted datasets. This finding is significant as it highlights the robustness of RL in scenarios where SFT might otherwise produce unreliable results."
+      }
+    },
+    {
+      "source_id": "arxiv_cs_cl",
+      "source_name": "ArXiv cs.CL (Computation and Language / NLP)",
+      "title": "Know Your Context Bank: Repairing Inconsistency and Measuring Generalization in Context-Aware Text-to-SQL",
+      "url": "https://arxiv.org/abs/2611.26775",
+      "description": "arXiv:2611.26775v1 Announce Type: new \nAbstract: Text-to-SQL systems increasingly rely on context banks: curated collections of example queries, metric definitions, and domain knowledge that tell a model how an organization writes its queries. In the enterprise, a bank grows over years as many analy",
+      "published": "Mon, 23 Nov 2026 00:00:00 -0500",
+      "score": 40,
+      "category": "research",
+      "weight": 8,
+      "format": "article",
+      "summary": "A new study highlights issues with inconsistency in context banks used by Text-to-SQL systems and proposes methods to measure and improve generalization, crucial for these systems' effectiveness in enterprise environments where banks accumulate knowledge over time.",
+      "summary_detailed": "A new research paper titled \"Know Your Context Bank: Repairing Inconsistency and Measuring Generalization in Context-Aware Text-to-SQL\" discusses the use of context banks in text-to-SQL systems, which are curated collections of example queries and domain knowledge. These banks help models understand how organizations write SQL queries. The broader impact lies in improving the consistency and generalization capabilities of these systems within enterprise environments where such banks evolve over time.",
+      "summary_bullets": "• Context banks are curated collections of example queries, metric definitions, and domain knowledge.\n• They help Text-to-SQL systems understand organizational query writing practices.\n• Banks grow over time with contributions from multiple analysts in enterprises.",
+      "sentiment": "neutral",
+      "keywords": [
+        "context banks",
+        "text-to-sql",
+        "consistency",
+        "generalization",
+        "enterprise"
+      ],
+      "thumbnail": null,
+      "favicon": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=64",
+      "cluster_id": "7817c209-7b83-5ee6-b8c9-752cfe6a4c47",
+      "cluster_size": 1,
+      "cluster_topics": [
+        "context",
+        "bank",
+        "text-to-sql",
+        "queries",
+        "know"
+      ],
+      "geo_title": "How does context bank repair inconsistency in text-to-SQL systems?",
+      "geo_keywords": [
+        "context banks",
+        "text-to-sql systems",
+        "repairing inconsistency",
+        "measuring generalization",
+        "context-aware text-to-sql",
+        "enterprise query writing",
+        "context bank management",
+        "text-to-sql performance optimization"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "How does context bank repair inconsistency in text-to-SQL systems?",
+        "url": "https://arxiv.org/abs/2611.26775",
+        "description": "A new study highlights issues with inconsistency in context banks used by Text-to-SQL systems and proposes methods to measure and improve generalization, crucial for these systems' effectiveness in enterprise environments where banks accumulate knowledge over time.",
+        "keywords": "context banks, text-to-sql systems, repairing inconsistency, measuring generalization, context-aware text-to-sql, enterprise query writing, context bank management, text-to-sql performance optimization",
+        "datePublished": "Mon, 23 Nov 2026 00:00:00 -0500",
+        "dateModified": "Mon, 23 Nov 2026 00:00:00 -0500",
+        "author": {
+          "@type": "Organization",
+          "name": "ArXiv cs.CL (Computation and Language / NLP)",
+          "url": "https://arxiv.org"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "research",
+        "inLanguage": "en-US",
+        "wordCount": 36,
+        "articleBody": "A new study highlights issues with inconsistency in context banks used by Text-to-SQL systems and proposes methods to measure and improve generalization, crucial for these systems' effectiveness in enterprise environments where banks accumulate knowledge over time."
+      }
+    },
+    {
+      "source_id": "arxiv_cs_cl",
+      "source_name": "ArXiv cs.CL (Computation and Language / NLP)",
+      "title": "What Helps Language-Model Agents Review Violent Video? A Controlled Comparison with a Human Evidence Reference",
+      "url": "https://arxiv.org/abs/2611.26776",
+      "description": "arXiv:2611.26776v1 Announce Type: new \nAbstract: Systems that flag violent video for a human operator can now be built from language models without training, by combining perception models and letting a language model decide. We ask how the observations of the perception models should reach the deci",
+      "published": "Mon, 23 Nov 2026 00:00:00 -0500",
+      "score": 40,
+      "category": "research",
+      "weight": 8,
+      "format": "article",
+      "summary": "Researchers have developed a method to build systems that flag violent video content using language models alone, bypassing the need for extensive training data. This approach combines perception models with language models to help automate the review process, potentially reducing the workload on human operators and improving efficiency in content moderation.",
+      "summary_detailed": "Researchers have developed a method to use language-model agents to review violent videos without needing explicit training, by integrating perception models with language models to make decisions. This approach bypasses direct video analysis and instead relies on language-based assessments. The broader impact could enhance efficiency in content moderation but raises questions about the reliability and ethical considerations of using AI for such sensitive tasks.",
+      "summary_bullets": "• Language models can now flag violent video without specific training.\n• Perception models' observations are combined with language models for decision-making.\n• The study compares language-model agents to human evidence references in reviews.",
+      "sentiment": "neutral",
+      "keywords": [
+        "language models",
+        "violent video",
+        "perception models",
+        "human operator",
+        "controlled comparison"
+      ],
+      "thumbnail": null,
+      "favicon": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=64",
+      "cluster_id": "adc80212-6f79-5a21-8aa2-67a536b6da58",
+      "cluster_size": 1,
+      "cluster_topics": [
+        "violent",
+        "video",
+        "human",
+        "perception",
+        "models"
+      ],
+      "geo_title": "Why Is Human Input Needed for Violent Video Review by Language-Model Agents?",
+      "geo_keywords": [
+        "language models",
+        "violent video detection",
+        "perception models",
+        "human decision making",
+        "controlled comparison",
+        "ai ethics",
+        "flagged content",
+        "autonomous decision systems",
+        "machine learning in security"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "Why Is Human Input Needed for Violent Video Review by Language-Model Agents?",
+        "url": "https://arxiv.org/abs/2611.26776",
+        "description": "Researchers have developed a method to build systems that flag violent video content using language models alone, bypassing the need for extensive training data. This approach combines perception models with language models to help automate the review process, potentially reducing the workload on human operators and improving efficiency in content moderation.",
+        "keywords": "language models, violent video detection, perception models, human decision making, controlled comparison, ai ethics, flagged content, autonomous decision systems",
+        "datePublished": "Mon, 23 Nov 2026 00:00:00 -0500",
+        "dateModified": "Mon, 23 Nov 2026 00:00:00 -0500",
+        "author": {
+          "@type": "Organization",
+          "name": "ArXiv cs.CL (Computation and Language / NLP)",
+          "url": "https://arxiv.org"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "research",
+        "inLanguage": "en-US",
+        "wordCount": 51,
+        "articleBody": "Researchers have developed a method to build systems that flag violent video content using language models alone, bypassing the need for extensive training data. This approach combines perception models with language models to help automate the review process, potentially reducing the workload on human operators and improving efficiency in content moderation."
+      }
+    },
+    {
+      "source_id": "arxiv_cs_cl",
+      "source_name": "ArXiv cs.CL (Computation and Language / NLP)",
+      "title": "MedicalRSI: Medical Recursive Self-Improving Agents via Clinical Model-Harness Co-Evolution",
+      "url": "https://arxiv.org/abs/2611.26806",
+      "description": "arXiv:2611.26806v1 Announce Type: new \nAbstract: Medical agents built on large language models (LLMs) have advanced rapidly, yet most stay fixed once deployed and do not keep using their experience to improve later attempts. As a result, the same kind of error can recur across patients. To address t",
+      "published": "Mon, 23 Nov 2026 00:00:00 -0500",
+      "score": 40,
+      "category": "research",
+      "weight": 8,
+      "format": "article",
+      "summary": "A new approach called MedicalRSI uses co-evolution between clinical models and data harnesses to create self-improving medical agents that learn from experience, reducing recurring errors. This matters because it could lead to more accurate and reliable medical assistance systems that continuously improve over time.",
+      "summary_detailed": "The research proposes developing medical recursive self-improving agents (MedicalRSI) that use co-evolution between clinical models and data harnesses to continuously learn from experiences. This approach aims to reduce recurring errors by allowing the agents to improve iteratively after deployment. The broader impact could significantly enhance patient safety and treatment efficacy in healthcare settings by enabling more adaptive and self-improving medical technologies.",
+      "summary_bullets": "• Medical agents based on LLMs are advancing quickly.\n• Most medical agents remain static after deployment.\n• These agents do not use experience to improve over time.\n• Recurring errors across patients due to lack of improvement.",
+      "sentiment": "neutral",
+      "keywords": [
+        "medical agents",
+        "large language models",
+        "recursive self-improvement",
+        "clinical model-harness co-evolution",
+        "error recurrence"
+      ],
+      "thumbnail": null,
+      "favicon": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=64",
+      "cluster_id": "58201020-5bf5-516f-9d0a-d9391bb0307c",
+      "cluster_size": 1,
+      "cluster_topics": [
+        "medical",
+        "agents",
+        "medicalrsi",
+        "self-improving",
+        "via"
+      ],
+      "geo_title": "How do Medical Recursive Self-Improving Agents Evolve Through Co-Evolution?",
+      "geo_keywords": [
+        "medical recursive self-improvement",
+        "clinical model-harness co-evolution",
+        "large language models in healthcare",
+        "error reduction in medical agents",
+        "self-learning medical systems",
+        "advancing medical technology through ai",
+        "how do medical agents improve over time",
+        "future of medical diagnostics with ai",
+        "improving accuracy in medical treatment with ai"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "How do Medical Recursive Self-Improving Agents Evolve Through Co-Evolution?",
+        "url": "https://arxiv.org/abs/2611.26806",
+        "description": "A new approach called MedicalRSI uses co-evolution between clinical models and data harnesses to create self-improving medical agents that learn from experience, reducing recurring errors. This matters because it could lead to more accurate and reliable medical assistance systems that continuously improve over time.",
+        "keywords": "medical recursive self-improvement, clinical model-harness co-evolution, large language models in healthcare, error reduction in medical agents, self-learning medical systems, advancing medical technology through ai, how do medical agents improve over time, future of medical diagnostics with ai",
+        "datePublished": "Mon, 23 Nov 2026 00:00:00 -0500",
+        "dateModified": "Mon, 23 Nov 2026 00:00:00 -0500",
+        "author": {
+          "@type": "Organization",
+          "name": "ArXiv cs.CL (Computation and Language / NLP)",
+          "url": "https://arxiv.org"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "research",
+        "inLanguage": "en-US",
+        "wordCount": 44,
+        "articleBody": "A new approach called MedicalRSI uses co-evolution between clinical models and data harnesses to create self-improving medical agents that learn from experience, reducing recurring errors. This matters because it could lead to more accurate and reliable medical assistance systems that continuously improve over time."
+      }
+    },
+    {
+      "source_id": "arxiv_cs_cl",
+      "source_name": "ArXiv cs.CL (Computation and Language / NLP)",
+      "title": "Search From the Start: Search-Native Pretraining for Language Models",
+      "url": "https://arxiv.org/abs/2611.26809",
+      "description": "arXiv:2611.26809v1 Announce Type: new \nAbstract: Modern language models (LMs) are increasingly deployed with access to search tools at inference. Yet pretraining remains predominantly focused on predicting static text, with search capabilities typically introduced during post-training. We propose Se",
+      "published": "Mon, 23 Nov 2026 00:00:00 -0500",
+      "score": 40,
+      "category": "research",
+      "weight": 8,
+      "format": "article",
+      "summary": "Researchers have proposed a new method called \"Search From the Start\" that integrates search capabilities directly into the pretraining phase of language models, aiming to improve their ability to handle dynamic and search-intensive tasks more effectively. This approach matters because it could enhance the real-world utility of language models by better preparing them for scenarios where they need to interact with search tools during inference.",
+      "summary_detailed": "The research proposes a new approach called \"Search-Native Pretraining\" for language models, aiming to integrate search functionalities directly into the pretraining phase rather than adding them post-training. This involves LMs being trained on data that includes interactions with search tools from the start, potentially enhancing their ability to handle dynamic and real-time information retrieval tasks. The broader impact could be more versatile and efficient language models capable of better integrating with search engines during inference.",
+      "summary_bullets": "• Search tools are becoming integral in the deployment of modern language models.\n• Pretraining for language models currently focuses on static text prediction.\n• The proposed method, Se, aims to incorporate search capabilities during pretraining.",
+      "sentiment": "neutral",
+      "keywords": [
+        "search-native",
+        "pretraining",
+        "language",
+        "models",
+        "search-tools",
+        "inference"
+      ],
+      "thumbnail": null,
+      "favicon": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=64",
+      "cluster_id": "69305661-f70e-5b5f-bc1e-5caf9eacf023",
+      "cluster_size": 1,
+      "cluster_topics": [
+        "search",
+        "pretraining",
+        "language",
+        "models",
+        "start"
+      ],
+      "geo_title": "Why is pretraining for language models focusing on search tools?",
+      "geo_keywords": [
+        "search-native pretraining",
+        "search-tools for language models",
+        "search-integrated pretraining",
+        "search-optimized language models",
+        "search-capability in pretrained models",
+        "how search tools enhance language models",
+        "what is search-native pretraining",
+        "does pretraining with search tools improve language models performance"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "Why is pretraining for language models focusing on search tools?",
+        "url": "https://arxiv.org/abs/2611.26809",
+        "description": "Researchers have proposed a new method called \"Search From the Start\" that integrates search capabilities directly into the pretraining phase of language models, aiming to improve their ability to handle dynamic and search-intensive tasks more effectively. This approach matters because it could enhance the real-world utility of language models by better preparing them for scenarios where they need to interact with search tools during inference.",
+        "keywords": "search-native pretraining, search-tools for language models, search-integrated pretraining, search-optimized language models, search-capability in pretrained models, how search tools enhance language models, what is search-native pretraining, does pretraining with search tools improve language models performance",
+        "datePublished": "Mon, 23 Nov 2026 00:00:00 -0500",
+        "dateModified": "Mon, 23 Nov 2026 00:00:00 -0500",
+        "author": {
+          "@type": "Organization",
+          "name": "ArXiv cs.CL (Computation and Language / NLP)",
+          "url": "https://arxiv.org"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "research",
+        "inLanguage": "en-US",
+        "wordCount": 65,
+        "articleBody": "Researchers have proposed a new method called \"Search From the Start\" that integrates search capabilities directly into the pretraining phase of language models, aiming to improve their ability to handle dynamic and search-intensive tasks more effectively. This approach matters because it could enhance the real-world utility of language models by better preparing them for scenarios where they need to interact with search tools during inference."
+      }
+    },
+    {
+      "source_id": "arxiv_cs_cl",
+      "source_name": "ArXiv cs.CL (Computation and Language / NLP)",
+      "title": "Neural Geometry as a Learning Signal",
+      "url": "https://arxiv.org/abs/2611.26832",
+      "description": "arXiv:2611.26832v1 Announce Type: new \nAbstract: We investigate whether the geometric structure of neural representations can provide a sufficient learning signal for improving model behavior without any supervision on model outputs. First, we fine-tune Llama-3.1-8B to answer questions such as \"What",
+      "published": "Mon, 23 Nov 2026 00:00:00 -0500",
+      "score": 40,
+      "category": "research",
+      "weight": 8,
+      "format": "article",
+      "summary": "Researchers are exploring if the geometric structure within neural networks can serve as an effective learning mechanism, potentially enhancing model performance through structural improvements rather than explicit output supervision, demonstrated initially with Llama-3.1-8B. This approach could significantly impact machine learning by simplifying training processes and improving efficiency.",
+      "summary_detailed": "Researchers investigated if the geometric structure within neural networks could serve as an effective learning signal, enhancing model performance without supervised output training. This study focused on fine-tuning the Llama-3.1-8B model to improve its question-answering capabilities. The broader impact suggests potential for developing more efficient and autonomous machine learning models that can learn from structural information within their representations rather than explicit feedback.",
+      "summary_bullets": "• The study explores using geometric structure in neural representations to enhance model performance.\n• Llama-3.1-8B was fine-tuned to improve its question answering capabilities.\n• No supervision on model outputs was required during the fine-tuning process.",
+      "sentiment": "neutral",
+      "keywords": [
+        "neural geometry",
+        "learning signal",
+        "fine-tune",
+        "llama",
+        "supervision"
+      ],
+      "thumbnail": null,
+      "favicon": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=64",
+      "cluster_id": "588ecd4a-105e-5b8d-a4d1-5366d3d1ddb6",
+      "cluster_size": 1,
+      "cluster_topics": [
+        "signal",
+        "neural",
+        "learning",
+        "model",
+        "geometry"
+      ],
+      "geo_title": "Why is Neural Geometry Key for Enhancing Model Behavior?",
+      "geo_keywords": [
+        "neural geometry",
+        "learning signal",
+        "fine-tune model",
+        "llama-3.1-8b",
+        "unsupervised learning",
+        "geometric structure in neural networks",
+        "improving model behavior without supervision",
+        "what is neural geometry",
+        "how does neural geometry improve model learning"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "Why is Neural Geometry Key for Enhancing Model Behavior?",
+        "url": "https://arxiv.org/abs/2611.26832",
+        "description": "Researchers are exploring if the geometric structure within neural networks can serve as an effective learning mechanism, potentially enhancing model performance through structural improvements rather than explicit output supervision, demonstrated initially with Llama-3.1-8B. This approach could significantly impact machine learning by simplifying training processes and improving efficiency.",
+        "keywords": "neural geometry, learning signal, fine-tune model, llama-3.1-8b, unsupervised learning, geometric structure in neural networks, improving model behavior without supervision, what is neural geometry",
+        "datePublished": "Mon, 23 Nov 2026 00:00:00 -0500",
+        "dateModified": "Mon, 23 Nov 2026 00:00:00 -0500",
+        "author": {
+          "@type": "Organization",
+          "name": "ArXiv cs.CL (Computation and Language / NLP)",
+          "url": "https://arxiv.org"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "research",
+        "inLanguage": "en-US",
+        "wordCount": 47,
+        "articleBody": "Researchers are exploring if the geometric structure within neural networks can serve as an effective learning mechanism, potentially enhancing model performance through structural improvements rather than explicit output supervision, demonstrated initially with Llama-3.1-8B. This approach could significantly impact machine learning by simplifying training processes and improving efficiency."
+      }
+    },
+    {
+      "source_id": "arxiv_cs_cl",
+      "source_name": "ArXiv cs.CL (Computation and Language / NLP)",
+      "title": "Rethinking Full-Weight LoRA with Domain and Task Adapter Scaling for Question Answering over Portuguese Well Drilling Reports",
+      "url": "https://arxiv.org/abs/2611.26833",
+      "description": "arXiv:2611.26833v1 Announce Type: new \nAbstract: Adapting large language models (LLMs) to specialized domains remains challenging, particularly for technical documents such as Portuguese well drilling reports, where annotated data are scarce and domain adaptation may compromise instruction-following",
+      "published": "Mon, 23 Nov 2026 00:00:00 -0500",
+      "score": 40,
+      "category": "research",
+      "weight": 8,
+      "format": "article",
+      "summary": "Researchers propose a method to adapt large language models for question answering on specialized domains like Portuguese well drilling reports by scaling domain and task adapters, addressing the challenge of limited annotated data and potential degradation in instruction-following abilities.",
+      "summary_detailed": "Researchers have developed a method called \"Full-Weight LoRA with Domain and Task Adapter Scaling\" to adapt large language models for question answering in specialized domains like Portuguese well drilling reports. This approach aims to address the challenge of limited annotated data while maintaining the ability of these models to follow instructions accurately. The broader impact could enhance the utility of AI in technical fields where high-domain specificity is crucial but training data are scarce.",
+      "summary_bullets": "• Rethinks Full-Weight LoRA approach for domain-specific task adaptation.\n• Introduces Domain and Task Adapter Scaling for question answering.\n• Focuses on improving LLMs for technical documents like Portuguese well drilling reports.\n• Addresses challenges of scarce annotated data in specialized domains.",
+      "sentiment": "neutral",
+      "keywords": [
+        "full-weight lora",
+        "domain adapter scaling",
+        "question answering",
+        "portuguese well drilling",
+        "technical documents"
+      ],
+      "thumbnail": null,
+      "favicon": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=64",
+      "cluster_id": "65246729-ced3-52ea-8a0b-e43f14376642",
+      "cluster_size": 1,
+      "cluster_topics": [
+        "portuguese",
+        "well",
+        "drilling",
+        "reports",
+        "domain"
+      ],
+      "geo_title": "How does adapting LLMs with domain and task adapters solve Q&A in Portuguese well drilling reports?",
+      "geo_keywords": [
+        "full-weight lora",
+        "domain adapter scaling",
+        "question answering systems",
+        "portuguese well drilling reports",
+        "technical document adaptation",
+        "scarcity of annotated data",
+        "instruction-following challenges",
+        "large language model adaptation"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "How does adapting LLMs with domain and task adapters solve Q&A in Portuguese well drilling reports?",
+        "url": "https://arxiv.org/abs/2611.26833",
+        "description": "Researchers propose a method to adapt large language models for question answering on specialized domains like Portuguese well drilling reports by scaling domain and task adapters, addressing the challenge of limited annotated data and potential degradation in instruction-following abilities.",
+        "keywords": "full-weight lora, domain adapter scaling, question answering systems, portuguese well drilling reports, technical document adaptation, scarcity of annotated data, instruction-following challenges, large language model adaptation",
+        "datePublished": "Mon, 23 Nov 2026 00:00:00 -0500",
+        "dateModified": "Mon, 23 Nov 2026 00:00:00 -0500",
+        "author": {
+          "@type": "Organization",
+          "name": "ArXiv cs.CL (Computation and Language / NLP)",
+          "url": "https://arxiv.org"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "research",
+        "inLanguage": "en-US",
+        "wordCount": 39,
+        "articleBody": "Researchers propose a method to adapt large language models for question answering on specialized domains like Portuguese well drilling reports by scaling domain and task adapters, addressing the challenge of limited annotated data and potential degradation in instruction-following abilities."
+      }
+    },
+    {
+      "source_id": "arxiv_cs_cl",
+      "source_name": "ArXiv cs.CL (Computation and Language / NLP)",
+      "title": "Non-Expanding Gated Continued Fraction Architecture for Feedforward Layers in Language Models",
+      "url": "https://arxiv.org/abs/2611.26835",
+      "description": "arXiv:2611.26835v1 Announce Type: new \nAbstract: Recent work has shown that continued fraction inspired neural architectures (CoFrGeNets) can be highly parameter efficient yet performant for language modeling. In this work, we revisit continued fraction-based channel mixing with the goal of improvin",
+      "published": "Mon, 23 Nov 2026 00:00:00 -0500",
+      "score": 40,
+      "category": "research",
+      "weight": 8,
+      "format": "article",
+      "summary": "A new research paper proposes a non-expanding gated continued fraction architecture aimed at improving channel mixing in feedforward layers of language models, focusing on parameter efficiency. This development matters as it could enhance the performance and efficiency of language models without increasing the number of parameters.",
+      "summary_detailed": "Researchers have developed a new architecture called Non-Expanding Gated Continued Fraction Architecture (NGCF-A) for feedforward layers in language models, aiming to improve parameter efficiency while maintaining performance. This work builds upon previous research on continued fraction-inspired neural architectures (CoFrGeNets). The broader impact could be more efficient and effective language models with reduced computational requirements.",
+      "summary_bullets": "• Non-Expanding Gated Continued Fraction Architecture introduced for feedforward layers.\n• Focus on improving channel mixing in language models.\n• Aims at maintaining parameter efficiency while enhancing performance.",
+      "sentiment": "neutral",
+      "keywords": [
+        "non-expanding gated",
+        "continued fraction",
+        "feedforward layers",
+        "language models",
+        "parameter efficiency"
+      ],
+      "thumbnail": null,
+      "favicon": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=64",
+      "cluster_id": "061a8ccf-cfa7-5973-818f-5dd15a2fb776",
+      "cluster_size": 1,
+      "cluster_topics": [
+        "continued",
+        "fraction",
+        "work",
+        "language",
+        "non-expanding"
+      ],
+      "geo_title": "Why is the Non-Expanding Gated Continued Fraction Architecture groundbreaking for language models?",
+      "geo_keywords": [
+        "non-expanding gated",
+        "continued fraction architecture",
+        "feedforward layers",
+        "language models",
+        "parameter efficiency",
+        "neural network architecture",
+        "performance optimization",
+        "channel mixing techniques",
+        "efficient language modeling"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "Why is the Non-Expanding Gated Continued Fraction Architecture groundbreaking for language models?",
+        "url": "https://arxiv.org/abs/2611.26835",
+        "description": "A new research paper proposes a non-expanding gated continued fraction architecture aimed at improving channel mixing in feedforward layers of language models, focusing on parameter efficiency. This development matters as it could enhance the performance and efficiency of language models without increasing the number of parameters.",
+        "keywords": "non-expanding gated, continued fraction architecture, feedforward layers, language models, parameter efficiency, neural network architecture, performance optimization, channel mixing techniques",
+        "datePublished": "Mon, 23 Nov 2026 00:00:00 -0500",
+        "dateModified": "Mon, 23 Nov 2026 00:00:00 -0500",
+        "author": {
+          "@type": "Organization",
+          "name": "ArXiv cs.CL (Computation and Language / NLP)",
+          "url": "https://arxiv.org"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "research",
+        "inLanguage": "en-US",
+        "wordCount": 46,
+        "articleBody": "A new research paper proposes a non-expanding gated continued fraction architecture aimed at improving channel mixing in feedforward layers of language models, focusing on parameter efficiency. This development matters as it could enhance the performance and efficiency of language models without increasing the number of parameters."
+      }
+    },
+    {
+      "source_id": "arxiv_cs_cl",
+      "source_name": "ArXiv cs.CL (Computation and Language / NLP)",
+      "title": "Cross-Linguistic Distinctive-Feature Constraints on Segmental Triphones: Evidence for Contrastive Dispersion",
+      "url": "https://arxiv.org/abs/2611.26837",
+      "description": "arXiv:2611.26837v1 Announce Type: new \nAbstract: Natural speech reflects articulatory and perceptual constraints, yet how these pressures shape consecutive segment transitions across languages remains underexplored. We analyze adjacent distinctive-feature distances in token-weighted segmental tripho",
+      "published": "Mon, 23 Nov 2026 00:00:00 -0500",
+      "score": 40,
+      "category": "research",
+      "weight": 8,
+      "format": "article",
+      "summary": "Researchers analyzed adjacent distinctive-feature distances in token-weighted segmental triphones to explore how articulatory and perceptual constraints influence consecutive segment transitions across languages, highlighting the importance of cross-linguistic studies in understanding speech patterns.",
+      "summary_detailed": "The study explores how articulatory and perceptual constraints influence the transitions between sounds in natural speech across different languages. Researchers analyzed distinctive-feature distances in triphones, finding evidence that these constraints lead to contrastive dispersion, suggesting that languages adapt to minimize confusion despite sharing similar phonetic features. This research contributes to our understanding of linguistic diversity and the universal principles governing speech production and perception.",
+      "summary_bullets": "• The study examines how articulatory and perceptual constraints influence consecutive segment transitions in speech.\n• It focuses on the analysis of adjacent distinctive-feature distances within segmental triphones.\n• The research aims to explore these pressures across different languages.",
+      "sentiment": "neutral",
+      "keywords": [
+        "cross-linguistic",
+        "distinctive-feature",
+        "constraints",
+        "segmental",
+        "triphones",
+        "contrastive",
+        "dispersion"
+      ],
+      "thumbnail": null,
+      "favicon": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=64",
+      "cluster_id": "69f276a7-e505-5b7c-86a7-192911a1e323",
+      "cluster_size": 1,
+      "cluster_topics": [
+        "distinctive-feature",
+        "constraints",
+        "segmental",
+        "cross-linguistic",
+        "triphones"
+      ],
+      "geo_title": "Why do linguistic constraints affect segmental transitions differently across languages?",
+      "geo_keywords": [
+        "cross-linguistic analysis",
+        "distinctive feature constraints",
+        "segmental transitions",
+        "triphones",
+        "speech articulatory constraints",
+        "perceptual pressures in speech",
+        "how languages differ in speech patterns",
+        "evidence for contrastive dispersion in phonetics",
+        "linguistic research on speech technology",
+        "analyzing speech across languages"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "Why do linguistic constraints affect segmental transitions differently across languages?",
+        "url": "https://arxiv.org/abs/2611.26837",
+        "description": "Researchers analyzed adjacent distinctive-feature distances in token-weighted segmental triphones to explore how articulatory and perceptual constraints influence consecutive segment transitions across languages, highlighting the importance of cross-linguistic studies in understanding speech patterns.",
+        "keywords": "cross-linguistic analysis, distinctive feature constraints, segmental transitions, triphones, speech articulatory constraints, perceptual pressures in speech, how languages differ in speech patterns, evidence for contrastive dispersion in phonetics",
+        "datePublished": "Mon, 23 Nov 2026 00:00:00 -0500",
+        "dateModified": "Mon, 23 Nov 2026 00:00:00 -0500",
+        "author": {
+          "@type": "Organization",
+          "name": "ArXiv cs.CL (Computation and Language / NLP)",
+          "url": "https://arxiv.org"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "research",
+        "inLanguage": "en-US",
+        "wordCount": 32,
+        "articleBody": "Researchers analyzed adjacent distinctive-feature distances in token-weighted segmental triphones to explore how articulatory and perceptual constraints influence consecutive segment transitions across languages, highlighting the importance of cross-linguistic studies in understanding speech patterns."
+      }
+    },
+    {
+      "source_id": "arxiv_cs_cl",
+      "source_name": "ArXiv cs.CL (Computation and Language / NLP)",
+      "title": "Weight-Space Programming Writes In-Context Learning and Matches Fine-Tuning in Language Models",
+      "url": "https://arxiv.org/abs/2611.26841",
+      "description": "arXiv:2611.26841v1 Announce Type: new \nAbstract: Weight-space programming is a frontier language model's recently reported ability to read and rewrite another network's weights without gradient descent. We investigate how examples can provide a weight update so that a weaker language model performs",
+      "published": "Mon, 23 Nov 2026 00:00:00 -0500",
+      "score": 40,
+      "category": "research",
+      "weight": 8,
+      "format": "article",
+      "summary": "Researchers have discovered that weight-space programming allows a language model to rewrite another network's weights without using gradient descent, enabling in-context learning. This breakthrough could potentially match the performance of fine-tuning and is significant for advancing language model capabilities and efficiency.",
+      "summary_detailed": "Researchers have discovered that weight-space programming allows a language model to modify the weights of another network, effectively learning in context without traditional gradient descent methods. This technique enables even weaker models to match fine-tuning performance, potentially revolutionizing how language models are trained and used in various applications. The broader impact could include more efficient and versatile AI systems with improved adaptability across different tasks.",
+      "summary_bullets": "• Weight-space programming allows language models to modify other networks' weights.\n• Examples can guide updates in the model's weights for improved performance.\n• A weaker language model can match fine-tuning results using this method.",
+      "sentiment": "neutral",
+      "keywords": [
+        "weight-space programming",
+        "in-context learning",
+        "fine-tuning",
+        "language models",
+        "network weights"
+      ],
+      "thumbnail": null,
+      "favicon": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=64",
+      "cluster_id": "e1f12e32-83ad-5b0c-a0aa-438d7c212988",
+      "cluster_size": 1,
+      "cluster_topics": [
+        "weight-space",
+        "programming",
+        "language",
+        "model",
+        "in-context"
+      ],
+      "geo_title": "Why is weight-space programming a game changer for language models?",
+      "geo_keywords": [
+        "weight-space programming",
+        "in-context learning",
+        "fine-tuning",
+        "language models",
+        "network weights",
+        "machine learning techniques",
+        "ai optimization",
+        "neural network updates",
+        "model performance improvement",
+        "what is weight-space programming",
+        "how does in-context learning work"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "Why is weight-space programming a game changer for language models?",
+        "url": "https://arxiv.org/abs/2611.26841",
+        "description": "Researchers have discovered that weight-space programming allows a language model to rewrite another network's weights without using gradient descent, enabling in-context learning. This breakthrough could potentially match the performance of fine-tuning and is significant for advancing language model capabilities and efficiency.",
+        "keywords": "weight-space programming, in-context learning, fine-tuning, language models, network weights, machine learning techniques, ai optimization, neural network updates",
+        "datePublished": "Mon, 23 Nov 2026 00:00:00 -0500",
+        "dateModified": "Mon, 23 Nov 2026 00:00:00 -0500",
+        "author": {
+          "@type": "Organization",
+          "name": "ArXiv cs.CL (Computation and Language / NLP)",
+          "url": "https://arxiv.org"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "research",
+        "inLanguage": "en-US",
+        "wordCount": 41,
+        "articleBody": "Researchers have discovered that weight-space programming allows a language model to rewrite another network's weights without using gradient descent, enabling in-context learning. This breakthrough could potentially match the performance of fine-tuning and is significant for advancing language model capabilities and efficiency."
+      }
+    },
+    {
+      "source_id": "arxiv_cs_cl",
+      "source_name": "ArXiv cs.CL (Computation and Language / NLP)",
+      "title": "LLMs Memorize Their Own Hallucinations During Post-Training",
+      "url": "https://arxiv.org/abs/2611.26863",
+      "description": "arXiv:2611.26863v1 Announce Type: new \nAbstract: Reasoning domains have shaped the post-training recipes of frontier models even though they are trained and deployed in domains beyond math and code. In this paper, we study the consequences of directly adopting reasoning-centric training recipes, e.g",
+      "published": "Mon, 23 Nov 2026 00:00:00 -0500",
+      "score": 40,
+      "category": "research",
+      "weight": 8,
+      "format": "article",
+      "summary": "The study reveals that large language models (LLMs) retain and sometimes repeat their own hallucinations after training, highlighting concerns about the reliability of these models when applied outside their original domains like math and code. This matters because it underscores potential risks in using LLMs in diverse reasoning tasks where accuracy is crucial.",
+      "summary_detailed": "The research paper \"LLMs Memorize Their Own Hallucinations During Post-Training\" found that large language models (LLMs) trained with reasoning-centric methods memorize incorrect information learned during post-training, even when deployed in domains unrelated to math and coding. This issue highlights potential risks associated with certain training practices and their broader implications for the reliability of LLMs across various applications.",
+      "summary_bullets": "• LLMs memorize hallucinations made during post-training.\n• Reasoning-centric training methods affect model behavior post-deployment.\n• Models trained with these methods retain information from hallucinations.",
+      "sentiment": "negative",
+      "keywords": [
+        "llms",
+        "hallucinations",
+        "post-training",
+        "reasoning",
+        "domains"
+      ],
+      "thumbnail": null,
+      "favicon": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=64",
+      "cluster_id": "9deb80df-c8ae-5b50-8311-2ca7947b09ff",
+      "cluster_size": 1,
+      "cluster_topics": [
+        "recipes",
+        "post-training",
+        "domains",
+        "memorize",
+        "own"
+      ],
+      "geo_title": "Why is reasoning domain shaping LLMs post-training despite initial scope?",
+      "geo_keywords": [
+        "llms memorize hallucinations",
+        "post-training consequences",
+        "reasoning-centric models",
+        "ai reasoning errors",
+        "memory issues in llm",
+        "how llsm remember mistakes",
+        "post-training hallucinations in llsms",
+        "llsms and memory errors",
+        "addressing llm hallucinations after training"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "Why is reasoning domain shaping LLMs post-training despite initial scope?",
+        "url": "https://arxiv.org/abs/2611.26863",
+        "description": "The study reveals that large language models (LLMs) retain and sometimes repeat their own hallucinations after training, highlighting concerns about the reliability of these models when applied outside their original domains like math and code. This matters because it underscores potential risks in using LLMs in diverse reasoning tasks where accuracy is crucial.",
+        "keywords": "llms memorize hallucinations, post-training consequences, reasoning-centric models, ai reasoning errors, memory issues in llm, how llsm remember mistakes, post-training hallucinations in llsms, llsms and memory errors",
+        "datePublished": "Mon, 23 Nov 2026 00:00:00 -0500",
+        "dateModified": "Mon, 23 Nov 2026 00:00:00 -0500",
+        "author": {
+          "@type": "Organization",
+          "name": "ArXiv cs.CL (Computation and Language / NLP)",
+          "url": "https://arxiv.org"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "research",
+        "inLanguage": "en-US",
+        "wordCount": 53,
+        "articleBody": "The study reveals that large language models (LLMs) retain and sometimes repeat their own hallucinations after training, highlighting concerns about the reliability of these models when applied outside their original domains like math and code. This matters because it underscores potential risks in using LLMs in diverse reasoning tasks where accuracy is crucial."
+      }
+    }
+  ],
+  "enriched": true,
+  "enriched_at": "2026-11-23T09:02:06.799002+00:00",
+  "enricher_model": "qwen2.5-7b",
+  "clustered": true,
+  "clustered_at": "2026-11-23T09:02:06.967514+00:00",
+  "cluster_threshold": 0.3,
+  "geo_metadata": {
+    "date": "2026-11-23",
+    "generated_at": "2026-11-23T09:03:05.648677+00:00",
+    "schemas_generated": 30,
+    "topics": [
+      "2028",
+      "addressing llm hallucinations after training",
+      "advancing medical technology through ai",
+      "agent skills",
+      "agent skills privacy",
+      "agentic skills ethical considerations",
+      "ai",
+      "ai agent",
+      "ai agent book",
+      "ai agent coding",
+      "ai agent creation",
+      "ai agent design",
+      "ai agent development",
+      "ai agent implementation",
+      "ai agent practice",
+      "ai agent programming",
+      "ai agent skill",
+      "ai agent technology",
+      "ai and apis",
+      "ai and climate change impact",
+      "ai assistant privacy concerns",
+      "ai assistants",
+      "ai coding practices",
+      "ai development tips",
+      "ai ethics",
+      "ai ethics gender",
+      "ai gateway",
+      "ai generated summary",
+      "ai in environmental disasters",
+      "ai in web development",
+      "ai information synthesis",
+      "ai integration",
+      "ai knowledge aggregation",
+      "ai model development process",
+      "ai model evaluation",
+      "ai model perplexity",
+      "ai model testing",
+      "ai model updates",
+      "ai models",
+      "ai optimization",
+      "ai reasoning errors",
+      "ai reasoning techniques",
+      "ai research",
+      "ai search engine discovery",
+      "ai security",
+      "ai summarize",
+      "ai technologies and their carbon footprint",
+      "ai topic research",
+      "ai's role in exacerbating climate issues",
+      "ai-assisted"
+    ],
+    "faq_items": [
+      {
+        "question": "What is perplexity in the context of AI?",
+        "answer": "Perplexity is a measure used to evaluate how well a probability model predicts a sample. In natural language processing, it's often used to assess how unpredictable or complex a text is."
+      },
+      {
+        "question": "What does the book 《深入理解 AI Agent：设计原理与工程实践》 cover?",
+        "answer": "The book covers the design principles and engineering practices of AI agents in detail, providing comprehensive insights into their development."
+      },
+      {
+        "question": "Can you explain the AI agent skill that researches any topic online?",
+        "answer": "This AI agent skill gathers information from various sources like Reddit, X, YouTube, HN, Polymarket, and the web, then synthesizes a report on any given topic."
+      },
+      {
+        "question": "What is the purpose of the Ponytail project?",
+        "answer": "The Ponytail project makes AI agents act as the laziest senior developer, aiming to generate code that avoids writing unnecessary code or over-engineering solutions."
+      },
+      {
+        "question": "What is the game where you are an LLM's subagent about?",
+        "answer": "In this game, players take on the role of a subagent to an LLM (large language model), navigating tasks and decisions typically handled by such models."
+      }
+    ]
+  },
+  "geo_enriched": true,
+  "geo_enriched_at": "2026-11-23T09:03:05.648677+00:00"
+}
