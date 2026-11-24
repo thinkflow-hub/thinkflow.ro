@@ -1,19 +1,79 @@
 {
   "date": "2026-11-23",
-  "generated_at": "2026-11-24T05:00:07.556109+00:00",
+  "generated_at": "2026-11-24T09:02:22.453461+00:00",
   "results": {
-    "trending_agent": {
-      "verification_status": "unconfirmed",
-      "sources_count": 1,
+    "openai_blog": {
+      "verification_status": "verified",
+      "sources_count": 2,
       "sources": [
-        "GitHub Trending — AI Agents"
+        "OpenAI Blog",
+        "GitHub Trending — AI"
+      ]
+    },
+    "trending_agent": {
+      "verification_status": "verified",
+      "sources_count": 2,
+      "sources": [
+        "GitHub Trending — AI Agents",
+        "OpenAI Blog"
       ]
     },
     "trending_ai": {
+      "verification_status": "verified",
+      "sources_count": 2,
+      "sources": [
+        "Google AI Blog",
+        "GitHub Trending — AI"
+      ]
+    },
+    "google_ai_blog": {
+      "verification_status": "verified",
+      "sources_count": 2,
+      "sources": [
+        "Google AI Blog",
+        "GitHub Trending — AI"
+      ]
+    },
+    "deepmind_blog": {
       "verification_status": "unconfirmed",
       "sources_count": 1,
       "sources": [
-        "GitHub Trending — AI"
+        "DeepMind Blog"
+      ]
+    },
+    "huggingface_blog": {
+      "verification_status": "unconfirmed",
+      "sources_count": 1,
+      "sources": [
+        "Hugging Face Blog"
+      ]
+    },
+    "hn_ai_24h": {
+      "verification_status": "unconfirmed",
+      "sources_count": 1,
+      "sources": [
+        "HN top AI 24h"
+      ]
+    },
+    "marktechpost": {
+      "verification_status": "unconfirmed",
+      "sources_count": 1,
+      "sources": [
+        "MarkTechPost"
+      ]
+    },
+    "import_ai": {
+      "verification_status": "unconfirmed",
+      "sources_count": 1,
+      "sources": [
+        "Import AI (Jack Clark)"
+      ]
+    },
+    "mit_technology_review_ai": {
+      "verification_status": "unconfirmed",
+      "sources_count": 1,
+      "sources": [
+        "MIT Technology Review AI"
       ]
     },
     "ggml_releases": {
