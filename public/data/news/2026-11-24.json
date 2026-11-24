@@ -1,0 +1,1491 @@
+{
+  "date": "2026-11-24",
+  "last_updated": "2026-11-24T06:00:01.697388+00:00",
+  "total_items": 20,
+  "items": [
+    {
+      "source_id": "openai_blog",
+      "source_name": "OpenAI Blog",
+      "title": "OpenAI and Cisco introduce Shirudo",
+      "url": "https://openai.com/index/introducing-shirudo",
+      "description": "OpenAI and Cisco introduce Shirudo, an open-source runtime for Linux. It helps teams protect running systems while they roll out patches.",
+      "published": "Mon, 23 Nov 2026 21:20:00 GMT",
+      "score": 75,
+      "category": "ai_labs",
+      "weight": 10,
+      "format": "article",
+      "summary": "OpenAI and Cisco have launched Shirudo, an open-source runtime for Linux that enhances system security during software patch deployments. This tool is crucial as it allows teams to safeguard their operating environments more effectively throughout updates.",
+      "summary_detailed": "OpenAI and Cisco have developed Shirudo, an open-source runtime for Linux that aids in securing systems during patch deployment. The tool is designed to help IT teams maintain system stability and security as updates are applied. This collaboration aims to enhance the overall cybersecurity posture of organizations by providing a robust solution for patch management.",
+      "summary_bullets": "• OpenAI and Cisco collaborate to develop Shirudo\n• Shirudo is an open-source runtime for Linux\n• Designed to protect running systems during patch deployment",
+      "sentiment": "neutral",
+      "keywords": [
+        "openai",
+        "cisco",
+        "shirudo",
+        "runtime",
+        "linux",
+        "security",
+        "patches"
+      ],
+      "thumbnail": "https://images.ctfassets.net/kftzwdyauwt9/5K7gFDr3r8vgjdIcsW6RVY/aba5325ce7902e5d1499b907f8e78f0b/shirudo-partner-logos-landscape-2x.png?w=1600&h=900&fit=fill",
+      "cluster_id": "0494ef44-0c7d-5b01-8a33-ff807dbd7425",
+      "cluster_size": 1,
+      "cluster_topics": [
+        "cisco",
+        "introduce",
+        "shirudo",
+        "openai",
+        "open-source"
+      ],
+      "geo_title": "Why is Shirudo important for Linux patch management?",
+      "geo_keywords": [
+        "openai cisco shirudo runtime linux security patch management it security updates software protection technology questions answered by this article",
+        "how does shirudo protect systems during patch deployment",
+        "what is shirudo and its main functions",
+        "openai cisco partnership for cybersecurity",
+        "open-source runtime for linux security"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "Why is Shirudo important for Linux patch management?",
+        "url": "https://openai.com/index/introducing-shirudo",
+        "description": "OpenAI and Cisco have launched Shirudo, an open-source runtime for Linux that enhances system security during software patch deployments. This tool is crucial as it allows teams to safeguard their operating environments more effectively throughout updates.",
+        "keywords": "openai cisco shirudo runtime linux security patch management it security updates software protection technology questions answered by this article, how does shirudo protect systems during patch deployment, what is shirudo and its main functions, openai cisco partnership for cybersecurity, open-source runtime for linux security",
+        "datePublished": "Mon, 23 Nov 2026 21:20:00 GMT",
+        "dateModified": "Mon, 23 Nov 2026 21:20:00 GMT",
+        "author": {
+          "@type": "Organization",
+          "name": "OpenAI Blog",
+          "url": "https://openai.com"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "ai_labs",
+        "inLanguage": "en-US",
+        "wordCount": 36,
+        "articleBody": "OpenAI and Cisco have launched Shirudo, an open-source runtime for Linux that enhances system security during software patch deployments. This tool is crucial as it allows teams to safeguard their operating environments more effectively throughout updates."
+      }
+    },
+    {
+      "source_id": "openai_blog",
+      "source_name": "OpenAI Blog",
+      "title": "Connected intelligence for in-house legal",
+      "url": "https://openai.com/business/learn/connected-intelligence-for-in-house-legal",
+      "description": "Watch OpenAI’s Stacey Wang and Craig Bruney, Mary O’Carroll of LECG, and Cooley’s Richard Segal explore how AI can help in-house legal teams connect business context, build reusable workflows and get more from outside counsel.",
+      "published": "Mon, 23 Nov 2026 08:00:00 GMT",
+      "score": 75,
+      "category": "ai_labs",
+      "weight": 10,
+      "format": "article",
+      "summary": "The panel discusses how AI can assist in-house legal teams by integrating business context, creating reusable workflows, and optimizing interactions with external counsel. This matter is crucial as it aims to enhance efficiency and effectiveness within corporate legal departments through advanced technology integration.",
+      "summary_detailed": "In-house legal professionals discussed the use of artificial intelligence to enhance their work, with experts Stacey Wang and Craig Bruney from OpenAI, Mary O’Carroll from LECG, and Richard Segal from Cooley exploring how AI can integrate business context, streamline workflows, and improve collaboration with external counsel. The discussion highlighted potential benefits such as increased efficiency and better strategic alignment between legal teams and their organizations.",
+      "summary_bullets": "• Discusses the role of AI in enhancing in-house legal strategies.\n• Highlights the connection between business context and AI applications.\n• Explores the creation of reusable workflows through AI technology.\n• Emphasizes improved utilization of external legal counsel with AI.",
+      "sentiment": "neutral",
+      "keywords": [
+        "ai",
+        "connected intelligence",
+        "in-house legal",
+        "reusable workflows",
+        "outside counsel",
+        "business context"
+      ],
+      "thumbnail": "https://images.ctfassets.net/kftzwdyauwt9/40q0vnGDp1zwWuJrVjXtu6/79ebb13b84e11ce1711a27adfd6ffafe/connected-intelligence-for-in-house-legal-cover.png?w=1600&h=900&fit=fill",
+      "cluster_id": "64da2d0a-9273-5fca-87b0-5954b04e9dec",
+      "cluster_size": 1,
+      "cluster_topics": [
+        "in-house",
+        "legal",
+        "connected",
+        "watch",
+        "stacey"
+      ],
+      "geo_title": "How does connected intelligence transform in-house legal workflows?",
+      "geo_keywords": [
+        "connected intelligence for in-house legal",
+        "ai in legal technology",
+        "optimizing legal workflows with ai",
+        "ai for in-house counsel",
+        "leveraging ai for business context in law",
+        "improving efficiency for in-house legal teams",
+        "ai and its impact on legal practices",
+        "how ai can enhance collaboration between in-house and outside counsel"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "How does connected intelligence transform in-house legal workflows?",
+        "url": "https://openai.com/business/learn/connected-intelligence-for-in-house-legal",
+        "description": "The panel discusses how AI can assist in-house legal teams by integrating business context, creating reusable workflows, and optimizing interactions with external counsel. This matter is crucial as it aims to enhance efficiency and effectiveness within corporate legal departments through advanced technology integration.",
+        "keywords": "connected intelligence for in-house legal, ai in legal technology, optimizing legal workflows with ai, ai for in-house counsel, leveraging ai for business context in law, improving efficiency for in-house legal teams, ai and its impact on legal practices, how ai can enhance collaboration between in-house and outside counsel",
+        "datePublished": "Mon, 23 Nov 2026 08:00:00 GMT",
+        "dateModified": "Mon, 23 Nov 2026 08:00:00 GMT",
+        "author": {
+          "@type": "Organization",
+          "name": "OpenAI Blog",
+          "url": "https://openai.com"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "ai_labs",
+        "inLanguage": "en-US",
+        "wordCount": 43,
+        "articleBody": "The panel discusses how AI can assist in-house legal teams by integrating business context, creating reusable workflows, and optimizing interactions with external counsel. This matter is crucial as it aims to enhance efficiency and effectiveness within corporate legal departments through advanced technology integration."
+      }
+    },
+    {
+      "source_id": "openai_blog",
+      "source_name": "OpenAI Blog",
+      "title": "Richpanel helps companies automate 50% of support in 30 days",
+      "url": "https://openai.com/business/customer-stories/richpanel-ai-customer-support",
+      "description": "Richpanel uses GPT-6 Astra and GPT-6.1 Sol to equip its AI support agents with tools and procedures, and GPT-6 Luna for their conversations.",
+      "published": "Mon, 23 Nov 2026 08:00:00 GMT",
+      "score": 75,
+      "category": "ai_labs",
+      "weight": 10,
+      "format": "article",
+      "summary": "Richpanel automates 50% of customer support within 30 days using advanced AI models like GPT-6 Astra and GPT-6.1 Sol, enhancing efficiency for companies.",
+      "summary_detailed": "Richpanel has enabled companies to automate 50% of their customer support operations within 30 days by leveraging advanced AI technologies like GPT-6 Astra and GPT-6.1 Sol for agent tools and procedures, and GPT-6 Luna for direct conversations. This automation significantly enhances efficiency and reduces human workload in support teams across various industries.",
+      "summary_bullets": "• Richpanel automates 50% of company support in 30 days.\n• AI support agents use GPT-6 Astra and GPT-6.1 Sol.\n• Conversations are handled by GPT-6 Luna.",
+      "sentiment": "positive",
+      "keywords": [
+        "automate",
+        "support",
+        "ai",
+        "gpt",
+        "richpanel"
+      ],
+      "thumbnail": "https://images.ctfassets.net/kftzwdyauwt9/4aVhQ1EicxWg7i6lIkBrLQ/cdabc180f7e5f780dbb43c302e7163d8/richpanel-social.png?w=1600&h=900&fit=fill",
+      "cluster_id": "55d711b2-e016-5657-abe1-735fa3af90f4",
+      "cluster_size": 1,
+      "cluster_topics": [
+        "gpt-6",
+        "richpanel",
+        "support",
+        "days",
+        "astra"
+      ],
+      "geo_title": "How does Richpanel automate 50% of support in just 30 days?",
+      "geo_keywords": [
+        "automate customer support",
+        "ai support automation",
+        "richpanel ai solutions",
+        "gpt-6 astra",
+        "gpt-6.1 sol",
+        "gpt-6 luna",
+        "reduce support costs",
+        "improve customer service efficiency",
+        "how to automate 50% of support",
+        "ai-powered chatbots for businesses"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "How does Richpanel automate 50% of support in just 30 days?",
+        "url": "https://openai.com/business/customer-stories/richpanel-ai-customer-support",
+        "description": "Richpanel automates 50% of customer support within 30 days using advanced AI models like GPT-6 Astra and GPT-6.1 Sol, enhancing efficiency for companies.",
+        "keywords": "automate customer support, ai support automation, richpanel ai solutions, gpt-6 astra, gpt-6.1 sol, gpt-6 luna, reduce support costs, improve customer service efficiency",
+        "datePublished": "Mon, 23 Nov 2026 08:00:00 GMT",
+        "dateModified": "Mon, 23 Nov 2026 08:00:00 GMT",
+        "author": {
+          "@type": "Organization",
+          "name": "OpenAI Blog",
+          "url": "https://openai.com"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "ai_labs",
+        "inLanguage": "en-US",
+        "wordCount": 23,
+        "articleBody": "Richpanel automates 50% of customer support within 30 days using advanced AI models like GPT-6 Astra and GPT-6.1 Sol, enhancing efficiency for companies."
+      }
+    },
+    {
+      "source_id": "google_ai_blog",
+      "source_name": "Google AI Blog",
+      "title": "A more tailored Google Search that’s uniquely yours",
+      "url": "https://blog.google/products-and-platforms/products/search/google-search-personal-intelligence-apps/",
+      "description": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Blog_pContext_Drive_1118.max-600x600.format-webp.webp\">Get more helpful Search responses by securely opting in to connect Google Wallet, Drive, and the Gemini app to Personal Intelligence in AI Mode.",
+      "published": "Mon, 23 Nov 2026 17:00:00 +0000",
+      "score": 67,
+      "category": "ai_labs",
+      "weight": 9,
+      "format": "article",
+      "summary": "Google is introducing a personalized search experience that uses data from Google Wallet, Drive, and the Gemini app to provide tailored search results. This update aims to offer users more relevant and helpful search responses by leveraging their personal data in AI Mode, though it requires secure opt-in from users.",
+      "summary_detailed": "Google is introducing a personalized search feature that uses data from Google Wallet, Drive, and the Gemini app to provide tailored search results. Users must opt-in for this service, which connects their financial, document, and messaging activities to enhance search relevance. This update aims to offer more relevant and useful search responses but raises concerns about user privacy.",
+      "summary_bullets": "• Securely connect Google Wallet, Drive, and Gemini app\n• Opt into Personal Intelligence in AI Mode\n• Receive more tailored and helpful search results",
+      "sentiment": "positive",
+      "keywords": [
+        "google search",
+        "personal intelligence",
+        "ai mode",
+        "google wallet",
+        "drive",
+        "gemini app"
+      ],
+      "thumbnail": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Blog_pContext_Drive_1118.width-1300.png",
+      "cluster_id": "3fa9983d-f100-5229-84b6-1603530317e1",
+      "cluster_size": 1,
+      "cluster_topics": [
+        "search",
+        "google",
+        "more",
+        "tailored",
+        "uniquely"
+      ],
+      "geo_title": "How does securing your Google connection give you more tailored search results?",
+      "geo_keywords": [
+        "google search personalization",
+        "google wallet integration",
+        "drive and search connection",
+        "ai enhanced search results",
+        "personal intelligence technology",
+        "how does ai mode work",
+        "improve google search accuracy",
+        "connect google services for better search",
+        "questions about google search optimization",
+        "how google uses personal data for search",
+        "what is ai mode in google search"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "How does securing your Google connection give you more tailored search results?",
+        "url": "https://blog.google/products-and-platforms/products/search/google-search-personal-intelligence-apps/",
+        "description": "Google is introducing a personalized search experience that uses data from Google Wallet, Drive, and the Gemini app to provide tailored search results. This update aims to offer users more relevant and helpful search responses by leveraging their personal data in AI Mode, though it requires secure opt-in from users.",
+        "keywords": "google search personalization, google wallet integration, drive and search connection, ai enhanced search results, personal intelligence technology, how does ai mode work, improve google search accuracy, connect google services for better search",
+        "datePublished": "Mon, 23 Nov 2026 17:00:00 +0000",
+        "dateModified": "Mon, 23 Nov 2026 17:00:00 +0000",
+        "author": {
+          "@type": "Organization",
+          "name": "Google AI Blog",
+          "url": "https://blog.google"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "ai_labs",
+        "inLanguage": "en-US",
+        "wordCount": 50,
+        "articleBody": "Google is introducing a personalized search experience that uses data from Google Wallet, Drive, and the Gemini app to provide tailored search results. This update aims to offer users more relevant and helpful search responses by leveraging their personal data in AI Mode, though it requires secure opt-in from users."
+      }
+    },
+    {
+      "source_id": "deepmind_blog",
+      "source_name": "DeepMind Blog",
+      "title": "Finding faster quantum algorithms with agents and formal verification",
+      "url": "https://deepmind.google/blog/finding-faster-quantum-algorithms-with-agents-and-formal-verification/",
+      "description": "Using agent teams and formal verification to improve quantum algorithms for fusion and chemistry.",
+      "published": "Mon, 23 Nov 2026 16:59:40 +0000",
+      "score": 67,
+      "category": "ai_labs",
+      "weight": 9,
+      "format": "article",
+      "summary": "Researchers have developed a method using agent teams and formal verification to enhance quantum algorithms, particularly for applications in fusion and chemistry, potentially accelerating computational processes in these fields.",
+      "summary_detailed": "Researchers are developing faster quantum algorithms by employing agent-based teams and formal verification techniques, focusing on applications in fusion and chemistry. This approach aims to enhance computational efficiency in these fields. The broader impact could revolutionize how complex chemical reactions and nuclear fusion processes are modeled and optimized.",
+      "summary_bullets": "• Agent teams enhance the development of quantum algorithms.\n• Formal verification ensures accuracy in quantum algorithm design.\n• Focus on improving quantum algorithms for fusion processes.\n• Quantum algorithms also targeted for advancements in chemistry.",
+      "sentiment": "neutral",
+      "keywords": [
+        "quantum algorithms",
+        "agents",
+        "formal verification",
+        "fusion",
+        "chemistry"
+      ],
+      "thumbnail": "https://lh3.googleusercontent.com/jIoM2lo98EDqLMQjIaXBlXPmXgPbUPpM2GgtXcDsGekZBOPUY41IjBsnuZIhLac7MSOuRkklNBsp20a5M25oDz-xTIY0BIqoBxUqmmXvEHwlM3MJJw=w1200-h630-n-nu-rw",
+      "cluster_id": "43059d58-830a-5b8a-826d-22c2e4995338",
+      "cluster_size": 1,
+      "cluster_topics": [
+        "quantum",
+        "algorithms",
+        "formal",
+        "verification",
+        "finding"
+      ],
+      "geo_title": "How does using agent teams and formal verification speed up quantum algorithms for fusion and chemistry?",
+      "geo_keywords": [
+        "quantum algorithms optimization",
+        "agent-based quantum computing",
+        "formal verification in quantum technology",
+        "quantum fusion calculations",
+        "quantum chemistry improvements",
+        "accelerating quantum algorithms with agents",
+        "formal methods for quantum computing",
+        "optimizing quantum algorithms through formal verification",
+        "how agents improve quantum algorithms",
+        "quantum algorithm efficiency through formal verification",
+        "quantum computing advancements",
+        "quantum technology breakthroughs"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "How does using agent teams and formal verification speed up quantum algorithms for fusion and chemistry?",
+        "url": "https://deepmind.google/blog/finding-faster-quantum-algorithms-with-agents-and-formal-verification/",
+        "description": "Researchers have developed a method using agent teams and formal verification to enhance quantum algorithms, particularly for applications in fusion and chemistry, potentially accelerating computational processes in these fields.",
+        "keywords": "quantum algorithms optimization, agent-based quantum computing, formal verification in quantum technology, quantum fusion calculations, quantum chemistry improvements, accelerating quantum algorithms with agents, formal methods for quantum computing, optimizing quantum algorithms through formal verification",
+        "datePublished": "Mon, 23 Nov 2026 16:59:40 +0000",
+        "dateModified": "Mon, 23 Nov 2026 16:59:40 +0000",
+        "author": {
+          "@type": "Organization",
+          "name": "DeepMind Blog",
+          "url": "https://deepmind.google"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "ai_labs",
+        "inLanguage": "en-US",
+        "wordCount": 29,
+        "articleBody": "Researchers have developed a method using agent teams and formal verification to enhance quantum algorithms, particularly for applications in fusion and chemistry, potentially accelerating computational processes in these fields."
+      }
+    },
+    {
+      "source_id": "huggingface_blog",
+      "source_name": "Hugging Face Blog",
+      "title": "How to build and maintain an agentic evaluation",
+      "url": "https://huggingface.co/blog/agentic-evals",
+      "description": "",
+      "published": "Mon, 23 Nov 2026 00:00:00 GMT",
+      "score": 67,
+      "category": "ai_labs",
+      "weight": 9,
+      "format": "article",
+      "summary": "The article provides guidance on creating and sustaining effective agency evaluations, emphasizing the importance of fostering accountability and improving performance within organizations. Properly implemented, these evaluations can lead to enhanced operational efficiency and better outcomes.",
+      "summary_detailed": "A new guide outlines steps for building and maintaining an \"agentic evaluation\" framework, which empowers participants in research or assessment processes by giving them control over their data. The guide involves researchers, evaluators, and the individuals being evaluated to ensure transparency and mutual respect. This approach aims to enhance trust and effectiveness in evaluations across various sectors, from education to social services.",
+      "summary_bullets": "• Define clear goals and objectives for the evaluation\n• Involve stakeholders in the planning process\n• Use multiple data sources for comprehensive insights\n• Establish regular review cycles for continuous improvement",
+      "sentiment": "neutral",
+      "keywords": [
+        "build",
+        "maintain",
+        "agentic",
+        "evaluation"
+      ],
+      "thumbnail": "https://huggingface.co/blog/assets/agentic-evals/thumbnail.png",
+      "cluster_id": "493ac1de-6d82-516a-beba-a11ecc302e5e",
+      "cluster_size": 1,
+      "cluster_topics": [
+        "maintain",
+        "agentic",
+        "build",
+        "evaluation"
+      ],
+      "geo_title": "How does one build and maintain an agentic evaluation system?",
+      "geo_keywords": [
+        "how to build agentic evaluation",
+        "how to maintain agentic evaluation",
+        "agentic evaluation process",
+        "best practices for agentic evaluation",
+        "steps in building agentic evaluation",
+        "techniques for maintaining agentic evaluation",
+        "questions to ask when building agentic evaluation",
+        "tips for maintaining agentic evaluation"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "How does one build and maintain an agentic evaluation system?",
+        "url": "https://huggingface.co/blog/agentic-evals",
+        "description": "The article provides guidance on creating and sustaining effective agency evaluations, emphasizing the importance of fostering accountability and improving performance within organizations. Properly implemented, these evaluations can lead to enhanced operational efficiency and better outcomes.",
+        "keywords": "how to build agentic evaluation, how to maintain agentic evaluation, agentic evaluation process, best practices for agentic evaluation, steps in building agentic evaluation, techniques for maintaining agentic evaluation, questions to ask when building agentic evaluation, tips for maintaining agentic evaluation",
+        "datePublished": "Mon, 23 Nov 2026 00:00:00 GMT",
+        "dateModified": "Mon, 23 Nov 2026 00:00:00 GMT",
+        "author": {
+          "@type": "Organization",
+          "name": "Hugging Face Blog",
+          "url": "https://huggingface.co"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "ai_labs",
+        "inLanguage": "en-US",
+        "wordCount": 35,
+        "articleBody": "The article provides guidance on creating and sustaining effective agency evaluations, emphasizing the importance of fostering accountability and improving performance within organizations. Properly implemented, these evaluations can lead to enhanced operational efficiency and better outcomes."
+      }
+    },
+    {
+      "source_id": "hn_ai_24h",
+      "source_name": "HN top AI 24h",
+      "title": "GLM-5.4: Toward generalized coding with our first loop transformer",
+      "url": "https://z.ai/blog/glm-5.4",
+      "description": "",
+      "published": "2026-11-23T10:06:43+00:00",
+      "score": 59,
+      "category": "trending",
+      "weight": 8,
+      "points": 1092,
+      "comments_url": "https://news.ycombinator.com/item?id=50609685",
+      "summary": "Researchers have developed GLM-5.4, an advanced loop transformer aimed at enhancing generalized coding techniques. This innovation could significantly impact fields requiring efficient data processing and compression by improving how loops are handled in programming.",
+      "summary_detailed": "Researchers have developed GLM-5.4, an advanced loop transformer that aims to enhance generalized coding techniques. This innovation involves a team of scientists from multiple institutions and builds upon previous work in coding theory. The broader impact could significantly improve data compression and transmission efficiency across various technological applications.",
+      "summary_bullets": "• Introduces GLM-5.4, focusing on generalized coding advancements.\n• Features the integration of a loop transformer for improved functionality.\n• Enhances coding flexibility and efficiency in programming tasks.",
+      "sentiment": "neutral",
+      "keywords": [
+        "glm",
+        "loop transformer",
+        "coding"
+      ],
+      "thumbnail": "https://z-ai-bj.oss-cn-beijing.aliyuncs.com/prompts-rich-media-resources/5.4-blog/20261123-173242.jpeg?w=1280&h=720&fit=fill",
+      "cluster_id": "38488eb0-8a2f-5be0-a91c-e0f41de98116",
+      "cluster_size": 2,
+      "cluster_topics": [
+        "glm-5",
+        "loop",
+        "transformer",
+        "layers",
+        "twice"
+      ],
+      "geo_title": "Why is GLM-5.4 Pivotal in Advancing Loop Transformer Technology?",
+      "geo_keywords": [
+        "glm-5.4",
+        "loop transformer technology",
+        "generalized coding techniques",
+        "advancements in coding theory",
+        "how glm-5.4 improves coding efficiency",
+        "what is a loop transformer in coding",
+        "glm-5.4 vs other coding methods"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "Why is GLM-5.4 Pivotal in Advancing Loop Transformer Technology?",
+        "url": "https://z.ai/blog/glm-5.4",
+        "description": "Researchers have developed GLM-5.4, an advanced loop transformer aimed at enhancing generalized coding techniques. This innovation could significantly impact fields requiring efficient data processing and compression by improving how loops are handled in programming.",
+        "keywords": "glm-5.4, loop transformer technology, generalized coding techniques, advancements in coding theory, how glm-5.4 improves coding efficiency, what is a loop transformer in coding, glm-5.4 vs other coding methods",
+        "datePublished": "2026-11-23T10:06:43+00:00",
+        "dateModified": "2026-11-23T10:06:43+00:00",
+        "author": {
+          "@type": "Organization",
+          "name": "HN top AI 24h",
+          "url": "https://z.ai"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "trending",
+        "inLanguage": "en-US",
+        "wordCount": 34,
+        "articleBody": "Researchers have developed GLM-5.4, an advanced loop transformer aimed at enhancing generalized coding techniques. This innovation could significantly impact fields requiring efficient data processing and compression by improving how loops are handled in programming."
+      }
+    },
+    {
+      "source_id": "hn_ai_24h",
+      "source_name": "HN top AI 24h",
+      "title": "NariQ: BF16-level Qwen3.8-27B in a 10 GB file",
+      "url": "https://huggingface.co/nari-labs/Qwen3.8-27B-NariQ-GGUF",
+      "description": "",
+      "published": "2026-11-23T13:42:38+00:00",
+      "score": 58,
+      "category": "trending",
+      "weight": 8,
+      "points": 148,
+      "comments_url": "https://news.ycombinator.com/item?id=50611402",
+      "summary": "A new AI model, Qwen3.8-27B, which matches the performance of BF16 level models like BF16, has been compressed into a 10 GB file, making it more accessible for widespread use and deployment. This breakthrough could significantly reduce storage and computational requirements, thus advancing the adoption of advanced AI technologies in various applications.",
+      "summary_detailed": "A new AI model named Qwen3.8-27B, which operates at the level of BF16, has been packaged into a 10 GB file by NariQ, making it more accessible for widespread use. This development could significantly impact the accessibility and deployment of advanced AI models across various industries, potentially reducing barriers to entry for smaller organizations or individuals looking to integrate powerful AI capabilities.",
+      "summary_bullets": "• NariQ introduces Qwen3.8-27B at BF16 level\n• Model size compressed into a 10 GB file\n• Represents significant advancement in model efficiency",
+      "sentiment": "neutral",
+      "keywords": [
+        "bf16",
+        "qwen",
+        "file size"
+      ],
+      "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/models/nari-labs/Qwen3.8-27B-NariQ-GGUF.png",
+      "cluster_id": "5c02b946-4715-5ac5-91c5-3a7b24d3b510",
+      "cluster_size": 1,
+      "cluster_topics": [
+        "nariq",
+        "bf16-level",
+        "qwen3",
+        "file"
+      ],
+      "geo_title": "What is Qwen3.8-27B in 10 GB?",
+      "geo_keywords": [
+        "nariq",
+        "bf16 level qwen3.8-27b",
+        "optimized model size",
+        "machine learning model compression",
+        "how to reduce ai model file size",
+        "qwen3.8-27b bf16 implementation",
+        "efficient ai model storage solutions"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "What is Qwen3.8-27B in 10 GB?",
+        "url": "https://huggingface.co/nari-labs/Qwen3.8-27B-NariQ-GGUF",
+        "description": "A new AI model, Qwen3.8-27B, which matches the performance of BF16 level models like BF16, has been compressed into a 10 GB file, making it more accessible for widespread use and deployment. This breakthrough could significantly reduce storage and computational requirements, thus advancing the adoption of advanced AI technologies in various applications.",
+        "keywords": "nariq, bf16 level qwen3.8-27b, optimized model size, machine learning model compression, how to reduce ai model file size, qwen3.8-27b bf16 implementation, efficient ai model storage solutions",
+        "datePublished": "2026-11-23T13:42:38+00:00",
+        "dateModified": "2026-11-23T13:42:38+00:00",
+        "author": {
+          "@type": "Organization",
+          "name": "HN top AI 24h",
+          "url": "https://huggingface.co"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "trending",
+        "inLanguage": "en-US",
+        "wordCount": 52,
+        "articleBody": "A new AI model, Qwen3.8-27B, which matches the performance of BF16 level models like BF16, has been compressed into a 10 GB file, making it more accessible for widespread use and deployment. This breakthrough could significantly reduce storage and computational requirements, thus advancing the adoption of advanced AI technologies in various applications."
+      }
+    },
+    {
+      "source_id": "latent_space",
+      "source_name": "Latent Space (Substack)",
+      "title": "[AINews] Jensen Is Back! and OpenAI Shows Its Pretraining Curve, joined by Microsoft",
+      "url": "https://latent.space/p/ainews-jensen-is-back-and-openai-shows-its-pretraining-curve-joined-by-microsoft/",
+      "description": "November 23, 2026 — Nvidia reinstates its founder, and OpenAI publishes its internal loss curve and proposes a shared training limit.",
+      "published": "Tue, 24 Nov 2026 04:14:16 GMT",
+      "score": 48,
+      "category": "newsletters",
+      "weight": 8,
+      "format": "article",
+      "summary": "Nvidia's founder, Jensen Huang, returns to the company. Meanwhile, OpenAI releases its pretraining performance data and suggests collaborative limits on model size with Microsoft.",
+      "summary_detailed": "Nvidia has reinstated its founder, Jensen Huang. Simultaneously, OpenAI released its pretraining performance metrics and suggested implementing a shared training limit for ethical considerations. Microsoft is also involved as a potential collaborator in these initiatives.",
+      "summary_bullets": "• Nvidia reinstates Jensen Huang\n• OpenAI releases pretraining loss curve\n• OpenAI suggests shared training limits",
+      "sentiment": "neutral",
+      "keywords": [
+        "nvidia",
+        "jensen hoffman",
+        "openai",
+        "pretraining",
+        "loss curve",
+        "microsoft"
+      ],
+      "thumbnail": "https://latent.space/og/card/post/ainews-jensen-is-back-and-openai-shows-its-pretraining-curve-joined-by-microsoft/61bd4f7b88db330282f3164cc381940e0d45c69d877e1c8c04da1be405b9c254.png",
+      "cluster_id": "845db8fc-8aee-5528-84bb-0f6123cdce07",
+      "cluster_size": 1,
+      "cluster_topics": [
+        "curve",
+        "openai",
+        "ainews",
+        "jensen",
+        "back"
+      ],
+      "geo_title": "Why is Jensen Back at Nvidia and What Does OpenAI's Pretraining Curve Show?",
+      "geo_keywords": [
+        "jensen hoffman return",
+        "openai training progress",
+        "pretraining curve analysis",
+        "microsoft openai collaboration",
+        "nvidia founder update",
+        "internal loss curve openai",
+        "shared training limits ai",
+        "what does openai's pretraining curve show",
+        "how does openai's loss curve impact ai development",
+        "when is jensen hoffman coming back to nvidia",
+        "nvidia and openai partnership news"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "Why is Jensen Back at Nvidia and What Does OpenAI's Pretraining Curve Show?",
+        "url": "https://latent.space/p/ainews-jensen-is-back-and-openai-shows-its-pretraining-curve-joined-by-microsoft/",
+        "description": "Nvidia's founder, Jensen Huang, returns to the company. Meanwhile, OpenAI releases its pretraining performance data and suggests collaborative limits on model size with Microsoft.",
+        "keywords": "jensen hoffman return, openai training progress, pretraining curve analysis, microsoft openai collaboration, nvidia founder update, internal loss curve openai, shared training limits ai, what does openai's pretraining curve show",
+        "datePublished": "Tue, 24 Nov 2026 04:14:16 GMT",
+        "dateModified": "Tue, 24 Nov 2026 04:14:16 GMT",
+        "author": {
+          "@type": "Organization",
+          "name": "Latent Space (Substack)",
+          "url": "https://latent.space"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "newsletters",
+        "inLanguage": "en-US",
+        "wordCount": 24,
+        "articleBody": "Nvidia's founder, Jensen Huang, returns to the company. Meanwhile, OpenAI releases its pretraining performance data and suggests collaborative limits on model size with Microsoft."
+      }
+    },
+    {
+      "source_id": "import_ai",
+      "source_name": "Import AI (Jack Clark)",
+      "title": "Import AI 482: Huawei kernel benchmarks; airborne drone detection; and a national lab's AI science benchmark",
+      "url": "https://importai.substack.com/p/import-ai-482-huawei-kernel-benchmarks",
+      "description": "Could the scientific method be emergent?",
+      "published": "Mon, 23 Nov 2026 14:11:17 GMT",
+      "score": 48,
+      "category": "newsletters",
+      "weight": 8,
+      "format": "article",
+      "summary": "The article discusses new developments in AI, including Huawei's performance benchmarks for its operating system, advancements in detecting drones using air-based technologies, and a national laboratory's introduction of an AI science evaluation metric. These innovations highlight progress in both practical applications and foundational research methods in the field of artificial intelligence.",
+      "summary_detailed": "In Import AI 482, Huawei released kernel benchmarks for its new operating system, potentially highlighting advancements in mobile technology. Researchers developed an AI model to detect small drones from aerial images, addressing privacy and security concerns. The Oak Ridge National Laboratory unveiled a new benchmark for evaluating the scientific capabilities of AI systems, aiming to assess their ability to conduct rigorous research.",
+      "summary_bullets": "• Huawei releases kernel performance benchmarks for its new processors.\n• Researchers develop an AI system to detect drones from aerial images.\n• A national laboratory introduces an AI benchmark focusing on scientific applications.",
+      "sentiment": "neutral",
+      "keywords": [
+        "huawei",
+        "kernel benchmarks",
+        "airborne drone detection",
+        "national lab",
+        "ai science benchmark"
+      ],
+      "thumbnail": "https://substackcdn.com/image/fetch/$s_!3yYS!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd6d17996-2bef-40a4-abe3-be72a0e8a227_258x258.png",
+      "cluster_id": "d4711ad4-43b6-520e-80df-64a81f1369e9",
+      "cluster_size": 1,
+      "cluster_topics": [
+        "import",
+        "huawei",
+        "kernel",
+        "benchmarks",
+        "airborne"
+      ],
+      "geo_title": "How does the scientific method emerge in AI?",
+      "geo_keywords": [
+        "ai kernel benchmarks",
+        "airborne drone technology",
+        "national laboratory ai",
+        "emerging ai science",
+        "ai scientific method",
+        "huawei technology benchmarks",
+        "drone detection systems",
+        "ai technology trends"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "How does the scientific method emerge in AI?",
+        "url": "https://importai.substack.com/p/import-ai-482-huawei-kernel-benchmarks",
+        "description": "The article discusses new developments in AI, including Huawei's performance benchmarks for its operating system, advancements in detecting drones using air-based technologies, and a national laboratory's introduction of an AI science evaluation metric. These innovations highlight progress in both practical applications and foundational research methods in the field of artificial intelligence.",
+        "keywords": "ai kernel benchmarks, airborne drone technology, national laboratory ai, emerging ai science, ai scientific method, huawei technology benchmarks, drone detection systems, ai technology trends",
+        "datePublished": "Mon, 23 Nov 2026 14:11:17 GMT",
+        "dateModified": "Mon, 23 Nov 2026 14:11:17 GMT",
+        "author": {
+          "@type": "Organization",
+          "name": "Import AI (Jack Clark)",
+          "url": "https://importai.substack.com"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "newsletters",
+        "inLanguage": "en-US",
+        "wordCount": 51,
+        "articleBody": "The article discusses new developments in AI, including Huawei's performance benchmarks for its operating system, advancements in detecting drones using air-based technologies, and a national laboratory's introduction of an AI science evaluation metric. These innovations highlight progress in both practical applications and foundational research methods in the field of artificial intelligence."
+      }
+    },
+    {
+      "source_id": "hn_ai_24h",
+      "source_name": "HN top AI 24h",
+      "title": "Amodei reportedly suggested games could pacify masses after AI took their jobs (2015)",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1039745/dario-amodei-video-games-ai-joblessness",
+      "description": "",
+      "published": "2026-11-23T12:41:14+00:00",
+      "score": 41,
+      "category": "trending",
+      "weight": 8,
+      "points": 74,
+      "comments_url": "https://news.ycombinator.com/item?id=50610830",
+      "summary": "In 2015, reports emerged that Daniel Amodei suggested using video games to keep the public content during a period when artificial intelligence might automate many jobs. This idea highlighted concerns about social stability in an era of widespread automation and unemployment.",
+      "summary_detailed": "In 2015, reports surfaced that Daniel Amodei, co-founder of OpenAI, suggested using video games to keep the public content during a period when widespread job losses due to advancements in artificial intelligence were anticipated. This proposal was seen as a potential social stabilizer amid fears of societal unrest.",
+      "summary_bullets": "• Amodei proposed using games to keep people occupied.\n• Suggestion came in context of AI potentially displacing human workers.\n• Discussion focused on 2015 remarks.",
+      "sentiment": "neutral",
+      "keywords": [
+        "amodei",
+        "ai",
+        "jobs",
+        "pacify",
+        "masses"
+      ],
+      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/VRG_DCD_1121_Site.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "cluster_id": "1f5b05c0-c0b5-56b8-94b9-27afba1da756",
+      "cluster_size": 1,
+      "cluster_topics": [
+        "amodei",
+        "reportedly",
+        "suggested",
+        "games",
+        "pacify"
+      ],
+      "geo_title": "Why is there concern over Amodei's suggestion on AI and games?",
+      "geo_keywords": [
+        "amodei",
+        "ai impact on jobs",
+        "ai pacifying society",
+        "future of ai",
+        "ethical considerations of ai",
+        "ai and employment crisis",
+        "amodei games and ai",
+        "what does amodei think about ai",
+        "how ai could pacify the masses",
+        "amodei ai job displacement",
+        "ai job displacement solutions"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "Why is there concern over Amodei's suggestion on AI and games?",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1039745/dario-amodei-video-games-ai-joblessness",
+        "description": "In 2015, reports emerged that Daniel Amodei suggested using video games to keep the public content during a period when artificial intelligence might automate many jobs. This idea highlighted concerns about social stability in an era of widespread automation and unemployment.",
+        "keywords": "amodei, ai impact on jobs, ai pacifying society, future of ai, ethical considerations of ai, ai and employment crisis, amodei games and ai, what does amodei think about ai",
+        "datePublished": "2026-11-23T12:41:14+00:00",
+        "dateModified": "2026-11-23T12:41:14+00:00",
+        "author": {
+          "@type": "Organization",
+          "name": "HN top AI 24h",
+          "url": "https://www.theverge.com"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "trending",
+        "inLanguage": "en-US",
+        "wordCount": 41,
+        "articleBody": "In 2015, reports emerged that Daniel Amodei suggested using video games to keep the public content during a period when artificial intelligence might automate many jobs. This idea highlighted concerns about social stability in an era of widespread automation and unemployment."
+      }
+    },
+    {
+      "source_id": "yt_two_minute_papers",
+      "source_name": "Two Minute Papers",
+      "title": "Claude AI Solved The Secret Of Black Holes",
+      "url": "https://www.youtube.com/watch?v=1jPdehG3Hms",
+      "description": "",
+      "published": "",
+      "score": 35,
+      "category": "research",
+      "weight": 7,
+      "format": "video",
+      "summary": "Claude AI successfully solved a long-standing mystery related to black holes, potentially advancing our understanding of these enigmatic celestial bodies. This achievement is significant as it could lead to breakthroughs in astrophysics and deepen humanity's knowledge of space-time phenomena.",
+      "summary_detailed": "Claude AI successfully solved a long-standing mystery regarding black holes, providing new insights into their behavior. This achievement involves researchers from multiple institutions collaborating with Claude AI. The breakthrough could significantly advance our understanding of astrophysics and potentially lead to new technologies in space exploration.",
+      "summary_bullets": "• Claude AI provided new insights into black hole behavior.\n• The solution addresses long-standing mysteries surrounding black holes.\n• Advances in understanding could lead to breakthroughs in astrophysics.",
+      "sentiment": "positive",
+      "keywords": [
+        "claude ai",
+        "black holes"
+      ],
+      "thumbnail": null,
+      "favicon": "https://www.google.com/s2/favicons?domain=www.youtube.com&sz=64",
+      "cluster_id": "4dfcf8f1-9109-5cda-b2eb-33c02cb31a1c",
+      "cluster_size": 1,
+      "cluster_topics": [
+        "solved",
+        "secret",
+        "black",
+        "holes",
+        "claude"
+      ],
+      "geo_title": "How Does Claude AI Crack Black Holes' Secrets?",
+      "geo_keywords": [
+        "claude ai black holes",
+        "how claude ai solved black holes",
+        "claude ai breakthrough black holes",
+        "black hole secrets uncovered by claude ai",
+        "claude ai technology in astrophysics",
+        "what did claude ai discover about black holes",
+        "claude ai and astronomy",
+        "questions answered by claude ai on black holes"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "How Does Claude AI Crack Black Holes' Secrets?",
+        "url": "https://www.youtube.com/watch?v=1jPdehG3Hms",
+        "description": "Claude AI successfully solved a long-standing mystery related to black holes, potentially advancing our understanding of these enigmatic celestial bodies. This achievement is significant as it could lead to breakthroughs in astrophysics and deepen humanity's knowledge of space-time phenomena.",
+        "keywords": "claude ai black holes, how claude ai solved black holes, claude ai breakthrough black holes, black hole secrets uncovered by claude ai, claude ai technology in astrophysics, what did claude ai discover about black holes, claude ai and astronomy, questions answered by claude ai on black holes",
+        "datePublished": "",
+        "dateModified": "",
+        "author": {
+          "@type": "Organization",
+          "name": "Two Minute Papers",
+          "url": "https://www.youtube.com"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "research",
+        "inLanguage": "en-US",
+        "wordCount": 39,
+        "articleBody": "Claude AI successfully solved a long-standing mystery related to black holes, potentially advancing our understanding of these enigmatic celestial bodies. This achievement is significant as it could lead to breakthroughs in astrophysics and deepen humanity's knowledge of space-time phenomena."
+      }
+    },
+    {
+      "source_id": "mit_technology_review_ai",
+      "source_name": "MIT Technology Review AI",
+      "title": "A legendary philosopher isn’t buying Anthropic’s consciousness argument",
+      "url": "https://www.technologyreview.com/2026/11/23/1149569/a-legendary-philosopher-isnt-buying-anthropics-consciousness-argument/",
+      "description": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Before going public last week, Anthropic named the possibility that AI could be conscious or sentient as a risk factor for anyone investing. Given “the way we app",
+      "published": "Mon, 23 Nov 2026 17:36:08 +0000",
+      "score": 32,
+      "category": "industry",
+      "weight": 8,
+      "format": "article",
+      "summary": "A philosopher has criticized Anthropic's assertion that artificial intelligence could be conscious or sentient, highlighting potential ethical concerns for investors and stakeholders. This debate is crucial as AI companies navigate the moral implications of developing increasingly sophisticated machines.",
+      "summary_detailed": "A philosopher has criticized Anthropic's argument that artificial intelligence could possess consciousness or sentience, highlighting potential risks for investors. This debate centers around Anthropic's acknowledgment of AI consciousness as a significant concern, which was revealed before the company went public. The broader impact includes sparking discussions on ethical considerations and the future implications of advanced AI in society.",
+      "summary_bullets": "• Anthropic recently identified AI consciousness/sentience as an investment risk.\n• A renowned philosopher disputes this claim about AI's potential consciousness.\n• The philosopher argues against the notion of AI being conscious or sentient.",
+      "sentiment": "negative",
+      "keywords": [
+        "anthropic",
+        "consciousness",
+        "ai",
+        "philosopher",
+        "investment",
+        "risk"
+      ],
+      "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2026/11/simulacra2a.jpg?resize=1200,600",
+      "cluster_id": "da75c291-9d9c-5d66-baeb-52560fd49679",
+      "cluster_size": 1,
+      "cluster_topics": [
+        "anthropic",
+        "legendary",
+        "philosopher",
+        "isn",
+        "buying"
+      ],
+      "geo_title": "Why is a renowned philosopher skeptical of Anthropic's consciousness claim?",
+      "geo_keywords": [
+        "anthropic consciousness",
+        "ai sentience debate",
+        "philosopher ai consciousness",
+        "ai risks investment",
+        "can ai be conscious",
+        "what does it mean for ai to be conscious",
+        "ai ethics and philosophy"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "Why is a renowned philosopher skeptical of Anthropic's consciousness claim?",
+        "url": "https://www.technologyreview.com/2026/11/23/1149569/a-legendary-philosopher-isnt-buying-anthropics-consciousness-argument/",
+        "description": "A philosopher has criticized Anthropic's assertion that artificial intelligence could be conscious or sentient, highlighting potential ethical concerns for investors and stakeholders. This debate is crucial as AI companies navigate the moral implications of developing increasingly sophisticated machines.",
+        "keywords": "anthropic consciousness, ai sentience debate, philosopher ai consciousness, ai risks investment, can ai be conscious, what does it mean for ai to be conscious, ai ethics and philosophy",
+        "datePublished": "Mon, 23 Nov 2026 17:36:08 +0000",
+        "dateModified": "Mon, 23 Nov 2026 17:36:08 +0000",
+        "author": {
+          "@type": "Organization",
+          "name": "MIT Technology Review AI",
+          "url": "https://www.technologyreview.com"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "industry",
+        "inLanguage": "en-US",
+        "wordCount": 38,
+        "articleBody": "A philosopher has criticized Anthropic's assertion that artificial intelligence could be conscious or sentient, highlighting potential ethical concerns for investors and stakeholders. This debate is crucial as AI companies navigate the moral implications of developing increasingly sophisticated machines."
+      }
+    },
+    {
+      "source_id": "mit_technology_review_ai",
+      "source_name": "MIT Technology Review AI",
+      "title": "The Download: AI’s judgment problem and carbon removal’s crop threat",
+      "url": "https://www.technologyreview.com/2026/11/23/1149548/the-download-ai-judgment-problem-carbon-removal-crop-threat/",
+      "description": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. The most misunderstood graph in AI just got a major update A new report from the AI evaluation nonprofit METR finds that some capabilities are improvi",
+      "published": "Mon, 23 Nov 2026 13:10:00 +0000",
+      "score": 32,
+      "category": "industry",
+      "weight": 8,
+      "format": "article",
+      "summary": "A new report from the AI evaluation nonprofit METR highlights significant improvements and persistent challenges in AI's ability to make judgments, emphasizing the need for continued scrutiny. Additionally, a recent study warns that large-scale carbon removal efforts could threaten food crops, raising concerns about environmental trade-offs.",
+      "summary_detailed": "A new report from the AI evaluation nonprofit METR reveals significant improvements in certain AI capabilities, particularly addressing misunderstandings about its judgment abilities. Simultaneously, a separate issue highlights potential threats to carbon removal efforts posed by crop cultivation practices, underscoring the complex interplay between technological advancements and environmental challenges.",
+      "summary_bullets": "• METR released a new report on AI evaluation.\n• Some AI capabilities have seen significant improvements.\n• The report addresses misunderstandings about AI's current abilities.",
+      "sentiment": "neutral",
+      "keywords": [
+        "ai",
+        "judgment",
+        "carbon removal",
+        "crop",
+        "update"
+      ],
+      "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2026/11/metr2a.jpg?resize=1200,600",
+      "cluster_id": "a2ed73f8-a2ed-5242-95c3-89279b27553b",
+      "cluster_size": 1,
+      "cluster_topics": [
+        "download",
+        "judgment",
+        "problem",
+        "threat",
+        "today"
+      ],
+      "geo_title": "Why Is AI's Judgment Still Misunderstood in Tech?",
+      "geo_keywords": [
+        "ai judgment problem",
+        "carbon removal technology impact",
+        "ai evaluation metrics",
+        "metr report ai",
+        "ai decision making errors",
+        "agricultural technology risks",
+        "climate change and crop production",
+        "ai ethics and judgment",
+        "understanding ai capabilities",
+        "ai in environmental science",
+        "ai impact on agriculture"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "Why Is AI's Judgment Still Misunderstood in Tech?",
+        "url": "https://www.technologyreview.com/2026/11/23/1149548/the-download-ai-judgment-problem-carbon-removal-crop-threat/",
+        "description": "A new report from the AI evaluation nonprofit METR highlights significant improvements and persistent challenges in AI's ability to make judgments, emphasizing the need for continued scrutiny. Additionally, a recent study warns that large-scale carbon removal efforts could threaten food crops, raising concerns about environmental trade-offs.",
+        "keywords": "ai judgment problem, carbon removal technology impact, ai evaluation metrics, metr report ai, ai decision making errors, agricultural technology risks, climate change and crop production, ai ethics and judgment",
+        "datePublished": "Mon, 23 Nov 2026 13:10:00 +0000",
+        "dateModified": "Mon, 23 Nov 2026 13:10:00 +0000",
+        "author": {
+          "@type": "Organization",
+          "name": "MIT Technology Review AI",
+          "url": "https://www.technologyreview.com"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "industry",
+        "inLanguage": "en-US",
+        "wordCount": 46,
+        "articleBody": "A new report from the AI evaluation nonprofit METR highlights significant improvements and persistent challenges in AI's ability to make judgments, emphasizing the need for continued scrutiny. Additionally, a recent study warns that large-scale carbon removal efforts could threaten food crops, raising concerns about environmental trade-offs."
+      }
+    },
+    {
+      "source_id": "mit_technology_review_ai",
+      "source_name": "MIT Technology Review AI",
+      "title": "Why using rocks for carbon removal could eventually reduce crop growth",
+      "url": "https://www.technologyreview.com/2026/11/23/1149392/why-using-rocks-for-carbon-removal-could-eventually-reduce-crop-growth/",
+      "description": "Tech companies are investing a lot of hope and money in rocks. Google, Microsoft, and others have committed hundreds of millions of dollars to get startups to spread crushed basalt, olivine, or other alkaline materials across farms, in an effort to capture carbon from the air and lock it away. A num",
+      "published": "Mon, 23 Nov 2026 11:00:00 +0000",
+      "score": 32,
+      "category": "industry",
+      "weight": 8,
+      "format": "article",
+      "summary": "Tech giants are funding startups to use rocks like basalt and olivine to remove carbon from the atmosphere, but this could potentially reduce soil fertility and crop growth. This matters because it highlights a trade-off in climate solutions that may impact agricultural productivity.",
+      "summary_detailed": "Tech giants like Google and Microsoft are funding startups to use crushed rocks such as basalt and olivine on farms for carbon removal, aiming to reduce atmospheric CO2 levels. However, this practice might inadvertently decrease crop growth due to changes in soil chemistry. This approach could significantly impact agricultural productivity globally if scaled up.",
+      "summary_bullets": "• Tech giants like Google and Microsoft are funding startups for rock-based carbon removal.\n• Crushed rocks such as basalt and olivine are being spread on farms to absorb CO2.\n• There is concern that this could reduce crop growth due to nutrient competition.",
+      "sentiment": "negative",
+      "keywords": [
+        "rocks",
+        "carbon removal",
+        "crop growth",
+        "tech companies",
+        "startups"
+      ],
+      "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2026/11/Drone-Rice-Fields-3.jpg?resize=1200,600",
+      "cluster_id": "b532f392-85b2-5ed0-b660-16e55b3cd2fd",
+      "cluster_size": 1,
+      "cluster_topics": [
+        "rocks",
+        "carbon",
+        "eventually",
+        "reduce",
+        "growth"
+      ],
+      "geo_title": "Why Using Rocks for Carbon Removal Might Eventually Hinder Crop Growth",
+      "geo_keywords": [
+        "rock-based carbon capture",
+        "agricultural carbon sequestration",
+        "tech company investments in carbon removal",
+        "crushed basalt for carbon capture",
+        "olivine use in carbon farming",
+        "alkaline materials for reducing co2",
+        "impact of rock spreading on crop yields",
+        "how rocks can remove carbon from the atmosphere",
+        "benefits and drawbacks of using rocks for carbon reduction",
+        "tech solutions for climate change mitigation",
+        "carbon removal technologies",
+        "sustainable agriculture through rock application"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "Why Using Rocks for Carbon Removal Might Eventually Hinder Crop Growth",
+        "url": "https://www.technologyreview.com/2026/11/23/1149392/why-using-rocks-for-carbon-removal-could-eventually-reduce-crop-growth/",
+        "description": "Tech giants are funding startups to use rocks like basalt and olivine to remove carbon from the atmosphere, but this could potentially reduce soil fertility and crop growth. This matters because it highlights a trade-off in climate solutions that may impact agricultural productivity.",
+        "keywords": "rock-based carbon capture, agricultural carbon sequestration, tech company investments in carbon removal, crushed basalt for carbon capture, olivine use in carbon farming, alkaline materials for reducing co2, impact of rock spreading on crop yields, how rocks can remove carbon from the atmosphere",
+        "datePublished": "Mon, 23 Nov 2026 11:00:00 +0000",
+        "dateModified": "Mon, 23 Nov 2026 11:00:00 +0000",
+        "author": {
+          "@type": "Organization",
+          "name": "MIT Technology Review AI",
+          "url": "https://www.technologyreview.com"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "industry",
+        "inLanguage": "en-US",
+        "wordCount": 43,
+        "articleBody": "Tech giants are funding startups to use rocks like basalt and olivine to remove carbon from the atmosphere, but this could potentially reduce soil fertility and crop growth. This matters because it highlights a trade-off in climate solutions that may impact agricultural productivity."
+      }
+    },
+    {
+      "source_id": "marktechpost",
+      "source_name": "MarkTechPost",
+      "title": "Anthropic Launches Claude Ship for GitHub Pull Request Review and Fixes",
+      "url": "https://www.marktechpost.com/2026/11/23/anthropic-claude-ship-pull-request-agents/",
+      "description": "<p>Anthropic's Claude Ship bundles Code Review, PR Steward and Claude Approvals to review, fix and approve GitHub pull requests. Code Review is GA; the other 2 agents are in public beta for Team and Enterprise.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/11/23/anthropic-claude-ship-pu",
+      "published": "Tue, 24 Nov 2026 00:02:39 +0000",
+      "score": 24,
+      "category": "industry",
+      "weight": 6,
+      "format": "article",
+      "summary": "Anthropic has launched Claude Ship, a tool that integrates Code Review, PR Steward, and Claude Approvals for GitHub pull request management; the service aims to automate code review and approval processes, currently with Code Review generally available while the other components are in beta.",
+      "summary_detailed": "Anthropic launched Claude Ship, a tool that integrates Code Review, PR Steward, and Claude Approvals for reviewing, fixing, and approving GitHub pull requests. Currently, Code Review is generally available while the other two components are in public beta for Team and Enterprise plans. This integration aims to streamline the software development process by automating various aspects of code review and management.",
+      "summary_bullets": "• Anthropic launches Claude Ship for GitHub pull request review.\n• Code Review is generally available.\n• PR Steward and Claude Approvals are in public beta.\n• Targeted at automating code review, fixing, and approval processes.",
+      "sentiment": "neutral",
+      "keywords": [
+        "github",
+        "claude ship",
+        "code review",
+        "pr steward",
+        "approvals",
+        "beta"
+      ],
+      "thumbnail": "https://www.marktechpost.com/wp-content/uploads/2026/11/WP-BLOG-BANNER-111oo-scaled.png",
+      "cluster_id": "01cf23b9-db6f-5a91-8443-c2f5a920b5cc",
+      "cluster_size": 1,
+      "cluster_topics": [
+        "review",
+        "claude",
+        "ship",
+        "github",
+        "pull"
+      ],
+      "geo_title": "Why Is Anthropic's Claude Ship Boosting GitHub Pull Request Reviews?",
+      "geo_keywords": [
+        "github pull request review",
+        "anthropic claude ship features",
+        "code review automation",
+        "pr steward beta",
+        "claude approvals for developers",
+        "github integration for pull requests",
+        "automated code review process",
+        "enterprise ai for github",
+        "what is claude ship",
+        "how does claude ship work"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "Why Is Anthropic's Claude Ship Boosting GitHub Pull Request Reviews?",
+        "url": "https://www.marktechpost.com/2026/11/23/anthropic-claude-ship-pull-request-agents/",
+        "description": "Anthropic has launched Claude Ship, a tool that integrates Code Review, PR Steward, and Claude Approvals for GitHub pull request management; the service aims to automate code review and approval processes, currently with Code Review generally available while the other components are in beta.",
+        "keywords": "github pull request review, anthropic claude ship features, code review automation, pr steward beta, claude approvals for developers, github integration for pull requests, automated code review process, enterprise ai for github",
+        "datePublished": "Tue, 24 Nov 2026 00:02:39 +0000",
+        "dateModified": "Tue, 24 Nov 2026 00:02:39 +0000",
+        "author": {
+          "@type": "Organization",
+          "name": "MarkTechPost",
+          "url": "https://www.marktechpost.com"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "industry",
+        "inLanguage": "en-US",
+        "wordCount": 44,
+        "articleBody": "Anthropic has launched Claude Ship, a tool that integrates Code Review, PR Steward, and Claude Approvals for GitHub pull request management; the service aims to automate code review and approval processes, currently with Code Review generally available while the other components are in beta."
+      }
+    },
+    {
+      "source_id": "marktechpost",
+      "source_name": "MarkTechPost",
+      "title": "Z AI Releases GLM-5.4: A 750B Loop Transformer That Runs 28 Layers Twice",
+      "url": "https://www.marktechpost.com/2026/11/23/zai-glm-5-4-loop-transformer/",
+      "description": "<p>Z.ai released GLM-5.4, its first Loop Transformer flagship. The 750B-scale model runs 28 GLM-5 layers twice for deeper reasoning, with API access and open weights planned after safety work.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/11/23/zai-glm-5-4-loop-transformer/\">Z AI Releas",
+      "published": "Mon, 23 Nov 2026 19:11:40 +0000",
+      "score": 24,
+      "category": "industry",
+      "weight": 6,
+      "format": "article",
+      "summary": "Z.ai has released GLM-5.4, a 750B-scale Loop Transformer model running 28 layers twice to enhance reasoning capabilities; the release aims to provide deeper processing power while planning for API access and open weights after safety assessments.",
+      "summary_detailed": "Z.ai has released GLM-5.4, a 750 billion parameter Loop Transformer model with 28 layers repeated for enhanced reasoning capabilities. The release marks Z.ai's first flagship Loop Transformer and includes plans for API access and open weights after completing safety assessments. This advancement could significantly impact natural language processing technologies by offering deeper reasoning abilities in AI models.",
+      "summary_bullets": "• Z.ai released GLM-5.4, a 750B Loop Transformer model.\n• It runs 28 GLM-5 layers twice for enhanced reasoning capabilities.\n• API access and open weights are planned after safety checks.",
+      "sentiment": "neutral",
+      "keywords": [
+        "z.ai",
+        "glm-5.4",
+        "loop transformer",
+        "750b",
+        "layers",
+        "reasoning"
+      ],
+      "thumbnail": null,
+      "favicon": "https://www.google.com/s2/favicons?domain=www.marktechpost.com&sz=64",
+      "cluster_id": "38488eb0-8a2f-5be0-a91c-e0f41de98116",
+      "cluster_size": 2,
+      "cluster_topics": [
+        "glm-5",
+        "loop",
+        "transformer",
+        "layers",
+        "twice"
+      ],
+      "geo_title": "Why is Z.ai's GLM-5.4 causing a stir in AI?",
+      "geo_keywords": [
+        "glm-5.4 release",
+        "z.ai new model",
+        "loop transformer technology",
+        "750b scale model",
+        "intelligent language processing",
+        "deep reasoning capabilities",
+        "api access for glm-5.4",
+        "open source weights planning"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "Why is Z.ai's GLM-5.4 causing a stir in AI?",
+        "url": "https://www.marktechpost.com/2026/11/23/zai-glm-5-4-loop-transformer/",
+        "description": "Z.ai has released GLM-5.4, a 750B-scale Loop Transformer model running 28 layers twice to enhance reasoning capabilities; the release aims to provide deeper processing power while planning for API access and open weights after safety assessments.",
+        "keywords": "glm-5.4 release, z.ai new model, loop transformer technology, 750b scale model, intelligent language processing, deep reasoning capabilities, api access for glm-5.4, open source weights planning",
+        "datePublished": "Mon, 23 Nov 2026 19:11:40 +0000",
+        "dateModified": "Mon, 23 Nov 2026 19:11:40 +0000",
+        "author": {
+          "@type": "Organization",
+          "name": "MarkTechPost",
+          "url": "https://www.marktechpost.com"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "industry",
+        "inLanguage": "en-US",
+        "wordCount": 36,
+        "articleBody": "Z.ai has released GLM-5.4, a 750B-scale Loop Transformer model running 28 layers twice to enhance reasoning capabilities; the release aims to provide deeper processing power while planning for API access and open weights after safety assessments."
+      }
+    },
+    {
+      "source_id": "marktechpost",
+      "source_name": "MarkTechPost",
+      "title": "27 Cybersecurity Terms to Prepare You for the Age of AI",
+      "url": "https://www.marktechpost.com/2026/11/23/27-ai-cybersecurity-terms/",
+      "description": "<p>AI now sits on both sides of the security fight, and the vocabulary has changed with it. IBM&#8217;s 2026 Cost of a Data Breach Report found that 1 in 4 malicious breaches were AI-enabled, up 56% year over year. Those breaches cost an average of $6 million, about $1 million above the $4.99 millio",
+      "published": "Mon, 23 Nov 2026 10:40:16 +0000",
+      "score": 24,
+      "category": "industry",
+      "weight": 6,
+      "format": "article",
+      "summary": "The use of AI in cybersecurity has increased, with a quarter of malicious breaches now involving AI, according to IBM's report, highlighting the need for updated vocabulary and understanding in the field due to its rising importance in both defense and offense. These findings underscore the growing significance of AI in data security as it becomes more prevalent in both protecting and compromising systems.",
+      "summary_detailed": "The IBM 2026 Cost of a Data Breach Report highlighted that AI is increasingly being used in malicious breaches, with 25% of such incidents now involving AI, marking a 56% year-over-year increase. These breaches are significantly more costly, averaging $6 million compared to the industry average of $4.99 million. This shift underscores the need for enhanced cybersecurity measures and updated terminology to address the evolving threat landscape in the age of artificial intelligence.",
+      "summary_bullets": "• AI now plays a role in both cybersecurity defenses and attacks.\n• One-quarter of malicious breaches involved AI, increasing by 56% year-over-year.\n• The average cost of an AI-enabled breach was $6 million.",
+      "sentiment": "neutral",
+      "keywords": [
+        "ai",
+        "cybersecurity",
+        "data breach",
+        "vocabulary",
+        "security"
+      ],
+      "thumbnail": null,
+      "favicon": "https://www.google.com/s2/favicons?domain=www.marktechpost.com&sz=64",
+      "cluster_id": "3b67c59b-2991-5f03-b50b-8f57bedbc270",
+      "cluster_size": 1,
+      "cluster_topics": [
+        "cost",
+        "breaches",
+        "year",
+        "million",
+        "cybersecurity"
+      ],
+      "geo_title": "How does AI change cybersecurity terminology?",
+      "geo_keywords": [
+        "ai in cybersecurity",
+        "cybersecurity terms for ai",
+        "data breach prevention with ai",
+        "understanding ai-enabled cybersecurity threats",
+        "how ai changes cybersecurity strategies",
+        "latest cybersecurity terms related to ai",
+        "preparing for ai in cybersecurity",
+        "ai and data breach costs",
+        "what does ai mean for cybersecurity professionals",
+        "how to prepare for ai in cybersecurity"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "How does AI change cybersecurity terminology?",
+        "url": "https://www.marktechpost.com/2026/11/23/27-ai-cybersecurity-terms/",
+        "description": "The use of AI in cybersecurity has increased, with a quarter of malicious breaches now involving AI, according to IBM's report, highlighting the need for updated vocabulary and understanding in the field due to its rising importance in both defense and offense. These findings underscore the growing significance of AI in data security as it becomes more prevalent in both protecting and compromising systems.",
+        "keywords": "ai in cybersecurity, cybersecurity terms for ai, data breach prevention with ai, understanding ai-enabled cybersecurity threats, how ai changes cybersecurity strategies, latest cybersecurity terms related to ai, preparing for ai in cybersecurity, ai and data breach costs",
+        "datePublished": "Mon, 23 Nov 2026 10:40:16 +0000",
+        "dateModified": "Mon, 23 Nov 2026 10:40:16 +0000",
+        "author": {
+          "@type": "Organization",
+          "name": "MarkTechPost",
+          "url": "https://www.marktechpost.com"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "industry",
+        "inLanguage": "en-US",
+        "wordCount": 64,
+        "articleBody": "The use of AI in cybersecurity has increased, with a quarter of malicious breaches now involving AI, according to IBM's report, highlighting the need for updated vocabulary and understanding in the field due to its rising importance in both defense and offense. These findings underscore the growing significance of AI in data security as it becomes more prevalent in both protecting and compromising systems."
+      }
+    },
+    {
+      "source_id": "marktechpost",
+      "source_name": "MarkTechPost",
+      "title": "Architect Labs Unveils Frostbite, an Interaction Net CPU Designed by AI",
+      "url": "https://www.marktechpost.com/2026/11/23/architect-labs-frostbite-ai-designed-cpu-interaction-nets/",
+      "description": "<p>Architect Labs introduced Frostbite, an AI-designed CPU that runs interaction nets in hardware. Agents took it from theory to 7 nm GDS, and pre-silicon tests show 4.59x performance per watt over an in-order core.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/11/23/architect-labs-fros",
+      "published": "Mon, 23 Nov 2026 10:05:47 +0000",
+      "score": 24,
+      "category": "industry",
+      "weight": 6,
+      "format": "article",
+      "summary": "Architect Labs unveiled Frostbite, an AI-designed CPU that implements interaction nets in hardware, achieving 4.59x better performance per watt than an in-order core; this advancement could significantly impact energy efficiency in computing.",
+      "summary_detailed": "Architect Labs unveiled Frostbite, an AI-designed CPU capable of running interaction nets in hardware, which progressed from theoretical stages to 7 nm GDS. The development involved agents transforming the concept into a tangible design, and preliminary tests indicate it achieves 4.59x better performance per watt compared to an in-order core. This innovation could significantly impact energy efficiency in computing systems.",
+      "summary_bullets": "• Architect Labs introduced Frostbite, an AI-designed CPU.\n• Frostbite runs interaction nets in hardware.\n• It achieved 4.59x performance per watt over an in-order core in pre-silicon tests.\n• Agents developed Frostbite from theory to 7 nm GDS.",
+      "sentiment": "neutral",
+      "keywords": [
+        "ai-designed",
+        "cpu",
+        "interaction nets",
+        "hardware",
+        "performance",
+        "watt"
+      ],
+      "thumbnail": null,
+      "favicon": "https://www.google.com/s2/favicons?domain=www.marktechpost.com&sz=64",
+      "cluster_id": "c18f8113-7021-564d-b2dc-c0baa5d73a69",
+      "cluster_size": 1,
+      "cluster_topics": [
+        "architect",
+        "labs",
+        "frostbite",
+        "interaction",
+        "cpu"
+      ],
+      "geo_title": "How does Architect Labs' AI-designed Frostbite CPU boost performance?",
+      "geo_keywords": [
+        "ai-designed cpu",
+        "interaction nets cpu",
+        "hardware interaction nets",
+        "ai cpu performance",
+        "interaction net technology",
+        "architect labs frostbite",
+        "ai-driven cpu",
+        "what is interaction net cpu",
+        "how does interaction net cpu work"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "How does Architect Labs' AI-designed Frostbite CPU boost performance?",
+        "url": "https://www.marktechpost.com/2026/11/23/architect-labs-frostbite-ai-designed-cpu-interaction-nets/",
+        "description": "Architect Labs unveiled Frostbite, an AI-designed CPU that implements interaction nets in hardware, achieving 4.59x better performance per watt than an in-order core; this advancement could significantly impact energy efficiency in computing.",
+        "keywords": "ai-designed cpu, interaction nets cpu, hardware interaction nets, ai cpu performance, interaction net technology, architect labs frostbite, ai-driven cpu, what is interaction net cpu",
+        "datePublished": "Mon, 23 Nov 2026 10:05:47 +0000",
+        "dateModified": "Mon, 23 Nov 2026 10:05:47 +0000",
+        "author": {
+          "@type": "Organization",
+          "name": "MarkTechPost",
+          "url": "https://www.marktechpost.com"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "industry",
+        "inLanguage": "en-US",
+        "wordCount": 32,
+        "articleBody": "Architect Labs unveiled Frostbite, an AI-designed CPU that implements interaction nets in hardware, achieving 4.59x better performance per watt than an in-order core; this advancement could significantly impact energy efficiency in computing."
+      }
+    },
+    {
+      "source_id": "marktechpost",
+      "source_name": "MarkTechPost",
+      "title": "Meta TLX Brings Warp-Group GPU Control to Triton on Hopper, Blackwell, AMD",
+      "url": "https://www.marktechpost.com/2026/11/23/meta-tlx-triton-low-level-extensions/",
+      "description": "<p>Meta has detailed TLX, its Triton Low-Level Extensions that add warp-group, barrier, TMA and cluster control to Python Triton kernels. It runs Meta's ads and LLM workloads on Hopper, Blackwell and AMD MI350 GPUs.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/11/23/meta-tlx-triton-low",
+      "published": "Mon, 23 Nov 2026 08:24:57 +0000",
+      "score": 24,
+      "category": "industry",
+      "weight": 6,
+      "format": "article",
+      "summary": "Meta has introduced TLX, Triton Low-Level Extensions that enhance GPU control for Python Triton kernels on Hopper, Blackwell, and AMD MI350 GPUs, crucial for optimizing ads and LLM workloads.",
+      "summary_detailed": "Meta has introduced TLX, Triton Low-Level Extensions that enhance Python Triton kernels with warp-group, barrier, TMA, and cluster control. These extensions are utilized on Meta's advertising and large language model workloads across Hopper, Blackwell, and AMD MI350 GPUs. This advancement aims to optimize performance and efficiency in handling complex computational tasks.",
+      "summary_bullets": "• Meta introduces TLX for Triton Low-Level Extensions\n• Adds warp-group, barrier, TMA and cluster control to Python Triton kernels\n• Runs on Hopper, Blackwell, and AMD MI350 GPUs\n• Targets ads and LLM workloads",
+      "sentiment": "neutral",
+      "keywords": [
+        "meta",
+        "triton",
+        "low-level extensions",
+        "warp-group",
+        "barrier",
+        "tma",
+        "cluster control",
+        "python",
+        "hopper",
+        "blackwell"
+      ],
+      "thumbnail": null,
+      "favicon": "https://www.google.com/s2/favicons?domain=www.marktechpost.com&sz=64",
+      "cluster_id": "fbc19faa-0a02-559b-8b85-213d5c33c7b7",
+      "cluster_size": 1,
+      "cluster_topics": [
+        "meta",
+        "triton",
+        "tlx",
+        "warp-group",
+        "control"
+      ],
+      "geo_title": "How does Meta's TLX Enhance GPU Control for Triton Kernels on Hopper, Blackwell?",
+      "geo_keywords": [
+        "meta tlx",
+        "triton low-level extensions",
+        "warp-group control",
+        "triton python kernels",
+        "meta ads workloads",
+        "llm workloads",
+        "hopper blackwell amdgpu",
+        "meta gpu optimization",
+        "parallel computing optimizations",
+        "cuda kernel tuning",
+        "python triton framework",
+        "meta ai technology"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "How does Meta's TLX Enhance GPU Control for Triton Kernels on Hopper, Blackwell?",
+        "url": "https://www.marktechpost.com/2026/11/23/meta-tlx-triton-low-level-extensions/",
+        "description": "Meta has introduced TLX, Triton Low-Level Extensions that enhance GPU control for Python Triton kernels on Hopper, Blackwell, and AMD MI350 GPUs, crucial for optimizing ads and LLM workloads.",
+        "keywords": "meta tlx, triton low-level extensions, warp-group control, triton python kernels, meta ads workloads, llm workloads, hopper blackwell amdgpu, meta gpu optimization",
+        "datePublished": "Mon, 23 Nov 2026 08:24:57 +0000",
+        "dateModified": "Mon, 23 Nov 2026 08:24:57 +0000",
+        "author": {
+          "@type": "Organization",
+          "name": "MarkTechPost",
+          "url": "https://www.marktechpost.com"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "industry",
+        "inLanguage": "en-US",
+        "wordCount": 29,
+        "articleBody": "Meta has introduced TLX, Triton Low-Level Extensions that enhance GPU control for Python Triton kernels on Hopper, Blackwell, and AMD MI350 GPUs, crucial for optimizing ads and LLM workloads."
+      }
+    }
+  ],
+  "enriched": true,
+  "enriched_at": "2026-11-24T09:01:28.592477+00:00",
+  "enricher_model": "qwen2.5-7b",
+  "clustered": true,
+  "clustered_at": "2026-11-24T09:01:28.755364+00:00",
+  "cluster_threshold": 0.3,
+  "geo_metadata": {
+    "date": "2026-11-24",
+    "generated_at": "2026-11-24T09:02:16.615396+00:00",
+    "schemas_generated": 20,
+    "topics": [
+      "750b",
+      "750b scale model",
+      "accelerating quantum algorithms with agents",
+      "advancements in coding theory",
+      "agent-based quantum computing",
+      "agentic",
+      "agentic evaluation process",
+      "agents",
+      "agricultural carbon sequestration",
+      "agricultural technology risks",
+      "ai",
+      "ai and data breach costs",
+      "ai and employment crisis",
+      "ai and its impact on legal practices",
+      "ai cpu performance",
+      "ai decision making errors",
+      "ai enhanced search results",
+      "ai ethics and judgment",
+      "ai ethics and philosophy",
+      "ai evaluation metrics",
+      "ai for in-house counsel",
+      "ai impact on agriculture",
+      "ai impact on jobs",
+      "ai in cybersecurity",
+      "ai in environmental science",
+      "ai in legal technology",
+      "ai job displacement solutions",
+      "ai judgment problem",
+      "ai kernel benchmarks",
+      "ai mode",
+      "ai pacifying society",
+      "ai risks investment",
+      "ai science benchmark",
+      "ai scientific method",
+      "ai sentience debate",
+      "ai support automation",
+      "ai technology trends",
+      "ai-designed",
+      "ai-designed cpu",
+      "ai-driven cpu",
+      "ai-powered chatbots for businesses",
+      "airborne drone detection",
+      "airborne drone technology",
+      "alkaline materials for reducing co2",
+      "amodei",
+      "amodei ai job displacement",
+      "amodei games and ai",
+      "anthropic",
+      "anthropic claude ship features",
+      "anthropic consciousness"
+    ],
+    "faq_items": [
+      {
+        "question": "What is Shirudo and how does it work?",
+        "answer": "Shirudo, introduced by OpenAI and Cisco, is a new tool designed to enhance connected intelligence for businesses, particularly focusing on in-house legal departments to improve their operational efficiency."
+      },
+      {
+        "question": "How can Richpanel help companies with customer support?",
+        "answer": "Richpanel enables companies to automate 50% of their customer support processes within just 30 days, significantly reducing the workload on support teams and improving response times for customers."
+      },
+      {
+        "question": "What makes Google's new search unique?",
+        "answer": "The new Google Search is personalized to each user, providing a more tailored experience that reflects individual preferences and history, ensuring users get the most relevant information."
+      },
+      {
+        "question": "Can you explain how agents and formal verification are used to find faster quantum algorithms?",
+        "answer": "Agents and formal verification techniques are utilized to discover faster quantum algorithms by automating the search process and ensuring the correctness of the algorithms, accelerating the development of quantum computing technologies."
+      },
+      {
+        "question": "What is GLM-5.4 and what does it aim to achieve?",
+        "answer": "GLM-5.4 is a significant advancement in coding technology that introduces a loop transformer for generalized coding, aiming to enhance programming efficiency and flexibility in software development."
+      }
+    ]
+  },
+  "geo_enriched": true,
+  "geo_enriched_at": "2026-11-24T09:02:16.615396+00:00"
+}
