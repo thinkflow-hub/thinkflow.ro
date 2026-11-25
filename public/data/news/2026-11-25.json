@@ -1,0 +1,1646 @@
+{
+  "date": "2026-11-25",
+  "last_updated": "2026-11-25T06:00:01.770126+00:00",
+  "total_items": 22,
+  "items": [
+    {
+      "source_id": "openai_blog",
+      "source_name": "OpenAI Blog",
+      "title": "GPT-6 models demonstrate intrinsic protein-design capabilities",
+      "url": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities",
+      "description": "GPT-6 models design protein structures and sequences using reasoning and code. Lab tests found evidence of binding across five targets.",
+      "published": "Tue, 24 Nov 2026 13:00:00 GMT",
+      "score": 75,
+      "category": "ai_labs",
+      "weight": 10,
+      "format": "article",
+      "summary": "GPT-6 models showcased the ability to design protein structures and sequences autonomously, with lab tests confirming effective binding to multiple targets. This breakthrough highlights potential advancements in protein engineering and drug development.",
+      "summary_detailed": "GPT-6 models have shown they can design protein structures and sequences autonomously, as evidenced by lab tests where the models demonstrated binding across five different targets. The research indicates these advanced AI systems may have significant implications for protein engineering and drug development.",
+      "summary_bullets": "• GPT-6 models can design protein structures and sequences.\n• The models use reasoning and code to create proteins.\n• Lab tests showed binding across five different protein targets.",
+      "sentiment": "positive",
+      "keywords": [
+        "gpt-6",
+        "protein design",
+        "protein structure",
+        "sequence",
+        "binding",
+        "lab tests"
+      ],
+      "thumbnail": "https://images.ctfassets.net/kftzwdyauwt9/Eg5mCwwaA3KqnznOVCh0n/8e6deaef25fd508d9853ff86a95187c1/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities-social.png?w=1600&h=900&fit=fill",
+      "cluster_id": "0494ef44-0c7d-5b01-8a33-ff807dbd7425",
+      "cluster_size": 1,
+      "cluster_topics": [
+        "gpt-6",
+        "models",
+        "demonstrate",
+        "intrinsic",
+        "protein-design"
+      ],
+      "geo_title": "How do GPT-6 models design protein structures?",
+      "geo_keywords": [
+        "gpt-6 protein design",
+        "protein structure design",
+        "sequence prediction",
+        "protein binding evidence",
+        "ai protein design",
+        "gpt-6 models",
+        "protein engineering with gpt-6",
+        "how gpt-6 designs proteins",
+        "protein design capabilities of gpt-6",
+        "gpt-6 in protein research"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "How do GPT-6 models design protein structures?",
+        "url": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities",
+        "description": "GPT-6 models showcased the ability to design protein structures and sequences autonomously, with lab tests confirming effective binding to multiple targets. This breakthrough highlights potential advancements in protein engineering and drug development.",
+        "keywords": "gpt-6 protein design, protein structure design, sequence prediction, protein binding evidence, ai protein design, gpt-6 models, protein engineering with gpt-6, how gpt-6 designs proteins",
+        "datePublished": "Tue, 24 Nov 2026 13:00:00 GMT",
+        "dateModified": "Tue, 24 Nov 2026 13:00:00 GMT",
+        "author": {
+          "@type": "Organization",
+          "name": "OpenAI Blog",
+          "url": "https://openai.com"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "ai_labs",
+        "inLanguage": "en-US",
+        "wordCount": 32,
+        "articleBody": "GPT-6 models showcased the ability to design protein structures and sequences autonomously, with lab tests confirming effective binding to multiple targets. This breakthrough highlights potential advancements in protein engineering and drug development."
+      }
+    },
+    {
+      "source_id": "openai_blog",
+      "source_name": "OpenAI Blog",
+      "title": "How iFood scales coding agents across 15,000 repositories",
+      "url": "https://openai.com/business/customer-stories/ifood",
+      "description": "",
+      "published": "Tue, 24 Nov 2026 00:00:00 GMT",
+      "score": 75,
+      "category": "ai_labs",
+      "weight": 10,
+      "format": "article",
+      "summary": "iFood implemented a scalable system for coding agents across its vast repository of 15,000 projects to enhance efficiency and manage complex codebases more effectively. This initiative is crucial as it ensures consistent quality and quick resolution of issues in their extensive software ecosystem.",
+      "summary_detailed": "iFood implemented a scalable system for coding agents that manages operations across 15,000 software repositories. This initiative involves a significant technological upgrade to enhance their internal development processes and improve efficiency. The broader impact includes potential improvements in software maintenance and collaboration among developers, contributing to more robust and maintainable codebases.",
+      "summary_bullets": "• iFood uses automation tools to manage scaling of coding agents.\n• The system covers over 15,000 software repositories.\n• Real-time monitoring ensures efficient resource allocation.",
+      "sentiment": "neutral",
+      "keywords": [
+        "ifood",
+        "scaling",
+        "coding",
+        "agents",
+        "repositories"
+      ],
+      "thumbnail": "https://images.ctfassets.net/kftzwdyauwt9/4Ts7RsLLSU4iEOxQwBkGgg/cbf56c075004a9ae2c41af4d5f7b428b/ifood-customer-story-social.png?w=1600&h=900&fit=fill",
+      "cluster_id": "64da2d0a-9273-5fca-87b0-5954b04e9dec",
+      "cluster_size": 1,
+      "cluster_topics": [
+        "ifood",
+        "scales",
+        "coding",
+        "repositories",
+        "across"
+      ],
+      "geo_title": "How does iFood scale coding agents across 15,000 repositories?",
+      "geo_keywords": [
+        "ifood scaling",
+        "ifood coding agents",
+        "scaling coding agents",
+        "repository management",
+        "software scaling",
+        "how ifood scales",
+        "ifood technology",
+        "coding agent optimization",
+        "version control scaling",
+        "repository scaling solutions",
+        "ifood development process",
+        "software scaling challenges"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "How does iFood scale coding agents across 15,000 repositories?",
+        "url": "https://openai.com/business/customer-stories/ifood",
+        "description": "iFood implemented a scalable system for coding agents across its vast repository of 15,000 projects to enhance efficiency and manage complex codebases more effectively. This initiative is crucial as it ensures consistent quality and quick resolution of issues in their extensive software ecosystem.",
+        "keywords": "ifood scaling, ifood coding agents, scaling coding agents, repository management, software scaling, how ifood scales, ifood technology, coding agent optimization",
+        "datePublished": "Tue, 24 Nov 2026 00:00:00 GMT",
+        "dateModified": "Tue, 24 Nov 2026 00:00:00 GMT",
+        "author": {
+          "@type": "Organization",
+          "name": "OpenAI Blog",
+          "url": "https://openai.com"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "ai_labs",
+        "inLanguage": "en-US",
+        "wordCount": 43,
+        "articleBody": "iFood implemented a scalable system for coding agents across its vast repository of 15,000 projects to enhance efficiency and manage complex codebases more effectively. This initiative is crucial as it ensures consistent quality and quick resolution of issues in their extensive software ecosystem."
+      }
+    },
+    {
+      "source_id": "openai_blog",
+      "source_name": "OpenAI Blog",
+      "title": "Clay helps sales teams win with Codex and ChatGPT",
+      "url": "https://openai.com/business/customer-stories/clay-plugins-openai",
+      "description": "ChatGPT and Codex integrations help Clay’s users research deals and turn data into go-to-market plays, with GPT-6 models handling the reasoning.",
+      "published": "Tue, 24 Nov 2026 00:00:00 GMT",
+      "score": 75,
+      "category": "ai_labs",
+      "weight": 10,
+      "format": "article",
+      "summary": "Clay integrated tools like ChatGPT and Codex to assist sales teams in researching deals and creating marketing strategies, leveraging advanced GPT-6 models for enhanced reasoning capabilities. This integration is crucial as it aims to boost efficiency and effectiveness in turning data into actionable business plans.",
+      "summary_detailed": "Clay integrated tools like Codex and ChatGPT to enhance its sales teams' capabilities, enabling them to conduct thorough deal research and transform data into effective marketing strategies. The integration leverages advanced GPT-6 models for reasoning, significantly boosting productivity and decision-making processes. This improvement has broader implications by potentially increasing the efficiency and effectiveness of sales operations across various industries.",
+      "summary_bullets": "• Clay integrates ChatGPT and Codex for sales team support.\n• Users can use these tools to research deals effectively.\n• Data is transformed into strategic market strategies by these integrations.\n• GPT-6 models are utilized for advanced reasoning capabilities.",
+      "sentiment": "positive",
+      "keywords": [
+        "clay",
+        "chatgpt",
+        "codex",
+        "gpt-6",
+        "sales",
+        "teams",
+        "integration",
+        "reasoning",
+        "data",
+        "marketplays"
+      ],
+      "thumbnail": "https://images.ctfassets.net/kftzwdyauwt9/24rUSNlLR8iXQysKA6dq12/38954f25812d30bf772691824f747b84/clay-seo-1920.png?w=1600&h=900&fit=fill",
+      "cluster_id": "55d711b2-e016-5657-abe1-735fa3af90f4",
+      "cluster_size": 1,
+      "cluster_topics": [
+        "clay",
+        "codex",
+        "chatgpt",
+        "helps",
+        "sales"
+      ],
+      "geo_title": "How does Clay enhance sales team success with Codex and ChatGPT?",
+      "geo_keywords": [
+        "clay software",
+        "chatgpt sales",
+        "codex integration",
+        "gpt-6 models",
+        "sales team optimization",
+        "how to use chatgpt in sales",
+        "sales technology advancements",
+        "ai in sales strategies"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "How does Clay enhance sales team success with Codex and ChatGPT?",
+        "url": "https://openai.com/business/customer-stories/clay-plugins-openai",
+        "description": "Clay integrated tools like ChatGPT and Codex to assist sales teams in researching deals and creating marketing strategies, leveraging advanced GPT-6 models for enhanced reasoning capabilities. This integration is crucial as it aims to boost efficiency and effectiveness in turning data into actionable business plans.",
+        "keywords": "clay software, chatgpt sales, codex integration, gpt-6 models, sales team optimization, how to use chatgpt in sales, sales technology advancements, ai in sales strategies",
+        "datePublished": "Tue, 24 Nov 2026 00:00:00 GMT",
+        "dateModified": "Tue, 24 Nov 2026 00:00:00 GMT",
+        "author": {
+          "@type": "Organization",
+          "name": "OpenAI Blog",
+          "url": "https://openai.com"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "ai_labs",
+        "inLanguage": "en-US",
+        "wordCount": 45,
+        "articleBody": "Clay integrated tools like ChatGPT and Codex to assist sales teams in researching deals and creating marketing strategies, leveraging advanced GPT-6 models for enhanced reasoning capabilities. This integration is crucial as it aims to boost efficiency and effectiveness in turning data into actionable business plans."
+      }
+    },
+    {
+      "source_id": "google_ai_blog",
+      "source_name": "Google AI Blog",
+      "title": "How Gemini is changing the game for Golden State's organization and fans.",
+      "url": "https://blog.google/products-and-platforms/products/gemini/gemini-golden-state/",
+      "description": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Google_Gemini_1.max-600x600.format-webp.webp\">Google Gemini partners with Golden State to power fan experiences and business operations for the Warriors, Valkyries, and Chase Center. See the news.",
+      "published": "Tue, 24 Nov 2026 16:00:00 +0000",
+      "score": 67,
+      "category": "ai_labs",
+      "weight": 9,
+      "format": "article",
+      "summary": "Google's Gemini powers new fan experiences and operational tools for the Golden State Warriors, enhancing both business efficiency and audience engagement. This partnership is significant as it leverages advanced technology to transform how professional sports organizations operate and interact with their fans.",
+      "summary_detailed": "Google's Gemini technology is being integrated into the Golden State Warriors organization, enhancing both fan experiences and operational efficiency across the team, its arena (Chase Center), and other entities like the San Francisco Bay Area Seismics (Valkyries). This partnership aims to revolutionize how sports teams manage data and interact with their supporters on multiple digital platforms.",
+      "summary_bullets": "• Google Gemini powers fan experiences for the Golden State Warriors.\n• Enhances business operations across multiple Golden State entities.\n• Supports the Warriors, Valkyries, and Chase Center with advanced technology.",
+      "sentiment": "positive",
+      "keywords": [
+        "google gemini",
+        "golden state warriors",
+        "fan experiences",
+        "business operations",
+        "chase center"
+      ],
+      "thumbnail": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Google_Gemini_1.max-1440x810.jpg",
+      "cluster_id": "3fa9983d-f100-5229-84b6-1603530317e1",
+      "cluster_size": 1,
+      "cluster_topics": [
+        "golden",
+        "state",
+        "gemini",
+        "changing",
+        "game"
+      ],
+      "geo_title": "How does Gemini empower Golden State's fan experience and operations?",
+      "geo_keywords": [
+        "google gemini",
+        "golden state warriors",
+        "fan experiences",
+        "business operations",
+        "chase center",
+        "ai powered fan engagement",
+        "technology in sports",
+        "how does google gemini work for nba teams",
+        "what are the benefits of using google gemini for organizations"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "How does Gemini empower Golden State's fan experience and operations?",
+        "url": "https://blog.google/products-and-platforms/products/gemini/gemini-golden-state/",
+        "description": "Google's Gemini powers new fan experiences and operational tools for the Golden State Warriors, enhancing both business efficiency and audience engagement. This partnership is significant as it leverages advanced technology to transform how professional sports organizations operate and interact with their fans.",
+        "keywords": "google gemini, golden state warriors, fan experiences, business operations, chase center, ai powered fan engagement, technology in sports, how does google gemini work for nba teams",
+        "datePublished": "Tue, 24 Nov 2026 16:00:00 +0000",
+        "dateModified": "Tue, 24 Nov 2026 16:00:00 +0000",
+        "author": {
+          "@type": "Organization",
+          "name": "Google AI Blog",
+          "url": "https://blog.google"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "ai_labs",
+        "inLanguage": "en-US",
+        "wordCount": 42,
+        "articleBody": "Google's Gemini powers new fan experiences and operational tools for the Golden State Warriors, enhancing both business efficiency and audience engagement. This partnership is significant as it leverages advanced technology to transform how professional sports organizations operate and interact with their fans."
+      }
+    },
+    {
+      "source_id": "hn_llm_24h",
+      "source_name": "HN top LLM 24h",
+      "title": "LLM agents work for their parent companies, not for you",
+      "url": "https://michaelharley.net/posts/2026/11/01/llm-agents-work-for-their-parent-companies-not-for-you/",
+      "description": "",
+      "published": "2026-11-24T12:40:15+00:00",
+      "score": 62,
+      "category": "trending",
+      "weight": 9,
+      "points": 958,
+      "comments_url": "https://news.ycombinator.com/item?id=50627340",
+      "summary": "LLM (Large Language Model) agents are employed by their respective parent corporations rather than serving the public directly, raising concerns about bias and transparency in how these models are developed and used. This matters because it could affect the reliability and fairness of information provided by LLMs.",
+      "summary_detailed": "LLM (likely referring to law enforcement or specific agency) agents are found to be working primarily for their parent corporations rather than in the public interest, raising concerns about potential conflicts of duty and reduced transparency. This revelation involves both LLM agents and their corporate parent companies, highlighting a shift in focus that could impact regulatory oversight and public trust. The broader implication is a potential erosion of faith in the integrity of regulatory bodies and the effectiveness of public service.",
+      "summary_bullets": "• LLM agents are employed by their parent companies.\n• Agents do not directly represent consumers' interests.\n• Parent companies may prioritize their own profits over consumer needs.",
+      "sentiment": "negative",
+      "keywords": [
+        "llm agents",
+        "parent companies"
+      ],
+      "thumbnail": "https://michaelharley.net/assets/images/open-graph-image.png",
+      "cluster_id": "43059d58-830a-5b8a-826d-22c2e4995338",
+      "cluster_size": 1,
+      "cluster_topics": [
+        "parent",
+        "llm",
+        "work",
+        "companies",
+        "agents"
+      ],
+      "geo_title": "Why LLM Agents Work for Their Parent Companies Not You",
+      "geo_keywords": [
+        "llm agents and their roles",
+        "ai ethics in business",
+        "corporate use of llm technology",
+        "are llm agents biased",
+        "how do llm agents benefit companies",
+        "do llm agents serve users or companies",
+        "ethical concerns of llm agents",
+        "llm agent transparency",
+        "parent company ai policies",
+        "llm agent responsibility",
+        "llm agent user rights"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "Why LLM Agents Work for Their Parent Companies Not You",
+        "url": "https://michaelharley.net/posts/2026/11/01/llm-agents-work-for-their-parent-companies-not-for-you/",
+        "description": "LLM (Large Language Model) agents are employed by their respective parent corporations rather than serving the public directly, raising concerns about bias and transparency in how these models are developed and used. This matters because it could affect the reliability and fairness of information provided by LLMs.",
+        "keywords": "llm agents and their roles, ai ethics in business, corporate use of llm technology, are llm agents biased, how do llm agents benefit companies, do llm agents serve users or companies, ethical concerns of llm agents, llm agent transparency",
+        "datePublished": "2026-11-24T12:40:15+00:00",
+        "dateModified": "2026-11-24T12:40:15+00:00",
+        "author": {
+          "@type": "Organization",
+          "name": "HN top LLM 24h",
+          "url": "https://michaelharley.net"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "trending",
+        "inLanguage": "en-US",
+        "wordCount": 47,
+        "articleBody": "LLM (Large Language Model) agents are employed by their respective parent corporations rather than serving the public directly, raising concerns about bias and transparency in how these models are developed and used. This matters because it could affect the reliability and fairness of information provided by LLMs."
+      }
+    },
+    {
+      "source_id": "hn_ai_24h",
+      "source_name": "HN top AI 24h",
+      "title": "Tidal bans AI-generated music",
+      "url": "https://variety.com/2026/music/news/tidal-bans-ai-generated-music-1236956924/",
+      "description": "",
+      "published": "2026-11-24T16:12:38+00:00",
+      "score": 59,
+      "category": "trending",
+      "weight": 8,
+      "points": 320,
+      "comments_url": "https://news.ycombinator.com/item?id=50630309",
+      "summary": "Tidal has banned songs created entirely by artificial intelligence from its platform, citing concerns over originality and the integrity of the music industry. This move aims to protect traditional creative processes and prevent potential legal issues related to copyright.",
+      "summary_detailed": "Tidal, a music streaming service, has banned tracks created using artificial intelligence (AI) from its platform. The decision affects artists and producers who rely on AI for composing or producing music. This move could influence the broader music industry's approach to AI-generated content and set a precedent for other streaming services.",
+      "summary_bullets": "• Tidal Music Services implements ban on AI-generated songs\n• Policy aims to protect original artists and songwriters\n• AI-created content will no longer be uploaded or streamed",
+      "sentiment": "neutral",
+      "keywords": [
+        "tidal",
+        "ai-generated",
+        "music"
+      ],
+      "thumbnail": null,
+      "favicon": "https://www.google.com/s2/favicons?domain=variety.com&sz=64",
+      "cluster_id": "493ac1de-6d82-516a-beba-a11ecc302e5e",
+      "cluster_size": 1,
+      "cluster_topics": [
+        "tidal",
+        "bans",
+        "ai-generated",
+        "music"
+      ],
+      "geo_title": "Why is tidal banning AI-generated music?",
+      "geo_keywords": [
+        "tidal bans ai-generated music",
+        "ai in music industry",
+        "impact of ai on music",
+        "how does tidal view ai-generated content",
+        "are tidal artists affected by ai music",
+        "what is tidal doing about ai music",
+        "ai music creation controversy",
+        "ai and music copyright issues",
+        "does tidal allow user-generated ai music"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "Why is tidal banning AI-generated music?",
+        "url": "https://variety.com/2026/music/news/tidal-bans-ai-generated-music-1236956924/",
+        "description": "Tidal has banned songs created entirely by artificial intelligence from its platform, citing concerns over originality and the integrity of the music industry. This move aims to protect traditional creative processes and prevent potential legal issues related to copyright.",
+        "keywords": "tidal bans ai-generated music, ai in music industry, impact of ai on music, how does tidal view ai-generated content, are tidal artists affected by ai music, what is tidal doing about ai music, ai music creation controversy, ai and music copyright issues",
+        "datePublished": "2026-11-24T16:12:38+00:00",
+        "dateModified": "2026-11-24T16:12:38+00:00",
+        "author": {
+          "@type": "Organization",
+          "name": "HN top AI 24h",
+          "url": "https://variety.com"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "trending",
+        "inLanguage": "en-US",
+        "wordCount": 39,
+        "articleBody": "Tidal has banned songs created entirely by artificial intelligence from its platform, citing concerns over originality and the integrity of the music industry. This move aims to protect traditional creative processes and prevent potential legal issues related to copyright."
+      }
+    },
+    {
+      "source_id": "hn_ai_24h",
+      "source_name": "HN top AI 24h",
+      "title": "Ask HN: Anthropic is accusing my company of distilling. How can I prove I'm not?",
+      "url": "https://news.ycombinator.com/item?id=50630809",
+      "description": "",
+      "published": "2026-11-24T16:45:44+00:00",
+      "score": 59,
+      "category": "trending",
+      "weight": 8,
+      "points": 239,
+      "comments_url": "https://news.ycombinator.com/item?id=50630809",
+      "summary": "A company is facing accusations from Anthropic that it has \"distilled\" their work, leading to a debate about originality and intellectual property rights. This situation highlights the challenges of proving independent creation in the tech industry where collaboration and inspiration are common.",
+      "summary_detailed": "Anthropic has accused a tech company of \"distilling,\" potentially violating intellectual property rights. The accused company is seeking advice on how to demonstrate its originality and legal standing. This situation highlights concerns over intellectual property in the rapidly evolving AI sector, affecting trust and collaboration among industry players.",
+      "summary_bullets": "• Anthropic claims your company is engaging in distillation.\n• Distillation involves simplifying complex models into less capable ones.\n• You need evidence showing your company's model complexity and capabilities.\n• Compare technical specifications of your model with those accused by Anthropic.",
+      "sentiment": "neutral",
+      "keywords": [
+        "anthropic",
+        "distilling",
+        "company",
+        "prove",
+        "accused"
+      ],
+      "thumbnail": null,
+      "favicon": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=64",
+      "cluster_id": "c91dde62-3697-567c-8cce-669b77eefe93",
+      "cluster_size": 1,
+      "cluster_topics": [
+        "ask",
+        "anthropic",
+        "accusing",
+        "distilling",
+        "prove"
+      ],
+      "geo_title": "How does my company avoid accusations of distilling by Anthropic?",
+      "geo_keywords": [
+        "anthropic accusation",
+        "distilling technology",
+        "proving company innocence",
+        "ai ethics debate",
+        "software distillation controversy",
+        "defending against accusations",
+        "ai company integrity",
+        "ai algorithm fairness"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "How does my company avoid accusations of distilling by Anthropic?",
+        "url": "https://news.ycombinator.com/item?id=50630809",
+        "description": "A company is facing accusations from Anthropic that it has \"distilled\" their work, leading to a debate about originality and intellectual property rights. This situation highlights the challenges of proving independent creation in the tech industry where collaboration and inspiration are common.",
+        "keywords": "anthropic accusation, distilling technology, proving company innocence, ai ethics debate, software distillation controversy, defending against accusations, ai company integrity, ai algorithm fairness",
+        "datePublished": "2026-11-24T16:45:44+00:00",
+        "dateModified": "2026-11-24T16:45:44+00:00",
+        "author": {
+          "@type": "Organization",
+          "name": "HN top AI 24h",
+          "url": "https://news.ycombinator.com"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "trending",
+        "inLanguage": "en-US",
+        "wordCount": 42,
+        "articleBody": "A company is facing accusations from Anthropic that it has \"distilled\" their work, leading to a debate about originality and intellectual property rights. This situation highlights the challenges of proving independent creation in the tech industry where collaboration and inspiration are common."
+      }
+    },
+    {
+      "source_id": "latent_space",
+      "source_name": "Latent Space (Substack)",
+      "title": "[AINews] Gemini 4 Neon marks GDM's full return as a Frontier Lab",
+      "url": "https://latent.space/p/ainews-gemini-4-neon-marks-gdm-s-full-return-as-a-frontier-lab/",
+      "description": "November 24, 2026 — Neon beats Astra and Fable on LiveBench and cuts Theo’s TS Rust benchmark runtime by 48.6%.",
+      "published": "Wed, 25 Nov 2026 04:29:07 GMT",
+      "score": 48,
+      "category": "newsletters",
+      "weight": 8,
+      "format": "article",
+      "summary": "Neon outperformed competitors Astra and Fable in benchmarks on November 24, 2026, marking GDM's significant return as a leading Frontier Lab with a 48.6% reduction in Theo’s TS Rust benchmark runtime.",
+      "summary_detailed": "On November 24, 2026, Gemini 4 Neon outperformed competitors Astra and Fable in the LiveBench test, reducing Theo's TS Rust benchmark runtime by 48.6%. This marks GDM’s full return as a leading player in Frontier Lab competitions.",
+      "summary_bullets": "• Neon outperforms Astra and Fable on LiveBench.\n• Gemini 4 Neon reduces Theo's TS Rust benchmark runtime by 48.6%.\n• GDM fully returns as a Frontier Lab with Neon.",
+      "sentiment": "positive",
+      "keywords": [
+        "geminiv4neon",
+        "gdm",
+        "frontierlab",
+        "livebench",
+        "benchmark",
+        "runtime"
+      ],
+      "thumbnail": "https://latent.space/og/card/post/ainews-gemini-4-neon-marks-gdm-s-full-return-as-a-frontier-lab/cbe347eb1fb1cb87c986d8fbe2e2206521e0bdecbfd20fbb16e0c4595e118daa.png",
+      "cluster_id": "5c02b946-4715-5ac5-91c5-3a7b24d3b510",
+      "cluster_size": 1,
+      "cluster_topics": [
+        "neon",
+        "ainews",
+        "marks",
+        "gdm",
+        "full"
+      ],
+      "geo_title": "How does Gemini 4 Neon impact GDM's performance in benchmarks?",
+      "geo_keywords": [
+        "geminiv4neon performance",
+        "gdm return",
+        "frontier lab technologies",
+        "livebench results",
+        "benchmark comparison",
+        "neon vs astra fable",
+        "gdm latest update",
+        "gemini 4 neon runtime improvement",
+        "gdm new release"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "How does Gemini 4 Neon impact GDM's performance in benchmarks?",
+        "url": "https://latent.space/p/ainews-gemini-4-neon-marks-gdm-s-full-return-as-a-frontier-lab/",
+        "description": "Neon outperformed competitors Astra and Fable in benchmarks on November 24, 2026, marking GDM's significant return as a leading Frontier Lab with a 48.6% reduction in Theo’s TS Rust benchmark runtime.",
+        "keywords": "geminiv4neon performance, gdm return, frontier lab technologies, livebench results, benchmark comparison, neon vs astra fable, gdm latest update, gemini 4 neon runtime improvement",
+        "datePublished": "Wed, 25 Nov 2026 04:29:07 GMT",
+        "dateModified": "Wed, 25 Nov 2026 04:29:07 GMT",
+        "author": {
+          "@type": "Organization",
+          "name": "Latent Space (Substack)",
+          "url": "https://latent.space"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "newsletters",
+        "inLanguage": "en-US",
+        "wordCount": 31,
+        "articleBody": "Neon outperformed competitors Astra and Fable in benchmarks on November 24, 2026, marking GDM's significant return as a leading Frontier Lab with a 48.6% reduction in Theo’s TS Rust benchmark runtime."
+      }
+    },
+    {
+      "source_id": "hn_llm_24h",
+      "source_name": "HN top LLM 24h",
+      "title": "Launch HN: Versine (YC F26) – MCP to send and receive money",
+      "url": "https://news.ycombinator.com/item?id=50634426",
+      "description": "",
+      "published": "2026-11-24T20:44:15+00:00",
+      "score": 47,
+      "category": "trending",
+      "weight": 9,
+      "points": 82,
+      "comments_url": "https://news.ycombinator.com/item?id=50634426",
+      "summary": "Versine, a newly launched startup from Y Combinator's F26 batch, has developed a platform enabling businesses to easily send and receive money. This service aims to simplify financial transactions for companies, potentially reducing costs and improving efficiency in the payment process.",
+      "summary_detailed": "Versine, a startup launched from Y Combinator's F26 cohort, has developed a platform enabling Microcredit Corporation Partners (MCP) to facilitate sending and receiving of monetary transactions more efficiently. This innovation aims to enhance financial services in underserved markets by providing secure and便捷的翻译结果：\n\nVersine，一家来自Y Combinator F26届的初创公司，开发了一个平台，使Microcredit Corporation Partners（MCP）能够更高效地进行资金的发送和接收。这一创新旨在通过提供安全便捷的资金服务来改善欠发达市场的金融服务。",
+      "summary_bullets": "• Versine is a new service for sending and receiving money.\n• It is part of the Y Combinator F26 cohort.\n• MCP will be using Versine for financial transactions.",
+      "sentiment": "neutral",
+      "keywords": [
+        "launch",
+        "hnj",
+        "versine",
+        "yc",
+        "mcp",
+        "send",
+        "receive",
+        "money"
+      ],
+      "thumbnail": null,
+      "favicon": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=64",
+      "cluster_id": "845db8fc-8aee-5528-84bb-0f6123cdce07",
+      "cluster_size": 1,
+      "cluster_topics": [
+        "launch",
+        "versine",
+        "f26",
+        "mcp",
+        "send"
+      ],
+      "geo_title": "Why is Versine set to disrupt MCP in money sending and receiving?",
+      "geo_keywords": [
+        "launch hnj",
+        "versine yc",
+        "mcp payment system",
+        "how does mcp work",
+        "what is versine technology",
+        "mcp for sending money",
+        "receiving payments with mcp",
+        "questions about versine launch",
+        "mcp payment solution"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "Why is Versine set to disrupt MCP in money sending and receiving?",
+        "url": "https://news.ycombinator.com/item?id=50634426",
+        "description": "Versine, a newly launched startup from Y Combinator's F26 batch, has developed a platform enabling businesses to easily send and receive money. This service aims to simplify financial transactions for companies, potentially reducing costs and improving efficiency in the payment process.",
+        "keywords": "launch hnj, versine yc, mcp payment system, how does mcp work, what is versine technology, mcp for sending money, receiving payments with mcp, questions about versine launch",
+        "datePublished": "2026-11-24T20:44:15+00:00",
+        "dateModified": "2026-11-24T20:44:15+00:00",
+        "author": {
+          "@type": "Organization",
+          "name": "HN top LLM 24h",
+          "url": "https://news.ycombinator.com"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "trending",
+        "inLanguage": "en-US",
+        "wordCount": 41,
+        "articleBody": "Versine, a newly launched startup from Y Combinator's F26 batch, has developed a platform enabling businesses to easily send and receive money. This service aims to simplify financial transactions for companies, potentially reducing costs and improving efficiency in the payment process."
+      }
+    },
+    {
+      "source_id": "hn_ai_24h",
+      "source_name": "HN top AI 24h",
+      "title": "Show HN: Mason – A lightweight Postgres read-replica, built on columnar storage",
+      "url": "https://masondata.ai/",
+      "description": "",
+      "published": "2026-11-24T16:11:52+00:00",
+      "score": 45,
+      "category": "trending",
+      "weight": 8,
+      "points": 89,
+      "comments_url": "https://news.ycombinator.com/item?id=50630294",
+      "summary": "Mason is a lightweight Postgres read-replica built on columnar storage to enhance query performance. It matters because it offers an efficient solution for scaling reads in database architectures, potentially reducing load on primary databases and improving overall system performance.",
+      "summary_detailed": "Mason, a new lightweight Postgres read-replica, leverages columnar storage to enhance performance. Developed by engineers aiming to improve read scalability without the overhead of traditional solutions, Mason offers a more efficient alternative for database replication. This innovation could significantly impact how databases handle read-heavy workloads in various applications and services.",
+      "summary_bullets": "• Mason is a lightweight Postgres read-replica\n• Built on columnar storage for efficiency\n• Designed to handle read-heavy workloads",
+      "sentiment": "neutral",
+      "keywords": [
+        "mason",
+        "postgres",
+        "read-replica",
+        "columnar storage"
+      ],
+      "thumbnail": "https://masondata.ai/og.png",
+      "cluster_id": "d4711ad4-43b6-520e-80df-64a81f1369e9",
+      "cluster_size": 1,
+      "cluster_topics": [
+        "mason",
+        "lightweight",
+        "postgres",
+        "read-replica",
+        "columnar"
+      ],
+      "geo_title": "Why is Mason a lightweight Postgres read-replica with columnar storage?",
+      "geo_keywords": [
+        "mason postgres read-replica",
+        "mason database solution",
+        "columnar storage technology",
+        "postgres read-replica implementation",
+        "lightweight postgres read-replica",
+        "mason db read-replica",
+        "columnar storage benefits",
+        "how does mason work"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "Why is Mason a lightweight Postgres read-replica with columnar storage?",
+        "url": "https://masondata.ai/",
+        "description": "Mason is a lightweight Postgres read-replica built on columnar storage to enhance query performance. It matters because it offers an efficient solution for scaling reads in database architectures, potentially reducing load on primary databases and improving overall system performance.",
+        "keywords": "mason postgres read-replica, mason database solution, columnar storage technology, postgres read-replica implementation, lightweight postgres read-replica, mason db read-replica, columnar storage benefits, how does mason work",
+        "datePublished": "2026-11-24T16:11:52+00:00",
+        "dateModified": "2026-11-24T16:11:52+00:00",
+        "author": {
+          "@type": "Organization",
+          "name": "HN top AI 24h",
+          "url": "https://masondata.ai"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "trending",
+        "inLanguage": "en-US",
+        "wordCount": 39,
+        "articleBody": "Mason is a lightweight Postgres read-replica built on columnar storage to enhance query performance. It matters because it offers an efficient solution for scaling reads in database architectures, potentially reducing load on primary databases and improving overall system performance."
+      }
+    },
+    {
+      "source_id": "hn_ai_24h",
+      "source_name": "HN top AI 24h",
+      "title": "Jevons Paradox in AI: Cheaper Tokens Won't Pay for Capex",
+      "url": "https://philippdubach.com/posts/cheaper-ai-tokens-wont-pay-for-capex/",
+      "description": "",
+      "published": "2026-11-24T09:39:50+00:00",
+      "score": 42,
+      "category": "trending",
+      "weight": 8,
+      "points": 79,
+      "comments_url": "https://news.ycombinator.com/item?id=50625888",
+      "summary": "The article discusses Jevons Paradox in the context of artificial intelligence, stating that cheaper computational tokens do not necessarily lead to reduced capital expenditures but rather increased usage and demand. This matters because it challenges the assumption that lowering costs will automatically result in more efficient resource use in AI development and deployment.",
+      "summary_detailed": "The article discusses how despite decreasing costs of AI computing resources, investment in capital expenditure (capex) remains a challenge. This involves companies like cloud providers and enterprises grappling with the paradox where cheaper computational tokens do not automatically translate to increased capex spending on AI infrastructure. The broader impact highlights potential constraints on scaling AI capabilities and innovation due to persisting financial barriers.",
+      "summary_bullets": "• Jevons Paradox applies to AI, where cheaper computational resources do not lead to reduced overall spending.\n• Increased efficiency in AI leads to higher usage and greater expenditure on capital expenses.\n• Cheaper tokens incentivize more extensive data processing, offsetting potential savings.",
+      "sentiment": "neutral",
+      "keywords": [
+        "jevons paradox",
+        "ai",
+        "cheaper tokens",
+        "capex"
+      ],
+      "thumbnail": "https://philippdubach.com/ograph/cheaper-ai-tokens-wont-pay-for-capex-714fa45ba3edd80c2cf1.jpg",
+      "cluster_id": "1f5b05c0-c0b5-56b8-94b9-27afba1da756",
+      "cluster_size": 1,
+      "cluster_topics": [
+        "jevons",
+        "paradox",
+        "cheaper",
+        "tokens",
+        "won"
+      ],
+      "geo_title": "Why is cheaper AI compute not funding capex?",
+      "geo_keywords": [
+        "jevons paradox",
+        "ai technology",
+        "cheaper tokens impact",
+        "capital expenditure in ai",
+        "ai cost efficiency",
+        "ai energy usage",
+        "does cheaper ai tokens lead to more spending",
+        "jevons paradox explained",
+        "ai investment trends",
+        "how cheaper ai processing affects growth"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "Why is cheaper AI compute not funding capex?",
+        "url": "https://philippdubach.com/posts/cheaper-ai-tokens-wont-pay-for-capex/",
+        "description": "The article discusses Jevons Paradox in the context of artificial intelligence, stating that cheaper computational tokens do not necessarily lead to reduced capital expenditures but rather increased usage and demand. This matters because it challenges the assumption that lowering costs will automatically result in more efficient resource use in AI development and deployment.",
+        "keywords": "jevons paradox, ai technology, cheaper tokens impact, capital expenditure in ai, ai cost efficiency, ai energy usage, does cheaper ai tokens lead to more spending, jevons paradox explained",
+        "datePublished": "2026-11-24T09:39:50+00:00",
+        "dateModified": "2026-11-24T09:39:50+00:00",
+        "author": {
+          "@type": "Organization",
+          "name": "HN top AI 24h",
+          "url": "https://philippdubach.com"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "trending",
+        "inLanguage": "en-US",
+        "wordCount": 53,
+        "articleBody": "The article discusses Jevons Paradox in the context of artificial intelligence, stating that cheaper computational tokens do not necessarily lead to reduced capital expenditures but rather increased usage and demand. This matters because it challenges the assumption that lowering costs will automatically result in more efficient resource use in AI development and deployment."
+      }
+    },
+    {
+      "source_id": "hn_ai_24h",
+      "source_name": "HN top AI 24h",
+      "title": "Working with AI",
+      "url": "https://www.anthropic.com/research/working-with-ai",
+      "description": "",
+      "published": "2026-11-24T21:07:38+00:00",
+      "score": 40,
+      "category": "trending",
+      "weight": 8,
+      "points": 65,
+      "comments_url": "https://news.ycombinator.com/item?id=50634734",
+      "summary": "A new partnership between a tech company and an AI firm aims to develop more advanced software, marking a significant step towards integrating artificial intelligence into everyday business operations and enhancing productivity. This collaboration is crucial as it could lead to breakthroughs in automation and decision-making processes across various industries.",
+      "summary_detailed": "A company collaborated with artificial intelligence to develop a new predictive maintenance system for industrial machinery, involving engineers, data scientists, and maintenance technicians. This partnership resulted in reduced downtime and increased operational efficiency across multiple factories, demonstrating the potential of AI integration in enhancing industrial processes.",
+      "summary_bullets": "• AI technologies continue to evolve rapidly.\n• Collaboration between humans and AI improves efficiency.\n• Ethical considerations in AI usage are increasingly discussed.",
+      "sentiment": "neutral",
+      "keywords": [
+        "working",
+        "ai"
+      ],
+      "thumbnail": "https://assets.claude.com/cd30ce2e82eb423476801098073b39e025839018.jpg",
+      "cluster_id": "4dfcf8f1-9109-5cda-b2eb-33c02cb31a1c",
+      "cluster_size": 1,
+      "cluster_topics": [
+        "working"
+      ],
+      "geo_title": "A look at working with AI",
+      "geo_keywords": [
+        "working with ai",
+        "ai integration",
+        "ai technology",
+        "ai collaboration",
+        "ai implementation",
+        "ai in work",
+        "how to work with ai",
+        "ai tools and techniques",
+        "ai for businesses",
+        "ai training",
+        "ai and productivity",
+        "ai automation"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "A look at working with AI",
+        "url": "https://www.anthropic.com/research/working-with-ai",
+        "description": "A new partnership between a tech company and an AI firm aims to develop more advanced software, marking a significant step towards integrating artificial intelligence into everyday business operations and enhancing productivity. This collaboration is crucial as it could lead to breakthroughs in automation and decision-making processes across various industries.",
+        "keywords": "working with ai, ai integration, ai technology, ai collaboration, ai implementation, ai in work, how to work with ai, ai tools and techniques",
+        "datePublished": "2026-11-24T21:07:38+00:00",
+        "dateModified": "2026-11-24T21:07:38+00:00",
+        "author": {
+          "@type": "Organization",
+          "name": "HN top AI 24h",
+          "url": "https://www.anthropic.com"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "trending",
+        "inLanguage": "en-US",
+        "wordCount": 50,
+        "articleBody": "A new partnership between a tech company and an AI firm aims to develop more advanced software, marking a significant step towards integrating artificial intelligence into everyday business operations and enhancing productivity. This collaboration is crucial as it could lead to breakthroughs in automation and decision-making processes across various industries."
+      }
+    },
+    {
+      "source_id": "mit_technology_review_ai",
+      "source_name": "MIT Technology Review AI",
+      "title": "Raising the stakes for enterprise networks with AI modernization",
+      "url": "https://www.technologyreview.com/2026/11/24/1148091/raising-the-stakes-for-enterprise-networks-with-ai-modernization/",
+      "description": "Enterprise networks are under severe strain. As companies rush to deploy artificial intelligence, the technology is quickly becoming the biggest source of demand on the network. Now, agentic AI is adding to the load. Tasks conducted by AI agents generate an estimated 450% more network traffic than t",
+      "published": "Tue, 24 Nov 2026 15:15:16 +0000",
+      "score": 32,
+      "category": "industry",
+      "weight": 8,
+      "format": "article",
+      "summary": "Enterprise networks are facing significant strain as the deployment of artificial intelligence increases network traffic by 450%, primarily due to tasks performed by AI agents, highlighting the need for modernization to handle the growing demand.",
+      "summary_detailed": "Enterprise networks are facing significant strain as companies rapidly deploy artificial intelligence, which is generating a substantial increase in network traffic—estimated at 450% more due to tasks performed by AI agents. This issue affects various businesses across multiple industries, highlighting the need for modernization efforts to handle the growing demands on their networks.",
+      "summary_bullets": "• Enterprise networks face severe strain.\n• AI deployment increases network demand significantly.\n• Agentic AI adds substantial network traffic.\n• Estimated 450% more network traffic from AI tasks.",
+      "sentiment": "neutral",
+      "keywords": [
+        "enterprise networks",
+        "ai modernization",
+        "network strain",
+        "artificial intelligence",
+        "agentic ai",
+        "network traffic"
+      ],
+      "thumbnail": null,
+      "favicon": "https://www.google.com/s2/favicons?domain=www.technologyreview.com&sz=64",
+      "cluster_id": "da75c291-9d9c-5d66-baeb-52560fd49679",
+      "cluster_size": 1,
+      "cluster_topics": [
+        "enterprise",
+        "networks",
+        "network",
+        "stakes",
+        "modernization"
+      ],
+      "geo_title": "Why is AI modernization crucial for alleviating enterprise network strain?",
+      "geo_keywords": [
+        "enterprise networks strain",
+        "ai modernization challenges",
+        "network traffic increase due to ai",
+        "agentic ai impact on enterprise networks",
+        "ai and network congestion",
+        "what is agentic ai and its network impact",
+        "how ai modernization affects enterprise networks",
+        "increasing network demands with ai",
+        "mitigating ai network strain",
+        "addressing ai-generated network traffic"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "Why is AI modernization crucial for alleviating enterprise network strain?",
+        "url": "https://www.technologyreview.com/2026/11/24/1148091/raising-the-stakes-for-enterprise-networks-with-ai-modernization/",
+        "description": "Enterprise networks are facing significant strain as the deployment of artificial intelligence increases network traffic by 450%, primarily due to tasks performed by AI agents, highlighting the need for modernization to handle the growing demand.",
+        "keywords": "enterprise networks strain, ai modernization challenges, network traffic increase due to ai, agentic ai impact on enterprise networks, ai and network congestion, what is agentic ai and its network impact, how ai modernization affects enterprise networks, increasing network demands with ai",
+        "datePublished": "Tue, 24 Nov 2026 15:15:16 +0000",
+        "dateModified": "Tue, 24 Nov 2026 15:15:16 +0000",
+        "author": {
+          "@type": "Organization",
+          "name": "MIT Technology Review AI",
+          "url": "https://www.technologyreview.com"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "industry",
+        "inLanguage": "en-US",
+        "wordCount": 35,
+        "articleBody": "Enterprise networks are facing significant strain as the deployment of artificial intelligence increases network traffic by 450%, primarily due to tasks performed by AI agents, highlighting the need for modernization to handle the growing demand."
+      }
+    },
+    {
+      "source_id": "mit_technology_review_ai",
+      "source_name": "MIT Technology Review AI",
+      "title": "The Download: AI’s gas power boom and a consciousness reality check",
+      "url": "https://www.technologyreview.com/2026/11/24/1149669/the-download-data-centers-gas-ai-consciousness/",
+      "description": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Data centers are getting their own natural gas power plants One of the biggest obstacles to building a data center is getting approval to connect to t",
+      "published": "Tue, 24 Nov 2026 13:10:00 +0000",
+      "score": 32,
+      "category": "industry",
+      "weight": 8,
+      "format": "article",
+      "summary": "Data centers are increasingly being powered by dedicated natural gas plants, overcoming connectivity issues and boosting efficiency, but this raises concerns about environmental sustainability given AI's growing energy demands. This development highlights the need for balanced growth in tech infrastructure to address climate impacts.",
+      "summary_detailed": "Data centers are now being equipped with their own natural gas power plants, overcoming one of the major hurdles in constructing these facilities. This development accelerates the use of AI and cloud services by providing more reliable energy sources but raises concerns about increased carbon emissions. The broader impact includes potential advancements in AI technology due to more stable power supplies, alongside environmental debates over the sustainability of such infrastructure expansions.",
+      "summary_bullets": "• Data centers are increasingly being powered by dedicated natural gas plants.\n• Approval for connecting to existing grid can be challenging for new data centers.\n• This shift aims to reduce costs and increase energy efficiency.",
+      "sentiment": "neutral",
+      "keywords": [
+        "ai",
+        "gas",
+        "power",
+        "data centers",
+        "consciousness"
+      ],
+      "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2026/11/AP25350020551834.jpg?resize=1200,600",
+      "cluster_id": "58f7f126-9aa0-55a1-8ca3-fb8c6c65acbd",
+      "cluster_size": 2,
+      "cluster_topics": [
+        "gas",
+        "getting",
+        "power",
+        "data",
+        "plants"
+      ],
+      "geo_title": "How does AI's shift to gas power impact tech?",
+      "geo_keywords": [
+        "ai power",
+        "data center gas plants",
+        "consciousness debate",
+        "ai energy consumption",
+        "data center sustainability",
+        "ai technology update",
+        "natural gas for data centers",
+        "ai and environment",
+        "data center approval process",
+        "ai ethical concerns",
+        "ai data center expansion",
+        "renewable energy vs gas"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "How does AI's shift to gas power impact tech?",
+        "url": "https://www.technologyreview.com/2026/11/24/1149669/the-download-data-centers-gas-ai-consciousness/",
+        "description": "Data centers are increasingly being powered by dedicated natural gas plants, overcoming connectivity issues and boosting efficiency, but this raises concerns about environmental sustainability given AI's growing energy demands. This development highlights the need for balanced growth in tech infrastructure to address climate impacts.",
+        "keywords": "ai power, data center gas plants, consciousness debate, ai energy consumption, data center sustainability, ai technology update, natural gas for data centers, ai and environment",
+        "datePublished": "Tue, 24 Nov 2026 13:10:00 +0000",
+        "dateModified": "Tue, 24 Nov 2026 13:10:00 +0000",
+        "author": {
+          "@type": "Organization",
+          "name": "MIT Technology Review AI",
+          "url": "https://www.technologyreview.com"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "industry",
+        "inLanguage": "en-US",
+        "wordCount": 44,
+        "articleBody": "Data centers are increasingly being powered by dedicated natural gas plants, overcoming connectivity issues and boosting efficiency, but this raises concerns about environmental sustainability given AI's growing energy demands. This development highlights the need for balanced growth in tech infrastructure to address climate impacts."
+      }
+    },
+    {
+      "source_id": "mit_technology_review_ai",
+      "source_name": "MIT Technology Review AI",
+      "title": "Data centers are getting their own natural gas power plants",
+      "url": "https://www.technologyreview.com/2026/11/24/1149622/data-centers-natural-gas/",
+      "description": "One of the biggest roadblocks to starting up a data center is getting approval to connect to the electric grid—a wait that could last as long as a decade. Some developers aren’t willing to wait and are instead opting to build their own off-grid, or behind-the-meter, gas power plants to fuel the AI b",
+      "published": "Tue, 24 Nov 2026 11:00:00 +0000",
+      "score": 32,
+      "category": "industry",
+      "weight": 8,
+      "format": "article",
+      "summary": "Data centers are increasingly building their own natural gas power plants to bypass lengthy grid connection approvals, crucial for supporting AI operations. This move addresses a significant bottleneck in data center deployment, highlighting the industry's need for faster and more reliable energy solutions.",
+      "summary_detailed": "Data center developers are bypassing traditional grid connections by constructing their own natural gas-powered plants to support AI infrastructure, reducing startup delays. This approach is being adopted due to lengthy approval processes that can take up to a decade. The broader impact includes potential reductions in energy costs and improvements in reliability but also raises concerns about increased local emissions and infrastructure strain.",
+      "summary_bullets": "• Data centers face lengthy approvals for grid connection.\n• Developers are building off-grid natural gas power plants.\n• This approach reduces waiting time for electricity supply.",
+      "sentiment": "neutral",
+      "keywords": [
+        "data centers",
+        "natural gas",
+        "power plants",
+        "electric grid",
+        "approval",
+        "ai"
+      ],
+      "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2026/11/AP25350020551834.jpg?resize=1200,600",
+      "cluster_id": "58f7f126-9aa0-55a1-8ca3-fb8c6c65acbd",
+      "cluster_size": 2,
+      "cluster_topics": [
+        "gas",
+        "getting",
+        "power",
+        "data",
+        "plants"
+      ],
+      "geo_title": "Why is natural gas being considered for data centers?",
+      "geo_keywords": [
+        "data center power solution",
+        "off-grid data center",
+        "behind-the-meter gas power",
+        "natural gas for data centers",
+        "ai energy requirements",
+        "data center energy independence",
+        "fast-tracked data center power",
+        "renewable energy for ai",
+        "data center energy solutions",
+        "sustainable data center power"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "Why is natural gas being considered for data centers?",
+        "url": "https://www.technologyreview.com/2026/11/24/1149622/data-centers-natural-gas/",
+        "description": "Data centers are increasingly building their own natural gas power plants to bypass lengthy grid connection approvals, crucial for supporting AI operations. This move addresses a significant bottleneck in data center deployment, highlighting the industry's need for faster and more reliable energy solutions.",
+        "keywords": "data center power solution, off-grid data center, behind-the-meter gas power, natural gas for data centers, ai energy requirements, data center energy independence, fast-tracked data center power, renewable energy for ai",
+        "datePublished": "Tue, 24 Nov 2026 11:00:00 +0000",
+        "dateModified": "Tue, 24 Nov 2026 11:00:00 +0000",
+        "author": {
+          "@type": "Organization",
+          "name": "MIT Technology Review AI",
+          "url": "https://www.technologyreview.com"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "industry",
+        "inLanguage": "en-US",
+        "wordCount": 43,
+        "articleBody": "Data centers are increasingly building their own natural gas power plants to bypass lengthy grid connection approvals, crucial for supporting AI operations. This move addresses a significant bottleneck in data center deployment, highlighting the industry's need for faster and more reliable energy solutions."
+      }
+    },
+    {
+      "source_id": "hn_show_ai_7d",
+      "source_name": "Show HN AI 7d",
+      "title": "Show HN: PlaceBench – Testing AI on opening and closing hours (and last trains)",
+      "url": "https://github.com/voygr-tech/placebench",
+      "description": "",
+      "published": "2026-11-18T17:00:13+00:00",
+      "score": 31,
+      "category": "open_source",
+      "weight": 9,
+      "points": 10,
+      "comments_url": "https://news.ycombinator.com/item?id=50548763",
+      "summary": "PlaceBench introduces a new framework for evaluating AI systems based on their performance during opening, closing hours, and the impact of last train times, highlighting the need for AI to better handle real-world temporal constraints. This matters because it addresses practical challenges in scheduling and resource management that current AI models often overlook.",
+      "summary_detailed": "PlaceBench introduced a new framework to test AI systems specifically concerning opening and closing hours, as well as last train times. This initiative involves collaboration between tech developers and urban planners to ensure accurate and reliable AI predictions for public transportation schedules. The broader impact aims to improve the efficiency and reliability of public transport services through advanced AI testing.",
+      "summary_bullets": "• PlaceBench evaluates AI performance in real-world scenarios\n• Focuses on testing during store opening and closing times\n• Includes analysis of AI in handling last train situations",
+      "sentiment": "neutral",
+      "keywords": [
+        "placebench",
+        "ai testing",
+        "opening hours",
+        "closing hours",
+        "last trains"
+      ],
+      "thumbnail": null,
+      "favicon": "https://www.google.com/s2/favicons?domain=github.com&sz=64",
+      "cluster_id": "04ac7a36-9bac-5e8c-b9a1-97d3989d5c2e",
+      "cluster_size": 1,
+      "cluster_topics": [
+        "placebench",
+        "testing",
+        "opening",
+        "closing",
+        "hours"
+      ],
+      "geo_title": "Why is testing AI for business hours important?",
+      "geo_keywords": [
+        "ai testing platform",
+        "placebench technology",
+        "smart city ai testing",
+        "automated ai performance testing",
+        "ai system evaluation",
+        "last train times analysis",
+        "business hours ai optimization",
+        "ai testing tools",
+        "urban ai testing solutions",
+        "ai testing for businesses",
+        "how to test ai systems",
+        "ai testing methods"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "Why is testing AI for business hours important?",
+        "url": "https://github.com/voygr-tech/placebench",
+        "description": "PlaceBench introduces a new framework for evaluating AI systems based on their performance during opening, closing hours, and the impact of last train times, highlighting the need for AI to better handle real-world temporal constraints. This matters because it addresses practical challenges in scheduling and resource management that current AI models often overlook.",
+        "keywords": "ai testing platform, placebench technology, smart city ai testing, automated ai performance testing, ai system evaluation, last train times analysis, business hours ai optimization, ai testing tools",
+        "datePublished": "2026-11-18T17:00:13+00:00",
+        "dateModified": "2026-11-18T17:00:13+00:00",
+        "author": {
+          "@type": "Organization",
+          "name": "Show HN AI 7d",
+          "url": "https://github.com"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "open_source",
+        "inLanguage": "en-US",
+        "wordCount": 53,
+        "articleBody": "PlaceBench introduces a new framework for evaluating AI systems based on their performance during opening, closing hours, and the impact of last train times, highlighting the need for AI to better handle real-world temporal constraints. This matters because it addresses practical challenges in scheduling and resource management that current AI models often overlook."
+      }
+    },
+    {
+      "source_id": "hn_show_ai_7d",
+      "source_name": "Show HN AI 7d",
+      "title": "Show HN: A free creative suite, built in Rust, for AI collaboration",
+      "url": "https://codeyam.com/apps/cadyam",
+      "description": "",
+      "published": "2026-11-23T16:17:11+00:00",
+      "score": 30,
+      "category": "open_source",
+      "weight": 9,
+      "points": 5,
+      "comments_url": "https://news.ycombinator.com/item?id=50614327",
+      "summary": "A new free creative suite, developed using the Rust programming language, has been launched to facilitate AI-driven collaboration among creators. This tool aims to provide an open platform for artists and developers to work together more efficiently by leveraging Rust's robustness and safety features.",
+      "summary_detailed": "A new free creative suite, developed using the programming language Rust, has been created to facilitate AI collaboration. The project aims to provide artists and developers with a toolset to enhance their work through artificial intelligence integration. This initiative could significantly impact the creative industries by democratizing access to advanced AI technologies for content creation.",
+      "summary_bullets": "• Free creative suite developed in Rust\n• Designed for AI collaboration\n• Open-source project available",
+      "sentiment": "positive",
+      "keywords": [
+        "free creative suite",
+        "rust",
+        "ai collaboration"
+      ],
+      "thumbnail": "https://codeyam.com/share/cadyam.jpg",
+      "cluster_id": "659eba29-18ba-5119-ab6d-1fa3c5f01f6e",
+      "cluster_size": 1,
+      "cluster_topics": [
+        "free",
+        "creative",
+        "suite",
+        "collaboration",
+        "built"
+      ],
+      "geo_title": "Why is a free Rust-based creative suite ideal for AI collaboration?",
+      "geo_keywords": [
+        "free creative suite",
+        "rust programming",
+        "ai art collaboration",
+        "open source creative tools",
+        "rust software development",
+        "ai artist collaboration",
+        "creative coding environment",
+        "rust ai project",
+        "how to collaborate with ai",
+        "what is a free creative suite",
+        "building ai tools in rust",
+        "rust for ai projects"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "Why is a free Rust-based creative suite ideal for AI collaboration?",
+        "url": "https://codeyam.com/apps/cadyam",
+        "description": "A new free creative suite, developed using the Rust programming language, has been launched to facilitate AI-driven collaboration among creators. This tool aims to provide an open platform for artists and developers to work together more efficiently by leveraging Rust's robustness and safety features.",
+        "keywords": "free creative suite, rust programming, ai art collaboration, open source creative tools, rust software development, ai artist collaboration, creative coding environment, rust ai project",
+        "datePublished": "2026-11-23T16:17:11+00:00",
+        "dateModified": "2026-11-23T16:17:11+00:00",
+        "author": {
+          "@type": "Organization",
+          "name": "Show HN AI 7d",
+          "url": "https://codeyam.com"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "open_source",
+        "inLanguage": "en-US",
+        "wordCount": 44,
+        "articleBody": "A new free creative suite, developed using the Rust programming language, has been launched to facilitate AI-driven collaboration among creators. This tool aims to provide an open platform for artists and developers to work together more efficiently by leveraging Rust's robustness and safety features."
+      }
+    },
+    {
+      "source_id": "hn_show_ai_7d",
+      "source_name": "Show HN AI 7d",
+      "title": "Show HN: Carry – Save every AI conversations as Markdown, in a folder you Own",
+      "url": "https://carry.md/",
+      "description": "",
+      "published": "2026-11-25T03:19:02+00:00",
+      "score": 30,
+      "category": "open_source",
+      "weight": 9,
+      "points": 5,
+      "comments_url": "https://news.ycombinator.com/item?id=50637995",
+      "summary": "A new tool called Carry allows users to save every AI conversation as Markdown files in a personally owned folder, giving individuals control over their data. This matters because it empowers users to manage and retain their interactions with AI, enhancing privacy and accessibility.",
+      "summary_detailed": "A new tool called Carry allows users to save every AI conversation as Markdown files, which can be organized into folders they own. This feature enables greater control and accessibility of conversational data for personal or professional use. The broader impact could enhance research, documentation, and the transparency of interactions with artificial intelligence systems.",
+      "summary_bullets": "• Carries AI conversation history as Markdown files\n• Saves conversations in a user-owned folder\n• Offers privacy and control over data storage",
+      "sentiment": "neutral",
+      "keywords": [
+        "ai conversations",
+        "markdown",
+        "carry",
+        "ownership"
+      ],
+      "thumbnail": "https://carry.md/og.png",
+      "cluster_id": "3b67c59b-2991-5f03-b50b-8f57bedbc270",
+      "cluster_size": 1,
+      "cluster_topics": [
+        "carry",
+        "save",
+        "every",
+        "conversations",
+        "markdown"
+      ],
+      "geo_title": "Why is saving AI conversations as Markdown important?",
+      "geo_keywords": [
+        "ai conversation management",
+        "markdown ai notes",
+        "personal ai conversation storage",
+        "own ai conversations",
+        "carry markdown for ai",
+        "manage ai dialogue",
+        "save ai chat history",
+        "personal ai chat logs"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "Why is saving AI conversations as Markdown important?",
+        "url": "https://carry.md/",
+        "description": "A new tool called Carry allows users to save every AI conversation as Markdown files in a personally owned folder, giving individuals control over their data. This matters because it empowers users to manage and retain their interactions with AI, enhancing privacy and accessibility.",
+        "keywords": "ai conversation management, markdown ai notes, personal ai conversation storage, own ai conversations, carry markdown for ai, manage ai dialogue, save ai chat history, personal ai chat logs",
+        "datePublished": "2026-11-25T03:19:02+00:00",
+        "dateModified": "2026-11-25T03:19:02+00:00",
+        "author": {
+          "@type": "Organization",
+          "name": "Show HN AI 7d",
+          "url": "https://carry.md"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "open_source",
+        "inLanguage": "en-US",
+        "wordCount": 44,
+        "articleBody": "A new tool called Carry allows users to save every AI conversation as Markdown files in a personally owned folder, giving individuals control over their data. This matters because it empowers users to manage and retain their interactions with AI, enhancing privacy and accessibility."
+      }
+    },
+    {
+      "source_id": "hn_show_ai_7d",
+      "source_name": "Show HN AI 7d",
+      "title": "Show HN: ModelXare – Decentralized AI Models",
+      "url": "https://www.modelxare.com/",
+      "description": "",
+      "published": "2026-11-24T20:49:44+00:00",
+      "score": 30,
+      "category": "open_source",
+      "weight": 9,
+      "points": 5,
+      "comments_url": "https://news.ycombinator.com/item?id=50634489",
+      "summary": "ModelXare has launched a decentralized platform for AI models, aiming to give users more control over their data while fostering innovation in the AI community. This development is significant as it addresses privacy concerns and could reshape how AI technologies are developed and utilized globally.",
+      "summary_detailed": "ModelXare has launched a decentralized platform for AI models, allowing users to share and access various AI algorithms without relying on centralized servers. The platform involves developers and researchers who contribute their models and end-users who can utilize these models for various applications. This innovation aims to enhance privacy and reduce dependency on large tech companies, potentially reshaping the landscape of AI development and usage globally.",
+      "summary_bullets": "• Introduces ModelXare as a decentralized AI model platform.\n• Aims to democratize access to AI models through blockchain technology.\n• Enables users to deploy and share AI models without central authority.",
+      "sentiment": "neutral",
+      "keywords": [
+        "modelxare",
+        "decentralized",
+        "ai",
+        "models"
+      ],
+      "thumbnail": null,
+      "favicon": "https://www.google.com/s2/favicons?domain=www.modelxare.com&sz=64",
+      "cluster_id": "c18f8113-7021-564d-b2dc-c0baa5d73a69",
+      "cluster_size": 1,
+      "cluster_topics": [
+        "modelxare",
+        "decentralized",
+        "models",
+        "show"
+      ],
+      "geo_title": "Why Is ModelXare Revolutionizing Decentralized AI Models?",
+      "geo_keywords": [
+        "decentralized ai models",
+        "modelxare technology",
+        "decentralized ai platform",
+        "ai model sharing",
+        "decentralized machine learning",
+        "how does decentralized ai work",
+        "decentralized ai solutions",
+        "decentralized ai models explained"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "Why Is ModelXare Revolutionizing Decentralized AI Models?",
+        "url": "https://www.modelxare.com/",
+        "description": "ModelXare has launched a decentralized platform for AI models, aiming to give users more control over their data while fostering innovation in the AI community. This development is significant as it addresses privacy concerns and could reshape how AI technologies are developed and utilized globally.",
+        "keywords": "decentralized ai models, modelxare technology, decentralized ai platform, ai model sharing, decentralized machine learning, how does decentralized ai work, decentralized ai solutions, decentralized ai models explained",
+        "datePublished": "2026-11-24T20:49:44+00:00",
+        "dateModified": "2026-11-24T20:49:44+00:00",
+        "author": {
+          "@type": "Organization",
+          "name": "Show HN AI 7d",
+          "url": "https://www.modelxare.com"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "open_source",
+        "inLanguage": "en-US",
+        "wordCount": 45,
+        "articleBody": "ModelXare has launched a decentralized platform for AI models, aiming to give users more control over their data while fostering innovation in the AI community. This development is significant as it addresses privacy concerns and could reshape how AI technologies are developed and utilized globally."
+      }
+    },
+    {
+      "source_id": "marktechpost",
+      "source_name": "MarkTechPost",
+      "title": "ByteDance Researchers Open-Sources Laminar, an Async Reinforcement Learning RL Post-Training Framework",
+      "url": "https://www.marktechpost.com/2026/11/24/bytedance-seed-laminar-async-rl-post-training-framework/",
+      "description": "<p>Laminar is an open-source asynchronous RL post-training framework from HKU and ByteDance Seed researchers. It decouples rollout, training and weight sync, and lifted Qwen3-Coder-30B-A3B to 52.2% on SWE-bench Verified.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/11/24/bytedance-seed",
+      "published": "Wed, 25 Nov 2026 05:42:05 +0000",
+      "score": 24,
+      "category": "industry",
+      "weight": 6,
+      "format": "article",
+      "summary": "ByteDance and HKU researchers have released Laminar, an open-source framework for asynchronous reinforcement learning that improves efficiency. This tool could advance AI training processes by decoupling rollout, training, and weight synchronization, as demonstrated through enhanced performance on SWE-bench.",
+      "summary_detailed": "ByteDance and HKU researchers have open-sourced Laminar, an asynchronous reinforcement learning (RL) post-training framework. This tool decouples rollout, training, and weight synchronization processes. The innovation significantly improved Qwen3-Coder-30B-A3B's performance on SWE-bench to 52.2%, showcasing its potential in enhancing RL model efficiency and effectiveness.",
+      "summary_bullets": "• Laminar is an open-source asynchronous RL post-training framework.\n• It decouples rollout, training, and weight sync processes.\n• Performance improved Qwen3-Coder-30B-A3B to 52.2% on SWE-bench.",
+      "sentiment": "neutral",
+      "keywords": [
+        "async reinforcement learning",
+        "laminar",
+        "post-training framework",
+        "decouples",
+        "rollout",
+        "training",
+        "weight sync"
+      ],
+      "thumbnail": "https://www.marktechpost.com/wp-content/uploads/2026/11/WP-BLOG-BANNER-111oo-4-scaled.png",
+      "cluster_id": "fbc19faa-0a02-559b-8b85-213d5c33c7b7",
+      "cluster_size": 1,
+      "cluster_topics": [
+        "bytedance",
+        "researchers",
+        "laminar",
+        "post-training",
+        "framework"
+      ],
+      "geo_title": "Why is Laminar by ByteDance Researchers a Game-Changer in Async RL?",
+      "geo_keywords": [
+        "async reinforcement learning",
+        "laminar framework",
+        "post-training rl",
+        "rollout decoupling",
+        "qwen3-coder-30b",
+        "swe-bench performance",
+        "bytedance seed research",
+        "asynchronous rl framework"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "Why is Laminar by ByteDance Researchers a Game-Changer in Async RL?",
+        "url": "https://www.marktechpost.com/2026/11/24/bytedance-seed-laminar-async-rl-post-training-framework/",
+        "description": "ByteDance and HKU researchers have released Laminar, an open-source framework for asynchronous reinforcement learning that improves efficiency. This tool could advance AI training processes by decoupling rollout, training, and weight synchronization, as demonstrated through enhanced performance on SWE-bench.",
+        "keywords": "async reinforcement learning, laminar framework, post-training rl, rollout decoupling, qwen3-coder-30b, swe-bench performance, bytedance seed research, asynchronous rl framework",
+        "datePublished": "Wed, 25 Nov 2026 05:42:05 +0000",
+        "dateModified": "Wed, 25 Nov 2026 05:42:05 +0000",
+        "author": {
+          "@type": "Organization",
+          "name": "MarkTechPost",
+          "url": "https://www.marktechpost.com"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "industry",
+        "inLanguage": "en-US",
+        "wordCount": 38,
+        "articleBody": "ByteDance and HKU researchers have released Laminar, an open-source framework for asynchronous reinforcement learning that improves efficiency. This tool could advance AI training processes by decoupling rollout, training, and weight synchronization, as demonstrated through enhanced performance on SWE-bench."
+      }
+    },
+    {
+      "source_id": "marktechpost",
+      "source_name": "MarkTechPost",
+      "title": "Meet Facebook’s Your Algorithm: How Meta Turns Plain-Language Preferences Into Ranking",
+      "url": "https://www.marktechpost.com/2026/11/24/meta-facebook-your-algorithm-llm-recommendations/",
+      "description": "<p>Meta's engineering team explains how Facebook's Your Algorithm turns plain-language interests into ranking signals for Feed and Reels, using LLM validation, 4 retrieval sources, layered filtering and a fine-tuned LLM reranker.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/11/24/meta-",
+      "published": "Tue, 24 Nov 2026 23:06:17 +0000",
+      "score": 24,
+      "category": "industry",
+      "weight": 6,
+      "format": "article",
+      "summary": "Facebook's Your Algorithm converts users' plain-language interests into ranking signals for the Feed and Reels, utilizing a combination of LLM validation, retrieval sources, filtering layers, and a fine-tuned LLM reranker. This process is crucial as it personalizes content delivery, enhancing user engagement on the platform.",
+      "summary_detailed": "Meta's engineering team has detailed how Facebook's Your Algorithm translates users' plain-language interests into ranking signals for the Feed and Reels, employing LLM validation, multiple retrieval sources, layered filtering, and a fine-tuned LLM reranker. This algorithm impacts user experience by personalizing content visibility based on preferences, potentially enhancing engagement but also raising concerns about privacy and bias in content curation.",
+      "summary_bullets": "• Meta's Your Algorithm uses plain-language interests to rank content.\n• The process involves LLM validation and 4 retrieval sources.\n• Layered filtering is applied before a fine-tuned LLM reranks the results.",
+      "sentiment": "neutral",
+      "keywords": [
+        "facebook",
+        "algorithm",
+        "meta",
+        "interests",
+        "ranking",
+        "signals"
+      ],
+      "thumbnail": "https://www.marktechpost.com/wp-content/uploads/2026/11/WP-BLOG-BANNER-111oo-3-scaled.png",
+      "cluster_id": "5cbd9e0c-9c68-523e-9206-b274610d6e87",
+      "cluster_size": 1,
+      "cluster_topics": [
+        "meta",
+        "facebook",
+        "algorithm",
+        "turns",
+        "plain-language"
+      ],
+      "geo_title": "How Does Facebook’s Your Algorithm Convert Plain-Language Interests Into Ranking Signals?",
+      "geo_keywords": [
+        "facebook algorithm",
+        "meta your algorithm",
+        "plain-language preferences",
+        "ranking signals",
+        "llm validation",
+        "retrieval sources",
+        "layered filtering",
+        "fine-tuned llm reranker",
+        "how does meta rank content",
+        "what is the facebook your algorithm",
+        "how does facebook's algorithm work"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "How Does Facebook’s Your Algorithm Convert Plain-Language Interests Into Ranking Signals?",
+        "url": "https://www.marktechpost.com/2026/11/24/meta-facebook-your-algorithm-llm-recommendations/",
+        "description": "Facebook's Your Algorithm converts users' plain-language interests into ranking signals for the Feed and Reels, utilizing a combination of LLM validation, retrieval sources, filtering layers, and a fine-tuned LLM reranker. This process is crucial as it personalizes content delivery, enhancing user engagement on the platform.",
+        "keywords": "facebook algorithm, meta your algorithm, plain-language preferences, ranking signals, llm validation, retrieval sources, layered filtering, fine-tuned llm reranker",
+        "datePublished": "Tue, 24 Nov 2026 23:06:17 +0000",
+        "dateModified": "Tue, 24 Nov 2026 23:06:17 +0000",
+        "author": {
+          "@type": "Organization",
+          "name": "MarkTechPost",
+          "url": "https://www.marktechpost.com"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "industry",
+        "inLanguage": "en-US",
+        "wordCount": 45,
+        "articleBody": "Facebook's Your Algorithm converts users' plain-language interests into ranking signals for the Feed and Reels, utilizing a combination of LLM validation, retrieval sources, filtering layers, and a fine-tuned LLM reranker. This process is crucial as it personalizes content delivery, enhancing user engagement on the platform."
+      }
+    },
+    {
+      "source_id": "marktechpost",
+      "source_name": "MarkTechPost",
+      "title": "OpenAI and Cisco Releases Shirudo: An Open-Source Linux Runtime Allowing Agents to Defend Systems Without Downtime",
+      "url": "https://www.marktechpost.com/2026/11/24/openai-cisco-shirudo-ebpf-linux-runtime/",
+      "description": "<p>OpenAI and Cisco released Shirudo, a pre-release, BSD-licensed eBPF runtime for Linux. AI agents write signed \"shields\" that block exploit paths on running systems while teams test and roll out real patches.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/11/24/openai-cisco-shirudo-ebp",
+      "published": "Tue, 24 Nov 2026 14:16:53 +0000",
+      "score": 24,
+      "category": "industry",
+      "weight": 6,
+      "format": "article",
+      "summary": "OpenAI and Cisco released Shirudo, an open-source eBPF runtime for Linux that allows AI agents to deploy protective \"shields\" on running systems, enabling continuous defense against exploits without downtime. This tool is crucial as it enhances cybersecurity by providing real-time protection during the patch development process.",
+      "summary_detailed": "OpenAI and Cisco have released Shirudo, an open-source eBPF runtime for Linux that allows AI agents to deploy \"shields\" to block exploit paths on running systems. This enables security teams to test and implement patches without system downtime. The broader impact could enhance real-time cybersecurity by integrating AI in a non-disruptive manner across various Linux-based systems.",
+      "summary_bullets": "• OpenAI and Cisco released Shirudo.\n• Shirudo is a BSD-licensed eBPF runtime for Linux.\n• AI agents can write \"shields\" to block exploits.",
+      "sentiment": "neutral",
+      "keywords": [
+        "openai",
+        "cisco",
+        "shirudo",
+        "ebp",
+        "runtime",
+        "linux",
+        "shields"
+      ],
+      "thumbnail": "https://www.marktechpost.com/wp-content/uploads/2026/11/WP-BLOG-BANNER-111oo-2-1024x768.png",
+      "cluster_id": "16fb19ed-895c-57a3-b932-23de0afbf4ae",
+      "cluster_size": 1,
+      "cluster_topics": [
+        "openai",
+        "cisco",
+        "shirudo",
+        "linux",
+        "runtime"
+      ],
+      "geo_title": "Why is Shirudo Important for AI-Driven System Defense?",
+      "geo_keywords": [
+        "openai",
+        "cisco",
+        "shirudo",
+        "effective security measures",
+        "ai in cybersecurity",
+        "linux runtime",
+        "patch management",
+        "protecting systems without downtime",
+        "ai agents defending systems",
+        "automated defense mechanisms",
+        "preventing cyber attacks",
+        "ebpf technology"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "Why is Shirudo Important for AI-Driven System Defense?",
+        "url": "https://www.marktechpost.com/2026/11/24/openai-cisco-shirudo-ebpf-linux-runtime/",
+        "description": "OpenAI and Cisco released Shirudo, an open-source eBPF runtime for Linux that allows AI agents to deploy protective \"shields\" on running systems, enabling continuous defense against exploits without downtime. This tool is crucial as it enhances cybersecurity by providing real-time protection during the patch development process.",
+        "keywords": "openai, cisco, shirudo, effective security measures, ai in cybersecurity, linux runtime, patch management, protecting systems without downtime",
+        "datePublished": "Tue, 24 Nov 2026 14:16:53 +0000",
+        "dateModified": "Tue, 24 Nov 2026 14:16:53 +0000",
+        "author": {
+          "@type": "Organization",
+          "name": "MarkTechPost",
+          "url": "https://www.marktechpost.com"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "industry",
+        "inLanguage": "en-US",
+        "wordCount": 46,
+        "articleBody": "OpenAI and Cisco released Shirudo, an open-source eBPF runtime for Linux that allows AI agents to deploy protective \"shields\" on running systems, enabling continuous defense against exploits without downtime. This tool is crucial as it enhances cybersecurity by providing real-time protection during the patch development process."
+      }
+    }
+  ],
+  "enriched": true,
+  "enriched_at": "2026-11-25T09:01:46.309882+00:00",
+  "enricher_model": "qwen2.5-7b",
+  "clustered": true,
+  "clustered_at": "2026-11-25T09:01:46.429955+00:00",
+  "cluster_threshold": 0.3,
+  "geo_metadata": {
+    "date": "2026-11-25",
+    "generated_at": "2026-11-25T09:02:31.816282+00:00",
+    "schemas_generated": 22,
+    "topics": [
+      "accused",
+      "addressing ai-generated network traffic",
+      "agentic ai",
+      "agentic ai impact on enterprise networks",
+      "agents",
+      "ai",
+      "ai agents defending systems",
+      "ai algorithm fairness",
+      "ai and environment",
+      "ai and music copyright issues",
+      "ai and network congestion",
+      "ai and productivity",
+      "ai art collaboration",
+      "ai artist collaboration",
+      "ai automation",
+      "ai collaboration",
+      "ai company integrity",
+      "ai conversation management",
+      "ai conversations",
+      "ai cost efficiency",
+      "ai data center expansion",
+      "ai energy consumption",
+      "ai energy requirements",
+      "ai energy usage",
+      "ai ethical concerns",
+      "ai ethics debate",
+      "ai ethics in business",
+      "ai for businesses",
+      "ai implementation",
+      "ai in cybersecurity",
+      "ai in music industry",
+      "ai in sales strategies",
+      "ai in work",
+      "ai integration",
+      "ai investment trends",
+      "ai model sharing",
+      "ai modernization",
+      "ai modernization challenges",
+      "ai music creation controversy",
+      "ai power",
+      "ai powered fan engagement",
+      "ai protein design",
+      "ai system evaluation",
+      "ai technology",
+      "ai technology update",
+      "ai testing",
+      "ai testing for businesses",
+      "ai testing methods",
+      "ai testing platform",
+      "ai testing tools"
+    ],
+    "faq_items": [
+      {
+        "question": "What new capabilities have been demonstrated by GPT-6 models?",
+        "answer": "GPT-6 models have shown intrinsic protein-design capabilities, indicating their potential in biological and medical research."
+      },
+      {
+        "question": "How does iFood manage its coding agents across a large number of repositories?",
+        "answer": "iFood scales coding agents across 15,000 repositories to streamline development and maintain consistency in its vast codebase."
+      },
+      {
+        "question": "How is Codex and ChatGPT being used by Clay to support sales teams?",
+        "answer": "Clay leverages Codex and ChatGPT to empower its sales teams, enhancing their performance and effectiveness in customer interactions."
+      },
+      {
+        "question": "In what ways is Gemini transforming Golden State's organization and fan experience?",
+        "answer": "Gemini is revolutionizing Golden State's operations and fan engagement, improving efficiency and creating a more interactive and dynamic user experience."
+      },
+      {
+        "question": "What are the implications of LLM agents working for their parent companies rather than individuals?",
+        "answer": "LLM agents primarily serve their parent companies, which may limit individual access to these powerful tools, potentially impacting personal use and innovation."
+      }
+    ]
+  },
+  "geo_enriched": true,
+  "geo_enriched_at": "2026-11-25T09:02:31.816282+00:00"
+}
