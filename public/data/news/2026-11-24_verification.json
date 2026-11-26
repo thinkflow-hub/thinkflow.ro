@@ -1,12 +1,41 @@
 {
   "date": "2026-11-24",
-  "generated_at": "2026-11-26T05:00:06.335385+00:00",
+  "generated_at": "2026-11-26T09:03:03.308120+00:00",
   "results": {
+    "deepmind_blog": {
+      "verification_status": "verified",
+      "sources_count": 2,
+      "sources": [
+        "OpenAI Blog",
+        "DeepMind Blog"
+      ]
+    },
     "openai_blog": {
       "verification_status": "unconfirmed",
       "sources_count": 1,
       "sources": [
         "OpenAI Blog"
+      ]
+    },
+    "nousresearch_releases": {
+      "verification_status": "unconfirmed",
+      "sources_count": 1,
+      "sources": [
+        "NousResearch releases"
+      ]
+    },
+    "ollama_releases": {
+      "verification_status": "unconfirmed",
+      "sources_count": 1,
+      "sources": [
+        "Ollama releases"
+      ]
+    },
+    "huggingface_transformers_releases": {
+      "verification_status": "unconfirmed",
+      "sources_count": 1,
+      "sources": [
+        "Transformers releases"
       ]
     },
     "google_ai_blog": {
@@ -20,8 +49,8 @@
       "verification_status": "verified",
       "sources_count": 2,
       "sources": [
-        "Latent Space (Substack)",
-        "HN top LLM 24h"
+        "HN top LLM 24h",
+        "Latent Space (Substack)"
       ]
     },
     "hn_ai_24h": {
@@ -35,8 +64,8 @@
       "verification_status": "verified",
       "sources_count": 2,
       "sources": [
-        "Latent Space (Substack)",
-        "HN top LLM 24h"
+        "HN top LLM 24h",
+        "Latent Space (Substack)"
       ]
     },
     "mit_technology_review_ai": {

@@ -1,7 +1,14 @@
 {
   "date": "2026-11-23",
-  "generated_at": "2026-11-26T05:00:06.335892+00:00",
+  "generated_at": "2026-11-26T09:03:03.308120+00:00",
   "results": {
+    "nousresearch_releases": {
+      "verification_status": "unconfirmed",
+      "sources_count": 1,
+      "sources": [
+        "NousResearch releases"
+      ]
+    },
     "hn_show_ai_7d": {
       "verification_status": "unconfirmed",
       "sources_count": 1,
@@ -21,8 +28,8 @@
       "verification_status": "verified",
       "sources_count": 2,
       "sources": [
-        "OpenAI Blog",
-        "GitHub Trending — AI Agents"
+        "GitHub Trending — AI Agents",
+        "OpenAI Blog"
       ]
     },
     "trending_ai": {
