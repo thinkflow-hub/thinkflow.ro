@@ -1,6 +1,6 @@
 {
   "date": "2026-11-23",
-  "generated_at": "2026-11-26T09:03:03.308120+00:00",
+  "generated_at": "2026-11-26T13:00:07.008044+00:00",
   "results": {
     "nousresearch_releases": {
       "verification_status": "unconfirmed",
@@ -17,34 +17,16 @@
       ]
     },
     "openai_blog": {
-      "verification_status": "verified",
-      "sources_count": 2,
+      "verification_status": "unconfirmed",
+      "sources_count": 1,
       "sources": [
-        "OpenAI Blog",
-        "GitHub Trending — AI"
-      ]
-    },
-    "trending_agent": {
-      "verification_status": "verified",
-      "sources_count": 2,
-      "sources": [
-        "GitHub Trending — AI Agents",
         "OpenAI Blog"
       ]
     },
-    "trending_ai": {
-      "verification_status": "verified",
-      "sources_count": 2,
-      "sources": [
-        "GitHub Trending — AI",
-        "Google AI Blog"
-      ]
-    },
     "google_ai_blog": {
-      "verification_status": "verified",
-      "sources_count": 2,
+      "verification_status": "unconfirmed",
+      "sources_count": 1,
       "sources": [
-        "GitHub Trending — AI",
         "Google AI Blog"
       ]
     },
@@ -88,20 +70,6 @@
       "sources_count": 1,
       "sources": [
         "MIT Technology Review AI"
-      ]
-    },
-    "ggml_releases": {
-      "verification_status": "unconfirmed",
-      "sources_count": 1,
-      "sources": [
-        "ggml/llama.cpp releases"
-      ]
-    },
-    "arxiv_cs_cl": {
-      "verification_status": "unconfirmed",
-      "sources_count": 1,
-      "sources": [
-        "ArXiv cs.CL (Computation and Language / NLP)"
       ]
     }
   }
