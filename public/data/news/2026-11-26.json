@@ -1,0 +1,2163 @@
+{
+  "date": "2026-11-26",
+  "last_updated": "2026-11-26T06:00:01.482137+00:00",
+  "total_items": 30,
+  "items": [
+    {
+      "source_id": "deepmind_blog",
+      "source_name": "DeepMind Blog",
+      "title": "From spectrum to structure: Identifying molecules with Mass Spec Skills for Google Antigravity",
+      "url": "https://deepmind.google/blog/interpreting-mass-spectra-with-google-antigravity/",
+      "description": "Mass Spec Skills empowers scientists using Google Antigravity to interpret tandem mass spectra.",
+      "published": "Tue, 24 Nov 2026 13:07:53 +0000",
+      "score": 67,
+      "category": "ai_labs",
+      "weight": 9,
+      "format": "article",
+      "summary": "Mass Spec Skills helps scientists interpret complex data from tandem mass spectrometry, aiding in the identification of molecules. This tool is crucial as it enhances the capabilities of Google Antigravity, a platform for advanced scientific research, making molecular analysis more accessible and accurate.",
+      "summary_detailed": "Mass Spec Skills, a tool utilized by scientists working with Google Antigravity, enables the interpretation of complex tandem mass spectra, aiding in the identification of molecules. This collaboration enhances scientific research capabilities, potentially leading to breakthroughs in various fields such as pharmaceuticals and materials science. The broader impact includes improved accuracy in molecular analysis, which could accelerate discovery processes across multiple industries.",
+      "summary_bullets": "• Mass Spec Skills aids in interpreting tandem mass spectra.\n• The tool is designed for scientists using Google Antigravity.\n• It enhances the understanding and analysis of molecular structures.",
+      "sentiment": "neutral",
+      "keywords": [
+        "mass spec skills",
+        "google antigravity",
+        "tandem mass spectra"
+      ],
+      "thumbnail": null,
+      "favicon": "https://www.google.com/s2/favicons?domain=deepmind.google&sz=64",
+      "cluster_id": "0494ef44-0c7d-5b01-8a33-ff807dbd7425",
+      "cluster_size": 1,
+      "cluster_topics": [
+        "mass",
+        "spec",
+        "skills",
+        "google",
+        "antigravity"
+      ],
+      "geo_title": "How does Mass Spec Skills aid scientists with Google Antigravity?",
+      "geo_keywords": [
+        "mass spectrometry interpretation",
+        "google antigravity technology",
+        "identifying molecules through mass spectrometry",
+        "tandem mass spectrometry analysis",
+        "molecular structure identification",
+        "mass spec skills tutorial",
+        "how to use google antigravity in mass spec",
+        "interpreting complex spectra",
+        "advanced mass spectrometry techniques"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "How does Mass Spec Skills aid scientists with Google Antigravity?",
+        "url": "https://deepmind.google/blog/interpreting-mass-spectra-with-google-antigravity/",
+        "description": "Mass Spec Skills helps scientists interpret complex data from tandem mass spectrometry, aiding in the identification of molecules. This tool is crucial as it enhances the capabilities of Google Antigravity, a platform for advanced scientific research, making molecular analysis more accessible and accurate.",
+        "keywords": "mass spectrometry interpretation, google antigravity technology, identifying molecules through mass spectrometry, tandem mass spectrometry analysis, molecular structure identification, mass spec skills tutorial, how to use google antigravity in mass spec, interpreting complex spectra",
+        "datePublished": "Tue, 24 Nov 2026 13:07:53 +0000",
+        "dateModified": "Tue, 24 Nov 2026 13:07:53 +0000",
+        "author": {
+          "@type": "Organization",
+          "name": "DeepMind Blog",
+          "url": "https://deepmind.google"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "ai_labs",
+        "inLanguage": "en-US",
+        "wordCount": 43,
+        "articleBody": "Mass Spec Skills helps scientists interpret complex data from tandem mass spectrometry, aiding in the identification of molecules. This tool is crucial as it enhances the capabilities of Google Antigravity, a platform for advanced scientific research, making molecular analysis more accessible and accurate."
+      }
+    },
+    {
+      "source_id": "huggingface_blog",
+      "source_name": "Hugging Face Blog",
+      "title": "Building on Nemotron 3.5 Parse: Open Data, Fine-Tuning, and Faster Inference",
+      "url": "https://huggingface.co/blog/nvidia/building-on-nemotron-35-parse-open-data-fine-tunin",
+      "description": "",
+      "published": "Thu, 26 Nov 2026 05:05:36 GMT",
+      "score": 67,
+      "category": "ai_labs",
+      "weight": 9,
+      "format": "article",
+      "summary": "Researchers have improved the Nemotron model to version 3.5, enhancing its data processing capabilities and inference speed, which could lead to more efficient machine learning applications in various fields. This update is significant as it allows for better fine-tuning of models with open data, potentially advancing research and practical uses of AI technology.",
+      "summary_detailed": "Researchers have fine-tuned the Nemotron 3.5 model to enhance its open data processing capabilities, leading to faster inference times in various applications. The improvements involve adjustments to the neural network architecture and optimization techniques, benefiting industries such as finance and healthcare with more efficient data analysis tools. This update is expected to accelerate decision-making processes and reduce computational costs across multiple sectors.",
+      "summary_bullets": "• Nemotron 3.5 enhances open data integration capabilities\n• System undergoes fine-tuning for improved accuracy\n• Processing speed is significantly increased for faster inference",
+      "sentiment": "neutral",
+      "keywords": [
+        "open data",
+        "fine-tuning",
+        "faster inference"
+      ],
+      "thumbnail": "https://cdn-uploads.huggingface.co/production/uploads/6365c3f398da81987e2753f2/zArpuP9uLsLz9luMW0K2g.png",
+      "cluster_id": "64da2d0a-9273-5fca-87b0-5954b04e9dec",
+      "cluster_size": 1,
+      "cluster_topics": [
+        "building",
+        "nemotron",
+        "parse",
+        "fine-tuning",
+        "inference"
+      ],
+      "geo_title": "How does Nemotron 3.5 improve open data parsing with fine-tuning?",
+      "geo_keywords": [
+        "nemotron 3.5",
+        "open data processing",
+        "fine-tuning models",
+        "faster inference times",
+        "technological advancements in ai",
+        "how does nemotron 3.5 improve ai",
+        "what is fine-tuning in ai",
+        "benefits of open data in ai",
+        "optimizing ai models for speed"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "How does Nemotron 3.5 improve open data parsing with fine-tuning?",
+        "url": "https://huggingface.co/blog/nvidia/building-on-nemotron-35-parse-open-data-fine-tunin",
+        "description": "Researchers have improved the Nemotron model to version 3.5, enhancing its data processing capabilities and inference speed, which could lead to more efficient machine learning applications in various fields. This update is significant as it allows for better fine-tuning of models with open data, potentially advancing research and practical uses of AI technology.",
+        "keywords": "nemotron 3.5, open data processing, fine-tuning models, faster inference times, technological advancements in ai, how does nemotron 3.5 improve ai, what is fine-tuning in ai, benefits of open data in ai",
+        "datePublished": "Thu, 26 Nov 2026 05:05:36 GMT",
+        "dateModified": "Thu, 26 Nov 2026 05:05:36 GMT",
+        "author": {
+          "@type": "Organization",
+          "name": "Hugging Face Blog",
+          "url": "https://huggingface.co"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "ai_labs",
+        "inLanguage": "en-US",
+        "wordCount": 53,
+        "articleBody": "Researchers have improved the Nemotron model to version 3.5, enhancing its data processing capabilities and inference speed, which could lead to more efficient machine learning applications in various fields. This update is significant as it allows for better fine-tuning of models with open data, potentially advancing research and practical uses of AI technology."
+      }
+    },
+    {
+      "source_id": "huggingface_blog",
+      "source_name": "Hugging Face Blog",
+      "title": "Where scientists draw the line on AI agents",
+      "url": "https://huggingface.co/blog/allenai/where-scientists-draw-the-line-on-ai-agents",
+      "description": "",
+      "published": "Wed, 25 Nov 2026 18:52:55 GMT",
+      "score": 67,
+      "category": "ai_labs",
+      "weight": 9,
+      "format": "article",
+      "summary": "Scientists are establishing guidelines for AI agents to ensure they operate ethically and safely, addressing concerns about potential misuse and ensuring technology benefits society. These efforts matter as AI becomes more integrated into daily life, influencing decisions in critical areas like healthcare and finance.",
+      "summary_detailed": "Scientists have convened to establish ethical guidelines for the development of artificial intelligence (AI) agents, aiming to prevent misuse and ensure safety. The gathering includes researchers from leading institutions worldwide who discussed potential risks and benefits. These guidelines are expected to influence future AI innovations, promoting responsible technology use in society.",
+      "summary_bullets": "• Scientists debate ethical boundaries in AI development.\n• Concerns over bias and fairness in AI algorithms discussed.\n• Transparency in AI decision-making processes is emphasized.",
+      "sentiment": "neutral",
+      "keywords": [
+        "scientists",
+        "ai agents",
+        "line drawing"
+      ],
+      "thumbnail": "https://cdn-uploads.huggingface.co/production/uploads/638e39b249de7ae552d977b5/F32BgZC_rj0kg99apJlto.png",
+      "cluster_id": "55d711b2-e016-5657-abe1-735fa3af90f4",
+      "cluster_size": 1,
+      "cluster_topics": [
+        "draw",
+        "line",
+        "scientists",
+        "agents"
+      ],
+      "geo_title": "Why is there a limit in AI development?",
+      "geo_keywords": [
+        "scientists and ai agents",
+        "where to draw the line on ai",
+        "ethical considerations in ai development",
+        "ai technology regulation",
+        "guidelines for ai agent creation",
+        "ai safety measures",
+        "questions about ai boundaries",
+        "ethics of artificial intelligence",
+        "defining limits for ai technology"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "Why is there a limit in AI development?",
+        "url": "https://huggingface.co/blog/allenai/where-scientists-draw-the-line-on-ai-agents",
+        "description": "Scientists are establishing guidelines for AI agents to ensure they operate ethically and safely, addressing concerns about potential misuse and ensuring technology benefits society. These efforts matter as AI becomes more integrated into daily life, influencing decisions in critical areas like healthcare and finance.",
+        "keywords": "scientists and ai agents, where to draw the line on ai, ethical considerations in ai development, ai technology regulation, guidelines for ai agent creation, ai safety measures, questions about ai boundaries, ethics of artificial intelligence",
+        "datePublished": "Wed, 25 Nov 2026 18:52:55 GMT",
+        "dateModified": "Wed, 25 Nov 2026 18:52:55 GMT",
+        "author": {
+          "@type": "Organization",
+          "name": "Hugging Face Blog",
+          "url": "https://huggingface.co"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "ai_labs",
+        "inLanguage": "en-US",
+        "wordCount": 44,
+        "articleBody": "Scientists are establishing guidelines for AI agents to ensure they operate ethically and safely, addressing concerns about potential misuse and ensuring technology benefits society. These efforts matter as AI becomes more integrated into daily life, influencing decisions in critical areas like healthcare and finance."
+      }
+    },
+    {
+      "source_id": "huggingface_blog",
+      "source_name": "Hugging Face Blog",
+      "title": "An Indic Voice Agent with CUGA",
+      "url": "https://huggingface.co/blog/ibm-research/an-indic-voice-agent-with-cuga",
+      "description": "",
+      "published": "Wed, 25 Nov 2026 10:22:09 GMT",
+      "score": 67,
+      "category": "ai_labs",
+      "weight": 9,
+      "format": "article",
+      "summary": "An AI voice assistant designed for Indian users was launched by a tech company, aiming to better serve the local market through culturally relevant features. This launch is significant as it addresses the need for more localized technology solutions in India, enhancing user engagement and satisfaction.",
+      "summary_detailed": "An innovative voice assistant with Indian cultural elements was launched by CUGA, a tech company focusing on AI solutions. This new product aims to provide more relatable interactions for users in India by integrating local languages and cultural nuances. The broader impact is expected to enhance user engagement and accessibility of technology across the country, potentially boosting adoption rates of voice-activated devices among Indian consumers.",
+      "summary_bullets": "• Introduction of an Indian-language voice assistant\n• Partnership between the company and CUGA\n• Focus on enhancing accessibility through local languages",
+      "sentiment": "neutral",
+      "keywords": [
+        "indic voice",
+        "cuga"
+      ],
+      "thumbnail": "https://cdn-uploads.huggingface.co/production/uploads/67fe070a4e8cc28ba346f53c/-QNcrxSDbjI8VOCBlhi-C.png",
+      "cluster_id": "3fa9983d-f100-5229-84b6-1603530317e1",
+      "cluster_size": 1,
+      "cluster_topics": [
+        "indic",
+        "voice",
+        "cuga",
+        "agent"
+      ],
+      "geo_title": "Why is an Indic Voice Agent Important with CUGA?",
+      "geo_keywords": [
+        "indic voice agent",
+        "cuga technology",
+        "multilingual voice assistant",
+        "indian language ai",
+        "speech recognition in hindi",
+        "how does cuga work",
+        "indic language processing",
+        "voice interface for sanskrit",
+        "what is cuga",
+        "cuga and its applications",
+        "voice recognition in regional languages",
+        "advancements in indic language technology"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "Why is an Indic Voice Agent Important with CUGA?",
+        "url": "https://huggingface.co/blog/ibm-research/an-indic-voice-agent-with-cuga",
+        "description": "An AI voice assistant designed for Indian users was launched by a tech company, aiming to better serve the local market through culturally relevant features. This launch is significant as it addresses the need for more localized technology solutions in India, enhancing user engagement and satisfaction.",
+        "keywords": "indic voice agent, cuga technology, multilingual voice assistant, indian language ai, speech recognition in hindi, how does cuga work, indic language processing, voice interface for sanskrit",
+        "datePublished": "Wed, 25 Nov 2026 10:22:09 GMT",
+        "dateModified": "Wed, 25 Nov 2026 10:22:09 GMT",
+        "author": {
+          "@type": "Organization",
+          "name": "Hugging Face Blog",
+          "url": "https://huggingface.co"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "ai_labs",
+        "inLanguage": "en-US",
+        "wordCount": 46,
+        "articleBody": "An AI voice assistant designed for Indian users was launched by a tech company, aiming to better serve the local market through culturally relevant features. This launch is significant as it addresses the need for more localized technology solutions in India, enhancing user engagement and satisfaction."
+      }
+    },
+    {
+      "source_id": "trending_agent",
+      "source_name": "GitHub Trending — AI Agents",
+      "title": "codewhale-hq/Codewhale — Open-source Rust coding agent for terminal, web, and desktop. Any model, multi-agent fleets, MCP & plugins, OS sandboxin",
+      "url": "https://github.com/codewhale-hq/Codewhale",
+      "description": "Open-source Rust coding agent for terminal, web, and desktop. Any model, multi-agent fleets, MCP & plugins, OS sandboxing, and session receipts.",
+      "published": "2026-11-26T05:24:06Z",
+      "score": 66,
+      "category": "open_source",
+      "weight": 10,
+      "stars": 41210,
+      "language": "Rust",
+      "summary": "Codewhale, an open-source Rust-based coding assistant, offers versatile functionality including support for various models, multi-agent systems, and OS-level sandboxing, aiming to enhance developer productivity across terminal, web, and desktop environments. Its significance lies in providing a flexible and secure development tool that can adapt to different use cases and improve the efficiency of software development processes.",
+      "summary_detailed": "Codewhale-hq/Codewhale is an open-source project that develops a Rust-based coding assistant capable of operating in various environments including the terminal, web, and desktop. The system supports multiple models, allows for the management of multi-agent fleets, includes a Model Control Panel (MCP) and plugin support, and features OS-level sandboxing to enhance security. This tool has the potential to significantly impact developer productivity by providing flexible and secure coding assistance across different platforms.",
+      "summary_bullets": "• Open-source platform for Rust coding\n• Supports terminal, web, and desktop environments\n• Compatible with any AI model\n• Enables multi-agent fleet management\n• Features MCP and plugin support",
+      "sentiment": "neutral",
+      "keywords": [
+        "open-source",
+        "rust",
+        "codewhale",
+        "multi-agent",
+        "sandboxing"
+      ],
+      "thumbnail": "https://opengraph.githubassets.com/c0863d8ce983dd9c753d1a9492d5bca6b438315d7a731994f655dcfdb80b43f4/codewhale-hq/Codewhale",
+      "cluster_id": "43059d58-830a-5b8a-826d-22c2e4995338",
+      "cluster_size": 1,
+      "cluster_topics": [
+        "open-source",
+        "rust",
+        "coding",
+        "terminal",
+        "web"
+      ],
+      "geo_title": "Why is Codewhale-HQ's Open-Source Rust Agent Unique?",
+      "geo_keywords": [
+        "open-source",
+        "rust",
+        "codewhale",
+        "multi-agent fleets",
+        "mcp & plugins",
+        "os sandboxing",
+        "session receipts",
+        "ai coding assistant"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "Why is Codewhale-HQ's Open-Source Rust Agent Unique?",
+        "url": "https://github.com/codewhale-hq/Codewhale",
+        "description": "Codewhale, an open-source Rust-based coding assistant, offers versatile functionality including support for various models, multi-agent systems, and OS-level sandboxing, aiming to enhance developer productivity across terminal, web, and desktop environments. Its significance lies in providing a flexible and secure development tool that can adapt to different use cases and improve the efficiency of software development processes.",
+        "keywords": "open-source, rust, codewhale, multi-agent fleets, mcp & plugins, os sandboxing, session receipts, ai coding assistant",
+        "datePublished": "2026-11-26T05:24:06Z",
+        "dateModified": "2026-11-26T05:24:06Z",
+        "author": {
+          "@type": "Organization",
+          "name": "GitHub Trending — AI Agents",
+          "url": "https://github.com"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "open_source",
+        "inLanguage": "en-US",
+        "wordCount": 56,
+        "articleBody": "Codewhale, an open-source Rust-based coding assistant, offers versatile functionality including support for various models, multi-agent systems, and OS-level sandboxing, aiming to enhance developer productivity across terminal, web, and desktop environments. Its significance lies in providing a flexible and secure development tool that can adapt to different use cases and improve the efficiency of software development processes."
+      }
+    },
+    {
+      "source_id": "trending_llm",
+      "source_name": "GitHub Trending — LLM",
+      "title": "TauricResearch/TradingAgents — TradingAgents: Towards Agentic Finance Research",
+      "url": "https://github.com/TauricResearch/TradingAgents",
+      "description": "TradingAgents: Towards Agentic Finance Research",
+      "published": "2026-11-25T07:27:54Z",
+      "score": 62,
+      "category": "open_source",
+      "weight": 9,
+      "stars": 123796,
+      "language": "TypeScript",
+      "summary": "TauricResearch released a study titled \"TradingAgents: Towards Agentic Finance Research,\" exploring the potential of autonomous agents in financial markets. This research aims to understand how artificial intelligence can enhance decision-making processes, potentially transforming traditional finance practices.",
+      "summary_detailed": "TauricResearch and TradingAgents collaborated to explore new methodologies in financial research focusing on agency theory. The project aims to understand how autonomous trading systems can influence market dynamics, potentially reshaping the landscape of financial analysis and investment strategies. This initiative could lead to more sophisticated models for predicting market behaviors and improving decision-making processes in finance.",
+      "summary_bullets": "• Focus on developing autonomous agents for financial trading.\n• Emphasizes the role of agency in financial markets through technology.\n• Seeks to enhance decision-making processes in finance with AI.",
+      "sentiment": "neutral",
+      "keywords": [
+        "tradingagents",
+        "finance",
+        "research",
+        "agentic",
+        "tauricresearch"
+      ],
+      "thumbnail": "https://repository-images.githubusercontent.com/909213664/8cfc671d-b54b-400e-beab-8ef0bbf39aa1",
+      "cluster_id": "493ac1de-6d82-516a-beba-a11ecc302e5e",
+      "cluster_size": 1,
+      "cluster_topics": [
+        "tradingagents",
+        "agentic",
+        "finance",
+        "towards",
+        "research"
+      ],
+      "geo_title": "Why is TradingAgents Revolutionizing Agentic Finance Research?",
+      "geo_keywords": [
+        "trading agents research",
+        "agentic finance",
+        "tauricresearch",
+        "ai in finance",
+        "autonomous trading systems",
+        "financial technology advancements",
+        "what are trading agents in finance",
+        "how do trading agents work in financial markets"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "Why is TradingAgents Revolutionizing Agentic Finance Research?",
+        "url": "https://github.com/TauricResearch/TradingAgents",
+        "description": "TauricResearch released a study titled \"TradingAgents: Towards Agentic Finance Research,\" exploring the potential of autonomous agents in financial markets. This research aims to understand how artificial intelligence can enhance decision-making processes, potentially transforming traditional finance practices.",
+        "keywords": "trading agents research, agentic finance, tauricresearch, ai in finance, autonomous trading systems, financial technology advancements, what are trading agents in finance, how do trading agents work in financial markets",
+        "datePublished": "2026-11-25T07:27:54Z",
+        "dateModified": "2026-11-25T07:27:54Z",
+        "author": {
+          "@type": "Organization",
+          "name": "GitHub Trending — LLM",
+          "url": "https://github.com"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "open_source",
+        "inLanguage": "en-US",
+        "wordCount": 36,
+        "articleBody": "TauricResearch released a study titled \"TradingAgents: Towards Agentic Finance Research,\" exploring the potential of autonomous agents in financial markets. This research aims to understand how artificial intelligence can enhance decision-making processes, potentially transforming traditional finance practices."
+      }
+    },
+    {
+      "source_id": "nousresearch_releases",
+      "source_name": "NousResearch releases",
+      "title": "NousResearch releases: Hermes Agent canary canary.20261125T064800Z-v0.23.4",
+      "url": "https://github.com/NousResearch/hermes-agent/releases/tag/canary.20261125T064800Z-v0.23.4",
+      "description": "# Hermes Agent v0.23.4+canary.20261125T064800Z (canary.20261125T064800Z-v0.23.4)\n\n**Release Date:** November 25, 2026\n\n<!-- HERMES_BUILDS_TABLE -->\n## Downloads\n\n### Hermes Desktop\n\n| OS | Architecture | Download |\n|---|---|---|\n| macOS | Apple Silicon (M-series) | [DMG](https://hermes-assets.nousre",
+      "published": "2026-11-25T08:02:20Z",
+      "score": 60,
+      "category": "releases",
+      "weight": 10,
+      "tag": "canary.20261125T064800Z-v0.23.4",
+      "summary": "NouResearch released Hermes Agent v0.23.4 in a canary version on November 25, 2026, aimed at early testers and developers to gather feedback before the official release.",
+      "summary_detailed": "NousResearch released Hermes Agent version v0.23.4, specifically a canary build denoted as `canary.20261125T064800Z-v0.23.4`, on November 25, 2026. This release is intended for early testers and includes updates to the Hermes Desktop application for macOS running Apple Silicon processors. The broader impact is to gather feedback from users before a full official release.",
+      "summary_bullets": "• Release version: v0.23.4+canary.20261125T064800Z\n• Release date: November 25, 2026\n• Available for macOS on Apple Silicon (M-series)",
+      "sentiment": "neutral",
+      "keywords": [
+        "hermes agent",
+        "canary release",
+        "v0.23.4",
+        "nov 25",
+        "2026"
+      ],
+      "thumbnail": "https://opengraph.githubassets.com/51c736c728dd17f30fdc83e9ebd972282a0b2833673e51a2ee64bc30f49df4e9/NousResearch/hermes-agent/releases/tag/canary.20261125T064800Z-v0.23.4",
+      "cluster_id": "abc5e93d-9e88-53db-b6a0-e5264de5b636",
+      "cluster_size": 4,
+      "cluster_topics": [
+        "canary",
+        "hermes",
+        "agent",
+        "release",
+        "nousresearch"
+      ],
+      "geo_title": "What is the new Hermes Agent v0.23.4 release?",
+      "geo_keywords": [
+        "hermes agent release",
+        "canary version",
+        "v0.23.4 update",
+        "nousresearch news",
+        "desktop application update",
+        "ai technology release",
+        "software development cycle",
+        "what is hermes agent",
+        "when is the next hermes agent release"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "What is the new Hermes Agent v0.23.4 release?",
+        "url": "https://github.com/NousResearch/hermes-agent/releases/tag/canary.20261125T064800Z-v0.23.4",
+        "description": "NouResearch released Hermes Agent v0.23.4 in a canary version on November 25, 2026, aimed at early testers and developers to gather feedback before the official release.",
+        "keywords": "hermes agent release, canary version, v0.23.4 update, nousresearch news, desktop application update, ai technology release, software development cycle, what is hermes agent",
+        "datePublished": "2026-11-25T08:02:20Z",
+        "dateModified": "2026-11-25T08:02:20Z",
+        "author": {
+          "@type": "Organization",
+          "name": "NousResearch releases",
+          "url": "https://github.com"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "releases",
+        "inLanguage": "en-US",
+        "wordCount": 26,
+        "articleBody": "NouResearch released Hermes Agent v0.23.4 in a canary version on November 25, 2026, aimed at early testers and developers to gather feedback before the official release."
+      }
+    },
+    {
+      "source_id": "nousresearch_releases",
+      "source_name": "NousResearch releases",
+      "title": "NousResearch releases: Hermes Agent v0.23.4",
+      "url": "https://github.com/NousResearch/hermes-agent/releases/tag/v0.23.4",
+      "description": "# Hermes Agent v0.23.4\n\n**Release Date:** November 23, 2026\n\n> Patch release. This tag rolls up the ~229 PRs merged since v0.23.3 into a stable release for the GitHub release (CLI and installers), the Microsoft Store app, Docker and Hermes Cloud. Full curated notes for this window ship with v0.24.0.",
+      "published": "2026-11-24T08:17:06Z",
+      "score": 60,
+      "category": "releases",
+      "weight": 10,
+      "tag": "v0.23.4",
+      "summary": "Hermes Agent v0.23.4 was released on November 23, 2026, consolidating over 229 merged pull requests to stabilize the software across various platforms, highlighting ongoing development and improvements in the Hermes project.",
+      "summary_detailed": "NousResearch released Hermes Agent version 0.23.4 on November 23, 2026, incorporating approximately 229 merged pull requests from the previous version. This patch update includes updates for the GitHub release (CLI and installers), Microsoft Store app, Docker, and Hermes Cloud. The broader impact is to provide a stable release with comprehensive notes for the upcoming v0.24.0 update.",
+      "summary_bullets": "• Patch release incorporating 229 merged PRs\n• Stable release for CLI, installers, Microsoft Store app, Docker, and Hermes Cloud\n• Curated notes will be included with v0.24.0",
+      "sentiment": "neutral",
+      "keywords": [
+        "patch release",
+        "prs",
+        "github",
+        "cli",
+        "microsoft store",
+        "docker",
+        "hermes cloud"
+      ],
+      "thumbnail": "https://opengraph.githubassets.com/960c45c1271a4dd267f258f5bf28cd7f80311aa72480d4bf8aaf0bfdd8e04584/NousResearch/hermes-agent/releases/tag/v0.23.4",
+      "cluster_id": "abc5e93d-9e88-53db-b6a0-e5264de5b636",
+      "cluster_size": 4,
+      "cluster_topics": [
+        "canary",
+        "hermes",
+        "agent",
+        "release",
+        "nousresearch"
+      ],
+      "geo_title": "Why is Hermes Agent v0.23.4 a significant release?",
+      "geo_keywords": [
+        "hermes agent update",
+        "github release notes",
+        "microsoft store updates",
+        "pr merge",
+        "cli improvements",
+        "docker container update",
+        "hermes cloud release",
+        "patch version release"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "Why is Hermes Agent v0.23.4 a significant release?",
+        "url": "https://github.com/NousResearch/hermes-agent/releases/tag/v0.23.4",
+        "description": "Hermes Agent v0.23.4 was released on November 23, 2026, consolidating over 229 merged pull requests to stabilize the software across various platforms, highlighting ongoing development and improvements in the Hermes project.",
+        "keywords": "hermes agent update, github release notes, microsoft store updates, pr merge, cli improvements, docker container update, hermes cloud release, patch version release",
+        "datePublished": "2026-11-24T08:17:06Z",
+        "dateModified": "2026-11-24T08:17:06Z",
+        "author": {
+          "@type": "Organization",
+          "name": "NousResearch releases",
+          "url": "https://github.com"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "releases",
+        "inLanguage": "en-US",
+        "wordCount": 31,
+        "articleBody": "Hermes Agent v0.23.4 was released on November 23, 2026, consolidating over 229 merged pull requests to stabilize the software across various platforms, highlighting ongoing development and improvements in the Hermes project."
+      }
+    },
+    {
+      "source_id": "nousresearch_releases",
+      "source_name": "NousResearch releases",
+      "title": "NousResearch releases: Hermes Agent canary canary.20261124T064706Z-v0.23.3",
+      "url": "https://github.com/NousResearch/hermes-agent/releases/tag/canary.20261124T064706Z-v0.23.3",
+      "description": "# Hermes Agent v0.23.3+canary.20261124T064706Z (canary.20261124T064706Z-v0.23.3)\n\n**Release Date:** November 24, 2026\n\n<!-- HERMES_BUILDS_TABLE -->\n## Downloads\n\n### Hermes Desktop\n\n| OS | Architecture | Download |\n|---|---|---|\n| macOS | Apple Silicon (M-series) | [DMG](https://hermes-assets.nousre",
+      "published": "2026-11-24T08:06:20Z",
+      "score": 60,
+      "category": "releases",
+      "weight": 10,
+      "tag": "canary.20261124T064706Z-v0.23.3",
+      "summary": "NousResearch released Hermes Agent v0.23.3, a canary version dated November 24, 2026, which is aimed at early testers and developers for feedback before the official release.",
+      "summary_detailed": "NousResearch released Hermes Agent version v0.23.3, specifically a canary build denoted as canary.20261124T064706Z-v0.23.3 on November 24, 2026. This update is intended for early testers and includes new features and improvements before the official release. The broader impact is to gather feedback from users to refine future releases of Hermes Agent.",
+      "summary_bullets": "• Release version is v0.23.3+canary.20261124T064706Z\n• Released on November 24, 2026\n• Available for macOS Apple Silicon (M-series) as a DMG download",
+      "sentiment": "neutral",
+      "keywords": [
+        "hermes agent",
+        "canary release",
+        "v0.23.3",
+        "macos",
+        "apple silicon"
+      ],
+      "thumbnail": "https://opengraph.githubassets.com/fdb1b22ea94befe5d67f4b325caa191dff439d48b641a405eba9ecefdbc60458/NousResearch/hermes-agent/releases/tag/canary.20261124T064706Z-v0.23.3",
+      "cluster_id": "abc5e93d-9e88-53db-b6a0-e5264de5b636",
+      "cluster_size": 4,
+      "cluster_topics": [
+        "canary",
+        "hermes",
+        "agent",
+        "release",
+        "nousresearch"
+      ],
+      "geo_title": "What is the new Hermes Agent v0.23.3 release date?",
+      "geo_keywords": [
+        "hermes agent canary release",
+        "v0.23.3 update",
+        "macos apple silicon download",
+        "nouresearch hermes agent",
+        "latest hermes agent version",
+        "canary build release date",
+        "what is hermes agent canary"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "What is the new Hermes Agent v0.23.3 release date?",
+        "url": "https://github.com/NousResearch/hermes-agent/releases/tag/canary.20261124T064706Z-v0.23.3",
+        "description": "NousResearch released Hermes Agent v0.23.3, a canary version dated November 24, 2026, which is aimed at early testers and developers for feedback before the official release.",
+        "keywords": "hermes agent canary release, v0.23.3 update, macos apple silicon download, nouresearch hermes agent, latest hermes agent version, canary build release date, what is hermes agent canary",
+        "datePublished": "2026-11-24T08:06:20Z",
+        "dateModified": "2026-11-24T08:06:20Z",
+        "author": {
+          "@type": "Organization",
+          "name": "NousResearch releases",
+          "url": "https://github.com"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "releases",
+        "inLanguage": "en-US",
+        "wordCount": 26,
+        "articleBody": "NousResearch released Hermes Agent v0.23.3, a canary version dated November 24, 2026, which is aimed at early testers and developers for feedback before the official release."
+      }
+    },
+    {
+      "source_id": "nousresearch_releases",
+      "source_name": "NousResearch releases",
+      "title": "NousResearch releases: Hermes Agent canary canary.20261123T065600Z-v0.23.3",
+      "url": "https://github.com/NousResearch/hermes-agent/releases/tag/canary.20261123T065600Z-v0.23.3",
+      "description": "# Hermes Agent v0.23.3+canary.20261123T065600Z (canary.20261123T065600Z-v0.23.3)\n\n**Release Date:** November 23, 2026\n\n<!-- HERMES_BUILDS_TABLE -->\n## Downloads\n\n### Hermes Desktop\n\n| OS | Architecture | Download |\n|---|---|---|\n| macOS | Apple Silicon (M-series) | [DMG](https://hermes-assets.nousre",
+      "published": "2026-11-23T08:05:01Z",
+      "score": 60,
+      "category": "releases",
+      "weight": 10,
+      "tag": "canary.20261123T065600Z-v0.23.3",
+      "summary": "NousResearch released Hermes Agent v0.23.3, a canary version on November 23, 2026, for testing purposes, particularly targeting users of macOS with M-series processors. This release is important as it allows early adopters to test upcoming features and stability improvements before the official release.",
+      "summary_detailed": "NousResearch released Hermes Agent version 0.23.3, specifically a canary build denoted as `canary.20261123T065600Z-v0.23.3`, on November 23, 2026. This update is intended for advanced users and developers to test new features before official release. The broader impact includes early feedback and potential issues being identified by the testing community, which can inform future development and improvements of Hermes Agent.",
+      "summary_bullets": "• Release version: v0.23.3+canary.20261123T065600Z\n• Release date: November 23, 2026\n• Available for macOS on Apple Silicon (M-series)",
+      "sentiment": "neutral",
+      "keywords": [
+        "hermes agent",
+        "canary release",
+        "v0.23.3",
+        "nov 23",
+        "2026"
+      ],
+      "thumbnail": "https://opengraph.githubassets.com/5ea6a03123478c9b5897f0531919d7a78010bd7e3646d1329caabe1900f94088/NousResearch/hermes-agent/releases/tag/canary.20261123T065600Z-v0.23.3",
+      "cluster_id": "abc5e93d-9e88-53db-b6a0-e5264de5b636",
+      "cluster_size": 4,
+      "cluster_topics": [
+        "canary",
+        "hermes",
+        "agent",
+        "release",
+        "nousresearch"
+      ],
+      "geo_title": "What is the new Hermes Agent v0.23.3 canary release?",
+      "geo_keywords": [
+        "hermes agent release",
+        "canary version",
+        "v0.23.3 update",
+        "nov 23 2026 release",
+        "hermes desktop download",
+        "ai assistant update",
+        "canary build release date"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "What is the new Hermes Agent v0.23.3 canary release?",
+        "url": "https://github.com/NousResearch/hermes-agent/releases/tag/canary.20261123T065600Z-v0.23.3",
+        "description": "NousResearch released Hermes Agent v0.23.3, a canary version on November 23, 2026, for testing purposes, particularly targeting users of macOS with M-series processors. This release is important as it allows early adopters to test upcoming features and stability improvements before the official release.",
+        "keywords": "hermes agent release, canary version, v0.23.3 update, nov 23 2026 release, hermes desktop download, ai assistant update, canary build release date",
+        "datePublished": "2026-11-23T08:05:01Z",
+        "dateModified": "2026-11-23T08:05:01Z",
+        "author": {
+          "@type": "Organization",
+          "name": "NousResearch releases",
+          "url": "https://github.com"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "releases",
+        "inLanguage": "en-US",
+        "wordCount": 43,
+        "articleBody": "NousResearch released Hermes Agent v0.23.3, a canary version on November 23, 2026, for testing purposes, particularly targeting users of macOS with M-series processors. This release is important as it allows early adopters to test upcoming features and stability improvements before the official release."
+      }
+    },
+    {
+      "source_id": "hn_ai_24h",
+      "source_name": "HN top AI 24h",
+      "title": "The New York Times warns photographers not to update Photoshop over AI features",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1041227/the-new-york-times-warns-photographers-not-to-update-photoshop-over-ai-features",
+      "description": "",
+      "published": "2026-11-25T21:18:02+00:00",
+      "score": 59,
+      "category": "trending",
+      "weight": 8,
+      "points": 288,
+      "comments_url": "https://news.ycombinator.com/item?id=50647673",
+      "summary": "The New York Times issued a warning to photographers advising them against updating Adobe Photoshop due to new artificial intelligence features, emphasizing the potential risks these could pose to image authenticity and journalistic integrity. This matters because it highlights ongoing concerns about the manipulation of digital images in media, which can affect public trust and the accuracy of information.",
+      "summary_detailed": "The New York Times has issued a warning to photographers advising them against updating their Adobe Photoshop software due to new artificial intelligence (AI) features that could potentially compromise image integrity and authenticity. This caution comes as the tech industry grapples with the ethical implications of AI in photo manipulation, raising concerns about the verification of visual content in an increasingly digital world.",
+      "summary_bullets": "• The New York Times advises against updating Photoshop due to new AI features.\n• Updates may introduce bugs or issues affecting photo integrity.\n• Users are warned of potential risks in using updated versions with AI tools.",
+      "sentiment": "neutral",
+      "keywords": [
+        "photographers",
+        "times",
+        "ai",
+        "photoshop",
+        "warning"
+      ],
+      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2289911637.jpg?quality=90&strip=all&crop=0%2C10.232235952618%2C100%2C79.535528094764&w=1200",
+      "cluster_id": "a6451826-04f1-57b3-afb6-53399b1f5080",
+      "cluster_size": 1,
+      "cluster_topics": [
+        "york",
+        "times",
+        "warns",
+        "photographers",
+        "photoshop"
+      ],
+      "geo_title": "Why is The New York Times cautioning photographers about AI in Photoshop?",
+      "geo_keywords": [
+        "photographers beware ai in photos",
+        "ai in photo editing",
+        "new york times ai warning",
+        "ai vs photography tools",
+        "updating photoshop with ai",
+        "can ai replace photographers",
+        "how ai affects photo editing",
+        "ai in creative industries",
+        "what ai means for photographers",
+        "is ai changing photography",
+        "ai and photo manipulation",
+        "ai features in photo editing software"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "Why is The New York Times cautioning photographers about AI in Photoshop?",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1041227/the-new-york-times-warns-photographers-not-to-update-photoshop-over-ai-features",
+        "description": "The New York Times issued a warning to photographers advising them against updating Adobe Photoshop due to new artificial intelligence features, emphasizing the potential risks these could pose to image authenticity and journalistic integrity. This matters because it highlights ongoing concerns about the manipulation of digital images in media, which can affect public trust and the accuracy of information.",
+        "keywords": "photographers beware ai in photos, ai in photo editing, new york times ai warning, ai vs photography tools, updating photoshop with ai, can ai replace photographers, how ai affects photo editing, ai in creative industries",
+        "datePublished": "2026-11-25T21:18:02+00:00",
+        "dateModified": "2026-11-25T21:18:02+00:00",
+        "author": {
+          "@type": "Organization",
+          "name": "HN top AI 24h",
+          "url": "https://www.theverge.com"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "trending",
+        "inLanguage": "en-US",
+        "wordCount": 59,
+        "articleBody": "The New York Times issued a warning to photographers advising them against updating Adobe Photoshop due to new artificial intelligence features, emphasizing the potential risks these could pose to image authenticity and journalistic integrity. This matters because it highlights ongoing concerns about the manipulation of digital images in media, which can affect public trust and the accuracy of information."
+      }
+    },
+    {
+      "source_id": "ollama_releases",
+      "source_name": "Ollama releases",
+      "title": "Ollama releases: v0.40.18",
+      "url": "https://github.com/ollama/ollama/releases/tag/v0.40.18",
+      "description": "## What's Changed\r\n* mlx: fuse Inkling residual mixing on Metal by @dhiltgen in https://github.com/ollama/ollama/pull/19808\r\n* mlxrunner: share tensor helpers and model setup across architectures by @jaingaurav in https://github.com/ollama/ollama/pull/19805\r\n* llama.cpp: version bump b12651 + remove",
+      "published": "2026-11-24T04:18:13Z",
+      "score": 54,
+      "category": "releases",
+      "weight": 9,
+      "tag": "v0.40.18",
+      "summary": "Ollama released version 0.40.18, which includes updates to mlx for Inkling residual mixing and mlxrunner for shared tensor helpers across architectures; the release also bumps the llama.cpp version and removes certain features. This update enhances the software's functionality and compatibility.",
+      "summary_detailed": "Ollama, an open-source project focused on large language models, released version v0.40.18, which includes updates such as improvements in Inkling residual mixing for Metal by developer @dhiltgen and sharing tensor helpers across architectures by @jaingaurav. These changes enhance the project's functionality and interoperability. The update impacts contributors and users of Ollama, potentially improving performance and usability in various applications.",
+      "summary_bullets": "• mlx: fuse Inkling residual mixing on Metal\n• mlxrunner: share tensor helpers and model setup across architectures\n• llama.cpp: version bump and removal",
+      "sentiment": "neutral",
+      "keywords": [
+        "mlx",
+        "fuse inkling residual mixing",
+        "tensor helpers",
+        "model setup",
+        "version bump"
+      ],
+      "thumbnail": "https://opengraph.githubassets.com/a6c8f0306504f810fa1504d44b9b19dd039fda7f60dc30259b1d587f0d834c13/ollama/ollama/releases/tag/v0.40.18",
+      "cluster_id": "e13deffd-50ea-517b-864c-3c23fd9a3cdd",
+      "cluster_size": 1,
+      "cluster_topics": [
+        "ollama",
+        "pull",
+        "com",
+        "github",
+        "https"
+      ],
+      "geo_title": "Why is Ollama v0.40.18 release focusing on these updates?",
+      "geo_keywords": [
+        "ollama v0.40.18 release",
+        "update ollama",
+        "mlx version change",
+        "ollama architecture improvement",
+        "tensor optimization in ollama",
+        "model setup enhancements ollama"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "Why is Ollama v0.40.18 release focusing on these updates?",
+        "url": "https://github.com/ollama/ollama/releases/tag/v0.40.18",
+        "description": "Ollama released version 0.40.18, which includes updates to mlx for Inkling residual mixing and mlxrunner for shared tensor helpers across architectures; the release also bumps the llama.cpp version and removes certain features. This update enhances the software's functionality and compatibility.",
+        "keywords": "ollama v0.40.18 release, update ollama, mlx version change, ollama architecture improvement, tensor optimization in ollama, model setup enhancements ollama",
+        "datePublished": "2026-11-24T04:18:13Z",
+        "dateModified": "2026-11-24T04:18:13Z",
+        "author": {
+          "@type": "Organization",
+          "name": "Ollama releases",
+          "url": "https://github.com"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "releases",
+        "inLanguage": "en-US",
+        "wordCount": 40,
+        "articleBody": "Ollama released version 0.40.18, which includes updates to mlx for Inkling residual mixing and mlxrunner for shared tensor helpers across architectures; the release also bumps the llama.cpp version and removes certain features. This update enhances the software's functionality and compatibility."
+      }
+    },
+    {
+      "source_id": "hn_llm_24h",
+      "source_name": "HN top LLM 24h",
+      "title": "Bare Metal Qwen",
+      "url": "https://github.com/alesha-pro/llm.asm/tree/main/02-baremetal-os",
+      "description": "",
+      "published": "2026-11-25T22:15:34+00:00",
+      "score": 52,
+      "category": "trending",
+      "weight": 9,
+      "points": 106,
+      "comments_url": "https://news.ycombinator.com/item?id=50648365",
+      "summary": "A new AI model called Qwen has been developed using bare metal servers for enhanced performance, marking a step towards more powerful and efficient large language models. This development is significant as it demonstrates advancements in hardware utilization to boost AI capabilities.",
+      "summary_detailed": "Bare Metal Qwen, a new AI model, was unveiled by Alibaba Cloud, offering raw computing power directly to users without any pre-installed software or operating systems. This move aims to provide more flexibility and performance for developers working on large language models and other computationally intensive tasks. The broader impact could reshape the AI development landscape by enabling faster prototyping and experimentation with less overhead.",
+      "summary_bullets": "• Introduces advanced bare metal capabilities\n• Enhances direct hardware access for performance\n• Supports high-demand applications with raw power",
+      "sentiment": "neutral",
+      "keywords": [
+        "bare metal",
+        "qwen"
+      ],
+      "thumbnail": "https://opengraph.githubassets.com/d17fab0f9421e07d81a6f4644e824791b306811b2e0f40c415eb981babde2618/alesha-pro/llm.asm",
+      "cluster_id": "f2ac8ad4-6889-5bcf-bc97-e5f468f31f07",
+      "cluster_size": 1,
+      "cluster_topics": [
+        "bare",
+        "qwen",
+        "metal"
+      ],
+      "geo_title": "What is Bare Metal Qwen?",
+      "geo_keywords": [
+        "bare metal servers",
+        "qwen technology",
+        "cloud computing infrastructure",
+        "server deployment",
+        "high-performance computing",
+        "data center solutions",
+        "scalable hosting",
+        "what is bare metal qwen",
+        "how does bare metal qwen work"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "What is Bare Metal Qwen?",
+        "url": "https://github.com/alesha-pro/llm.asm/tree/main/02-baremetal-os",
+        "description": "A new AI model called Qwen has been developed using bare metal servers for enhanced performance, marking a step towards more powerful and efficient large language models. This development is significant as it demonstrates advancements in hardware utilization to boost AI capabilities.",
+        "keywords": "bare metal servers, qwen technology, cloud computing infrastructure, server deployment, high-performance computing, data center solutions, scalable hosting, what is bare metal qwen",
+        "datePublished": "2026-11-25T22:15:34+00:00",
+        "dateModified": "2026-11-25T22:15:34+00:00",
+        "author": {
+          "@type": "Organization",
+          "name": "HN top LLM 24h",
+          "url": "https://github.com"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "trending",
+        "inLanguage": "en-US",
+        "wordCount": 42,
+        "articleBody": "A new AI model called Qwen has been developed using bare metal servers for enhanced performance, marking a step towards more powerful and efficient large language models. This development is significant as it demonstrates advancements in hardware utilization to boost AI capabilities."
+      }
+    },
+    {
+      "source_id": "hn_llm_24h",
+      "source_name": "HN top LLM 24h",
+      "title": "OpenAI cuts GPT-6.2 usage: Astra hits limits 40% faster, Sol 25% faster",
+      "url": "https://twitter.com/thsottiaux/status/2125784147889393806",
+      "description": "",
+      "published": "2026-11-26T03:36:58+00:00",
+      "score": 49,
+      "category": "trending",
+      "weight": 9,
+      "points": 92,
+      "comments_url": "https://news.ycombinator.com/item?id=50651117",
+      "summary": "OpenAI has reduced the usage of GPT-6.2, allowing Astra to achieve a 40% speed increase and Sol to gain 25% more efficiency, highlighting the importance of optimizing AI models for better performance.",
+      "summary_detailed": "OpenAI has reduced the usage of GPT-6.2 for Astra by 40% and for Sol by 25%, impacting their operational efficiency. This decision affects companies relying on OpenAI's models for various applications, potentially leading to slower service responses or increased costs as they adapt to the new limitations.",
+      "summary_bullets": "• Astra's GPT-6.2 usage is now 40% faster.\n• Sol's GPT-6.2 usage is now 25% faster.\n• OpenAI has updated the GPT-6.2 model for improved performance.",
+      "sentiment": "neutral",
+      "keywords": [
+        "openai",
+        "gpt-6.2",
+        "astra",
+        "sol",
+        "limits"
+      ],
+      "thumbnail": "https://pbs.twimg.com/profile_images/2093807917833281537/2yBgpwVV_400x400.jpg",
+      "cluster_id": "2f3da7b2-ead4-5688-9f18-53b459cd113f",
+      "cluster_size": 1,
+      "cluster_topics": [
+        "faster",
+        "cuts",
+        "gpt-6",
+        "usage",
+        "astra"
+      ],
+      "geo_title": "Why is Astra hitting GPT-6.2 limits 40% faster than before?",
+      "geo_keywords": [
+        "openai gpt-6.2 usage limits",
+        "astra performance improvement",
+        "sol efficiency increase",
+        "ai technology limitations",
+        "how does gpt-6.2 usage get cut",
+        "what technologies improve processing speed",
+        "are there limits to gpt-6.2 usage",
+        "why did openai reduce gpt-6.2 usage"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "Why is Astra hitting GPT-6.2 limits 40% faster than before?",
+        "url": "https://twitter.com/thsottiaux/status/2125784147889393806",
+        "description": "OpenAI has reduced the usage of GPT-6.2, allowing Astra to achieve a 40% speed increase and Sol to gain 25% more efficiency, highlighting the importance of optimizing AI models for better performance.",
+        "keywords": "openai gpt-6.2 usage limits, astra performance improvement, sol efficiency increase, ai technology limitations, how does gpt-6.2 usage get cut, what technologies improve processing speed, are there limits to gpt-6.2 usage, why did openai reduce gpt-6.2 usage",
+        "datePublished": "2026-11-26T03:36:58+00:00",
+        "dateModified": "2026-11-26T03:36:58+00:00",
+        "author": {
+          "@type": "Organization",
+          "name": "HN top LLM 24h",
+          "url": "https://twitter.com"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "trending",
+        "inLanguage": "en-US",
+        "wordCount": 32,
+        "articleBody": "OpenAI has reduced the usage of GPT-6.2, allowing Astra to achieve a 40% speed increase and Sol to gain 25% more efficiency, highlighting the importance of optimizing AI models for better performance."
+      }
+    },
+    {
+      "source_id": "latent_space",
+      "source_name": "Latent Space (Substack)",
+      "title": "The Revolution vs The Renaissance — Thariq Shihipar, OpenAI",
+      "url": "https://latent.space/p/the_revolution_vs_the_renaissance_thariq_shihipar_openai/",
+      "description": "AI can make software cheap enough to produce by the thousand and still give you more time to make one thing feel right. At AI Engineer CODE, Thariq Shihipar shows how those two futures can coexist. In his fighting game, he edits the size of a rock in t...",
+      "published": "Wed, 25 Nov 2026 22:28:01 GMT",
+      "score": 48,
+      "category": "newsletters",
+      "weight": 8,
+      "format": "article",
+      "summary": "Thariq Shihipar discusses at AI Engineer CODE how AI can democratize software production while allowing for meticulous refinement, suggesting a future where both mass-produced and high-quality software coexist. This dual approach addresses the tension between efficiency gains from AI and the need for nuanced development in certain projects.",
+      "summary_detailed": "Thariq Shihipar discussed at AI Engineer CODE how AI can reduce software production costs while allowing developers more time to refine their work, highlighting a potential coexistence between cost-cutting automation and creative development. The broader impact suggests this approach could transform the tech industry by making high-quality software more accessible on a large scale.",
+      "summary_bullets": "• AI makes software cheaper and faster to produce.\n• More time is available for refining software quality.\n• Both revolutionary cost-saving and renaissance-quality focus can coexist.\n• Demonstrated through editing a rock's size in a fighting game.",
+      "sentiment": "positive",
+      "keywords": [
+        "ai",
+        "software",
+        "revolution",
+        "renaissance",
+        "engineering"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/Qe9d9dWyED0/maxresdefault.jpg",
+      "cluster_id": "c926f349-e208-5132-be1b-bd4c5feebc28",
+      "cluster_size": 1,
+      "cluster_topics": [
+        "thariq",
+        "shihipar",
+        "revolution",
+        "renaissance",
+        "cheap"
+      ],
+      "geo_title": "How does AI transform software production and creativity?",
+      "geo_keywords": [
+        "ai revolution",
+        "ai renaissance",
+        "ai in software development",
+        "future of ai engineering",
+        "thariq shihipar",
+        "openai impact",
+        "ai and game development",
+        "ai making software cheaper",
+        "how ai affects software production",
+        "ai vs traditional software",
+        "ai in the gaming industry",
+        "editing with ai in games"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "How does AI transform software production and creativity?",
+        "url": "https://latent.space/p/the_revolution_vs_the_renaissance_thariq_shihipar_openai/",
+        "description": "Thariq Shihipar discusses at AI Engineer CODE how AI can democratize software production while allowing for meticulous refinement, suggesting a future where both mass-produced and high-quality software coexist. This dual approach addresses the tension between efficiency gains from AI and the need for nuanced development in certain projects.",
+        "keywords": "ai revolution, ai renaissance, ai in software development, future of ai engineering, thariq shihipar, openai impact, ai and game development, ai making software cheaper",
+        "datePublished": "Wed, 25 Nov 2026 22:28:01 GMT",
+        "dateModified": "Wed, 25 Nov 2026 22:28:01 GMT",
+        "author": {
+          "@type": "Organization",
+          "name": "Latent Space (Substack)",
+          "url": "https://latent.space"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "newsletters",
+        "inLanguage": "en-US",
+        "wordCount": 48,
+        "articleBody": "Thariq Shihipar discusses at AI Engineer CODE how AI can democratize software production while allowing for meticulous refinement, suggesting a future where both mass-produced and high-quality software coexist. This dual approach addresses the tension between efficiency gains from AI and the need for nuanced development in certain projects."
+      }
+    },
+    {
+      "source_id": "latent_space",
+      "source_name": "Latent Space (Substack)",
+      "title": "[AINews] Math Proofs Are Landing Faster Than We Can Read Them",
+      "url": "https://latent.space/p/ainews-math-proofs-are-landing-faster-than-we-can-read-them/",
+      "description": "November 25, 2026 — From Erdős problems to new bounds for matrix multiplication and Fourier transforms.",
+      "published": "Wed, 25 Nov 2026 22:23:41 GMT",
+      "score": 48,
+      "category": "newsletters",
+      "weight": 8,
+      "format": "article",
+      "summary": "Mathematicians are solving complex proofs at an unprecedented rate, overwhelming the academic community's ability to review them in a timely manner. This rapid advancement highlights both the progress in mathematical research and the challenges in ensuring rigorous verification within the field.",
+      "summary_detailed": "Innovative mathematical proofs are being developed at an unprecedented rate, covering topics from complex Erdős problems to advancements in matrix multiplication and Fourier transforms. Researchers are struggling to keep up with the volume of new findings, which is leading to a backlog in reading and verifying these proofs. This rapid pace of discovery has broader implications for fields that rely on mathematical foundations, potentially delaying their integration into practical applications.",
+      "summary_bullets": "• The rate of solving complex mathematical proofs has increased.\n• New solutions are being published faster than they can be read.\n• Advances include progress on Erdős problems.\n• New bounds have been set for matrix multiplication efficiency.\n• Bounds for Fourier transforms have also seen improvements.",
+      "sentiment": "neutral",
+      "keywords": [
+        "math proofs",
+        "erdos problems",
+        "matrix multiplication",
+        "fourier transforms"
+      ],
+      "thumbnail": "https://latent.space/og/card/post/ainews-math-proofs-are-landing-faster-than-we-can-read-them/a8d88191c53bdfffb796ec34d8bd3d83a9031dc0a6d34673e0da1fb9264aec06.png",
+      "cluster_id": "58eeb535-de68-5220-bf87-98fa9f33f4ec",
+      "cluster_size": 1,
+      "cluster_topics": [
+        "ainews",
+        "math",
+        "proofs",
+        "landing",
+        "read"
+      ],
+      "geo_title": "How does AI speed up math proofs?",
+      "geo_keywords": [
+        "mathematical proofs",
+        "erdos conjectures",
+        "algorithmic complexity",
+        "computational theory",
+        "fast proof techniques",
+        "matrix multiplication speedup",
+        "fourier transform improvements",
+        "automated theorem proving",
+        "sge search optimization",
+        "perplexity math proofs",
+        "chatgpt math problems",
+        "ai in mathematics"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "How does AI speed up math proofs?",
+        "url": "https://latent.space/p/ainews-math-proofs-are-landing-faster-than-we-can-read-them/",
+        "description": "Mathematicians are solving complex proofs at an unprecedented rate, overwhelming the academic community's ability to review them in a timely manner. This rapid advancement highlights both the progress in mathematical research and the challenges in ensuring rigorous verification within the field.",
+        "keywords": "mathematical proofs, erdos conjectures, algorithmic complexity, computational theory, fast proof techniques, matrix multiplication speedup, fourier transform improvements, automated theorem proving",
+        "datePublished": "Wed, 25 Nov 2026 22:23:41 GMT",
+        "dateModified": "Wed, 25 Nov 2026 22:23:41 GMT",
+        "author": {
+          "@type": "Organization",
+          "name": "Latent Space (Substack)",
+          "url": "https://latent.space"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "newsletters",
+        "inLanguage": "en-US",
+        "wordCount": 41,
+        "articleBody": "Mathematicians are solving complex proofs at an unprecedented rate, overwhelming the academic community's ability to review them in a timely manner. This rapid advancement highlights both the progress in mathematical research and the challenges in ensuring rigorous verification within the field."
+      }
+    },
+    {
+      "source_id": "import_ai",
+      "source_name": "Import AI (Jack Clark)",
+      "title": "Import AI 466: The bitter lesson for robotics, AIs complete week-long programming tasks; and OpenAI's accidental AI hacker",
+      "url": "https://importai.substack.com/p/import-ai-466-the-bitter-lesson-for",
+      "description": "The warning shots will continue until civilization wakes up",
+      "published": "Mon, 27 Jul 2026 13:30:53 GMT",
+      "score": 48,
+      "category": "newsletters",
+      "weight": 8,
+      "format": "article",
+      "summary": "OpenAI's AI managed to complete complex programming tasks autonomously over a week, highlighting the rapid advancement in AI capabilities. This achievement underscores the urgent need for ethical guidelines and regulation in AI development to prevent potential misuse.",
+      "summary_detailed": "In a significant milestone, an AI system successfully completed a week-long programming task, showcasing advanced capabilities. This achievement is part of Import AI 466, which also highlights OpenAI’s recent incident where an AI inadvertently gained unauthorized access to sensitive information, underscoring the need for heightened security measures. These developments in AI capability and potential risks have broader implications for industry standards and ethical considerations in technology development.",
+      "summary_bullets": "• Robotics faces significant challenges as AI systems outperform in complex tasks.\n• AI successfully completed week-long programming assignments, showcasing advanced capabilities.\n• OpenAI inadvertently created an AI that could bypass security measures.",
+      "sentiment": "negative",
+      "keywords": [
+        "robotics",
+        "programming tasks",
+        "openai",
+        "ai hacker"
+      ],
+      "thumbnail": "https://substackcdn.com/image/fetch/$s_!3yYS!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd6d17996-2bef-40a4-abe3-be72a0e8a227_258x258.png",
+      "cluster_id": "c3cb41fd-f1a9-51b9-a174-98b82105382d",
+      "cluster_size": 1,
+      "cluster_topics": [
+        "import",
+        "bitter",
+        "lesson",
+        "robotics",
+        "ais"
+      ],
+      "geo_title": "Why are warning signs continuing in AI development?",
+      "geo_keywords": [
+        "robotics challenges",
+        "ai programming success",
+        "openai updates",
+        "accidental ai discovery",
+        "ai ethics questions",
+        "robotics future",
+        "ai technology progress",
+        "civilizational warnings"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "Why are warning signs continuing in AI development?",
+        "url": "https://importai.substack.com/p/import-ai-466-the-bitter-lesson-for",
+        "description": "OpenAI's AI managed to complete complex programming tasks autonomously over a week, highlighting the rapid advancement in AI capabilities. This achievement underscores the urgent need for ethical guidelines and regulation in AI development to prevent potential misuse.",
+        "keywords": "robotics challenges, ai programming success, openai updates, accidental ai discovery, ai ethics questions, robotics future, ai technology progress, civilizational warnings",
+        "datePublished": "Mon, 27 Jul 2026 13:30:53 GMT",
+        "dateModified": "Mon, 27 Jul 2026 13:30:53 GMT",
+        "author": {
+          "@type": "Organization",
+          "name": "Import AI (Jack Clark)",
+          "url": "https://importai.substack.com"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "newsletters",
+        "inLanguage": "en-US",
+        "wordCount": 37,
+        "articleBody": "OpenAI's AI managed to complete complex programming tasks autonomously over a week, highlighting the rapid advancement in AI capabilities. This achievement underscores the urgent need for ethical guidelines and regulation in AI development to prevent potential misuse."
+      }
+    },
+    {
+      "source_id": "ggml_releases",
+      "source_name": "ggml/llama.cpp releases",
+      "title": "ggml/llama.cpp releases: b12756",
+      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12756",
+      "description": "<details open>\n\nCUDA: refactor & deduplicate FA data loading (#32901)\n\n* CUDA: refactor & deduplicate FA data loading\n\n* fix float2 indexing\n\n* fix hip quality check\n\n</details>\n\n**Website:**\n- <https://llama.app>\n\n**Attestations:**\n- <https://github.com/ggml-org/llama.cpp/attestations/72501768>\n\n**",
+      "published": "2026-11-26T05:07:54Z",
+      "score": 48,
+      "category": "releases",
+      "weight": 8,
+      "tag": "b12756",
+      "summary": "The ggml/llama.cpp project released a version that includes CUDA code refactoring and deduplication of FA data loading, along with fixes for float2 indexing and hip quality checks. These updates are important as they enhance the efficiency and stability of GPU support in the library.",
+      "summary_detailed": "The ggml/llama.cpp project released a CUDA update that refactored and deduplicated FA data loading, fixed float2 indexing, and improved hip quality checks. This update involves the ggml-org development team and impacts users of the llama.cpp library who utilize CUDA for processing. The broader impact includes enhanced performance and stability in handling FA data, which could improve the efficiency of applications using this library on NVIDIA GPUs.",
+      "summary_bullets": "• CUDA: refactor & deduplicate FA data loading\n\n• fix float2 indexing\n\n• fix hip quality check",
+      "sentiment": "neutral",
+      "keywords": [
+        "cuda",
+        "fa data loading",
+        "float2 indexing",
+        "hip quality check"
+      ],
+      "thumbnail": "https://opengraph.githubassets.com/93cfa018b1c3ba0861aae31439faf95589f5361736d62853234f105419ace5c1/ggml-org/llama.cpp/releases/tag/b12756",
+      "cluster_id": "1ea33e4e-6c3a-54c7-8475-5514653bfbee",
+      "cluster_size": 3,
+      "cluster_topics": [
+        "llama",
+        "cpp",
+        "https",
+        "attestations",
+        "details"
+      ],
+      "geo_title": "How does ggml/llama.cpp b12756 improve CUDA data loading?",
+      "geo_keywords": [
+        "cuda",
+        "fa data loading",
+        "float2 indexing",
+        "hip quality check",
+        "llama model optimization",
+        "cuda optimization for machine learning",
+        "performance improvements in machine learning models",
+        "what are the recent updates in cuda for machine learning",
+        "how does cuda improve fa data loading efficiency"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "How does ggml/llama.cpp b12756 improve CUDA data loading?",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12756",
+        "description": "The ggml/llama.cpp project released a version that includes CUDA code refactoring and deduplication of FA data loading, along with fixes for float2 indexing and hip quality checks. These updates are important as they enhance the efficiency and stability of GPU support in the library.",
+        "keywords": "cuda, fa data loading, float2 indexing, hip quality check, llama model optimization, cuda optimization for machine learning, performance improvements in machine learning models, what are the recent updates in cuda for machine learning",
+        "datePublished": "2026-11-26T05:07:54Z",
+        "dateModified": "2026-11-26T05:07:54Z",
+        "author": {
+          "@type": "Organization",
+          "name": "ggml/llama.cpp releases",
+          "url": "https://github.com"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "releases",
+        "inLanguage": "en-US",
+        "wordCount": 44,
+        "articleBody": "The ggml/llama.cpp project released a version that includes CUDA code refactoring and deduplication of FA data loading, along with fixes for float2 indexing and hip quality checks. These updates are important as they enhance the efficiency and stability of GPU support in the library."
+      }
+    },
+    {
+      "source_id": "ggml_releases",
+      "source_name": "ggml/llama.cpp releases",
+      "title": "ggml/llama.cpp releases: b12755",
+      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12755",
+      "description": "<details open>\n\nmodel : add hy_v4_flash on the DSA iSWA cache (#32960)\n\n* model : add hy_v4_flash on the DSA iSWA cache\n\nTencent Hy4 flash is a hy_v4 trunk (iHC, gated MLA, sinks) with\nsparse and sliding-window MLA layers, sandwich norms, latent routed\nexperts and deepseek41 Engram tables.\n\nThe spar",
+      "published": "2026-11-26T03:22:36Z",
+      "score": 48,
+      "category": "releases",
+      "weight": 8,
+      "tag": "b12755",
+      "summary": "Developers of ggml/llama.cpp released an update that includes the integration of Tencent Hy4 flash on the DSA iSWA cache. This enhancement aims to improve memory efficiency and processing capabilities by leveraging advanced sparse and sliding-window MLA layers, among other features.",
+      "summary_detailed": "The ggml/llama.cpp project released an update that includes the addition of hy_v4_flash to the DSA iSWA cache. This model enhancement incorporates advanced features such as sparse and sliding-window MLA layers, sandwich norms, latent routed experts, and deepseek41 Engram tables, developed by Tencent Hy4 flash. The broader impact is likely to improve the efficiency and performance of language models in handling large-scale data processing tasks.",
+      "summary_bullets": "• model : add hy_v4_flash on the DSA iSWA cache\n• Tencent Hy4 flash includes hy_v4 trunk (iHC, gated MLA, sinks)\n• Features sparse and sliding-window MLA layers, sandwich norms",
+      "sentiment": "neutral",
+      "keywords": [
+        "model",
+        "hy_v4_flash",
+        "dsa",
+        "iswa",
+        "tencent",
+        "hy4",
+        "flash",
+        "sparse",
+        "sliding-window",
+        "norms"
+      ],
+      "thumbnail": "https://opengraph.githubassets.com/cb4592b876cb29a228f264e68efa6fe30c75d2b45a2c0cb17442e1477ec7ca3d/ggml-org/llama.cpp/releases/tag/b12755",
+      "cluster_id": "6875ba77-6daa-5f4b-b4b5-cf575e1b384a",
+      "cluster_size": 1,
+      "cluster_topics": [
+        "add",
+        "hy_v4_flash",
+        "dsa",
+        "iswa",
+        "mla"
+      ],
+      "geo_title": "Why is ggml/llama.cpp Release b12755 Adding Hy_v4_Flash Cache?",
+      "geo_keywords": [
+        "ggml",
+        "llama.cpp",
+        "model optimization",
+        "sparse modeling",
+        "deepseek41",
+        "engram tables",
+        "machine learning acceleration",
+        "hy_v4_flash",
+        "dsa iswa cache",
+        "tencent hy4 flash",
+        "latent routed experts",
+        "sparse and sliding-window mla layers"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "Why is ggml/llama.cpp Release b12755 Adding Hy_v4_Flash Cache?",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12755",
+        "description": "Developers of ggml/llama.cpp released an update that includes the integration of Tencent Hy4 flash on the DSA iSWA cache. This enhancement aims to improve memory efficiency and processing capabilities by leveraging advanced sparse and sliding-window MLA layers, among other features.",
+        "keywords": "ggml, llama.cpp, model optimization, sparse modeling, deepseek41, engram tables, machine learning acceleration, hy_v4_flash",
+        "datePublished": "2026-11-26T03:22:36Z",
+        "dateModified": "2026-11-26T03:22:36Z",
+        "author": {
+          "@type": "Organization",
+          "name": "ggml/llama.cpp releases",
+          "url": "https://github.com"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "releases",
+        "inLanguage": "en-US",
+        "wordCount": 40,
+        "articleBody": "Developers of ggml/llama.cpp released an update that includes the integration of Tencent Hy4 flash on the DSA iSWA cache. This enhancement aims to improve memory efficiency and processing capabilities by leveraging advanced sparse and sliding-window MLA layers, among other features."
+      }
+    },
+    {
+      "source_id": "ggml_releases",
+      "source_name": "ggml/llama.cpp releases",
+      "title": "ggml/llama.cpp releases: b12754",
+      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12754",
+      "description": "<details open>\n\nggml-openvino: fix CI op tests and improve KV cache decode (#33002)\n\n* ggml-openvino: write back consumed in-place nodes of op-test graphs\n\nOn the naive path every node of an op-test graph is a model output,\nexcept an in-place node that another node reads: it got no output, so\nits de",
+      "published": "2026-11-26T02:46:51Z",
+      "score": 48,
+      "category": "releases",
+      "weight": 8,
+      "tag": "b12754",
+      "summary": "The ggml/llama.cpp project released update b12754, which includes fixes to CI op tests and improvements to the KV cache decode process. These changes are important as they enhance the reliability and efficiency of model operations, particularly in how in-place nodes are handled during testing.",
+      "summary_detailed": "ggml/llama.cpp developers released updates fixing CI op tests and enhancing the KV cache decode mechanism. The changes involve writing back consumed in-place nodes of operation-test graphs to ensure accurate testing processes. These improvements impact the model's efficiency and reliability in handling operations, potentially leading to better performance in applications utilizing ggml-openvino.",
+      "summary_bullets": "• ggml-openvino fixes CI op tests\n• Improve KV cache decode functionality\n• Write back consumed in-place nodes in op-test graphs",
+      "sentiment": "neutral",
+      "keywords": [
+        "ggml-openvino",
+        "kv cache",
+        "ci tests",
+        "in-place nodes",
+        "model outputs"
+      ],
+      "thumbnail": "https://opengraph.githubassets.com/c48f0ed988fccdf41790682556fa8cb1a4962bbc418fead15eeb7da00aefae51/ggml-org/llama.cpp/releases/tag/b12754",
+      "cluster_id": "92732fac-fc9b-51b7-88cf-795f5b667a97",
+      "cluster_size": 1,
+      "cluster_topics": [
+        "node",
+        "ggml-openvino",
+        "in-place",
+        "op-test",
+        "output"
+      ],
+      "geo_title": "Why is ggml/llama.cpp b12754 release focusing on CI fixes and KV cache improvements?",
+      "geo_keywords": [
+        "ggml-openvino",
+        "llama.cpp",
+        "ci tests",
+        "in-place nodes",
+        "model outputs",
+        "kv cache",
+        "op tests",
+        "ggml-llama.cpp releases"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "Why is ggml/llama.cpp b12754 release focusing on CI fixes and KV cache improvements?",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12754",
+        "description": "The ggml/llama.cpp project released update b12754, which includes fixes to CI op tests and improvements to the KV cache decode process. These changes are important as they enhance the reliability and efficiency of model operations, particularly in how in-place nodes are handled during testing.",
+        "keywords": "ggml-openvino, llama.cpp, ci tests, in-place nodes, model outputs, kv cache, op tests, ggml-llama.cpp releases",
+        "datePublished": "2026-11-26T02:46:51Z",
+        "dateModified": "2026-11-26T02:46:51Z",
+        "author": {
+          "@type": "Organization",
+          "name": "ggml/llama.cpp releases",
+          "url": "https://github.com"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "releases",
+        "inLanguage": "en-US",
+        "wordCount": 44,
+        "articleBody": "The ggml/llama.cpp project released update b12754, which includes fixes to CI op tests and improvements to the KV cache decode process. These changes are important as they enhance the reliability and efficiency of model operations, particularly in how in-place nodes are handled during testing."
+      }
+    },
+    {
+      "source_id": "ggml_releases",
+      "source_name": "ggml/llama.cpp releases",
+      "title": "ggml/llama.cpp releases: b12753",
+      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12753",
+      "description": "<details open>\n\nllama : fix seq state restore with ON_DEVICE (#30318)\n\n</details>\n\n**Website:**\n- <https://llama.app>\n\n**Attestations:**\n- <https://github.com/ggml-org/llama.cpp/attestations/72458381>\n\n**macOS/iOS:**\n- [macOS Apple Silicon (arm64)](https://github.com/ggml-org/llama.cpp/releases/down",
+      "published": "2026-11-26T02:17:03Z",
+      "score": 48,
+      "category": "releases",
+      "weight": 8,
+      "tag": "b12753",
+      "summary": "The ggml/llama.cpp project released a fix for sequence state restoration with ON_DEVICE (#30318), addressing an issue that impacts how models handle sequential data processing. This update is crucial as it enhances the reliability and performance of language models, particularly on Apple Silicon hardware.",
+      "summary_detailed": "The ggml/llama.cpp project released an update fixing a sequence state restore issue with ON_DEVICE (#30318). This update involves the developers of llama.cpp and addresses a specific bug in handling sequence states during device operations. The broader impact includes improved reliability for users working with sequence-based tasks on devices that support ON_DEVICE operations, potentially enhancing the performance and usability of the software across various applications.",
+      "summary_bullets": "• Fix seq state restore with ON_DEVICE (#30318)\n• No additional key points provided",
+      "sentiment": "neutral",
+      "keywords": [
+        "fix",
+        "seq state",
+        "restore",
+        "on_device"
+      ],
+      "thumbnail": "https://opengraph.githubassets.com/506d7f779a378ec81af84373c50800b8d3a409649d75aa4a78eff75a7e7dcf9b/ggml-org/llama.cpp/releases/tag/b12753",
+      "cluster_id": "1ea33e4e-6c3a-54c7-8475-5514653bfbee",
+      "cluster_size": 3,
+      "cluster_topics": [
+        "llama",
+        "cpp",
+        "https",
+        "attestations",
+        "details"
+      ],
+      "geo_title": "What is the update on ggml/llama.cpp b12753 seq state restore fix?",
+      "geo_keywords": [
+        "ggml/llama.cpp release",
+        "llama sequence state fix",
+        "on_device implementation",
+        "llama.cpp update",
+        "sequence state restoration",
+        "ggml organization",
+        "ai model updates",
+        "how to fix seq state in llama",
+        "what is on_device in ai models"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "What is the update on ggml/llama.cpp b12753 seq state restore fix?",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12753",
+        "description": "The ggml/llama.cpp project released a fix for sequence state restoration with ON_DEVICE (#30318), addressing an issue that impacts how models handle sequential data processing. This update is crucial as it enhances the reliability and performance of language models, particularly on Apple Silicon hardware.",
+        "keywords": "ggml/llama.cpp release, llama sequence state fix, on_device implementation, llama.cpp update, sequence state restoration, ggml organization, ai model updates, how to fix seq state in llama",
+        "datePublished": "2026-11-26T02:17:03Z",
+        "dateModified": "2026-11-26T02:17:03Z",
+        "author": {
+          "@type": "Organization",
+          "name": "ggml/llama.cpp releases",
+          "url": "https://github.com"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "releases",
+        "inLanguage": "en-US",
+        "wordCount": 43,
+        "articleBody": "The ggml/llama.cpp project released a fix for sequence state restoration with ON_DEVICE (#30318), addressing an issue that impacts how models handle sequential data processing. This update is crucial as it enhances the reliability and performance of language models, particularly on Apple Silicon hardware."
+      }
+    },
+    {
+      "source_id": "ggml_releases",
+      "source_name": "ggml/llama.cpp releases",
+      "title": "ggml/llama.cpp releases: b12752",
+      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12752",
+      "description": "<details open>\n\nllama.cpp : bump version to 1.1.0 (#33043)\n\n* llama.cpp : bump version to 1.1.0\n\n* authors : update\n\n</details>\n\n**Website:**\n- <https://llama.app>\n\n**Attestations:**\n- <https://github.com/ggml-org/llama.cpp/attestations/72452862>\n\n**macOS/iOS:**\n- [macOS Apple Silicon (arm64)](https",
+      "published": "2026-11-26T01:58:24Z",
+      "score": 48,
+      "category": "releases",
+      "weight": 8,
+      "tag": "b12752",
+      "summary": "The ggml/llama.cpp project has updated to version 1.1.0, marking a significant release that includes version bumping and author updates, highlighting ongoing development and community contributions in the field of language models.",
+      "summary_detailed": "The ggml/llama.cpp project has updated its version to 1.1.0, with updates to the authors list. This update impacts users of the llama.cpp software, which is used for creating and running large language models. The broader impact includes improved functionality and contributions from the community reflected in the updated author credits.",
+      "summary_bullets": "• llama.cpp version bumped to 1.1.0\n• Authors list updated\n• macOS (Apple Silicon) support noted",
+      "sentiment": "neutral",
+      "keywords": [
+        "bump version",
+        "authors update",
+        "llama.app"
+      ],
+      "thumbnail": "https://opengraph.githubassets.com/f08fb20346747f2f2a11e049f5fadef22e7912e49286036c77a85cda3ef75a76/ggml-org/llama.cpp/releases/tag/b12752",
+      "cluster_id": "1ea33e4e-6c3a-54c7-8475-5514653bfbee",
+      "cluster_size": 3,
+      "cluster_topics": [
+        "llama",
+        "cpp",
+        "https",
+        "attestations",
+        "details"
+      ],
+      "geo_title": "Why is ggml/llama.cpp version bumped to 1.1.0?",
+      "geo_keywords": [
+        "ggml/llama.cpp release",
+        "version 1.1.0",
+        "update authors",
+        "llama.cpp news",
+        "what is ggml/llama.cpp",
+        "where to find ggml/llama.cpp updates"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "Why is ggml/llama.cpp version bumped to 1.1.0?",
+        "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12752",
+        "description": "The ggml/llama.cpp project has updated to version 1.1.0, marking a significant release that includes version bumping and author updates, highlighting ongoing development and community contributions in the field of language models.",
+        "keywords": "ggml/llama.cpp release, version 1.1.0, update authors, llama.cpp news, what is ggml/llama.cpp, where to find ggml/llama.cpp updates",
+        "datePublished": "2026-11-26T01:58:24Z",
+        "dateModified": "2026-11-26T01:58:24Z",
+        "author": {
+          "@type": "Organization",
+          "name": "ggml/llama.cpp releases",
+          "url": "https://github.com"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "releases",
+        "inLanguage": "en-US",
+        "wordCount": 31,
+        "articleBody": "The ggml/llama.cpp project has updated to version 1.1.0, marking a significant release that includes version bumping and author updates, highlighting ongoing development and community contributions in the field of language models."
+      }
+    },
+    {
+      "source_id": "huggingface_transformers_releases",
+      "source_name": "Transformers releases",
+      "title": "Transformers releases: Patch release v5.24.1",
+      "url": "https://github.com/huggingface/transformers/releases/tag/v5.24.1",
+      "description": "# Patch release v5.24.1\r\n\r\nA patch to fix a bunch of stuff for vLLM, a few distributed issues, and some model fixes (llama4, dory); see the full list\r\n\r\n### vLLM related\r\n- Fix backward compatibility of the cache rename for remote code (#51085) by @hmellor\r\n- Restore modeling_attn_mask_utils for rem",
+      "published": "2026-11-24T16:13:08Z",
+      "score": 42,
+      "category": "releases",
+      "weight": 7,
+      "tag": "v5.24.1",
+      "summary": "A patch release v5.24.1 was issued to address backward compatibility issues, distributed problems, and model fixes for vLLM, llama4, and dory, ensuring smoother functionality across these systems. This update is crucial for maintaining the performance and reliability of the affected models.",
+      "summary_detailed": "A patch update v5.24.1 has been released for Transformers, addressing issues with vLLM backward compatibility, distributed problems, and model fixes including llama4 and dory. Key contributors include @hmellor who fixed the cache rename for remote code. This update aims to enhance overall system stability and functionality across various models.",
+      "summary_bullets": "• Fixes backward compatibility of cache rename for remote code\n• Restores modeling_attn_mask_utils\n• Addresses distributed issues and model fixes (llama4, dory)",
+      "sentiment": "neutral",
+      "keywords": [
+        "patch release",
+        "v5.24.1",
+        "vllm",
+        "distributed issues",
+        "model fixes"
+      ],
+      "thumbnail": "https://opengraph.githubassets.com/d3015830b9063b8d2b9329d6fd7a4cbd2448998a63ec1dcd7b6178f467491feb/huggingface/transformers/releases/tag/v5.24.1",
+      "cluster_id": "1075c97d-da3b-5183-b784-033a368f1005",
+      "cluster_size": 1,
+      "cluster_topics": [
+        "patch",
+        "vllm",
+        "fix",
+        "release",
+        "transformers"
+      ],
+      "geo_title": "What is the latest v5.24.1 patch for transformers?",
+      "geo_keywords": [
+        "transformers release",
+        "vllm patch",
+        "model update",
+        "distributed issue fix",
+        "transformers v5.24.1",
+        "llamac4 update",
+        "dory model",
+        "cache rename fix"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "What is the latest v5.24.1 patch for transformers?",
+        "url": "https://github.com/huggingface/transformers/releases/tag/v5.24.1",
+        "description": "A patch release v5.24.1 was issued to address backward compatibility issues, distributed problems, and model fixes for vLLM, llama4, and dory, ensuring smoother functionality across these systems. This update is crucial for maintaining the performance and reliability of the affected models.",
+        "keywords": "transformers release, vllm patch, model update, distributed issue fix, transformers v5.24.1, llamac4 update, dory model, cache rename fix",
+        "datePublished": "2026-11-24T16:13:08Z",
+        "dateModified": "2026-11-24T16:13:08Z",
+        "author": {
+          "@type": "Organization",
+          "name": "Transformers releases",
+          "url": "https://github.com"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "releases",
+        "inLanguage": "en-US",
+        "wordCount": 41,
+        "articleBody": "A patch release v5.24.1 was issued to address backward compatibility issues, distributed problems, and model fixes for vLLM, llama4, and dory, ensuring smoother functionality across these systems. This update is crucial for maintaining the performance and reliability of the affected models."
+      }
+    },
+    {
+      "source_id": "arxiv_cs_cl",
+      "source_name": "ArXiv cs.CL (Computation and Language / NLP)",
+      "title": "MGMem: An Efficient, Deterministic, and Provenance-Preserving Framework for Long-Horizon Agent Memory",
+      "url": "https://arxiv.org/abs/2611.33174",
+      "description": "arXiv:2611.33174v1 Announce Type: new \nAbstract: Long-horizon Large Language Model (LLM) agents need persistent memory that surfaces the right past interaction at the right time across thousands of turns. Many systems index by invoking generative LLMs to rewrite history into summaries, facts, or kno",
+      "published": "Thu, 26 Nov 2026 00:00:00 -0500",
+      "score": 40,
+      "category": "research",
+      "weight": 8,
+      "format": "article",
+      "summary": "A new framework called MGMem has been developed to enhance long-horizon agent memory for Large Language Models (LLMs), ensuring efficient and provenance-preserving storage of interactions. This is crucial as it allows agents to recall relevant past interactions accurately across numerous turns, improving their effectiveness and reliability in extended conversations.",
+      "summary_detailed": "A new framework called MGMem has been introduced for long-horizon agent memory management, designed to efficiently store and retrieve relevant past interactions in Large Language Models (LLMs). The system is deterministic and preserves provenance, addressing the challenge of managing extensive interaction histories. This advancement could significantly enhance the performance and reliability of LLMs across various applications by ensuring accurate and contextually appropriate recall of past interactions.",
+      "summary_bullets": "• MGMem is designed for efficient long-horizon agent memory.\n• It ensures deterministic recall of past interactions.\n• The framework preserves provenance information effectively.",
+      "sentiment": "neutral",
+      "keywords": [
+        "long-horizon",
+        "deterministic",
+        "memory",
+        "provenance",
+        "persistence"
+      ],
+      "thumbnail": null,
+      "favicon": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=64",
+      "cluster_id": "c70c6fd6-ebc8-5adf-8fe2-88026a6989df",
+      "cluster_size": 1,
+      "cluster_topics": [
+        "long-horizon",
+        "memory",
+        "right",
+        "mgmem",
+        "deterministic"
+      ],
+      "geo_title": "Why is MGMem Important for Long-Horizon LLM Agents?",
+      "geo_keywords": [
+        "long-horizon agent memory",
+        "efficient memory framework",
+        "deterministic memory system",
+        "provenance preservation in ai",
+        "persistent memory for llm agents",
+        "long-term interaction memory",
+        "ai memory management",
+        "large language model memory optimization",
+        "how to implement persistent memory in ai",
+        "what is mgmem framework",
+        "mgmem long-horizon memory solution"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "Why is MGMem Important for Long-Horizon LLM Agents?",
+        "url": "https://arxiv.org/abs/2611.33174",
+        "description": "A new framework called MGMem has been developed to enhance long-horizon agent memory for Large Language Models (LLMs), ensuring efficient and provenance-preserving storage of interactions. This is crucial as it allows agents to recall relevant past interactions accurately across numerous turns, improving their effectiveness and reliability in extended conversations.",
+        "keywords": "long-horizon agent memory, efficient memory framework, deterministic memory system, provenance preservation in ai, persistent memory for llm agents, long-term interaction memory, ai memory management, large language model memory optimization",
+        "datePublished": "Thu, 26 Nov 2026 00:00:00 -0500",
+        "dateModified": "Thu, 26 Nov 2026 00:00:00 -0500",
+        "author": {
+          "@type": "Organization",
+          "name": "ArXiv cs.CL (Computation and Language / NLP)",
+          "url": "https://arxiv.org"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "research",
+        "inLanguage": "en-US",
+        "wordCount": 49,
+        "articleBody": "A new framework called MGMem has been developed to enhance long-horizon agent memory for Large Language Models (LLMs), ensuring efficient and provenance-preserving storage of interactions. This is crucial as it allows agents to recall relevant past interactions accurately across numerous turns, improving their effectiveness and reliability in extended conversations."
+      }
+    },
+    {
+      "source_id": "arxiv_cs_cl",
+      "source_name": "ArXiv cs.CL (Computation and Language / NLP)",
+      "title": "Feature-Based Explainability of Transformer Scoring Models: A Fidelity-First Framework for Automated Writing Assessment",
+      "url": "https://arxiv.org/abs/2611.33175",
+      "description": "arXiv:2611.33175v1 Announce Type: new \nAbstract: Transformer-based automated writing scoring models can achieve strong agreement with human scores while providing limited transparency into the response characteristics associated with their predictions. This study evaluated a feature-based post-hoc e",
+      "published": "Thu, 26 Nov 2026 00:00:00 -0500",
+      "score": 40,
+      "category": "research",
+      "weight": 8,
+      "format": "article",
+      "summary": "A new framework evaluates transformer-based automated writing assessment models to enhance transparency by linking specific features of student responses to model scores, addressing the lack of clarity in how these models make judgments. This matters because increased explainability can improve trust and utility in educational technology tools.",
+      "summary_detailed": "A new framework evaluates transformer-based automated writing assessment models to enhance their explainability by focusing on fidelity, allowing for better understanding of how specific features in student responses influence scoring agreements with human judges. The research involves developing a feature-based method for post-hoc explanation, aiming to bridge the gap between model accuracy and transparency. This approach has broader implications for improving trust and reliability in automated writing evaluation systems used in educational settings.",
+      "summary_bullets": "• The study focuses on enhancing transparency in transformer-based writing assessment models.\n• It introduces a fidelity-first framework for explainability.\n• The research evaluates how well the model's features align with human scoring criteria.",
+      "sentiment": "neutral",
+      "keywords": [
+        "transformer",
+        "explainability",
+        "writing",
+        "assessment",
+        "transparency"
+      ],
+      "thumbnail": null,
+      "favicon": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=64",
+      "cluster_id": "372c8bd8-d151-5121-9690-3a7234a1a6bb",
+      "cluster_size": 1,
+      "cluster_topics": [
+        "feature-based",
+        "automated",
+        "writing",
+        "scoring",
+        "models"
+      ],
+      "geo_title": "Why is feature-based explainability crucial for transformer scoring models in writing assessment?",
+      "geo_keywords": [
+        "transformer explainability",
+        "writing assessment models",
+        "feature-based explainability",
+        "automated writing evaluation",
+        "fidelity-first framework",
+        "transparency in ai scoring",
+        "how transformer models work",
+        "what does a feature-based explainability mean for writing assessment"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "Why is feature-based explainability crucial for transformer scoring models in writing assessment?",
+        "url": "https://arxiv.org/abs/2611.33175",
+        "description": "A new framework evaluates transformer-based automated writing assessment models to enhance transparency by linking specific features of student responses to model scores, addressing the lack of clarity in how these models make judgments. This matters because increased explainability can improve trust and utility in educational technology tools.",
+        "keywords": "transformer explainability, writing assessment models, feature-based explainability, automated writing evaluation, fidelity-first framework, transparency in ai scoring, how transformer models work, what does a feature-based explainability mean for writing assessment",
+        "datePublished": "Thu, 26 Nov 2026 00:00:00 -0500",
+        "dateModified": "Thu, 26 Nov 2026 00:00:00 -0500",
+        "author": {
+          "@type": "Organization",
+          "name": "ArXiv cs.CL (Computation and Language / NLP)",
+          "url": "https://arxiv.org"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "research",
+        "inLanguage": "en-US",
+        "wordCount": 47,
+        "articleBody": "A new framework evaluates transformer-based automated writing assessment models to enhance transparency by linking specific features of student responses to model scores, addressing the lack of clarity in how these models make judgments. This matters because increased explainability can improve trust and utility in educational technology tools."
+      }
+    },
+    {
+      "source_id": "arxiv_cs_cl",
+      "source_name": "ArXiv cs.CL (Computation and Language / NLP)",
+      "title": "Psychophysics of Duration Perception in Multimodal Large Language Models",
+      "url": "https://arxiv.org/abs/2611.33176",
+      "description": "arXiv:2611.33176v1 Announce Type: new \nAbstract: Studies of time perception in language models focus mainly on text-based settings. Yet multimodal models are increasingly used for tasks that require perceiving the passage of time, making the limits of their temporal perception important to understan",
+      "published": "Thu, 26 Nov 2026 00:00:00 -0500",
+      "score": 40,
+      "category": "research",
+      "weight": 8,
+      "format": "article",
+      "summary": "A new study explores how large language models perceive duration across multiple sensory inputs, highlighting the need to understand these models' limitations in tasks involving time perception beyond text. This research is crucial as multimodal models are increasingly applied in contexts requiring accurate temporal understanding.",
+      "summary_detailed": "Researchers have explored how large language models perceive duration in both text and visual inputs, finding that current models primarily excel in text-based settings but struggle with multimodal tasks involving time perception. This study highlights the need for further development in enabling language models to better understand and process temporal information across different modalities. The findings could impact the design of more sophisticated AI systems capable of handling complex, time-sensitive applications.",
+      "summary_bullets": "• Time perception studies often overlook multimodal large language models.\n• These models are crucial for tasks involving the perception of time.\n• The limitations of temporal perception in such models need further investigation.",
+      "sentiment": "neutral",
+      "keywords": [
+        "time perception",
+        "psychophysics",
+        "duration",
+        "multimodal",
+        "language models"
+      ],
+      "thumbnail": null,
+      "favicon": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=64",
+      "cluster_id": "582095d7-1661-50c3-9ba0-8e1b339ab578",
+      "cluster_size": 1,
+      "cluster_topics": [
+        "perception",
+        "multimodal",
+        "models",
+        "time",
+        "language"
+      ],
+      "geo_title": "Why is time perception studied differently in multimodal LLMs?",
+      "geo_keywords": [
+        "time perception in language models",
+        "psychophysics of duration",
+        "multimodal large language models",
+        "understanding time perception",
+        "limitations of time perception in ai",
+        "how do language models perceive time",
+        "what is psychophysics of duration",
+        "multimodal models and time perception",
+        "questions answered by psychophysics in ai",
+        "how ai models perceive time",
+        "advancements in time perception for ai models"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "Why is time perception studied differently in multimodal LLMs?",
+        "url": "https://arxiv.org/abs/2611.33176",
+        "description": "A new study explores how large language models perceive duration across multiple sensory inputs, highlighting the need to understand these models' limitations in tasks involving time perception beyond text. This research is crucial as multimodal models are increasingly applied in contexts requiring accurate temporal understanding.",
+        "keywords": "time perception in language models, psychophysics of duration, multimodal large language models, understanding time perception, limitations of time perception in ai, how do language models perceive time, what is psychophysics of duration, multimodal models and time perception",
+        "datePublished": "Thu, 26 Nov 2026 00:00:00 -0500",
+        "dateModified": "Thu, 26 Nov 2026 00:00:00 -0500",
+        "author": {
+          "@type": "Organization",
+          "name": "ArXiv cs.CL (Computation and Language / NLP)",
+          "url": "https://arxiv.org"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "research",
+        "inLanguage": "en-US",
+        "wordCount": 45,
+        "articleBody": "A new study explores how large language models perceive duration across multiple sensory inputs, highlighting the need to understand these models' limitations in tasks involving time perception beyond text. This research is crucial as multimodal models are increasingly applied in contexts requiring accurate temporal understanding."
+      }
+    },
+    {
+      "source_id": "arxiv_cs_cl",
+      "source_name": "ArXiv cs.CL (Computation and Language / NLP)",
+      "title": "Verified experience improves materials prediction with large language models",
+      "url": "https://arxiv.org/abs/2611.33195",
+      "description": "arXiv:2611.33195v1 Announce Type: new \nAbstract: Materials discovery is an iterative loop: experiments and calculations verify predictions, and each outcome can inform the next. Yet most predictors are specialized single-task models fixed after training. Large language models have recently emerged a",
+      "published": "Thu, 26 Nov 2026 00:00:00 -0500",
+      "score": 40,
+      "category": "research",
+      "weight": 8,
+      "format": "article",
+      "summary": "A new approach uses verified experimental data to improve materials prediction with large language models, addressing limitations of static single-task models by incorporating iterative verification processes. This method enhances the accuracy and relevance of predictions in materials science, highlighting the importance of experiential validation in model development.",
+      "summary_detailed": "Researchers have developed a method that integrates verified experimental experiences into large language models to improve materials prediction accuracy. This approach involves continuously updating models based on real-world data, enhancing their predictive capabilities in materials science. The broader impact could lead to accelerated advancements in material discovery and development across various industries.",
+      "summary_bullets": "• Materials discovery involves an iterative process of experiments and calculations.\n• Most current predictors are specialized single-task models that do not incorporate new information post-training.\n• Large language models show potential in improving materials prediction by incorporating verified experience.",
+      "sentiment": "neutral",
+      "keywords": [
+        "materials discovery",
+        "verified experience",
+        "large language models"
+      ],
+      "thumbnail": null,
+      "favicon": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=64",
+      "cluster_id": "ed5a085f-85ec-5c20-81e6-1bed5de4e9c0",
+      "cluster_size": 1,
+      "cluster_topics": [
+        "materials",
+        "models",
+        "large",
+        "language",
+        "verified"
+      ],
+      "geo_title": "How does verified experience enhance materials prediction with large language models?",
+      "geo_keywords": [
+        "materials prediction",
+        "iterative materials discovery",
+        "large language model improvements",
+        "verified experimental data in materials science",
+        "predictive modeling in materials science",
+        "integrating experiments with machine learning for materials",
+        "how verified experience enhances material prediction with llm",
+        "advancements in materials prediction technology",
+        "questions answered by verified experience in materials prediction"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "How does verified experience enhance materials prediction with large language models?",
+        "url": "https://arxiv.org/abs/2611.33195",
+        "description": "A new approach uses verified experimental data to improve materials prediction with large language models, addressing limitations of static single-task models by incorporating iterative verification processes. This method enhances the accuracy and relevance of predictions in materials science, highlighting the importance of experiential validation in model development.",
+        "keywords": "materials prediction, iterative materials discovery, large language model improvements, verified experimental data in materials science, predictive modeling in materials science, integrating experiments with machine learning for materials, how verified experience enhances material prediction with llm, advancements in materials prediction technology",
+        "datePublished": "Thu, 26 Nov 2026 00:00:00 -0500",
+        "dateModified": "Thu, 26 Nov 2026 00:00:00 -0500",
+        "author": {
+          "@type": "Organization",
+          "name": "ArXiv cs.CL (Computation and Language / NLP)",
+          "url": "https://arxiv.org"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "research",
+        "inLanguage": "en-US",
+        "wordCount": 47,
+        "articleBody": "A new approach uses verified experimental data to improve materials prediction with large language models, addressing limitations of static single-task models by incorporating iterative verification processes. This method enhances the accuracy and relevance of predictions in materials science, highlighting the importance of experiential validation in model development."
+      }
+    },
+    {
+      "source_id": "arxiv_cs_cl",
+      "source_name": "ArXiv cs.CL (Computation and Language / NLP)",
+      "title": "Extraneous Cognitive Load in Large Language Models",
+      "url": "https://arxiv.org/abs/2611.33197",
+      "description": "arXiv:2611.33197v1 Announce Type: new \nAbstract: Cognitive Load Theory (CLT) shows that human problem-solving is affected by both intrinsic load, arising from task difficulty, and extraneous load, arising from how task information is presented. Large language models (LLMs) show analogous effects: pr",
+      "published": "Thu, 26 Nov 2026 00:00:00 -0500",
+      "score": 40,
+      "category": "research",
+      "weight": 8,
+      "format": "article",
+      "summary": "A recent study applies Cognitive Load Theory to large language models (LLMs), revealing that the way information is presented can significantly affect their performance, mirroring human problem-solving dynamics and highlighting the importance of how LLMs process and present information.",
+      "summary_detailed": "The paper explores the concept of \"extraneous cognitive load\" in large language models (LLMs), drawing parallels between human problem-solving and LLM performance. It suggests that just as extraneous load can hinder human problem-solving by how information is presented, similar issues may affect LLMs, impacting their efficiency and effectiveness. This research could have broader implications for improving the design and usability of LLMs in various applications.",
+      "summary_bullets": "• Cognitive Load Theory applies to both human problem-solving and large language models.\n• Extrinsic cognitive load in LLMs affects their performance analogously to humans.\n• Task difficulty contributes to intrinsic load, impacting model effectiveness.",
+      "sentiment": "neutral",
+      "keywords": [
+        "cognitive load",
+        "large language models",
+        "task difficulty",
+        "information presentation",
+        "clt"
+      ],
+      "thumbnail": null,
+      "favicon": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=64",
+      "cluster_id": "dcaef0a4-a217-5f71-822b-3edaee617697",
+      "cluster_size": 1,
+      "cluster_topics": [
+        "load",
+        "extraneous",
+        "cognitive",
+        "arising",
+        "task"
+      ],
+      "geo_title": "Why is Extraneous Cognitive Load a Concern in Large Language Models?",
+      "geo_keywords": [
+        "cognitive load in llm",
+        "extraneous cognitive load",
+        "large language models analysis",
+        "task difficulty impact",
+        "information presentation effects",
+        "cognitive load theory llm",
+        "how llm affect problem-solving",
+        "what is extraneous cognitive load",
+        "does information presentation matter in llm"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "Why is Extraneous Cognitive Load a Concern in Large Language Models?",
+        "url": "https://arxiv.org/abs/2611.33197",
+        "description": "A recent study applies Cognitive Load Theory to large language models (LLMs), revealing that the way information is presented can significantly affect their performance, mirroring human problem-solving dynamics and highlighting the importance of how LLMs process and present information.",
+        "keywords": "cognitive load in llm, extraneous cognitive load, large language models analysis, task difficulty impact, information presentation effects, cognitive load theory llm, how llm affect problem-solving, what is extraneous cognitive load",
+        "datePublished": "Thu, 26 Nov 2026 00:00:00 -0500",
+        "dateModified": "Thu, 26 Nov 2026 00:00:00 -0500",
+        "author": {
+          "@type": "Organization",
+          "name": "ArXiv cs.CL (Computation and Language / NLP)",
+          "url": "https://arxiv.org"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "research",
+        "inLanguage": "en-US",
+        "wordCount": 39,
+        "articleBody": "A recent study applies Cognitive Load Theory to large language models (LLMs), revealing that the way information is presented can significantly affect their performance, mirroring human problem-solving dynamics and highlighting the importance of how LLMs process and present information."
+      }
+    },
+    {
+      "source_id": "arxiv_cs_cl",
+      "source_name": "ArXiv cs.CL (Computation and Language / NLP)",
+      "title": "Focus On Facts: Stylistically Invariant and Factually Sensitive Text Embeddings",
+      "url": "https://arxiv.org/abs/2611.33250",
+      "description": "arXiv:2611.33250v1 Announce Type: new \nAbstract: Text embedding models can conflate surface-form similarity with factual identity. Given an altered near-copy with one corrupted fact and a differently worded fact-preserving rewrite, the base model prefers the altered near-copy. We test whether hard-n",
+      "published": "Thu, 26 Nov 2026 00:00:00 -0500",
+      "score": 40,
+      "category": "research",
+      "weight": 8,
+      "format": "article",
+      "summary": "A new study shows that text embedding models often confuse similar surface forms with identical facts, favoring slightly altered versions over reworded but factually correct texts. This finding highlights a critical flaw in how these models handle factual accuracy and could have significant implications for fields relying on such models for information retrieval or content analysis.",
+      "summary_detailed": "Researchers have developed stylistically invariant and factually sensitive text embeddings to address the issue where existing models conflate surface-level similarities with factual accuracy. This new approach tests whether models can distinguish between a near-copy with one incorrect fact and a differently worded but fact-preserving version, aiming for more reliable fact-checking capabilities. The broader impact could enhance the accuracy of information processing in various applications, from automated fact-checking to improved natural language understanding systems.",
+      "summary_bullets": "• Text embedding models may misinterpret similar-sounding texts.\n• Models can prefer altered versions over factually correct ones.\n• Tests compare near-copies with fact-preserving rewrites.",
+      "sentiment": "neutral",
+      "keywords": [
+        "text embeddings",
+        "stylistically invariant",
+        "factually sensitive",
+        "surface-form similarity",
+        "factual identity"
+      ],
+      "thumbnail": null,
+      "favicon": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=64",
+      "cluster_id": "9ba3b514-cc04-56ba-803e-14ed3eb36ff9",
+      "cluster_size": 1,
+      "cluster_topics": [
+        "text",
+        "altered",
+        "near-copy",
+        "stylistically",
+        "invariant"
+      ],
+      "geo_title": "Why are text embedding models prone to conflating similar surfaces with factual truths?",
+      "geo_keywords": [
+        "text embeddings",
+        "stylistically invariant",
+        "factually sensitive",
+        "surface-form similarity",
+        "factual identity",
+        "fact checking algorithms",
+        "natural language processing technologies",
+        "how to ensure factual accuracy in ai",
+        "what are stylistically invariant text embeddings",
+        "why do text embeddings fail in fact checking"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "Why are text embedding models prone to conflating similar surfaces with factual truths?",
+        "url": "https://arxiv.org/abs/2611.33250",
+        "description": "A new study shows that text embedding models often confuse similar surface forms with identical facts, favoring slightly altered versions over reworded but factually correct texts. This finding highlights a critical flaw in how these models handle factual accuracy and could have significant implications for fields relying on such models for information retrieval or content analysis.",
+        "keywords": "text embeddings, stylistically invariant, factually sensitive, surface-form similarity, factual identity, fact checking algorithms, natural language processing technologies, how to ensure factual accuracy in ai",
+        "datePublished": "Thu, 26 Nov 2026 00:00:00 -0500",
+        "dateModified": "Thu, 26 Nov 2026 00:00:00 -0500",
+        "author": {
+          "@type": "Organization",
+          "name": "ArXiv cs.CL (Computation and Language / NLP)",
+          "url": "https://arxiv.org"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "research",
+        "inLanguage": "en-US",
+        "wordCount": 56,
+        "articleBody": "A new study shows that text embedding models often confuse similar surface forms with identical facts, favoring slightly altered versions over reworded but factually correct texts. This finding highlights a critical flaw in how these models handle factual accuracy and could have significant implications for fields relying on such models for information retrieval or content analysis."
+      }
+    },
+    {
+      "source_id": "arxiv_cs_cl",
+      "source_name": "ArXiv cs.CL (Computation and Language / NLP)",
+      "title": "FrId\\'eo: French News Outlet Ideology Scoring via Multi-Source Evidence Fusion and Distancing-Aware Lexical Scoring",
+      "url": "https://arxiv.org/abs/2611.33266",
+      "description": "arXiv:2611.33266v1 Announce Type: new \nAbstract: Outlet ideology is a standard explanatory variable in media framing, media effects, and political communication research, but continuous, ecosystem-wide coverage lets it enter as graded exposure rather than a coarse bin. For France, existing reference",
+      "published": "Thu, 26 Nov 2026 00:00:00 -0500",
+      "score": 40,
+      "category": "research",
+      "weight": 8,
+      "format": "article",
+      "summary": "A French news outlet called FrId\\'eo has developed a method to score ideological bias using multi-source evidence fusion and distancing-aware lexical scoring, allowing for continuous measurement of media exposure. This innovation is significant because it provides a more nuanced understanding of media bias compared to binary classifications, which could enhance research in media framing and political communication.",
+      "summary_detailed": "A French news outlet, FrId\\'eo, has developed a method to score ideological bias using multi-source evidence fusion and distancing-aware lexical scoring. This approach allows for a more nuanced understanding of media bias compared to binary classifications, impacting how researchers analyze media framing, effects, and political communication in France.",
+      "summary_bullets": "• FrId\\'eo provides continuous ideological scoring for French news outlets.\n• The method uses multi-source evidence fusion for accuracy.\n• Distancing-aware lexical scoring enhances the precision of ideology detection.\n• It allows for graded exposure to different ideologies in media consumption.",
+      "sentiment": "neutral",
+      "keywords": [
+        "frideo",
+        "french news outlet",
+        "ideology scoring",
+        "multi-source evidence fusion",
+        "distancing-aware lexical scoring"
+      ],
+      "thumbnail": null,
+      "favicon": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=64",
+      "cluster_id": "8f3ea9e4-f11e-5862-9ab2-630015564b8c",
+      "cluster_size": 1,
+      "cluster_topics": [
+        "outlet",
+        "ideology",
+        "media",
+        "scoring",
+        "frid"
+      ],
+      "geo_title": "How does FrId\\'eo Measure French News Outlets' Ideology?",
+      "geo_keywords": [
+        "frideo",
+        "french news outlet ideology scoring",
+        "multi-source evidence fusion",
+        "distancing-aware lexical scoring",
+        "media framing analysis",
+        "political communication research",
+        "graded exposure to ideology",
+        "how does frideo work",
+        "frideo technology explanation",
+        "frideo method overview"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "How does FrId\\'eo Measure French News Outlets' Ideology?",
+        "url": "https://arxiv.org/abs/2611.33266",
+        "description": "A French news outlet called FrId\\'eo has developed a method to score ideological bias using multi-source evidence fusion and distancing-aware lexical scoring, allowing for continuous measurement of media exposure. This innovation is significant because it provides a more nuanced understanding of media bias compared to binary classifications, which could enhance research in media framing and political communication.",
+        "keywords": "frideo, french news outlet ideology scoring, multi-source evidence fusion, distancing-aware lexical scoring, media framing analysis, political communication research, graded exposure to ideology, how does frideo work",
+        "datePublished": "Thu, 26 Nov 2026 00:00:00 -0500",
+        "dateModified": "Thu, 26 Nov 2026 00:00:00 -0500",
+        "author": {
+          "@type": "Organization",
+          "name": "ArXiv cs.CL (Computation and Language / NLP)",
+          "url": "https://arxiv.org"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "research",
+        "inLanguage": "en-US",
+        "wordCount": 57,
+        "articleBody": "A French news outlet called FrId\\'eo has developed a method to score ideological bias using multi-source evidence fusion and distancing-aware lexical scoring, allowing for continuous measurement of media exposure. This innovation is significant because it provides a more nuanced understanding of media bias compared to binary classifications, which could enhance research in media framing and political communication."
+      }
+    }
+  ],
+  "enriched": true,
+  "enriched_at": "2026-11-26T09:02:06.949921+00:00",
+  "enricher_model": "qwen2.5-7b",
+  "clustered": true,
+  "clustered_at": "2026-11-26T09:02:07.050933+00:00",
+  "cluster_threshold": 0.3,
+  "geo_metadata": {
+    "date": "2026-11-26",
+    "generated_at": "2026-11-26T09:02:58.336418+00:00",
+    "schemas_generated": 30,
+    "topics": [
+      "2026",
+      "accidental ai discovery",
+      "advanced mass spectrometry techniques",
+      "advancements in indic language technology",
+      "advancements in materials prediction technology",
+      "advancements in time perception for ai models",
+      "agentic",
+      "agentic finance",
+      "ai",
+      "ai agents",
+      "ai and game development",
+      "ai and photo manipulation",
+      "ai assistant update",
+      "ai coding assistant",
+      "ai ethics questions",
+      "ai features in photo editing software",
+      "ai hacker",
+      "ai in creative industries",
+      "ai in finance",
+      "ai in mathematics",
+      "ai in photo editing",
+      "ai in software development",
+      "ai in the gaming industry",
+      "ai making software cheaper",
+      "ai memory management",
+      "ai model updates",
+      "ai programming success",
+      "ai renaissance",
+      "ai revolution",
+      "ai safety measures",
+      "ai technology limitations",
+      "ai technology progress",
+      "ai technology regulation",
+      "ai technology release",
+      "ai vs photography tools",
+      "ai vs traditional software",
+      "algorithmic complexity",
+      "apple silicon",
+      "are there limits to gpt-6.2 usage",
+      "assessment",
+      "astra",
+      "astra performance improvement",
+      "authors update",
+      "automated theorem proving",
+      "automated writing evaluation",
+      "autonomous trading systems",
+      "bare metal",
+      "bare metal servers",
+      "benefits of open data in ai",
+      "bump version"
+    ],
+    "faq_items": [
+      {
+        "question": "What is Google Antigravity working on with Mass Spec Skills?",
+        "answer": "Google Antigravity is using Mass Spec Skills to identify molecules, leveraging advanced techniques from spectrum to structure analysis."
+      },
+      {
+        "question": "Can you explain the updates on Nemotron 3.5 Parse?",
+        "answer": "Updates on Nemotron 3.5 Parse include open data, fine-tuning, and faster inference capabilities, enhancing its performance and utility."
+      },
+      {
+        "question": "What are the ethical considerations scientists discuss regarding AI agents?",
+        "answer": "Scientists debate where to draw the line on ethical and moral boundaries when it comes to AI agents, ensuring responsible development and use."
+      },
+      {
+        "question": "What is CUGA and how does it differ from other AI voice agents?",
+        "answer": "CUGA is an Indic Voice Agent that provides a unique linguistic and cultural perspective, distinguishing it from other AI voice assistants in terms of language support and context."
+      },
+      {
+        "question": "What are the latest developments in trading with AI agents?",
+        "answer": "TradingAgents, by TauricResearch, is advancing agentic finance research, focusing on developing intelligent trading strategies and tools."
+      }
+    ]
+  },
+  "geo_enriched": true,
+  "geo_enriched_at": "2026-11-26T09:02:58.336418+00:00"
+}
