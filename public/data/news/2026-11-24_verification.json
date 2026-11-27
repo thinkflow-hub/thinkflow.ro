@@ -1,13 +1,13 @@
 {
   "date": "2026-11-24",
-  "generated_at": "2026-11-26T17:00:06.695681+00:00",
+  "generated_at": "2026-11-26T21:00:05.683430+00:00",
   "results": {
     "deepmind_blog": {
       "verification_status": "verified",
       "sources_count": 2,
       "sources": [
-        "OpenAI Blog",
-        "DeepMind Blog"
+        "DeepMind Blog",
+        "OpenAI Blog"
       ]
     },
     "openai_blog": {
@@ -49,8 +49,8 @@
       "verification_status": "verified",
       "sources_count": 2,
       "sources": [
-        "HN top LLM 24h",
-        "Latent Space (Substack)"
+        "Latent Space (Substack)",
+        "HN top LLM 24h"
       ]
     },
     "hn_ai_24h": {
@@ -64,8 +64,8 @@
       "verification_status": "verified",
       "sources_count": 2,
       "sources": [
-        "HN top LLM 24h",
-        "Latent Space (Substack)"
+        "Latent Space (Substack)",
+        "HN top LLM 24h"
       ]
     },
     "mit_technology_review_ai": {
