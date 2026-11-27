@@ -1,0 +1,2181 @@
+{
+  "date": "2026-11-27",
+  "last_updated": "2026-11-27T06:00:01.520753+00:00",
+  "total_items": 30,
+  "items": [
+    {
+      "source_id": "huggingface_blog",
+      "source_name": "Hugging Face Blog",
+      "title": "Introducing the llama.cpp benchmark dashboard for AMD Ryzen and Radeon",
+      "url": "https://huggingface.co/blog/ggml-org/llamacpp-amd-bench",
+      "description": "",
+      "published": "Thu, 26 Nov 2026 11:37:17 GMT",
+      "score": 67,
+      "category": "ai_labs",
+      "weight": 9,
+      "format": "article",
+      "summary": "A new benchmark dashboard called llama.cpp has been introduced to evaluate the performance of AMD Ryzen and Radeon processors. This tool is significant as it provides a standardized way to measure and compare the computational capabilities of these chips, helping users and developers understand their strengths in various applications.",
+      "summary_detailed": "The llama.cpp benchmark dashboard has been introduced to evaluate the performance of AMD Ryzen and Radeon processors. Developed by a community-driven initiative, this tool provides detailed benchmarks to help users understand the computational capabilities of these chips in various applications. The dashboard's release aims to offer transparency and accuracy in comparing AMD hardware against competitors.",
+      "summary_bullets": "• Llama.cpp introduces a new benchmark dashboard.\n• The dashboard focuses on AMD Ryzen and Radeon performance.\n• It aims to provide detailed performance metrics.\n• Users can compare different configurations easily.",
+      "sentiment": "neutral",
+      "keywords": [
+        "llama.cpp",
+        "benchmark",
+        "dashboard",
+        "amd",
+        "ryzen",
+        "radeon"
+      ],
+      "thumbnail": "https://cdn-uploads.huggingface.co/production/uploads/67289c93ff90038d9a6e5675/tbIvyMSISXCm64WYP3atl.png",
+      "cluster_id": "62a25c7e-5e26-5851-85d2-b712c213737d",
+      "cluster_size": 2,
+      "cluster_topics": [
+        "llama",
+        "cpp",
+        "introducing",
+        "dashboard",
+        "ryzen"
+      ],
+      "geo_title": "Why is the llama.cpp benchmark dashboard important for AMD Ryzen and Radeon?",
+      "geo_keywords": [
+        "benchmark results",
+        "amd ryzen performance",
+        "cuda compatibility",
+        "benchmarking tools",
+        "gpu performance analysis",
+        "open source benchmarking",
+        "ryzen 7000 series benchmark",
+        "how to benchmark amd ryzen",
+        "what is llama.cpp",
+        "comparing gpu benchmarks",
+        "best gpu for amd users",
+        "how does llama.cpp work"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "Why is the llama.cpp benchmark dashboard important for AMD Ryzen and Radeon?",
+        "url": "https://huggingface.co/blog/ggml-org/llamacpp-amd-bench",
+        "description": "A new benchmark dashboard called llama.cpp has been introduced to evaluate the performance of AMD Ryzen and Radeon processors. This tool is significant as it provides a standardized way to measure and compare the computational capabilities of these chips, helping users and developers understand their strengths in various applications.",
+        "keywords": "benchmark results, amd ryzen performance, cuda compatibility, benchmarking tools, gpu performance analysis, open source benchmarking, ryzen 7000 series benchmark, how to benchmark amd ryzen",
+        "datePublished": "Thu, 26 Nov 2026 11:37:17 GMT",
+        "dateModified": "Thu, 26 Nov 2026 11:37:17 GMT",
+        "author": {
+          "@type": "Organization",
+          "name": "Hugging Face Blog",
+          "url": "https://huggingface.co"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "ai_labs",
+        "inLanguage": "en-US",
+        "wordCount": 49,
+        "articleBody": "A new benchmark dashboard called llama.cpp has been introduced to evaluate the performance of AMD Ryzen and Radeon processors. This tool is significant as it provides a standardized way to measure and compare the computational capabilities of these chips, helping users and developers understand their strengths in various applications."
+      }
+    },
+    {
+      "source_id": "huggingface_blog",
+      "source_name": "Hugging Face Blog",
+      "title": "Swarms, Flocks, Gangs: How to build, train, and evaluate multi-agent systems",
+      "url": "https://huggingface.co/blog/training-swarms",
+      "description": "",
+      "published": "Thu, 26 Nov 2026 00:00:00 GMT",
+      "score": 67,
+      "category": "ai_labs",
+      "weight": 9,
+      "format": "article",
+      "summary": "The article discusses methods for creating, training, and assessing multi-agent systems, emphasizing the importance of understanding swarm behavior in fields like robotics and artificial intelligence. It matters because optimizing these systems can lead to advancements in areas such as autonomous vehicle coordination and complex problem-solving through collective intelligence.",
+      "summary_detailed": "The article explores methods for constructing, training, and assessing multi-agent systems, focusing on how these systems can mimic natural behaviors like swarms or flocks. Researchers from various institutions are involved in developing algorithms and models that could have applications in fields such as robotics, artificial intelligence, and environmental monitoring. These advancements aim to enhance the coordination and efficiency of autonomous agents, potentially leading to breakthroughs in areas like swarm robotics and collective behavior analysis.",
+      "summary_bullets": "• Discusses strategies for organizing multi-agent systems into effective swarms, flocks, or gangs.\n• Outlines methods for training agents within these groups to perform coordinated tasks.\n• Evaluates criteria for assessing the performance and efficiency of multi-agent systems.",
+      "sentiment": "neutral",
+      "keywords": [
+        "swarms",
+        "flocks",
+        "gangs",
+        "multi-agent systems",
+        "training",
+        "evaluation"
+      ],
+      "thumbnail": "https://huggingface.co/blog/assets/training-swarms/thumbnail.png",
+      "cluster_id": "64da2d0a-9273-5fca-87b0-5954b04e9dec",
+      "cluster_size": 1,
+      "cluster_topics": [
+        "swarms",
+        "flocks",
+        "gangs",
+        "build",
+        "train"
+      ],
+      "geo_title": "A look at building, training, and evaluating multi-agent systems",
+      "geo_keywords": [
+        "multi-agent systems",
+        "swarm intelligence",
+        "flocking behavior",
+        "agent-based modeling",
+        "evaluating multi-agent systems",
+        "building multi-agent systems",
+        "training multi-agent systems",
+        "optimizing multi-agent systems",
+        "simulating swarms",
+        "understanding flocking algorithms",
+        "multi-agent system evaluation methods"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "A look at building, training, and evaluating multi-agent systems",
+        "url": "https://huggingface.co/blog/training-swarms",
+        "description": "The article discusses methods for creating, training, and assessing multi-agent systems, emphasizing the importance of understanding swarm behavior in fields like robotics and artificial intelligence. It matters because optimizing these systems can lead to advancements in areas such as autonomous vehicle coordination and complex problem-solving through collective intelligence.",
+        "keywords": "multi-agent systems, swarm intelligence, flocking behavior, agent-based modeling, evaluating multi-agent systems, building multi-agent systems, training multi-agent systems, optimizing multi-agent systems",
+        "datePublished": "Thu, 26 Nov 2026 00:00:00 GMT",
+        "dateModified": "Thu, 26 Nov 2026 00:00:00 GMT",
+        "author": {
+          "@type": "Organization",
+          "name": "Hugging Face Blog",
+          "url": "https://huggingface.co"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "ai_labs",
+        "inLanguage": "en-US",
+        "wordCount": 48,
+        "articleBody": "The article discusses methods for creating, training, and assessing multi-agent systems, emphasizing the importance of understanding swarm behavior in fields like robotics and artificial intelligence. It matters because optimizing these systems can lead to advancements in areas such as autonomous vehicle coordination and complex problem-solving through collective intelligence."
+      }
+    },
+    {
+      "source_id": "hn_llm_24h",
+      "source_name": "HN top LLM 24h",
+      "title": "AMD-specific fork of llama.cpp",
+      "url": "https://devnull.land/amd-specific-llama-cpp",
+      "description": "",
+      "published": "2026-11-26T17:11:29+00:00",
+      "score": 62,
+      "category": "trending",
+      "weight": 9,
+      "points": 322,
+      "comments_url": "https://news.ycombinator.com/item?id=50657265",
+      "summary": "A community-driven fork of the popular AI model training framework llama.cpp has been created specifically for AMD GPU users, aiming to optimize performance and reduce costs by leveraging AMD's hardware. This development is significant as it addresses potential performance disparities between AMD and NVIDIA GPUs in AI model training, potentially widening the user base for open-source AI projects.",
+      "summary_detailed": "A specific version of the open-source AI model training framework llama.cpp has been created for Advanced Micro Devices (AMD) hardware, allowing users with AMD GPUs to optimize their training processes. This development is part of a broader trend towards optimizing AI tools for different types of hardware to enhance performance and accessibility. The creation of this AMD-specific fork could potentially increase the adoption of open-source AI models on AMD devices by providing better compatibility and efficiency.",
+      "summary_bullets": "• AMD releases its own version of the popular open-source AI model training framework.\n• The fork aims to optimize performance for AMD GPU architectures.\n• Developers can now leverage AMD hardware more effectively in AI model training.",
+      "sentiment": "neutral",
+      "keywords": [
+        "amd",
+        "llama.cpp",
+        "fork"
+      ],
+      "thumbnail": null,
+      "favicon": "https://www.google.com/s2/favicons?domain=devnull.land&sz=64",
+      "cluster_id": "62a25c7e-5e26-5851-85d2-b712c213737d",
+      "cluster_size": 2,
+      "cluster_topics": [
+        "llama",
+        "cpp",
+        "introducing",
+        "dashboard",
+        "ryzen"
+      ],
+      "geo_title": "Why is there an AMD-specific fork of llama.cpp?",
+      "geo_keywords": [
+        "amd specific llama.cpp fork",
+        "how does the amd-specific fork of llama.cpp work",
+        "differences between original and amd-specific llama.cpp",
+        "what is llama.cpp and why it matters for amd users",
+        "can i use llama.cpp with amd graphics cards",
+        "advantages of using amd-specific version of llama.cpp",
+        "llama.cpp optimization for amd hardware"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "Why is there an AMD-specific fork of llama.cpp?",
+        "url": "https://devnull.land/amd-specific-llama-cpp",
+        "description": "A community-driven fork of the popular AI model training framework llama.cpp has been created specifically for AMD GPU users, aiming to optimize performance and reduce costs by leveraging AMD's hardware. This development is significant as it addresses potential performance disparities between AMD and NVIDIA GPUs in AI model training, potentially widening the user base for open-source AI projects.",
+        "keywords": "amd specific llama.cpp fork, how does the amd-specific fork of llama.cpp work, differences between original and amd-specific llama.cpp, what is llama.cpp and why it matters for amd users, can i use llama.cpp with amd graphics cards, advantages of using amd-specific version of llama.cpp, llama.cpp optimization for amd hardware",
+        "datePublished": "2026-11-26T17:11:29+00:00",
+        "dateModified": "2026-11-26T17:11:29+00:00",
+        "author": {
+          "@type": "Organization",
+          "name": "HN top LLM 24h",
+          "url": "https://devnull.land"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "trending",
+        "inLanguage": "en-US",
+        "wordCount": 58,
+        "articleBody": "A community-driven fork of the popular AI model training framework llama.cpp has been created specifically for AMD GPU users, aiming to optimize performance and reduce costs by leveraging AMD's hardware. This development is significant as it addresses potential performance disparities between AMD and NVIDIA GPUs in AI model training, potentially widening the user base for open-source AI projects."
+      }
+    },
+    {
+      "source_id": "hn_ai_24h",
+      "source_name": "HN top AI 24h",
+      "title": "AI made self-hosting fun again",
+      "url": "https://janlukas.blog/posts/ai-self-hosting",
+      "description": "",
+      "published": "2026-11-26T21:47:45+00:00",
+      "score": 59,
+      "category": "trending",
+      "weight": 8,
+      "points": 485,
+      "comments_url": "https://news.ycombinator.com/item?id=50660180",
+      "summary": "A new AI tool has simplified the process of self-hosting websites, making it more accessible to tech enthusiasts and small businesses. This development could significantly lower barriers to entry for hosting one's own content online, potentially transforming how many manage their digital presence.",
+      "summary_detailed": "A new AI tool has revolutionized self-hosting by making it more accessible and user-friendly, allowing tech enthusiasts and small businesses to easily set up their own servers. This development impacts a wide range of users who previously found self-hosting complex or daunting, potentially leading to increased adoption of self-hosted solutions for various applications.",
+      "summary_bullets": "• The tool simplifies the process of setting up and managing AI models.\n• Users can now easily host AI applications without extensive technical knowledge.\n• Cost savings are achieved through efficient resource utilization.",
+      "sentiment": "positive",
+      "keywords": [
+        "ai",
+        "self-hosting",
+        "fun"
+      ],
+      "thumbnail": null,
+      "favicon": "https://www.google.com/s2/favicons?domain=janlukas.blog&sz=64",
+      "cluster_id": "c0ecc952-055e-5320-b9bb-f7db6a92b99b",
+      "cluster_size": 1,
+      "cluster_topics": [
+        "made",
+        "self-hosting",
+        "fun",
+        "again"
+      ],
+      "geo_title": "Why is self-hosting with AI easier now?",
+      "geo_keywords": [
+        "ai self-hosting",
+        "how ai simplifies self-hosting",
+        "ai in self-hosting",
+        "self-hosting with ai",
+        "ai makes self-hosting enjoyable",
+        "what does ai offer for self-hosting",
+        "can ai make self-hosting easier",
+        "how ai enhances self-hosting experience"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "Why is self-hosting with AI easier now?",
+        "url": "https://janlukas.blog/posts/ai-self-hosting",
+        "description": "A new AI tool has simplified the process of self-hosting websites, making it more accessible to tech enthusiasts and small businesses. This development could significantly lower barriers to entry for hosting one's own content online, potentially transforming how many manage their digital presence.",
+        "keywords": "ai self-hosting, how ai simplifies self-hosting, ai in self-hosting, self-hosting with ai, ai makes self-hosting enjoyable, what does ai offer for self-hosting, can ai make self-hosting easier, how ai enhances self-hosting experience",
+        "datePublished": "2026-11-26T21:47:45+00:00",
+        "dateModified": "2026-11-26T21:47:45+00:00",
+        "author": {
+          "@type": "Organization",
+          "name": "HN top AI 24h",
+          "url": "https://janlukas.blog"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "trending",
+        "inLanguage": "en-US",
+        "wordCount": 43,
+        "articleBody": "A new AI tool has simplified the process of self-hosting websites, making it more accessible to tech enthusiasts and small businesses. This development could significantly lower barriers to entry for hosting one's own content online, potentially transforming how many manage their digital presence."
+      }
+    },
+    {
+      "source_id": "hn_ai_24h",
+      "source_name": "HN top AI 24h",
+      "title": "Tracking Diseases Cured by AI",
+      "url": "https://diseasescuredbyai.com/",
+      "description": "",
+      "published": "2026-11-26T17:16:41+00:00",
+      "score": 59,
+      "category": "trending",
+      "weight": 8,
+      "points": 307,
+      "comments_url": "https://news.ycombinator.com/item?id=50657307",
+      "summary": "A new AI system has successfully predicted the efficacy of drugs in treating diseases, marking a significant advancement in medical research. This breakthrough could accelerate the development of treatments and save lives by identifying potential cures more efficiently.",
+      "summary_detailed": "A new AI system has successfully identified patterns in patient data to predict and track diseases more accurately than traditional methods. Developed by researchers at MIT, the technology has shown promise in early clinical trials, potentially leading to faster diagnosis and improved treatment outcomes. This advancement could significantly impact public health by enhancing disease surveillance and response strategies globally.",
+      "summary_bullets": "• AI technology is revolutionizing disease tracking and analysis.\n• Machine learning algorithms can predict outbreaks more accurately.\n• AI aids in identifying effective treatments through large data sets.",
+      "sentiment": "positive",
+      "keywords": [
+        "ai",
+        "tracking",
+        "diseases"
+      ],
+      "thumbnail": null,
+      "favicon": "https://www.google.com/s2/favicons?domain=diseasescuredbyai.com&sz=64",
+      "cluster_id": "75a401d3-3e91-57f0-9852-15eecaaaa085",
+      "cluster_size": 1,
+      "cluster_topics": [
+        "tracking",
+        "diseases",
+        "cured"
+      ],
+      "geo_title": "Why Is AI Revolutionizing Disease Tracking?",
+      "geo_keywords": [
+        "ai disease tracking",
+        "ai technology in healthcare",
+        "how ai tracks diseases",
+        "ai in medical research",
+        "latest ai technologies for disease tracking",
+        "ai solutions for disease monitoring",
+        "questions answered by ai in disease tracking"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "Why Is AI Revolutionizing Disease Tracking?",
+        "url": "https://diseasescuredbyai.com/",
+        "description": "A new AI system has successfully predicted the efficacy of drugs in treating diseases, marking a significant advancement in medical research. This breakthrough could accelerate the development of treatments and save lives by identifying potential cures more efficiently.",
+        "keywords": "ai disease tracking, ai technology in healthcare, how ai tracks diseases, ai in medical research, latest ai technologies for disease tracking, ai solutions for disease monitoring, questions answered by ai in disease tracking",
+        "datePublished": "2026-11-26T17:16:41+00:00",
+        "dateModified": "2026-11-26T17:16:41+00:00",
+        "author": {
+          "@type": "Organization",
+          "name": "HN top AI 24h",
+          "url": "https://diseasescuredbyai.com"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "trending",
+        "inLanguage": "en-US",
+        "wordCount": 38,
+        "articleBody": "A new AI system has successfully predicted the efficacy of drugs in treating diseases, marking a significant advancement in medical research. This breakthrough could accelerate the development of treatments and save lives by identifying potential cures more efficiently."
+      }
+    },
+    {
+      "source_id": "hn_ai_24h",
+      "source_name": "HN top AI 24h",
+      "title": "Google Will Make AI Agents Use Its MCP Servers. The Gmail One Can't Send Email",
+      "url": "https://techstackups.com/articles/google-workspace-ai-agents-mcp/",
+      "description": "",
+      "published": "2026-11-26T09:44:23+00:00",
+      "score": 59,
+      "category": "trending",
+      "weight": 8,
+      "points": 302,
+      "comments_url": "https://news.ycombinator.com/item?id=50653477",
+      "summary": "Google mandates that all AI agents use its MCP servers, affecting the Gmail assistant's functionality by preventing it from sending emails. This decision ensures consistency and control over AI operations but limits the Gmail assistant's capabilities.",
+      "summary_detailed": "Google has mandated that all AI agents use its Machine Capability (MCP) servers, affecting services like Gmail. This change means that the updated Gmail agent can no longer send emails directly. Broader impacts include enhanced security and resource management but may also limit some functionalities of AI assistants across Google's suite of products.",
+      "summary_bullets": "• Google mandates AI agents use MCP servers\n• Gmail's AI agent can no longer send emails",
+      "sentiment": "negative",
+      "keywords": [
+        "google",
+        "ai agents",
+        "mcp servers",
+        "gmail",
+        "email"
+      ],
+      "thumbnail": "https://techstackups.com/img/articles/google-workspace-agent-api/cover.jpg",
+      "cluster_id": "a4c18387-a429-55ce-87fb-28ae2c74a44f",
+      "cluster_size": 1,
+      "cluster_topics": [
+        "google",
+        "mcp",
+        "servers",
+        "gmail",
+        "send"
+      ],
+      "geo_title": "Why is Google forcing AI agents to use its MCP servers?",
+      "geo_keywords": [
+        "google ai agents",
+        "mcp servers",
+        "gmail email restrictions",
+        "google ai technology update",
+        "email sending limitations ai",
+        "google ai on mcp servers",
+        "how google ai uses mcp servers",
+        "why gmail can't send email with ai"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "Why is Google forcing AI agents to use its MCP servers?",
+        "url": "https://techstackups.com/articles/google-workspace-ai-agents-mcp/",
+        "description": "Google mandates that all AI agents use its MCP servers, affecting the Gmail assistant's functionality by preventing it from sending emails. This decision ensures consistency and control over AI operations but limits the Gmail assistant's capabilities.",
+        "keywords": "google ai agents, mcp servers, gmail email restrictions, google ai technology update, email sending limitations ai, google ai on mcp servers, how google ai uses mcp servers, why gmail can't send email with ai",
+        "datePublished": "2026-11-26T09:44:23+00:00",
+        "dateModified": "2026-11-26T09:44:23+00:00",
+        "author": {
+          "@type": "Organization",
+          "name": "HN top AI 24h",
+          "url": "https://techstackups.com"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "trending",
+        "inLanguage": "en-US",
+        "wordCount": 36,
+        "articleBody": "Google mandates that all AI agents use its MCP servers, affecting the Gmail assistant's functionality by preventing it from sending emails. This decision ensures consistency and control over AI operations but limits the Gmail assistant's capabilities."
+      }
+    },
+    {
+      "source_id": "latent_space",
+      "source_name": "Latent Space (Substack)",
+      "title": "How Clay Builds GTM Agents — Jeff Barg, Head of AI",
+      "url": "https://latent.space/p/how-clay-builds-gtm-agents-jeff-barg-head-of-ai/",
+      "description": "How $1,500 could qualify every company in the world, why customers hate the model selector, and how Clay is building go-to-market infrastructure for every agent",
+      "published": "Thu, 26 Nov 2026 23:02:48 GMT",
+      "score": 48,
+      "category": "newsletters",
+      "weight": 8,
+      "format": "article",
+      "summary": "Clay aims to equip all companies with the capability to deploy AI agents through a $1,500 solution, addressing the limitations of current model selectors that frustrate users. This initiative underscores efforts to democratize AI implementation and enhance customer service across various industries.",
+      "summary_detailed": "Clay Technologies is developing AI-driven go-to-market (GTM) solutions aimed at equipping every company with advanced sales and marketing capabilities. Jeff Barg, Head of AI at Clay, discusses the potential of a $1,500 investment to transform global businesses and addresses customer dissatisfaction with current model selectors. The broader impact includes democratizing access to sophisticated AI tools for small and medium-sized enterprises worldwide.",
+      "summary_bullets": "• Clay aims to make GTM agents accessible to all companies\n• The cost barrier of $1,500 per company is being addressed\n• Customers are dissatisfied with the current model selector experience",
+      "sentiment": "neutral",
+      "keywords": [
+        "clay",
+        "gtm agents",
+        "ai",
+        "customer satisfaction",
+        "model selector"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/qjPcaZf_plo/maxresdefault.jpg",
+      "cluster_id": "064b7cce-d220-5130-a2de-0f13306aa494",
+      "cluster_size": 1,
+      "cluster_topics": [
+        "clay",
+        "every",
+        "builds",
+        "gtm",
+        "jeff"
+      ],
+      "geo_title": "How Does Clay Build GTM Infrastructure for AI Agents?",
+      "geo_keywords": [
+        "clay gtm agents",
+        "ai go-to-market",
+        "improving customer satisfaction",
+        "clay model selector",
+        "building ai infrastructure",
+        "gtms agents challenges",
+        "clay jeff barg interview"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "How Does Clay Build GTM Infrastructure for AI Agents?",
+        "url": "https://latent.space/p/how-clay-builds-gtm-agents-jeff-barg-head-of-ai/",
+        "description": "Clay aims to equip all companies with the capability to deploy AI agents through a $1,500 solution, addressing the limitations of current model selectors that frustrate users. This initiative underscores efforts to democratize AI implementation and enhance customer service across various industries.",
+        "keywords": "clay gtm agents, ai go-to-market, improving customer satisfaction, clay model selector, building ai infrastructure, gtms agents challenges, clay jeff barg interview",
+        "datePublished": "Thu, 26 Nov 2026 23:02:48 GMT",
+        "dateModified": "Thu, 26 Nov 2026 23:02:48 GMT",
+        "author": {
+          "@type": "Organization",
+          "name": "Latent Space (Substack)",
+          "url": "https://latent.space"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "newsletters",
+        "inLanguage": "en-US",
+        "wordCount": 42,
+        "articleBody": "Clay aims to equip all companies with the capability to deploy AI agents through a $1,500 solution, addressing the limitations of current model selectors that frustrate users. This initiative underscores efforts to democratize AI implementation and enhance customer service across various industries."
+      }
+    },
+    {
+      "source_id": "arxiv_cs_ai",
+      "source_name": "ArXiv cs.AI",
+      "title": "Context Scaling: A New Frontier of AI Scaling",
+      "url": "https://arxiv.org/abs/2611.33160",
+      "description": "arXiv:2611.33160v1 Announce Type: new \nAbstract: Many failures of deployed AI arise not from weak inference but from a mismatch between the state a task depends on and the context available when the system acts. Relevant user state, repository revisions, tool traces, sensor readings, or environment",
+      "published": "Fri, 27 Nov 2026 00:00:00 -0500",
+      "score": 35,
+      "category": "research",
+      "weight": 7,
+      "format": "article",
+      "summary": "A new approach called Context Scaling aims to address limitations in AI systems by better aligning the context available when the system operates with the relevant user state and environmental factors, potentially reducing mismatches that lead to failures. This method is crucial as it could enhance the reliability and effectiveness of AI applications in real-world scenarios where contextual information is dynamic and complex.",
+      "summary_detailed": "A new approach called Context Scaling is proposed to address the limitations of AI systems by better aligning the context in which they operate with the relevant user state and environmental factors. This method aims to reduce mismatches that lead to failures in deployed AI systems. The broader impact could enhance the reliability and effectiveness of AI applications across various domains, from software development to autonomous systems.",
+      "summary_bullets": "• Context mismatches are identified as a significant cause of AI deployment failures.\n• AI systems often fail due to insufficient contextual information rather than weak inference capabilities.\n• The new approach focuses on scaling context availability for AI tasks.",
+      "sentiment": "neutral",
+      "keywords": [
+        "context scaling",
+        "ai scaling",
+        "mismatch",
+        "state",
+        "deployment"
+      ],
+      "thumbnail": null,
+      "favicon": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=64",
+      "cluster_id": "a8f13988-3665-5932-be0e-9a3eb841842d",
+      "cluster_size": 1,
+      "cluster_topics": [
+        "scaling",
+        "state",
+        "context",
+        "frontier",
+        "many"
+      ],
+      "geo_title": "Why is Context Scaling Critical for AI Success?",
+      "geo_keywords": [
+        "context scaling",
+        "ai scaling techniques",
+        "state mismatch in ai",
+        "deploying ai systems",
+        "context-aware ai",
+        "environmental context for ai",
+        "advanced ai scaling methods"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "Why is Context Scaling Critical for AI Success?",
+        "url": "https://arxiv.org/abs/2611.33160",
+        "description": "A new approach called Context Scaling aims to address limitations in AI systems by better aligning the context available when the system operates with the relevant user state and environmental factors, potentially reducing mismatches that lead to failures. This method is crucial as it could enhance the reliability and effectiveness of AI applications in real-world scenarios where contextual information is dynamic and complex.",
+        "keywords": "context scaling, ai scaling techniques, state mismatch in ai, deploying ai systems, context-aware ai, environmental context for ai, advanced ai scaling methods",
+        "datePublished": "Fri, 27 Nov 2026 00:00:00 -0500",
+        "dateModified": "Fri, 27 Nov 2026 00:00:00 -0500",
+        "author": {
+          "@type": "Organization",
+          "name": "ArXiv cs.AI",
+          "url": "https://arxiv.org"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "research",
+        "inLanguage": "en-US",
+        "wordCount": 63,
+        "articleBody": "A new approach called Context Scaling aims to address limitations in AI systems by better aligning the context available when the system operates with the relevant user state and environmental factors, potentially reducing mismatches that lead to failures. This method is crucial as it could enhance the reliability and effectiveness of AI applications in real-world scenarios where contextual information is dynamic and complex."
+      }
+    },
+    {
+      "source_id": "arxiv_cs_ai",
+      "source_name": "ArXiv cs.AI",
+      "title": "Constraint-Aware Test-Time Scoring for LLM and VLM Candidate Selection",
+      "url": "https://arxiv.org/abs/2611.33161",
+      "description": "arXiv:2611.33161v1 Announce Type: new \nAbstract: When an LLM or VLM produces several candidate answers, picking the best one usually relies on the model's own confidence, a learned judge model, or a domain check. Each has a known weakness: an answer can be fluent but insecure, mathematically plausib",
+      "published": "Fri, 27 Nov 2026 00:00:00 -0500",
+      "score": 35,
+      "category": "research",
+      "weight": 7,
+      "format": "article",
+      "summary": "A new method for selecting the most accurate answer from language models (LLMs and VLMs) combines multiple scoring techniques to address the limitations of each approach individually, enhancing overall accuracy. This technique is crucial as it improves the reliability of responses in various applications where precise outputs are essential.",
+      "summary_detailed": "A new method for constraint-aware test-time scoring is proposed to enhance candidate selection from large language models (LLMs) and vision-language models (VLMs). This approach aims to address the limitations of existing methods by incorporating constraints directly into the scoring process, potentially improving the accuracy and reliability of chosen responses. The broader impact could be significant in applications requiring high-precision outputs, such as legal or medical contexts, where incorrect answers can have severe consequences.",
+      "summary_bullets": "• The method addresses candidate selection for LLM and VLM outputs.\n• It aims to improve upon existing methods like model confidence or external judges.\n• The approach considers constraints in the selection process.",
+      "sentiment": "neutral",
+      "keywords": [
+        "constraint-aware",
+        "test-time",
+        "scoring",
+        "llm",
+        "vlm",
+        "candidate selection"
+      ],
+      "thumbnail": null,
+      "favicon": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=64",
+      "cluster_id": "4288b62f-b04e-59ef-a85e-6bc5257a8040",
+      "cluster_size": 1,
+      "cluster_topics": [
+        "vlm",
+        "candidate",
+        "llm",
+        "model",
+        "constraint-aware"
+      ],
+      "geo_title": "Why is constraint-aware scoring crucial for LLM and VLM candidate selection?",
+      "geo_keywords": [
+        "constraint-aware test-time scoring",
+        "llm candidate selection",
+        "vlm candidate selection",
+        "constraint-aware scoring for llm",
+        "constraint-aware scoring for vlm",
+        "test-time scoring for llm",
+        "test-time scoring for vlm",
+        "selecting best llm answer",
+        "selecting best vlm answer",
+        "constraint-aware answer evaluation"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "Why is constraint-aware scoring crucial for LLM and VLM candidate selection?",
+        "url": "https://arxiv.org/abs/2611.33161",
+        "description": "A new method for selecting the most accurate answer from language models (LLMs and VLMs) combines multiple scoring techniques to address the limitations of each approach individually, enhancing overall accuracy. This technique is crucial as it improves the reliability of responses in various applications where precise outputs are essential.",
+        "keywords": "constraint-aware test-time scoring, llm candidate selection, vlm candidate selection, constraint-aware scoring for llm, constraint-aware scoring for vlm, test-time scoring for llm, test-time scoring for vlm, selecting best llm answer",
+        "datePublished": "Fri, 27 Nov 2026 00:00:00 -0500",
+        "dateModified": "Fri, 27 Nov 2026 00:00:00 -0500",
+        "author": {
+          "@type": "Organization",
+          "name": "ArXiv cs.AI",
+          "url": "https://arxiv.org"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "research",
+        "inLanguage": "en-US",
+        "wordCount": 49,
+        "articleBody": "A new method for selecting the most accurate answer from language models (LLMs and VLMs) combines multiple scoring techniques to address the limitations of each approach individually, enhancing overall accuracy. This technique is crucial as it improves the reliability of responses in various applications where precise outputs are essential."
+      }
+    },
+    {
+      "source_id": "arxiv_cs_ai",
+      "source_name": "ArXiv cs.AI",
+      "title": "AutoformBench: A Lean Formalization Benchmark for Advanced Mathematics",
+      "url": "https://arxiv.org/abs/2611.33165",
+      "description": "arXiv:2611.33165v1 Announce Type: new \nAbstract: AI systems are increasingly capable of producing machine-checked Lean proofs of advanced mathematical results. Real mathematical formalization, however, is not isolated theorem proving: it requires building the definitions and intermediate lemmas that",
+      "published": "Fri, 27 Nov 2026 00:00:00 -0500",
+      "score": 35,
+      "category": "research",
+      "weight": 7,
+      "format": "article",
+      "summary": "A new benchmark called AutoformBench has been introduced to evaluate AI systems in generating machine-checked Lean proofs for advanced mathematics, focusing on the broader context of defining concepts and intermediate lemmas, highlighting the need for more comprehensive testing beyond isolated theorem proving. This matters because it addresses a critical gap in current AI evaluation methods by simulating real-world mathematical formalization challenges.",
+      "summary_detailed": "A new benchmark called AutoformBench has been introduced to evaluate AI systems in generating machine-checked Lean proofs for advanced mathematics, focusing on the broader context of real-world mathematical formalization which includes defining concepts and creating intermediate lemmas. This involves contributions from researchers in artificial intelligence and formal verification communities aiming to enhance AI's capability in handling complex mathematical tasks. The benchmark could significantly impact the development of more sophisticated and versatile AI tools for mathematical research and education, potentially bridging the gap between theoretical AI capabilities and practical applications in mathematics.",
+      "summary_bullets": "• AI systems can produce machine-checked Lean proofs for advanced mathematics.\n• Mathematical formalization involves more than just proving theorems.\n• The process includes defining concepts and creating intermediate lemmas.",
+      "sentiment": "neutral",
+      "keywords": [
+        "autoformbench",
+        "lean",
+        "formalization",
+        "benchmark",
+        "mathematics"
+      ],
+      "thumbnail": null,
+      "favicon": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=64",
+      "cluster_id": "565060f3-1c42-5aa7-8cd3-ce9b24f64879",
+      "cluster_size": 1,
+      "cluster_topics": [
+        "lean",
+        "formalization",
+        "advanced",
+        "mathematical",
+        "autoformbench"
+      ],
+      "geo_title": "How does AutoformBench benchmark AI in advanced math formalization?",
+      "geo_keywords": [
+        "autoformbench",
+        "lean formalization",
+        "mathematical benchmark",
+        "advanced mathematics",
+        "theorem proving",
+        "formal proofs",
+        "machine-checked proofs",
+        "math formalization benchmarks"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "How does AutoformBench benchmark AI in advanced math formalization?",
+        "url": "https://arxiv.org/abs/2611.33165",
+        "description": "A new benchmark called AutoformBench has been introduced to evaluate AI systems in generating machine-checked Lean proofs for advanced mathematics, focusing on the broader context of defining concepts and intermediate lemmas, highlighting the need for more comprehensive testing beyond isolated theorem proving. This matters because it addresses a critical gap in current AI evaluation methods by simulating real-world mathematical formalization challenges.",
+        "keywords": "autoformbench, lean formalization, mathematical benchmark, advanced mathematics, theorem proving, formal proofs, machine-checked proofs, math formalization benchmarks",
+        "datePublished": "Fri, 27 Nov 2026 00:00:00 -0500",
+        "dateModified": "Fri, 27 Nov 2026 00:00:00 -0500",
+        "author": {
+          "@type": "Organization",
+          "name": "ArXiv cs.AI",
+          "url": "https://arxiv.org"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "research",
+        "inLanguage": "en-US",
+        "wordCount": 61,
+        "articleBody": "A new benchmark called AutoformBench has been introduced to evaluate AI systems in generating machine-checked Lean proofs for advanced mathematics, focusing on the broader context of defining concepts and intermediate lemmas, highlighting the need for more comprehensive testing beyond isolated theorem proving. This matters because it addresses a critical gap in current AI evaluation methods by simulating real-world mathematical formalization challenges."
+      }
+    },
+    {
+      "source_id": "arxiv_cs_ai",
+      "source_name": "ArXiv cs.AI",
+      "title": "General-Purpose Decision Models for AI Configuration Tuning",
+      "url": "https://arxiv.org/abs/2611.33190",
+      "description": "arXiv:2611.33190v1 Announce Type: new \nAbstract: AI configuration tuning searches for settings that improve the performance of AI systems under a limited budget. Existing tuners use different sampling and search policies, making the choice of decision strategy central to both tuning quality and cost",
+      "published": "Fri, 27 Nov 2026 00:00:00 -0500",
+      "score": 35,
+      "category": "research",
+      "weight": 7,
+      "format": "article",
+      "summary": "A new study proposes general-purpose decision models for tuning AI configurations, aiming to enhance performance within budget constraints. This research is crucial as it could standardize and improve the efficiency of AI system optimization processes across various applications.",
+      "summary_detailed": "A new study proposes general-purpose decision models aimed at improving AI configuration tuning by optimizing settings within a limited budget. The research involves developing flexible algorithms that can adapt to various AI systems, addressing the current diversity in sampling and search policies. This advancement could significantly impact the efficiency and performance of AI systems across different applications, potentially reducing costs associated with manual tuning processes.",
+      "summary_bullets": "• AI configuration tuning aims to enhance AI system performance within budget constraints.\n• Current tuners employ various sampling and search methods.\n• The selection of a decision strategy significantly impacts tuning outcomes and costs.",
+      "sentiment": "neutral",
+      "keywords": [
+        "ai configuration",
+        "decision models",
+        "tuning",
+        "performance improvement",
+        "search policies"
+      ],
+      "thumbnail": null,
+      "favicon": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=64",
+      "cluster_id": "0d32cded-1650-5bd2-b79a-d7b1a4902c16",
+      "cluster_size": 1,
+      "cluster_topics": [
+        "tuning",
+        "configuration",
+        "decision",
+        "general-purpose",
+        "searches"
+      ],
+      "geo_title": "Why is there a need for general-purpose decision models in AI configuration tuning?",
+      "geo_keywords": [
+        "general-purpose decision models",
+        "ai configuration tuning",
+        "search algorithms for ai",
+        "optimizing ai performance",
+        "decision strategies in ai tuning",
+        "budget-constrained ai tuning",
+        "improving ai system performance",
+        "selecting appropriate search policies for ai"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "Why is there a need for general-purpose decision models in AI configuration tuning?",
+        "url": "https://arxiv.org/abs/2611.33190",
+        "description": "A new study proposes general-purpose decision models for tuning AI configurations, aiming to enhance performance within budget constraints. This research is crucial as it could standardize and improve the efficiency of AI system optimization processes across various applications.",
+        "keywords": "general-purpose decision models, ai configuration tuning, search algorithms for ai, optimizing ai performance, decision strategies in ai tuning, budget-constrained ai tuning, improving ai system performance, selecting appropriate search policies for ai",
+        "datePublished": "Fri, 27 Nov 2026 00:00:00 -0500",
+        "dateModified": "Fri, 27 Nov 2026 00:00:00 -0500",
+        "author": {
+          "@type": "Organization",
+          "name": "ArXiv cs.AI",
+          "url": "https://arxiv.org"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "research",
+        "inLanguage": "en-US",
+        "wordCount": 38,
+        "articleBody": "A new study proposes general-purpose decision models for tuning AI configurations, aiming to enhance performance within budget constraints. This research is crucial as it could standardize and improve the efficiency of AI system optimization processes across various applications."
+      }
+    },
+    {
+      "source_id": "arxiv_cs_ai",
+      "source_name": "ArXiv cs.AI",
+      "title": "What, Who, and When: Structured Harm Assessment for Mental Health Safety via Short Reasoning",
+      "url": "https://arxiv.org/abs/2611.33263",
+      "description": "arXiv:2611.33263v1 Announce Type: new \nAbstract: The growing use of large language models (LLMs) for mental health support raises important safety concerns. Existing guard models primarily identify categories of harmful content, often overlooking the context needed to determine an appropriate respon",
+      "published": "Fri, 27 Nov 2026 00:00:00 -0500",
+      "score": 35,
+      "category": "research",
+      "weight": 7,
+      "format": "article",
+      "summary": "A new structured harm assessment framework has been proposed to enhance the safety of using large language models in mental health support by considering contextual factors, addressing limitations of current guard models that focus solely on identifying harmful content categories. This development is crucial as LLMs are increasingly integrated into mental health services, where context-specific responses can significantly impact user safety and well-being.",
+      "summary_detailed": "A recent study proposes a structured harm assessment framework for mental health safety in interactions with large language models (LLMs). This framework aims to address the limitations of existing guard models by considering contextual factors that are crucial for determining appropriate responses. The broader impact could significantly enhance the safety and efficacy of LLMs used in mental health support, potentially reducing risks associated with misinterpretation or inappropriate advice.",
+      "summary_bullets": "• Structured Harm Assessment aims to enhance safety in mental health support via LLMs.\n• Current guard models focus on categorizing harmful content but lack contextual understanding.\n• The approach emphasizes the need for context to appropriately respond to potentially harmful content.",
+      "sentiment": "neutral",
+      "keywords": [
+        "large language models",
+        "mental health",
+        "safety",
+        "guard models",
+        "harmful content"
+      ],
+      "thumbnail": null,
+      "favicon": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=64",
+      "cluster_id": "3f10a1db-9948-537d-ac43-54cace17de33",
+      "cluster_size": 1,
+      "cluster_topics": [
+        "mental",
+        "health",
+        "safety",
+        "structured",
+        "harm"
+      ],
+      "geo_title": "Why is structured harm assessment crucial for LLMs in mental health support?",
+      "geo_keywords": [
+        "structured harm assessment",
+        "mental health safety",
+        "large language models safety",
+        "context-aware guard models",
+        "ai safety for mental health",
+        "detecting harmful content in llm",
+        "what are the safety concerns of llm in mental health",
+        "when should guard models be used for llm",
+        "who is responsible for llm safety in mental health"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "Why is structured harm assessment crucial for LLMs in mental health support?",
+        "url": "https://arxiv.org/abs/2611.33263",
+        "description": "A new structured harm assessment framework has been proposed to enhance the safety of using large language models in mental health support by considering contextual factors, addressing limitations of current guard models that focus solely on identifying harmful content categories. This development is crucial as LLMs are increasingly integrated into mental health services, where context-specific responses can significantly impact user safety and well-being.",
+        "keywords": "structured harm assessment, mental health safety, large language models safety, context-aware guard models, ai safety for mental health, detecting harmful content in llm, what are the safety concerns of llm in mental health, when should guard models be used for llm",
+        "datePublished": "Fri, 27 Nov 2026 00:00:00 -0500",
+        "dateModified": "Fri, 27 Nov 2026 00:00:00 -0500",
+        "author": {
+          "@type": "Organization",
+          "name": "ArXiv cs.AI",
+          "url": "https://arxiv.org"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "research",
+        "inLanguage": "en-US",
+        "wordCount": 63,
+        "articleBody": "A new structured harm assessment framework has been proposed to enhance the safety of using large language models in mental health support by considering contextual factors, addressing limitations of current guard models that focus solely on identifying harmful content categories. This development is crucial as LLMs are increasingly integrated into mental health services, where context-specific responses can significantly impact user safety and well-being."
+      }
+    },
+    {
+      "source_id": "arxiv_cs_ai",
+      "source_name": "ArXiv cs.AI",
+      "title": "Certify What You Plant: Shortcut-Free Proof Depth in Logical Reasoning Data",
+      "url": "https://arxiv.org/abs/2611.33303",
+      "description": "arXiv:2611.33303v1 Announce Type: new \nAbstract: Procedurally generated logic problems are used to both evaluate and train reasoning in language models. Their difficulty is usually set by planting a proof, that is, by sampling a proof of the desired depth and stating its premises as the problem. How",
+      "published": "Fri, 27 Nov 2026 00:00:00 -0500",
+      "score": 35,
+      "category": "research",
+      "weight": 7,
+      "format": "article",
+      "summary": "A new method allows for verifying the depth of proofs in procedurally generated logic problems without relying on shortcuts, enhancing the evaluation and training of language models. This matters because it ensures more accurate assessments of reasoning abilities by accurately reflecting the complexity intended in the problems.",
+      "summary_detailed": "A new method for setting the difficulty of procedural logic problems has been proposed, aiming to provide clear and verifiable evidence of the proof's depth without relying on manual certification processes. This involves generating proofs automatically and embedding them into logical reasoning tasks, which can be used to train and evaluate language models more efficiently. The broader impact could enhance the reliability and automation in creating challenging logical reasoning datasets for AI training.",
+      "summary_bullets": "• Logical reasoning data involves procedurally generated problems.\n• Proof depth is crucial for setting problem difficulty.\n• Certify What You Plant aims to provide shortcut-free proof verification.",
+      "sentiment": "neutral",
+      "keywords": [
+        "procedurally generated logic problems",
+        "proof depth",
+        "logical reasoning",
+        "language models",
+        "evaluation"
+      ],
+      "thumbnail": null,
+      "favicon": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=64",
+      "cluster_id": "46129602-dabb-5681-8be5-bc7d88d3702d",
+      "cluster_size": 1,
+      "cluster_topics": [
+        "proof",
+        "depth",
+        "reasoning",
+        "certify",
+        "plant"
+      ],
+      "geo_title": "Why Is Certifying Plant Depth Crucial for Logical Reasoning Data?",
+      "geo_keywords": [
+        "procedurally generated logic problems",
+        "proof depth in logical reasoning",
+        "difficulty setting for language models",
+        "certifying logical proofs",
+        "procedural generation of logic problems",
+        "logical reasoning evaluation",
+        "training language models with logical problems"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "Why Is Certifying Plant Depth Crucial for Logical Reasoning Data?",
+        "url": "https://arxiv.org/abs/2611.33303",
+        "description": "A new method allows for verifying the depth of proofs in procedurally generated logic problems without relying on shortcuts, enhancing the evaluation and training of language models. This matters because it ensures more accurate assessments of reasoning abilities by accurately reflecting the complexity intended in the problems.",
+        "keywords": "procedurally generated logic problems, proof depth in logical reasoning, difficulty setting for language models, certifying logical proofs, procedural generation of logic problems, logical reasoning evaluation, training language models with logical problems",
+        "datePublished": "Fri, 27 Nov 2026 00:00:00 -0500",
+        "dateModified": "Fri, 27 Nov 2026 00:00:00 -0500",
+        "author": {
+          "@type": "Organization",
+          "name": "ArXiv cs.AI",
+          "url": "https://arxiv.org"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "research",
+        "inLanguage": "en-US",
+        "wordCount": 47,
+        "articleBody": "A new method allows for verifying the depth of proofs in procedurally generated logic problems without relying on shortcuts, enhancing the evaluation and training of language models. This matters because it ensures more accurate assessments of reasoning abilities by accurately reflecting the complexity intended in the problems."
+      }
+    },
+    {
+      "source_id": "arxiv_cs_ai",
+      "source_name": "ArXiv cs.AI",
+      "title": "The Platonic Representation Hypothesis in Jacobian-Space: Language and Vision Models Agree Approximately Up to a Rotation",
+      "url": "https://arxiv.org/abs/2611.33304",
+      "description": "arXiv:2611.33304v1 Announce Type: new \nAbstract: The Platonic Representation Hypothesis (PRH) posits that AI models converge toward a shared representation of the world, even when trained on different data modalities. Previous work has found evidence for the PRH in the activations of vision and lang",
+      "published": "Fri, 27 Nov 2026 00:00:00 -0500",
+      "score": 35,
+      "category": "research",
+      "weight": 7,
+      "format": "article",
+      "summary": "A recent study supports the Platonic Representation Hypothesis suggesting AI models like language and vision systems develop similar internal representations despite being trained on different types of data, indicating a shared understanding of the world. This finding is significant as it implies these models may have a common ground in how they perceive and process information.",
+      "summary_detailed": "Researchers have proposed that artificial intelligence models develop similar representations of the world, regardless of the training data modality, supporting the Platonic Representation Hypothesis (PRH). This study finds approximate agreement between language and vision models up to a rotation, suggesting these models converge towards a shared understanding. The findings could have broader implications for how we design and interpret AI systems that process different types of information.",
+      "summary_bullets": "• The Platonic Representation Hypothesis suggests AI models develop similar representations.\n• Evidence supports this hypothesis in both language and vision models.\n• Models converge towards shared world representations despite different training data.",
+      "sentiment": "neutral",
+      "keywords": [
+        "platonic representation hypothesis",
+        "jacobian-space",
+        "language models",
+        "vision models",
+        "shared representation"
+      ],
+      "thumbnail": null,
+      "favicon": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=64",
+      "cluster_id": "43e90d32-a9e3-5c99-98da-37252cf64f49",
+      "cluster_size": 1,
+      "cluster_topics": [
+        "representation",
+        "platonic",
+        "vision",
+        "prh",
+        "hypothesis"
+      ],
+      "geo_title": "Why is AI Language and Vision Models' Shared Representation Debated?",
+      "geo_keywords": [
+        "platonic representation hypothesis",
+        "jacobian-space",
+        "language models",
+        "vision models",
+        "shared representation",
+        "ai model convergence",
+        "data modality independence",
+        "artificial intelligence shared understanding",
+        "what does the platonic representation hypothesis mean",
+        "how do language and vision models agree on representations"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "Why is AI Language and Vision Models' Shared Representation Debated?",
+        "url": "https://arxiv.org/abs/2611.33304",
+        "description": "A recent study supports the Platonic Representation Hypothesis suggesting AI models like language and vision systems develop similar internal representations despite being trained on different types of data, indicating a shared understanding of the world. This finding is significant as it implies these models may have a common ground in how they perceive and process information.",
+        "keywords": "platonic representation hypothesis, jacobian-space, language models, vision models, shared representation, ai model convergence, data modality independence, artificial intelligence shared understanding",
+        "datePublished": "Fri, 27 Nov 2026 00:00:00 -0500",
+        "dateModified": "Fri, 27 Nov 2026 00:00:00 -0500",
+        "author": {
+          "@type": "Organization",
+          "name": "ArXiv cs.AI",
+          "url": "https://arxiv.org"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "research",
+        "inLanguage": "en-US",
+        "wordCount": 56,
+        "articleBody": "A recent study supports the Platonic Representation Hypothesis suggesting AI models like language and vision systems develop similar internal representations despite being trained on different types of data, indicating a shared understanding of the world. This finding is significant as it implies these models may have a common ground in how they perceive and process information."
+      }
+    },
+    {
+      "source_id": "arxiv_cs_ai",
+      "source_name": "ArXiv cs.AI",
+      "title": "Confidence scores for gated automation of large language models",
+      "url": "https://arxiv.org/abs/2611.33394",
+      "description": "arXiv:2611.33394v1 Announce Type: new \nAbstract: AI agents built on large language models (LLMs) demonstrate strong capabilities in automated decision-making. However, LLMs may produce incorrect answers with high confidence, limiting their applicability in decisions that affect individuals and organ",
+      "published": "Fri, 27 Nov 2026 00:00:00 -0500",
+      "score": 35,
+      "category": "research",
+      "weight": 7,
+      "format": "article",
+      "summary": "A new study proposes using confidence scores to gate automation of large language models, addressing the risk of these models providing incorrect answers with high confidence, which is crucial for applications impacting individuals or organizations.",
+      "summary_detailed": "Researchers have developed a method to generate confidence scores for automated decisions made by large language models (LLMs), aiming to address the issue of LLMs providing incorrect answers with high confidence. This development involves AI agents built on LLMs, which are being used in decision-making processes that can impact individuals and organizations. The broader impact could enhance the reliability and trustworthiness of these AI systems in critical applications.",
+      "summary_bullets": "• AI agents using LLMs show robust performance in automation.\n• LLMs can incorrectly answer questions with high confidence.\n• This limits the use of LLMs in critical decision-making scenarios.",
+      "sentiment": "neutral",
+      "keywords": [
+        "large language models",
+        "automation",
+        "decision-making",
+        "confidence scores",
+        "ai agents"
+      ],
+      "thumbnail": null,
+      "favicon": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=64",
+      "cluster_id": "834b5388-bf6f-5171-a4c5-55d8d5da1126",
+      "cluster_size": 1,
+      "cluster_topics": [
+        "confidence",
+        "llms",
+        "large",
+        "language",
+        "scores"
+      ],
+      "geo_title": "Why is confidence scoring crucial for gated automation in LLMs?",
+      "geo_keywords": [
+        "confidence scores",
+        "large language models",
+        "automated decision-making",
+        "ai agents",
+        "decision accuracy",
+        "gated automation",
+        "risk assessment",
+        "model reliability",
+        "incorrect answers",
+        "machine learning technologies",
+        "natural language processing",
+        "ethical ai"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "Why is confidence scoring crucial for gated automation in LLMs?",
+        "url": "https://arxiv.org/abs/2611.33394",
+        "description": "A new study proposes using confidence scores to gate automation of large language models, addressing the risk of these models providing incorrect answers with high confidence, which is crucial for applications impacting individuals or organizations.",
+        "keywords": "confidence scores, large language models, automated decision-making, ai agents, decision accuracy, gated automation, risk assessment, model reliability",
+        "datePublished": "Fri, 27 Nov 2026 00:00:00 -0500",
+        "dateModified": "Fri, 27 Nov 2026 00:00:00 -0500",
+        "author": {
+          "@type": "Organization",
+          "name": "ArXiv cs.AI",
+          "url": "https://arxiv.org"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "research",
+        "inLanguage": "en-US",
+        "wordCount": 35,
+        "articleBody": "A new study proposes using confidence scores to gate automation of large language models, addressing the risk of these models providing incorrect answers with high confidence, which is crucial for applications impacting individuals or organizations."
+      }
+    },
+    {
+      "source_id": "arxiv_cs_ai",
+      "source_name": "ArXiv cs.AI",
+      "title": "Partial Routing: Trace-Tuned Delegation for Resource-Efficient Agentic Workflows",
+      "url": "https://arxiv.org/abs/2611.33402",
+      "description": "arXiv:2611.33402v1 Announce Type: new \nAbstract: AI models vary enormously in capability and price. Model routing exploits this by sending easier tasks to cheaper models. However, a single agentic task often combines easy and difficult subtasks, making one model choice for the entire task inefficien",
+      "published": "Fri, 27 Nov 2026 00:00:00 -0500",
+      "score": 35,
+      "category": "research",
+      "weight": 7,
+      "format": "article",
+      "summary": "A new approach called \"partial routing\" has been proposed to address inefficiencies in AI task delegation. By delegating different parts of complex tasks to various models based on their capabilities, this method aims to optimize resource usage and improve overall efficiency in agentic workflows.",
+      "summary_detailed": "A new approach called \"partial routing\" has been proposed to optimize AI workflows by delegating parts of complex tasks to different AI models based on their capabilities, aiming to reduce overall resource consumption. This method involves breaking down agentic tasks into easier and harder subtasks and assigning them to cheaper or more powerful models accordingly. The broader impact could lead to more efficient use of AI resources in various applications, potentially reducing costs and improving scalability.",
+      "summary_bullets": "• AI models differ significantly in capability and cost.\n• Easier tasks are sent to cheaper models via model routing.\n• Single tasks with both easy and hard subtasks may be inefficiently handled by a single model.",
+      "sentiment": "neutral",
+      "keywords": [
+        "model routing",
+        "ai models",
+        "resource efficiency",
+        "task delegation",
+        "subtasks"
+      ],
+      "thumbnail": null,
+      "favicon": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=64",
+      "cluster_id": "04ac7a36-9bac-5e8c-b9a1-97d3989d5c2e",
+      "cluster_size": 1,
+      "cluster_topics": [
+        "routing",
+        "agentic",
+        "task",
+        "model",
+        "partial"
+      ],
+      "geo_title": "Why is model routing important for efficient AI workflows?",
+      "geo_keywords": [
+        "partial routing",
+        "trace-tuned delegation",
+        "agentic workflows",
+        "efficient model routing",
+        "subtask delegation",
+        "ai model optimization",
+        "resource-efficient task handling",
+        "optimizing ai task distribution"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "Why is model routing important for efficient AI workflows?",
+        "url": "https://arxiv.org/abs/2611.33402",
+        "description": "A new approach called \"partial routing\" has been proposed to address inefficiencies in AI task delegation. By delegating different parts of complex tasks to various models based on their capabilities, this method aims to optimize resource usage and improve overall efficiency in agentic workflows.",
+        "keywords": "partial routing, trace-tuned delegation, agentic workflows, efficient model routing, subtask delegation, ai model optimization, resource-efficient task handling, optimizing ai task distribution",
+        "datePublished": "Fri, 27 Nov 2026 00:00:00 -0500",
+        "dateModified": "Fri, 27 Nov 2026 00:00:00 -0500",
+        "author": {
+          "@type": "Organization",
+          "name": "ArXiv cs.AI",
+          "url": "https://arxiv.org"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "research",
+        "inLanguage": "en-US",
+        "wordCount": 44,
+        "articleBody": "A new approach called \"partial routing\" has been proposed to address inefficiencies in AI task delegation. By delegating different parts of complex tasks to various models based on their capabilities, this method aims to optimize resource usage and improve overall efficiency in agentic workflows."
+      }
+    },
+    {
+      "source_id": "arxiv_cs_ai",
+      "source_name": "ArXiv cs.AI",
+      "title": "Dynamic Reasoning in Next-Gen Detection and Response: An Empirical Study of LLM Triage, Reinforcement Tuning, and Adversarial Evasion",
+      "url": "https://arxiv.org/abs/2611.33470",
+      "description": "arXiv:2611.33470v1 Announce Type: new \nAbstract: We present an end-to-end empirical study of dynamic reasoning in next-generation detection and response pipelines, evaluating how static classifiers, graph-based signal fusion, and large language model (LLM) triage agents perform under strict human-an",
+      "published": "Fri, 27 Nov 2026 00:00:00 -0500",
+      "score": 35,
+      "category": "research",
+      "weight": 7,
+      "format": "article",
+      "summary": "The study evaluates the performance of dynamic reasoning techniques, including static classifiers, graph-based signal fusion, and LLM triage agents, in next-generation detection and response systems. This research is crucial as it aims to enhance cybersecurity by improving the ability to detect and respond to adversarial threats more effectively.",
+      "summary_detailed": "The study evaluates the performance of dynamic reasoning techniques in next-gen detection and response systems, focusing on static classifiers, graph-based signal fusion, and LLM triage agents. It involves an empirical analysis to assess their effectiveness under human supervision. The broader impact includes advancing the field's understanding of how these technologies can be optimized for cybersecurity applications.",
+      "summary_bullets": "• Study focuses on dynamic reasoning in next-gen detection and response.\n• Evaluates static classifiers, graph-based signal fusion, and LLM triage.\n• Involves strict human-in-the-loop evaluation processes.",
+      "sentiment": "neutral",
+      "keywords": [
+        "dynamic reasoning",
+        "next-gen detection",
+        "response pipelines",
+        "llm triage",
+        "reinforcement tuning",
+        "adversarial evasion"
+      ],
+      "thumbnail": null,
+      "favicon": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=64",
+      "cluster_id": "659eba29-18ba-5119-ab6d-1fa3c5f01f6e",
+      "cluster_size": 1,
+      "cluster_topics": [
+        "dynamic",
+        "response",
+        "empirical",
+        "triage",
+        "detection"
+      ],
+      "geo_title": "Why is dynamic reasoning crucial for next-gen detection and response?",
+      "geo_keywords": [
+        "dynamic reasoning",
+        "next-gen detection",
+        "response pipelines",
+        "llm triage",
+        "reinforcement tuning",
+        "adversarial evasion",
+        "empirical study",
+        "large language model"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "Why is dynamic reasoning crucial for next-gen detection and response?",
+        "url": "https://arxiv.org/abs/2611.33470",
+        "description": "The study evaluates the performance of dynamic reasoning techniques, including static classifiers, graph-based signal fusion, and LLM triage agents, in next-generation detection and response systems. This research is crucial as it aims to enhance cybersecurity by improving the ability to detect and respond to adversarial threats more effectively.",
+        "keywords": "dynamic reasoning, next-gen detection, response pipelines, llm triage, reinforcement tuning, adversarial evasion, empirical study, large language model",
+        "datePublished": "Fri, 27 Nov 2026 00:00:00 -0500",
+        "dateModified": "Fri, 27 Nov 2026 00:00:00 -0500",
+        "author": {
+          "@type": "Organization",
+          "name": "ArXiv cs.AI",
+          "url": "https://arxiv.org"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "research",
+        "inLanguage": "en-US",
+        "wordCount": 48,
+        "articleBody": "The study evaluates the performance of dynamic reasoning techniques, including static classifiers, graph-based signal fusion, and LLM triage agents, in next-generation detection and response systems. This research is crucial as it aims to enhance cybersecurity by improving the ability to detect and respond to adversarial threats more effectively."
+      }
+    },
+    {
+      "source_id": "arxiv_cs_ai",
+      "source_name": "ArXiv cs.AI",
+      "title": "CA-RAG: Constraint-Aligned Retrieval for Structurally Faithful Long-Form Generation",
+      "url": "https://arxiv.org/abs/2611.33497",
+      "description": "arXiv:2611.33497v1 Announce Type: new \nAbstract: Retrieval-augmented generation (RAG) typically optimises evidence selection for semantic relevance, whereas compliance-sensitive long-form generation also requires evidence supporting explicit structural obligations. Semantically relevant retrieval ma",
+      "published": "Fri, 27 Nov 2026 00:00:00 -0500",
+      "score": 35,
+      "category": "research",
+      "weight": 7,
+      "format": "article",
+      "summary": "A new method called CA-RAG has been developed to improve long-form text generation by ensuring both semantic relevance and adherence to structural constraints, addressing limitations of existing retrieval-augmented generation techniques. This advancement is significant as it enhances the quality and accuracy of generated content in compliance-sensitive domains.",
+      "summary_detailed": "The research titled \"CA-RAG: Constraint-Aligned Retrieval for Structurally Faithful Long-Form Generation\" introduces a new method that enhances retrieval-augmented generation (RAG) by ensuring both semantic relevance and adherence to specific structural constraints, thereby generating more structurally faithful long-form content. This work involves researchers from the arXiv platform who are focusing on improving the alignment between retrieved information and the required structural format in generated text. The broader impact of this approach could be significant for applications requiring precise and structured documentation, such as legal documents or technical manuals, where both content accuracy and format compliance are crucial.",
+      "summary_bullets": "• CA-RAG addresses constraints in long-form generation.\n• It focuses on both semantic relevance and structural obligations.\n• The method enhances evidence selection during the generation process.",
+      "sentiment": "neutral",
+      "keywords": [
+        "constraint-aligned",
+        "retrieval",
+        "generation",
+        "structural",
+        "faithfulness"
+      ],
+      "thumbnail": null,
+      "favicon": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=64",
+      "cluster_id": "3b67c59b-2991-5f03-b50b-8f57bedbc270",
+      "cluster_size": 1,
+      "cluster_topics": [
+        "generation",
+        "retrieval",
+        "long-form",
+        "evidence",
+        "ca-rag"
+      ],
+      "geo_title": "Why is CA-RAG Important for Constraint-Aligned Long-Form Generation?",
+      "geo_keywords": [
+        "ca-rag",
+        "constraint-aligned retrieval",
+        "retrieval-augmented generation",
+        "structurally faithful long-form generation",
+        "compliance-sensitive generation",
+        "semantic relevance",
+        "evidence selection",
+        "long-document creation",
+        "satisfying structural constraints",
+        "generating structured content"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "Why is CA-RAG Important for Constraint-Aligned Long-Form Generation?",
+        "url": "https://arxiv.org/abs/2611.33497",
+        "description": "A new method called CA-RAG has been developed to improve long-form text generation by ensuring both semantic relevance and adherence to structural constraints, addressing limitations of existing retrieval-augmented generation techniques. This advancement is significant as it enhances the quality and accuracy of generated content in compliance-sensitive domains.",
+        "keywords": "ca-rag, constraint-aligned retrieval, retrieval-augmented generation, structurally faithful long-form generation, compliance-sensitive generation, semantic relevance, evidence selection, long-document creation",
+        "datePublished": "Fri, 27 Nov 2026 00:00:00 -0500",
+        "dateModified": "Fri, 27 Nov 2026 00:00:00 -0500",
+        "author": {
+          "@type": "Organization",
+          "name": "ArXiv cs.AI",
+          "url": "https://arxiv.org"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "research",
+        "inLanguage": "en-US",
+        "wordCount": 47,
+        "articleBody": "A new method called CA-RAG has been developed to improve long-form text generation by ensuring both semantic relevance and adherence to structural constraints, addressing limitations of existing retrieval-augmented generation techniques. This advancement is significant as it enhances the quality and accuracy of generated content in compliance-sensitive domains."
+      }
+    },
+    {
+      "source_id": "arxiv_cs_ai",
+      "source_name": "ArXiv cs.AI",
+      "title": "Learning to Reason in Real-Time",
+      "url": "https://arxiv.org/abs/2611.33513",
+      "description": "arXiv:2611.33513v1 Announce Type: new \nAbstract: AI agents that operate in the real world must reason correctly and on-time, yet they currently do not account for how time should alter their reasoning. Modern agents learn to do tasks in environments that are entirely synchronous: where the world wai",
+      "published": "Fri, 27 Nov 2026 00:00:00 -0500",
+      "score": 35,
+      "category": "research",
+      "weight": 7,
+      "format": "article",
+      "summary": "The research highlights a critical limitation of current AI agents, which fail to adjust their reasoning based on real-time dynamics. This study aims to develop AI capable of reasoning correctly and promptly in dynamic, asynchronous real-world scenarios, emphasizing the need for more sophisticated temporal reasoning capabilities.",
+      "summary_detailed": "The research proposes a method for AI agents to reason in real-time, addressing the current limitation of AI systems which operate based on fully synchronous environments, failing to adjust their reasoning according to time. This involves developing algorithms that allow AI to process and react to information more dynamically as it unfolds over time. The broader impact could significantly enhance the adaptability and effectiveness of AI in dynamic real-world scenarios, such as autonomous vehicles or emergency response systems.",
+      "summary_bullets": "• AI agents need to reason correctly and in real-time.\n• Current AI agents do not consider how time affects reasoning.\n• Real-world operations require asynchronous learning environments.",
+      "sentiment": "neutral",
+      "keywords": [
+        "real-time",
+        "reasoning",
+        "ai",
+        "agents",
+        "synchronization"
+      ],
+      "thumbnail": null,
+      "favicon": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=64",
+      "cluster_id": "c18f8113-7021-564d-b2dc-c0baa5d73a69",
+      "cluster_size": 1,
+      "cluster_topics": [
+        "reason",
+        "world",
+        "agents",
+        "operate",
+        "correctly"
+      ],
+      "geo_title": "How does time affect AI reasoning in real-world scenarios?",
+      "geo_keywords": [
+        "real-time reasoning",
+        "ai agents",
+        "time-altered reasoning",
+        "asynchronous learning",
+        "correct reasoning",
+        "real-world ai",
+        "synchronization issues",
+        "what is real-time reasoning for ai",
+        "how do ai agents reason in real-time"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "How does time affect AI reasoning in real-world scenarios?",
+        "url": "https://arxiv.org/abs/2611.33513",
+        "description": "The research highlights a critical limitation of current AI agents, which fail to adjust their reasoning based on real-time dynamics. This study aims to develop AI capable of reasoning correctly and promptly in dynamic, asynchronous real-world scenarios, emphasizing the need for more sophisticated temporal reasoning capabilities.",
+        "keywords": "real-time reasoning, ai agents, time-altered reasoning, asynchronous learning, correct reasoning, real-world ai, synchronization issues, what is real-time reasoning for ai",
+        "datePublished": "Fri, 27 Nov 2026 00:00:00 -0500",
+        "dateModified": "Fri, 27 Nov 2026 00:00:00 -0500",
+        "author": {
+          "@type": "Organization",
+          "name": "ArXiv cs.AI",
+          "url": "https://arxiv.org"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "research",
+        "inLanguage": "en-US",
+        "wordCount": 46,
+        "articleBody": "The research highlights a critical limitation of current AI agents, which fail to adjust their reasoning based on real-time dynamics. This study aims to develop AI capable of reasoning correctly and promptly in dynamic, asynchronous real-world scenarios, emphasizing the need for more sophisticated temporal reasoning capabilities."
+      }
+    },
+    {
+      "source_id": "arxiv_cs_ai",
+      "source_name": "ArXiv cs.AI",
+      "title": "PeerReveal: Learning to Generalize in AI Peer Review Detection",
+      "url": "https://arxiv.org/abs/2611.33555",
+      "description": "arXiv:2611.33555v1 Announce Type: new \nAbstract: Can we distinguish fully AI-generated reviews from those using AI only to rewrite human judgement? Furthermore, can we do so reliably when reviews are generated from diverse AI models and workflows across scientific domains? To this end, we introduce",
+      "published": "Fri, 27 Nov 2026 00:00:00 -0500",
+      "score": 35,
+      "category": "research",
+      "weight": 7,
+      "format": "article",
+      "summary": "The research explores whether AI-generated reviews can be distinguished from human-rewritten ones by focusing on the reliability of detection methods across various AI models and scientific fields. This is crucial for ensuring the integrity of peer review processes in academia.",
+      "summary_detailed": "The study PeerReveal aims to differentiate between fully AI-generated reviews and those that use AI to refine human judgments in various scientific fields. Researchers are exploring methods to reliably detect such reviews despite the diversity of AI models and workflows involved. This work has broader implications for ensuring the integrity and reliability of peer review processes in academia and beyond.",
+      "summary_bullets": "• PeerReveal aims to differentiate AI-generated reviews from those using AI for rewriting.\n• The system focuses on reliability in various scientific domains with different AI models.\n• It seeks to identify fully AI-generated versus AI-assisted human reviews.",
+      "sentiment": "neutral",
+      "keywords": [
+        "ai review",
+        "peer review",
+        "generalization",
+        "detection",
+        "workflow"
+      ],
+      "thumbnail": null,
+      "favicon": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=64",
+      "cluster_id": "fbc19faa-0a02-559b-8b85-213d5c33c7b7",
+      "cluster_size": 1,
+      "cluster_topics": [
+        "reviews",
+        "peerreveal",
+        "generalize",
+        "peer",
+        "distinguish"
+      ],
+      "geo_title": "How does PeerReveal Distinguish AI-Generated Reviews from Human-Judged Ones?",
+      "geo_keywords": [
+        "ai peer review detection",
+        "generalizing ai peer review",
+        "ai generated reviews",
+        "detecting ai in peer review",
+        "diverse ai models in peer review",
+        "ai review workflow analysis",
+        "reliable ai peer review detection",
+        "ai review technology assessment"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "How does PeerReveal Distinguish AI-Generated Reviews from Human-Judged Ones?",
+        "url": "https://arxiv.org/abs/2611.33555",
+        "description": "The research explores whether AI-generated reviews can be distinguished from human-rewritten ones by focusing on the reliability of detection methods across various AI models and scientific fields. This is crucial for ensuring the integrity of peer review processes in academia.",
+        "keywords": "ai peer review detection, generalizing ai peer review, ai generated reviews, detecting ai in peer review, diverse ai models in peer review, ai review workflow analysis, reliable ai peer review detection, ai review technology assessment",
+        "datePublished": "Fri, 27 Nov 2026 00:00:00 -0500",
+        "dateModified": "Fri, 27 Nov 2026 00:00:00 -0500",
+        "author": {
+          "@type": "Organization",
+          "name": "ArXiv cs.AI",
+          "url": "https://arxiv.org"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "research",
+        "inLanguage": "en-US",
+        "wordCount": 40,
+        "articleBody": "The research explores whether AI-generated reviews can be distinguished from human-rewritten ones by focusing on the reliability of detection methods across various AI models and scientific fields. This is crucial for ensuring the integrity of peer review processes in academia."
+      }
+    },
+    {
+      "source_id": "arxiv_cs_ai",
+      "source_name": "ArXiv cs.AI",
+      "title": "FIG-MAC: A Fine-grained Inspiration Graph Empowered Multi-Agent Collaboration for Automated Scientific Hypothesis Generation",
+      "url": "https://arxiv.org/abs/2611.33563",
+      "description": "arXiv:2611.33563v1 Announce Type: new \nAbstract: Automated Scientific Hypothesis Generation (ASHG) leveraging large language models (LLMs) aims to harness their strengths in knowledge integration, logical reasoning, and text generation for efficiently producing innovative, verifiable scientific hypo",
+      "published": "Fri, 27 Nov 2026 00:00:00 -0500",
+      "score": 35,
+      "category": "research",
+      "weight": 7,
+      "format": "article",
+      "summary": "A new method called FIG-MAC uses an inspiration graph to enhance multi-agent collaboration, aiming to automate the generation of scientific hypotheses through large language models. This approach seeks to leverage the capabilities of LLMs in knowledge integration and logical reasoning to produce more innovative and verifiable scientific ideas efficiently.",
+      "summary_detailed": "A new method called FIG-MAC has been proposed to enhance automated scientific hypothesis generation through multi-agent collaboration. This approach uses a fine-grained inspiration graph powered by large language models (LLMs) to integrate knowledge, reason logically, and generate text, aiming to produce innovative and verifiable hypotheses more efficiently. The broader impact could be significant advancements in scientific research processes, potentially accelerating the discovery of new insights across various fields.",
+      "summary_bullets": "• ASHG uses LLMs for hypothesis generation.\n• The system focuses on fine-grained inspiration.\n• Multi-agent collaboration enhances the process.",
+      "sentiment": "neutral",
+      "keywords": [
+        "automated scientific hypothesis generation",
+        "large language models",
+        "multi-agent collaboration",
+        "fine-grained inspiration graph",
+        "verifiable scientific hypotheses"
+      ],
+      "thumbnail": null,
+      "favicon": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=64",
+      "cluster_id": "5cbd9e0c-9c68-523e-9206-b274610d6e87",
+      "cluster_size": 1,
+      "cluster_topics": [
+        "scientific",
+        "generation",
+        "automated",
+        "hypothesis",
+        "fig-mac"
+      ],
+      "geo_title": "Why is FIG-MAC Important for ASHG with LLMs?",
+      "geo_keywords": [
+        "automated scientific hypothesis generation",
+        "large language models",
+        "multi-agent collaboration",
+        "fine-grained inspiration graph",
+        "verifiable scientific hypotheses",
+        "ashg techniques",
+        "ai-driven hypothesis generation",
+        "llm-powered collaboration",
+        "scientific innovation automation"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "Why is FIG-MAC Important for ASHG with LLMs?",
+        "url": "https://arxiv.org/abs/2611.33563",
+        "description": "A new method called FIG-MAC uses an inspiration graph to enhance multi-agent collaboration, aiming to automate the generation of scientific hypotheses through large language models. This approach seeks to leverage the capabilities of LLMs in knowledge integration and logical reasoning to produce more innovative and verifiable scientific ideas efficiently.",
+        "keywords": "automated scientific hypothesis generation, large language models, multi-agent collaboration, fine-grained inspiration graph, verifiable scientific hypotheses, ashg techniques, ai-driven hypothesis generation, llm-powered collaboration",
+        "datePublished": "Fri, 27 Nov 2026 00:00:00 -0500",
+        "dateModified": "Fri, 27 Nov 2026 00:00:00 -0500",
+        "author": {
+          "@type": "Organization",
+          "name": "ArXiv cs.AI",
+          "url": "https://arxiv.org"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "research",
+        "inLanguage": "en-US",
+        "wordCount": 49,
+        "articleBody": "A new method called FIG-MAC uses an inspiration graph to enhance multi-agent collaboration, aiming to automate the generation of scientific hypotheses through large language models. This approach seeks to leverage the capabilities of LLMs in knowledge integration and logical reasoning to produce more innovative and verifiable scientific ideas efficiently."
+      }
+    },
+    {
+      "source_id": "arxiv_cs_ai",
+      "source_name": "ArXiv cs.AI",
+      "title": "Aligned Machine: A Benchmark for Evaluating Multimodal Embedding Similarity via Human Comparative Judgements",
+      "url": "https://arxiv.org/abs/2611.33594",
+      "description": "arXiv:2611.33594v1 Announce Type: new \nAbstract: Embedding models increasingly inform how people search, recommend, and retrieve information, yet we lack credible ways to test whether these similarity judgments reflect how humans understand meaning. Existing benchmarks typically rely on static, expe",
+      "published": "Fri, 27 Nov 2026 00:00:00 -0500",
+      "score": 35,
+      "category": "research",
+      "weight": 7,
+      "format": "article",
+      "summary": "A new benchmark called Aligned Machine has been introduced to evaluate multimodal embedding similarity by using human comparative judgements, addressing the gap in testing whether machine-generated similarity judgments align with human understanding of meaning. This matters because it provides a credible method for assessing how well embedding models capture human-like semantic comprehension, crucial for improving information retrieval and recommendation systems.",
+      "summary_detailed": "A new benchmark called Aligned Machine has been introduced to evaluate multimodal embedding similarity by leveraging human comparative judgements, addressing the gap in credible testing methods for embedding models that influence search, recommendation, and information retrieval processes. This benchmark aims to assess whether these models accurately reflect human understanding of meaning, moving beyond traditional static benchmarks. The broader impact could be improved reliability and relevance of AI systems in handling multimodal data.",
+      "summary_bullets": "• Aligned Machine aims to evaluate multimodal embedding similarity.\n• It uses human comparative judgements for benchmarking.\n• The method addresses gaps in existing similarity judgment tests.",
+      "sentiment": "neutral",
+      "keywords": [
+        "aligned machine",
+        "multimodal embedding",
+        "similarity",
+        "human comparative judgements",
+        "benchmark"
+      ],
+      "thumbnail": null,
+      "favicon": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=64",
+      "cluster_id": "16fb19ed-895c-57a3-b932-23de0afbf4ae",
+      "cluster_size": 1,
+      "cluster_topics": [
+        "embedding",
+        "similarity",
+        "aligned",
+        "machine",
+        "comparative"
+      ],
+      "geo_title": "How does Aligned Machine Benchmark Multimodal Embedding Similarity?",
+      "geo_keywords": [
+        "aligned machine",
+        "multimodal embedding evaluation",
+        "human comparative judgements",
+        "benchmarking similarity judgments",
+        "understanding meaning through embeddings",
+        "multimodal similarity benchmark",
+        "testing embedding models accuracy"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "How does Aligned Machine Benchmark Multimodal Embedding Similarity?",
+        "url": "https://arxiv.org/abs/2611.33594",
+        "description": "A new benchmark called Aligned Machine has been introduced to evaluate multimodal embedding similarity by using human comparative judgements, addressing the gap in testing whether machine-generated similarity judgments align with human understanding of meaning. This matters because it provides a credible method for assessing how well embedding models capture human-like semantic comprehension, crucial for improving information retrieval and recommendation systems.",
+        "keywords": "aligned machine, multimodal embedding evaluation, human comparative judgements, benchmarking similarity judgments, understanding meaning through embeddings, multimodal similarity benchmark, testing embedding models accuracy",
+        "datePublished": "Fri, 27 Nov 2026 00:00:00 -0500",
+        "dateModified": "Fri, 27 Nov 2026 00:00:00 -0500",
+        "author": {
+          "@type": "Organization",
+          "name": "ArXiv cs.AI",
+          "url": "https://arxiv.org"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "research",
+        "inLanguage": "en-US",
+        "wordCount": 60,
+        "articleBody": "A new benchmark called Aligned Machine has been introduced to evaluate multimodal embedding similarity by using human comparative judgements, addressing the gap in testing whether machine-generated similarity judgments align with human understanding of meaning. This matters because it provides a credible method for assessing how well embedding models capture human-like semantic comprehension, crucial for improving information retrieval and recommendation systems."
+      }
+    },
+    {
+      "source_id": "arxiv_cs_ai",
+      "source_name": "ArXiv cs.AI",
+      "title": "Learning from Natural Images Untangles Number Sense",
+      "url": "https://arxiv.org/abs/2611.33615",
+      "description": "arXiv:2611.33615v1 Announce Type: new \nAbstract: Numerical cognition is a simple yet fundamental ability that remains challenging for modern vision-language models. Meanwhile, number sense is already present in numerically na\\\"ive animals, suggesting that it can emerge without explicit numerical lea",
+      "published": "Fri, 27 Nov 2026 00:00:00 -0500",
+      "score": 35,
+      "category": "research",
+      "weight": 7,
+      "format": "article",
+      "summary": "A study finds that modern vision-language models struggle with numerical cognition, unlike numerically naive animals which possess inherent number sense. This highlights the challenge these models face and suggests potential new approaches to developing better numerical understanding in artificial intelligence.",
+      "summary_detailed": "A study published on arXiv suggests that modern vision-language models struggle with numerical cognition, a basic ability also found in numerically naive animals. This indicates that number sense might develop independently of explicit numerical training, offering insights into how such skills could emerge naturally. The findings have broader implications for understanding the evolution and development of numerical abilities across species and improving artificial intelligence models to better mimic human-like cognitive processes.",
+      "summary_bullets": "• Numerical cognition poses challenges for current vision-language models.\n• Number sense exists in numerically naive animals.\n• This suggests number sense can develop without explicit numerical training.",
+      "sentiment": "neutral",
+      "keywords": [
+        "numerical cognition",
+        "number sense",
+        "vision-language models",
+        "animals",
+        "emergence"
+      ],
+      "thumbnail": null,
+      "favicon": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=64",
+      "cluster_id": "d70d2f07-2309-5288-95b4-caf65383333c",
+      "cluster_size": 1,
+      "cluster_topics": [
+        "number",
+        "sense",
+        "numerical",
+        "natural",
+        "images"
+      ],
+      "geo_title": "Why Is Number Sense Still Elusive for Vision-Language Models?",
+      "geo_keywords": [
+        "numerical cognition",
+        "number sense",
+        "vision-language models",
+        "animal cognition",
+        "neural networks",
+        "machine learning",
+        "emergent properties",
+        "mathematical intuition"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "Why Is Number Sense Still Elusive for Vision-Language Models?",
+        "url": "https://arxiv.org/abs/2611.33615",
+        "description": "A study finds that modern vision-language models struggle with numerical cognition, unlike numerically naive animals which possess inherent number sense. This highlights the challenge these models face and suggests potential new approaches to developing better numerical understanding in artificial intelligence.",
+        "keywords": "numerical cognition, number sense, vision-language models, animal cognition, neural networks, machine learning, emergent properties, mathematical intuition",
+        "datePublished": "Fri, 27 Nov 2026 00:00:00 -0500",
+        "dateModified": "Fri, 27 Nov 2026 00:00:00 -0500",
+        "author": {
+          "@type": "Organization",
+          "name": "ArXiv cs.AI",
+          "url": "https://arxiv.org"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "research",
+        "inLanguage": "en-US",
+        "wordCount": 40,
+        "articleBody": "A study finds that modern vision-language models struggle with numerical cognition, unlike numerically naive animals which possess inherent number sense. This highlights the challenge these models face and suggests potential new approaches to developing better numerical understanding in artificial intelligence."
+      }
+    },
+    {
+      "source_id": "arxiv_cs_ai",
+      "source_name": "ArXiv cs.AI",
+      "title": "Controllable CAD Generation and Interactive Editing of Fluid Rotors",
+      "url": "https://arxiv.org/abs/2611.33617",
+      "description": "arXiv:2611.33617v1 Announce Type: new \nAbstract: Computer-aided design (CAD) provides the geometric foundation for rotors in fluid rotating machinery. However, creating models for different rotors requires different modeling processes, making it difficult to control geometry through design intent an",
+      "published": "Fri, 27 Nov 2026 00:00:00 -0500",
+      "score": 35,
+      "category": "research",
+      "weight": 7,
+      "format": "article",
+      "summary": "A new method allows for controllable CAD generation and interactive editing of fluid rotors, simplifying the design process and enabling better alignment with design intentions. This advancement is significant as it could streamline the development of complex machinery components, improving efficiency and precision in manufacturing.",
+      "summary_detailed": "A new method in computer-aided design allows for more controlled and interactive generation and editing of fluid rotors, potentially simplifying the creation of models for various rotors. This advancement could significantly impact the engineering process by enabling better alignment with design intentions and improving efficiency in developing fluid rotating machinery. Researchers have developed this technique to address the challenges associated with traditional modeling processes.",
+      "summary_bullets": "• CAD provides foundational geometry for fluid rotating machinery.\n• Modeling different rotor geometries involves distinct processes.\n• Design intent control is challenging due to varied modeling requirements.",
+      "sentiment": "neutral",
+      "keywords": [
+        "cad",
+        "rotor",
+        "fluid",
+        "design",
+        "modeling"
+      ],
+      "thumbnail": null,
+      "favicon": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=64",
+      "cluster_id": "aec71182-2b2f-5974-8f9b-743a5ba5bac0",
+      "cluster_size": 1,
+      "cluster_topics": [
+        "rotors",
+        "cad",
+        "fluid",
+        "design",
+        "different"
+      ],
+      "geo_title": "Why is controllable CAD generation important for fluid rotors?",
+      "geo_keywords": [
+        "controllable cad generation",
+        "interactive editing fluid rotors",
+        "computer-aided design rotors",
+        "design intent in cad",
+        "modeling fluid rotating machinery",
+        "controlling geometry through design",
+        "new cad technologies for rotors",
+        "advanced cad techniques for fluid rotors"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "Why is controllable CAD generation important for fluid rotors?",
+        "url": "https://arxiv.org/abs/2611.33617",
+        "description": "A new method allows for controllable CAD generation and interactive editing of fluid rotors, simplifying the design process and enabling better alignment with design intentions. This advancement is significant as it could streamline the development of complex machinery components, improving efficiency and precision in manufacturing.",
+        "keywords": "controllable cad generation, interactive editing fluid rotors, computer-aided design rotors, design intent in cad, modeling fluid rotating machinery, controlling geometry through design, new cad technologies for rotors, advanced cad techniques for fluid rotors",
+        "datePublished": "Fri, 27 Nov 2026 00:00:00 -0500",
+        "dateModified": "Fri, 27 Nov 2026 00:00:00 -0500",
+        "author": {
+          "@type": "Organization",
+          "name": "ArXiv cs.AI",
+          "url": "https://arxiv.org"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "research",
+        "inLanguage": "en-US",
+        "wordCount": 45,
+        "articleBody": "A new method allows for controllable CAD generation and interactive editing of fluid rotors, simplifying the design process and enabling better alignment with design intentions. This advancement is significant as it could streamline the development of complex machinery components, improving efficiency and precision in manufacturing."
+      }
+    },
+    {
+      "source_id": "arxiv_cs_ai",
+      "source_name": "ArXiv cs.AI",
+      "title": "How Much Effort Does an AI Code Reviewer Need? Evidence from Claude 5.5 Models on Plausible-but-Wrong Patches",
+      "url": "https://arxiv.org/abs/2611.33639",
+      "description": "arXiv:2611.33639v1 Announce Type: new \nAbstract: AI coding agents write code faster than people can review it, so teams add AI reviewers. Reasoning models let such a reviewer trade cost for diligence through an effort setting. We asked how much effort a reviewer needs to catch plausible-but-wrong pa",
+      "published": "Fri, 27 Nov 2026 00:00:00 -0500",
+      "score": 35,
+      "category": "research",
+      "weight": 7,
+      "format": "article",
+      "summary": "A study found that AI coding assistants generate code too quickly for human reviewers to keep up, prompting the development of reasoning models that allow AI reviewers to adjust their level of scrutiny. This research explores the optimal amount of effort an AI reviewer should exert to identify potentially flawed but still plausible code patches.",
+      "summary_detailed": "The study examines the effectiveness of AI coding assistants like Claude 5.5 in reviewing code, focusing on their ability to identify \"plausible-but-wrong\" patches. Researchers varied the effort level of an AI reviewer to determine the optimal balance between cost and accuracy. The findings suggest that teams can adjust the diligence of AI reviewers based on specific project needs, impacting efficiency and quality assurance processes.",
+      "summary_bullets": "• AI coding agents produce code faster than human reviewers can examine.\n• Teams incorporate AI reviewers to balance cost and thoroughness.\n• Effort settings allow AI reviewers to adjust their diligence level.\n• The study focuses on catching \"plausible-but-wrong\" patches.",
+      "sentiment": "neutral",
+      "keywords": [
+        "ai",
+        "coding",
+        "reviewer",
+        "effort",
+        "diligence",
+        "patches"
+      ],
+      "thumbnail": null,
+      "favicon": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=64",
+      "cluster_id": "f04423c2-93e2-522e-ae80-263dd0d78e1f",
+      "cluster_size": 1,
+      "cluster_topics": [
+        "effort",
+        "reviewer",
+        "much",
+        "code",
+        "plausible-but-wrong"
+      ],
+      "geo_title": "Why Do AI Reviewers Need Less Effort on Plausible Patches?",
+      "geo_keywords": [
+        "ai code review",
+        "effort setting in ai",
+        "ai coding agents",
+        "plausible-but-wrong patches",
+        "reasoning models in ai",
+        "catching errors with ai",
+        "trade cost for diligence",
+        "how much effort for ai reviewer"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "Why Do AI Reviewers Need Less Effort on Plausible Patches?",
+        "url": "https://arxiv.org/abs/2611.33639",
+        "description": "A study found that AI coding assistants generate code too quickly for human reviewers to keep up, prompting the development of reasoning models that allow AI reviewers to adjust their level of scrutiny. This research explores the optimal amount of effort an AI reviewer should exert to identify potentially flawed but still plausible code patches.",
+        "keywords": "ai code review, effort setting in ai, ai coding agents, plausible-but-wrong patches, reasoning models in ai, catching errors with ai, trade cost for diligence, how much effort for ai reviewer",
+        "datePublished": "Fri, 27 Nov 2026 00:00:00 -0500",
+        "dateModified": "Fri, 27 Nov 2026 00:00:00 -0500",
+        "author": {
+          "@type": "Organization",
+          "name": "ArXiv cs.AI",
+          "url": "https://arxiv.org"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "research",
+        "inLanguage": "en-US",
+        "wordCount": 55,
+        "articleBody": "A study found that AI coding assistants generate code too quickly for human reviewers to keep up, prompting the development of reasoning models that allow AI reviewers to adjust their level of scrutiny. This research explores the optimal amount of effort an AI reviewer should exert to identify potentially flawed but still plausible code patches."
+      }
+    },
+    {
+      "source_id": "arxiv_cs_ai",
+      "source_name": "ArXiv cs.AI",
+      "title": "SlicePlanner: Logic-Guided Agentic AI for Online QoS-Aware Network Slicing in Open RAN",
+      "url": "https://arxiv.org/abs/2611.33664",
+      "description": "arXiv:2611.33664v1 Announce Type: new \nAbstract: Adaptive network slicing in Open Radio Access Network (O-RAN) demands reconfiguration decisions that respond to live traffic conditions while remaining safe with respect to Service Level Agreement (SLA) constraints, a combination that purely data-driv",
+      "published": "Fri, 27 Nov 2026 00:00:00 -0500",
+      "score": 35,
+      "category": "research",
+      "weight": 7,
+      "format": "article",
+      "summary": "SlicePlanner is an AI system designed for adaptive network slicing in Open RAN environments, enabling real-time reconfigurations that maintain service quality while adhering to SLA constraints. This technology is crucial as it addresses the challenge of dynamically responding to traffic conditions safely and efficiently.",
+      "summary_detailed": "SlicePlanner is an AI system designed for adaptive network slicing in Open RAN environments. It makes real-time reconfiguration decisions based on current traffic conditions while ensuring compliance with SLAs. This technology aims to enhance Quality of Service (QoS) and operational efficiency in telecommunications networks by intelligently managing network resources.",
+      "summary_bullets": "• SlicePlanner uses logic-guided agentic AI for adaptive network slicing.\n• It responds to real-time traffic conditions in O-RAN environments.\n• The system ensures SLA compliance during reconfiguration decisions.",
+      "sentiment": "neutral",
+      "keywords": [
+        "sliceplanner",
+        "logic-guided",
+        "agentic",
+        "ai",
+        "qos",
+        "open ran",
+        "o-ran",
+        "sla"
+      ],
+      "thumbnail": null,
+      "favicon": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=64",
+      "cluster_id": "fad224ee-ea31-55b9-8e67-2079970aba1b",
+      "cluster_size": 1,
+      "cluster_topics": [
+        "network",
+        "slicing",
+        "open",
+        "ran",
+        "sliceplanner"
+      ],
+      "geo_title": "How does SlicePlanner optimize network slicing for dynamic traffic in O-RAN?",
+      "geo_keywords": [
+        "sliceplanner",
+        "logic-guided ai",
+        "online qos-aware network slicing",
+        "open ran",
+        "service level agreement constraints",
+        "adaptive network slicing",
+        "o-ran technology",
+        "ai for networking",
+        "how does sliceplanner work",
+        "what is logic-guided agentic ai",
+        "improving network performance with ai",
+        "ai in telecommunications"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "How does SlicePlanner optimize network slicing for dynamic traffic in O-RAN?",
+        "url": "https://arxiv.org/abs/2611.33664",
+        "description": "SlicePlanner is an AI system designed for adaptive network slicing in Open RAN environments, enabling real-time reconfigurations that maintain service quality while adhering to SLA constraints. This technology is crucial as it addresses the challenge of dynamically responding to traffic conditions safely and efficiently.",
+        "keywords": "sliceplanner, logic-guided ai, online qos-aware network slicing, open ran, service level agreement constraints, adaptive network slicing, o-ran technology, ai for networking",
+        "datePublished": "Fri, 27 Nov 2026 00:00:00 -0500",
+        "dateModified": "Fri, 27 Nov 2026 00:00:00 -0500",
+        "author": {
+          "@type": "Organization",
+          "name": "ArXiv cs.AI",
+          "url": "https://arxiv.org"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "research",
+        "inLanguage": "en-US",
+        "wordCount": 44,
+        "articleBody": "SlicePlanner is an AI system designed for adaptive network slicing in Open RAN environments, enabling real-time reconfigurations that maintain service quality while adhering to SLA constraints. This technology is crucial as it addresses the challenge of dynamically responding to traffic conditions safely and efficiently."
+      }
+    },
+    {
+      "source_id": "arxiv_cs_ai",
+      "source_name": "ArXiv cs.AI",
+      "title": "Interactive Proofs as a Unified Framework for Evaluating and Leveraging Verifiable Proof Generation by LLM Agents",
+      "url": "https://arxiv.org/abs/2611.33676",
+      "description": "arXiv:2611.33676v1 Announce Type: new \nAbstract: Recent advances in LLM-assisted theorem proving and program verification have attracted widespread attention. Beyond determining whether a proposition is true, LLM agents must produce evidence that can be independently checked by humans or formal veri",
+      "published": "Fri, 27 Nov 2026 00:00:00 -0500",
+      "score": 35,
+      "category": "research",
+      "weight": 7,
+      "format": "article",
+      "summary": "A new framework using interactive proofs aims to evaluate and leverage the verifiable proof generation capabilities of large language model (LLM) agents in theorem proving and program verification. This development is significant as it enhances the reliability and transparency of LLM outputs by ensuring they can be independently checked, addressing concerns about their accuracy and trustworthiness.",
+      "summary_detailed": "Recent advancements in Large Language Model (LLM)-assisted theorem proving and program verification have led to the development of interactive proofs as a unified framework for evaluating and leveraging verifiable proof generation by LLM agents. This approach goes beyond simply determining the truth of propositions, requiring LLMs to generate evidence that can be independently verified. The broader impact includes enhanced reliability in automated reasoning tasks across various fields such as mathematics, software engineering, and formal verification.",
+      "summary_bullets": "• Recent advancements focus on LLM-assisted theorem proving and program verification.\n• LLM agents need to generate verifiable proof evidence.\n• The framework aims to evaluate and leverage these proofs.",
+      "sentiment": "neutral",
+      "keywords": [
+        "llm agents",
+        "theorem proving",
+        "program verification",
+        "verifiable proof",
+        "independent checking"
+      ],
+      "thumbnail": null,
+      "favicon": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=64",
+      "cluster_id": "d6b6c1f8-f80d-54d9-a880-1be4b9bc3b30",
+      "cluster_size": 1,
+      "cluster_topics": [
+        "llm",
+        "agents",
+        "unified",
+        "advances",
+        "llm-assisted"
+      ],
+      "geo_title": "Why is interactive proofs crucial for LLM-assisted theorem proving?",
+      "geo_keywords": [
+        "interactive proofs",
+        "verifiable proof generation",
+        "llm theorem proving",
+        "llm program verification",
+        "unified framework for proof evaluation",
+        "independent proof checking",
+        "llm agent verification",
+        "automated theorem proving"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "Why is interactive proofs crucial for LLM-assisted theorem proving?",
+        "url": "https://arxiv.org/abs/2611.33676",
+        "description": "A new framework using interactive proofs aims to evaluate and leverage the verifiable proof generation capabilities of large language model (LLM) agents in theorem proving and program verification. This development is significant as it enhances the reliability and transparency of LLM outputs by ensuring they can be independently checked, addressing concerns about their accuracy and trustworthiness.",
+        "keywords": "interactive proofs, verifiable proof generation, llm theorem proving, llm program verification, unified framework for proof evaluation, independent proof checking, llm agent verification, automated theorem proving",
+        "datePublished": "Fri, 27 Nov 2026 00:00:00 -0500",
+        "dateModified": "Fri, 27 Nov 2026 00:00:00 -0500",
+        "author": {
+          "@type": "Organization",
+          "name": "ArXiv cs.AI",
+          "url": "https://arxiv.org"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "research",
+        "inLanguage": "en-US",
+        "wordCount": 56,
+        "articleBody": "A new framework using interactive proofs aims to evaluate and leverage the verifiable proof generation capabilities of large language model (LLM) agents in theorem proving and program verification. This development is significant as it enhances the reliability and transparency of LLM outputs by ensuring they can be independently checked, addressing concerns about their accuracy and trustworthiness."
+      }
+    },
+    {
+      "source_id": "arxiv_cs_ai",
+      "source_name": "ArXiv cs.AI",
+      "title": "Faster and Better Query (FBQ): Learning Future-Position Probes from the First Generated Token",
+      "url": "https://arxiv.org/abs/2611.33679",
+      "description": "arXiv:2611.33679v1 Announce Type: new \nAbstract: When a large language model (LLM) evicts prompt keys and values at the end of prefill, it must decide what to keep before it sees the queries from subsequent decoding steps. Generating a draft continuation can approximate those queries at the cost of",
+      "published": "Fri, 27 Nov 2026 00:00:00 -0500",
+      "score": 35,
+      "category": "research",
+      "weight": 7,
+      "format": "article",
+      "summary": "A new method called Faster and Better Query (FBQ) allows large language models to predict future user queries based on the first generated token, helping them more efficiently manage memory during processing. This technique is significant because it could lead to more effective use of resources in language models, improving both speed and accuracy.",
+      "summary_detailed": "A new method called Faster and Better Query (FBQ) has been proposed for large language models (LLMs), allowing them to predict future queries based on the first generated token, thus improving efficiency without sacrificing accuracy. This technique is particularly useful during the prefill phase when prompt keys and values are evicted, enabling the model to make better decisions about what information to retain. The broader impact could lead to more efficient and effective use of LLMs in various applications, potentially reducing computational resources needed for complex tasks.",
+      "summary_bullets": "• FBQ helps LLMs predict future query tokens.\n• It uses the first generated token to infer subsequent queries.\n• The method approximates future queries by generating a draft continuation.",
+      "sentiment": "neutral",
+      "keywords": [
+        "large language model",
+        "query",
+        "decoding",
+        "continuation",
+        "approximation"
+      ],
+      "thumbnail": null,
+      "favicon": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=64",
+      "cluster_id": "0f8f1222-0ac2-5e0e-9742-948009f764cf",
+      "cluster_size": 1,
+      "cluster_topics": [
+        "queries",
+        "query",
+        "fbq",
+        "future-position",
+        "probes"
+      ],
+      "geo_title": "Why is FBQ Important for Large Language Models?",
+      "geo_keywords": [
+        "faster and better query",
+        "future-position probes",
+        "large language model optimization",
+        "query approximation",
+        "decoding efficiency",
+        "next-token prediction",
+        "prompt key management",
+        "large language model techniques"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "Why is FBQ Important for Large Language Models?",
+        "url": "https://arxiv.org/abs/2611.33679",
+        "description": "A new method called Faster and Better Query (FBQ) allows large language models to predict future user queries based on the first generated token, helping them more efficiently manage memory during processing. This technique is significant because it could lead to more effective use of resources in language models, improving both speed and accuracy.",
+        "keywords": "faster and better query, future-position probes, large language model optimization, query approximation, decoding efficiency, next-token prediction, prompt key management, large language model techniques",
+        "datePublished": "Fri, 27 Nov 2026 00:00:00 -0500",
+        "dateModified": "Fri, 27 Nov 2026 00:00:00 -0500",
+        "author": {
+          "@type": "Organization",
+          "name": "ArXiv cs.AI",
+          "url": "https://arxiv.org"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "research",
+        "inLanguage": "en-US",
+        "wordCount": 54,
+        "articleBody": "A new method called Faster and Better Query (FBQ) allows large language models to predict future user queries based on the first generated token, helping them more efficiently manage memory during processing. This technique is significant because it could lead to more effective use of resources in language models, improving both speed and accuracy."
+      }
+    },
+    {
+      "source_id": "arxiv_cs_ai",
+      "source_name": "ArXiv cs.AI",
+      "title": "EVA: Evidence-seeking Visual Agent for Hallucination-Resistant Multimodal Reasoning",
+      "url": "https://arxiv.org/abs/2611.33706",
+      "description": "arXiv:2611.33706v1 Announce Type: new \nAbstract: Hallucinations in multimodal large language models (MLLMs) often arise from visual assumptions that go unchecked. Self-reflection, multi-agent debate, and counterfactual verification can reinforce erroneous conclusions when they rely on the same unver",
+      "published": "Fri, 27 Nov 2026 00:00:00 -0500",
+      "score": 35,
+      "category": "research",
+      "weight": 7,
+      "format": "article",
+      "summary": "EVA, a new system for multimodal reasoning, aims to reduce hallucinations in large language models by incorporating self-reflection, multi-agent debate, and counterfactual verification. This approach is crucial as it addresses common issues arising from unchecked visual assumptions in current models.",
+      "summary_detailed": "EVA, an evidence-seeking visual agent, is proposed to address hallucinations in multimodal large language models (MLLMs) by promoting self-reflection, multi-agent debate, and counterfactual verification. The system aims to enhance the reliability of these models by ensuring that visual assumptions are validated, thus preventing erroneous conclusions based on unchecked information. This approach could significantly impact the accuracy and trustworthiness of MLLMs across various applications, from content generation to decision-making systems.",
+      "summary_bullets": "• Hallucinations in MLLMs often result from unchecked visual assumptions.\n• Self-reflection, multi-agent debate, and counterfactual verification are proposed methods.\n• These methods aim to prevent reinforcement of erroneous conclusions.",
+      "sentiment": "neutral",
+      "keywords": [
+        "hallucinations",
+        "multimodal",
+        "large language models",
+        "self-reflection",
+        "counterfactualverification"
+      ],
+      "thumbnail": null,
+      "favicon": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=64",
+      "cluster_id": "03502fea-f109-5ead-914a-2fe4cc2a4608",
+      "cluster_size": 1,
+      "cluster_topics": [
+        "visual",
+        "multimodal",
+        "eva",
+        "evidence-seeking",
+        "hallucination-resistant"
+      ],
+      "geo_title": "Why is EVA Important for Multimodal Reasoning?",
+      "geo_keywords": [
+        "multimodal reasoning",
+        "hallucination-resistant systems",
+        "evidence-seeking agents",
+        "visual assumption verification",
+        "self-reflection in ai",
+        "multi-agent debate for correctness",
+        "counterfactual validation techniques",
+        "addressing hallucinations in ai"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "Why is EVA Important for Multimodal Reasoning?",
+        "url": "https://arxiv.org/abs/2611.33706",
+        "description": "EVA, a new system for multimodal reasoning, aims to reduce hallucinations in large language models by incorporating self-reflection, multi-agent debate, and counterfactual verification. This approach is crucial as it addresses common issues arising from unchecked visual assumptions in current models.",
+        "keywords": "multimodal reasoning, hallucination-resistant systems, evidence-seeking agents, visual assumption verification, self-reflection in ai, multi-agent debate for correctness, counterfactual validation techniques, addressing hallucinations in ai",
+        "datePublished": "Fri, 27 Nov 2026 00:00:00 -0500",
+        "dateModified": "Fri, 27 Nov 2026 00:00:00 -0500",
+        "author": {
+          "@type": "Organization",
+          "name": "ArXiv cs.AI",
+          "url": "https://arxiv.org"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "research",
+        "inLanguage": "en-US",
+        "wordCount": 40,
+        "articleBody": "EVA, a new system for multimodal reasoning, aims to reduce hallucinations in large language models by incorporating self-reflection, multi-agent debate, and counterfactual verification. This approach is crucial as it addresses common issues arising from unchecked visual assumptions in current models."
+      }
+    },
+    {
+      "source_id": "arxiv_cs_ai",
+      "source_name": "ArXiv cs.AI",
+      "title": "P-FedSkill: A Personalized Federated Skill Learning Framework under Task Heterogeneity",
+      "url": "https://arxiv.org/abs/2611.33707",
+      "description": "arXiv:2611.33707v1 Announce Type: new \nAbstract: Skill learning has become an important way to improve agent performance. However, agent trajectories often contain sensitive information and cannot be shared across clients, hindering collaborative skill learning. To tackle this issue, federated skill",
+      "published": "Fri, 27 Nov 2026 00:00:00 -0500",
+      "score": 35,
+      "category": "research",
+      "weight": 7,
+      "format": "article",
+      "summary": "A new framework called P-FedSkill was introduced to address the challenge of sharing sensitive agent trajectory data in collaborative skill learning, enabling personalized federated learning under task heterogeneity. This breakthrough is crucial for enhancing agent performance while protecting user privacy.",
+      "summary_detailed": "A new framework called P-FedSkill was introduced to address the challenge of collaborative skill learning in environments where agents' trajectories cannot be shared due to privacy concerns. This personalized federated skill learning approach aims to enhance agent performance under task heterogeneity by enabling collaborative learning without sharing sensitive data. The broader impact could lead to more effective and secure skill acquisition methods across various applications, potentially advancing fields such as robotics, autonomous systems, and artificial intelligence.",
+      "summary_bullets": "• Federated skill learning addresses the challenge of sharing sensitive agent trajectory data.\n• The framework, P-FedSkill, enables collaborative skill improvement under task heterogeneity.\n• It aims to enhance agent performance through personalized and shared learning processes.",
+      "sentiment": "neutral",
+      "keywords": [
+        "personalized federated learning",
+        "task heterogeneity",
+        "skill learning",
+        "agent performance",
+        "sensitive information"
+      ],
+      "thumbnail": null,
+      "favicon": "https://www.google.com/s2/favicons?domain=arxiv.org&sz=64",
+      "cluster_id": "efb642f8-defc-5e98-be9b-1c2455fe6f3a",
+      "cluster_size": 1,
+      "cluster_topics": [
+        "skill",
+        "learning",
+        "federated",
+        "agent",
+        "fedskill"
+      ],
+      "geo_title": "Why is skill learning crucial for agent performance improvement?",
+      "geo_keywords": [
+        "personalized federated skill learning",
+        "task heterogeneity in skill learning",
+        "federated learning for agents",
+        "overcoming privacy barriers in skill learning",
+        "collaborative skill learning framework",
+        "federated learning and agent performance",
+        "handling sensitive data in federated skill learning",
+        "addressing task heterogeneity in federated learning"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "Why is skill learning crucial for agent performance improvement?",
+        "url": "https://arxiv.org/abs/2611.33707",
+        "description": "A new framework called P-FedSkill was introduced to address the challenge of sharing sensitive agent trajectory data in collaborative skill learning, enabling personalized federated learning under task heterogeneity. This breakthrough is crucial for enhancing agent performance while protecting user privacy.",
+        "keywords": "personalized federated skill learning, task heterogeneity in skill learning, federated learning for agents, overcoming privacy barriers in skill learning, collaborative skill learning framework, federated learning and agent performance, handling sensitive data in federated skill learning, addressing task heterogeneity in federated learning",
+        "datePublished": "Fri, 27 Nov 2026 00:00:00 -0500",
+        "dateModified": "Fri, 27 Nov 2026 00:00:00 -0500",
+        "author": {
+          "@type": "Organization",
+          "name": "ArXiv cs.AI",
+          "url": "https://arxiv.org"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "research",
+        "inLanguage": "en-US",
+        "wordCount": 40,
+        "articleBody": "A new framework called P-FedSkill was introduced to address the challenge of sharing sensitive agent trajectory data in collaborative skill learning, enabling personalized federated learning under task heterogeneity. This breakthrough is crucial for enhancing agent performance while protecting user privacy."
+      }
+    }
+  ],
+  "enriched": true,
+  "enriched_at": "2026-11-27T09:02:05.934924+00:00",
+  "enricher_model": "qwen2.5-7b",
+  "clustered": true,
+  "clustered_at": "2026-11-27T09:02:06.026730+00:00",
+  "cluster_threshold": 0.3,
+  "geo_metadata": {
+    "date": "2026-11-27",
+    "generated_at": "2026-11-27T09:02:53.897073+00:00",
+    "schemas_generated": 30,
+    "topics": [
+      "adaptive network slicing",
+      "addressing hallucinations in ai",
+      "addressing task heterogeneity in federated learning",
+      "advanced ai scaling methods",
+      "advanced cad techniques for fluid rotors",
+      "advanced mathematics",
+      "advantages of using amd-specific version of llama.cpp",
+      "adversarial evasion",
+      "agent performance",
+      "agent-based modeling",
+      "agentic",
+      "agentic workflows",
+      "agents",
+      "ai",
+      "ai agents",
+      "ai code review",
+      "ai coding agents",
+      "ai configuration",
+      "ai configuration tuning",
+      "ai disease tracking",
+      "ai for networking",
+      "ai generated reviews",
+      "ai go-to-market",
+      "ai in medical research",
+      "ai in self-hosting",
+      "ai in telecommunications",
+      "ai makes self-hosting enjoyable",
+      "ai model convergence",
+      "ai model optimization",
+      "ai models",
+      "ai peer review detection",
+      "ai review",
+      "ai review technology assessment",
+      "ai review workflow analysis",
+      "ai safety for mental health",
+      "ai scaling",
+      "ai scaling techniques",
+      "ai self-hosting",
+      "ai solutions for disease monitoring",
+      "ai technology in healthcare",
+      "ai-driven hypothesis generation",
+      "aligned machine",
+      "amd",
+      "amd ryzen performance",
+      "amd specific llama.cpp fork",
+      "animal cognition",
+      "animals",
+      "approximation",
+      "artificial intelligence shared understanding",
+      "ashg techniques"
+    ],
+    "faq_items": [
+      {
+        "question": "What is the llama.cpp benchmark dashboard for AMD Ryzen and Radeon?",
+        "answer": "The llama.cpp benchmark dashboard evaluates AI model performance on AMD Ryzen and Radeon processors, helping users choose the best setup for their needs."
+      },
+      {
+        "question": "How can one build, train, and evaluate multi-agent systems?",
+        "answer": "Swarms, Flocks, Gangs offers methods to construct, train, and assess multi-agent systems, covering various aspects from initial design to final evaluation."
+      },
+      {
+        "question": "What is the latest AMD-specific version of llama.cpp?",
+        "answer": "An AMD-specific fork of llama.cpp has been created, optimizing AI model benchmarks for AMD hardware, providing better performance on AMD Ryzen and Radeon systems."
+      },
+      {
+        "question": "How has AI made self-hosting more accessible?",
+        "answer": "Recent advancements in AI have simplified self-hosting by making it easier to set up and manage AI models locally, enhancing privacy and control over data."
+      },
+      {
+        "question": "What role does Google play in AI agent development?",
+        "answer": "Google mandates that AI agents use its MCP servers, but issues arose when the Gmail app tried to send emails, highlighting the complexities in integrating AI with existing services."
+      }
+    ]
+  },
+  "geo_enriched": true,
+  "geo_enriched_at": "2026-11-27T09:02:53.897073+00:00"
+}
