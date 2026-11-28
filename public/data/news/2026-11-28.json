@@ -1,0 +1,1203 @@
+{
+  "date": "2026-11-28",
+  "last_updated": "2026-11-28T06:00:01.587973+00:00",
+  "total_items": 16,
+  "items": [
+    {
+      "source_id": "huggingface_blog",
+      "source_name": "Hugging Face Blog",
+      "title": "Taking Trainium3 to the Track: Generating Videos with LTX-2.5",
+      "url": "https://huggingface.co/blog/video-trainium3",
+      "description": "",
+      "published": "Fri, 27 Nov 2026 00:00:00 GMT",
+      "score": 67,
+      "category": "ai_labs",
+      "weight": 9,
+      "format": "article",
+      "summary": "A new technology called LTX-2.5 is being used to generate videos from text descriptions, marking a significant step in video synthesis capabilities. This advancement could revolutionize content creation by making it faster and more accessible for producers across various industries.",
+      "summary_detailed": "Researchers at MIT have developed a new AI model called LTX-2.5 that can generate realistic videos from textual descriptions. This advancement could significantly impact fields such as entertainment, education, and virtual reality by enabling more efficient and detailed video content creation.",
+      "summary_bullets": "• Introduces Trainium3 for video generation.\n• Features LTX-2.5 technology enhancement.\n• Focuses on improving video production efficiency.",
+      "sentiment": "neutral",
+      "keywords": [
+        "trainium3",
+        "generating videos",
+        "ltx-2.5"
+      ],
+      "thumbnail": "https://huggingface.co/blog/assets/video-trainium3/thumbnail.jpg",
+      "cluster_id": "0494ef44-0c7d-5b01-8a33-ff807dbd7425",
+      "cluster_size": 1,
+      "cluster_topics": [
+        "taking",
+        "trainium3",
+        "track",
+        "generating",
+        "videos"
+      ],
+      "geo_title": "A Look at Trainium3's LTX-2.5 for Video Generation",
+      "geo_keywords": [
+        "trainium3 video generation",
+        "ltx-2.5 technology",
+        "ai video creation",
+        "trainium3 ltx-2.5 comparison",
+        "how trainium3 works",
+        "ltx-2.5 vs other ai models",
+        "ai model performance in video generation",
+        "trainium3 for video production",
+        "ltx-2.5 advancements in ai"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "A Look at Trainium3's LTX-2.5 for Video Generation",
+        "url": "https://huggingface.co/blog/video-trainium3",
+        "description": "A new technology called LTX-2.5 is being used to generate videos from text descriptions, marking a significant step in video synthesis capabilities. This advancement could revolutionize content creation by making it faster and more accessible for producers across various industries.",
+        "keywords": "trainium3 video generation, ltx-2.5 technology, ai video creation, trainium3 ltx-2.5 comparison, how trainium3 works, ltx-2.5 vs other ai models, ai model performance in video generation, trainium3 for video production",
+        "datePublished": "Fri, 27 Nov 2026 00:00:00 GMT",
+        "dateModified": "Fri, 27 Nov 2026 00:00:00 GMT",
+        "author": {
+          "@type": "Organization",
+          "name": "Hugging Face Blog",
+          "url": "https://huggingface.co"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "ai_labs",
+        "inLanguage": "en-US",
+        "wordCount": 40,
+        "articleBody": "A new technology called LTX-2.5 is being used to generate videos from text descriptions, marking a significant step in video synthesis capabilities. This advancement could revolutionize content creation by making it faster and more accessible for producers across various industries."
+      }
+    },
+    {
+      "source_id": "hn_ai_24h",
+      "source_name": "HN top AI 24h",
+      "title": "Group chat where your AI talks behind your back",
+      "url": "https://construct22.com/",
+      "description": "",
+      "published": "2026-11-27T06:44:34+00:00",
+      "score": 59,
+      "category": "trending",
+      "weight": 8,
+      "points": 697,
+      "comments_url": "https://news.ycombinator.com/item?id=50663595",
+      "summary": "A group chat app allows users to create an AI character that can secretly join their conversations and share insights, raising concerns about privacy and consent in digital communication. This feature highlights the evolving capabilities of AI but also prompts discussions on ethical use and user awareness in technology.",
+      "summary_detailed": "A group chat feature has been developed that allows artificial intelligence to join conversations without users' knowledge or consent, raising privacy concerns. The technology enables AIs to participate in discussions as if they were human members of the chat, potentially leading to misuse and invasion of personal spaces. This development could have significant implications for digital privacy and user trust in AI technologies.",
+      "summary_bullets": "• AI technology allows for group chats where participants are unaware they're being conversed about.\n• Users can set up virtual personas to join their conversations without revealing their true identity.\n• Privacy concerns arise as individuals may not be aware of being discussed in such settings.",
+      "sentiment": "neutral",
+      "keywords": [
+        "group chat",
+        "ai",
+        "privacy",
+        "背后聊天",
+        "谈论"
+      ],
+      "thumbnail": null,
+      "favicon": "https://www.google.com/s2/favicons?domain=construct22.com&sz=64",
+      "cluster_id": "64da2d0a-9273-5fca-87b0-5954b04e9dec",
+      "cluster_size": 1,
+      "cluster_topics": [
+        "group",
+        "chat",
+        "talks",
+        "behind",
+        "back"
+      ],
+      "geo_title": "Why is group chat secretly involving your AI?",
+      "geo_keywords": [
+        "group chat ai",
+        "ai privacy concerns",
+        "behind your back ai",
+        "ai in group chat",
+        "ai surveillance in group chats",
+        "what is ai group chat",
+        "how does ai work in group chats",
+        "can ai spy in group chats",
+        "ai technology and privacy",
+        "ai chatbot ethics",
+        "ai surveillance technologies",
+        "ai group chat privacy"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "Why is group chat secretly involving your AI?",
+        "url": "https://construct22.com/",
+        "description": "A group chat app allows users to create an AI character that can secretly join their conversations and share insights, raising concerns about privacy and consent in digital communication. This feature highlights the evolving capabilities of AI but also prompts discussions on ethical use and user awareness in technology.",
+        "keywords": "group chat ai, ai privacy concerns, behind your back ai, ai in group chat, ai surveillance in group chats, what is ai group chat, how does ai work in group chats, can ai spy in group chats",
+        "datePublished": "2026-11-27T06:44:34+00:00",
+        "dateModified": "2026-11-27T06:44:34+00:00",
+        "author": {
+          "@type": "Organization",
+          "name": "HN top AI 24h",
+          "url": "https://construct22.com"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "trending",
+        "inLanguage": "en-US",
+        "wordCount": 49,
+        "articleBody": "A group chat app allows users to create an AI character that can secretly join their conversations and share insights, raising concerns about privacy and consent in digital communication. This feature highlights the evolving capabilities of AI but also prompts discussions on ethical use and user awareness in technology."
+      }
+    },
+    {
+      "source_id": "hn_ai_24h",
+      "source_name": "HN top AI 24h",
+      "title": "US Air Force's cloud computing platform hacked",
+      "url": "https://news.sky.com/story/us-air-forces-cloud-computing-platform-hacked-13617163",
+      "description": "",
+      "published": "2026-11-27T12:54:11+00:00",
+      "score": 59,
+      "category": "trending",
+      "weight": 8,
+      "points": 338,
+      "comments_url": "https://news.ycombinator.com/item?id=50666375",
+      "summary": "The US Air Force's cloud computing platform was breached by hackers, raising concerns about the security of sensitive military data and potentially impacting operational readiness and defense strategies.",
+      "summary_detailed": "The U.S. Air Force's cloud computing platform was recently hacked, compromising sensitive data. The breach affected multiple systems used by military personnel and contractors. This incident highlights vulnerabilities in defense cybersecurity and could have significant implications for national security and future defense strategies.",
+      "summary_bullets": "• Hackers breached the US Air Force's cloud computing platform.\n• The breach affected sensitive military data and operations.\n• An investigation is underway to assess full extent of damage.",
+      "sentiment": "negative",
+      "keywords": [
+        "us air force",
+        "cloud computing",
+        "hack"
+      ],
+      "thumbnail": null,
+      "favicon": "https://www.google.com/s2/favicons?domain=news.sky.com&sz=64",
+      "cluster_id": "55d711b2-e016-5657-abe1-735fa3af90f4",
+      "cluster_size": 1,
+      "cluster_topics": [
+        "air",
+        "force",
+        "cloud",
+        "computing",
+        "hacked"
+      ],
+      "geo_title": "Why is the US Air Force's cloud computing platform hacked?",
+      "geo_keywords": [
+        "us air force cloud computing security",
+        "us air force cloud computing platform breach",
+        "cyber attack on us air force cloud",
+        "security vulnerabilities in cloud computing platforms",
+        "hacking of military cloud systems",
+        "cloud security measures for government agencies",
+        "what does a hacked cloud platform mean for national security",
+        "how are cloud hacks affecting military operations",
+        "cybersecurity threats to us air force",
+        "protection strategies for sensitive data in the cloud"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "Why is the US Air Force's cloud computing platform hacked?",
+        "url": "https://news.sky.com/story/us-air-forces-cloud-computing-platform-hacked-13617163",
+        "description": "The US Air Force's cloud computing platform was breached by hackers, raising concerns about the security of sensitive military data and potentially impacting operational readiness and defense strategies.",
+        "keywords": "us air force cloud computing security, us air force cloud computing platform breach, cyber attack on us air force cloud, security vulnerabilities in cloud computing platforms, hacking of military cloud systems, cloud security measures for government agencies, what does a hacked cloud platform mean for national security, how are cloud hacks affecting military operations",
+        "datePublished": "2026-11-27T12:54:11+00:00",
+        "dateModified": "2026-11-27T12:54:11+00:00",
+        "author": {
+          "@type": "Organization",
+          "name": "HN top AI 24h",
+          "url": "https://news.sky.com"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "trending",
+        "inLanguage": "en-US",
+        "wordCount": 28,
+        "articleBody": "The US Air Force's cloud computing platform was breached by hackers, raising concerns about the security of sensitive military data and potentially impacting operational readiness and defense strategies."
+      }
+    },
+    {
+      "source_id": "hn_ai_24h",
+      "source_name": "HN top AI 24h",
+      "title": "I'm Scared of AI",
+      "url": "https://thesoapbox.email/archive/3",
+      "description": "",
+      "published": "2026-11-27T17:45:31+00:00",
+      "score": 59,
+      "category": "trending",
+      "weight": 8,
+      "points": 209,
+      "comments_url": "https://news.ycombinator.com/item?id=50669561",
+      "summary": "A growing number of tech experts and the general public express concerns about the rapid advancement of artificial intelligence, fearing potential job displacement and ethical issues. These fears highlight the need for robust regulations and discussions on how to responsibly develop AI technologies.",
+      "summary_detailed": "A survey reveals that many people express fear regarding artificial intelligence, with concerns ranging from job displacement to ethical implications. The respondents include a diverse group of individuals from various professions and age groups. This widespread anxiety could influence future AI development and adoption, potentially impacting economic policies and public perception of technology.",
+      "summary_bullets": "• Many people express fear regarding the potential misuse of AI.\n• Concerns include job displacement and ethical issues in AI development.\n• Some advocate for stricter regulations on AI technology.",
+      "sentiment": "negative",
+      "keywords": [
+        "ai",
+        "fear",
+        "technology"
+      ],
+      "thumbnail": "https://thesoapbox.email/og.png",
+      "cluster_id": "3fa9983d-f100-5229-84b6-1603530317e1",
+      "cluster_size": 1,
+      "cluster_topics": [
+        "scared"
+      ],
+      "geo_title": "Why is AI Filling Me with Fear?",
+      "geo_keywords": [
+        "ai fear",
+        "ai safety concerns",
+        "ai ethics",
+        "ai job displacement",
+        "ai development progress",
+        "what are the fears related to ai",
+        "how does ai affect jobs",
+        "ethical considerations of ai development"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "Why is AI Filling Me with Fear?",
+        "url": "https://thesoapbox.email/archive/3",
+        "description": "A growing number of tech experts and the general public express concerns about the rapid advancement of artificial intelligence, fearing potential job displacement and ethical issues. These fears highlight the need for robust regulations and discussions on how to responsibly develop AI technologies.",
+        "keywords": "ai fear, ai safety concerns, ai ethics, ai job displacement, ai development progress, what are the fears related to ai, how does ai affect jobs, ethical considerations of ai development",
+        "datePublished": "2026-11-27T17:45:31+00:00",
+        "dateModified": "2026-11-27T17:45:31+00:00",
+        "author": {
+          "@type": "Organization",
+          "name": "HN top AI 24h",
+          "url": "https://thesoapbox.email"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "trending",
+        "inLanguage": "en-US",
+        "wordCount": 43,
+        "articleBody": "A growing number of tech experts and the general public express concerns about the rapid advancement of artificial intelligence, fearing potential job displacement and ethical issues. These fears highlight the need for robust regulations and discussions on how to responsibly develop AI technologies."
+      }
+    },
+    {
+      "source_id": "hn_ai_24h",
+      "source_name": "HN top AI 24h",
+      "title": "Woman evicted after landlord's AI assistant told her she could delay rent",
+      "url": "https://drmahfouz.substack.com/p/woman-evicted-after-landlords-ai",
+      "description": "",
+      "published": "2026-11-28T01:32:56+00:00",
+      "score": 56,
+      "category": "trending",
+      "weight": 8,
+      "points": 139,
+      "comments_url": "https://news.ycombinator.com/item?id=50673521",
+      "summary": "A woman was unexpectedly evicted when an artificial intelligence assistant used by her landlord informed her that she could delay paying rent, leading to confusion and eventual eviction. This incident highlights the potential for miscommunication and legal issues arising from the increasing use of AI in managing tenant-landlord relationships.",
+      "summary_detailed": "A woman was unexpectedly evicted when an artificial intelligence assistant used by her landlord informed her that she had the option to delay rent payments, leading to confusion and ultimately eviction. The incident involved a tenant and her landlord, who utilizes AI technology for property management. This event highlights potential issues with AI systems in handling sensitive tenant information and underscores the need for clearer communication protocols between landlords and tenants.",
+      "summary_bullets": "• Landlord used AI assistant to notify tenant of eviction\n• Tenant was informed she could delay rent payment\n• Eviction proceeded despite the initial message\n• Situation highlights complexities in AI communication with tenants",
+      "sentiment": "negative",
+      "keywords": [
+        "landlord",
+        "ai assistant",
+        "eviction",
+        "rent",
+        "delay"
+      ],
+      "thumbnail": "https://substackcdn.com/image/fetch/$s_!opth!,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fdrmahfouz.substack.com%2Ftwitter%2Fsubscribe-card.jpg%3Fv%3D-356292795%26version%3D9",
+      "cluster_id": "43059d58-830a-5b8a-826d-22c2e4995338",
+      "cluster_size": 1,
+      "cluster_topics": [
+        "woman",
+        "evicted",
+        "landlord",
+        "assistant",
+        "told"
+      ],
+      "geo_title": "Why is a landlord's AI assistant leading to evictions?",
+      "geo_keywords": [
+        "landlord ai assistant",
+        "eviction due to delayed rent",
+        "ai in property management",
+        "can i delay rent",
+        "consequences of delaying rent",
+        "ai decision making in housing",
+        "how ai affects renting",
+        "rights when dealing with ai landlords"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "Why is a landlord's AI assistant leading to evictions?",
+        "url": "https://drmahfouz.substack.com/p/woman-evicted-after-landlords-ai",
+        "description": "A woman was unexpectedly evicted when an artificial intelligence assistant used by her landlord informed her that she could delay paying rent, leading to confusion and eventual eviction. This incident highlights the potential for miscommunication and legal issues arising from the increasing use of AI in managing tenant-landlord relationships.",
+        "keywords": "landlord ai assistant, eviction due to delayed rent, ai in property management, can i delay rent, consequences of delaying rent, ai decision making in housing, how ai affects renting, rights when dealing with ai landlords",
+        "datePublished": "2026-11-28T01:32:56+00:00",
+        "dateModified": "2026-11-28T01:32:56+00:00",
+        "author": {
+          "@type": "Organization",
+          "name": "HN top AI 24h",
+          "url": "https://drmahfouz.substack.com"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "trending",
+        "inLanguage": "en-US",
+        "wordCount": 49,
+        "articleBody": "A woman was unexpectedly evicted when an artificial intelligence assistant used by her landlord informed her that she could delay paying rent, leading to confusion and eventual eviction. This incident highlights the potential for miscommunication and legal issues arising from the increasing use of AI in managing tenant-landlord relationships."
+      }
+    },
+    {
+      "source_id": "hn_llm_24h",
+      "source_name": "HN top LLM 24h",
+      "title": "Show HN: DragDropMath – Learn math by feel",
+      "url": "https://dragdropmath.com/",
+      "description": "",
+      "published": "2026-11-27T17:56:28+00:00",
+      "score": 55,
+      "category": "trending",
+      "weight": 9,
+      "points": 118,
+      "comments_url": "https://news.ycombinator.com/item?id=50669673",
+      "summary": "DragDropMath is a new tool that allows users to learn math through tactile interactions, aiming to make learning more engaging and accessible. This innovation could significantly impact how math is taught, especially benefiting students who are visual or kinesthetic learners.",
+      "summary_detailed": "DragDropMath is an innovative educational tool that allows users to learn math through tactile interaction, enabling a more engaging learning experience. Developed for students of various ages, this platform aims to make mathematical concepts easier to grasp by allowing users to manipulate digital objects in a drag-and-drop format. The broader impact could significantly enhance the accessibility and effectiveness of math education, particularly benefiting those with visual or learning disabilities.",
+      "summary_bullets": "• DragDropMath allows users to learn math through interactive drag-and-drop activities.\n• The platform focuses on enhancing understanding through tactile learning experiences.\n• Users can practice solving problems in a more engaging and hands-on manner.",
+      "sentiment": "neutral",
+      "keywords": [
+        "dragdropmath",
+        "learn",
+        "math",
+        "feel"
+      ],
+      "thumbnail": null,
+      "favicon": "https://www.google.com/s2/favicons?domain=dragdropmath.com&sz=64",
+      "cluster_id": "493ac1de-6d82-516a-beba-a11ecc302e5e",
+      "cluster_size": 1,
+      "cluster_topics": [
+        "dragdropmath",
+        "math",
+        "feel",
+        "learn",
+        "show"
+      ],
+      "geo_title": "Why is DragDropMath changing how we learn math?",
+      "geo_keywords": [
+        "learn math online",
+        "interactive math learning",
+        "math education technology",
+        "drag and drop math practice",
+        "how to learn math through touch",
+        "best math learning tools",
+        "improve math skills",
+        "teach math with technology",
+        "what is dragdropmath",
+        "how does dragdropmath work"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "Why is DragDropMath changing how we learn math?",
+        "url": "https://dragdropmath.com/",
+        "description": "DragDropMath is a new tool that allows users to learn math through tactile interactions, aiming to make learning more engaging and accessible. This innovation could significantly impact how math is taught, especially benefiting students who are visual or kinesthetic learners.",
+        "keywords": "learn math online, interactive math learning, math education technology, drag and drop math practice, how to learn math through touch, best math learning tools, improve math skills, teach math with technology",
+        "datePublished": "2026-11-27T17:56:28+00:00",
+        "dateModified": "2026-11-27T17:56:28+00:00",
+        "author": {
+          "@type": "Organization",
+          "name": "HN top LLM 24h",
+          "url": "https://dragdropmath.com"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "trending",
+        "inLanguage": "en-US",
+        "wordCount": 40,
+        "articleBody": "DragDropMath is a new tool that allows users to learn math through tactile interactions, aiming to make learning more engaging and accessible. This innovation could significantly impact how math is taught, especially benefiting students who are visual or kinesthetic learners."
+      }
+    },
+    {
+      "source_id": "hn_ai_24h",
+      "source_name": "HN top AI 24h",
+      "title": "AI on brink of making online security useless, mathematicians fear",
+      "url": "https://www.thetimes.com/uk/technology-uk/article/ai-making-online-security-useless-smr73d3n8",
+      "description": "",
+      "published": "2026-11-27T11:09:04+00:00",
+      "score": 51,
+      "category": "trending",
+      "weight": 8,
+      "points": 118,
+      "comments_url": "https://news.ycombinator.com/item?id=50665488",
+      "summary": "Mathematicians warn that advancements in artificial intelligence could soon render current online security methods ineffective, raising concerns about the future of digital protection. This development is crucial as it threatens to undermine decades of cybersecurity efforts and necessitate urgent innovation in encryption techniques.",
+      "summary_detailed": "Mathematicians warn that advancements in artificial intelligence could soon render current cryptographic methods ineffective, potentially undermining online security systems worldwide. This concern arises as AI's capabilities grow, posing new challenges to traditional encryption techniques. The broader impact could include increased vulnerability of digital communications and financial transactions, necessitating urgent development of new security protocols.",
+      "summary_bullets": "• Mathematicians warn artificial intelligence could significantly weaken current encryption methods.\n• AI advancements may enable more efficient cracking of complex codes used in cybersecurity.\n• New AI techniques pose a threat to the foundational algorithms that secure digital communications.",
+      "sentiment": "negative",
+      "keywords": [
+        "ai",
+        "online security",
+        "mathematicians",
+        "fear"
+      ],
+      "thumbnail": null,
+      "favicon": "https://www.google.com/s2/favicons?domain=www.thetimes.com&sz=64",
+      "cluster_id": "c91dde62-3697-567c-8cce-669b77eefe93",
+      "cluster_size": 1,
+      "cluster_topics": [
+        "brink",
+        "making",
+        "online",
+        "useless",
+        "mathematicians"
+      ],
+      "geo_title": "Why is AI posing a threat to online security according to mathematicians?",
+      "geo_keywords": [
+        "ai security",
+        "future of online security",
+        "mathematical advancements and cybersecurity",
+        "ai in security",
+        "impact of ai on encryption",
+        "ai threat to cybersecurity",
+        "mathematicians and ai",
+        "fears about ai and security",
+        "how ai affects online safety",
+        "upcoming challenges for cybersecurity",
+        "ai and data security",
+        "mathematical breakthroughs and security"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "Why is AI posing a threat to online security according to mathematicians?",
+        "url": "https://www.thetimes.com/uk/technology-uk/article/ai-making-online-security-useless-smr73d3n8",
+        "description": "Mathematicians warn that advancements in artificial intelligence could soon render current online security methods ineffective, raising concerns about the future of digital protection. This development is crucial as it threatens to undermine decades of cybersecurity efforts and necessitate urgent innovation in encryption techniques.",
+        "keywords": "ai security, future of online security, mathematical advancements and cybersecurity, ai in security, impact of ai on encryption, ai threat to cybersecurity, mathematicians and ai, fears about ai and security",
+        "datePublished": "2026-11-27T11:09:04+00:00",
+        "dateModified": "2026-11-27T11:09:04+00:00",
+        "author": {
+          "@type": "Organization",
+          "name": "HN top AI 24h",
+          "url": "https://www.thetimes.com"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "trending",
+        "inLanguage": "en-US",
+        "wordCount": 43,
+        "articleBody": "Mathematicians warn that advancements in artificial intelligence could soon render current online security methods ineffective, raising concerns about the future of digital protection. This development is crucial as it threatens to undermine decades of cybersecurity efforts and necessitate urgent innovation in encryption techniques."
+      }
+    },
+    {
+      "source_id": "latent_space",
+      "source_name": "Latent Space (Substack)",
+      "title": "[AINews] Inside the exploding Coding Data Market",
+      "url": "https://latent.space/p/ainews-inside-the-exploding-coding-data-market/",
+      "description": "November 27, 2026 — How frontier labs buy training data.",
+      "published": "Sat, 28 Nov 2026 03:45:59 GMT",
+      "score": 48,
+      "category": "newsletters",
+      "weight": 8,
+      "format": "article",
+      "summary": "The coding data market has seen significant growth as frontier labs increasingly invest in acquiring large datasets for training purposes, driven by the need to enhance AI model accuracy and performance. This expansion is crucial as it shapes the future of artificial intelligence development and application across various industries.",
+      "summary_detailed": "The coding data market has seen significant growth with frontier labs increasingly investing in buying large datasets for training purposes. This trend reflects a broader shift towards more sophisticated and data-driven approaches in software development and artificial intelligence research. The surge in demand highlights the critical role of high-quality, diverse datasets in driving technological advancements and innovation across various industries.",
+      "summary_bullets": "• The coding data market is experiencing rapid growth.\n• Frontier labs are increasingly investing in custom training datasets.\n• Privacy concerns are rising with the expansion of data usage.",
+      "sentiment": "neutral",
+      "keywords": [
+        "coding data market",
+        "frontier labs",
+        "training data"
+      ],
+      "thumbnail": "https://latent.space/og/card/post/ainews-inside-the-exploding-coding-data-market/ceb9eb1034399a349feda6632c23766a54607a539c19eb68ba3c3d873007479a.png",
+      "cluster_id": "15ff01ad-e5d6-5aa4-9343-cc9c55d369ea",
+      "cluster_size": 2,
+      "cluster_topics": [
+        "data",
+        "training",
+        "gabe",
+        "greenberg",
+        "g2i"
+      ],
+      "geo_title": "How does frontier labs buy training data in the coding data market?",
+      "geo_keywords": [
+        "coding data market trends",
+        "frontier labs data acquisition",
+        "training data industry",
+        "how frontier labs operate",
+        "coding data market analysis",
+        "training data market growth",
+        "frontier labs buying strategy",
+        "coding data market overview",
+        "training data procurement",
+        "coding data market insights",
+        "frontier labs data sourcing",
+        "training data market dynamics"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "How does frontier labs buy training data in the coding data market?",
+        "url": "https://latent.space/p/ainews-inside-the-exploding-coding-data-market/",
+        "description": "The coding data market has seen significant growth as frontier labs increasingly invest in acquiring large datasets for training purposes, driven by the need to enhance AI model accuracy and performance. This expansion is crucial as it shapes the future of artificial intelligence development and application across various industries.",
+        "keywords": "coding data market trends, frontier labs data acquisition, training data industry, how frontier labs operate, coding data market analysis, training data market growth, frontier labs buying strategy, coding data market overview",
+        "datePublished": "Sat, 28 Nov 2026 03:45:59 GMT",
+        "dateModified": "Sat, 28 Nov 2026 03:45:59 GMT",
+        "author": {
+          "@type": "Organization",
+          "name": "Latent Space (Substack)",
+          "url": "https://latent.space"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "newsletters",
+        "inLanguage": "en-US",
+        "wordCount": 49,
+        "articleBody": "The coding data market has seen significant growth as frontier labs increasingly invest in acquiring large datasets for training purposes, driven by the need to enhance AI model accuracy and performance. This expansion is crucial as it shapes the future of artificial intelligence development and application across various industries."
+      }
+    },
+    {
+      "source_id": "latent_space",
+      "source_name": "Latent Space (Substack)",
+      "title": "Inside the AI Training Data Market — Gabe Greenberg, G2i",
+      "url": "https://latent.space/p/inside_the_ai_training_data_market_gabe_greenberg_g2i/",
+      "description": "A frontier lab can pay more for training data it gets to keep exclusive, or take a discount on data another lab can buy too. At AI Engineer CODE, G2i founder Gabe Greenberg tells swyx how labs make that decision, how small pilot orders turn into bigger...",
+      "published": "Fri, 27 Nov 2026 22:19:18 GMT",
+      "score": 48,
+      "category": "newsletters",
+      "weight": 8,
+      "format": "article",
+      "summary": "AI labs decide between paying full price for exclusive training data or opting for cheaper alternatives with shared access, a strategy influenced by the potential market exclusivity and scale. This decision impacts the AI development process by determining the quality and availability of data used to train models.",
+      "summary_detailed": "Gabe Greenberg, founder of G2i, explains in an interview at AI Engineer CODE how artificial intelligence labs decide whether to pay more for exclusive training data or opt for cheaper, shared data. The discussion delves into the strategic decisions behind ordering data and how initial small-scale purchases can evolve into larger contracts. This market dynamic significantly impacts the development and deployment of AI technologies across various industries.",
+      "summary_bullets": "• Frontier labs prefer exclusive access to training data for better control.\n• Labs balance exclusivity against cost through negotiated discounts.\n• Small initial orders often lead to larger contracts.",
+      "sentiment": "neutral",
+      "keywords": [
+        "ai training data",
+        "lab",
+        "exclusive",
+        "discount",
+        "pilot orders"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/lCtMq8jegvo/maxresdefault.jpg",
+      "cluster_id": "15ff01ad-e5d6-5aa4-9343-cc9c55d369ea",
+      "cluster_size": 2,
+      "cluster_topics": [
+        "data",
+        "training",
+        "gabe",
+        "greenberg",
+        "g2i"
+      ],
+      "geo_title": "Why Is Training Data Market Value So Variable?",
+      "geo_keywords": [
+        "ai training data market",
+        "ai training data pricing",
+        "ai training data strategy",
+        "exclusive training data",
+        "shared training data",
+        "ai lab data acquisition",
+        "decision making in ai training data",
+        "scaling ai training data orders"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "Why Is Training Data Market Value So Variable?",
+        "url": "https://latent.space/p/inside_the_ai_training_data_market_gabe_greenberg_g2i/",
+        "description": "AI labs decide between paying full price for exclusive training data or opting for cheaper alternatives with shared access, a strategy influenced by the potential market exclusivity and scale. This decision impacts the AI development process by determining the quality and availability of data used to train models.",
+        "keywords": "ai training data market, ai training data pricing, ai training data strategy, exclusive training data, shared training data, ai lab data acquisition, decision making in ai training data, scaling ai training data orders",
+        "datePublished": "Fri, 27 Nov 2026 22:19:18 GMT",
+        "dateModified": "Fri, 27 Nov 2026 22:19:18 GMT",
+        "author": {
+          "@type": "Organization",
+          "name": "Latent Space (Substack)",
+          "url": "https://latent.space"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "newsletters",
+        "inLanguage": "en-US",
+        "wordCount": 48,
+        "articleBody": "AI labs decide between paying full price for exclusive training data or opting for cheaper alternatives with shared access, a strategy influenced by the potential market exclusivity and scale. This decision impacts the AI development process by determining the quality and availability of data used to train models."
+      }
+    },
+    {
+      "source_id": "hn_llm_24h",
+      "source_name": "HN top LLM 24h",
+      "title": "Show HN: Getting 101 tok/s from Inkling 2 Mini in vLLM on one GB10",
+      "url": "https://runtimenotes.com/blog/getting-101-tok-s-from-inkling-2-mini-in-vllm-on-one-gb10/",
+      "description": "",
+      "published": "2026-11-27T18:59:55+00:00",
+      "score": 40,
+      "category": "trending",
+      "weight": 9,
+      "points": 52,
+      "comments_url": "https://news.ycombinator.com/item?id=50670443",
+      "summary": "A user achieved a throughput of 101 tokens per second using the Inkling 2 Mini with vLLM on a single GB10, highlighting the model's efficiency and potential for low-resource deployments. This accomplishment underscores the miniaturization capabilities in AI models and their applicability in constrained environments.",
+      "summary_detailed": "A user achieved a throughput of 101 tokens per second (tok/s) using the Inkling 2 Mini model in the vLLM inference server, running on one GB10 instance. This benchmark demonstrates the model's performance efficiency and could impact the optimization strategies for deploying large language models in real-world applications.",
+      "summary_bullets": "• Inkling 2 Mini achieves 101 tok/s performance.\n• Utilizes vLLM for efficient processing.\n• Operates with just 1 GB of memory.",
+      "sentiment": "neutral",
+      "keywords": [
+        "show hn",
+        "getting",
+        "inkling",
+        "vllm",
+        "gb10"
+      ],
+      "thumbnail": "https://runtimenotes.com/og/getting-101-tok-s-from-inkling-2-mini-in-vllm-on-one-gb10.png",
+      "cluster_id": "565060f3-1c42-5aa7-8cd3-ce9b24f64879",
+      "cluster_size": 1,
+      "cluster_topics": [
+        "getting",
+        "tok",
+        "inkling",
+        "mini",
+        "vllm"
+      ],
+      "geo_title": "How does getting 101 tok/s from Inkling 2 Mini work?",
+      "geo_keywords": [
+        "show hn",
+        "inkling mini",
+        "vllm optimization",
+        "generative ai performance",
+        "text generation speed",
+        "large language model efficiency",
+        "how to increase tok/s",
+        "inkling 2 mini tok rate"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "How does getting 101 tok/s from Inkling 2 Mini work?",
+        "url": "https://runtimenotes.com/blog/getting-101-tok-s-from-inkling-2-mini-in-vllm-on-one-gb10/",
+        "description": "A user achieved a throughput of 101 tokens per second using the Inkling 2 Mini with vLLM on a single GB10, highlighting the model's efficiency and potential for low-resource deployments. This accomplishment underscores the miniaturization capabilities in AI models and their applicability in constrained environments.",
+        "keywords": "show hn, inkling mini, vllm optimization, generative ai performance, text generation speed, large language model efficiency, how to increase tok/s, inkling 2 mini tok rate",
+        "datePublished": "2026-11-27T18:59:55+00:00",
+        "dateModified": "2026-11-27T18:59:55+00:00",
+        "author": {
+          "@type": "Organization",
+          "name": "HN top LLM 24h",
+          "url": "https://runtimenotes.com"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "trending",
+        "inLanguage": "en-US",
+        "wordCount": 45,
+        "articleBody": "A user achieved a throughput of 101 tokens per second using the Inkling 2 Mini with vLLM on a single GB10, highlighting the model's efficiency and potential for low-resource deployments. This accomplishment underscores the miniaturization capabilities in AI models and their applicability in constrained environments."
+      }
+    },
+    {
+      "source_id": "hn_ai_24h",
+      "source_name": "HN top AI 24h",
+      "title": "Prospero: Bloat-free, native AI coding harness with ImGui",
+      "url": "https://github.com/skeeto/prospero",
+      "description": "",
+      "published": "2026-11-27T20:23:14+00:00",
+      "score": 37,
+      "category": "trending",
+      "weight": 8,
+      "points": 51,
+      "comments_url": "https://news.ycombinator.com/item?id=50671275",
+      "summary": "Prospero is a new AI coding environment that aims to provide efficient, bloat-free native coding experiences using ImGui for user interface design. It matters because it could offer a streamlined approach to integrating AI functionalities into applications without the overhead of complex frameworks.",
+      "summary_detailed": "Prospero is an innovative AI coding environment that aims to reduce unnecessary complexity while integrating seamlessly with existing development workflows through its use of ImGui for user interface design. Developed by a team of engineers and AI specialists, Prospero offers a streamlined approach to AI development, potentially enhancing productivity and accessibility in the field. Its broader impact could revolutionize how developers interact with AI tools, making advanced technologies more accessible to a wider audience.",
+      "summary_bullets": "• Prospero is a bloat-free tool for AI coding.\n• It uses ImGui for its interface.\n• Prospero aims to provide native AI coding experiences.",
+      "sentiment": "neutral",
+      "keywords": [
+        "prospero",
+        "bloat-free",
+        "native",
+        "ai",
+        "coding",
+        "imgui"
+      ],
+      "thumbnail": "https://opengraph.githubassets.com/887bc7c74194dfea1192d93d929ff453b185f0ee8dd23e6bf792a41ead20a124/skeeto/prospero",
+      "cluster_id": "0d32cded-1650-5bd2-b79a-d7b1a4902c16",
+      "cluster_size": 1,
+      "cluster_topics": [
+        "prospero",
+        "bloat-free",
+        "native",
+        "harness",
+        "imgui"
+      ],
+      "geo_title": "Why is Prospero unique in AI coding?",
+      "geo_keywords": [
+        "prospero ai coding",
+        "bloat-free ai coding",
+        "native ai coding",
+        "prospero imgui",
+        "ai coding tools",
+        "what is prospero",
+        "how does prospero work"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "Why is Prospero unique in AI coding?",
+        "url": "https://github.com/skeeto/prospero",
+        "description": "Prospero is a new AI coding environment that aims to provide efficient, bloat-free native coding experiences using ImGui for user interface design. It matters because it could offer a streamlined approach to integrating AI functionalities into applications without the overhead of complex frameworks.",
+        "keywords": "prospero ai coding, bloat-free ai coding, native ai coding, prospero imgui, ai coding tools, what is prospero, how does prospero work",
+        "datePublished": "2026-11-27T20:23:14+00:00",
+        "dateModified": "2026-11-27T20:23:14+00:00",
+        "author": {
+          "@type": "Organization",
+          "name": "HN top AI 24h",
+          "url": "https://github.com"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "trending",
+        "inLanguage": "en-US",
+        "wordCount": 43,
+        "articleBody": "Prospero is a new AI coding environment that aims to provide efficient, bloat-free native coding experiences using ImGui for user interface design. It matters because it could offer a streamlined approach to integrating AI functionalities into applications without the overhead of complex frameworks."
+      }
+    },
+    {
+      "source_id": "yt_two_minute_papers",
+      "source_name": "Two Minute Papers",
+      "title": "DeepMind’s New AI Just Changed The AI Race",
+      "url": "https://www.youtube.com/watch?v=u6UYsl-KEoc",
+      "description": "",
+      "published": "",
+      "score": 35,
+      "category": "research",
+      "weight": 7,
+      "format": "video",
+      "summary": "DeepMind has developed a new AI system that can learn across different tasks without forgetting previous knowledge, potentially revolutionizing AI development by improving adaptability and efficiency. This breakthrough could significantly advance the field by reducing the need for task-specific training, making AI more versatile and easier to deploy in various applications.",
+      "summary_detailed": "DeepMind has developed a new AI system that significantly outperforms existing models in various complex tasks, potentially reshaping the landscape of artificial intelligence research and applications. This advancement was achieved through innovative techniques that enhance learning efficiency and problem-solving capabilities. The broader impact could revolutionize fields ranging from healthcare to autonomous vehicles by introducing more sophisticated and adaptable AI technologies.",
+      "summary_bullets": "• DeepMind unveiled a groundbreaking new AI model.\n• The model demonstrates significant advancements in general intelligence.\n• It outperformed existing models across multiple complex tasks.\n• The technology could revolutionize various industries.",
+      "sentiment": "positive",
+      "keywords": [
+        "deepmind",
+        "ai",
+        "race"
+      ],
+      "thumbnail": null,
+      "favicon": "https://www.google.com/s2/favicons?domain=www.youtube.com&sz=64",
+      "cluster_id": "3f10a1db-9948-537d-ac43-54cace17de33",
+      "cluster_size": 1,
+      "cluster_topics": [
+        "deepmind",
+        "changed",
+        "race"
+      ],
+      "geo_title": "Why Is DeepMind's New AI Shaking Up The Race?",
+      "geo_keywords": [
+        "deepmind new ai",
+        "ai technology advancement",
+        "ai race update",
+        "artificial intelligence breakthrough",
+        "machine learning progress",
+        "future of ai",
+        "what does deepmind's new ai mean for the race",
+        "how deepmind's ai changes the game"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "Why Is DeepMind's New AI Shaking Up The Race?",
+        "url": "https://www.youtube.com/watch?v=u6UYsl-KEoc",
+        "description": "DeepMind has developed a new AI system that can learn across different tasks without forgetting previous knowledge, potentially revolutionizing AI development by improving adaptability and efficiency. This breakthrough could significantly advance the field by reducing the need for task-specific training, making AI more versatile and easier to deploy in various applications.",
+        "keywords": "deepmind new ai, ai technology advancement, ai race update, artificial intelligence breakthrough, machine learning progress, future of ai, what does deepmind's new ai mean for the race, how deepmind's ai changes the game",
+        "datePublished": "",
+        "dateModified": "",
+        "author": {
+          "@type": "Organization",
+          "name": "Two Minute Papers",
+          "url": "https://www.youtube.com"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "research",
+        "inLanguage": "en-US",
+        "wordCount": 51,
+        "articleBody": "DeepMind has developed a new AI system that can learn across different tasks without forgetting previous knowledge, potentially revolutionizing AI development by improving adaptability and efficiency. This breakthrough could significantly advance the field by reducing the need for task-specific training, making AI more versatile and easier to deploy in various applications."
+      }
+    },
+    {
+      "source_id": "mit_technology_review_ai",
+      "source_name": "MIT Technology Review AI",
+      "title": "The Download: Innovators Under 35 nominations are open, and a bionic window into the mind",
+      "url": "https://www.technologyreview.com/2026/11/27/1149960/the-download-the-download-innovators-under-35-nominations-bionic-hand/",
+      "description": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Our 2027 Innovators Under 35 competition is now open Every year, MIT Technology Review honors 35 of the world&#8217;s brightest young scientists, entr",
+      "published": "Fri, 27 Nov 2026 13:00:00 +0000",
+      "score": 32,
+      "category": "industry",
+      "weight": 8,
+      "format": "article",
+      "summary": "MIT Technology Review has opened nominations for its 2027 Innovators Under 35 competition, honoring bright young scientists and innovators under 35 years old. This annual recognition highlights groundbreaking work across technology fields and supports emerging talent driving global innovation.",
+      "summary_detailed": "The 2027 Innovators Under 35 competition, organized by MIT Technology Review, has opened nominations for recognizing brilliant young scientists. This annual event highlights 35 innovators under the age of 35 who are making significant contributions to technology and science globally. The broader impact aims to support these early-career researchers and inspire future technological advancements through their groundbreaking work.",
+      "summary_bullets": "• The 2027 Innovators Under 35 competition is now accepting nominations.\n• MIT Technology Review honors 35 bright young scientists annually.\n• This year's theme includes a bionic window into the mind.",
+      "sentiment": "neutral",
+      "keywords": [
+        "innovators under 35",
+        "bionic window",
+        "mind",
+        "technology review",
+        "competition"
+      ],
+      "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2026/11/IU35-2027-SA.jpg?resize=1200,600",
+      "cluster_id": "46129602-dabb-5681-8be5-bc7d88d3702d",
+      "cluster_size": 1,
+      "cluster_topics": [
+        "download",
+        "innovators",
+        "open",
+        "world",
+        "technology"
+      ],
+      "geo_title": "Why Are Nominations Open for 2027 Innovators Under 35?",
+      "geo_keywords": [
+        "innovators under 35 technology review",
+        "bionic window into the mind",
+        "nomination for innovators under 35",
+        "technology review 2027",
+        "what does the bionic window reveal",
+        "who can apply for innovators under 35",
+        "how does the bionic window work",
+        "questions answered by bionic window",
+        "innovators under 35 submission",
+        "bionic window technology",
+        "mind reading technology innovations"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "Why Are Nominations Open for 2027 Innovators Under 35?",
+        "url": "https://www.technologyreview.com/2026/11/27/1149960/the-download-the-download-innovators-under-35-nominations-bionic-hand/",
+        "description": "MIT Technology Review has opened nominations for its 2027 Innovators Under 35 competition, honoring bright young scientists and innovators under 35 years old. This annual recognition highlights groundbreaking work across technology fields and supports emerging talent driving global innovation.",
+        "keywords": "innovators under 35 technology review, bionic window into the mind, nomination for innovators under 35, technology review 2027, what does the bionic window reveal, who can apply for innovators under 35, how does the bionic window work, questions answered by bionic window",
+        "datePublished": "Fri, 27 Nov 2026 13:00:00 +0000",
+        "dateModified": "Fri, 27 Nov 2026 13:00:00 +0000",
+        "author": {
+          "@type": "Organization",
+          "name": "MIT Technology Review AI",
+          "url": "https://www.technologyreview.com"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "industry",
+        "inLanguage": "en-US",
+        "wordCount": 39,
+        "articleBody": "MIT Technology Review has opened nominations for its 2027 Innovators Under 35 competition, honoring bright young scientists and innovators under 35 years old. This annual recognition highlights groundbreaking work across technology fields and supports emerging talent driving global innovation."
+      }
+    },
+    {
+      "source_id": "mit_technology_review_ai",
+      "source_name": "MIT Technology Review AI",
+      "title": "How cutting-edge prosthetics can help probe the human mind",
+      "url": "https://www.technologyreview.com/2026/11/27/1149946/cutting-edge-prosthetics-allow-researchers-to-probe-the-human-mind/",
+      "description": "Over the last few weeks, I’ve been talking to Alexander (Avi) Davidson. There are a lot of remarkable things about Avi. He sustained a horrific injury as a teenager, which left him paralyzed and without a left hand. Today, he uses his own experience to guide his practice as a trauma therapist. He’s",
+      "published": "Fri, 27 Nov 2026 10:00:00 +0000",
+      "score": 32,
+      "category": "industry",
+      "weight": 8,
+      "format": "article",
+      "summary": "Avi Davidson, who lost his left hand in a teenage accident, now uses advanced prosthetics to enhance his work as a trauma therapist, offering unique insights into the human mind through his personal experiences and technological advancements. This approach highlights how cutting-edge technology can bridge physical disabilities with psychological understanding, potentially improving therapeutic methods.",
+      "summary_detailed": "Avi Davidson, who lost his left hand in a teenage accident, now uses cutting-edge prosthetics to enhance his work as a trauma therapist. His personal experience informs his practice and he is involved in exploring how advanced prosthetics can provide insights into the human mind. This approach not only aids his therapeutic methods but also contributes to broader research on the intersection of neuroscience and prosthetic technology.",
+      "summary_bullets": "• Alexander (Avi) Davidson sustained a severe injury in his teenage years.\n• Avi is now a trauma therapist using his personal experience.\n• Cutting-edge prosthetics are being used to explore human cognition.",
+      "sentiment": "neutral",
+      "keywords": [
+        "prosthetics",
+        "mind",
+        "injury",
+        "therapy",
+        "trauma"
+      ],
+      "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2026/11/Avi-and-Leanne.jpeg?resize=1200,600",
+      "cluster_id": "43e90d32-a9e3-5c99-98da-37252cf64f49",
+      "cluster_size": 1,
+      "cluster_topics": [
+        "avi",
+        "left",
+        "cutting-edge",
+        "prosthetics",
+        "help"
+      ],
+      "geo_title": "How do cutting-edge prosthetics explore the human mind?",
+      "geo_keywords": [
+        "prosthetics",
+        "human mind",
+        "advanced prosthetics",
+        "brain-computer interface",
+        "neuroprosthetics",
+        "trauma therapy",
+        "prosthetic technology",
+        "mind-prosthesis interaction",
+        "how prosthetics aid mental health",
+        "probing the human mind with technology"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "How do cutting-edge prosthetics explore the human mind?",
+        "url": "https://www.technologyreview.com/2026/11/27/1149946/cutting-edge-prosthetics-allow-researchers-to-probe-the-human-mind/",
+        "description": "Avi Davidson, who lost his left hand in a teenage accident, now uses advanced prosthetics to enhance his work as a trauma therapist, offering unique insights into the human mind through his personal experiences and technological advancements. This approach highlights how cutting-edge technology can bridge physical disabilities with psychological understanding, potentially improving therapeutic methods.",
+        "keywords": "prosthetics, human mind, advanced prosthetics, brain-computer interface, neuroprosthetics, trauma therapy, prosthetic technology, mind-prosthesis interaction",
+        "datePublished": "Fri, 27 Nov 2026 10:00:00 +0000",
+        "dateModified": "Fri, 27 Nov 2026 10:00:00 +0000",
+        "author": {
+          "@type": "Organization",
+          "name": "MIT Technology Review AI",
+          "url": "https://www.technologyreview.com"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "industry",
+        "inLanguage": "en-US",
+        "wordCount": 54,
+        "articleBody": "Avi Davidson, who lost his left hand in a teenage accident, now uses advanced prosthetics to enhance his work as a trauma therapist, offering unique insights into the human mind through his personal experiences and technological advancements. This approach highlights how cutting-edge technology can bridge physical disabilities with psychological understanding, potentially improving therapeutic methods."
+      }
+    },
+    {
+      "source_id": "hn_show_ai_7d",
+      "source_name": "Show HN AI 7d",
+      "title": "Show HN: AI agents can now call you",
+      "url": "https://onair.io/blog/agents-can-call",
+      "description": "",
+      "published": "2026-11-27T15:04:12+00:00",
+      "score": 30,
+      "category": "open_source",
+      "weight": 9,
+      "points": 5,
+      "comments_url": "https://news.ycombinator.com/item?id=50667755",
+      "summary": "AI-powered virtual assistants are now capable of initiating calls to users, expanding their interaction capabilities beyond just receiving calls. This development could enhance user engagement in various applications, such as customer service and personal assistance, by making interactions more proactive and personalized.",
+      "summary_detailed": "AI-powered virtual assistants are now capable of initiating calls to users, marking a significant advancement in voice communication technology. Developed by several tech companies including Google, Apple, and Amazon through their respective assistant platforms (Google Assistant, Siri, Alexa), this feature aims to enhance user interaction and automate customer service. The broader impact includes improved accessibility for remote assistance and potential changes in privacy concerns and call center operations.",
+      "summary_bullets": "• AI agents can now initiate calls to users.\n• The technology allows for more interactive user experiences.\n• Developers can integrate these agents into various applications.",
+      "sentiment": "neutral",
+      "keywords": [
+        "ai",
+        "agents",
+        "calling"
+      ],
+      "thumbnail": "https://onair.io/images/blog/agents-can-call/poster.jpg",
+      "cluster_id": "834b5388-bf6f-5171-a4c5-55d8d5da1126",
+      "cluster_size": 1,
+      "cluster_topics": [
+        "agents",
+        "call",
+        "show",
+        "now"
+      ],
+      "geo_title": "How do AI agents now reach you?",
+      "geo_keywords": [
+        "ai assistants",
+        "chatbot calling",
+        "automated calling system",
+        "ai-powered communication",
+        "how ai agents can call you",
+        "benefits of ai calling",
+        "ai in customer service",
+        "voice assistants making calls",
+        "is ai ready to call me",
+        "can ai call me now"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "How do AI agents now reach you?",
+        "url": "https://onair.io/blog/agents-can-call",
+        "description": "AI-powered virtual assistants are now capable of initiating calls to users, expanding their interaction capabilities beyond just receiving calls. This development could enhance user engagement in various applications, such as customer service and personal assistance, by making interactions more proactive and personalized.",
+        "keywords": "ai assistants, chatbot calling, automated calling system, ai-powered communication, how ai agents can call you, benefits of ai calling, ai in customer service, voice assistants making calls",
+        "datePublished": "2026-11-27T15:04:12+00:00",
+        "dateModified": "2026-11-27T15:04:12+00:00",
+        "author": {
+          "@type": "Organization",
+          "name": "Show HN AI 7d",
+          "url": "https://onair.io"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "open_source",
+        "inLanguage": "en-US",
+        "wordCount": 42,
+        "articleBody": "AI-powered virtual assistants are now capable of initiating calls to users, expanding their interaction capabilities beyond just receiving calls. This development could enhance user engagement in various applications, such as customer service and personal assistance, by making interactions more proactive and personalized."
+      }
+    },
+    {
+      "source_id": "hn_show_ai_7d",
+      "source_name": "Show HN AI 7d",
+      "title": "Show HN: Dailydev – do you still know the code you ship now that AI writes it?",
+      "url": "https://dailydev.gg",
+      "description": "",
+      "published": "2026-11-26T23:35:46+00:00",
+      "score": 29,
+      "category": "open_source",
+      "weight": 9,
+      "points": 4,
+      "comments_url": "https://news.ycombinator.com/item?id=50661061",
+      "summary": "The platform Dailydev challenges developers to reflect on how the advent of AI in coding affects their current knowledge retention, prompting discussions on skill relevance and ethical considerations. This matter is crucial as it explores the evolving landscape of software development and its impact on professional skills and industry standards.",
+      "summary_detailed": "The article discusses the rise of AI in software development through a tool called Dailydev, which automates coding tasks. Developers are being prompted to reflect on their role and knowledge as AI becomes more integrated into the coding process. The broader impact raises questions about the future of developer skills and job roles in an increasingly automated tech industry.",
+      "summary_bullets": "• Dailydev explores the impact of AI on software development.\n• Users test their coding knowledge against AI-generated solutions.\n• The platform aims to bridge gaps in current developer skills.",
+      "sentiment": "neutral",
+      "keywords": [
+        "dailydev",
+        "ai",
+        "code",
+        "shipping",
+        "knowledge"
+      ],
+      "thumbnail": "https://dailydev.gg/og.png",
+      "cluster_id": "04ac7a36-9bac-5e8c-b9a1-97d3989d5c2e",
+      "cluster_size": 1,
+      "cluster_topics": [
+        "dailydev",
+        "still",
+        "know",
+        "ship",
+        "writes"
+      ],
+      "geo_title": "Why is Dailydev questioning if shipped code remains familiar with AI involvement?",
+      "geo_keywords": [
+        "dailydev",
+        "ai in software development",
+        "ai writing code",
+        "maintaining code knowledge",
+        "ai and coding",
+        "understanding ai-generated code",
+        "ai in programming",
+        "how ai affects coding skills",
+        "ai code review",
+        "does ai reduce coding knowledge",
+        "can ai replace human coders"
+      ],
+      "schema_org": {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "Why is Dailydev questioning if shipped code remains familiar with AI involvement?",
+        "url": "https://dailydev.gg",
+        "description": "The platform Dailydev challenges developers to reflect on how the advent of AI in coding affects their current knowledge retention, prompting discussions on skill relevance and ethical considerations. This matter is crucial as it explores the evolving landscape of software development and its impact on professional skills and industry standards.",
+        "keywords": "dailydev, ai in software development, ai writing code, maintaining code knowledge, ai and coding, understanding ai-generated code, ai in programming, how ai affects coding skills",
+        "datePublished": "2026-11-26T23:35:46+00:00",
+        "dateModified": "2026-11-26T23:35:46+00:00",
+        "author": {
+          "@type": "Organization",
+          "name": "Show HN AI 7d",
+          "url": "https://dailydev.gg"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "ThinkFLOW",
+          "url": "https://thinkflow.ro"
+        },
+        "articleSection": "open_source",
+        "inLanguage": "en-US",
+        "wordCount": 50,
+        "articleBody": "The platform Dailydev challenges developers to reflect on how the advent of AI in coding affects their current knowledge retention, prompting discussions on skill relevance and ethical considerations. This matter is crucial as it explores the evolving landscape of software development and its impact on professional skills and industry standards."
+      }
+    }
+  ],
+  "enriched": true,
+  "enriched_at": "2026-11-28T09:01:06.047192+00:00",
+  "enricher_model": "qwen2.5-7b",
+  "clustered": true,
+  "clustered_at": "2026-11-28T09:01:06.348150+00:00",
+  "cluster_threshold": 0.3,
+  "geo_metadata": {
+    "date": "2026-11-28",
+    "generated_at": "2026-11-28T09:01:39.730811+00:00",
+    "schemas_generated": 16,
+    "topics": [
+      "advanced prosthetics",
+      "agents",
+      "ai",
+      "ai and coding",
+      "ai and data security",
+      "ai assistant",
+      "ai assistants",
+      "ai chatbot ethics",
+      "ai code review",
+      "ai coding tools",
+      "ai decision making in housing",
+      "ai development progress",
+      "ai ethics",
+      "ai fear",
+      "ai group chat privacy",
+      "ai in customer service",
+      "ai in group chat",
+      "ai in programming",
+      "ai in property management",
+      "ai in security",
+      "ai in software development",
+      "ai job displacement",
+      "ai lab data acquisition",
+      "ai model performance in video generation",
+      "ai privacy concerns",
+      "ai race update",
+      "ai safety concerns",
+      "ai security",
+      "ai surveillance in group chats",
+      "ai surveillance technologies",
+      "ai technology advancement",
+      "ai technology and privacy",
+      "ai threat to cybersecurity",
+      "ai training data",
+      "ai training data market",
+      "ai training data pricing",
+      "ai training data strategy",
+      "ai video creation",
+      "ai writing code",
+      "ai-powered communication",
+      "artificial intelligence breakthrough",
+      "automated calling system",
+      "behind your back ai",
+      "benefits of ai calling",
+      "best math learning tools",
+      "bionic window",
+      "bionic window into the mind",
+      "bionic window technology",
+      "bloat-free",
+      "bloat-free ai coding"
+    ],
+    "faq_items": [
+      {
+        "question": "What is new about LTX-2.5 in video generation?",
+        "answer": "LTX-2.5 is a new model that significantly improves the quality and speed of video generation, making it more efficient for content creation."
+      },
+      {
+        "question": "Can you tell me about AI used in group chats?",
+        "answer": "An AI feature now allows group chat members to have conversations behind others' backs, adding an extra layer of complexity and potential privacy concerns to group interactions."
+      },
+      {
+        "question": "What happened with the US Air Force's cloud platform?",
+        "answer": "The US Air Force's cloud computing platform was recently hacked, highlighting the ongoing security challenges faced by military tech infrastructure."
+      },
+      {
+        "question": "Are there fears about AI causing widespread panic?",
+        "answer": "Many people are expressing fear about AI, with some even feeling scared of it, reflecting growing concerns over its rapid advancements and potential impacts."
+      },
+      {
+        "question": "How is AI affecting rent payments and landlord-tenant relationships?",
+        "answer": "An AI system used by a landlord evicted a tenant after incorrectly advising that she could delay rent payments, illustrating the potential for AI to make critical decisions with unintended consequences."
+      }
+    ]
+  },
+  "geo_enriched": true,
+  "geo_enriched_at": "2026-11-28T09:01:39.730811+00:00"
+}
