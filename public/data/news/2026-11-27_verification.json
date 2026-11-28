@@ -1,12 +1,58 @@
 {
   "date": "2026-11-27",
-  "generated_at": "2026-11-28T05:00:06.370286+00:00",
+  "generated_at": "2026-11-28T09:02:30.565152+00:00",
   "results": {
+    "huggingface_blog": {
+      "verification_status": "unconfirmed",
+      "sources_count": 1,
+      "sources": [
+        "Hugging Face Blog"
+      ]
+    },
+    "hn_ai_24h": {
+      "verification_status": "verified",
+      "sources_count": 2,
+      "sources": [
+        "ArXiv cs.AI",
+        "HN top AI 24h"
+      ]
+    },
+    "hn_llm_24h": {
+      "verification_status": "verified",
+      "sources_count": 2,
+      "sources": [
+        "ArXiv cs.AI",
+        "HN top LLM 24h"
+      ]
+    },
+    "latent_space": {
+      "verification_status": "unconfirmed",
+      "sources_count": 1,
+      "sources": [
+        "Latent Space (Substack)"
+      ]
+    },
     "arxiv_cs_ai": {
       "verification_status": "unconfirmed",
       "sources_count": 1,
       "sources": [
         "ArXiv cs.AI"
+      ]
+    },
+    "mit_technology_review_ai": {
+      "verification_status": "verified",
+      "sources_count": 2,
+      "sources": [
+        "MIT Technology Review AI",
+        "ArXiv cs.AI"
+      ]
+    },
+    "hn_show_ai_7d": {
+      "verification_status": "verified",
+      "sources_count": 2,
+      "sources": [
+        "ArXiv cs.AI",
+        "Show HN AI 7d"
       ]
     }
   }
